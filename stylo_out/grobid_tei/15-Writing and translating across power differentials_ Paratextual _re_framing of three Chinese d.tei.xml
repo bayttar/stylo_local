@@ -1,0 +1,977 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Writing and translating across power differentials: Paratextual (re)framing of three Chinese diasporic narratives</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author role="corresp">
+							<persName><forename type="first">Xiaoyan</forename><surname>Tan</surname></persName>
+							<email>u5548170@live.warwick.ac.uk</email>
+							<idno type="ORCID">0009-0008-1439-190X</idno>
+							<affiliation key="aff0">
+								<orgName type="department">School of Modern Languages and Cultures</orgName>
+								<orgName type="institution">University of Warwick</orgName>
+								<address>
+									<settlement>Coventry</settlement>
+									<country key="GB">UK</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff1">
+								<orgName type="department" key="dep1">School of Modern Languages and Cultures</orgName>
+								<orgName type="department" key="dep2">Faculty of Arts Building</orgName>
+								<orgName type="department" key="dep3">Faculty of Arts Building</orgName>
+								<orgName type="institution">University of Warwick</orgName>
+								<address>
+									<postCode>CV4 7AL</postCode>
+									<settlement>Coventry</settlement>
+									<country key="GB">UK</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff2">
+								<orgName type="institution">Xiaoyan Tan</orgName>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Writing and translating across power differentials: Paratextual (re)framing of three Chinese diasporic narratives</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date/>
+						</imprint>
+					</monogr>
+					<idno type="MD5">9948D13B861F3E38C1986A357AB83BBF</idno>
+					<idno type="DOI">10.1080/17449855.2025.2586097</idno>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.0" ident="GROBID" when="2026-02-25T19:53+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term>Paratexts</term>
+					<term>auto/biographical narratives</term>
+					<term>diasporic writers</term>
+					<term>anglophone agents</term>
+					<term>western-centric representations</term>
+					<term>(neo) colonialism</term>
+				</keywords>
+			</textClass>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>Grounded in postcolonial translation theories, this article analyses the paratexts of three Chinese diasporic auto/biographical narratives to investigate how diasporic authors and translators navigate nuances of meaning within asymmetrical power structures. It finds that, through paratextual mediation, anglophone agents frequently essentialize diasporic writers, (re)framing their personal narratives as ethnic testimonies that document Chinese suffering, state oppression, and societal inhumanity while idealizing western freedom and humanism, thereby constructing a dystopian China in contrast to a utopian west. To secure publication, some overseas Chinese authors also cater to western preferences and criticize their native homeland while extolling the host country, further reinforcing western-centric representations of Chinese alterity. The asymmetrical power relations between writers and publishers, and between Chinese and western cultural systems, perpetuate the alignment of translational and authorial paratexts with western publishing expectations. In a postcolonial context, knowledge production remains overshadowed by (neo)colonialism and (neo) imperialism, potentially perpetuating global hierarchies.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Introduction: Power, paratexts and translation</head><p>Attention to diasporic literature has become a recurrent trope in translation studies over recent years. While considerable research has explored the roles of diasporic literature and its relationship to "mainstream" society <ref type="bibr" target="#b6">(Barbour 2022)</ref>, relatively little attention has been devoted to the agency of immigrants and other translation agents (e.g., translators, editors, and critics) in (re)framing diasporic works and (de)colonizing cultural stereotypes. Furthermore, the impacts of power differentials -between the western publishing industry and individual diaspora authors, and between the original homeland and host country -on diasporic writing and paratextual mediation have also received scant attention. Within the broader translation process, which encompasses selecting, translating, and publishing texts, this article focuses on the publication stage and, more specifically, book packaging as a site where such power dynamics become particularly pronounced. This is evident in the mediation of paratexts (e.g., prefaces, reviews, and book jackets), which surround the text and serve as contested sites where authority over the presentation and interpretation of literature is negotiated <ref type="bibr">(Watts 2005, 3-4)</ref>. Paratextual mediation can be regarded as a form of translation. As Richard <ref type="bibr" target="#b48">Watts (2005)</ref> notes, in works by a perceived cultural Other, "the paratext can more precisely be understood as one of intralingual cultural translation", wherein the paratext metaphorically translates a text within the same language through abbreviated verbal and visual forms, offering readers access to cultural difference that they might not otherwise immediately grasp <ref type="bibr">(19)</ref>. Cultural translation primarily "focuses on the target culture", in which "the content of the message is changed to conform to the receptor culture in some way, and/or in which information is introduced which is not linguistically implicit in the original" <ref type="bibr">(Hron 2009, 42)</ref>. Within this process, multiple translation agents -and sometimes diasporic writers -(re)frame the text/paratext in accordance with cultural traditions and direct it towards the target readership.</p><p>This emphasis on the target culture is evident not only in colonial but also in postcolonial contexts, where enduring power imbalances between cultures render diasporic writing and translation increasingly fraught <ref type="bibr">(Robinson 2014, 28)</ref>. Compared to local authors, Chinese diasporic writers, often categorized as "ethnic minority writers" <ref type="bibr" target="#b23">(Jin 2021)</ref>, are frequently expected by anglophone readers and publishers to elaborate on various problems they suffered in their original countries. This expectation often overrides any critique of the host country, as such criticism may be construed as ingratitude. Writers who "dare to speak beyond these confines and make statements that are not in accord with dominant cultural interests" risk being perceived as problematic and will soon "encounter opposition, criticism, and censorship" <ref type="bibr">(Stephenson 2005, 115)</ref>. For instance, Rey <ref type="bibr" target="#b11">Chow (1998)</ref> found that, by resisting "the imposition of representational transparency and predictability on the other" (in this case, herself as a cultural other), she encountered hostile responses, including censorship and suppression (xxiii). As a result, ethnic minority writers often feel pressured to cater to the target culture by foregrounding the struggles associated with their abandoned homeland rather than offering critiques of their adopted one.</p><p>The impacts of power differentials become even more pronounced in the translation of works by diasporic communities migrating from the periphery to the centre, as Laetitia <ref type="bibr" target="#b30">Nanquette (2017)</ref> highlights, stating that "translations from the periphery often have low circulation because they do not specifically address the expectations of American readers" (62). This is particularly evident in the western selection and translation of Chinese diasporic literature. Western audiences are more receptive to narratives of trauma rooted in the country of origin than to those exposing alienation or despair within the host country. Such preferences reinforce their cultural self-assurance, fuelled by the "free world's" need to reaffirm the supremacy of its own sociopolitical system <ref type="bibr">(Xu 2008, 530)</ref>. This dynamic reflects orientalism, wherein the west constructs the east as its cultural and political opposite: exotic, backward, and in need of western enlightenment <ref type="bibr" target="#b38">(Said 1978)</ref>. Similarly, many western publishers seek stories predicated on human suffering, political trauma, and exotic/sensationalized portrayals of oppressive practices in the authors' homelands <ref type="bibr" target="#b31">(Ommundsen 2002;</ref><ref type="bibr" target="#b28">Liu and Tian 2018)</ref>. This tendency manifests not only in their selection of texts for translation but also in paratextual framing. In particular, their paratextual mediation often accentuates diasporic exoticism and homeland critique to satisfy western readers' expectations and maximize commercial gains, as this study will demonstrate. In this case, the translated knowledge is far from transparent but "masks the inequalities between cultures" <ref type="bibr">(Robinson 2014, 43)</ref>, further feeding into the preconceived assumptions of target audiences.</p><p>Existing scholarship primarily focuses on the recognition and representation of diaspora identities, their connections to cultural roots, and homeland-diaspora relations (e.g., <ref type="bibr" target="#b3">Asscher 2021;</ref><ref type="bibr" target="#b33">Pokorn 2023;</ref><ref type="bibr" target="#b47">Wang 2019)</ref> with limited attention to the constraints and impacts of power differentials in diasporic writing and in translation where multiple agents are involved. Notable exceptions include Peta <ref type="bibr" target="#b39">Stephenson (2005)</ref> and Nanquette (2017), who examine Chinese Australian diaspora writing and Iranian American diaspora translation respectively. These studies highlight general patterns in diasporic writing and translation without specifically addressing the mediation of text or paratext by agents. Besides, while there is no shortage of scholarship on the linguistic and cultural approaches to diasporic literature and translation, the sociopolitical dynamics underpinning immigrant works remain relatively under-explored. In light of these gaps, this article aims to advance understanding of how power differentials shape diasporic writing and translational mediation. Drawing on the postcolonial concept of translating across power differentials <ref type="bibr" target="#b36">(Robinson 2014)</ref>, understood here not merely as linguistic transfer but as a broader process of cultural translation, it examines the paratextual materials (blurbs, reviews, and authorial prefaces/statements) of three diasporic auto/biographical writings published by American and British presses: Amy <ref type="bibr">Tan's (1989)</ref> The Joy Luck Club, rooted in mother-daughter relationships and immigrant experiences; Hong Ying's (1998) Daughter of the River, a coming-of-age narrative of personal and sexual awakening; <ref type="bibr" target="#b9">and Chang Jung's ([1991]</ref> 2003) Wild Swans: Three Daughters of China, a family biography spanning 20th-century Chinese history. Only Hong's work was originally written in Chinese and later translated into English; the works of the other two were written in English. As the paratexts in all anglophone editions were newly added by publishers, this article treats such book packaging as a form of intralingual cultural translation.</p><p>All three have achieved significant international recognition. They have also been selected as case studies for this article because they exemplify how western paratextual mediation foregrounds narratives of Chinese suffering, political trauma, and social inequality to align with western readers' expectations and assumptions about a troubled China. Furthermore, with their prominent paratextual (re)framing, temporal proximity, and the frequent comparisons drawn between them despite differing thematic concerns, all three texts offer a compelling corpus through which to explore the impacts of power asymmetries on diasporic writing and its reception.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Three diasporic writings</head><p>Chinese diasporic writers are often expected to provide documentary-like accounts characterized by the realist mode, 1 while the "playfulness and reflexivity" evident in their writing is often overlooked <ref type="bibr">(Stephenson 2005, 113)</ref>. They are typically encouraged to recount narratives of persecution and suffering, but such stories are generally constrained to hardships endured in their countries of origin (115). Similarly, the following three diasporic auto/biographical writings, well known in the west, have often been appropriated by western publishers as testimonies of Chinese sufferings and (re)framed as critiques of China's culture, politics, and society.</p><p>Hong's Daughter of the River, translated by Howard Goldblatt and published by Bloomsbury Publishing and Grove Press in 1998, narrates her revolt against traditional gendered norms and details her personal traumas, particularly during the Great Famine of the early 1960s. However, her feminist critiques of domestic violence, sexual assault, and marital power dynamics are often eclipsed by reductive stereotypes of Chinese women as inherently subordinate and powerless. This reflects <ref type="bibr">what Bahramitash Roksana (2005)</ref> terms "feminist Orientalism", which "regards Oriental women only as victims and not as agents of social transformation" and "is blind to the ways in which women in the East resist and empower themselves" <ref type="bibr">(221)</ref><ref type="bibr">(222)</ref>. Instead, greater attention is given to Hong's candid, "family scandal" style of writing, as major English-language media outlets such as The New York Times and Kirkus Reviews praise her work for its rawness, authenticity, and frankness. However, little scholarly attention has been devoted to the literary and technical dimensions of her writing, as "people are just interested in the miserable story" <ref type="bibr">(Liu and Yang 2018, 42-44)</ref>.</p><p>Similarly, Amy Tan's The Joy Luck Club, published by Mandarin Paperbacks and Ivy Books in 1989, conveys the life experiences and personal traumas of four mothers through auto/biographical narratives. Lindo lost her family and endured hardship as a child bride; Yingying was abandoned by her husband and suffered the tragic loss of her baby; An-mei witnessed her mother's rejection and humiliation by her family; and Suyuan had to abandon her twin babies while gravely ill during wartime. This book also explores mother-daughter relationships and their identity recognition. It is nonetheless reframed through a western realist lens that overlooks its literary dimension, interpreting its fictional representations as ethnographic facts and aligning them with dominant sociopolitical narratives <ref type="bibr">(Adam 2005, 32-33)</ref>. The third text, Chang's Wild Swans, was first published by HarperCollins in 1991 and then reprinted by Harper Perennial in 2003 with an added authorial preface. It chronicles the lives of three generations in 20th-century China. Spanning the late imperial era to China's opening to the west, this family autobiography is renowned for its pointed critiques of Maoist policies and anti-communist stance. However, critics argue that it plays up to the western gaze and contributes to an orientalist spectacle of Chinese oppression <ref type="bibr">(Jin 2021, 224)</ref>. Although banned on the Chinese mainland, it became an international bestseller.</p><p>In general, the increasing publication and (re)framing of auto/biographical writings underscore a western inclination towards "testimonial access to subaltern experience" <ref type="bibr">(Ommundsen 2002, 67)</ref>. Although these writings present individual stories, they are often employed as a communal narrative to illustrate the collective experiences of Chinese communities. Amy Tan herself also noted that western inquiries often focus on her ethnic identity rather than her literary creativity <ref type="bibr">(cf. Adam 2005, 25)</ref>. In publication, these works risk falling into the "panopticist multiculturalist gaze" that seeks out confessional, autobiographical narratives from "Others" to satisfy an orientalist appetite for authenticity and lived experience <ref type="bibr">(Chow 1998, 99-104)</ref>. This can perpetuate an imagined China aligned with western stereotypes, preconditioning the reading experience for anglophone audiences and constraining the polysemy of Chinese culture.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Power differentials in a postcolonial context</head><p>Building on Richard <ref type="bibr" target="#b21">Jacquemond's (1992)</ref> discussion of the challenges inherent in translating across power differentials, Douglas <ref type="bibr" target="#b36">Robinson (2014)</ref> expands and synthesizes key frameworks governing translational inequality through four broad hypotheses, of which the first two are:</p><p>1. A dominated culture will invariably translate far more of a hegemonic culture than the latter will of the former.</p><p>2. When a hegemonic culture does translate works produced by the dominated culture, those works will be perceived and presented as difficult, mysterious, inscrutable, esoteric and in need of a small cadre of intellectuals to interpret them, while a dominated culture will translate a hegemonic culture's works accessibly for the masses. ( <ref type="formula">32</ref>)</p><p>These hypotheses are particularly illuminating in postcolonial contexts, where asymmetrical cultural exchange continues to shape literary production and translation. The first addresses disproportionate translations: as English functions as the hegemonic international language at the hypercentre, far more works are translated from English into other languages than vice versa <ref type="bibr">(Nanquette 2017, 51)</ref>. This global linguistic hierarchy significantly influences both writing and translation practices. Secondly, unbalanced cultural power also affects the way in which specific texts are translated and received: works from dominated cultures are often portrayed as "mysterious, strange, <ref type="bibr">[and]</ref> alien", with the orientalist positioned as "the only authoritative mediator" who imposes academic or specialist interpretations on readers <ref type="bibr">(Robinson 2014, 34)</ref>. Guided by "the steady and authoritative hand of the omniscient Orientalist-translator", readers are shaped by these commentaries, forming a particular image of the foreign culture <ref type="bibr">(Richard 1992, 150)</ref>. As this article will demonstrate, the paratextual endorsements, such as scholarly reviews and authorial prefaces/statements, also play a significant part in steering readers' interpretation of diaspora writings and images of the oriental other.</p><p>Beyond influencing translation language and shaping readers' interpretive access to translated texts, power differentials also reinforce the selective and stereotypical translation of dominated cultures. That resonates with two further hypotheses proposed by <ref type="bibr">Robinson:</ref> 3. A hegemonic culture will only translate those works by authors in a dominated culture that fit the former's preconceived notions of the latter.</p><p>4. Authors in a dominated culture who dream of reaching a large audience will tend to write for translation into a hegemonic language, and this will require some degree of compliance with stereotypes. <ref type="bibr">(2014,</ref><ref type="bibr">32)</ref> With their dominant position in the global market, hegemonic cultures "typically only select for translation works from that culture that fit prevailing stereotypes (simplistic images) of it" <ref type="bibr">(Robinson 2014, 34)</ref>. This tendency further nurtures and reinforces the hegemonic internalized stereotypes of the translated culture. Finally, power differentials also influence the manner in which diasporic writers craft their work for translation. Many writers aspire to have their texts translated into English or other dominant languages. In this context, power differentials compel authors to acquire "a thorough knowledge of English literary culture -especially its Orientalist or Eurocentric stereotyped image of the writer's own culture" to align their work with anglophone expectations and conventions (36). Apart from writing for translation, some authors choose to write directly in English since "everybody reads English" (35). In particular, many first-generation immigrant writers feel that "writing in English may be their only option" for reaching a broad audience <ref type="bibr">(Orchard 2023, 53)</ref>.</p><p>In synthesis, these perspectives offer a valuable framework for understanding how power imbalances shape diasporic writing and translation, and reinforce cultural hierarchies. Writing and translation are inherently entangled with power dynamics -be they professional, national, or international <ref type="bibr" target="#b2">(Asad 1986)</ref>. A postcolonial text travels in a space where cultural transfers "are inextricably linked to relationships of power which support acts of translation in all stages (i.e. in the choice of source texts, target languages, translators and publication outlets)" (Misrahi-Barak and Ravi 2017, 9-10). These relationships are often characterized by a binary opposition, such as the metropolitan centre versus the resisting periphery, or the dominance of cosmopolitan languages over supposedly inferior vernacular languages. In such asymmetrical contexts, translation becomes a site of negotiation, or as Loredana <ref type="bibr" target="#b34">Polezzi (2012)</ref> puts it, "an eminently political space" where every act of translation constitutes "an eminently political action" (353).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>From representation to mediation: Rethinking diasporic writings in translation</head><p>Recent years have witnessed a growing interest in diasporic works and translation, with particular attention devoted to diasporic and exophonic writing and empowerment <ref type="bibr" target="#b6">(Barbour 2022;</ref><ref type="bibr" target="#b24">Johnson 2023;</ref><ref type="bibr" target="#b49">Wright 2010)</ref>, and to the role of diasporic communities in translating homeland/diasporic works to construct identity <ref type="bibr" target="#b4">(Baer and Pokorn 2018;</ref><ref type="bibr" target="#b47">Wang 2019</ref>), foster intracultural communication <ref type="bibr" target="#b33">(Pokorn 2023)</ref>, and facilitate assimilation into host cultures <ref type="bibr">(Cronin 2006)</ref>. Additional research has examined the role of publishing houses and their agents in shaping diasporic translation, particularly regarding political and ideological motivations <ref type="bibr" target="#b3">(Asscher 2021;</ref><ref type="bibr" target="#b34">Polezzi 2012)</ref>. However, there is limited scholarship on the impacts of power differentials between homeland and diaspora on diasporic writing and translation, with notable exceptions including studies by Richard (1992), <ref type="bibr" target="#b39">Stephenson (2005)</ref> and <ref type="bibr" target="#b30">Nanquette (2017)</ref>. For instance, Stephenson examines Chinese Australian literature and highlights the ideological, cultural, and literary limitations that shape the production and reception of works by Chinese diasporic writers. These writers are often expected to detail the various migrant problems they faced before arriving in Australia. Besides, driven by the western fascination with "the Other", their literature often emphasizes an "ancient" Chinese past, exotic customs, and traditional cultural practices, catering to the western expectation that Chinese diasporic works should educate "Us" about China. Stephenson argues that the exoticization of Chinese lives for western consumption risks reinforcing stereotypes of Chineseness, limiting the renegotiation of Chinese Australian identities and restricting international readers' understanding of a more nuanced China. Her study focuses primarily on diasporic writers and sociocultural pressures imposed on them with limited attention to other translation agents who also potentially participate in shaping the representation and reception of immigrant works.</p><p>Going a step further, Nanquette draws on Lawrence Venuti's (1995) political approach and analyses the production milieu of Persian translations in the American market, focusing on institutions, translators, and publishers. Her analysis reveals that the translation of Persian texts largely relies on individual initiatives, mainly those of scholarly and ethnically Iranian American translators. Unlike other diasporic translations that might cater to anglophone expectations, these translations often reflect what translators themselves deem important for American readers, especially the rich heritage of classical Persian literature. However, the reception and circulation of such translations remain largely invisible in the American market. Nanquette notes that translations from the periphery that fail to meet the centre market's expectations often experience low circulation. Her research underscores the translatorial agency, but pays little attention to the role of migrants who "may also become translators", potentially shifting from "objects of translation to active subjects, to agents in the process" <ref type="bibr">(Polezzi 2012, 348)</ref>. They often live in/between and navigate multiple cultures, translating the traditions and cultures of their homeland for readers. Particularly, while most exophonic writers -those writing in a language other than their first or mother tongue -are not credited as their own translators on book jackets, their work is inherently a product of translation <ref type="bibr">(Johnson 2023, 713)</ref>. Indeed, their writing involves continuous negotiation between languages and cultures to render their narratives intelligible across cultural boundaries. This aspect of migrant agency is crucial for understanding the full dynamics of diasporic literature and its translation.</p><p>Agency is an essential issue in the intersection of translation and migration, wherein migrants can act as subjective agents in (self-)translation instead of solely being translated by others <ref type="bibr">(Cronin 2006, 45)</ref>. They can employ writing and translation as strategies to assimilate into the host community or to preserve the language and culture of their origins (52-56). In each case, the agents who authorize, enable, and finalize the product constitute "substantive variables that alter the balance of power and the dynamics between the mechanisms of production and reception of that which is being translated" <ref type="bibr">(Polezzi 2012, 348)</ref>. In this regard, it is essential to consider the writing and translation of texts as "intimately connected with power and its asymmetries, and [to regard] relationships among languages as marked by hierarchies of power" (353). It is also important to reflect in more depth on "the political nature of translation an undertaking in which migration can be a crucial case in point" (n.p.). In this context, this article examines the tensions among authors and translation agents and the cultures in which they are embedded, focusing on their (re)framing of paratexts which are instrumental in exposing the complex ideological struggles surrounding the text and the ideological appropriations to which it is subjected <ref type="bibr">(Watts 2005, 113)</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Writing and translating across power differentials: Paratextual mediation</head><p>As a translation tool, paratexts significantly mediate the relationship "between book, author, publisher, and reader". They comprise peritexts (e.g., covers, book jacket, and preface) that appear within the material book, and epitexts (e.g., reviews, interviews, and advertisements) that are published separately from the book <ref type="bibr">(Genette 1997, 1-5)</ref>. The following sections will explore paratextual mediation through three thematic lenses.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Reinforcing the east-west dichotomy</head><p>In (re)framing the three diasporic writings, American and British publishers selectively highlight comments that prompt readers to perceive China through the lens of an oppressive cultural stereotype. With their hegemonic power, British and American publishing, according to Venuti, has reaped the financial benefits of successfully imposing Anglo-American cultural values on a vast foreign readership, while producing cultures in the United Kingdom and the United States that are aggressively monolingual, unreceptive to the foreign, accustomed to fluent translations that invisibly inscribe foreign texts with English-language values and provide readers with the narcissistic experience of recognizing their own culture in a cultural other. <ref type="bibr">(1995,</ref><ref type="bibr">15)</ref> With their privileged position within global power dynamics and English as the lingua franca, anglophone publishers occupy a dominant role in shaping narratives and images of China for a global readership. This is particularly evident in their paratextual mediation, which often perpetuates a problematic linkage between literary writings and essentialized notions of Chineseness. China is frequently "imagined and argued as completely distinct from its counterparts in the West, even as such counterparts are presumed and accepted as models or criteria for comparison" <ref type="bibr">(Chow 2002, 117-118)</ref>. For instance, they foreground ideological comments on Chinese diaspora writings:</p><p>For to be an American -candid, optimistic, assertive and self-regarding -is everything likely to cause these mothers shame and consternation. Each daughter rejects the fairy-tale Orient and subservient role of the traditional Chinese woman for her novel but precarious place in America. <ref type="bibr">(Tan 1989a</ref>; emphasis added) a story of oppression characterized by the paranoia of The Handmaid's Tale <ref type="bibr">[...]</ref>. A haunting autobiography that could stir the most ungrateful critic of the U.S. government into thanksgiving for the freedoms that others only dream of and that we often take for granted [...] it is the story of so many suppressed souls who are looking for a champion. Columbus Post-Dispatch. <ref type="bibr">(Hong 1998b;</ref><ref type="bibr">emphasis added)</ref> Of all the personal histories to have emerged out of China's 20th-century nightmare, Wild Swans is [...] like a ghastly oriental fairytale, but the authority and the reticent passion with which Jung Chang speaks her memories-and those of others is unmistakable. Colin Thubron, Spectator. <ref type="bibr" target="#b10">(Chang 2003;</ref><ref type="bibr">emphasis added)</ref> In these paratextual presentations, China is frequently contrasted with western countries, particularly the US, which is extolled as a model of freedom. American citizens are depicted as "optimistic" and superior to their Chinese counterparts, who are portrayed as "subservient" and confined to an inhumane society. This ideological framing constructs a binary opposition and reinforces US hegemonic culture and its standard "universal humanity" against which other cultures are judged. However, this binary perspective risks misrepresenting the authorial identity and position, as Hong maintains that she does not take sides but views herself as a writer narrating universal contents <ref type="bibr" target="#b16">(Hawksley 2021)</ref>. Still, publishers selectively highlight comments that "demonize China and the Communist regime", thereby making "Us" non-Chinese feel good about ourselves and "reaffirming the cultural arrogance of Western readers convinced of the superiority of Western 'democracy'" <ref type="bibr">(Stephenson 2005, 113)</ref>.</p><p>Paradoxically, this "democracy" appears limited to Americans, as Amy Tan noted that her mother, as an immigrant, often faced discrimination in America due to her "broken" English and "imperfect" thoughts <ref type="bibr">(1990, n.p.)</ref>. It implies that minority groups need to cast off their cultural identity and fully assimilate into the dominant culture to gain recognition. This "paradox of America" <ref type="bibr" target="#b8">(Bulosan 1943</ref>) betrays (neo) colonialist and (neo-)imperialist overtones, according to which the postcolonial world remains "in the shadows of Orientalism" that positions the west as superior to the east <ref type="bibr">(Jin 2021, 136)</ref>. These ideological comparisons not only fit into western hegemonic mentality but perpetuate a limited, biased portrayal of Chinese culture, reinforcing enduring stereotypes such as the "yellow peril", which framed East Asians as a threatening, inscrutable, and monolithic force poised to undermine western civilization <ref type="bibr">(Sykes 2022, 280)</ref>.</p><p>Such reductive descriptions are also evident in anglophone indiscriminate comparisons of Chinese novels with foreign counterparts. For instance, Hong's narrative is regarded as similar to Margaret Atwood's (1985) The Handmaid's Tale, which exposes national inhumane treatments of citizens. However, Hong's autobiography distinguishes itself by focusing on "the physical and emotional experiences of the author rather than on the history of the nation" <ref type="bibr">(King 2000, 94)</ref>. Within this unilateral labelling, Hong's personal narrative is appropriated to substantiate broader collective statements with the added significance of political climate, revealing the "mainstream Anglo-American publishing's drive to domesticate foreign texts" and to cater to western dominant narratives <ref type="bibr">(Wright 2010, 36)</ref>. In this case, autobiographical discourse becomes less about writers themselves and more about their positioning within a broader sociopolitical context. The authorial aesthetics is overshadowed by national politics, while literariness is eclipsed by information retrieval, as if literature should be "read as sociology, or politics" (cf. <ref type="bibr">Adam 2005, 10)</ref>. Such essentialist reduction is problematic, particularly when authors are not generalizing a group but rather "writing a very specific story" (10). This information-retrieval approach to Chinese literary works risks further reinforcing ethnic stereotyping and perpetuating "an excess of meaningfulness accorded to 'China'", through which the country is constructed as the west's Other and "everything happening in that country is invested with more than 'normal' significance" <ref type="bibr">(Ang 2001, 32)</ref>.</p><p>It is not uncommon for Chinese diasporic literature to be reinterpreted through a negative and essentialized lens, since Americans are particularly interested in the "hard life in China" and the orientalist binary of "an uncivilized/inhuman China versus a civilized/human America" <ref type="bibr">(Adams 2005, 94)</ref>. Within such a western dominant narrative, all the signifiers of Chineseness would have to be "written off as a mythification, a degradation and distortion that has little to do with the 'real' China and 'real' Chinese people" <ref type="bibr">(Chow 1998, 105)</ref>. Similarly, these ideological comments surrounding diasporic works contribute to framing China as a dystopia. Since the 1989 Tiananmen Square incident, western media have unequivocally highlighted China's authoritarian governance and repression <ref type="bibr">(Sykes 2022, 276)</ref>. Rising anti-communist sentiment in the west, alongside political and commercial motivations, has further driven publishers to amplify anti-China narratives. Although China has undergone significant transformation since the 1980s, as it has increasingly become more democratic <ref type="bibr" target="#b37">(Rowen 1999)</ref>, it is striking how little the occidental image has changed. In a postcolonial context, western hegemonic ideologies continually dominate and hierarchize global representations.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Exoticizing and stereotyping the cultural other</head><p>Hegemonic cultures tend to package works in ways that align with prevailing stereotypes of the source culture <ref type="bibr">(Robinson 2014, 34)</ref>. This pattern is evident in the published book blurbs. While for Wild Swans the 1991 first edition and the 2003 new edition have been used, 2 all other British and American blurbs analysed below are the earliest editions, published simultaneously:</p><p>In general, these blurbs primarily frame these works as sources of information about China's politics and cultures, aligning them with western self-serving narratives about life under non-democratic regimes. This framing complicates the personal narratives and risks appropriating them as social documents rather than literary works. Besides, although these diasporic works display distinct thematic concerns, they are often grouped together because of their emphasis on repression and hardship, which diminishes the potential for the original texts to assert their own aesthetic and narrative claims. This reflects a pervasive western expectation that diasporic works rooted in Chinese culture should offer authentic, confessional testimonies about ethnic experience -what Yunte <ref type="bibr" target="#b20">Huang (2002)</ref> identifies as "a typical ethnographic strategy, textualizing a Chinese reality" (166). Furthermore, exotic traditions and cultures are accentuated, as exemplified by the American blurb for The Joy Luck Club, which suggests that within asymmetrical power relations, marginalized cultural products are often "lauded and fetishised for their 'exotic' flavour" <ref type="bibr">(Barbour 2022, 61)</ref>. Similarly, the British blurb reframes the personal conflict between mother and daughter as a broader cultural clash between US and Chinese values. Auto/biography here is not viewed as a private act of self-expression but as a cultural act of self-representation, where individual experience is inextricably linked to collective identity.</p><p>Employing its hegemonic power, the western world can "read whatever the ethnic subjects produce as the offerings of the native informants, of their secret history of</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Wild Swans</head><p>Daughter of the River The Joy Luck Club makes visible, intimate and immediate the pain and horror that are cloaked in the silence of China's recent history. Howard Chua-Eoan, Time <ref type="bibr" target="#b9">(Chang 1991)</ref> with the nightmare of Mao's China, comparisons with Jung Chang's Wild Swans will be inevitable; but Ying's book more closely resembles Amy Tan's The Joy Luck Club [ . . . ] its severity makes the story all the more heartbreaking. The Times <ref type="bibr">(Hong 1998a)</ref> Amy Tan writes with a prose that sings sincerely and unsentimentally of the suffering and strength of one culture, and the ease and unhappiness of another. <ref type="bibr">(Tan 1989a)</ref> reveals the whole tragic history of China's 20th century . . . <ref type="bibr">[Chang]</ref> was raised in the privileged circles of China's Communist elite, but was to take the unimaginable step of questioning Mao himself. <ref type="bibr" target="#b10">(Chang 2003)</ref> a memoir of China unlike any other. [ . . . ] With raw intensity and fearless honesty, Daughter of the River follows China's trajectory through one woman's life, from the Great Famine through the Cultural Revolution to Tiananmen Square. <ref type="bibr">(Hong 1998b)</ref> where a child, promised in marriage at two and delivered at 12, can, with cunning, free herself; where a rich man's concubine secures her daughter's future by killing herself. Washington Post Book World. <ref type="bibr">(Tan 1989b)</ref> suffering and defilement" <ref type="bibr">(Jian 2008, 531)</ref>. Beyond reinforcing western-centric ideology, this tendency compels writers to centre their narratives around themes compatible with this preconceived "reality", thereby sustaining rather than challenging hegemonic representations of the east. For instance, following the tremendous success of Wild Swans, Chang authored more works in a similar vein, including Mao: The Unknown Story (2005), co-authored with her husband Jon Halliday. This book offers a critical biography of Mao and his governance, and, like Chang's other works, is marketed under the label "author of Wild Swans". The popularity of her works has produced the "Wild Swans factor" <ref type="bibr">(Ommundsen 2002, 68)</ref>, which not only drives western readers to hunger for more "horror stories" about China and to demonstrate less receptivity to other genres and themes, but has also "created an arbitrary standard against which other Chinese diasporic writers have been judged, thus reinforcing cultural stereotypes for Western consumption" <ref type="bibr">(Stephenson 2005, 112)</ref>. In this context, although Hong's work foregrounds personal experiences while relegating political contexts to the background, comparisons with Wild Swans are nevertheless considered "inevitable", as noted in the scholarly comments recorded in the blurb.</p><p>The western fascination with the stereotypical "reality effect" also encourages publishers to market more "realistic" stories, focusing more on the past than contemporary Chinese modes of cultural expression. However, the reliability of such autobiographies and recollections is doubtful, as "the materials of the past are shaped by memory and imagination to serve the needs of present consciousness" <ref type="bibr">(Eakin 1985, 5)</ref>. The stereotyping and framing of China through such politicized narratives lead readers to perceive Chinese literature as "a kind of collective linguistic/stylistic mandate under which writing has to be reflectionist, has to be an authentic copy of the nation's reality" <ref type="bibr">(Chow 2002, 121-122)</ref>. Such exoticizing tendencies further highlight the gap between the literary producer from the periphery and the reader situated at the centre.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Writing and (self-)orientalizing for publication</head><p>Since the occidental readership "prefers to turn to works which confirm [its] prejudices and [its] representation of the Orient" <ref type="bibr">(Jacquemond 1992, 155)</ref>, many diasporic authors tend to self-orientalize their traditions and systems to attract anglophone readers. Their representations of China are often shaped by "an a priori surrender to, rather than problematization of, Western perspectives and categories" <ref type="bibr">(Chow 2002, 118)</ref>. One strategy for meeting western hegemonic expectations is to juxtapose a negative portrayal of China with the depiction of a promising new home:</p><p>Everything about London was exhilarating. [ . . . ] I was born into the Communist elite, and saw how class-ridden and hierarchical Mao's China was [ . . . ] people in Britain have dignity, and the underprivileged are not abused or downtrodden as they were under Mao <ref type="bibr">[ . . . ]</ref>. So it was with both reason and emotion that I fell in love with Britain <ref type="bibr">[ . . . ]</ref>. He <ref type="bibr">[Mao]</ref> was as evil as Hitler or Stalin, and did as much damage to mankind as they did <ref type="bibr">(Chang 2003, xiv-xxvii;</ref><ref type="bibr">emphasis added)</ref> In her preface, Chang expresses deep admiration for Britain and celebrates her immigration experience while sharply criticizing China. Her narrative panders to occidentalist discourse that idealizes the west as an ideal refuge for immigrants and often canonizes the UK "as modern, as civilised, as superior, as developed and progressive" <ref type="bibr">(Venn 2000, 3)</ref>. Furthermore, her comparison of Mao to Hitler resembles the western tendency to equate China's Cultural Revolution with the German Holocaust, reinforcing demonization rhetoric about China and potentially amplifying these statements into globally circulating master narratives <ref type="bibr">(Tan 2025, 590)</ref>. Migrants are often "bound by the happiness duty", which obliges them to suppress criticism of the host country and frame migration as a positive experience (cf. <ref type="bibr">Barbour 2022, 67)</ref>. In Chang's case, her alignment with the rhetoric promoted by the host country aids in constructing a new identity. Besides, diasporic authors from the dominated culture are driven to write in English, especially within a western hegemonic context where "if they are to represent themselves, they will have to do so using our language" <ref type="bibr">(Jacquemond 1992, 148)</ref>. However, writing in the host country's language may inadvertently "bolster the political and economic power of monolingual national cultures" <ref type="bibr">(Barbour 2022, 60</ref>). Chang's English confession not only perpetuates such monolingual hegemony, but also reflects what Qiao Guoqiang (2018) describes as a condition of being "culturally self-colonized -a new version of neocolonialism" (9).</p><p>While many diasporic narratives actively echo western expectations by emphasizing political trauma or cultural repression, others are involuntarily reshaped by editorial and publishing forces. For instance, Hong explicitly challenges reductive Eurocentric perceptions of China, stating in an interview that "Western views on China are based on criticism. Westerners who think they are open-minded seem to have an impression of China entangled in the past" <ref type="bibr">(Hawksley 2021, n.p.)</ref>. However, even when diasporic authors like Hong resist self-orientalizing their home countries, their work may still be subject to reframing during publication. Indeed, editorial agency often overshadows authorial intent <ref type="bibr" target="#b45">(Tan 2025)</ref>. Hong is often translated and received more as a sociocultural representative of China than as a feminist writer, as her feminist narratives are frequently downplayed by editorial emphasis on political themes. It reveals the agency of metropolitan literary and cultural institutions that often dictate who is authorized to speak and on what subjects (cf. <ref type="bibr">Watts 2005, 37)</ref>. This not only risks reinforcing the very stereotypes writers seek to resist, but also pressures them to conform to hegemonic narratives to gain recognition. Chang's work as a bestseller in the west, for instance, is inseparable from her self-orientalist framing of Chinese "dark" histories. Her pervasive criticisms of China shift the work away from personal narrative towards "the politics of autobiographical discourse" <ref type="bibr">(Ang 2001, 24)</ref>, further stereotyping the western imagination of the Other and catering to cultural voyeurism.</p><p>As ethnic minorities, diaspora authors are subjected to a hegemonic "panopticist gaze" <ref type="bibr">(Chow 1998, 103)</ref>, which pressures them to represent their native cultures through western lenses. In public discourse, however, some writers acknowledge the challenges they face as migrants. For example, Amy Tan describes her experience as "not a complete freedom", but rather a condition marked by limitations and prejudices <ref type="bibr">(2006, n.p.)</ref>. This contrasts with <ref type="bibr" target="#b10">Chang's (2003)</ref> celebration of "freedom in the West" (602), invoking an image of "Olympian liberalism" that is largely nominal as every proclaimed freedom is accompanied by implicit qualifications and underlying ideological constraints <ref type="bibr">(Lane 1996, 92</ref>). Chang's praise reflects a form of self-censorship that tailors narratives to the dominant cultural framework, which "blocks, manipulates, and controls the establishment of cross cultural communication" <ref type="bibr">(Billiani 2014, 3)</ref>. This can create a vicious circle, as more writers may follow suit by selforientalizing their works and, if successful, feel compelled to self-mimic such narratives. Ultimately, power differentials can form a "coercive mimeticism", through which those marginalized from mainstream western culture are expected to "resemble and replicate the very banal preconceptions that have been appended to them" <ref type="bibr">(Chow 2002, 107)</ref>. Such mimeticism further polices the reception of literary writing, steering readers' perceptions with pre-scripted presentations. This process also contributes to forming a dominant standard, prompting publishers, translators, and reviewers to use popular texts as benchmarks for evaluating future diasporic literature. For instance, Chinese diasporic writers like Chang have significantly "set the scene" for the western production and reception of Chinese literature <ref type="bibr">(Stephenson 2005, 112)</ref>. In various ways, rather than fostering increased empathy and understanding, such writing and translation further feed biased representations and reinforce Eurocentric views of China.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Conclusion: The link between power differentials and paratextual mediation</head><p>A postcolonial perspective on the asymmetrical power dynamics among cultures and agents provides valuable insights into the writing, translation, and publication of diaspora texts in the west. Anglophone agents often (re)frame Chinese diasporic works as historical documents or critiques of China's "ghastly oriental" nightmares, directing readers' attention towards Chinese sufferings and problems. Such (re)framing indicates a broader western tendency to prioritize factual contents while sidelining the literary and aesthetic dimensions of these texts. In addition, such narratives frequently draw comparisons between China and the west, portraying the latter as superior. Such paratextual mediation echoes postcolonial knowledge production, where "the body of knowledge and images, and the ways in which they are mediated to homeland or diaspora audiences, are often ideologically implicated" <ref type="bibr">(Asscher 2021, 38)</ref>. Furthermore, to cater to western tastes and seek recognition, some overseas Chinese authors also engage in accentuating exotic allure and criticizing their original homeland while praising the host country, further reinforcing both western-centric ideologies and stereotypical representations of Chinese alterity. This orientation finds resonance in a form of cultural translation that transforms original narratives in order to meet expectations of the target culture. It perpetuates "an ideological reduction and ethnographic essentialization", which entangles Chinese literature in political conflicts and turns "the translation itself into an ethnographic account of the political reality of contemporary China" <ref type="bibr">(Huang 2002, 173)</ref>.</p><p>Paratextual mediation by diaspora authors and other agents is inseparable from their ideologies and the power differentials in which they are embedded. Talal <ref type="bibr" target="#b2">Asad's (1986)</ref> notion of "translation as a process of power" highlights the capacity of hegemonic translation institutions to manipulate narratives authored by writers from the Third World (148), shaping and domesticating diasporic writings to align with their expectations. Similarly, Chinese diasporic writers are often beholden to publishers who have the final authority over what is printed, how it is (re)packaged, and where it is marketed <ref type="bibr">(Ferry 2003, 668)</ref>. In this context, they are pressured to conform to what the publishing industry expects, often stereotyping their ethnicity with "a priori cultural preconceptions, which then fuel publishers to bring out more translated products along similar lines" <ref type="bibr">(Lee 2015, 7)</ref>. This can lead to a vicious cycle wherein stereotypes about China are continually reinforced, highlighting the issue of "power differentials in the very deployment of stereotypes" that are capable of "engendering realities that do not exist" <ref type="bibr">(Chow 2002, 59</ref>) and perpetuating neocolonialism/neo-imperialism.</p><p>Generally, western centralism and hegemonic power profoundly shape perceptions of China and its literature, contributing to the formation of a cultural unconsciousa "Western centric ideology" that operates subtly yet powerfully, "unconsciously influencing, shaping, and controlling Chinese knowledge production by not only westerners but also Chinese people themselves" <ref type="bibr">(Jin 2021, 128-130)</ref>. Western orientalist "false beliefs" about China are deeply intertwined with anxieties over China's economic achievements, as well as historical and contemporary anti-Chinese sentiments. In response, China has sought to challenge western dominant (mis)representations and stereotypes through statesponsored translation initiatives, such as the "Going Out" or "Going Global" Chinese Literature Initiative in the 1950s. These efforts aim to bolster soft power while countering western reductive generalization by selecting and translating works often overlooked by western publishers, particularly those that highlight the diversity, complexity, and positive dimensions of Chinese society. Unfortunately, such governmental translations achieved limited popularity, primarily because they failed to meet western expectations <ref type="bibr" target="#b50">(Zhao, Li, and Moratto 2022)</ref>. However, they are often "mobilized for the sake of the re-affirmation, re-appropriation, and re-examination of the national cultural identity, and as a means of differentiating one's self from the other" <ref type="bibr">(Jacquemond 1992, 146)</ref>. This reflects the broader dilemma faced by marginalized cultures, whose voices frequently struggle to be heard within dominant global structures. Ultimately, (neo)colonialism and (neo-)imperialism continue to underpin the globalized cultural order, where minority groups and developing nations are routinely compelled to conform to western hegemonic standards. Within the entrenched power differentials, knowledge production remains governed by the western-centric cultural unconscious, a process to which diasporic writing and translation are no exception.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Notes</head><p>1. This observation primarily refers to Chinese diasporic writers, particularly those with identifiable political positions, such as Chang Jung. Other ethnic minority writers, such as Carlos Bulosan or Caryl Phillips, have adopted critical stances towards their host countries. 2. The later anglophone editions are similar to the earlier ones, while the 2003 edition includes an added authorial introduction.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Disclosure statement</head><p>No potential conflict of interest was reported by the author.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Funding</head><p>This work was supported by the China Scholarship Council -University of Warwick. </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Notes on contributor</head></div><figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_0"><head></head><label></label><figDesc>XiaoyanTan is a PhD candidate in Translation and Transcultural Studies at the University of Warwick, working on the translation and publication of contemporary Chinese female writings by Chinese government-backed publishers and anglophone publishing houses. Her work has been published in journals such as Social Semiotics Asian Studies Review, and Meta: Translators' Journal (forthcoming), and won prizes at translation studies, most notably at the Guangdong-Hong Kong-Macao Postgraduate Forum of Academic Exchanges in Foreign Languages and Translation Studies. Xiaoyan has obtained a Translation Certificate of Advanced Level and has worked as a part-time translator for over six years, including on Chinese official government websites.</figDesc><table /></figure>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="2" xml:id="foot_0"><p>X. TAN</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="4" xml:id="foot_1"><p>X. TAN</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="6" xml:id="foot_2"><p>X. TAN</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="10" xml:id="foot_3"><p>X. TAN</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="16" xml:id="foot_4"><p>X. TAN</p></note>
+		</body>
+		<back>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<monogr>
+		<title level="m" type="main">Amy Tan: Contemporary World Writers</title>
+		<author>
+			<persName><forename type="first">Bella</forename><surname>Adams</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2005">2005</date>
+			<publisher>Manchester University Press</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<monogr>
+		<author>
+			<persName><forename type="first">Ien</forename><surname>Ang</surname></persName>
+		</author>
+		<title level="m">On Not Speaking Chinese: Living between Asia and the West</title>
+		<imprint>
+			<publisher>Routledge</publisher>
+			<date type="published" when="2001">2001</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title level="a" type="main">The Concept of Cultural Translation in British Social Anthropology</title>
+		<author>
+			<persName><forename type="first">Talal</forename><surname>Asad</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Marcus Writing Culture: The Poetics and Politics of Ethnography</title>
+		<editor>
+			<persName><forename type="first">James</forename><surname>Clifford</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">George</forename><forename type="middle">E</forename><surname>Marcus</surname></persName>
+		</editor>
+		<imprint>
+			<publisher>University of California Press</publisher>
+			<date type="published" when="1986">1986</date>
+			<biblScope unit="page" from="141" to="164" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title level="a" type="main">Translation as a Probe into Homeland-Diaspora Relations</title>
+		<author>
+			<persName><forename type="first">Omri</forename><surname>Asscher</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/14781700.2020.1773307</idno>
+		<ptr target="https://doi.org/10.1080/14781700.2020.1773307" />
+	</analytic>
+	<monogr>
+		<title level="j">Translation Studies</title>
+		<imprint>
+			<biblScope unit="volume">14</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="36" to="50" />
+			<date type="published" when="2021">2021</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<author>
+			<persName><forename type="first">Brian</forename><surname>Baer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Nike</forename><forename type="middle">K</forename><surname>James</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Pokorn</surname></persName>
+		</author>
+		<idno type="DOI">10.7202/1065572ar</idno>
+		<ptr target="https://doi.org/10.7202/1065572ar" />
+	</analytic>
+	<monogr>
+		<title level="m">Diaspora as a Distinct Site of Translational Activity: The Case of Us Immigrant Newspapers</title>
+		<imprint>
+			<date type="published" when="1917">2018. 1917-1941</date>
+			<biblScope unit="volume">31</biblScope>
+			<biblScope unit="page" from="141" to="165" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title level="a" type="main">The War on Terror, Feminist Orientalism and Orientalist Feminism: Case Studies of Two North American Bestsellers</title>
+		<author>
+			<persName><forename type="first">Roksana</forename><surname>Bahramitash</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Critique: Critical Middle Eastern Studies</title>
+		<imprint>
+			<biblScope unit="volume">14</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="221" to="235" />
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title level="a" type="main">Translingual Empowerment: Exophonic Women&apos;s Writing in Catalan and Spanish</title>
+		<author>
+			<persName><forename type="first">Catherine</forename><surname>Barbour</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/13534645.2022.2156689</idno>
+		<ptr target="https://doi.org/10.1080/13534645.2022.2156689" />
+	</analytic>
+	<monogr>
+		<title level="j">Parallax</title>
+		<imprint>
+			<biblScope unit="volume">28</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="58" to="73" />
+			<date type="published" when="2022">2022</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<monogr>
+		<author>
+			<persName><forename type="first">Francesca</forename><surname>Billiani</surname></persName>
+		</author>
+		<title level="m">Modes of Censorship and Translation: National Contexts and Diverse Media</title>
+		<imprint>
+			<publisher>Routledge</publisher>
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<monogr>
+		<title level="m" type="main">America Is in the Heart</title>
+		<author>
+			<persName><forename type="first">Carlos</forename><surname>Bulosan</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1943">1943</date>
+			<publisher>University of Washington Press</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<monogr>
+		<title level="m" type="main">Wild Swans: Three Daughters of China</title>
+		<author>
+			<persName><forename type="first">Jung</forename><surname>Chang</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1991">1991</date>
+			<publisher>HarperCollins</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<monogr>
+		<title level="m" type="main">Wild Swans: Three Daughters of China</title>
+		<author>
+			<persName><forename type="first">Jung</forename><surname>Chang</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2003">2003</date>
+			<pubPlace>Harper Perennial</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<monogr>
+		<author>
+			<persName><forename type="first">Rey</forename><surname>Chow</surname></persName>
+		</author>
+		<title level="m">Ethics after Idealism: Theory, Culture, Ethnicity, Reading</title>
+		<imprint>
+			<publisher>Indiana University Press</publisher>
+			<date type="published" when="1998">1998</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<title level="a" type="main">The Protestant Ethnic and the Spirit of Capitalism</title>
+		<author>
+			<persName><forename type="first">Rey</forename><surname>Chow</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Translation and Identity</title>
+		<meeting><address><addrLine>Cronin, Michael</addrLine></address></meeting>
+		<imprint>
+			<publisher>Routledge</publisher>
+			<date type="published" when="2002">2002. 2006</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<monogr>
+		<author>
+			<persName><forename type="first">Paul</forename><surname>Eakin</surname></persName>
+		</author>
+		<author>
+			<persName><surname>John</surname></persName>
+		</author>
+		<title level="m">Fictions in Autobiography: Studies in the Art of Self-Invention</title>
+		<imprint>
+			<publisher>Princeton University Press</publisher>
+			<date type="published" when="1985">1985</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<title level="a" type="main">Marketing Chinese Women Writers in the 1990s, or the Politics of Self-Fashioning</title>
+		<author>
+			<persName><forename type="first">Megan</forename><forename type="middle">M</forename><surname>Ferry</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/1067056032000117696</idno>
+		<ptr target="https://doi.org/10.1080/1067056032000117696" />
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Contemporary China</title>
+		<imprint>
+			<biblScope unit="volume">12</biblScope>
+			<biblScope unit="page" from="655" to="675" />
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<monogr>
+		<author>
+			<persName><forename type="first">Gérard</forename><surname>Genette</surname></persName>
+		</author>
+		<title level="m">Paratexts: Thresholds of Interpretation</title>
+		<imprint>
+			<publisher>Cambridge University Press</publisher>
+			<date type="published" when="1997">1997</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<title level="a" type="main">Acclaimed Chinese-Born Writer Tackles Feminism and Sex</title>
+		<author>
+			<persName><forename type="first">Humphrey</forename><surname>Hawksley</surname></persName>
+		</author>
+		<ptr target="https://asia.nikkei.com/Life-Arts/Arts/Acclaimed-Chinese-born-writer-tackles-feminism-and-sex" />
+	</analytic>
+	<monogr>
+		<title level="j">NikkeiAsia</title>
+		<imprint>
+			<date type="published" when="2021-03-03">2021. March 3</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<monogr>
+		<title level="m" type="main">1998a. Daughter of the River</title>
+		<author>
+			<persName><forename type="first">Ying</forename><surname>Hong</surname></persName>
+		</author>
+		<imprint>
+			<publisher>Bloomsbury Publishing</publisher>
+		</imprint>
+	</monogr>
+	<note>Translated by Howard Goldblatt</note>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<monogr>
+		<title level="m" type="main">Daughter of the River</title>
+		<author>
+			<persName><forename type="first">Ying</forename><surname>Hong</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1998">1998</date>
+			<publisher>Grove Press</publisher>
+		</imprint>
+	</monogr>
+	<note>Translated by Howard Goldblatt</note>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<monogr>
+		<title level="m" type="main">Translating Pain: Immigrant Suffering in Literature and Culture</title>
+		<author>
+			<persName><forename type="first">Madeleine</forename><surname>Hron</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2009">2009</date>
+			<publisher>University of Toronto Press</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<monogr>
+		<title level="m" type="main">Transpacific Displacement: Ethnography, Translation, and Intertextual Travel in 20th-Century American Literature</title>
+		<author>
+			<persName><forename type="first">Yunte</forename><surname>Huang</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2002">2002</date>
+			<publisher>University of California Press</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<analytic>
+		<title level="a" type="main">Translation and Cultural Hegemony: The Case of French-Arabic Translation</title>
+		<author>
+			<persName><forename type="first">Richard</forename><surname>Jacquemond</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Rethinking Translation</title>
+		<editor>
+			<persName><forename type="first">Lawrence</forename><surname>Venuti</surname></persName>
+		</editor>
+		<imprint>
+			<publisher>Routledge</publisher>
+			<date type="published" when="1992">1992</date>
+			<biblScope unit="page" from="139" to="158" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<analytic>
+		<title level="a" type="main">Subjectivity and Class Consciousness in Hong Ying&apos;s Autobiographical Novel the Hungry Daughter</title>
+		<author>
+			<persName><forename type="first">Xu</forename><surname>Jian</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/10670560802000316</idno>
+		<ptr target="https://doi.org/10.1080/10670560802000316" />
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Contemporary China</title>
+		<imprint>
+			<biblScope unit="volume">17</biblScope>
+			<biblScope unit="issue">56</biblScope>
+			<biblScope unit="page" from="529" to="542" />
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<monogr>
+		<title level="m" type="main">Trans-Ethnic Themes in Contemporary British Chinese Literature</title>
+		<author>
+			<persName><forename type="first">Yifan</forename><surname>Jin</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2021">2021</date>
+			<publisher>University of Manchester Press</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<analytic>
+		<title level="a" type="main">Other Tongue; Or, Exophony</title>
+		<author>
+			<persName><forename type="first">Keith</forename><surname>Johnson</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Leslie</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">PMLA</title>
+		<imprint>
+			<biblScope unit="volume">138</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="709" to="714" />
+			<date type="published" when="2023">2023</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<analytic>
+		<title level="a" type="main">Daughter of the River</title>
+		<author>
+			<persName><forename type="first">Richard</forename><surname>King</surname></persName>
+		</author>
+		<idno type="DOI">10.1353/cri.2000.0028</idno>
+		<ptr target="https://doi.org/10.1353/cri.2000.0028" />
+	</analytic>
+	<monogr>
+		<title level="j">China Review International</title>
+		<imprint>
+			<biblScope unit="volume">7</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="94" to="97" />
+			<date type="published" when="2000">2000</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<analytic>
+		<title level="a" type="main">Albert Boadella and the Catalan Comedy of Cultural Politics</title>
+		<author>
+			<persName><forename type="first">Jill</forename><surname>Lane</surname></persName>
+		</author>
+		<ptr target="https://journals.ku.edu/jdtc/article/view/1949" />
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Dramatic Theory and Criticism</title>
+		<imprint>
+			<biblScope unit="volume">11</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="81" to="100" />
+			<date type="published" when="1996">1996</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b27">
+	<analytic>
+		<title level="a" type="main">China as Dystopia: Cultural Imaginings through Translation</title>
+		<author>
+			<persName><forename type="first">Tong</forename><surname>Lee</surname></persName>
+		</author>
+		<author>
+			<persName><surname>King</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/14781700.2015.1009937</idno>
+		<ptr target="https://doi.org/10.1080/14781700.2015.1009937" />
+	</analytic>
+	<monogr>
+		<title level="j">Translation Studies</title>
+		<imprint>
+			<biblScope unit="volume">8</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="251" to="268" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b28">
+	<analytic>
+		<title level="a" type="main">Rethinking Daughter of the River in the English-Speaking World</title>
+		<author>
+			<persName><forename type="first">Rong</forename><surname>Liu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Tian</forename><surname>Yang</surname></persName>
+		</author>
+		<ptr target="https://revistas.usal.es/dos/index.php/1616_Anuario_Literatura_Comp/article/view/20722" />
+	</analytic>
+	<monogr>
+		<title level="j">1616: Anuario de Literatura Comparada</title>
+		<imprint>
+			<biblScope unit="volume">8</biblScope>
+			<biblScope unit="page" from="39" to="49" />
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b29">
+	<monogr>
+		<title level="m" type="main">Translating the Postcolonial in Multilingual Contexts</title>
+		<editor>Misrahi-Barak, Judith, and Srilata Ravi</editor>
+		<imprint>
+			<date type="published" when="2017">2017</date>
+			<publisher>Presses Universitaires de la Méditerranée</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b30">
+	<analytic>
+		<title level="a" type="main">Translations of Modern Persian Literature in the United States: 1979-2011</title>
+		<author>
+			<persName><forename type="first">Laetitia</forename><surname>Nanquette</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/13556509.2016.1227530</idno>
+		<ptr target="https://doi.org/10.1080/13556509.2016.1227530" />
+	</analytic>
+	<monogr>
+		<title level="j">The Translator</title>
+		<imprint>
+			<biblScope unit="volume">23</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="49" to="66" />
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b31">
+	<analytic>
+		<title level="a" type="main">Of Dragons and Devils: Chinese-Australian Life Stories</title>
+		<author>
+			<persName><forename type="first">Wenche</forename><surname>Ommundsen</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of the Association for the Study of Australian Literature</title>
+		<imprint>
+			<biblScope unit="volume">1</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="67" to="80" />
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b32">
+	<analytic>
+		<title level="a" type="main">What Does It Mean to Be Chinese? Diasporic Literature versus Orientalism in an Anglophone Market</title>
+		<author>
+			<persName><forename type="first">Chloe</forename><surname>Orchard</surname></persName>
+		</author>
+		<idno type="DOI">10.52214/cja.v2i1.11118</idno>
+		<ptr target="https://doi.org/10.52214/cja" />
+	</analytic>
+	<monogr>
+		<title level="j">The Columbia Journal of Asia</title>
+		<imprint>
+			<biblScope unit="volume">2</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="50" to="60" />
+			<date type="published" when="2023">2023. 2i1.11118</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b33">
+	<analytic>
+		<title level="a" type="main">Translation and Diaspora: The Role of English Literary Translations in Slovene Émigré Periodicals in the US</title>
+		<author>
+			<persName><forename type="first">Nike</forename><forename type="middle">K</forename><surname>Pokorn</surname></persName>
+		</author>
+		<idno type="DOI">10.1075/target.21088.pok</idno>
+		<ptr target="https://doi.org/10.1075/target.21088.pok" />
+	</analytic>
+	<monogr>
+		<title level="j">Target</title>
+		<imprint>
+			<biblScope unit="volume">35</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="262" to="284" />
+			<date type="published" when="2023">2023</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b34">
+	<analytic>
+		<title level="a" type="main">Translation and Migration</title>
+		<author>
+			<persName><forename type="first">Loredana</forename><surname>Polezzi</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/14781700.2012.701943</idno>
+		<ptr target="https://doi.org/10.1080/14781700.2012.701943" />
+	</analytic>
+	<monogr>
+		<title level="j">Translation Studies</title>
+		<imprint>
+			<biblScope unit="volume">5</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="345" to="356" />
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b35">
+	<analytic>
+		<title level="a" type="main">Neocolonialism in Translating China</title>
+		<author>
+			<persName><forename type="first">Guoqiang</forename><surname>Qiao</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">CLCWeb: Comparative Literature and Culture</title>
+		<imprint>
+			<biblScope unit="volume">20</biblScope>
+			<biblScope unit="issue">7</biblScope>
+			<biblScope unit="page" from="1" to="13" />
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b36">
+	<monogr>
+		<author>
+			<persName><forename type="first">Douglas</forename><surname>Robinson</surname></persName>
+		</author>
+		<title level="m">Translation and Empire: Postcolonial Theories Explained</title>
+		<imprint>
+			<publisher>Routledge</publisher>
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b37">
+	<monogr>
+		<title level="m" type="main">Why China Will Become a Democracy</title>
+		<author>
+			<persName><forename type="first">Henry</forename><forename type="middle">S</forename><surname>Rowen</surname></persName>
+		</author>
+		<ptr target="https://www.hoover.org/research/why-china-will-become-democracy" />
+		<imprint>
+			<date type="published" when="1999">1999</date>
+		</imprint>
+		<respStmt>
+			<orgName>Hoover Digest. Hoover Institution, Stanford University</orgName>
+		</respStmt>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b38">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">Edward</forename><forename type="middle">W</forename><surname>Said</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Orientalism</title>
+		<imprint>
+			<date type="published" when="1978">1978</date>
+			<publisher>Pantheon Books</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b39">
+	<analytic>
+		<title level="a" type="main">Where Are You From?&apos;: New Imaginings of Identity in Chinese-Australian Writing</title>
+		<author>
+			<persName><forename type="first">Peta</forename><surname>Stephenson</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Culture, Identity, Commodity: Diasporic Chinese Literatures in English</title>
+		<editor>
+			<persName><forename type="first">Tseen</forename><surname>Khoo</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">Kam</forename><surname>Louie</surname></persName>
+		</editor>
+		<imprint>
+			<publisher>McGill-Queen&apos;s University Press</publisher>
+			<date type="published" when="2005">2005</date>
+			<biblScope unit="page" from="107" to="128" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b40">
+	<analytic>
+		<title level="a" type="main">The Making of a Supranational Stereotype: Western Literary Constructions of the Chinese in Manila and Beyond</title>
+		<author>
+			<persName><forename type="first">Tom</forename><surname>Sykes</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/1369801X.2020.1863839</idno>
+		<ptr target="https://doi.org/10.1080/1369801X.2020.1863839" />
+	</analytic>
+	<monogr>
+		<title level="j">Interventions</title>
+		<imprint>
+			<biblScope unit="volume">24</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="263" to="283" />
+			<date type="published" when="2022">2022</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b41">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">Amy</forename><surname>Tan</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="s">The Joy Luck Club. Mandarin Paperbacks</title>
+		<imprint>
+			<date type="published" when="1989">1989</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b42">
+	<monogr>
+		<title level="m" type="main">The Joy Luck Club</title>
+		<author>
+			<persName><forename type="first">Amy</forename><surname>Tan</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1989">1989</date>
+			<publisher>Ivy Books</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b43">
+	<analytic>
+		<title level="a" type="main">Mother Tongue</title>
+		<author>
+			<persName><forename type="first">Amy</forename><surname>Tan</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">The Threepenny Review</title>
+		<imprint>
+			<biblScope unit="volume">43</biblScope>
+			<biblScope unit="issue">7</biblScope>
+			<biblScope unit="page" from="7" to="8" />
+			<date type="published" when="1990">1990</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b44">
+	<analytic>
+		<title level="a" type="main">A Conversation with Amy Tan [Dana Gioia]</title>
+		<author>
+			<persName><forename type="first">Amy</forename><surname>Tan</surname></persName>
+		</author>
+		<ptr target="https://www.the-american-interest.com/2007/05/01/a-conversation-with-amy-tan/" />
+	</analytic>
+	<monogr>
+		<title level="j">The American Interest</title>
+		<imprint>
+			<biblScope unit="volume">7</biblScope>
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b45">
+	<analytic>
+		<title level="a" type="main">Paratextual Mediation and (Re)Framed Narratives: A Case Study of Ganxiao Liuji</title>
+		<author>
+			<persName><forename type="first">Xiaoyan</forename><surname>Tan</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/10350330.2024.2375068</idno>
+		<ptr target="https://doi.org/10.1080/10350330.2024.2375068" />
+	</analytic>
+	<monogr>
+		<title level="j">Social Semiotics</title>
+		<imprint>
+			<biblScope unit="volume">35</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="581" to="598" />
+			<date type="published" when="2025">2025</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b46">
+	<monogr>
+		<author>
+			<persName><forename type="first">Couze</forename><surname>Venn</surname></persName>
+		</author>
+		<title level="m">Occidentalism: Modernity and Subjectivity</title>
+		<meeting><address><addrLine>Venuti, Lawrence</addrLine></address></meeting>
+		<imprint>
+			<publisher>Routledge</publisher>
+			<date type="published" when="1995">2000. 1995</date>
+		</imprint>
+	</monogr>
+	<note>The Translator&apos;s Invisibility</note>
+</biblStruct>
+
+<biblStruct xml:id="b47">
+	<monogr>
+		<title level="m" type="main">Translation in Diasporic Literatures</title>
+		<author>
+			<persName><forename type="first">Guanglin</forename><surname>Wang</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2019">2019</date>
+			<publisher>Palgrave Macmillan</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b48">
+	<monogr>
+		<title level="m" type="main">Packaging Post/Coloniality: The Manufacture of Literary Identity in the Francophone World</title>
+		<author>
+			<persName><forename type="first">Richard</forename><surname>Watts</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2005">2005</date>
+			<publisher>Lexington Books</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b49">
+	<analytic>
+		<title level="a" type="main">Exophony and Literary Translation: What It Means for the Translator When a Writer Adopts a New Language</title>
+		<author>
+			<persName><forename type="first">Chantal</forename><surname>Wright</surname></persName>
+		</author>
+		<idno type="DOI">10.1075/target.22.1.03wri</idno>
+		<ptr target="https://doi.org/10.1075/target.22.1.03wri" />
+	</analytic>
+	<monogr>
+		<title level="j">Target</title>
+		<imprint>
+			<biblScope unit="volume">22</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="22" to="39" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b50">
+	<monogr>
+		<title level="m" type="main">Chinese Literature in the World: Dissemination and Translation Practices</title>
+		<author>
+			<persName><forename type="first">Junfeng</forename><surname>Zhao</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Defeng</forename><surname>Li</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Riccardo</forename><surname>Moratto</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2022">2022</date>
+			<publisher>Springer Nature</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

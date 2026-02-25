@@ -1,0 +1,671 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">A Possible Way Out? The Paradox of the Multitude in Cloud Atlas and Slade House</title>
+				<funder ref="#_UwQPvHc">
+					<orgName type="full">National Social Science Fund of China</orgName>
+				</funder>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName><forename type="first">Hua</forename><surname>Tan</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Siyu</forename><surname>Cao</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">David</forename><surname>Mitchell</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">David</forename><forename type="middle">Mitchell "</forename><surname>English Studies</surname></persName>
+						</author>
+						<author>
+							<affiliation key="aff0">
+								<orgName type="department">School of English Studies</orgName>
+								<orgName type="institution">Shanghai International Studies University</orgName>
+								<address>
+									<settlement>Shanghai</settlement>
+									<country>People&apos;s Republic of China</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff1">
+								<orgName type="department">O&apos;Donnell</orgName>
+								<orgName type="institution" key="instit1">A Temporary Future</orgName>
+								<orgName type="institution" key="instit2">The Fiction of David Mitchell</orgName>
+								<address>
+									<postCode>83-7</postCode>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">A Possible Way Out? The Paradox of the Multitude in Cloud Atlas and Slade House</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date/>
+						</imprint>
+					</monogr>
+					<idno type="MD5">717B8BD316C06D5836A8DB0C83EA55B1</idno>
+					<idno type="DOI">10.1080/0013838X.2025.2582146</idno>
+					<note type="submission">Received 1 July 2025 Accepted 19 October 2025</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.0" ident="GROBID" when="2026-02-25T19:52+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term>Edwards</term>
+					<term>&quot;&apos;Strange Transactions&apos;: Utopia</term>
+					<term>Transmigration</term>
+					<term>&quot; 187. 4 Knepper</term>
+					<term>&quot;David Mitchell as World-Builder</term>
+					<term>&quot; 169; Shaw</term>
+					<term>&quot;Building Cosmopolitan Futures</term>
+					<term>&quot; 110. 5 Schoene</term>
+					<term>The Cosmopolitan Novel</term>
+					<term>186</term>
+				</keywords>
+			</textClass>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>The multitude depicted in David Mitchell's networked fiction is frequently interpreted as a stark articulation of the potential for political emancipation of the oppressed under global capitalism. However, such readings often understate the narrative ambivalence surrounding its ultimate triumphs. Although the formal structure of networked fiction typically foregrounds interconnectedness and direct causal relationships among politicised bodies, the author's restrained discourses remain cautious in suggesting that these interconnections necessarily engender entirely transformative futures. To take Cloud Atlas and Slade House as examples, this article thus argues that, rather than endorsing a cosmopolitan vision of the multitude as a selforganising agent of global change, Mitchell's fiction challenges the over-idealisation of the multitude. And by offering a critical interrogation of its provisional, opportunistic, and often selfcompromising nature, the literary imagination questions the impact of such loose resistance, and more importantly, its enduring relevance as a revolutionary paradigm in the contemporary context.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Introduction</head><p>David Mitchell has long been acclaimed for his masterclass in interweaving heterogeneous but mutually dependent narratives, in which transgenerational or transnational protagonists intersect and collaborate to effect broad systemic change. According to Caroline Edwards, this is a defining feature of networked fiction, suggesting "a preoccupation with many different kinds of time in the contemporary novel", and directly giving rise to a reimagining of mimetic representation through innovations in narrative voice, structure, and temporality. <ref type="bibr">1</ref> Taking Cloud Atlas and Slade House as examples, the former chronicles a collective struggle for emancipation initiated by a series of transmigratory characters, spanning from the mid-nineteenth century South Pacific to a post-apocalyptic future in Hawaii; the latter, much smaller in scope though, presents a more intimate, closed network that focuses on the conflict between the exploitative Anchorites and a loosely interconnected group of psychic victims. As representative works from different stages of Mitchell's career, the narrative resonance between the two faithfully reflects the author's lasting obsession with exploring the political metaphors generated through the interaction between multiple timelines.</p><p>Since his debut, therefore, many scholars have examined such entangled individuals in Mitchell's networked narratives as a mode of resistance to the seemingly lasting and fixed global order. For example, drawing on Michael Hardt and Antonio Negri's concept of the multitude, Patrick O'Donnell argues that Mitchell's diverse networks embody a form of "universal nomadism", which resists and unsettles "any fantasies or embodiments of 'pureblood'". 2 Similarly, Caroline Edwards suggests that the loosely connected multitude in Cloud Atlas "offers an alternative model of utopian collectivity that is directly opposed to totalitarian social engineering". <ref type="bibr">3</ref> Also in their respective argumentations, Peter Childs and James Green are seriously concerned about how the subtle, often invisible connections among the multitude turn out to create possibilities for new revolutionary paths. These discussions have inspired many subsequent studies, which further interpret Mitchell's works as literary testaments to the decades' expansion of cosmopolitanism. By invoking the notion of a "global multitude", some critics, such as Wendy Knepper and Kristian Shaw, contend that Mitchell's characters are capable of both exposing the "combined and uneven development" of global capitalism and fostering "ideals of shared belonging, cooperation, and cohabitation". <ref type="bibr">4</ref> As Berthold Schoene has articulated with great insightfulness, the cosmopolitan ethos underpinning the multitude's political alliance can be implemented "as a communal tackling of global threats", thus delivering hope of a transformative future. <ref type="bibr">5</ref> Although these scholars deploy different critical vocabulariescolonisation, capitalisation, totalisation, and so forth to describe what the multitude resiststhey ultimately converge on a common point: Mitchell's networked fiction challenges an enduring, if differently manifested, imperial logic. This, precisely, is why his novels are situated across diverse temporal and spatial settings. Building on these insights, this article, on one level, aims to extend earlier scholars' readings of the forms and capacities of the multitude's resistance. On another, it attempts to unify these struggles under a shared object of resistancea lingering imperial logicby adapting Negri and Hardt's framework, originally formulated in the context of contemporary capitalism, to the political violence in colonial history. Moreover, most previous readings of the making of the multitude in Mitchell's literary universeoften emphasising themes of moral solidarity and cosmopolitan resistance to unspoken political oppression through the aesthetic neutralisation of globalisationmore or less relapse into a kind of overoptimism that obscures the contradictions and limits of such resistance. While cosmopolitanism is regarded in contemporary criticism as a neutral or even emancipatory articulation of globalisation, Mitchell's works instead expose its complicity with the same mechanisms of systematic subjugation and injustice that defined the colonial era. By tracing the trajectories of his characters and the political pressures they confront, Mitchell uncovers the enduring exploitation beneath the rhetoric of global connectivity. Consequently, although his novels are predominantly situated in contemporary or future rather than explicitly colonial settings, they have been recognised for their distinct postcolonial sensibilities and critical motives.</p><p>Reflecting this complexity, the author himself adopts a restrained stance on the cosmopolitan dimensions of his fiction. In an interview with Edwards, he offers not a grand ideological vision, but a modest reflection on the political resonance of his work:</p><p>You only need a small amount of hopeit works as a trace element. Of course, it's best if you've got loads and it can translate into the political sphere. But in the meantime, trace elements will do. <ref type="bibr">6</ref> It is not so difficult to see that Mitchell positions his narratives not as blueprints for radical revolution in political senses, but as imaginative spaces in which minimal yet persistent traces of hope may invite readers to reconsider the conditions of human life under globalisationand more importantly, its connection with the lingering logic from the imperial age. And rather than offering a utopian imagination of change, his fiction gestures towards compromised yet more pragmatic modes of resistance in different historical contexts. A comparative reading of his works shows that Mitchell repeatedly foregrounds doubtboth in the authenticity of the multitude's uprising and the plausibility of enduring transformation. As Thom Dancer aptly observes, "[These] novels occupy and resist the sense of inevitability that imagines direct and efficient connections between cause and effect always moving towards a future set to play out inexorably". <ref type="bibr">7</ref> Compared to the overly optimistic interpretations by some scholars who see such resistance as a promising approach of self-emancipation, the novels actually retain a degree of reservation in their depiction of the idealised multitudeprecisely because the ruptures in causality, as noted by Dancer, simultaneously implicate both the perpetrators of political violence and the politically oppressed. The understated portrayal of the multitude's paradoxical nature and the insufficient attention to its structural limitations are, in fact, critical factors that shape how readers understand the political warning his works attempt to convey.</p><p>For this reason, by analysing Mitchell's most highly regarded novel, Cloud Atlas, and the lesser-studied Slade House, this article challenges the overly reductive interpretations, arguing that his networked narratives are not entirely celebrations of global connectivity or emancipatory alliance, but nuanced explorations of the fragility, ambivalence, and the inescapable historical constraints of political agency within a globalised order. On the surface, the multitude in the novels appears to interrogate universal inequalities and reimagine the world through its collective struggles. However, a closer examination of the plots reveals that (the form of) the multitude often falters, and its triumphs are typically opportunistic and devoid of reason. In this way, Mitchell manages to critique the exact idealism he is assumed to endorse. contemporaneous formulations of Michael Hardt and Antonio Negrithe concept of the multitude has undergone continuous transformation, and has eventually converged into a broadly accepted contemporary definition: unlike "the people", which presupposes unity, or "the masses", which efface differences, the multitude designates internally heterogeneous subjects whose agency is constituted not by a self-conscious unifying identity but by the common capacities and the shared political goals that bind its differentiated members. <ref type="bibr">8</ref> Hardt and Negri revisit Spinoza's affirmation of communal power in their seminal works Empire (2000) and Multitude: War and Democracy in the Age of Empire (2004). In their articulation, globalisation under neoliberalismdesignated by the term "Empire"not only extends existing mechanisms of domination but also generates "new circuits of cooperation and collaboration" that traverse national and cultural boundaries, thereby engendering the multitudinous networks through which collective self-governance can emerge. <ref type="bibr">9</ref> In this sense, the multitude arises within the conception and the form of Empire while simultaneously resisting it from within. For Hardt and Negri, the term "Empire" refers to the decentralised and deterritorialised configuration of global power characteristic of the contemporary era, in contrast to earlier, territorially grounded forms of imperialism. However, such a conceptualisation of Empire can be extended much further. Because even during the colonial eraamid global flows of capital, communication, and migrationthere already existed communicative and cooperative forms of the multitude, whose capacities furnished the basis for emergent solidarities and modes of resistance.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>The Rise of the Multitude: An Idealised Model of Resistance</head><p>From this perspective, compared to the idea of Union mentioned in many of Mitchell's fiction, Hardt and Negri's development of the multitude ideallooser in structure and more oriented towards spontaneous, instinctive actionoffers a useful lens for approaching networked narratives. It can be argued that the multitude's loose structure, along with its emphasis on individual agency, allows resistance to emerge without depending on the prior existence or coercive mobilisation of organisations like Union, which operate with fixed goals and strict rules. Instead, individuals can act according to their own ideals and free will, while also responding to the historical moment and material conditions around them. In this way, the threshold for resistance is significantly lowered, and the chances of its endurance are greatly increased. As some scholars have observed in his Cloud Atlas, the characters' contingent encounters and reincarnations coalesce into "microtopian communities" waging a "common cycle of struggles" against capitalist exploitation. 10 By depicting "the ethical possibilities of the global multitude resisting planetary finitude and promoting a future which frees itself from the shackles of the past", Mitchell thus "explores the dimly-lit utopian hopes of the new century". 11 Take the transmigratory beings in Cloud Atlas as an example. Although distinct in era, geography, and social status, they forge a shared democratic impulse born of similar experiences of exploitation. Adam Ewing's awakening to abolitionism that is sparked by colonial brutality parallels Robert Frobisher's self-driven exile and quest for artistic autonomy. Likewise, Luisa Rey becomes a whistle-blower upon uncovering  corporate malfeasance, Timothy Cavendish stages a desperate escape from institutional confinement, and Sonmi≏451 revolts against biotechnological servitude by broadcasting the Fifth Declaration. Each, having endured systemic injustice, channels that suffering into a collective demand for self-governance, demonstrating how heterogeneous lives can converge on a common democratic will. This aligns closely with Hardt and Negri's view, for they constantly stress that " [d]esiring and demanding global democracy do not guarantee its realisation, but we should not underestimate the power such demands can have". <ref type="bibr">12</ref> By uniting diverse individuals in different eras, Mitchell constructs a vast universe that shows how democratic struggles persist through histories of territorialisation and enslavement, empowering individuals to survive and resist systemic oppression. <ref type="bibr">13</ref> The author enacts this grand vision by foregrounding the lasting power of biopolitical knowledge production. According to Kristian Shaw, "The force and memory of history can influence each successive generation into instigating and executing global ethics". <ref type="bibr">14</ref> In the novel, the protagonists always encounter textual fragments of their predecessors by chancejournals, letters, novelswhose missing halves reappear in subsequent narratives, as Frobisher explains in a letter outlining his plans for the Cloud Atlas Sextet: "In the first set, each solo is interrupted by its successor: in the second, each interruption is recontinued, in order. Revolutionary or gimmicky?". 15 Despite initial scepticism, all of them are drawn into these narratives. Frobisher, for instance, questions the authenticity of Ewing's Pacific journal -"Something shifty about the journal's authenticity … its language doesn't ring quite true"but he can't resist finishing it, likening a half-book to a half-love affair. <ref type="bibr">16</ref> Likewise, Rey dismisses transmigration as "crap", only to find Sixsmith's letters so vividly rendered that they resonate as her own memories. 17 Timothy Cavendish initially derides Half-Lives as junk mail, but tears at his hair when he discovers it is incomplete.</p><p>These "transmigrations" of text exemplify what Hardt and Negri term the biopolitical production of knowledgeimmaterial labour that builds and transmits common capacities for emancipation across time. As they observe, "Anyone who works with information or knowledgefor example, from agriculturists who develop the specific properties of seeds to software programmersrelies on the common knowledge passed down from others and in turn creates new common knowledge". <ref type="bibr">18</ref> This process now underpins all dominant forms of social production, generating powerful, transformative bonds. <ref type="bibr">19</ref> Accordingly, Mitchell's protagonists, working as affective labourers such as lawyers, artists, journalists, and prophets, activate the rebellious potential embedded in the texts they encounter and transmit that spirit of freedom to both peers and successors. Even as the ghosts of empire persist in various formscolonialism, capitalism, corporate poweroppressing individuals in both visible and invisible ways and returning, in nearcyclical fashion, to the empire's primal form (slavery resurfaces in the final chapter of Cloud Atlas), these characters endure. They are not misled by the seeming differences between past and present, but ensure their resistance by transmitting knowledge, whether orally or in writing. Their creation and circulation of common knowledge "tends today to be central to every form of social production, no matter how locally circumscribed, and it is, in fact, the primary characteristic of the new dominant forms of labor today". <ref type="bibr">20</ref> Consequently, the multitude's reach is boundless, spanning "all facets of social life, economic, cultural, and political". <ref type="bibr">21</ref> In Cloud Atlas, even Sonmi≏451, a genetically engineered fabricant designed for servitude, absorbs democratic ideals through extensive reading. In doing so, she not only forges a link with the Union, an underground rebel group, but also carries their resistance forward by preaching to future generations. Her transformation exemplifies the role of textual artefacts in enabling political consciousness and collective formation. These texts serve not only as vehicles of resistance but also as tools for assembling a network of immaterial labourers. This potential is captured in Professor Mephi's rhetorical provocation: "What if the differences between social strata stem not from genomics or inherent [e]xcellence or even dollars, but differences in knowledge? Would this not mean the whole Pyramid is built on shifting sands?". <ref type="bibr">22</ref> Mephi's rhetorical question suggests that knowledgerather than biology, capital, or social statusis the foundational axis of power. Once widely disseminated, such knowledge threatens to destabilise the ideological legitimacy of stratified systems.</p><p>Although the novel somehow equates transmigration to the "immaterial production" of "ideas, images, affects, and relationships", the mysterious and metaphysical characteristics of incarnation remain undiminished. <ref type="bibr">23</ref> Each narrative embeds echoes of what is to come. Vyvyan Ayrs dreams of Sonmi≏451's underground café and identical clone waitresses. <ref type="bibr">24</ref> The Hydra reactor is located on Swannekke Island, later the stage for the final apocalypse, and Luisa Rey pauses in front of a vessel named Prophetess that recalls Ewing's nineteenth-century ship. <ref type="bibr">25</ref> This may help explain why, unlike classical communities that tend to assimilate internal members continuously, the imagination of the multitude in the contemporary context more readily inspires the impulse to embrace it as a potential solution to lingering political predicaments. By binding the protagonists' fates through recurring details, the novel emphasises the uncanny force of transmigration. This process enables each individual to preserve their diverse identities in different bodies, thereby preventing the erasure of individuality and striking a balance between singularity and common purpose.</p><p>Because transmigration is entirely circumstantial, narrators can assume any role across gender, race, and class, untethered from fixed genetic or social logic. Their comet-shaped birthmarks thus signify difference rather than uniformity. Although they unconsciously grasp shared conditions and act in solidarity, they never sacrifice their uniqueness or agency. As O'Donnell has pointed out, "the 'human' as such, is for Mitchell a matter of the plural rather than the singular". 26 Indeed, no character in Cloud Atlas can be neatly defined by a single artificial category. In the world of the Moriori, there is no term for "race": "Moriori" simply means "people". Meronym's lessons to the village children reinforce this ethos, teaching that civilisation and wisdom cannot be determined by skin colour. Sonmi≏451's existence further dissolves the human-nonhuman boundary by challenging the definitions of personhood rooted in origin or form. In doing so, the novel underscores its broader interrogation of categorical thinking and its investment in multiplicity, contingency, and relationality.</p><p>Therefore, Mitchell's conception of the multitude, in the view of many scholars represented by Edwards, surpasses the traditional notion of communitya structure that provides members with a sense of identity and common purpose through "the sharing, diffusion, or impregnation of an identity by a plurality wherein each member identifies himself only through the supplementary mediation of his identification with the living body of the community"but aligns more closely with an "inoperative" one proposed by Jean-Luc Nancy. <ref type="bibr">27</ref> As Ewing's reflections on human fate and history suggest, even though individual lives are fleeting and seemingly insignificant in the vast expanse of human time -"one drop in a limitless ocean"their value lies in linking themselves to a larger collectivity in the pursuit of a more equal world. This insight foregrounds the notion of an inoperative community. <ref type="bibr">28</ref> According to the definition by Nancy, such a community emerges in the space between singularitiesthrough interruption, exposure, and shared existencerather than as a unified, closed body. Its porous, ever-expanding boundaries mirror the multitude's network, "open such that new nodes and new relationships can always be added". <ref type="bibr">29</ref> In Cloud Atlas, the cross-temporal network of the transmigratory multitude can continuously expand itself by absorbing such singularities, thus fostering plurality and undermining hegemonic exclusion. As Nancy warns, conceiving community as an immutable essence "is in effect the closure of the political". <ref type="bibr">30</ref> From this perspective, Mitchell's depiction of the multitude's potential to transcend the constraints of their politicised bodies is genuinely compelling. By embracing an open, non-teleological view of human coexistence, the author is thus "moving beyond the crippling passivity of domestic individualism towards a reformulated vision of community, solidarity and political alternatives". <ref type="bibr">31</ref> It is also worth noting that the multitude's plural complexity and permeability emerge not only through transmigration but also through migration. Mitchell's narratives are never short of interest in presenting the diasporic status of migrants and, more broadly, reconsidering the post-colonialist approach to globalisation. In Cloud Atlas, when Cavendish decides to travel to Hull, he encounters a polyglot landscape: an Afro-Caribbean ticket seller, a "Modigliani" porter speaking Arabic ("Yurrin Hupal"), and a turbaned cab driver. <ref type="bibr">32</ref> These migrants breach every geographic barrier of Great Britain, journeying into its heartland in search of freedom, wealth, and joy. Their mobility and commonality, Hardt and Negri argue, "is constantly a threat to destabilize the global hierarchies on which capitalist power depends" by "slid[ing] across the barriers 27 Nancy, The Inoperative Community, 9. <ref type="bibr">28</ref> Mitchell, Cloud Atlas, 529. <ref type="bibr">29</ref> Hardt and Negri, Multitude, xv. <ref type="bibr">30</ref> Nancy, The Inoperative Community, xxxviii. <ref type="bibr">31</ref> Edwards, "'Strange Transactions': Utopia, Transmigration," 180. <ref type="bibr">32</ref> Mitchell, Cloud Atlas, 173.</p><p>and burrow connecting tunnels that undermine the walls". <ref type="bibr">33</ref> Their practices of hybrid language further erode and disrupt the ontological constitution of Empire by rejecting the discipline of linguistic and racial "purity". <ref type="bibr">34</ref> Instead of assimilating to the dominant culture as outsiders, these individuals appropriate languages in what Gilles Deleuze and Felix Guattari might call "minor" modesinflected by their own histories, accents, and positionalitieswhich opens spaces for new forms of expression, subjectivity, and agency. <ref type="bibr">35</ref> In doing so, they activate what Hardt and Negri refer to as biopolitical power, not by seizing control of existing structures, but by reconfiguring the very terms of participation and belonging. Therefore, as O'Donnell observes, "everywhere in Cloud Atlas, … the multitude is felt as a countervailing presence to any fantasies or embodiments of 'pureblood'". <ref type="bibr">36</ref> In this way, Mitchell's depiction of migration reinforces the novel's broader vision of a fluid, heterogeneous collectiveone that challenges hegemonic norms through movement, hybridity, and the refusal of essentialist identities.</p><p>Published eleven years after Cloud Atlas, Slade House also demonstrates the power of linkage among diverse individuals across separate periods. From the rise of Thatcherism in 1979 to the rethinking of Britain's relationship with continental Europe and the wider world in 2015, although this narrative timeline is more compact and the scope of political concerns more localised, it somehow, in a more direct manner, unmasks Empire's exploitative undercurrent in an invisible war between "predators" and underdogs. In the novel, as Dr Marinus observes, this systemic oppression spans history, connecting "feudal lords to slave traders to oligarchs to neocons to predators". <ref type="bibr">37</ref> Unlike Cloud Atlas, Slade House strands its protagonists without recourse to a global multitude, leaving themsingle mother Nathan Bishop, marriage-and-career failure Gordon Edmond, mentally ill Sally Timms, and ostracised Freya Timmsisolated by socioeconomic precarity, personal trauma, or queer stigma. Despite apparent vulnerability, each defies the predatory Anchorites by "establishing affiliations through time", forging temporal networks of resistance akin to Cloud Atlas's transmigrations. <ref type="bibr">38</ref> Wendy Knepper emphasises how both human and spectral actors "claim agency in the face of oppression" through animated portraiture, but her reading overlooks the novel's telegram-like linkages that assemble a hidden multitude of allies across eras. <ref type="bibr">39</ref> As noted by Roger Luckhurst, "telegramming" (or telepathy) denotes occult communication over distancea power both wielded and resisted by the soul vampires of Slade House. Centuries ago, according to the setting in the fiction, the Grayers perfected séance-based mind-reading to defraud Europe's elites. During and after World War I, <ref type="bibr">33</ref> Hardt and Negri, Multitude, 137. <ref type="bibr">34</ref> Ibid., 138. <ref type="bibr">35</ref> The "minor mode" here recalls the ideal of "minor literature" articulated by Gilles Deleuze and Félix Guattari in Kafka: Toward a Minor Literature: "How many styles of genres or literary movements, even very small ones, have only one single dream: to assume a major function in language, to offer themselves as a sort of state language … Create the opposite dream: know how to create a becoming-minor" (27). Rather than confronting dominant structures through direct opposition or militant antagonism, minor literature enacts a form of micropoliticsa subtle, humble, and non-adversarial mode of resistance that transforms from within. Accordingly, in the context of Cloud Atlas, these migrants invent new ways of speaking, living, and relating from the margins, in order to resist the centrality and authority of the sovereign. 36 O'Donnell, A Temporary Future, 87. <ref type="bibr">37</ref> Mitchell, Slade House, 235. <ref type="bibr">38</ref> Knepper, "David Mitchell as World-Builder," 178. <ref type="bibr">39</ref> Ibid.</p><p>they extended this psychic dominion across imperial "territories", from Boston and Bombay to Paris and Peking. <ref type="bibr">40</ref> Their practices, to some extent, mirror the migratory logic of colonial expansion. As Luckhurst discovers, stories of superstition, such as telepathy, "could act as a passive shadowing of colonial power, mystifying its operation" over the minds of native races, substituting for the imperialist discourse. <ref type="bibr">41</ref> Having amassed vast wealth, they repurpose telegramming for biopolitical control -"sausioning" hosts to prolong their own lives and devour innocent soulsthus enacting a parasitic annexation. The link between soul hunting and colonial exploitation is also indicated by the pub's name, "The Fox and Hounds"the upper-class tradition of hunting both cultivates the twins' exploitative nature and serves as the author's means of evoking the lingering imperialist logic that continues to exert psychic contamination on contemporary individuals beneath a nostalgic veneer of history.</p><p>In their hunt for Nathan Bishop, Jonah Grayer becomes a "growling darkness with darker eyes" akin to a starving beast. <ref type="bibr">42</ref> However, it is evident that their Victorian-era hunting skills gradually deteriorate and fail across successive erasfrom the innocent young boy in the novel's opening chapter romanticising his father's colonial adventures overseas, to the final chapter in which the outsider, Dr Marinus, arrives to destroy the murderous twins. This narrative shift in scenes of conflict appears to respond directly to Jed Esty's influential formulation of post-war Britishness: with the British Empire's collapse and the loss of its imperial margins, the seemingly omnipotent Grayers are driven back to the post-war "shrinking island", merely attempting to preserve their fragile, decaying bodies and prolong the existence of imperialist logic. <ref type="bibr">43</ref> This outcome is largely due to the fact that telegramming in the novel is not unique to supernatural beings endowed with special powers; rather, it is frequently employed in more traditional and inconspicuous ways by ordinary individuals in everyday lifeor, to use Agamben's phrase, by those structurally designated as politicised bodies.</p><p>Consequently, readers often witness telegramming, as a key means through which the multitude can take shape and organise resistance against systemic political violence, empowering the disadvantaged victims, who tactically convert the alien telepathic power to spread vital information about the deficiency in the Grayers' hunting system and significantly interfere with the vampires' exploitative actions. In the first chapter, a prior victim alerts Nathan Bishop twice -"Run away, as fast as you can, the way you came in … "and Bishop, in the following chapter, uses his portrait to warn Gordon Edmond of hidden weapons even as his own soul is consumed. <ref type="bibr">44</ref> This occult communication bridges temporal gaps, enabling disparate prey to coordinate their resistance and gain the critical intelligence needed to undermine the Grayers' predatory mechanism. <ref type="bibr">45</ref> Their delivery of mysterious discourses, to some extent, echoes the indigenous resistance to colonial rule in the Victorian Age. During that period, supernatural narratives are widespread at empires' margins or in dispersed theatres of empires, which "suggest a mechanism of projection where anxieties about the fragility of colonial rule and scanty <ref type="bibr">40</ref> Mitchell, Slade House, 164-5. <ref type="bibr">41</ref> Luckhurst, The Invention of Telepathy, 152. <ref type="bibr">42</ref> Mitchell, Slade House, 23. <ref type="bibr">43</ref> Cf. Esty, A Shrinking Island, 8-10. <ref type="bibr">44</ref> Mitchell, Slade House, 26, emphasis in the original. <ref type="bibr">45</ref> Ibid., 61.</p><p>communication conjured occult doubles that mysteriously exceed European structures". <ref type="bibr">46</ref> In Slade House, the telegrammers likewise pin their hopes of salvation on telepathic communication to shatter the soul vampires' illusion of omnipotence, thereby "disrupt[ing] the 'propriety' of imperialist relations" or even "subvert[ing] imperial communications". <ref type="bibr">47</ref> The cumulative exchange of occult knowledge among telegrammers not only unravels the Grayers' predations but also structures Mitchell's narratives. As Maria Török argues, telepathy in literature would make it possible to "recognise the words of a secretly kept story, hidden elsewhere and by a beyond, in a hitherto unknown psychic topography and in a hitherto undiscovered dynamics". <ref type="bibr" target="#b1">48</ref> Here, each flash of shared insight exposes the hidden war waged by the soul vampires. A single objectthe silver fox-head hairpin, first gifted to Rita Bishop by her father from post-war Hong Kongrecurs across three episodes. Initially a symbol of post-war peace and justice, it later functions as a covert weapon passed from Gordon Edmond to Sally Timms, whose desperate strike on Jonah Grayer momentarily cripples the twins' "psychovoltaic" power. <ref type="bibr" target="#b2">49</ref> This contingent network of transmission is also found in Cloud Atlas's chance alliances of transmigratory beings. Both novels thus dramatise the constituency of the multitude: vulnerable individuals whose spontaneous affinities, forged through informational solidarity, may possess the potential to subvert even the most entrenched hierarchies. As Hardt and Negri remind us, only by "find[ing] intimate affinities in apparently distant discourse" can the oppressed counter the assimilating vortex of imperial violence, and without such collective ingenuity, they remain prey to forces that would consume them whole. <ref type="bibr" target="#b3">50</ref> </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>The Multitude's Inefficiency in Claiming Political Freedom</head><p>The theme of globalisationunderstood as the infiltration of global forces into local contextsis a defining concern of twenty-first-century novels, and Mitchell's narratives, as illustrated above, are particularly animated by this dynamic interplay. <ref type="bibr" target="#b4">51</ref> By portraying an interconnected global future that stands in direct opposition to totalitarian social engineering, the author often tends to project an optimistic, humanist worldviewat least on the surface. However, as pointed out by Appiah, "cosmopolitanism is the name not of the solution but of the challenge". <ref type="bibr" target="#b5">52</ref> While novelists often critique global economic exploitation and injustice, they are simultaneously enmeshed in the very structures they seek to interrogate. Positioned within a globalised cultural economy, they are inevitably "compromised", "implicated", and at times "complicit" in the destructive dynamics they seek to expose. <ref type="bibr" target="#b6">53</ref> Under so many circumstances in Cloud Atlas and Slade House, Mitchell's multitude turns out to be struggling ineffectively against the overwhelming forces of global exploitation and sometimes even reproduces the same exploitative logic as their adversaries. For this reason, readers may have to question if his literary blueprint against systematic politicisation proves utopian and limited, ultimately "remain[ing] an ideal" that "reflect[s] the failure, not the success, of emerging institutional structures and socio-cultural networks". <ref type="bibr">54</ref> Mitchell's global multitude operates consistently in a minor key, resisting hegemonic power through fragmentary and often ineffective means, due to its inherent weakness and partiality. This mode of resistance aligns with what Michel de Certeau describes as the tactical practices of "the weak" or "the other". A comparative analysis of the behavioural patterns and actual outcomes of characters across Mitchell's early and more recent works reveals an underlying fascination with Eastern philosophyparticularly Taoism's fairly raw dialectic of causality and reincarnation. Similarly, de Certeau introduces the military-derived terms "strategy" and "tactics", a conceptual pair that carries both antagonistic and symbiotic connotations, to analyse the interaction between dominant political cultures and their marginal or weaker counterparts. Of course, there is no direct evidence, nor is it necessary, to affirm whether Mitchell's portrayal of the multitude's oppositional methods is directly related to such theoretical frameworks. Yet it may well be that this awareness of an internal logic in which causal relations are often inverted or reversed permeates his narrative structure so thoroughly that a modest application of de Certeau's perspective can help readers better grasp Mitchell's ambiguous attitude towards the actual effectiveness of the multitude.</p><p>In The Practice of Everyday Life, de Certeau explores how ordinary individuals navigate, resist, and creatively engage with the structures of power and authority in daily life. He terms a "strategy" as a calculus of control that presupposes a proper place from which power is exercised, such as by a proprietor, a corporation, a city, or a scientific institution. <ref type="bibr">55</ref> In contrast, tactics are the tools of those who lack such institutional positioning. De Certeau characterises tactics as a form of improvised, mobile resistancea "calculus" that operates without a place of its own, relying instead on seizing fleeting opportunities as they arise. <ref type="bibr">56</ref> This action mode is evident in Mitchell's imagination of the multitude, whose emancipatory power lies in its unwitnessed defecting actions rather than confrontation with the dominant social order. When reduced to what Giorgio Agamben terms bare lifelife stripped of legal and political protectionthe characters often resort to fragmented and improvised tactics of survival to resist from within the oppressive systems. Cavendish's internment in Aurora House, a care home that functions more like a prison, illustrates this condition. Deprived of autonomy, property, and dignity, Cavendish becomes subject to an institutional logic that normalises violence and dehumanisation. <ref type="bibr">57</ref> When Cavendish pleads to be expelled, he is met with bureaucratic refusal: "Aurora House does not expel," said the sanctimonious moo, "but you will be medicated, if your behaviour warrants it, for your own protection". <ref type="bibr">58</ref> Cavendish's condition of exclusion-inclusion exemplifies the state of exceptionwhere the law is suspended but still enacted with absolute force. In response to this control, he <ref type="bibr">54</ref> Shaw, "Building Cosmopolitan Futures," 120. <ref type="bibr">55</ref> De Certeau, The Practice of Everyday Life, xix. <ref type="bibr">56</ref> Ibid. <ref type="bibr">57</ref> Mitchell, Cloud Atlas, 379. <ref type="bibr">58</ref> Ibid., 181.</p><p>initially acquiesces to humiliation and domination. <ref type="bibr">59</ref> Here, submission is framed not as failure, but as a necessary tactic for survival under conditions of extreme vulnerability. As his desperation grows, he begins to look for a way outnot out of heroism, but out of fear and the instinct to survive: "[M]y desperation to get out of Aurora Housealivemuted my natural prudence". <ref type="bibr">60</ref> This shift reflects what de Certeau calls a tactic. In contrast to the strategy of institutions, which is grounded in a proper place, tactics "seize the moment" and operate "on the wing". 61 Cavendish and his allies deploy such tactics by exploiting the smallest fissures within the institutionpiecing together information, manipulating interpersonal dynamics among the staff, and even turning the physical structure of the home against their captors. Their escape peaks with the poetic reversal of locking Nurse Noakes in the very room meant to contain them: "He nailed the door to its frame and left the huntress snarling in a prison cell of her own invention". <ref type="bibr">62</ref> By turning mechanisms of oppression into opportunities, the multitude achieves its temporal liberation, as no one knows when "the law were ever to catch up". <ref type="bibr">63</ref> From this, it becomes evident that the author's attempt to construct the multitude as a fundamental form of resistance against the lingering imperialist mentality in postcolonial and globalised contexts is underpinned by an inherent contradiction. The internal logic is structurally flawed, and its self-contradiction is inescapable. When it comes to actual ideological struggle and the contestation of narrative authority with dominant political forces, such contradictions often result in varying degrees of compromise and self-assimilation. On this point, de Certeau had already observed in his analysis of the nature of political and cultural resistance: since the multitude "escaped [the dominant social power] without [truly] leaving it", it is perpetually kept in the struggle, unable to transcend the structures it seeks to resist. <ref type="bibr">64</ref> This state of partial liberation is exemplified throughout Cloud Atlas, where protagonists confront injustice but fail to dismantle the systems that produce it. In episode three, for instance, Luisa Rey exposes the corruption behind HYDRA Zero. Yet, centuries later, the promotion of a new nuclear reactor proceeds undeterred, "as if the 200 years between Luisa Rey's 1970s and those of the global 'corporacies' of the twenty-second century had not intervened". <ref type="bibr">65</ref> The eventual nuclear apocalypse underscores the multitude's limited capacity to prevent systemic collapse or redirect the trajectory of power. A similar dynamic unfolds in Slade House, where hegemonic forces re-emerge despite their apparent defeat. Although the physical forms of the soul vampires are destroyed, the return of one through an unborn child signals the continuity and resilience of their domination.</p><p>The futility of the multitude is further demonstrated by the nature of its limited and opportunistic victories, which often depend more on the internal contradictions of hegemonic systems than on deliberate, coordinated resistance. In other words, a closer analysis of the tactics attributed to the multitude reveals that they essentially rely on the accumulation of contingency to increase, in the probabilistic sense, the chances of making progress in resistance. However, it must be noted that the timing of such tactical effectiveness is unpredictable, and for the living individuals engaged in each specific stage of struggle, the eventual success of a long-term, relay-based strategy often remains out of reach. In Slade House, for instance, although each character contributes to the final defeat of the supernatural twinsthe symbol of hegemonic powerthrough forms of telegramming, the protagonists of the first four stories irrevocably lose both their lives and their rightful political agency. As such, their tragic fates cannot simply be negated by a reversed grand narrative that idealises the multitude's ultimate victory; these losses are not absorbed or erased by it. Likewise, returning to Cloud Atlas, one can find that the interconnected narratives of Half-Lives and An Orison of Sonmi≏451 suggest that hegemonic systems are more likely to implode under the weight of their own internal contradictions than to be overturned by external resistance. The corporate ideologies decay from within, long before their actual collapse. As Sonmi observes, Plutocracy's legitimacy, its wealth, is drying up; the Juche's Enrichment Laws are mere sticking plasters on haemorrhages and amputations. Its only other response is that strategy beloved of all bankrupt ideologues: denial. Downstrata purebloods fall into the untermensch sinks; xecs parrot Catechism Seven, "A Soul's Value is the Dollars Therein". <ref type="bibr">66</ref> Economic collapse and ideological denial signal a system that has already lost moral and structural legitimacy. When legitimacy erodes, internal divisions and self-destruction follow. Trans Vision Inc., for example, descends into chaos due to unclear hierarchies and power struggles. Fay Li is assassinated by a rival within her own organisation, and this moment of intra-corporate violence creates an opening through which Luisa Rey and her companions take advantage to narrowly escape with their lives. In such instances, the multitude does not effect change through unified resistance but rather capitalises on the fractures within dominant institutions.</p><p>This trajectory is brought to its culmination in the novel's final section, where the collapse of technocratic capitalism is portrayed through a sweeping eco-apocalypse. By Zachry's time, the utopian promises of technocratic capitalism -"more gear, more food, faster speeds, longer lifes, easier lifes, more power"have devolved into dystopian realities: radioactive contamination poisons the soil, congenital defects become widespread, and the remnants of nations regress into fragmented tribal societies, marking the end of civilisation. <ref type="bibr">67</ref> The novel envisions the eventual outcome of unrestrained capitalist expansion as an implosive collapse, shaped by what Mackay and Avanessian describe as capitalism's "uprooting, alienating, decoding, abstractive tendencies". <ref type="bibr">68</ref> It is not the agency of the oppressed that causes the fall of corporate hegemony, but the unsustainability of the hegemonic system, already eroded by its own excesses and contradictions.</p><p>A similar situation recurs in Slade House, where Marinus and the 'telegrammers' capitalise on the outdated hunting system and overconfidence of the Grayer twins. The Grayers' reliance on an antiquated soul-harvesting technique renders them vulnerable to detection and counteraction. As Marinus notes, "Of all the shortcomings in your operandi, … your 'banjax' is the most antiquated … we haven't seen the Shaded Way deploy such a primitive formula for fifty or sixty years". <ref type="bibr">69</ref> Here, Mitchell emphasises not only <ref type="bibr">66</ref> Mitchell, Cloud Atlas, 341, emphasis in the original. <ref type="bibr">67</ref> Ibid., 286, emphasis in the original. <ref type="bibr">68</ref> Mackay and Avanessian, #Accelerate: The Accelerationist Reader, 4. <ref type="bibr">69 Mitchell,</ref><ref type="bibr">Slade House,</ref><ref type="bibr">224.</ref> the ethical bankruptcy of the soul predators but also the technological and operational stagnation that precipitates their downfall. In both novels, then, systemic failure is less the result of external opposition and more the product of internal corruption, complacency, and ideological obsolescence.</p><p>Therefore, the multitude's role remains largely opportunistic rather than revolutionary in its struggles, even though it does act tactically within these collapsing structures. There is a clear, rational scepticism regarding the subjective agency of the multitude as resistors. As Luisa Rey suggests in her conversation with Javier Moses, the multitude must wait and navigate its way out of danger, as the future has already been shaped by powerful forces and rendered alien to those without control. <ref type="bibr">70</ref> The multitude's agency is always limited, reactive, and shaped by external constraints rather than strategic foresight. According to Dancer, "The heroes of Mitchell's novels are those who concede their lack of control and acknowledge that they cannot dictate, in advance, how their actions will matter". <ref type="bibr">71</ref> Lacking overwhelming power, Mitchell's multitude must rely on uncertain possibilities, hoping that their struggles may gain meaning over time. This sense of deferred agency is reflected in the protagonists' recurring belief that their unfinished resistance will continue through others. As Sonmi explains, when asked why she cooperated with her oppressors:</p><p>But to what end? Some … future revolution?</p><p>To Corpocracy, to Unanimity, to the Ministry of Testaments, to the Juche and to the Chairman, I quote Seneca's warning to Nero: No matter how many of us you kill, you will never kill your successor. <ref type="bibr">72</ref> The multitude acts not as revolutionaries aiming for immediate transformation, but as participants in a long, uncertain continuum of resistance. In most cases, their actions are not even directed explicitly against systemic political and cultural oppression but are fundamentally motivated by instinctive pursuits of worldly emotions such as love for family and the preservation of self-respect. Accordingly, its efforts depend on memory, narrative, and the hope that future agentssuccessors, readers, listenerswill pick up the thread. Even so, this dependence on fictive and symbolic sources also makes the formation of the multitude epistemologically unstable. For example, in the Abbess' colony, Timothy Cavendishan ordinary book editoris mythologised as a divinity who can offer "salvation from a perpetuity of birth and rebirth". <ref type="bibr">73</ref> Similarly, despite recognising Sonmi's real identity, Zachry continues to revere her as a divine being whose image functions as both moral compass and spiritual comfort. Mitchell's narratives, on one hand, suggest that the authority of the multitude is grounded more in myth than fact. On the other hand, they also interrogate the very nature of myth, revealing how it can be frequently fabricated, manipulated, and instrumentalised by totalitarian regimes to sustain ideological control. In Nea So Copros, a constructed utopia myth serves not only to veil dystopian realities but also to condition individuals to <ref type="bibr">70</ref> Mitchell, Cloud Atlas, 418. <ref type="bibr">71</ref> Dancer, "David Mitchell's Inefficiency," 169. <ref type="bibr">72 Mitchell,</ref><ref type="bibr">Cloud Atlas,</ref><ref type="bibr">365. 73 Ibid.,</ref><ref type="bibr">345.</ref> prefer comforting falsehoods over unsettling truths. The vision of "Xultation", a promised paradise for diligent clones, becomes a powerful instrument of control:</p><p>On 3D we saw them again as they embarked for Hawaii; later, their arrival at Xultation; soon after, their transformation into busy, well-dressed consumers … How we marvelled! How happy our sisters looked. They [e]xhorted us to work hard; earn our stars with diligence; repay the Investment; and join them on Xultation as soon as possible. <ref type="bibr">74</ref> Although no fabricant has ever seen Xultation, it functions as a teleological endpoint: obedient labour and ideological loyalty. As O'Donnell notes, this myth promises "promotion to the putatively paradisiacal status of a consumer, complete with a 'Soulring' that signifies the fabricants' arrival as 'humans'". <ref type="bibr">75</ref> The effectiveness of this illusion lies in its emotional and aspirational appeal: it replaces the "grimly dystopia" realities of the present with a seductive promise of post-labour bliss. <ref type="bibr">76</ref> This daily indoctrination invades the consciousness of the oppressed more thoroughly than overt repression. The fabricants' internalisation of the dream of consumption reveals the extent to which ideological mythmaking can substitute for lived experience and suggests why, even when surrounded by observable realities, individuals may find truth inaccessible or undesirable. Since fictive content, which the multitude receives and mostly relies on for social production and cooperation, is constantly interfered with by feigned truth and lies, it will never help form a stable and reliable foundation of the rebel entity.</p><p>The multitude's instability is also illustrated in Slade House, where the dispersed members of the multitude attempt to bridge temporal divides by "telegramming" one another through portraits. However, these efforts at alliance and communication repeatedly fail when the multitude is alive. Nathan Bishop dismisses a warning voice as a sideeffect of Valium: "Was it even there? It's Valium. Maybe I shouldn't take any more for a while". <ref type="bibr">77</ref> Gordon Edmond similarly ignores Bishop's voice, dismissing it as imaginary. Sally Timms ridicules Edmond's "sound-delay trick" and is perplexed by an antique hairpin he presents to her. <ref type="bibr">78</ref> In each case, these characters are unable to decode or trust the signals sent across time, and all eventually fall victim to the soul vampires. These failures reveal a crucial limitation: when communication surpasses individual perception and lacks shared context, it cannot produce effective coordination or sustained resistance. As Machinal argues, the multitude is shaped by "the illusory quality of what [it] consider[s] as real", raising doubts about the coherence and stability of its political subjectivity. 79 In Mitchell's fictional universe, then, the multitudefragile, misaligned, and often operating under false assumptionsstruggles to function as a meaningful counterforce to global systems of domination and exploitation, although more often than not, they are unaware of the very nature of the forces they oppose, or even the ultimate goal of their resistance.</p><p>Therefore, despite Mitchell's speculative aesthetics fostering a sense of communal connectivity that invites alternative ways of living, the praxis they offer is more hypothetical than practicaland, more importantly, the fairy-tale-like romanticisation largely <ref type="bibr">74 Ibid.,</ref><ref type="bibr">190. 75</ref> O'Donnell, A Temporary Future, 93. <ref type="bibr">76</ref> Mitchell, Cloud Atlas, 244. <ref type="bibr">77 Mitchell,</ref><ref type="bibr">Slade House,</ref><ref type="bibr">26. 78</ref> Ibid., 119. <ref type="bibr">79</ref> Machinal, "Cloud Atlas: From Postmodernity," 129.</p><p>diminishes readers' capacity for empathy towards the victimised characters in the novels, while significantly understating their tragic plight as bare life subjected to ongoing politicisation. <ref type="bibr">80</ref> As Eric Hayot notes, Mitchell constructs a world in which everything is interconnected, yet nothing is entirely determined by those connections. <ref type="bibr">81</ref> This ambiguous outcome of the multitude's union becomes especially pronounced in Slade House, where Mitchell resists the conventional narrative of the weak overcoming the strong by invoking a deus ex machina. The eventual act of liberation is not achieved by the interconnected oppressed themselves, but by Dr Marinusa Horologist who transcends the limitations of human temporality and vulnerability. As a recurring figure across Mitchell's oeuvre, including The Thousand Autumns of Jacob de Zoet, The Bone Clocks, and Mitchell's Libretti, Marinus is endowed with intergenerational memory, encyclopedic knowledge, and extensive experience combating the Anchorites. Her immortality and tactical expertise allow her to eliminate Jonah Grayer swiftly:</p><p>There was no time to glyph or warn or intervene -Jonah Grayer lived for over 42,000 days, but he died in a fractured second, killed by a beginner's trick, albeit a trick deployed by a master. <ref type="bibr">82</ref> Although Marinus's intervention restores a form of moral order and enacts retributive justice, it simultaneously displaces the political agency of the "telegrammers". Her role aligns with what Coffey terms "deliverance politics", a providential model in which liberation is achieved not through collective struggle, but via intervention by a transcendent or exceptional force: "God was the Deliverer of Exodus, a God who acted within human history to bring freedom from oppression and slavery". <ref type="bibr">83</ref> As Toni Morrison writes in Beloved, "Freeing yourself was one thing, claiming ownership of that freed self was another". <ref type="bibr">84</ref> The overemphasis on Marinus's salvific role, on one hand, risks undermining the emancipatory potential of the multitude by rendering it dependent on external deliverance rather than its own agency. On the other hand, Mitchell's deliberate deployment of deus ex machina shifts the dynamics of power, thereby raising ethical concerns about the legitimacy of the conflict between the Horologists and the Anchorites. By the end of the novel, the struggle is no longer framed as a revolutionary quest for liberation, but as a conflict between rival eliteseach operating on a plane inaccessible to ordinary humans. Dr Marinus, though ostensibly aligned with moral righteousness, succeeds in preserving a system of inherited privilege. Her refusal to admit the privilege she holds becomes clear when, challenged about it, she responds:</p><p>"You deny us the privileges you enjoy." My voice sounds chipped and cracked. It's this thirst.</p><p>"You murder for immortality," states Marinus. "We are sentenced to it." <ref type="bibr">85</ref> To both her enemies and the readers, this statement resonates as deeply disingenuous, echoing the logic of entrenched elites who obscure their power by recasting it as a <ref type="bibr">80</ref> Cf. Agamben, Homo Sacer: Sovereign Power, 24. <ref type="bibr">81</ref> Hayot, "Of Clouds and Clocks." <ref type="bibr">82</ref> Mitchell, Slade House, 229. <ref type="bibr">83</ref> Coffey, Exodus and Liberation, 12. <ref type="bibr">84</ref> Morrison, Beloved: A Novel, 95. <ref type="bibr">85</ref> Mitchell, Slade House, 234, emphasis in the original.</p><p>burden. As Jonah Grayer presciently warns earlier in the novel, were immortality truly limited, elites would go to any length to control access: What wouldn't these same warlords, oligarchs, elites and electorates do to enforce their claims over a limited supply of Life Everlasting? Miss Timms, they'd kick off World War Three. <ref type="bibr">86</ref> Despite their ostensible moral superiority, the Horologists are equally committed to upholding the hierarchical logic of the social pyramid. Acting in God's true name, they claim the right to define and eliminate those they classify as "metalife without a mission". <ref type="bibr">87</ref> Their violence is framed as just, while the Anchoritesdespite forming an alternative and more accessible model of immortalityare demonised and swiftly eliminated. As Hardt and Negri note, the vampire is "one figure that expresses the monstrous, excessive, and unruly character of the flesh of the multitude". <ref type="bibr">88</ref> While once symbolic of threat and contaminationas in Bram Stoker's Count Draculathe vampire now points to emergent and subversive social forms. "The vampire, its monstrous life, and its insatiable desire," they write, "has become symptomatic not only of the dissolution of an old society but also the formation of a new". <ref type="bibr">89</ref> In this light, the Grayers' collective effort to democratise access to immortality can be read not merely as parasitic, but as a radical challenge to the naturalised privilege of the Horologists. Faced with this challenge, Marinus moves swiftly to annihilate the Anchorites, justifying her actions as morally necessary while simultaneously preserving her class's exclusive claim to eternal life. Her own admission captures the moral ambiguity of this conflict:</p><p>Traditionally, we'd stage another climactic battle between good and evil. We'd never agree which of us is which, however, and the only prize on offer is a slower death by oxygen starvation. Shall we forgo tradition? <ref type="bibr">90</ref> Mitchell's refusal to position one side as unequivocally righteous underscores his critique of moral absolutism and exposes the operation of power beneath the rhetoric of justice. As O'Donnell observes, In the 'epic' visions of Cloud Atlas and The Thousand Autumns, in The Bone Clocks, good and evil are not simply paired off in Manichean binaries embroiled in an eternal battle for domination of the human world. … , and if there is a god that some blindly obey, it is power itself. <ref type="bibr">91</ref> Ultimately, Mitchell's depiction of the Horologists reveals their allegiance not to universal ethics but to the preservation of their own metaphysical and institutional authority. While the narrative may initially position them as protectors of life, their actions suggest that they, too, are agents of domination operating within a cosmic hierarchy that resists true transformation.</p><p>A moment of ideological hypocrisy resurfaces in Cloud Atlas when the revolutionary Union proposes to forcibly "ascend" fabricants in order to enlist them in the struggle. This moment affirms Hardt and Negri's claim that immaterial labourers constitute the primary force of the multitude, given that "immaterial labor has become hegemonic in qualitative terms and has imposed a tendency on other forms of labor and society itself". 92 However, Mitchell complicates this ideal by implying that, even after ascension, the fabricants' conditions will not improve meaningfully. Rather than being emancipated, they are instrumentalisedregulated through ideological means and deployed as political tools. As Sonmi declares:</p><p>Ascended fabricants need a Catechism: to teach them rights; to harness their anger; to channel their energies. <ref type="bibr">93</ref> The revolution's logic resembles that of the corporate Pyramid it claims to resist: fabricants are not empowered to act autonomously but are instead conditioned to serve a preestablished political agenda. Both the corporate regime and the revolutionary faction exploit clone labour while maintaining the illusion of moral high ground. Crucially, the revolutionists' emphasis on incorporating affective labourers into its ranksby upgrading clones into more cognitively advanced beings like Sonmiinadvertently reinforces existing hierarchies. This selective inclusion reproduces the structural exclusion of physical labourers, who remain marginalised and voiceless. As a result, the socio-economic stratification of the past is not overturned but re-inscribed, with fabricants engaged in manual labour still occupying the lowest rung of the social order. Rather than achieving radical egalitarianism, the revolution risks reinstating a familiar hierarchy under the guise of progressive transformation.</p><p>Thus, while Mitchell does plant what O'Donnell calls "radical hope by re-incarnating solidarity through intertwined acts of resistance", his novels also raise serious doubts about the multitude's ability to enact genuine systemic transformation. <ref type="bibr">94</ref> The revolutions portrayed are compromisedeither co-opted by elite power structures or reliant on hierarchical models that undermine their emancipatory potential. The readers are finally left to question not only the legitimacy of these resistances but also the very conditions under which transformation becomes possible.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Conclusion</head><p>David Mitchell's narration of the multitude presents both its idealistic appeal as a potential vehicle for political and cultural resistance, and its internal contradictions that remain difficult to resolve in practice. Across the literary universe he constructs, individuals from different cultural backgrounds and separated by vast stretches of time and space participate in a relay-like process of resistance that gestures towards an alternative vision of global solidarity. This vision does not rely on traditional nation-state or classical communal structures, but instead aligns with a cosmopolitan context where connections between individuals are loosely formed. It grants the multitude a certain moral legitimacy in opposing political violence and rejecting cultural uniformity, while also offering a utopian hope that individuals may retain self-awareness and subjective agency. Nevertheless, it is precisely the decentralisation and structural looseness that make the multitude <ref type="bibr">92</ref> Hardt and Negri, Multitude, 109, emphasis in the original. <ref type="bibr">93 Mitchell,</ref><ref type="bibr">Cloud Atlas,</ref><ref type="bibr">362. 94 O'Donnell,</ref><ref type="bibr">A Temporary Future,</ref><ref type="bibr">179.</ref> hard to organise in any effective political sense. Its capacity to act is often sustained by narrative coincidences and symbolic moments rather than concrete strategies.</p><p>This paradoxical imagination of the multitude is clearly rooted in a critique of the ongoing influence of imperialist cultural logics, and expresses a deep sympathy for those attempting to resist the forced rewriting of their identities and to maintain cultural consciousness. While Mitchell's networked narratives appear to include more voices from the margins, they often continue to operate within a globalised structure dominated by cosmopolitanismprogressive in rhetoric, conservative in spirit. Within such a framework, the kind of hegemonic discourse once enforced through colonial assimilation and cultural suppression has merely been transformed into a more covert, softer, but more pervasive form of control. The motivations of individuals within the multitude, therefore, tend not to be grounded in fully developed political awareness, but rather in a basic defence of emotional instincts and human dignity. As a result, Mitchell's multitude emerges more as a coalition driven by affect than as one founded on a sustained understanding of power structures. From the narrative perspective itself, however, the novelist does not dismiss but rather endorses the multitude's potential to inspire small-scale resistance and to reactivate voices of othernessespecially under circumstances where systematic organisation is impossible.</p><p>Still, the internal inconsistencies of the multitude as a model for political action are repeatedly exposed across Mitchell's oeuvre. Its loosely structured form means that communication and interaction between participants are rare, if not impossible, particularly when they are separated by centuries and continents. The interconnections so often emphasised by readers depend, within the novels, on devices such as telepathic sensations or archaeological quests for knowledge-laden objects. If the multitude is simply a romantic ideameant to symbolically express the hope that bare life, as described by Agamben, might reclaim political sovereigntythen its affirmative stance, optimism, and moral commitment to resisting colonial violence are surely admirable. But if it is to be read as a viable political strategy, its reliance on coincidence and narrative closure, and its detachment from actual histories of struggle and individual political decisions, significantly weakens its force and effectiveness. From this perspective, its structure is not fundamentally different from the hierarchical and unequal systems it seeks to break away from.</p><p>In a sense, Mitchell's novels may be seen as representative of the dominant narrative tendencies and cultural expectations of the two decades around the turn of the twentyfirst century. As Patrick O'Donnell has noted, "Mitchell's cosmopolitanism can be seen as a matter of both plot and style". <ref type="bibr">95</ref> This cosmopolitanismalongside what Peter Childs, in Contemporary Novelists: British Fiction Since 1970, identifies as "sweeping multiculturalism"reflects attempts to distance from imperial legacies by including non-Anglo-British and non-Western voices within a global literary frame. <ref type="bibr">96</ref> The writing of the multitude in this context carries a moderate, cautious hope for change. Yet this hope is never enough to ignite real transformation, because both the strategies and the ideological self-reflection that such change would require remain incomplete. As such, the 95 Ibid., 6. <ref type="bibr">96 Childs,</ref><ref type="bibr">Contemporary Novelists,</ref><ref type="bibr">9.</ref> imagined goals of global justice and empowerment for marginal spaces are still largely situated within Western-centred, neoliberal frameworks.</p><p>Since the second decade of the new millennium, anti-globalisation has gained significant momentum, and extreme narratives have become louder in many regions. On one hand, this reflects the inevitable resistance that the multitudeas well as other cultural models based on "multi-" prefixesmust face from the established order. On the other hand, the internal contradictions and practical limitations of such models have become increasingly visible. Mitchell's fiction gives readers an important lens through which to understand the cultural strategies and ideological concerns of this historical moment: it values moderate visions of equality and coexistence while also reminding us that, without a firm path towards action rooted in historical and social realities, the hopes associated with the multitude are likely to dissolve under the weight of their own structural fragility. In literature, the desire for plurality and solidarity may be moving, but without reflection on the deeper foundations of power, these ideals remain detached from real political change or meaningful emancipation. Therefore, the multitude may not be the way out it turns out to be a timely warning that the politicised subjects have yet to fully pinpoint the nature of the problem.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Disclosure Statement</head><p>No potential conflict of interest was reported by the author(s).</p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head>8</head><label></label><figDesc>Hardt and Negri, Multitude, 100; Koçak-Şimşek, The Concept of the Multitude, v.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_1"><head>9</head><label></label><figDesc>Hardt and Negri, Multitude, xiii. 10 O'Donnell, A Temporary Future, 83; Childs and Green, "The Novel in Nine Parts," 36; Edwards, "'Strange Transactions': Utopia, Transmigration," 187. 11 Shaw, "Building Cosmopolitan Futures," 115.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_0"><head></head><label></label><figDesc>During the six-century century trajectory of developmentfrom Marsilius of Padua through Niccolò Machiavelli, Thomas Hobbes, and Baruch Spinoza to the</figDesc><table /><note><p><p>6</p>Edwards, "The Books Interview: David Mitchell." 7 Dancer, "David Mitchell's Inefficiency," 152.</p></note></figure>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="20" xml:id="foot_0"><p>Ibid., xv.   </p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="21" xml:id="foot_1"><p>Ibid., xvi.   </p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="22" xml:id="foot_2"><p>Mitchell, Cloud Atlas, 64.   </p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="23" xml:id="foot_3"><p>Hardt and Negri, Multitude, 65.   </p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="24" xml:id="foot_4"><p>Mitchell, Cloud Atlas, 80.   </p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="25" xml:id="foot_5"><p>Ibid., 100, 448.   </p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="26" xml:id="foot_6"><p>O'Donnell, A Temporary Future, 87.   </p></note>
+		</body>
+		<back>
+
+			<div type="funding">
+<div><head>Funding</head><p>This work was supported by <rs type="funder">National Social Science Fund of China</rs> [grant number <rs type="grantNumber">25BWW025</rs>].</p></div>
+			</div>
+			<listOrg type="funding">
+				<org type="funding" xml:id="_UwQPvHc">
+					<idno type="grant-number">25BWW025</idno>
+				</org>
+			</listOrg>
+
+			<div type="availability">
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Data Availability Statement</head><p>This study did not generate new data.</p></div>
+			</div>
+
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<monogr>
+		<title level="m" type="main">The Invention of Telepathy</title>
+		<author>
+			<persName><surname>Luckhurst</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="page">158</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<monogr>
+		<title level="m" type="main">Afterword</title>
+		<author>
+			<persName><surname>Török</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="page">86</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">Slade</forename><surname>Mitchell</surname></persName>
+		</author>
+		<author>
+			<persName><surname>House</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="volume">216</biblScope>
+			<biblScope unit="page">228</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">Negri</forename><surname>Hardt</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Multitude</forename></persName>
+		</author>
+		<imprint>
+			<biblScope unit="page">107</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<monogr>
+		<title level="m" type="main">The Networked Novel</title>
+		<author>
+			<persName><surname>Cf</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Edwards</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="page">16</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<monogr>
+		<author>
+			<persName><forename type="first">Cosmopolitanism</forename><surname>Appiah</surname></persName>
+		</author>
+		<title level="m">Ethics in a World of Strangers</title>
+		<imprint/>
+	</monogr>
+	<note>xv</note>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<monogr>
+		<title level="m" type="main">David Mitchell&apos;s Inefficiency</title>
+		<author>
+			<persName><surname>Cf</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Dancer</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="page">149</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<monogr>
+		<title level="m" type="main">Homo Sacer: Sovereign Power and Bare Life. Translated by Daniel Heller-Roazen</title>
+		<author>
+			<persName><forename type="first">Giorgio</forename><surname>Agamben</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1998">1998</date>
+			<publisher>Stanford University Press</publisher>
+			<pubPlace>Stanford, CA</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<monogr>
+		<title level="m" type="main">Cosmopolitanism: Ethics in a World of Strangers</title>
+		<author>
+			<persName><forename type="first">Kwame</forename><surname>Appiah</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Anthony</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2006">2006</date>
+			<publisher>W. W. Norton &amp; Company</publisher>
+			<pubPlace>New York</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<monogr>
+		<title level="m" type="main">Contemporary Novelists: British Fiction Since</title>
+		<author>
+			<persName><forename type="first">Peter</forename><surname>Childs</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1970">1970. 2005</date>
+			<publisher>Palgrave Macmillan</publisher>
+			<pubPlace>New York</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title level="a" type="main">The Novel in Nine Parts</title>
+		<author>
+			<persName><forename type="first">Peter</forename><surname>Childs</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">James</forename><surname>Green</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">David Mitchell: Critical Essays</title>
+		<editor>
+			<persName><forename type="first">Sara</forename><surname>Dillon</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Canterbury</addrLine></address></meeting>
+		<imprint>
+			<publisher>Gylphi</publisher>
+			<date type="published" when="2011">2011</date>
+			<biblScope unit="page" from="25" to="47" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<monogr>
+		<author>
+			<persName><forename type="first">John</forename><surname>Coffey</surname></persName>
+		</author>
+		<title level="m">Exodus and Liberation: Deliverance Politics from John Calvin to Martin Luther King Jr</title>
+		<meeting><address><addrLine>Oxford</addrLine></address></meeting>
+		<imprint>
+			<publisher>Oxford University Press</publisher>
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<title level="a" type="main">David Mitchell&apos;s Inefficiency</title>
+		<author>
+			<persName><forename type="first">Thom</forename><surname>Dancer</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Critical Modesty in Contemporary Fiction</title>
+		<meeting><address><addrLine>Oxford</addrLine></address></meeting>
+		<imprint>
+			<publisher>Oxford University Press</publisher>
+			<date type="published" when="2021">2021</date>
+			<biblScope unit="page" from="149" to="182" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<monogr>
+		<title level="m" type="main">The Practice of Everyday Life</title>
+		<author>
+			<persName><forename type="first">De</forename><surname>Certeau</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Michel</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1988">1988</date>
+			<publisher>University of California Press</publisher>
+			<pubPlace>Berkeley</pubPlace>
+		</imprint>
+	</monogr>
+	<note>Translated by Steven Rendall</note>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<title level="a" type="main">The Books Interview: David Mitchell</title>
+		<author>
+			<persName><forename type="first">Caroline</forename><surname>Edwards</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">New Statesman</title>
+		<imprint>
+			<date type="published" when="2010-08-11">August 11, 2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title level="a" type="main">Strange Transactions&apos;: Utopia, Transmigration and Time in Ghostwritten and Cloud Atlas</title>
+		<author>
+			<persName><forename type="first">Caroline</forename><surname>Edwards</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">David Mitchell: Critical Essays</title>
+		<editor>
+			<persName><forename type="first">Sara</forename><surname>Dillon</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Canterbury</addrLine></address></meeting>
+		<imprint>
+			<publisher>Gylphi</publisher>
+			<date type="published" when="2011">2011</date>
+			<biblScope unit="page" from="177" to="200" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<title level="a" type="main">The Networked Novel</title>
+	</analytic>
+	<monogr>
+		<title level="m">The Routledge Companion to Twenty-First Century Literary Fiction</title>
+		<editor>
+			<persName><forename type="first">O'</forename><surname>Daniel</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">Robert</forename><surname>Gorman</surname></persName>
+		</editor>
+		<editor>
+			<persName><surname>Eaglestone</surname></persName>
+		</editor>
+		<meeting><address><addrLine>New York</addrLine></address></meeting>
+		<imprint>
+			<publisher>Routledge</publisher>
+			<date type="published" when="2017">2017</date>
+			<biblScope unit="page" from="13" to="24" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<monogr>
+		<author>
+			<persName><forename type="first">Jed</forename><surname>Esty</surname></persName>
+		</author>
+		<title level="m">A Shrinking Island: Modernism and National Culture in England</title>
+		<meeting><address><addrLine>Princeton, NJ</addrLine></address></meeting>
+		<imprint>
+			<publisher>Princeton University Press</publisher>
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<monogr>
+		<title level="m" type="main">Kafka: Toward Minor Literature</title>
+		<author>
+			<persName><forename type="first">Deleuze</forename><surname>Gilles</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Félix</forename><surname>Guattari</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1975">1986. 1975</date>
+			<publisher>University of Minnesota Press</publisher>
+			<pubPlace>Minneapolis</pubPlace>
+		</imprint>
+	</monogr>
+	<note>Translated by Dana Polan</note>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<monogr>
+		<title level="m" type="main">Multitude: War and Democracy in the Age of Empire</title>
+		<author>
+			<persName><forename type="first">Michael</forename><surname>Hardt</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Antonio</forename><surname>Negri</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2004">2004</date>
+			<publisher>Penguin</publisher>
+			<pubPlace>New York</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<monogr>
+		<title level="m" type="main">Of Clouds and Clocks: The Fiction of David Mitchell</title>
+		<author>
+			<persName><forename type="first">Eric</forename><surname>Hayot</surname></persName>
+		</author>
+		<ptr target="https://www.publicbooks.org/of-clouds-and-clocksthe-fiction-of-david-mitchell/" />
+		<imprint>
+			<date type="published" when="2015-02">Feb. 2015</date>
+		</imprint>
+	</monogr>
+	<note>Public Books 1</note>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<analytic>
+		<title level="a" type="main">David Mitchell as World-Builder: The Bone Clocks and Slade House</title>
+		<author>
+			<persName><forename type="first">Wendy</forename><surname>Knepper</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">David Mitchell: Contemporary Critical Perspectives</title>
+		<editor>
+			<persName><forename type="first">Wendy</forename><surname>Knepper</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">Courtney</forename><surname>Hopf</surname></persName>
+		</editor>
+		<meeting><address><addrLine>London</addrLine></address></meeting>
+		<imprint>
+			<publisher>Bloomsbury</publisher>
+			<date type="published" when="2019">2019</date>
+			<biblScope unit="page" from="165" to="182" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<monogr>
+		<title level="m" type="main">The Concept of the Multitude in Marsilius, Machiavelli and Hobbes</title>
+		<author>
+			<persName><forename type="first">Zeynep</forename><surname>Koçak-Şimşek</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2020">2020</date>
+			<publisher>European University Institute</publisher>
+		</imprint>
+	</monogr>
+	<note type="report_type">PhD dissertation</note>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<analytic>
+		<title level="a" type="main">Cloud Atlas: From Postmodernity to the Posthuman</title>
+		<author>
+			<persName><forename type="first">Roger</forename><forename type="middle">;</forename><surname>Luckhurst</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Hélène</forename><surname>Machinal</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">The Invention of Telepathy: 1870-1901</title>
+		<editor>
+			<persName><forename type="first">Sara</forename><surname>Dillon</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Oxford; Canterbury</addrLine></address></meeting>
+		<imprint>
+			<publisher>Gylphi</publisher>
+			<date type="published" when="2002">2002. 2011</date>
+			<biblScope unit="page" from="127" to="154" />
+		</imprint>
+	</monogr>
+	<note>David Mitchell: Critical Essays</note>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<monogr>
+		<title level="m">#Accelerate: The Accelerationist Reader</title>
+		<editor>
+			<persName><forename type="first">Robin</forename><surname>Mackay</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">Armen</forename><surname>Avanessian</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Falmouth</addrLine></address></meeting>
+		<imprint>
+			<publisher>Urbanomic</publisher>
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">David</forename><forename type="middle">Cloud</forename><surname>Mitchell</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Atlas</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2004">2004</date>
+			<publisher>Sceptre</publisher>
+			<pubPlace>London</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">Slade</forename><surname>House</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2015">2015</date>
+			<publisher>Random House</publisher>
+			<pubPlace>New York</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b27">
+	<monogr>
+		<title level="m" type="main">The Inoperative Community</title>
+		<author>
+			<persName><forename type="first">Toni</forename><forename type="middle">;</forename><surname>Morrison</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Jean</forename><surname>Nancy</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Luc</surname></persName>
+		</author>
+		<editor>Peter Connor. Translated by Peter Connor, Lisa Garbus, Michael Holland, and Simona Sawhney</editor>
+		<imprint>
+			<date type="published" when="1987">1987. 1991</date>
+			<publisher>University of Minnesota Press</publisher>
+			<pubPlace>Minneapolis</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b28">
+	<monogr>
+		<title level="m" type="main">A Temporary Future: The Fiction of David Mitchell</title>
+		<author>
+			<persName><forename type="first">Patrick</forename><surname>O'donnell</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2015">2015</date>
+			<publisher>Bloomsbury Academic</publisher>
+			<pubPlace>New York</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b29">
+	<monogr>
+		<author>
+			<persName><forename type="first">Berthold</forename><surname>Schoene</surname></persName>
+		</author>
+		<title level="m">The Cosmopolitan Novel</title>
+		<meeting><address><addrLine>Edinburgh</addrLine></address></meeting>
+		<imprint>
+			<publisher>Edinburgh University Press</publisher>
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b30">
+	<analytic>
+		<title level="a" type="main">Building Cosmopolitan Futures: Global Fragility in the Fiction of David Mitchell</title>
+		<author>
+			<persName><forename type="first">Kristian</forename><surname>Shaw</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">English Academy Review</title>
+		<imprint>
+			<biblScope unit="volume">32</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="109" to="123" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b31">
+	<analytic>
+		<title level="a" type="main">Afterword: What is Occult in Occultism? Between Sigmund Freud and Sergei Pankeiev Wolf Man</title>
+		<author>
+			<persName><forename type="first">Maria</forename><surname>Török</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">The Wolf Man&apos;s Magic Word: A Cryptonymy</title>
+		<editor>
+			<persName><forename type="first">Nicholas</forename><surname>Rand</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Minneapolis</addrLine></address></meeting>
+		<imprint>
+			<publisher>University of Minnesota Press</publisher>
+			<date type="published" when="1986">1986</date>
+			<biblScope unit="page" from="84" to="106" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

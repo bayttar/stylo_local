@@ -1,0 +1,671 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Liberated territory: on the poetry and pedagogy of Tongo Eisen-Martin</title>
+				<funder>
+					<orgName type="full">Leverhulme Trust</orgName>
+				</funder>
+				<funder ref="#_H4fvdJ5 #_2zFWj6a">
+					<orgName type="full">unknown</orgName>
+				</funder>
+				<funder>
+					<orgName type="full">Kulturwissenschaftliches Institut Essen, Universitätsallianz Ruhr</orgName>
+				</funder>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author role="corresp">
+							<persName><forename type="first">Thomas</forename><surname>Allen</surname></persName>
+							<email>t.callen86@gmail.com</email>
+							<affiliation key="aff0">
+								<orgName type="institution" key="instit1">Comparative Literature</orgName>
+								<orgName type="institution" key="instit2">The American University of Paris</orgName>
+								<address>
+									<settlement>Paris</settlement>
+									<country key="FR">France</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Tongo</forename><surname>Eisen-Martin</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="institution" key="instit1">Comparative Literature</orgName>
+								<orgName type="institution" key="instit2">The American University of Paris</orgName>
+								<address>
+									<settlement>Paris</settlement>
+									<country key="FR">France</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Liberated territory: on the poetry and pedagogy of Tongo Eisen-Martin</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date/>
+						</imprint>
+					</monogr>
+					<idno type="MD5">40C9F8BB1841A0D7B74D65237381C05D</idno>
+					<idno type="DOI">10.1080/0950236X.2025.2608010</idno>
+					<note type="submission">Received 4 February 2025; Accepted 27 August 2025</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.0" ident="GROBID" when="2026-02-25T19:50+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term>Tongo Eisen-Martin</term>
+					<term>poetry</term>
+					<term>praxis</term>
+					<term>parataxis</term>
+					<term>pedagogy Liberated territory</term>
+				</keywords>
+			</textClass>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>This article considers the poetry and pedagogical work of the Bay Area poet, organizer and activist, Tongo Eisen-Martin. I begin from the premise that, for Eisen-Martin, poetry and political praxis share a deep affinity, and I seek to elaborate what this affinity is and how it affects our understanding of poetry and the political. I start by reading Eisen-Martin's own writing on aesthetics, which suggests that, for him, poetry is essentially paratactic and that its proximity to praxis lies in the capacity for both to manifest the changeability of the world. Following this, I close-read passages from Eisen-Martin's own compositions and suggest that the capacity for parataxis to manifest tension between part and whole is a key element of the effect he seeks to produce in his work. I then consider Eisen-Martin's online syllabus, We Charge Genocide Again!, and suggest that a similar tension between part and whole forms a structuring principle of his pedagogical philosophy. I follow how Eisen-Martin seeks to create a sense of individual and collective agency via engagement in the tradition of radicalism and the stimulation of creative reflection amongst his students. I conclude by suggesting that it is within the gaps opened by paratactic composition that what Eisen-Martin understands as critical intelligence, and a capacity for praxis, comes to life.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>in the history of my sentient experience […] the garden of intelligence is praxis'. <ref type="bibr">1</ref> This essay is concerned with how Eisen-Martin perceives the common ground between poetry and radical politics, and what the consequences of this are both for the study of poetry and for an understanding of praxis.</p><p>I do not want to claim that Eisen-Martin thinks that poetry and praxis are identical, and for this reason, I am hesitant to include his discussions of political art alongside relatively recent conversations concerning the efficacy or not of poetry for emancipatory politics. The repudiation of this efficacy was memorably performed by Joshua Clover when he stated upon receiving the Walt Whitman prize that the idea that writing or reading poetry is in any way equivalent to actual political action 'is such bullshit, isn't it?' 2 I think that Eisen-Martin would agree that writing a poem is in not directly equivalent to taking concrete action for the sake of collective emancipation. Still, two things do not need to be the same to share common qualities, or for their juxtaposition to be able to illuminate each other's essential characteristics. Eisen-Martin is, I think, a necessary reference in thinking the contemporary relationship between art and praxis.This is in part because he has dedicated his life to both, and in part because this dedication appears indissolubly related to his conviction that there is a deep affinity between these two spheres of action. While I understand that reading Eisen-Martin's work within its full context involves registering its position in relation to the above conversation, I am less interested in thinking about Eisen-Martin's convictions alongside those the for whom the notion that 'poetry makes nothing happen' is a basic truth from which to begin thinking about radical aesthetics, than I am in understanding exactly what it is that undergirds Eisen-Martin's conviction regarding the relationship between particular modes of aesthetic experience and emancipatory politics.</p><p>One can think this common ground via the capacity for certain kinds of art and certain kinds of politics to make tangible the changeability of the world in the face of collective agency. As I will argue below, for Eisen-Martin, political and aesthetic experience both make this transformability manifest. I will make this argument by first of all elaborating Eisen-Martin's own writing on aesthetics and then by considering this writing alongside a thinking of paratactic composition. Specifically, I argue that this is a mode of composition that inculcates a tension between any individual moment of a poem and the whole within which this moment exists. In the final two sections, I will suggest that the generative antagonism between the individual and the totality that informs Eisen-Martin's thinking and writing of poetry is equally present in his work as a radical pedagogue, and that the tension constitutive of parataxis as a mode of composition can be made a framework for germinating transformative collective agency. Eisen-Martin's pedagogy approaches history, specifically the history of struggle, as itself paratactic and demonstrates that the aim of radical pedagogy is to manifest and mobilise this aesthetic and political fact for the sake of collective emancipation.</p><p>The biographical statement at the end of Eisen-Martin's first collection of poems, Someone's Dead Already, makes clear the extent to which his poetic production is linked to his work as a radical organiser and pedagogue. The statement tells us that the author has 'organized against mass incarceration and the extra-judicial killing of Black people throughout the United States' and that he 'uses his craft to create liberated territory wherever he performs and teaches'. <ref type="bibr" target="#b1">3</ref> The phrase 'Liberated territory' here expresses the relation between the reading of poetry and the activity of political education. It is worth dwelling on Eisen-Martin's precise choice of words and what they suggest about the social reality within which his work intervenes. To begin, one can note that a liberated territory is by definition an area that was previously under occupation. This thought is directly reminiscent of a central doctrine of the Black Panther Party, according to which predominantly Black urban centres should be grasped as internal colonies. Such spaces are organized according to a Fanonian division of propertied and dispossessed and enforced by the state, whose primary agent is the police. <ref type="bibr" target="#b2">4</ref> The efficacy of art and radical politics lies in its capacity to make the fact of this occupation tangible and to reveal the relations which underpin it as mutable.</p><p>Given Eisen-Martin's focus on the prison as a site of his own organizing and activism, one might infer that it is in the carceral that he locates the most intense expression of an occupied social reality. As he puts it elsewhere: 'The primary reality of an oppressive system is its military reality'. <ref type="bibr" target="#b3">5</ref> No prison is an island, however. We read the following lines in Eisen-Martin's second collection, Heaven is All Goodbyes: 'My dear, if it is not a city, it is a prison. / If it has a prison, it is a prison. Not a city'. <ref type="bibr" target="#b4">6</ref> The carceral elements of contemporary racial capitalism extend throughout the social fabric, not least in a Northern California that Eisen-Martin considers to be 'a modern ground zero for the current state of contradictions in the United States'. <ref type="bibr" target="#b5">7</ref> If liberated territory can be created anywhere that Eisen-Martin either performs his poetry or teaches, it is because when carceral apparatuses exist anywhere within a society, they contaminate every part of it.</p><p>For Eisen-Martin, certain kinds of aesthetic experience prefigure the material transformation of carceral logics. The ability to produce and to maintain such experience sits alongside praxis as a vital capacity of a political agent: 'Poetry (or art of any discipline) exists in the same part of the mind that produces revolutionary intention […] Poetry is every step of the way from idea to practice. Our revolutionary (or counterrevolutionary) praxis and our art subtitle each other. Both evolve or atrophy together'. <ref type="bibr" target="#b6">8</ref> Bound up with this view of poetry and praxis as sharing the same cognitive space is an understanding of the former as possessing the capacity to manifest the historical, and therefore mutable, quality of social relations. Poetry, as Eisen-Martin puts it, is a 'convergence of paradoxes' in which one line is both a universe unto itself and at the same time completely devoid of any individual register or self-contained existence; where there is only evidence and simultaneously no evidence of a creator. All proof of the fact that the system is not immortal or invincible but rather the aggregate of coercion and consent. <ref type="bibr" target="#b7">9</ref> Eisen-Martin identifies two contradictions inherent to poetry which he argues add up to proof of the mutability of social structures. The first is that a single line of a poem demands to be included within a whole whose stability it disrupts. Any single line or strophe needs the rest of the poem if it is to attain its full sense. At the same time, the persistant existence of such composite parts as vibrant wholes in themselves proves the totality to be insufficient. This generative tension between particular and whole functions as a dynamo for transformative thinking. Eisen-Martin's second contradiction presents poetry as an art form that appears on the one hand to be proof of a creative intelligence and on the other to be lacking in any of the determinations that would identify it as the product of an individual mind. An alternative way of putting this might be to suggest that one can read a poem either as the product of an individual author or as something primarily expressive of its historical circumstances and the mode of production within which its creator/s lived and worked. Like the individual line, the poem as a whole refers simultaneously to the particular and to the totality and, in doing so, holds open an unstable connection between them. Transformative political agency, an awareness of the mutability of the world, develops in the space opened by this connection. The rest of this essay proceeds from the sense that each of the above contradictions expresses that, for Eisen-Martin, poetry is essentially paratactic and, further, that an understanding of poetry as parataxis is inseparable from an understanding of history as a possible ground for a political agent who forms themselves via a creative engagement with their own tradition. I do not mean to claim that Eisen-Martin's attachment to or extensive use of parataxis makes him unique amongst modern poets; some version of the technique often seems ubiquitous in contemporary writing. Rather, I aim to highlight the extent to which an understanding of art and politics as transformative collective endeavours can be grounded on the development and maintenance of a generative tension between an individual and the fragmented, contradictory histories within which they come to know themselves.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Parataxis</head><p>The importance of parataxis for a thinking of modern poetry is most often traced to Adorno's essay on Hölderlin, in which the former posits the technique as the dialectical form of writing per se, marked as it is by its capacity to directly challenge 'the logical hierarchy of subordinating syntax'. <ref type="bibr" target="#b8">10</ref> Rupture within syntactical hierarchy means that phrases jut out of sequence, sabotaging a semantic throughline and facilitating the re-composition of meaning into unforeseeable shapes and patterns. Accordingly, parataxis is a poetic form within which a subject that attempts to affirm herself in language is brought to an understanding of herself as bound and potentially overwhelmed by her own mode of expression. To read Hölderlin, Adorno suggests, is to see a particular, historically determined subjectivity disappear within language and, as a result, to see the subject per se, which 'mistakes itself for something immediate and ultimate' emerge as 'something utterly mediated'. <ref type="bibr">11</ref> One could, I think, tweak Adorno's emphasis here and suggest that, along the lines of Eisen-Martin's second contradiction, history as well as language is the medium within which expression takes place and which has the potential to void any individual subjectivity and to manifest only itself. Indeed, I will argue that something specific to Eisen-Martin's poetry is its capacity to construct a precarious balance between the feeling of an inherited tradition and the sense of a living, speaking and potentially collective agency, complete with its fragmentations, distractions and breaks. This interplay is inseparable from Eisen-Martin's use of parataxis and constitutes a key part of the specific force of his poetry.</p><p>Anahid Nersessian has described paratactic composition as writing which tells 'no stories' and makes 'no arguments' and that, as a result, is able to gesture towards historical causes and catastrophic consequences that cannot be directly grasped and ordered by the poet in their own time. <ref type="bibr" target="#b9">12</ref> This is both a constituent feature and a limitation of the form: parataxis might get thoughts moving, but it 'is never quite able to synthesise a new perspective or concept from the ones it has laid out'. <ref type="bibr">13</ref> Nersessian is correct to suggest this limitation. That said, it is not necessarily the case that a positively resolved dialectic in which elements are synthesised into a fully coherent new concept is more politically useful than a consistently negative one. For Eisen-Martin, the common ground of the political and the aesthetic is not in the construction of a new structure but in their shared capacity to offer a prefigurative emancipation from the old. It is by provoking movement within existing forms of thought and experience that radical aesthetics and transformative politics perform their 'de-crystallizing work'. <ref type="bibr" target="#b10">14</ref> Eisen-Martin's poetry is littered with instances of paratactic composition. His poems often stretch across several pages and read as a tapestry of voices and histories, a quality that comes across clearly if one listens to recordings in which he runs his poems together without breaks or introductions. <ref type="bibr" target="#b11">15</ref> Heaven is all Goodbyes contains what I take to be the paradigmatic statement about this quality of Eisen-Martin's work: '"I am not an I. / I am a black commons"'. <ref type="bibr" target="#b12">16</ref> Needless to say, these poems are difficult to excerpt and any citation should be seen as a fragment of a larger piece. That said, it is possible to close-read extracts and doing so enables one to develop a sense of what is at stake in Eisen-Martin's use of parataxis. Specifically, I want to suggest that within this poetry an identifiable subject folds itself in and out of the historical waters in which it swims, creating a state of suspended tension between the individual and their context that is mirrored in the relationship between the line and the poem within paratactic composition. I understand these two connected tensions to be both the basis and the result of the de-reifying function the performance of which Eisen-Martin sees as the task of poetry.</p><p>The first poem of Eisen-Martin's 2021 collection, Blood on the Fog, entitled 'A Good Earth', contains a passage that mingles an 'I' with stratified layers of the history of Bay Area Black radicalism: I have a future It takes place in the diasporic South I have morning possessions Modern militancy mean windows to the South I will walk on a missile for food <ref type="bibr" target="#b13">17</ref> The history of the U.S. connects here with the affirmation of a present, and perhaps a future, grounded in internationalism. 'The diasporic South' reads as a reference to North American internal migration, specifically the midcentury movement of large numbers of African Americans from the Jim-Crow South, motivated in large part by the availability of work in the arms industry. This provoked a shift in population that, as Donna Murch remarks, 'permeated every aspect of urban life' in the Bay Area from the 1940s onwards and laid the ground for the politics and the aesthetics of second-generation migrants such as Huey P. Newton and Bobby Seale. <ref type="bibr" target="#b14">18</ref> At the same time, the poem contains an intimation of the global South, whose movements of decolonisation received active solidarity from American Black radical organisations throughout the 1960s and 70s. To understand this latter 'South' as diasporic would be to posit it as emerging anywhere that subaltern populations maintain an internationalist outlook.</p><p>As a result of this complicated 'South', 'Modern militancy' points in two directions. It provides 'windows to the South' which lead back in time, as if action in the present churns up the past, providing access to its own prehistory in the industrialisation and deindustrialisation of San Francisco and Oakland. At the same time, this militancy looks outwards to solidarities beyond national boundaries and to a future in which the state of being in diaspora is a question of conviction and affiliation rather than the geography of one's birth. This 'South' and the militancy that is both its result and its condition of possibility may both be 'morning possessions'. That is, things that are as fresh, ephemeral and as sure to return as a sunrise.</p><p>The act of walking, or of insisting that one will walk, 'on a missile for food' completes and complicates the strophe's unstable temporalities. Read as a statement from the historic past, the line appears as an expression of the willingness to work in the armaments industry that precipitated mid-century internal migration. This reading causes the generative tensions of the previous lines to deflate somewhat, as if the end point of the poem's speculative contradictions were a pragmatic relationship to wage labour. Still, the line also intimates an emancipatory comportment: 'I will' reads not only as a statement of acceptance but also as an affirmative declaration of intent aimed towards an unachieved state of being. Read with a smile, 'walk on a missile for food' speaks of a delicate, happy play, of a world in which explosive weapons are as harmless as the floor. Holding these senses together, the poem presents the capitalist work-relation as containing a necessary acquiescence that is itself an irreducible opportunity for irreverence and sabotage: 'The communist has plenty of time to finish his cigarette / and lie to his boss', as Eisen-Martin writes elsewhere. <ref type="bibr" target="#b15">19</ref> The strophe expresses, therefore, the sense of a speculative, emancipated future enduring within the ongoing history of wage-labour, deindustrialisation and war. The poem makes possible an aesthetic experience of the intermingling of subject and history in which neither achieves priority.</p><p>On a first reading, the strophe appears to be following through a series of logical steps. An attempt to synthesise these lines fails, however, and the writing collapses into its constitutive moments. In this way, the poem recalls what Ron Silliman described as the 'limiting of syllogistic movement' characteristic of the so-called 'new sentence', a term that is now more or less a metonym for paratactic writing. <ref type="bibr" target="#b16">20</ref> Within the lines cited above, the sense of a syllogistic whole -as if the statements were adding up to a culminating logic that would assign each its place within a semantic hierarchy -is tangible, but any such hierarchy crumbles upon close reading. This failed but inevitable attempt at syllogism marks the poem -and perhaps poetry in general -as a space in which the transmission of semantic content sits alongside a reflection on, and a movement within, the categories and epistemological frameworks through which this knowledge is received. In Eisen-Martin's case, this meta-reflection is performed in the service of a basic tenet of Marxist dialectics: the point is not just to transmit facts or theories about a particular social situation but to do so in a way that makes this situation reveal itself as changeable in the face of collective agency. Nersessian writes of 'the work of parataxis in calling for something outside it to integrate its disjunctions, to make them part of an unpredictable but undeniable unity no parataxis, and no poetic text, could ever get just right'. <ref type="bibr" target="#b17">21</ref> In the case of Eisen-Martin, one can suggest that this 'calling' out for a new totality is synchronous with the instigation of movement within what already exists. Actual unity is to be achieved via the political praxis of which art is the excrescence and the soundtrack.</p><p>Eisen-Martin's writing presents poetic thinking as a condition of an increasingly sophisticated political understanding, suggesting that the aesthetic imagination and the capacity to grasp one's own historical political situation expand and contract together. 'The Course of Meal', a poem in Heaven is All Goodbyes, contains the strophe: all the bullets in ten precincts know where to go there's no heaven (nor any other good ideas) in the sky politics means: people did it and people do it. understand that when in San Francisco and other places that were never really there. <ref type="bibr" target="#b18">22</ref> The first three lines read as a sequence of structuring principles for political organising. They express materialist sentiments concerning, respectively: the structural nature of seemingly random incidents of police violence; concrete engagement in the here and now as a principle of political action; and the historical, and therefore mutable, nature of social institutions. In each case, political understanding is arrived at either via an exercise of poetic imagination that is itself brought about via an unstable contradiction whose resolution demands an expanded and more complex mode of thinking. Bullets, afterall, are not sentient; they do not 'know where to go'. The statement is not purely metaphorical, however, and neither is it an exercise in surrealism for its own sake. When viewed as constitutive elements of a specific division of labour and property, acts of police violence do obey a fixed logic, and shots fired have their meaning in the wider rationality that underpins the management of a racialised surplus population. The line also demonstrates a truth about agency in relation to structural murder: the individuals who pull the trigger are irrelevant. Within the poem, political understanding emerges out of the initial disorientation of aesthetic experience.</p><p>'Politics means: people did it and people do it' reads like an aphorism learnt by heart, a piece of political folk wisdom. The colon, however, generates an instability within what at first sight appears to be a relatively direct and useful epigram. The punctuation initially appears to provide a pause that affirms what comes after it. The cesura, however, is also disruptive. 'Politics means' is itself a complete sentence, albeit one that treats a transitive verb in a grammatically inappropriate manner. One can then read 'people did it, and people do it' as an afterthought to this affirmation, as something that comes in its wake or that echoes it in the form of a diminished return. The caesura is as much a glitch transmission as it is an intensifier. It follows that at the same time as providing a useful principle for engaging in political organising, the line stages the restless choppiness of a thinking working itself out within an individual mind possessed of distractions, neurosis and confusions. Isobel Armstrong has stated that a caesura creates a 'poem's temporal self-awareness, its felt time, by holding up, often for a breath, the momentum of rhythm'. <ref type="bibr" target="#b19">23</ref> One could add that, for Eisen-Martin, a poem's felt time is its felt history, by which I mean the traces of the collective processes and struggles which underpin received understanding. These traces disrupt the smooth transition of semantic content and, through this disruption, manifest the truth that the line itself describes: people do it; people think it.</p><p>The unity of the strophe condenses and then evaporates around the word 'that'. Upon a first reading, the line 'understand that when in San Francisco' functions as a logical bridge to the previous statements, which, in turn,s solidifies the first three lines of the strophe into one single referent. This unity dissipates, however, once one realises that it is possible to read the line as disconnected from those that precede it, as if 'that' thing which is to be remembered has not yet been stated. Unity comes apart definitively with the conjunction 'and'. The word enacts a rhetorical sling-shot, shuttling the strophe out into a tangent at the same time that it loops it back to the poem's opening two pages earlier: 'Apparently too much of San Francisco was not there in the first place'. <ref type="bibr" target="#b20">24</ref> This rupture encourages one to read 'and other places that were never really there' in isolation, again allowing the line to function as a stage for the working through of political thinking, as well as an unstable conclusion. San Francisco is, one can safely assume, 'really there'. At the same time, the poem's suggestion that it never was expresses something true about the historical relations of force and classantagonism covered over by the idea of one single city. If one person cannot step in the same river twice, then eight hundred thousand people can hardly exist in the same city. The line confronts a reader with the non-identity between a dynamic, mutable social fabric and the reifying function of a single static universal, and it does so via a specific affect. There is something of the jouissance of a youthful, stoned revelation in the realisation that neither San Francisco, nor any place, nor any named thing, was ever 'really there' if to be 'really there' is to exist without history or contradiction. This sense of enjoyment expresses within the domain of the aesthetic the political fact that thinking is done by living bodies with moods and excitements, and that history cannot be thought apart from the people who constitute it.</p><p>The strophes quoted are far from exhaustive but are intended to demonstrate some of the ways in which Eisen-Martin's poetry engages parataxis in a process of de-crystallisation, of the making malleable and fluid of the world via the staging and the working through of embodied thought processes, subaltern, speculative futures and contradictory histories. Within this poetry, an uneasy chorus of speakers constitutes a patchwork of arrested syllogisms, and the minute instabilities of a poetic line serve as a vehicle for an expanding political understanding. In the following section, I turn to Eisen-Martin's pedagogical work to elaborate how a different version of this tension structures the methods he employs to inculcate collective political agency within carceral situations. I argue that the affinity between aesthetic experience and political praxis emerges via a necessary interrelation between concrete individuality and an ongoing tradition within which this individuality comes to know itself and its capacity for action.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Pedagogy</head><p>Eisen-Martin's syllabus, We Charge Genocide Again!, is freely available online. The document is a tool for political education and creative expression and was published as a companion piece to the also freely available multiauthored document Operation Ghetto Storm: 2012 Annual Report on the Extrajudicial Killings of Black People by Police, Security Guards &amp; Vigilantes. The latter is a record of Black Americans killed in 2012 by members of the titular groups, all of whom are representatives of the same militaristic, white-supremacist super-structure. Ninety-nine of the one hundred and seventy-one pages of Operation Ghetto Storm are taken up with recording the names of those killed, noting the circumstances around their death, and, when possible, describing the 'aftermath', i.e. whether any legal proceedings or extended media coverage resulted from the killings. In its own words, Operation Ghetto Storm seeks to 'honour the memory of every Black, woman and child summarily executed at the hands of the police' and to encourage collective organisation to end 'the terror being waged against us'. <ref type="bibr" target="#b21">25</ref> The document serves both as an archive and a demand for the reshaping of the social conditions that it records. Some of the cognitive work required for this reshaping is undertaken in We Charge Genocide Again!.</p><p>Eisen-Martin describes himself as 'subscribing to the Freirean model of education', and his syllabus consistently demonstrates the influence of Paolo Freire's The Pedagogy of the Oppressed. <ref type="bibr" target="#b22">26</ref> According to Freire, education is a preliminary step on the way to transformative action, and effective pedagogy involves making clear that the possibility of such a transformation is immanent to any given form of social organization. The purpose of radical education is to enable oppressed groups to 'perceive the reality of oppression not as a closed world from which there is no exit, but as a limiting situation which they can transform'. <ref type="bibr" target="#b23">27</ref> Achieving this perception involves beginning with the concrete experience of the students and maintaining this as a continual touchstone of the educative proces.: The 'point of departure must always be with men and women in the here and now, which constitutes the situation within which they are submerged, from which they emerge and in which they intervene'. <ref type="bibr" target="#b24">28</ref> Freirean education enacts a movement typical of Hegelian and Marxist methodology whereby the beginning and the end point of an investigation both lie in the immediate, and in which the circular journey between these points consists of a developing conceptual understanding through which a simple-immediacy is filledout with political and historical understanding. Enacting such a movement involves a mutually enriching oscillation between particularity and totality.</p><p>Eisen-Martin's opening address to those who make use of his syllabus is phrased in Freirean terms:</p><p>All we need to achieve as movement educators is to help the people recognize themselves in the material and recognize what they already know in the material. All in order to expand our concept of who we are and what we know. Reading and writing critically (in all mediums) is simply the building of our power of recognition and discovery. Recognition and discovery that we then put into practice. <ref type="bibr" target="#b25">29</ref> The quotidian experience from which We Charge Genocide Again! begins is of state-repression directed against a racialised population. Throughout Eisen-Martin's prose and poetry, one finds the sense that this repression provides a privileged knowledge of the reality of social circumstances. We read in Heaven is All Goodbyes of the 'third eye the cuffs cut into his wrist'. <ref type="bibr" target="#b26">30</ref> This kind of insight is not, I would suggest, automatically political. If it were, there would be no need for a pedagogy through which immediate experience is transformed into a form of understanding useful for praxis. Indeed, the task and method of the educative process is precisely to facilitate a departure from a quasi-mystical point of immediacy into an intellectual abstraction necessary for understanding without entering so far into the latter that a student ceases to recognize themselves within the educative process.</p><p>One of Eisen-Martin's strategies for achieving and sustaining a necessary interplay between the concrete and the abstract involves utilising a student's own creative potential via a guided ventriloquism of different social positions. This enables the development of malleable concepts through which to organize social reality. The syllabus's first writing or discussion prompt shows a Black youth being pinned face down on concrete as he is handcuffed by police (Figure <ref type="figure" target="#fig_0">1</ref>). This image is accompanied by two different prompts, the first of which reads: 'In the voice of the young man write a piece that begins "The United States to me", followed by the instruction to repeat the exercise in the voice of the police officer. <ref type="bibr" target="#b27">31</ref> The image is preceded by a series of definitions of terms that students 'should know' including 'White supremacy', 'White power structure' and the 'Extrajudicial killing of Black People', with the latter defined as 'killing by police that happens without trial or any due process. When a police officer kills one of us, it is an execution in the street'. <ref type="bibr" target="#b28">32</ref> Throughout the course, these definitions are built up and modified by the experience and creative capacity of students, generating a process in which the aesthetic expression of the individual is consubstantial with the development of an organising system of concepts through which to guide understanding and action.</p><p>Successful radical pedagogy strikes a balance between history as a tradition from which to learn and history as the vehicle for a concrete manifestation of agency in the present. Both senses of the historical are present in the title of Eisen-Martin's syllabus, which references a 1951 genocide petition compiled for submission to the UN by William Patterson and signed by leading figures in the African American community. The text of this petition, published under the title We Charge Genocide, contains an opening statement, a discussion of the legal definition of genocide and an exhaustive documentation of anti-Black violence, including murder, rape and economic deprivation, together with named examples of people against whom this violence has been carried out. Patterson writes in his introduction to the 1970 reprint of the petition that it would be 'infantile to argue that another appeal to the UN can or will force the United States to become an adherent of the aims, principles and purposes of that international body'. <ref type="bibr" target="#b29">33</ref> Still, one might argue that the continued political efficacy of the document lies in the act of the charging itself and the accompanying organization of reality that it brings about. Faced with a surfeit of atomised and atomising acts of violence, the charge of genocide makes tangible an 'order' structuring the social world. <ref type="bibr" target="#b30">34</ref> The charge is a performative utterance that works to unify a fragmented reality and, in doing so, to enact a collective subject: a genocide is, by definition, conducted against a people and according to a plan.</p><p>Giving his syllabus the name We Charge Genocide Again! allows Eisen-Martin to repeat this process of collective subject formation while adding significant complexity. Within the title, 'We' functions both as a citation of the original petition and as a word that instantiates a new plural subject each time the syllabus is taught. 'Again' also has a dual meaning: it refers the reader to the published text of the 1951 petition, as if one is looking at the original for a second or third time, and it creates the impression that the charge itself is being repeated. This intermingling of temporalities is a constitutive part of the agency and the relationship to history that Eisen-Martin's pedagogy seeks to bring about.</p><p>To consider two temporalities in isolation, one could say, first of all, that the title reads as if someone were announcing: 'Here is We Charge Genocide again!' This sense carries the suggestion that the original petition is brought into the present more or less unchanged, and posits the text as an object for study and use. The second temporality involves thinking that the charge of genocide is being repeated without any reference to the 1951 petition as a text. Rather, one could hear a voice emphatically announcing: 'We have charged genocide before and now we are charging it again!' This second sense posits a continuum of genocide and violence in the context of which a politically conscious subjectivity may form itself and within which it may intervene. This can be repeated indefinitely as and when an opportunity exists to bring order to a world atomised by pervasive anti-Black violence. We Charge Genocide Again! maintains these two temporal registers simultaneously. In doing so, it presents historical tradition as an object on which one may work and from which one may learn, and as the water within which a politically conscious actor swims. The capacity to act politically emerges out of the interplay of these modes of comportment towards history.</p><p>A student's own aesthetic capacities act as a catalyst for movement between these modes. It is by feeling oneself as an embodied, historically determined subject that political agency develops. One sees this clearly in the final section of the syllabus, which reproduces some of the names of those listed in the 1951 petition, together with the circumstances in which they were killed. These names are placed in continuity with those that appear in Operation Ghetto Storm, and students are asked to read the reports corresponding to the deaths of people named in both documents, and to elaborate upon what they 'notice about these cases' and what they notice about themselves 'while reading them'. <ref type="bibr" target="#b31">35</ref> This juxtaposition of the two documents is an argument for continuity. Simply asserting this is not the aim, however. Rather, the student should come to understand this ongoing history of white-supremacist violence as a context for their own praxis. This, I think, the reason that affective responses in the present are to be recorded in the same register as historical facts. Doing this encourages a student to see their own emotional responses and affects as containing a historical element. The educative process makes these responses the conduit through which subjectivity enters into an elaboration of history within which it is able to move and act politically.</p><p>A movement between a sense of history as tradition that can be studied and understood, and history as the water within which a political subject swims is built into the visual layout of We Charge Genocide Again!. Page twenty-six of the syllabus is reproduced below (Figure <ref type="figure" target="#fig_2">2</ref>). Slightly above the centre of the page, there is reprodution of an issue of the Black Panther magazine, the front cover of which memorialises the shooting of Robert James Hutton, aka 'Lil Bobby'. Hutton was killed in April 1968 by the Oakland police. His status as a martyr has endured since his death, with the manner of his killing -Hutton was shot while demonstrably unarmed and in the process of surrendering -making him identifiable as someone who had 'posed a challenge to racism' and who had been extrajudicially executed to repress that challenge. <ref type="bibr" target="#b32">36</ref> On the page in question, Hutton's portrait is one part of a constellation that includes a long citation from the 1951 petition arguing that the treatment of African Americans by the U.S. state is designed to break the population's will to resist, a quote from Adam Smith regarding the stupefying effects of montonous work, and a cartoon suggesting that political figures in the U.S. are little more than puppets for the interests of major corporations. Despite the large blocks of text underneath it, Hutton's relaxed charisma, combined with the unparalleled skills of Emory Douglas, the primary illustrator and designer for the Panthers' magazines, means that his face is the focus of the page.</p><p>The image of Hutton is the focal point of a network over lapping forces at work within the collage. On the one hand, Hutton's life and death stand as an example of continuing state violence against Black people, and as a seeming confirmation that this violence is especially targeted towards those who pose a direct challenge to state power. At the same time, Hutton stands as a refutation of the citation from Smith, which appears to the left of his image, as well as to the citation from the UN petition below this. Taken together, these citations suggest that the majority of Black people are stupefied into submission or into being easy targets for lynching. Hutton's relaxed half smile has an indomitable quality, however, and his presence on the page serves as a testimony to the continuation of the capacity for resistance, and of the irrepressible quality of Black radicalism. The student navigates opposed implications: either state-violence will always strike those who attempt to organise against it, or no amount of state-violence will be sufficient to extinguish the capacity for resistance. Attached to these implications are, of course, different views on history: either it is the site of repeating patterns of violence, or it is the domain in which collective agency and a will to resist can intervene and reshape social relations for the better.</p><p>The writing and discussion prompts engage students in exploring these positions. In one, they are asked why it might be 'ideal to have a stupid and ignorant population of workers' and how such a situation can be seen to 'play out with the police'. <ref type="bibr" target="#b33">37</ref> In another, the student is encouraged to imagine speculative futures in which 'victory for the Negro people in their fight for freedom will presage a victory for labor and forces of peace'.  The idea of Black freedom here is so powerful that its instantiation would mean the remaking of the world. This idea is then brought to bear on the developing and malleable notion of the U.S. via the prompt: 'How would Black freedom affect the United States?' <ref type="bibr" target="#b35">39</ref> Asking a student to imagine this freedom while confronting them with Bobby Hutton's smiling face links the speculative imagination to an ongoing history of resistance and melds these into each other as evidence of the immanent realisability of emancipation. The page is exemplary of a mutually enriching interrelation between a historical totality and an individual's imagination and creative potential.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Conclusion: 28 hours</head><p>The purpose of radical pedagogy is to transfigure what Freire refers to as a limit situation from an 'insurmountable barrier' into something composed of 'obstacles' that reveal 'their true nature as concrete historical dimensions of a given reality'. <ref type="bibr" target="#b36">40</ref> Education means: people did it and people do it. This transition from the seeming-permament to the immanently changeable is one way of understanding the content of the term 'liberated territory', the creation of which Eisen-Martin sees as the common element between his work as a poet, a teacher and an organizer. With this in mind, I have tried to demonstrate the extent to which, for Eisen-Martin, politics and the aesthetic have in common a generative, irresolvable tension between particular and whole which can be further elaborated as a tension between a subject -either individual or collective -and the history within which they participate. The creation and maintenance of a space of critique opened by this tension, the suspension of semantic hierarchies which, as Nersessian puts it, 'figures their real life abolition', is the substance both of paratactic composition and of radical pedagogy. <ref type="bibr" target="#b37">41</ref> With this in mind, it is appropriate that some of the last writing exercises in We Charge Genocide Again! involve the production of short paratactic poems. On page twenty-nine, Eisen-Martin instructs his students to write small pieces that begin with a name from Operation Ghetto Storm and then to describe something that happens during '28 hours of life' (Figure <ref type="figure" target="#fig_4">3</ref>). <ref type="bibr" target="#b38">42</ref> As the subtitle for the syllabus, One every 28 hours, makes clear, this period is the average amount of time during which the extra-judicial killing of a Black person occurred in 2012. Eisen-Martin includes a number of sample responses. These range from quietly devastating compositions such as 'Wendell Allen / My mother misses me' to the overtly surreal: 'Neheiah Dillard / My cellphone proves it is a lesser god the 100th time' and 'Trayvon Martin / Folsom St. is a sleepy genius in tears'. <ref type="bibr" target="#b39">43</ref> A note at the bottom of the page states that 'The 28 hours can be as long or as short as you want. It can be as poetic as you want. There is no wrong way to write what happens in those 28 hour periods'. <ref type="bibr" target="#b40">44</ref> One can imagine the names from Operation Ghetto Storm placed above and alongside lines of poetry in such a way that these names appear both to be arbitrarily inserted and to necessarily belong alongside whatever a student writes. Critical intelligence, the precursor to and the result of praxis, thrives in the gap between these opposing parts, the gap between a real historical person and the creative, aesthetic potential of the present. It is via the immediacy of the latter as it works within and through a malleable history that social relations reveal themselves as changeable, and that the territory that these relations demarcate is felt as liberated.  </p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head>Figure 1 .</head><label>1</label><figDesc>Figure 1. Bottom corner of We Charge Genocide Again! p. 9.</figDesc><graphic coords="13,68.49,53.29,305.86,122.63" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_1"><head>38</head><label>38</label><figDesc></figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_2"><head>Figure 2 .</head><label>2</label><figDesc>Figure 2. We Charge Genocide Again! p. 26.</figDesc><graphic coords="16,65.14,53.29,311.87,474.97" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_3"><head>Notes 1 .</head><label>1</label><figDesc>'One Can't Rehearse Revolutions (Part 2): An Interview with Tongo Eisen-Martin', Adobe Books, September 10, 2019. https://www.adobebooks.com/ adobe-blogscroll/2019/8/26/tongo-eisen-[Date accessed: 28 January 2025].</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_4"><head>Figure 3 .</head><label>3</label><figDesc>Figure 3. We Charge Genocide Again! p. 29.</figDesc><graphic coords="18,65.65,53.29,311.75,359.15" type="bitmap" /></figure>
+		</body>
+		<back>
+
+			<div type="acknowledgement">
+<div><head>Acknowledgements</head><p>Research for this article began during a period as an <rs type="grantName">International Fellow</rs> at the <rs type="institution">KWI in Essen</rs>. The piece was finished while a <rs type="grantName">Leverhulme-funded Visiting Scholar</rs> at the <rs type="institution">American University of Paris</rs>. Thanks to colleagues at both institutions.</p></div>
+<div><head>Disclosure statement</head><p>No potential conflict of interest was reported by the author(s).</p></div>
+			</div>
+			<div type="funding">
+<div><head>Funding</head><p>This work was supported by the <rs type="funder">Kulturwissenschaftliches Institut Essen, Universitätsallianz Ruhr</rs>, and <rs type="funder">Leverhulme Trust</rs>.</p></div>
+			</div>
+			<listOrg type="funding">
+				<org type="funding" xml:id="_H4fvdJ5">
+					<orgName type="grant-name">International Fellow</orgName>
+				</org>
+				<org type="funding" xml:id="_2zFWj6a">
+					<orgName type="grant-name">Leverhulme-funded Visiting Scholar</orgName>
+				</org>
+			</listOrg>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<monogr>
+		<author>
+			<persName><forename type="first">Ben</forename><surname>Hickman</surname></persName>
+		</author>
+		<title level="m">Crisis and the U.S. Avant-Garde: Poetry and Real Politics</title>
+		<meeting><address><addrLine>Edinburgh</addrLine></address></meeting>
+		<imprint>
+			<publisher>The University of Edinburgh Press</publisher>
+			<date type="published" when="2015">2015</date>
+			<biblScope unit="page">1</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<monogr>
+		<author>
+			<persName><forename type="first">Tongo</forename><surname>Eisen-Martin</surname></persName>
+		</author>
+		<title level="m">Someone&apos;s Dead Already</title>
+		<meeting><address><addrLine>Bootstrap</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2015">2015</date>
+			<biblScope unit="page">77</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">Huey</forename><forename type="middle">P</forename><surname>Newton</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">The</forename><surname>Huey</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">Newton</forename><surname>Reader</surname></persName>
+		</author>
+		<editor>David Hilliard and Donald Weise</editor>
+		<imprint>
+			<date type="published" when="2002">2002</date>
+			<publisher>Seven Stories Press</publisher>
+			<biblScope unit="page">110</biblScope>
+			<pubPlace>New York; London; Toronto</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<author>
+			<persName><forename type="first">Tongo</forename><surname>Eisen-Martin</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Waiting Behind Tornados for Food</title>
+		<meeting><address><addrLine>London</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2020">2020</date>
+			<biblScope unit="page">14</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<monogr>
+		<author>
+			<persName><forename type="first">Tongo</forename><surname>Eisen-Martin</surname></persName>
+		</author>
+		<title level="m">Heaven is All Goodbyes (City Lights</title>
+		<imprint>
+			<publisher>San Francisco</publisher>
+			<date type="published" when="2017">2017</date>
+			<biblScope unit="page">10</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title level="a" type="main">Just Keep Running: A Conversation with Tongo Eisen-Martin</title>
+		<ptr target="https://bombmagazine.org/articles/2017/12/22/tongo-eisen-martin" />
+	</analytic>
+	<monogr>
+		<title level="j">Bomb Magazine</title>
+		<imprint>
+			<date type="published" when="2017-12-22">December 22. 2017. 28 January 2025</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<monogr>
+		<author>
+			<persName><surname>Eisen-Martin</surname></persName>
+		</author>
+		<title level="m">Waiting Behind Tornados for Food</title>
+		<imprint>
+			<biblScope unit="page">15</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<monogr>
+		<title/>
+		<author>
+			<persName><surname>Ibid</surname></persName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<monogr>
+		<title level="m" type="main">Notes to Literature, trans</title>
+		<author>
+			<persName><forename type="first">Theodor</forename><forename type="middle">W</forename><surname>Adorno</surname></persName>
+		</author>
+		<editor>Shierry Weber Nicholson and ed. Rolf Tiedemann</editor>
+		<imprint>
+			<publisher>Columbia University Press</publisher>
+			<biblScope unit="page">395</biblScope>
+			<pubPlace>New York</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<monogr>
+		<author>
+			<persName><forename type="first">Anahid</forename><surname>Nersessian</surname></persName>
+		</author>
+		<title level="m">The Calamity Form: On Poetry and Social Life</title>
+		<meeting><address><addrLine>Chicago</addrLine></address></meeting>
+		<imprint>
+			<publisher>University of Chicago Press</publisher>
+			<date type="published" when="2020">2020</date>
+			<biblScope unit="page">23</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<monogr>
+		<author>
+			<persName><surname>Eisen-Martin</surname></persName>
+		</author>
+		<title level="m">Waiting Behind Tornados for Food</title>
+		<imprint>
+			<biblScope unit="page">15</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<monogr>
+		<title level="m" type="main">Thanks to Joe Luna for first articulating this aspect of Eisen-Martin&apos;s poetry at the conference The Politics and Poetics of Community within the Anglophone Left</title>
+		<imprint>
+			<date type="published" when="2024">2024</date>
+		</imprint>
+		<respStmt>
+			<orgName>University of Paris-Nanterre</orgName>
+		</respStmt>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<monogr>
+		<title level="m" type="main">Heaven is All Goodbyes</title>
+		<author>
+			<persName><surname>Eisen-Martin</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="page">16</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<monogr>
+		<author>
+			<persName><forename type="first">Tongo</forename><surname>Eisen-Martin</surname></persName>
+		</author>
+		<title level="m">Blood on the Fog</title>
+		<meeting><address><addrLine>San Francisco</addrLine></address></meeting>
+		<imprint>
+			<publisher>City Lights</publisher>
+			<date type="published" when="2021">2021</date>
+			<biblScope unit="page">11</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<monogr>
+		<author>
+			<persName><forename type="first">Donna</forename><surname>Murch</surname></persName>
+		</author>
+		<title level="m">Living for the City: Migration, Education, and the Rise of the Black Panther Party in</title>
+		<meeting><address><addrLine>Oakland, California (Chapel Hill</addrLine></address></meeting>
+		<imprint>
+			<publisher>University of North Carolina Press</publisher>
+			<date type="published" when="2010">2010</date>
+			<biblScope unit="page">10</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<monogr>
+		<title level="m" type="main">Heaven is All Goodbyes</title>
+		<author>
+			<persName><surname>Eisen-Martin</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="page">17</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<monogr>
+		<title level="m" type="main">The New Sentence</title>
+		<author>
+			<persName><forename type="first">Ron</forename><surname>Silliman</surname></persName>
+		</author>
+		<imprint>
+			<publisher>Roof Books: New York</publisher>
+			<biblScope unit="page">91</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<monogr>
+		<title/>
+		<author>
+			<persName><surname>Nersessian</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="page">46</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<monogr>
+		<title level="m" type="main">Heaven is All Goodbyes</title>
+		<author>
+			<persName><surname>Eisen-Martin</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="page">15</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<monogr>
+		<author>
+			<persName><forename type="first">John</forename><surname>Wilkinson</surname></persName>
+		</author>
+		<title level="m">Lyric in Its Times: Temporalities in Verse, Breath and Stone</title>
+		<meeting><address><addrLine>London; New York</addrLine></address></meeting>
+		<imprint>
+			<publisher>Bloomsbury Academic</publisher>
+			<date type="published" when="2019">2019</date>
+			<biblScope unit="page">48</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<monogr>
+		<title level="m" type="main">Heaven is All Goodbyes</title>
+		<author>
+			<persName><surname>Eisen-Martin</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="page">12</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<monogr>
+		<title level="m" type="main">Operation Ghetto Storm: 2012 Annual Report on the Extrajudicial Killings of Black People by Police, Security Guards &amp; Vigilantes</title>
+		<ptr target="https://www.operationghettostorm.org" />
+		<imprint>
+			<date type="published" when="2012-01-28">2012. 28 January 2025</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<monogr>
+		<title level="m" type="main">Someone&apos;s Dead Already</title>
+		<author>
+			<persName><surname>Eisen-Martin</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="page">77</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<analytic>
+		<title level="a" type="main">Pedagogy of the Oppressed 30th Anniversary Edition</title>
+		<author>
+			<persName><forename type="first">Paolo</forename><surname>Freire</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Continuum</title>
+		<editor>
+			<persName><forename type="first">Myra</forename><surname>Trans</surname></persName>
+		</editor>
+		<editor>
+			<persName><surname>Bergman Ramos</surname></persName>
+		</editor>
+		<imprint>
+			<biblScope unit="page">39</biblScope>
+			<date type="published" when="2000">2000</date>
+			<pubPlace>London</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<monogr>
+		<title level="m" type="main">Pedagogy of the Oppressed</title>
+		<author>
+			<persName><surname>Freire</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="page">85</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<monogr>
+		<title level="m" type="main">We Charge Genocide Again!: A Curriculum for Operation Ghetto Storm</title>
+		<author>
+			<persName><forename type="first">Tongo</forename><surname>Eisen-Martin</surname></persName>
+		</author>
+		<ptr target="https://www.operationghettostorm.org/curriculum.html" />
+		<imprint>
+			<date type="published" when="2012-01-28">2012. 28 January 2025</date>
+			<biblScope unit="page">3</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<monogr>
+		<title level="m" type="main">Heaven is All Goodbyes</title>
+		<author>
+			<persName><surname>Eisen-Martin</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="page">19</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b27">
+	<analytic>
+		<title/>
+		<author>
+			<persName><surname>Eisen-Martin</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">We Charge Genocide Again!</title>
+		<imprint>
+			<biblScope unit="page">9</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b28">
+	<monogr>
+		<title/>
+		<author>
+			<persName><surname>Ibid</surname></persName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b29">
+	<monogr>
+		<title level="m" type="main">We Charge Genocide: The Historic Petition to the United Nations for Relief from a Crime of the United States Government Against the Negro People</title>
+		<author>
+			<persName><forename type="first">William</forename><surname>Patterson</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1970">1970</date>
+			<publisher>International Publishers</publisher>
+			<biblScope unit="page">p. XI</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b30">
+	<monogr>
+		<title level="m" type="main">Pedagogy of the Oppressed</title>
+		<author>
+			<persName><surname>Freire</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="page">62</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b31">
+	<analytic>
+		<title/>
+		<author>
+			<persName><surname>Eisen-Martin</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">We Charge Genocide Again! p</title>
+		<imprint>
+			<biblScope unit="page">29</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b32">
+	<monogr>
+		<author>
+			<persName><forename type="first">Joshua</forename><surname>Bloom</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Waldo</forename><forename type="middle">E</forename><surname>Martin</surname><genName>Jr</genName></persName>
+		</author>
+		<title level="m">Black Against Empire: The History of Politics of the Black Panther Party</title>
+		<meeting><address><addrLine>Berkeley</addrLine></address></meeting>
+		<imprint>
+			<publisher>University of California Press</publisher>
+			<date type="published" when="2013">2013</date>
+			<biblScope unit="page">119</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b33">
+	<analytic>
+		<title/>
+		<author>
+			<persName><surname>Eisen-Martin</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">We Charge Genocide Again</title>
+		<imprint>
+			<biblScope unit="page">26</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b34">
+	<monogr>
+		<title/>
+		<author>
+			<persName><surname>Ibid</surname></persName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b35">
+	<monogr>
+		<title/>
+		<author>
+			<persName><surname>Ibid</surname></persName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b36">
+	<monogr>
+		<title level="m" type="main">Pedagogy of the Oppressed</title>
+		<author>
+			<persName><surname>Freire</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="page">99</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b37">
+	<monogr>
+		<title level="m" type="main">The Calamity Form</title>
+		<author>
+			<persName><surname>Nersessian</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="page">25</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b38">
+	<analytic>
+		<title/>
+		<author>
+			<persName><surname>Eisen-Martin</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">We Charge Genocide Again! p</title>
+		<imprint>
+			<biblScope unit="page">29</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b39">
+	<monogr>
+		<title/>
+		<author>
+			<persName><surname>Ibid</surname></persName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b40">
+	<monogr>
+		<title/>
+		<author>
+			<persName><surname>Ibid</surname></persName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

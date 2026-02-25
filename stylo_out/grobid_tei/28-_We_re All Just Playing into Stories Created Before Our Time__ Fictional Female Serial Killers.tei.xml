@@ -1,0 +1,744 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">&quot;We&apos;re All Just Playing into Stories Created Before Our Time&quot;: Fictional Female Serial Killers, Femgore, and the Illusion of Power</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author role="corresp">
+							<persName><forename type="first">Eleanore</forename><surname>Gardner</surname></persName>
+							<email>elegardner@csu.edu.au</email>
+							<idno type="ORCID">0000-0002-2779-2648</idno>
+						</author>
+						<author>
+							<affiliation key="aff0">
+								<orgName type="department">School of Social Work and Arts</orgName>
+								<orgName type="institution">Charles Sturt University</orgName>
+								<address>
+									<settlement>Albury</settlement>
+									<country key="AU">Australia</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff1">
+								<orgName type="department">School of Social Work and Arts</orgName>
+								<orgName type="institution">Charles Sturt University</orgName>
+								<address>
+									<postBox>PO Box 789</postBox>
+									<postCode>2640</postCode>
+									<settlement>Albury</settlement>
+									<region>NSW</region>
+									<country key="AU">Australia</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">&quot;We&apos;re All Just Playing into Stories Created Before Our Time&quot;: Fictional Female Serial Killers, Femgore, and the Illusion of Power</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date/>
+						</imprint>
+					</monogr>
+					<idno type="MD5">23053500F6C5D9EBE8D9FA83C263253B</idno>
+					<idno type="DOI">10.1080/00111619.2025.2601111</idno>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.0" ident="GROBID" when="2026-02-25T19:55+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>Femgore is an emerging subgenre of horror combining Gothic, body-horror, and antiheroine conventions and it centralizes and celebrates female rage, revenge, and violence. Violent women continue to captivate readers and viewers, and the fictional female killer has become a familiar figure through which gender oppression and violence can be exposed and challenged. This paper analyses two recent Femgore novels through a Gothic lens -C.J. Leede's Maeve Fly and Monika Kim's The Eyes are the Best Part -and argues that while they disrupt and invert notions of the male gaze, female desire, and the monstrous-feminine through the killer-antiheroine's transgressions, they ultimately highlight the inescapability of patriarchal power, cycles of violence, and internalized misogyny. I argue that the power exercised by these protagonists is temporary and destructive, emphasizing the difficulties, contradictions, and downfalls of operating and existing in a system not built for women. These novels emphasize the complexities in representing violent women and ultimately demonstrate the limitations and potential of the killer-antiheroine as a cultural interrogator of patriarchal power.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>Women who kill continue to captivate the cultural imaginary in their destabilization of gender assumptions and ability to evoke a "dual sense of fascination and contempt" <ref type="bibr">(Jaber,</ref><ref type="bibr">172)</ref> in readers and viewers. Natalia Igl argues that "in fiction, female violence hardly ever appears as an indulgence. If it is represented at all, it is mostly shown as an aberration" (74). Yet recent narratives centering the female fictional serial killer in contemporary literature not only normalize female rage and antiheroinism but also reposition this doubly defiant figure as emblematic of the 2020s zeitgeist. As Anhiti Patnaik and Elana Gomel suggest, "it is not accidental that the popularity of serial killing as entertainment exploded during the time of the pandemic" (16), a period defined by death, isolation, and "crushing boredom" (17). Serial murder, consumed in the form of true-crime podcasts, TV series, and viral BookTok novels, became just another "part of the endless and shapeless routine of pandemic time . . . it [had] become ordinary, even boring" (17), to the point of desensitization and disassociation. The female serial killer-antiheroine in contemporary literature has become equally ubiquitous in how she responds to #MeToo, rising rates of domestic violence, and overall "bad men," particularly in the era of #TimesUp, a second Donald Trump presidency, and the 2022 overturning of Roe v Wade. Literature celebrating "feminine rage" is hardly new, particularly so in the context of the antiheroine, but recent emerging subgenres including Femgore <ref type="bibr">(Blakemore; Menzies)</ref> and Good for Her <ref type="bibr">(Squires)</ref> provide a new "kind of catharsis" <ref type="bibr">(Blakemore)</ref> for readers and viewers, who, as Blakemore contends, can experience violence in the safely confined parameters of fiction while also experiencing a "nihilistic identification with the force of violence itself" (n.p.). Similarly, Igl observes how readers enjoy the "ambiguity of distress and delight that comes with the role of being an entangled observer" (84) of fictional violence, with the texts "confin <ref type="bibr">[ing]</ref> the violence onto a canvas or screen that the reader or viewer approaches as spectator from a safe distance" (73). This paper analyses two recent Femgore novels through a Gothic lens -C. J. Leede's Maeve Fly <ref type="bibr">(2023)</ref>, and Monika Kim's The Eyes are the Best Part (2024)-and argues that while they disrupt and invert notions of the male gaze, female desire, and the monstrous-feminine, they ultimately highlight the inescapability of patriarchal power, cycles of violence, and internalized misogyny. By analyzing the novels' use of Gothic devices such as the double and the Gothic dream, as well as broader Gothic themes of abjection and the monstrousfeminine, I argue that these protagonists' actions are inherently abject acts of self-annihilation, and that power gained through the protagonists' corruption of gender norms is false, destructive, and performative.</p><p>This does not render the narratives of Femgore antiheroines meaningless; rather, these stories emphasize the difficulties, contradictions, and downfalls of operating and existing in a system not built for women. At their core, these novels, and certainly other Femgore texts, including Boy Parts (2020), They Never Learn (2020), A Certain Hunger (2020), and Kill for Love <ref type="bibr">(2023)</ref>, work primarily to invert patriarchal beliefs that render women inferior, incapable, and powerless by suggesting that female violence is not only normal but necessary when negotiating one's identity within such an oppressive system. Through satirizing and subverting the conventions of the serial killer narrative -particularly the notion that "some victims are more deserving than others" <ref type="bibr">(Gregoriou,</ref><ref type="bibr">12)</ref> -the chosen novels expose the hypocrisy in celebrating or mythologizing male violence and serial killers, fictional or otherwise, while simultaneously denouncing that same behavior in women. Further, in a similar vein to Naomi Alderman's The Power (2016), these authors explore the dangers of power itself, suggesting that while role reversals and revenge narratives "constitute a fruitful site for exploring the intricacies of sexual and gender-based violence" <ref type="bibr">(Westphal, n.p.)</ref>, as Tamar Westphal notes, they raise further questions about the nature of abuse and the consequences of hedonistic violence on one's identity and sense of reality. Jean Menzies writes that Femgore "is a form of horror where women are set free -free to feel -free to fail -free to be" (2025, n.p.), with Catie Powers similarly arguing that the genre "allows us to temporarily escape the patriarchy" (2025, n.p.). I argue that these novels instead evoke an illusion of freedom and power despite their various subversions of gender and notions of female "deviancy."</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Disrupting Passivity: Gender, Antiheroinism, and the Serial Killer Narrative</head><p>As Abby Bentham contends, serial killer narratives, regardless of genre, are "concerned with boundary-breaking and taboo" (205), monstrosity, and existentialism, and steadily rose in popularity during the twentieth century against "a backdrop of two World Wars, economic crisis, gangsterism, and the rise of the political far right" (206). Importantly, the "empathetic" (207) or likeable killer is a relatively new literary phenomenon of the late twentieth and twenty-first centuries, epitomized in figures such as Dexter, Villanelle from Killing Eve, and even Game of Thrones' Arya Stark. Bentham suggests that not only did the end of the twentieth century foster ideas that the serial killer "might look like 'one of us'" (214, original emphasis), but that "there is a little bit of the serial killer or psychopath in everyone" (214), an idea that Femgore adopts as a core belief, particularly in relation to female rage and oppression. Importantly, though, and in stark contrast to this empathetic killer figure, the antiheroine has almost always been defined and limited by her unlikability and fearful boundary-crossing, as well as by her complicated relationships with motherhood, sexuality, and other women. Expressions of female rage in fiction have historically been aligned with a kind of rogue and perverted feminism, with antiheroines such as Amy Dunne from Gone Girl, Cersei Lannister from Game of Thrones, and Helena from Orphan Black occupying fraught positions as dangerous and ruthless women who are equally capable of evoking empathy in readers and viewers. Like the antiheroine and femme fatale, the female serial killer, as Maysaa Husam Jaber argues, "embodies the societal fears and anxieties which reinforce the monsterization of the figure" (172), a contradiction inherent in Femgore's closely related genre, the Gothic, as well as crime fiction more broadly. Indeed, as Avril Horner and Sue Zlosnik argue, "Gothic texts either mimic the polarisation of women in Western society or seek to challenge damaging stereotypes and constricting practices -sometimes both in the same text" (2). This tension between adherence to and disruption of gender stereotypes seems inescapable in genres centralizing defiant women but is also necessary in emphasizing the possibilities and limitations of border-crossing in pervasive patriarchal systems.</p><p>Femgore has been described by cultural critics as "the latest visceral subgenre of horror fiction" (Menzies, n.p.), as "unapologetically grotesque, and disturbingly intimate" <ref type="bibr">(Alaspa, n.p.)</ref>, and "antithetical to everything women in horror have been told they have to be" (n.p.). The aestheticism of the genre is punctuated by book covers featuring "neon pinks, glistening eyeballs, ambiguously truncated body parts in grayscale and flowers unfurling into hunks of raw meat" <ref type="bibr">(Blakemore, n.p.)</ref>, a style that highlights the ambivalent nature of the books' feminism. Certainly, the genre owes its conventions to the Gothic and the monstrous-feminine, Barbara Creed's theory that "when woman is represented as monstrous it is almost always in relation to her mothering and reproductive function" <ref type="bibr">(Creed,</ref><ref type="bibr">7)</ref>. In her seminal text, The Monstrous-Feminine, Creed rejects the notion that the figure is "'feminist' or 'liberated'" (7); rather, the "presence of the monstrous-feminine in the popular horror film speaks to us more about male fears than about female desire or female subjectivity" (7). However, Creed's 2022 book Return of the Monstrous-Feminine: Feminist New Wave Cinema challenges this notion, suggesting instead that the monstrous woman's journey "is feminist in that they have the courage to revolt and enter into that dark place in order to see for themselves the corruption at the heart of the symbolic order" (2022, 2). This is where Femgore situates itself -as a celebration of the monstrous-feminine as "a liberating and transformative figure" (4) -for these texts highlight the ultimate goal of monster narratives: "to bring about an encounter between the symbolic order and that which threatens its stability" <ref type="bibr">(Creed,</ref><ref type="bibr">11)</ref>. As noted, the categorization of these kinds of novels as "feminist" remains fraught (Creed) -a conversation critics have been having about the antiheroine since Gone Girl (Saner; Iannone) -but their reclamation of the monstrous-feminine as a subversive figure highlights an attempt to liberate the female monster from the male gaze.</p><p>As noted, Femgore's conventions align closely with those of the Gothic, but it also takes inspiration from the body-horror genre, defined by Xavier Aldana Reyes as a "subgenre of horror concerned with the maiming, destruction, transformation or grotesque exaggeration of the human body" (2024, 1). In feminist horror texts, as Aldana Reyes argues, there is a "concerted effort to transfer monstrosity and shame away from female bodies and onto patriarchal powers" (57), and Femgore operates in similar ways; its uniqueness, however, comes from the intersecting elements of multiple genres -Gothic, body-horror, even thriller -and antiheroine tropes, characteristics, and contexts. Aldana Reyes argues that the "peril body horror characters face is one that leads to a process of objectification or dehumanisation of the person or else a dissipation and even loss of the 'self'" (10). I want to extend this argument to consider Femgore antiheroines who are not themselves grotesque figures of bodyhorror, but enactors of such violence upon others. In a Gothic context, these killer-antiheroines bring to the surface what has been repressed -sexual desire, rage, hatred -and dramatize the Gothic's preoccupation with anxieties about "boundaries of the self" <ref type="bibr">(Davison 2009, 95)</ref>. As Rebecca Stewart contends, antiheroic characters more broadly, "often exhibit multiple identities, ones that do not always sit comfortably with each other" (2016, 9), and within the Gothic context, this complex negotiation of identity takes place through the use of abject imagery, notions of entrapment or imprisonment, and confrontation with taboo. Femgore is thus a hybrid subgenre centralizing gender politics in similar ways to rape-revenge, Female Gothic, and feminist horror texts, but offering transgressive -and sometimes regressive -disruptions to some of these genres' established conventions.</p><p>Emerging alongside Femgore is a neo-liberal brand of chick-lit centering killer woman narratives not as dark, "American Psycho for girls" <ref type="bibr">(Blakemore, n.p.)</ref> texts, but as "wickedly fun" <ref type="bibr" target="#b6">(Cohen 2023)</ref>, and "laugh-out-loud funny" (Wallace) thriller romps. Novels such as How to Kill Your Family (2021), She's a Killer (2021), You'd Look Better as a Ghost (2023), Bad Men (2023), How to Kill Men and Get Away with <ref type="bibr">It (2023)</ref>, How to Kill a Guy in Ten <ref type="bibr">Ways (2024)</ref> and The Best Way to Bury Your Husband (2024) parody conventions of the romantic comedy and self-help book to rewrite rape-revenge type stories for "easy" consumption. These novels situate the killer woman as nonchalant, predominantly white, and sarcastic, and almost always categorize her violence in terms of actively enacting revenge or "justice" on deserving men: as protagonist Saffy tells readers in Bad Men <ref type="bibr">(Cohen)</ref>, "Killing bad men is my private hobby, my passion project, the thing that makes me tick. It's my own humble attempt at smashing the patriarchy" (11). Lizzie Seal argues that "from a feminist position, it is possible to view women who kill violent male partners as taking justifiable action" (2010, 2-3), despite doing so in ways "that the criminal justice system does not always recognise as legitimate" (3). These killer-chick-lit protagonists might be less ambivalent or complex than Femgore antiheroines, 1 but their emergence in contemporary fiction highlights justified anxieties and concerns about the limited capabilities of judicial and law enforcement bodies in protecting abused women.</p><p>Notwithstanding genre differences and specifics, the fictional (and real-life) serial killer "achieves fame not by performing meritorious acts or possessing outstanding qualities, but by being seen" <ref type="bibr">(Schmid 2005, 16)</ref>; as David Schmid argues, there is "compelling evidence of the collapse of the difference between fame and notoriety" ( <ref type="formula">16</ref>) in contemporary American culture. Femgore and killer chick-lit antiheroines struggle primarily with similar issues of perception -they either fight against their perceived invisibility, sometimes using it to their advantage, or delight in the ramifications of their deceptively innocent, everyday performance. The identity crisis accompanying the antiheroine's perceived invisibility echoes the growing madness of the ur-fictional killer, Patrick Bateman, who slowly loses touch with reality. Similarly, Boy Parts antiheroine, Irina, asks:</p><p>I wonder what the fuck I have to do for people to recognise me as a threat, you know? It's like . . . am I even doing this shit? Have I even fucking done anything? Like, do I have to snap the wine bottle inside him to get him to stop sending me sad emails? Do I have to cut his nipple off for him to realise he should probably ring the police? Do I have to cave his head in with my camera, rather than hit him the once? Do I have to crash his car? Do I have to smash a glass over the head of every single man I come into contact with, just to leave a fucking mark? (160)</p><p>The desire to be "seen" in the Femgore context is less about being loved, admired, and celebrated in the way male serial killers are as cultural celebrities, and more about being perceived as equally capable of violence. As Gentry and Sjoberg argue, there is a "conscious or unconscious assumption that women cannot perpetrate violence" (3) despite the absence of evidence suggesting that their "capacity for violence is any less than, or different from men's" (3). The killer-antiheroine's narrative unreliability and distorted sense of reality in these texts highlight not only her own perceived limitations or strangeness but her societal position as an ostracized transgressor of gender, social, and moral expectations.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>"This is My Story, and You Cannot Control It": Perception, the Gothic Double, and the Erasure of Self in Maeve Fly</head><p>Winner of the Golden Poppy Octavia E. Butler Award and Splatterpunk Award and described as a "feminist take on the horror classic American Psycho" (Venters, n.p.), Leede's indie debut Maeve Fly follows white, privileged, and conventionally beautiful protagonist Maeve as she navigates loneliness, loss, and newfound love amid the backdrop of her insatiable killing. Like many Femgore novels, Maeve Fly explores themes of perception and artifice, with Maeve relishing knowing that she is a "wolf" in disguise, hiding so that she can be "shrewder, quicker, ready to outwit and outmatch and strategize" (87) when patriarchy threatens to "put [her] down" (86, original emphasis). This notion of hiding one's true self, of putting "your wolf to sleep . . . sedated and secret and tucked away" (88) is literalized in her job at Disneyland, where her role as Elsa from Disney's Frozen allows her to freely occupy the space of "princess and villainess" (17). Her privilege -rooted in whiteness, conventional beauty, and social status -allows her to kill and corrupt with minimal external consequences, but her individualistic and narcissistic motivations position her not as a feminist hero but an egotistical defender of the status quo. For example, on the one hand, Maeve fulfills the problematic stereotype of the femme fatale, "caricaturesque monsters" who "lure their victims using their sexuality" <ref type="bibr">(Sandman,</ref><ref type="bibr">244)</ref>, but on the other, her violence is coded as masculine; like Bret Easton Ellis's classic antihero, Patrick Bateman, Maeve performs genital mutilation and sexual torture on her victims. Further, her internalized misogyny renders her not only isolated and lonely -Maeve repeatedly speaks about her "lifetime thus far of being alone" (Leede, 87) -but trapped in the Gothic antiheroine cycle of having only "one friend . . . a tie that is inevitably severed by the [novel's] end" <ref type="bibr">(Gardner,</ref><ref type="bibr">111</ref>). Maeve's singular friendship and hatred of all other women is suggestive of Hélène Cixous's assertion that patriarchy has "insidiously, violently . . . led <ref type="bibr">[women]</ref> to hate women, to be their own enemies, to mobilize their immense strength against themselves" <ref type="bibr">(1976,</ref><ref type="bibr">878)</ref>; indeed, the antiheroine's friendship with another woman is always anomalous and ultimately destructive, suggesting that deviant women cannot participate "normally" in the community or among other women. In recent killer-antiheroine stories, Boy Parts and Kill for Love, for example, the friend is not responsible for the protagonist's "sexual, maternal, and artistic awakening" <ref type="bibr">(Gardner,</ref><ref type="bibr">10)</ref>, as I have discussed previously, and as is typical in contemporary Gothic literature featuring the antiheroine, but acts as a mirror of the protagonists' worst and "weakest" qualities: desperation, insincerity, and self-hatred. Unlike these toxic, self-serving friendships in other Femgore texts, Maeve's relationship with her best friend, Kate, is genuine and takes on a sisterly, even motherly, characteristic, but still reinforces Maeve's ostracization from society and self, not only because of its eventual end, but because Maeve's actions render an enduring friendship impossible.</p><p>Maeve Fly positions its protagonist as overtly confident and unapologetic in her transgressions, in line with other antiheroines in the "Good for Her" genre, but it also suggests that Maeve's antiheroinism is performative and imitative, thus undermining her actual power as a killer-antiheroine figure. Throughout the course of the novel, Leede engages with various antihero intertexts to highlight Maeve's self-awareness and sense of outsiderness as a violent woman: "Stupid fucking Bataille and Palahniuk and Dostoyevsky. Marlowe, Goethe. Milton. James. Kant, Wilde, Sartre . . . They can't help me. I have tried, I have been them all, and they do not fucking work" (Leede, 203). The inability of these classic antihero figures to assist Maeve in understanding herself further emphasizes her abject state as a woman who, to use Julia Kristeva's words, "disturbs identity, system, order" and "does not respect borders, positions, rules" <ref type="bibr">(1982,</ref><ref type="bibr">4)</ref>. The violence of men like Patrick Bateman, whose story Maeve turns to as an "instructional" (Leede, 203) text, is certainly abject in the way it "confronts us . . . with those fragile states where man strays on the territories of animal" <ref type="bibr">(Kristeva,</ref><ref type="bibr">15,</ref><ref type="bibr">original emphasis)</ref>, but killer-antiheroines are made doubly abject by the very fact that they are women committing violence, particularly serial violence. Leede reflexively speaks to the double standards of women who "must do in shadow what men do in the light" (204), but Maeve ultimately cannot fully transcend her gender through violence, nor can she legitimize her existence. Her transgressions render her completely alone and invisible -by the end of the novel, she has murdered her lover, Gideon, who is revealed to be a serial killer himself, and she has lost both her grandmother and Kate to death and estrangement. The book ends with Gideon's words, "I See You," attached to a talismanic doll embodying a "wolf's body with a fly's wings. A smiling face, blood dripping from its mouth" (283). Maeve's downfall is not death, a narrative conclusion Edward Friedman positions as almost inevitable for the antiheroine <ref type="bibr">(Friedman 1987, x)</ref>, but further estrangement and loneliness, the tragedy being that she has orchestrated these very conditions.</p><p>Leede uses the device of the Gothic double to question Maeve's reliability as a narrator and to blur the lines between self and other, but also to emphasize Maeve's position as an uncanny or liminal figure. Maeve describes herself as her grandmother's "double, her ghost, haunting the Strip unseen" (Leede, 24), and she takes delight in knowing "that we look so much alike . . . nearly identical" (24). Her grandmother, Tallulah, is an old-Hollywood star, "not so famous that people hear my name and know who I am related to, but famous enough that when they see her face . . . they would often stop and furrow their brows and try to piece together why she was so deeply familiar to them" (24). Tallulah herself is uncanny in her simultaneous familiarity and strangeness, epitomizing "that class of the terrifying which leads back to something long known to us, once very familiar" <ref type="bibr" target="#b12">(Freud 1981</ref>, 1-2), and her existence in the novel is filtered through Maeve's memories and hallucinations, making her doubly uncanny or unheimlich (2) to both Maeve and the reader. As Maeve descends into unreality -a familiar trajectory in Femgore novels -her connection to her grandmother strengthens as the two become one: "Maeve may not crave the spotlight, but Tallulah lives for it. And we are both here" (Leede, 253). Jean Wyatt argues that traditionally, the double epitomizes the "logic of 'I want to be you'" (38) so that eventually "the double encroaches more and more upon the protagonist's existence, edging him [sic] out at work and in love until the contest narrows to the space of the body, and one of the two must die" (38). Ironically, Maeve describes how little she and her grandmother shared physical contact -"In all our time together, we've never so much as shared a hug. Our hands have never touched" (Leede, 62) -but by the end of the novel, they are fused as one, not through a transference of Tallulah's "spirit" into Maeve's, but an annihilation of one (Maeve) in favor of the other (Tallulah). Rather than depicting Maeve as finding true empowerment in an identification with her grandmother, Leede suggests that antiheroines like Maeve are incapable of transcending their own performances as social deviants to embody something real.</p><p>The line separating artifice and truth is repeatedly blurred in the novel, as seen in Maeve's relationship with Tallulah, herself, and with her acts of imitative antiheroism, but Leede also distorts the links between sexual desire and violence and, in so doing, aligns Maeve with the archetypal -and problematic-femme fatale or monstrous woman. While Maeve is never defined by a particular or realized maternal failing or deficiency, which Margaret Tally argues is a typical antiheroine characteristic (106), she is linked to a perverted (maternal) monstrosity at various points in the novel. For example, inspired by Georges Batailles' character Simone from Story of the Eye (1928), Maeve describes her attempts at inserting a soft-boiled egg into her anus -"There is just no way to hold the egg in one's asshole fully without it breaking" (Leede, 84) -and expresses her "unimaginable rage" (85) at being unsuccessful. The alternative -using a hard-boiled egg -would remove that which she finds most pleasurable, "the squeeze and the ooze, the slow drip of the yolk, the aborted fowl, the unborn dinosaur, creeping down the leg, golden and glowing" (85). While Maeve is, once again, imitating the perversions of another cultural transgressor, she is nonetheless aligned in this moment with the "archaic mother" <ref type="bibr">(Creed 1993, 7)</ref>, who terrifies in the way she "conceives all by herself, the original parent, the godhead of all fertility and the origin of procreation" (27). Existing "outside morality and the law" (27), the archaic mother represents the "blackness of extinction -death" (28) and the "desire to return to the original oneness of things, to return to the mother/womb . . . a desire for non-differentiation" (28). This last point, particularly, links to the tension in Maeve's simultaneous desire for self-realization and individualism, and inability, even refusal, to separate herself from her grandmother's image. Maeve's imitations of other cultural transgressors -fictional or otherwise -and her failure to consolidate her own identity among these performances, mirror the real-life function of the antiheroine figure who must always prove that she is more than a mere derivative of the male ideal. Indeed, Maeve's extreme acts of violence can be read as bold attempts to validate her existence and retaliate against Tallulah's warnings to silently nurture the inner "wolf," but Leede ultimately undermines the seriousness of Maeve's violence not just because of its imitative function, but via Maeve's obsession with Hollywood. As in Kill for Love, Maeve Fly is set in Los Angeles, which Gideon describes as the "town built on the idea of artifice, of a more beautiful world than the one that actually exists" (Leede, 50). Maeve retaliates by telling Gideon that "it's not fake. It's a city of secrets, of discarded and fresh identities, of hidden depths," and concludes that "you're probably not going to make it here" (51), an ironic suggestion considering Gideon's own serial killing and hidden deviancies. As discussed, Maeve epitomizes this artifice in her job at Disneyland, but Leede furthers Maeve's artificiality as a killer through the predominant setting of her violence: Tallulah's cellar, which is decorated with "movie props" (102) and relics from her time as a Hollywood star. Maeve's first murder victim in the novel is her grandmother's nurse, Hilda, whom she kills with a "replica medieval mace" (102): "Nothing of her can remain alive, nothing of this woman who would end my grandmother . . . She lies in a masticated red steaming lump on the cellar floor" (102). Maeve's killing of Hilda with a "fake" weapon, despite its effectiveness, further emphasizes her liminal position as a false or performative antiheroine, and calls into question the limits of her power as a violent woman. In a later scene, Maeve brutally attacks Kate's boyfriend, Derek, at a Halloween party that boasts similar decorations of artifice and costumes of notorious fictional killers and transgressors: Inside, movie prop weapons hang down from the ceiling: axes, chainsaws, swords. And the costumes. The costumes are exquisite. There is Chucky, Ghostface, Pinhead, Pumpkinhead, the Stay-Puft Marshmallow Man, Norman Bates, Frankenstein's monster, Tyler Durden, David Kessler, Two-Face, Darth Vader, Dracula. And there is me. (253)</p><p>Once again, Maeve's self-alignment with archetypal or notorious exemplars of male deviancy obscures her own capabilities as an antiheroine and reduces her to a female variant of an already-established figure, despite the scene's positioning of Maeve as empowered in her "worthiness" among, even superiority to, the "greats."</p><p>Notably, though, Maeve's violence occasionally transcends mere imitation; during the attack on Derek, she gouges out an eyeball, which highlights the dangers in underestimating her capabilities -in only "seeing the surface" and not her "hidden depths" (55) -and inverts and corrupts the male gaze. After the violent act, Maeve echoes male abusers and perpetrators of gendered violence by telling Derek, "They're not going to believe you . . . No one will believe you. Ever" (258), before returning to the party, relishing in how "Derek's blood and ocular fluid have really completed <ref type="bibr">[her]</ref> costume in the most fabulous way" (259). Maeve's appropriation of typical abuser language disrupts male power but is ultimately undermined -almost humorously -by Kate's immediate accusation of cheating: "Fuck you, Maeve! I have friends over here saying the girl dressed like Tallulah Fly is making out with Derek by the bar?" (259). Maeve's physical attack on Derek remains a private, almost unreal affair -it is never mentioned in the final chapters that follow -and their interaction is misconstrued in limited gendered terms as a sexual one. Indeed, and as noted, Maeve and Kate's friendship inevitably fails because it cannot withstand the tension between truth and artifice, but its end also highlights the pervasiveness of gender assumptions. By dramatizing female jealousy and competition as a justification for the friendship's destruction, Leede further illustrates the inescapability of patriarchy and situates Maeve's violence as incomprehensible outside and within its limitations.</p><p>Maeve Fly intentionally evokes familiar tropes such as the Gothic double and the "deviant" woman -as well as various antihero intertexts -to orient and legitimize its killer-antiheroine, but when filtered through these structures and narratives, Maeve's actions and self are ultimately undermined and destabilized. Early in the novel, Maeve narrates that "we're all just playing into stories created before our time. We're all just living and altering them, every day" (56), a prophetic allusion to her own futile attempts at transcending the expectations and perceived limitations of her gender. Leede demonstrates the difficulties in imagining a killer-antiheroine who exists outside the familiar frames of reference and highlights the inexorability of patriarchal ideologies from expressions of female violence.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>"If there's a Monster in This Apartment, it's Me": Desire, Cannibalism, and Reversing the Fetishized Gaze in The Eyes are the Best Part</head><p>While Maeve obsesses over being perceived as attractive, successful, and simultaneously dangerous and innocent, Monika Kim's protagonist, Ji-won, actively uses her supposed invisibility as a "docile, sweet, submissive" <ref type="bibr">(Kim,</ref><ref type="bibr">142)</ref> Asian woman to execute violence and cannibalism and evade capture. A Sunday Times bestseller, and recipient of several accolades, including a Bram Stoker Award in 2024, The Eyes are the Best Part depicts Ji-won's growing obsession with eating her victim's eyeballs, reversing the fetishized gaze of white men who she describes as "stupid and oblivious, convinced of their own self-importance" (142) and fueled by the belief that "little Oriental girls are nothing to worry about" (140). Like Maeve, Ji-won acts as an avenger against "bad men" and, in similar ways to Oyinkan Braithwaite's antiheroine, Ayoola, in My Sister, the Serial Killer, her actions highlight the links between culture, family, and cycles of oppression and violence. The relationship with the sister -as explored in other antiheroine narratives including The Girl with the Dragon Tattoo, Sharp Objects, and Braithwaite's novel -is particularly motivating in The Eyes are the Best Part, fueling Ji-won's crimes and giving her a (convenient) 2 excuse: "my mother may be too weak to protect herself, and my sister too young. But I'm neither of those things" <ref type="bibr">(Kim,</ref><ref type="bibr">279)</ref>. After murdering her mother's new boyfriend, George, and framing her college friend (and stalker), Geoffrey, for the crime, Ji-won vows at the end of the novel to kill her estranged father, "the one who is ultimately to blame" for inspiring "weakness . . . powerlessness" in her mother, leaving her "lost, adrift at sea" (279). If Maeve cannot escape her sense of unbelonging and internalized misogyny, Ji-won is similarly incapable of breaking the cycle of patriarchal oppression and violence in her promised weaponization of it against her father. Her vows to continue killing in response to her father's mistreatment, much like Braithwaite's antiheroines Ayoola and Korede, position her as stuck in the patriarchal cycle of violence. The killer-antiheroine thus continues to expand and push the boundaries of what is "acceptable" under patriarchy through their individual transgressions but cannot rewrite or dismantle it.</p><p>Despite Ji-won's inability to transcend the cycles of patriarchal harm by the novel's end, The Eyes are the Best Part nonetheless positions its killer-antiheroine as a subversive vehicle through which whiteness, masculinity, and female desire can be interrogated. The white, fetishized gaze pervades Jiwon's life and is described in terms of consumption: "George's piercing eyes are on Ji-hyun and me constantly. Watching us. Judging us. Peeling us back, layer by layer. There's a hunger in his gaze, as though we are his prey" (74). As Laura Mulvey writes in her seminal work on the male gaze, "the determining male gaze projects its phantasy on to the female figure which is styled accordingly" <ref type="bibr">(1975,</ref><ref type="bibr">11)</ref>, but Ji-won repeatedly refutes and challenges that stylization or objectification, primarily through her acts of cannibalism. The horror of the fetishized gaze is literalized in Ji-won's early Gothic dreams and hallucinations, which dramatize the act of non-consensual looking:</p><p>A blur of movement. There's a soggy sound, like a wet ball of paper towels hitting a tiled floor. I stifle a scream. It's not my mother in the bed. It isn't George, either.</p><p>It's a huge eyeball. George's eyeball. It's wet and squelching and the size of a human, its iris the bright blue of morning glories. It turns to me slowly, watching me, surveying my every move. I close my eyes and scream until something smacks me across the face, hard. <ref type="bibr">(Kim,</ref><ref type="bibr">79)</ref> In this scene, the gaze is made abject in its incomprehensibility, how it "beseeches, worries, and fascinates desire" <ref type="bibr">(Kristeva,</ref><ref type="bibr">1)</ref>, but also by its perversion, the way it "neither gives up nor assumes a prohibition, a rule, or a law; but turns them aside, misleads, corrupts" (15). Ji-won's fear of the abject -of the unrelenting gaze -is mirrored in her initial disgust at eating fish eyes: "It's surprisingly firm, nothing like how I imagined it to be. Trembling, I drop it into my mouth. As soon as it touches my tongue, I start gagging" <ref type="bibr">(Kim,</ref><ref type="bibr">31)</ref>. Here, Kim uses language akin to a first sexual encounter, depicting Ji-won as struggling -fumbling -to pick up the eyeball with her chopsticks, before narrating, "I squeeze my eyes shut and feel around blindly before grasping the eyeball between my finger and thumb" (31). The erotic anticipation of this first consumption, and the subsequent relief in overcoming it, is fully realized in Umma's praise: "this means you've matured. You're all grown up now" (31). Ji-won's completed rite-of-passage serves as a precursor for her burgeoning violence and further suggests an inextricable connection between sexual desire, consumption, and death, as explored in other antiheroine narratives such as Sharp Objects and A Certain Hunger.</p><p>Ji-won's eventual enjoyment of, and later, obsession with, eating fish (and human) eyes demonstrates a direct engagement with and overcoming of the abject, thus emphasizing her own position as a subversive antiheroine who finds power in her othered status. Kristeva argues that once fear has been "bracketed, discourse will seem tenable only if it ceaselessly confronts that otherness, a burden both repellent and repelled, a deep well of memory that is unapproachable and intimate: the abject" <ref type="bibr">(Kristeva,</ref><ref type="bibr">6)</ref>. This confrontation with the abject reaches its peak in Ji-won's Gothic dream of a room with eye-covered walls, "they watch me, trailing my every move. Glassy fish eyes, shining like marbles" <ref type="bibr">(Kim,</ref><ref type="bibr">63)</ref>. Remembering the "excitement that jolted through [her] body from swallowing" (64) her first fish eye, Ji-won imagines herself eating in bacchanal excess until her "stomach is full and aching, until the wall is bare" (64). As a narrative device, the Gothic dream gives a voice to the "unspeakable," often represented in Gothic texts as secrets, losses, guilts, or taboos, all of which are, as Eve Kosofsky Sedgwick notes, "naturalistically difficult to talk about" <ref type="bibr">(1986,</ref><ref type="bibr">14)</ref>. The dream functions as a barrier between the self and "something to which it ought normally to have access" (12), and for Jiwon, it is power -retributive, restorative, and equally destructive in nature -that she is denied until her transgressions are realized in the waking world. Ji-won's Gothic dream also emphasizes her fears surrounding the vulnerability of her mother, Umma, who insists on the superiority of white men as romantic partners: "Anyways, have you ever heard of a white man treating his girlfriend or wife badly? Because I haven't!" <ref type="bibr">(Kim,</ref><ref type="bibr">26)</ref>. Contributing to the weight of her fears surrounding her mother and her Gothic dreams is the recent abandonment by her father and the unease of her new possessive friendship with Geoffrey, who performs acts of feminism and cultural allyship to get closer to Jiwon. Both Geoffrey and Gideon from Maeve Fly are thwarted by the killer-antiheroine in the two novels, but unlike Maeve, Ji-won never allows herself to be validated or "seen" by Geoffrey in any real sense; rather, Geoffrey epitomizes the ever-present threat of not only "well-meaning whiteness" but also masqueraded misogyny.</p><p>Yet, while Ji-won's dreams eventually erupt into real acts of violence, Kim depicts these moments of cannibalism and murder with ambiguity, suggesting through Ji-won's slipping of reality that she cannot fully transcend the Gothic dream. Narrative unreliability is characteristic of the antiheroine/ antihero figure, attesting to their liminal position as abject boundary crossers who move, as Victor Turner suggests, "betwixt and between the positions arrayed by law, custom, convention, and ceremonial" (95). "Did I imagine the whole thing?," Ji-won asks, after finding the corpse of a homeless man and extracting his eye for consumption: "I expect the eye to pop out easily, the way I've imagined it in my dreams" <ref type="bibr">(Kim,</ref><ref type="bibr">165)</ref>. Her transition from animal to human flesh can be read as similar in its trajectory to the escalating violence of serial killers and abusers; Ji-won describes the taste of human flesh as "rich and full . . . not like the fish eyes I've tried . . . if anything, it's more like organ meat, with a slightly metallic, beefy taste" (167). Despite Ji-won's self-assurances that "he was already dead when <ref type="bibr">[I]</ref> found him" (167, original emphasis), we are positioned to eventually see this man as Jiwon's first murder victim; he was "drugged. Sleeping pills, they think" (179), which mirrors her methods in murdering George at the novel's conclusion. Ji-won's unreliability is heightened by both the frenzied nature of her attacks and the increasing number of hallucinations or visions of violence that intrude upon her waking life. When it is revealed in the final chapters that she has a brain tumora potential justification for her actions -the truth is further blurred, yet Kim ultimately rejects this as an explanation for Ji-won's violence. If anything, the removal of the tumor provides clarity, strengthening her desire "to eat. To swallow. To devour" (273, original emphasis) and ultimately leads to her decision to kill George and enact revenge on her father.</p><p>Unlike Maeve Fly, which depicts its killer-antiheroine consuming human flesh as a passing, and somewhat performative "gesture of rebellion" (Galt and van der Zaag, 278), The Eyes are the Best Part situates Ji-won's cannibalism as a rejection of cultural stereotypes linking the racial other to notions of barbarism and monstrosity. In their discussion of another Femgore text, the film Raw, Rosalind Galt and Annette-Carina van der Zaag discuss the shift in representations of cannibalism and argue that "as cannibals become white and Western, so they are granted subjectivity, agency and cinematic point of view" (282). Further, they suggest that representations of cannibalism in this white, Eurocentric context appear "more interested in personal freedom than in collective living," which ultimately undermines the text's "ability to reflect on structural violence" (281). This is certainly the case in Maeve Fly, where cannibalism is used as a signifier of cultural and social corruption in Los Angeles: "There's more cannibalism in this town than most people realize. I might only be adding to cocktails that already are full of brains" (Leede, 237). Comparatively, The Eyes are the Best Part deliberately situates Ji-won's cannibalism as an act of cultural retaliation against white appropriation of Asian culture and fetishization. George's excessive consumption of Western-styled Chinese food and simultaneous ogling of the restaurant's waitress, for example, serves as a juxtaposition to Ji-won's careful and specific ingestion of eyes and accompanying sexual maturation. Ji-won eventually weaponizes this gluttony and objectification against George and reduces him to an object of prey: "I'm certain that blue eyes would taste amazing, much better than brown ones. Especially George's eyes" <ref type="bibr">(Kim,</ref><ref type="bibr">102)</ref>. Echoing Maeve's appropriation of abuser language, Ji-won narrates, "I should go. I don't trust myself around him" (137), inverting the non-consensual gaze and positioning George in the role of the "performing woman" who takes the moment of looking "into a noman's-land outside its own time and space" <ref type="bibr">(Mulvey,</ref><ref type="bibr">12)</ref>. Ji-won's loosening grip on reality and hallucinations in response to George's presence satirize the act of objectified looking, and position George as an "erotic spectacle" (11).</p><p>If Ji-won's consumption of eyes signifies an inversion of the male gaze and a challenge to white appropriation of Asian culture and fetishization, it equally dramatizes the inescapability of selfsurveillance and the subsequent internalization of the gaze. As Ji-won descends into quasi-madness, she becomes convinced that she is being followed, a reminder of her mortality and vulnerability: "Right away my mind goes to a dark place. I imagine a kidnapping, rape, murder. Fear courses through me . . . the only thing I have is my body, and the thought of something being done to it makes me sick" <ref type="bibr">(Kim,</ref><ref type="bibr">123)</ref>. While Geoffrey may be stalking her, Kim positions these moments as indicative of Ji-won's own self-surveillance. Michel Foucault argues that the "major effect of the Panopticon" is "to induce . . . a state of conscious and permanent visibility that assures the automatic functioning of power" (1995, 201) so that the affected person is "caught up in a power situation of which they are themselves the bearers" (201). Contradictorily, Ji-won is both the subject of the fetishized gaze via George and Geoffrey and is also rendered invisible by her perceived passivity: "Nobody looked at me when I walked alone. Nobody paid me any attention" <ref type="bibr">(Kim,</ref><ref type="bibr">125)</ref>. Ji-won's self-surveillance manifests not only via her increased paranoia at being followed, but also by her decision at the end of the novel to find and murder her father. This newfound clarity -now that her brain tumor has been removedallows her to see her invocations of violence within the recognizable (and more justifiable) framework of retributive violence, as opposed to the more abject, incomprehensible nature of her previous murders. By filtering her violence through this lens, Ji-won essentially "tames" her dangerous inhibitions under the panoptic patriarchal gaze; once again, the antiheroine's actions must be "explained" to be understood. The Eyes are the Best Part thus emphasizes the equally transgressive and destructive nature of violence committed by women under and in response to patriarchy and reinforces the limitations of the killer-antiheroine figure.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Conclusion</head><p>As AK Blakemore writes in response to the sudden proliferation of Femgore texts, "women are writing absolutely horrific novels . . . novels about people (usually women, usually young) who stalk, slash, bludgeon, infect, slice, dismember and cannibalise" (2024, n.p.). It is a trend gaining momentum against the backdrop of a complex, online political landscape, and ever-growing cultural anxieties surrounding women's place in the world. Femgore novels promise a "cathartic release" <ref type="bibr">(Evans 2018, n. p.)</ref> for readers via the killer-antiheroines' transgressions, but, as Maeve Fly and The Eyes are the Best Part suggest, this reprieve from the oppressive weight of patriarchal power is temporary and fraught with contradictions. On the one hand, Maeve and Ji-won challenge essentialist ideas of women as inherently nurturing, maternal, and passive, yet on the other, they reinforce the limitations of the antiheroine figure whose behavior continues to be read in reactionary or retaliative terms. Nonetheless, these recent expressions of female deviancy highlight a definite shift in antiheroine representation whereby the "unlikeability" of the protagonist no longer ostracizes readers or significantly defines the figure <ref type="bibr" target="#b32">(Tally 2016;</ref><ref type="bibr" target="#b15">Gardner 2024)</ref>, and connections to a perverted maternal instinct, as noted, are not compulsive or archetypal but fleeting and rare. As a descendant of the Gothic, bodyhorror, and feminist literature genres, Femgore provides a new landscape for the killer-antiheroine to disrupt cultural expectations, and, in so doing, offers challenges to existing norms and ideologies and raises new ones in their stead. This pattern of simultaneous regression and progression of the antiheroine's ideological underpinnings highlights the ever-growing complexity in representing transgressive and violent women. While Leede and Kim offer unique and differing approaches to understanding the negotiation of female power, with varying degrees of success, they both demonstrate the potential of the killer-antiheroine as a cultural interrogator of patriarchal power. Notes 1. For example, these novels often define women's capability for violence as purely reactionary and resort to familiar femininity tropes such as the "castrating bitch" <ref type="bibr">(Creed 1993, 106)</ref>. Many also use a history of bad parenting or a history of sexual trauma to justify the protagonist's violence, reinforcing ideas that the antiheroine can only be understood as a symptom of patriarchal oppression, rather than self-motivated transgressor akin to modern antiheroes. 2. The unreliability of Ji-won's narration makes it difficult to view her motivations as solely linked to protecting her family; it is possible that she is masquerading as her family's avenger to obscure her own impulses. Readers eventually learn of her previous deceptions -"I hurt people on purpose. I stole my cousin's Game Boy when I was twelve. I tricked my friends and manipulated them" <ref type="bibr">(Kim,</ref><ref type="bibr">234)</ref> -actions that challenge the notion that "deviant" women must explain and justify their behavior to make sense of it.</p></div>			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="2" xml:id="foot_0"><p>E. GARDNER</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" xml:id="foot_1"><p>CRITIQUE: STUDIES IN CONTEMPORARY FICTION</p></note>
+		</body>
+		<back>
+
+			<div type="acknowledgement">
+<div><head>Acknowledgments</head><p>I would like to thank <rs type="person">Mark Filmer</rs> for his feedback and suggestions, and <rs type="person">Emily Fuller</rs> for undergoing early research on this project.</p></div>
+			</div>			<div type="annex">
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Disclosure Statement</head><p>No potential conflict of interest was reported by the author(s).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Notes on contributor</head><p>Eleanore Gardner is a Lecturer in English at Charles Sturt University. Her research focuses on representations of the antiheroine in Gothic and crime-fiction texts, with a particular interest in abjection, queer theory, and the connection between women and violence.</p></div>			</div>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<monogr>
+		<title level="m" type="main">Femgore Fiction: The Rise of Female-Driven Body Horror in Literature</title>
+		<author>
+			<persName><forename type="first">Bryan</forename><surname>Alaspa</surname></persName>
+		</author>
+		<ptr target="https://www.bryanwalaspa.com/post/femgore-fiction-the-rise-of-female-driven-body-horror-in-literature" />
+		<imprint>
+			<date type="published" when="2025-05-14">14 May 2025. 22 Aug. 2025</date>
+		</imprint>
+	</monogr>
+	<note>Inside the Mind of a Working Writer: Bryan Alaspa</note>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<monogr>
+		<title level="m" type="main">Contemporary Body Horror</title>
+		<author>
+			<persName><forename type="first">Aldana</forename><surname>Reyes</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Xavier</forename></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2024">2024</date>
+			<publisher>Cambridge UP</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title level="a" type="main">Fatal Attraction: The Serial Killer in American Popular Culture</title>
+		<author>
+			<persName><forename type="first">Abby</forename><surname>Bentham</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Violence in American Popular Culture</title>
+		<editor>
+			<persName><forename type="first">David</forename><surname>Schmid</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">Praeger</forename></persName>
+		</editor>
+		<imprint>
+			<date type="published" when="2016">2016</date>
+			<biblScope unit="page" from="203" to="222" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<monogr>
+		<title level="m" type="main">Stalk, Slice, Bludgeon: How &apos;Femgore&apos; Is Reinventing Horror Fiction</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">K</forename><surname>Blakemore</surname></persName>
+		</author>
+		<ptr target="https://www.theguardian.com/books/article/2024/jul/12/fem-gore-horror-fiction" />
+		<imprint>
+			<date type="published" when="2024-07-12">12 July 2024. 20 Aug. 2025</date>
+		</imprint>
+	</monogr>
+	<note>The Guardian</note>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title level="a" type="main">The Laugh of the Medusa</title>
+		<author>
+			<persName><forename type="first">Hélène</forename><surname>Cixous</surname></persName>
+		</author>
+		<idno type="DOI">10.1086/493306</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Signs: Journal of Women in Culture and Society</title>
+		<editor>
+			<persName><forename type="first">Keith</forename><surname>Cohen</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">Paula</forename><surname>Cohen</surname></persName>
+		</editor>
+		<imprint>
+			<biblScope unit="volume">1</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="875" to="893" />
+			<date type="published" when="1976">1976</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">Eliza</forename><surname>Clark</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Boy Parts. Influx P</title>
+		<imprint>
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">Julie</forename><surname>Cohen</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Mae</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2023">Bad Men. Zaffre, 2023</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<monogr>
+		<author>
+			<persName><forename type="first">Barbara</forename><surname>Creed</surname></persName>
+		</author>
+		<title level="m">The Monstrous-Feminine: Film, Feminism, Psychoanalysis. Routledge</title>
+		<imprint>
+			<date type="published" when="1993">1993</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<monogr>
+		<title level="m">Return of the Monstrous-Feminine: Feminist New Wave Cinema</title>
+		<imprint>
+			<publisher>Routledge</publisher>
+			<date type="published" when="2022">2022</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title level="a" type="main">History of the Gothic</title>
+		<author>
+			<persName><forename type="first">Carol</forename><surname>Davison</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Margaret</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Gothic Literature 1764-1824</title>
+		<editor>
+			<persName><forename type="first">Carol</forename><surname>Margaret Davison</surname></persName>
+		</editor>
+		<imprint>
+			<publisher>U of Wales P</publisher>
+			<date type="published" when="2009">2009</date>
+			<biblScope unit="page" from="83" to="110" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<monogr>
+		<title level="m" type="main">These Novels Prove That Women Make Fascinating Fictional Killers, Too</title>
+		<author>
+			<persName><forename type="first">Kristen</forename><surname>Evans</surname></persName>
+		</author>
+		<ptr target="https://www.buzzfeednews.com/article/kristenevans/womens-rage-in-2018-books" />
+		<imprint>
+			<date type="published" when="2018-11-27">27 Nov. 2018. 15 Aug. 2025</date>
+		</imprint>
+	</monogr>
+	<note>Buzzfeed</note>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<monogr>
+		<title level="m" type="main">Discipline and Punish: The Birth of the Prison. 2nd ed. Translated by Alan Sheridan</title>
+		<author>
+			<persName><forename type="first">Michel</forename><surname>Foucault</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1995">1995</date>
+			<publisher>Vintage Books</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<title level="a" type="main">The Standard Edition of the Complete Psychological Works of Sigmund Freud</title>
+		<author>
+			<persName><forename type="first">Sigmund</forename><surname>Freud</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">An Infantile Neurosis and Other Works</title>
+		<editor>
+			<persName><forename type="first">James</forename><surname>Strachey</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">P</forename><surname>Hogarth</surname></persName>
+		</editor>
+		<imprint>
+			<date type="published" when="1917">1917-1919. 1981. 1919</date>
+			<biblScope unit="volume">XVII</biblScope>
+			<biblScope unit="page" from="217" to="253" />
+		</imprint>
+	</monogr>
+	<note>The Uncanny</note>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<monogr>
+		<title level="m" type="main">The Antiheroine&apos;s Voice: Narrative Discourse and Transformations of the Picaresque</title>
+		<author>
+			<persName><forename type="first">Edward</forename><forename type="middle">H</forename><surname>Friedman</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1987">1987</date>
+		</imprint>
+		<respStmt>
+			<orgName>U of Missouri P</orgName>
+		</respStmt>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<title level="a" type="main">C&apos;est grave&apos;: Raw, Cannibalism and the Racializing Logic of White Feminism</title>
+		<author>
+			<persName><forename type="first">Rosalind</forename><surname>Galt</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Annette-Carina</forename><surname>Van Der Zaag</surname></persName>
+		</author>
+		<idno type="DOI">10.1177/14704129221112972</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Visual Culture</title>
+		<imprint>
+			<biblScope unit="volume">21</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="277" to="296" />
+			<date type="published" when="2022">2022</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<monogr>
+		<title level="m" type="main">Beyond Mothers, Monsters, Whores: Thinking About Women&apos;s Violence in Global Politics</title>
+		<author>
+			<persName><forename type="first">Eleanore</forename><forename type="middle">;</forename><surname>Gardner</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Caron</forename><forename type="middle">E</forename><surname>Gentry</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Laura</forename><surname>Sjoberg</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2015">2024. 2015</date>
+			<publisher>Zed Books</publisher>
+		</imprint>
+	</monogr>
+	<note>Disruptive Women of Literature: Rooting for the Antiheroine</note>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<monogr>
+		<title level="m" type="main">Language, Ideology and Identity in Serial Killer Narratives</title>
+		<author>
+			<persName><forename type="first">Christiana</forename><surname>Gregoriou</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2011">2011</date>
+			<publisher>Routledge</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<monogr>
+		<author>
+			<persName><forename type="first">Avril</forename><surname>Horner</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Sue</forename><surname>Zlosnik</surname></persName>
+		</author>
+		<title level="m">Women and the Gothic: An Edinburgh Companion</title>
+		<meeting><address><addrLine>Edinburgh UP</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<monogr>
+		<title level="m" type="main">What Gone Girl Tells Us About Feminism</title>
+		<author>
+			<persName><forename type="first">Carol</forename><surname>Iannone</surname></persName>
+		</author>
+		<idno type="DOI">10.1007/s12129-019-09843-z</idno>
+		<imprint>
+			<date type="published" when="2020">2020</date>
+			<biblScope unit="volume">33</biblScope>
+			<biblScope unit="page" from="172" to="175" />
+		</imprint>
+	</monogr>
+	<note>Academic Questions</note>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<analytic>
+		<title level="a" type="main">Caught in Observation: Sublime Tableaux Morts in Female Serial Killer Narratives</title>
+		<author>
+			<persName><forename type="first">Natalia</forename><surname>Igl</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Serial Killers and Serial Spectators: Cultures, Narratives, and Representations</title>
+		<editor>
+			<persName><forename type="first">Anhiti</forename><surname>Patnaik</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">Elana</forename><surname>Gomel</surname></persName>
+		</editor>
+		<imprint>
+			<date type="published" when="2024">2024</date>
+			<biblScope unit="page" from="70" to="86" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<analytic>
+		<title level="a" type="main">Trauma, Horror and the Female Serial Killer in Stephen King&apos;s Carrie and Misery</title>
+		<author>
+			<persName><forename type="first">Maysaa</forename><surname>Jaber</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Husam</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/00111619.2020.1790489</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Critique: Studies in Contemporary Fiction</title>
+		<imprint>
+			<biblScope unit="volume">62</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="166" to="179" />
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<analytic>
+		<title level="a" type="main">The Eyes Are the Best Part</title>
+		<author>
+			<persName><forename type="first">Monika</forename><surname>Kim</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Octopus</title>
+		<imprint>
+			<date type="published" when="2024">2024</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<analytic>
+		<title level="a" type="main">The Powers of Horror: An Essay on Abjection. Translated by Leon S. Roudiez, Columbia UP, 1982. Leede</title>
+		<author>
+			<persName><forename type="first">Julia</forename><surname>Kristeva</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">C. J. Maeve Fly</title>
+		<imprint>
+			<date type="published" when="2023">2023</date>
+			<publisher>Titan Books</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<analytic>
+		<title level="a" type="main">Survival of the Grossest: Femgore&apos;s Final Girls</title>
+		<author>
+			<persName><forename type="first">Jean</forename><surname>Menzies</surname></persName>
+		</author>
+		<ptr target="https://www.panmacmillan.com/blogs/science-fiction-and-fantasy/femgore-final-girls" />
+	</analytic>
+	<monogr>
+		<title level="j">Pan Macmillan</title>
+		<imprint>
+			<date type="published" when="2025-07-17">17 July 2025. 21 Aug. 2025</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<analytic>
+		<title level="a" type="main">Visual Pleasure and Narrative Cinema</title>
+		<author>
+			<persName><forename type="first">Laura</forename><surname>Mulvey</surname></persName>
+		</author>
+		<idno type="DOI">10.1093/screen/16.3.6</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Screen</title>
+		<imprint>
+			<biblScope unit="volume">16</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="6" to="18" />
+			<date type="published" when="1975">1975</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<analytic>
+		<title level="a" type="main">Introduction</title>
+		<author>
+			<persName><forename type="first">Anhiti</forename><surname>Patnaik</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Elana</forename><surname>Gomel</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Serial Killers and Serial Spectators: Cultures, Narratives, and Representations</title>
+		<editor>
+			<persName><forename type="first">Anhiti</forename><surname>Patnaik</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">Elana</forename><surname>Gomel</surname></persName>
+		</editor>
+		<imprint>
+			<date type="published" when="2024">2024</date>
+			<biblScope unit="page" from="1" to="29" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<analytic>
+		<title level="a" type="main">We Went from Romantasy to This?</title>
+		<author>
+			<persName><forename type="first">Catie</forename><surname>Powers</surname></persName>
+		</author>
+		<ptr target="https://www.mamamia.com.au/what-is-femgore/" />
+	</analytic>
+	<monogr>
+		<title level="j">Mamamia</title>
+		<imprint>
+			<date type="published" when="2025-03-01">1 Mar. 2025. 21 Aug. 2025</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b27">
+	<analytic>
+		<title level="a" type="main">Familiar Felons: Gendered Characteristics and Narrative Tropes in Media Representations of Offending Women 1905-2015</title>
+		<author>
+			<persName><forename type="first">Tua</forename><surname>Sandman</surname></persName>
+		</author>
+		<idno type="DOI">10.1177/17416590211005512</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Crime, Media, Culture: An International Journal</title>
+		<imprint>
+			<biblScope unit="volume">18</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="242" to="264" />
+			<date type="published" when="2022">2022</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b28">
+	<monogr>
+		<title level="m" type="main">The Gone Girl Backlash: What Women Don&apos;t Want</title>
+		<author>
+			<persName><forename type="first">Emine</forename><surname>Saner</surname></persName>
+		</author>
+		<ptr target="https://www.theguardian.com/film/2014/oct/07/gone-girl-backlash-david-fincher-misogynist-feminist" />
+		<imprint>
+			<date type="published" when="2014-10-08">8 Oct. 2014. 22 Aug. 2025</date>
+		</imprint>
+	</monogr>
+	<note>The Guardian</note>
+</biblStruct>
+
+<biblStruct xml:id="b29">
+	<analytic>
+		<title level="a" type="main">The Coherence of Gothic Conventions</title>
+		<author>
+			<persName><forename type="first">David</forename><surname>Schmid</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Natural Born Celebrities: Serial Killers in American Culture. The U of Chicago P, 2005. Seal, Lizzie. Women, Murder and Femininity: Gender Representations of Women Who Kill</title>
+		<meeting><address><addrLine>Sedgwick, Eve Kosofsky; Methuen</addrLine></address></meeting>
+		<imprint>
+			<publisher>Palgrave Macmillan</publisher>
+			<date type="published" when="1986">2010. 1986</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b30">
+	<monogr>
+		<title level="m" type="main">An Attempt to Define the &apos;Good for Her&apos; Cinematic Universe</title>
+		<author>
+			<persName><forename type="first">Bethy</forename><surname>Squires</surname></persName>
+		</author>
+		<ptr target="https://www.vulture.com/2023/03/an-attempt-to-define-the-good-for-her-cinematic-universe.html" />
+		<imprint>
+			<date type="published" when="2023-03-31">31 Mar. 2023. 16 Apr. 2025</date>
+		</imprint>
+	</monogr>
+	<note>Vulture</note>
+</biblStruct>
+
+<biblStruct xml:id="b31">
+	<analytic>
+		<title level="a" type="main">Editor&apos;s Introduction</title>
+		<author>
+			<persName><forename type="first">Rebecca</forename><surname>Stewart</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Crime Uncovered: Antihero</title>
+		<editor>
+			<persName><forename type="first">Fiona</forename><surname>Peters</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">Rebecca</forename><surname>Stewart</surname></persName>
+		</editor>
+		<imprint>
+			<date type="published" when="2016">2016</date>
+			<biblScope unit="page" from="7" to="15" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b32">
+	<monogr>
+		<title level="m" type="main">The Rise of the Anti-Heroine in TV&apos;s Third Golden Age</title>
+		<author>
+			<persName><forename type="first">Margaret</forename><surname>Tally</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2016">2016</date>
+			<publisher>Cambridge Scholars Publishing</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b33">
+	<monogr>
+		<author>
+			<persName><forename type="first">Victor</forename><surname>Turner</surname></persName>
+		</author>
+		<title level="m">The Ritual Process: Structure and Anti-Structure</title>
+		<imprint>
+			<publisher>Routledge</publisher>
+			<date type="published" when="1969">2017. 1969</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b34">
+	<monogr>
+		<title level="m" type="main">American Rapture by</title>
+		<author>
+			<persName><forename type="first">Amberlee</forename><surname>Venters</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">J</forename><surname>Leede</surname></persName>
+		</author>
+		<ptr target="https://openlettersreview.com/posts/american-rapture-by-cj-leede" />
+		<imprint>
+			<date type="published" when="2024-11-22">22 Nov. 2024. 22 Aug. 2025</date>
+		</imprint>
+	</monogr>
+	<note>Open Letters Review</note>
+</biblStruct>
+
+<biblStruct xml:id="b35">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">Joanna</forename><surname>Wallace</surname></persName>
+		</author>
+		<imprint/>
+	</monogr>
+	<note>d Look Better as a Ghost. Viper, 2023</note>
+</biblStruct>
+
+<biblStruct xml:id="b36">
+	<analytic>
+		<title level="a" type="main">Sexy but frightening&apos;: Femme Worldbuilding and Feminist Revenge</title>
+		<author>
+			<persName><forename type="first">Tamar</forename><surname>Westphal</surname></persName>
+		</author>
+		<idno type="DOI">10.1177/13634607241256518</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Sexualities</title>
+		<imprint>
+			<biblScope unit="volume">27</biblScope>
+			<biblScope unit="issue">8</biblScope>
+			<biblScope unit="page" from="1339" to="1355" />
+			<date type="published" when="2024">2024</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b37">
+	<analytic>
+		<title level="a" type="main">I Want to Be You: Envy, the Lacanian Double, and Feminist Community in Margaret Atwood&apos;s The Robber Bride</title>
+		<author>
+			<persName><forename type="first">Jean</forename><surname>Wyatt</surname></persName>
+		</author>
+		<idno type="DOI">10.2307/464324</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Tulsa Studies in Women&apos;s Literature</title>
+		<imprint>
+			<biblScope unit="volume">17</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="37" to="64" />
+			<date type="published" when="1998">1998</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

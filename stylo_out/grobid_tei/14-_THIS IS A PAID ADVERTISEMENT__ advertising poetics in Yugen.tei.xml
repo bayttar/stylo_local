@@ -1,0 +1,1823 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">&apos;THIS IS A PAID ADVERTISEMENT&apos;: advertising poetics in Yugen</title>
+				<funder ref="#_tp6gYaK">
+					<orgName type="full">University of Oxford</orgName>
+				</funder>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author role="corresp">
+							<persName><forename type="first">Lily</forename><surname>Middleton-Mansell</surname></persName>
+							<email>lily.middleton-mansell@sjc.ox.ac.uk</email>
+							<affiliation key="aff0">
+								<orgName type="department">Faculty of English</orgName>
+								<orgName type="institution">University of Oxford</orgName>
+								<address>
+									<settlement>Oxford</settlement>
+									<country key="GB">UK</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff0">
+								<orgName type="department">Faculty of English</orgName>
+								<orgName type="institution">University of Oxford</orgName>
+								<address>
+									<settlement>Oxford</settlement>
+									<country key="GB">UK</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">&apos;THIS IS A PAID ADVERTISEMENT&apos;: advertising poetics in Yugen</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date/>
+						</imprint>
+					</monogr>
+					<idno type="MD5">93F3B33C81C379E6707C168CDAF5F492</idno>
+					<idno type="DOI">10.1080/0950236X.2025.2608852</idno>
+					<note type="submission">Received 25 April 2025; Accepted 17 October 2025</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.0" ident="GROBID" when="2026-02-25T19:53+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term>Little magazines</term>
+					<term>Yugen</term>
+					<term>advertising</term>
+					<term>affect</term>
+					<term>Amiri Baraka</term>
+					<term>Frank O&apos;Hara</term>
+				</keywords>
+			</textClass>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>Yugen (1958-1962) is a little magazine edited by Amiri Baraka (at the time LeRoi Jones) and Hettie Cohen. Yugen has been celebrated as an early publisher of authors who now form the canon of avant-garde American poetry -Frank O'Hara, Charles Olson, Gregory Corso and more. But very little attention has been paid to its consistent engagement with advertising. From parodies of soap advertisements, to literary debates, to poetic responses, Yugen's negotiation with the relationship between poetry and advertising reflects a wider anxiety about advertising's increasing dominance in mid-twentiethcentury American culture. I read across issues of Yugen to demonstrate its consistent engagement with advertising as both a threat to poetry and an opportunity for literary play. I argue that some writers in Yugen focus on the affective impact of advertising as making feelings 'vacant'. I then read Frank O'Hara's 'Personal Poem', first published in Yugen 6 (1960), to consider the position of 'liking' as a commercial affect and demonstrate the more reparative potentials of the relationship between poetry and advertising. While advertising's affective appeals may associate feeling with purchase, O'Hara shows how advertising can nevertheless become a medium for poetic expression.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Introduction</head><p>In the 1959 fourth issue of Yugen (1958-1962), a little magazine edited by Amiri Baraka (at the time, LeRoi Jones) and Hettie Cohen, a poem by Gregory Corso called 'For Black Mountain' hides among the promotions of the magazine's back-pages under the heading, 'THIS IS A PAID ADVER-TISEMENT'. <ref type="bibr" target="#b0">1</ref> Gilbert Sorrentino's angry letter responding to Corso in the following issue foregrounds the poem's 'ADVERTISEMENT' framing over its teasing of the Black Mountain poets, declaring that 'For Black Mountain' attacks the 'workings whereby one concatenation of words is the poem and another is the advertisement'. <ref type="bibr" target="#b1">2</ref> This exchange sets the precedent for the wider negotiation with the relationship between poetry and advertising that spans Yugen's run.</p><p>In the mid-1950s, the US advertising industry began to explode: in '1955, $9,000,000,000 was poured into United States advertising', up 'three billion from 1950'. <ref type="bibr" target="#b2">3</ref> The expansion and increasing sophistication of advertising and marketing techniques in the mid-twentieth century posed an implicit challenge to literature, as advertising's pervasion of daily life, appropriation of affective language and focus on personalisation occupied areas of expression traditionally associated with art. Published in 1957, the year before Yugen began, Vance Packard's The Hidden Persuaders describes the new 'use of mass psychoanalysis to guide campaigns of persuasion', <ref type="bibr">4</ref> as firms began developing advertising's 'emotional factor' through 'depth' marketing techniques. 5 Jeffrey Nealon's 2012 Post-Postmodernism asks, 'if advertising and the greeting card industry have completely territorialized short, pithy expressions of "authentic" sentiment', then 'what's left for poetry to do in a post-postmodern world?' <ref type="bibr" target="#b3">6</ref> This anxiety began as early as S.I. Hayakawa's 1946 'Poetry and Advertising', which argues that advertising language makes 'all' poetry 'sound suspicious'. <ref type="bibr" target="#b4">7</ref> Authors such as Ezra Pound and Charles Olson, who influenced those publishing in Yugen, often shaped their poetics against advertising. <ref type="bibr" target="#b5">8</ref> But Yugen's approach to advertising is marked less by suspicion than by play. I demonstrate Yugen's more complex negotiation with advertising as a vital influence on mid-twentieth-century poetics, then read this negotiation through the lens of liking -a reflective commercial and aesthetic judgement that today resonates more with social media's amalgamation of mass cultural 'likes' than literary simile.</p><p>As the first publisher of writing that shaped the canon of American avant-garde literature (from Jack Kerouac's 'Rimbaud' to Frank O'Hara's 'Personism: A Manifesto'), Yugen 'captured and partly shaped the most intense re-alignment of American poetry in the second part of the twentieth century'. <ref type="bibr" target="#b6">9</ref> Associated with the Beats, the New York School, the Black Mountain School and more, it has been labelled a 'showcase for writers of "different schools"', presenting an eclectic 'new consciousness' that opposes 'both academic poetry and bourgeois values'. <ref type="bibr" target="#b7">10</ref> However, little attention has been paid to Yugen's consistent engagement with advertising. Many works consider mid-twentieth-century American poets' responses to commodity culture -from Marjorie Perloff's Radical Artifice (1991) to Jasper Bernes' The Work of Art in the Age of Deindustrialization (2017)but it is rare to find analysis that considers their periodical contexts or their specific negotiations with advertising per se. Jennifer Wicke considers advertising as a 'shadow partner' to literature, <ref type="bibr" target="#b8">11</ref> foregrounding the novel's ability to contain the '"heteroglossic" pressure of modern culture'. 12 I show how shorter forms create an even greater 'collusion and interaction of languages' 13 when situated within the heterogeneity of the periodical. Advertising's significance to mid-twentieth-century poetry is tied to its material form: the periodicals that not only situate poetry within a commercial framework but also reify the social relationships integral to their writing by putting such communities into purchasable print. The poetry and paratexts in Yugen often blur the lines between literature, editorial voice and advertising, encouraging its audiences to read across different pieces and issues. Yugen's semi-fictionalisation of advertising highlights little magazines' complex relation to their own commerciality: free from the restrictions of corporate-owned periodicals, they can combine advertising with literary play; but they are nevertheless 'all failing business propositions', <ref type="bibr" target="#b9">14</ref> arguably shaped even more by matters of money due to their distinct lack of it. Tracking the negotiations with advertising that take place across Yugen highlights the complex position of little magazine poetry as both integrated in and responding to the emergent regime of advertising and marketing in the mid-twentieth century.</p><p>Section one demonstrates how Yugen uses paratextual spaces -letters, back-pages and advertisements -to promote its peers and foreground literary debates around advertising. Section two explores Yugen's play with 'Brooke's Monkey Brand' soap advertisements, connecting it to the 'relational aesthetics' that Brad Evans identifies in bibelots, proto-modernist little magazines (which are, like Yugen, marked by a 'lack of seriousness' and without modernist-style 'artistic manifestos'). <ref type="bibr" target="#b10">15</ref> Section three asks, if advertising appropriates the affective language that shapes poetry, aligning emotion with purchase, how does literature express authentic feeling? Focusing on Frank O'Hara's discourse of liking, I show how his 'Personal Poem' both adopts and subverts advertising forms, demonstrating how advertisements can become complex vehicles for more significant affect. The term 'like' has become a powerful algorithmic indicator, driving the advertising, affect and forms that shape twenty-first-century culture through its role in social media platforms. The number of 'likes' on a post is the ultimate shorthand for cultural validation, indicating positive affect, commercial viability, popularity and aesthetic value. While of course Yugen's writers had no sense of this particular meaning of liking, the periodical does highlight how mid-twentieth-century developments in advertising, and literature's response, anticipate liking's current significance as a commercial affect. Building on Jonathan Flatley's analysis of liking in Andy Warhol's work as 'the chiastic double assertion that to be pleased by something is to feel like it, and that feeling similar to something is itself pleasing', <ref type="bibr" target="#b11">16</ref> I argue that how Yugen sets itself with and against different forms of advertising resonates with liking's doubleness by asking these key questions: Is poetry like advertising? What cultural forms should we like? How does commodity culture shape affect? Yugen represents the emergent possibility of an advertising poetics -poetry that plays with the forms and imagery of advertising -but also displays a lingering impulse to deny advertising's increasing prominence. However, reading writing such as O'Hara's within Yugen's context demonstrates how poetry that acknowledges its likenesses to advertising can find new expression through commercial forms.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Advertising paratexts: Gregory Corso's 'For Black Mountain'</head><p>Declaring 'a new consciousness in arts and letters', <ref type="bibr">17</ref> Baraka and Cohen envisioned Yugen as a space for writers excluded from mainstream literary journals. Yugen's later resonances in more canonical publications follow their conscious efforts to promote emerging writers. Cohen describes reading Donald Allen's 1960 The New American Poetry anthology and being 'pleased by the familiar names and the poems that had first appeared in Yugen'. <ref type="bibr" target="#b12">18</ref> As Steven Belletto (in one of very few detailed analyses of Yugen) notes, Yugen's paratextual material 'functions as training manuals for those interested in becoming hip readers'. <ref type="bibr" target="#b13">19</ref> The effectiveness of this appeal to hip readers lies in Yugen's sociality. Bernes argues that O'Hara's 1964 Lunch Poems (some of which were first published in Yugen) reflects the increasing prominence of 'affective labour', jobs involving a 'commodification of human feelings, attitudes, and personalities'. <ref type="bibr" target="#b14">20</ref> In Yugen, this familiarity is not simply an entanglement in the 'logics of contemporary service work'; <ref type="bibr">21</ref> the magazine directly uses it to promote its own poetics. Unlike the little magazines that it advertises, which use typical page or half-page advertisements separated from their literary and editorial voices, from its second issue Yugen's back-pages combine more traditional advertising paratexts with a 'Contributors' section and 'Addenda' that intersperse the usual list of authors with 'a chatty tone that seems to give readers access to insider information'. <ref type="bibr" target="#b15">22</ref> Declarations such as 'you should read Gregory Corso's book GASOLINE' 23 promote Yugen's associates through, with the second-person pronoun, the magazine's performance as a social (and therefore seemingly non-commercial) space.</p><p>Yugen's use of the second-person pronoun in its literary promotions performs the simultaneity of personal and universal that is central to modern advertising. While the 'affective labour' of service work hinges on 'providing a human face to abstract, alienating, and often overwhelming systems', <ref type="bibr" target="#b16">24</ref> the affective labour of advertising reflects back on its audience. Advertising creates the affective response of liking through its seeming likeness to the consumer: its 'you' address (whether stated or implicit) not only asks its reader to provide their own face to the commodity, see themselves in a product, but also suggests that it had always been there. Judith Williamson explains, the 'subtle level on which the advertisement works is that of "alreadyness"': 'You do not choose in the shop, but in response to the advertisement, by "recognising" yourself as the kind of person who will use a specific brand.' <ref type="bibr" target="#b17">25</ref> The ambiguous space of Yugen's back-pages, combining literature, editorial and advertising, invites its readers to recognise themselves as both like and liking its writers, already part of its 'hip' literary coterie: simultaneously defined by personal distinction ('you' singular) and applicable to any reader ('you' plural). Yugen's engagement with the marketing undertones of its literary recommendations becomes explicit in its play with the language and imagery of advertising. Hayakawa defines advertising as the 'poeticizing of consumer goods.' <ref type="bibr" target="#b18">26</ref> Yugen highlights the reciprocity of this interaction, which also involves the commercialisation of poetic goods. While little magazines are 'usually anti-commercial', <ref type="bibr" target="#b19">27</ref> Yugen's use of advertising to consider poetry's distinction from and place within marketable goods is evident in the debates that play out across its letters and backpages, in stark contrast to the 'clear manifestos' 28 traditional to modernist periodicals. Belletto describes how Yugen staged 'confrontations between ostensibly "rival gangs," only to finally downplay their differences', <ref type="bibr" target="#b20">29</ref> citing 'For Black Mountain' by Corso (associated with the Beats), a jab at the Black Mountain School of poets. Published under the heading 'THIS IS A PAID ADVERTISEMENT', the commercial significance of Corso's poem is emphasised by Sorrentino's defence in the following issue.</p><p>From Yugen 4, p. 28. Image courtesy of the author.</p><p>At first glance, the contents of 'For Black Mountain' have nothing to do with advertising. Belletto argues its 'main claim' is 'that "measure" is a formal consideration that stems the free flow of ideas to the point of destruction.' <ref type="bibr">30</ref> However, the poem begins not by critiquing but calling for the measure of these ideas: 'The idea/not the line/must be measured'. <ref type="bibr" target="#b21">31</ref> The rest reads: this: / is insufficient to hold back the line</p><p>The incomplete idea is the new destruction this: / is the measure the sandbag that stops the flow <ref type="bibr" target="#b22">32</ref> After initially distinguishing between 'idea' and 'line', Corso now appears to align them, as the desire to 'hold back the line' connects to the 'incomplete idea'. Corso then uses the symbol for a line break ('/') to associate 'measure' with 'destruction' (no longer a 'must'), that which 'stops the flow'. The inconsistency of Corso's poem, contradicting itself within the space of two stanzas, parallels the inconsistencies of the Black Mountain School ideology. Olson's 1950 'Projective Verse', the 'Sacred Text' of the Black Mountain poets, <ref type="bibr" target="#b23">33</ref> argues for an 'open' poetic field. <ref type="bibr" target="#b24">34</ref> Its declaration that 'FORM IS NEVER MORE THAN AN EXTENSION OF CONTENT' <ref type="bibr" target="#b25">35</ref> should undermine Corso's association of Black Mountain with stemming 'the free flow of ideas'. <ref type="bibr" target="#b26">36</ref> But Olson states that this 'CONTENT' is subject to the 'LAW OF THE LINE' <ref type="bibr" target="#b27">37</ref> -his apparently 'open' approach is still restricted by the 'LAW' of form. Corso's opaqueness, self-contradiction and mingling of terms in 'For Black Mountain', alongside its didactic style (distinct from Corso's other poems), mimics the contradictions and authoritative tone of Olson's essay. Baraka describes Corso's poem as a 'parody parodying' the 'limitations of the Black Mountain approach'. <ref type="bibr" target="#b28">38</ref> Olson's idiosyncratic essay forcefully calls for 'open' verse that is nevertheless governed by the 'LAW OF THE LINE' (or 'measure') in his desire to combine poetic liberation with a decisive literary manifesto. <ref type="bibr" target="#b29">39</ref> Corso's poem imitates such a paradox, demonstrating how these theoretical negotiations can result in no 'CONTENT' at all. The poem is not an argument but a joke: in mimicking the theoretical attempt to say everything, it says nothing -and this is precisely the point. Corso frames Black Mountain theorisation as a block to writing poetry. As Robert Creeley writes in a diplomatic letter about the exchange, 'I'd guess Corso thinks, you can spend so long cleaning the goddamn gun, etc, you miss any shot at all.' <ref type="bibr" target="#b30">40</ref> But why is this parody presented as advertising? Hidden below the 'Contributors' section, Corso's poem is positioned opposite a promotion for New Directions and under the heading, 'THIS IS A PAID ADVERTISEMENT'. <ref type="bibr" target="#b31">41</ref> This advertising framework can be read as a means of emphasising Yugen's position as a forum for debate rather than pure partisanship -by suggesting that Corso's teasing poem is a 'PAID ADVERTISEMENT', distinct from the magazine's own messages, Yugen distances itself from Corso's insult to the Black Mountain poets who (including Olson) also publish within its pages. But Sorrentino's response to 'For Black Mountain' in Yugen 5 foregrounds the more complex tension between poetry and advertising that Corso's poem plays with: it is an attack not upon "Black Mountain" […] The attack is upon the poem, the process, the workings whereby one concatenation of words is the poem and another is the advertisement. I still believe there is a difference between them. <ref type="bibr" target="#b32">42</ref> Sorrentino reads Corso's provocation not as a fight between poetic movements, but as an 'attack upon the poem' itself, its differentiation from 'the advertisement'. By presenting his poem as an advertisement, Corso antagonistically aligns the two forms. Sorrentino's response highlights the anxiety among mid-twentieth-century writers about poetry's status amidst the increasing sophistication of advertising. Sorrentino's desire for 'difference' is anticipated by Hayakawa's 1946 differentiation between 'disinterested poetry' as art and 'venal poetry' as advertising, poetry 'available for hire', <ref type="bibr" target="#b33">43</ref> which itself draws 'on Kant's distinction between a "free art … agreeable on its own account" and a "mercenary art … that attracts us only through its effect (e.g. pay) so that people can be coerced into it".' <ref type="bibr" target="#b34">44</ref> This distinction is a central tenet of Olson's poetry, especially his epic Maximus Poems (1953-1968), which emphasise a vital opposition between poetry and advertising, anticipating dystopian time 'when all is become billboards' and urging readers to 'kill kill kill kill kill/those/who advertise you/out'. <ref type="bibr" target="#b35">45</ref> Sean Francis presents Olson's difficult poetic form as a defence against advertising: his 'sudden shifts of direction, jerky rhythms and atypical syntax' make 'readers active in the creation of meaning -not merely passive receptors of advertising's transparent, instrumental rhetoric.' <ref type="bibr" target="#b36">46</ref> Similarly, in Sorrentino's terms the 'destruction' promoted by Corso's poem is a poetic language which, like that of advertising, disregards complex form, opposes the 'sublimity of measure'. <ref type="bibr" target="#b37">47</ref> By appropriating affective language for commercial ends, advertising creates a 'distrust of words'. <ref type="bibr" target="#b38">48</ref> Herbert Marcuse explains, it causes people to 'not only express themselves' but 'also something other than themselves': describing 'our loves and hatreds, sentiments and resentments, we must use the terms of our advertisements'. <ref type="bibr" target="#b39">49</ref> While poets such as Olson and Sorrentino may strive to reject the limitations of form, the commercialisation of poetic language means that a poem's 'concatenation of words' 50 also appears to be all that differentiates poetry from advertising. The fear of aligning poetry and advertising is the nerve that Corso touches with his 'PAID ADVERTISEMENT' framing. His teasing poem's placement highlights how Olson's attempt to defend poetry against its increasing likeness to advertising has ironically made advertising shape his poetics. While the value of Black Mountain poetry is evident by its presence throughout Yugen, Corso nevertheless suggests that such defensive theorisation closes it off to new literary possibilities. By understanding difficult form, or 'measure', as a necessary guard against the alignment of poetry and advertising, Olson and his contemporaries accept the loss of a more open and playful poetic language.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Playing poet: Brooke's 'Monkey Brand' soap</head><p>The 'PAID ADVERTISEMENT' framing of 'For Black Mountain' not only ironically implicates Black Mountain poetry in the advertising it rejects but also indicates that Corso himself is unconcerned about such differentiations -by signing his name to the poem-advertisement, Corso suggests that he is happy to align his own literature with advertising. This playful, indifferent approach is representative of a wider openness across Yugen to exploring the possibilities of advertising language and form, reflected in its advertisements and its poetry. Yugen's printing of Corso's challenge to the Black Mountain rejection of advertising as well as Sorrentino's passionate rebuttal suggests a desire to both critique and experiment with advertising forms. As Sophie Seita argues, the 'provisionality, periodicity' and 'heterogeneity' of avant-garde little magazines undermine 'an emphasis on individual works or authors': their discourses are better understood as part of a 'network of "writing communities" rather than as a "school" or "movement."' <ref type="bibr" target="#b41">51</ref> Despite its sense of literary community, Yugen's energy comes from its precise refusal to argue a coherent poetics.</p><p>This heteroglossic approach, combining multiple voices with commercial paratexts, is epitomised in Yugen's illustrations. Sorrentino's letter in Yugen 5 is preceded by an image of a monkey in costume which, as Belletto explains, 'repurposes an old advertisement for Brooke's "Monkey Brand" soap'. Its caption promises 'to award Hafaz Fellowships -half-assed fellowships -to the University Poet crowd', including W.D. Snodgrass, Norman Podhoretz and Truman Capote. <ref type="bibr" target="#b42">52</ref> By using a popular soap advertisement, Yugen connects its ridicule of academic poetry to the discourse about poetry and advertising triggered by Corso's 'For Black Mountain' in the previous issue. The monkey mascot is not only playing human (wearing a ruff and cap) but playing poet. The choice of 'Brooke's' brand soap puns on the name of Cleanth Brooks, a key figure in the New Critical school. Brooks is presented as a critic touting a commercial brand of poetry that awards the 'half-assed' efforts of academic poets. With the 'Monkey Brand' campaign beginning in the nineteenth century, Yugen highlights these poets' lack of innovation -the fellowships are for achievement in '19th-century', not twentieth-century, verse.</p><p>From Yugen 5, p. 13. Image courtesy of the author.</p><p>Yugen's imagery engages with a literary tradition of comparing poetry to soap advertising. Mike Chasar, analysing Pound's urging in his 1913 'A Few Don'ts By an Imagiste' for poets to 'consider the way of the scientists rather than the way of an advertising agent for a new soap', explains that 'all the major players in the late nineteenth-century's "soap wars" used poems' in their campaigns. <ref type="bibr" target="#b43">53</ref> Yugen's appropriation of soap advertising is anticipated by the 'semi-parodic' 1921 'Advertising Number' of the poetry magazine Contact, edited by William Carlos Williams (who published in Yugen), the cover of which includes a reference to 'BABBITT'S SOAP 1836'. <ref type="bibr" target="#b44">54</ref> In 1929, D.H. Lawrence declared that 'some of the cunningest American literature is to be found in advertisements of soap-suds'. <ref type="bibr" target="#b45">55</ref> Finally, Heart's Needle by W.D. Snodgrass (ridiculed in Yugen's Brooke's advertisement), published in 1959 (the same year as this issue) and reviewed by Sorrentino in the following issue ('technically perfect in that classroom sense […] and none of it mattering in the least'), <ref type="bibr" target="#b46">56</ref> critiques the 'slogans and catch-phrases/that rule us by obsession;/praise what it pays to praise:/praise soap'. <ref type="bibr" target="#b47">57</ref> Yugen's imagery is thus very carefully considered: in reference to a long-standing literary discussion about advertising, Yugen ridicules Snodgrass and other New Critical poets by equating them with that which they condemn.</p><p>The Brooke's advertisement in Yugen 5 therefore aligns with Sorrentino's distinction between the poem and the advertisement, differentiating itself from advertising by setting it within the same opposition as its 'united front' <ref type="bibr" target="#b48">58</ref> against academic poetry. But in the next issue Brooke's soap appears again, this time after the 'Addenda', the same position as Corso's 'For Black Mountain' in Yugen 4. Here Yugen slides from a Poundian rejection of advertising towards Lawrence's playful praise. Belletto notes that the slogan placed next to the Brooke's logo, 'A NEW DAY COMING', 'again pointedly refers to the day when the Brooks-style New Critical norms may no longer reign.' <ref type="bibr" target="#b49">59</ref> While the Yugen 5 advertisement ironically implicates academic poets in the fearful alignment of poetry and advertising that Snodgrass critiques, here the 'Monkey Brand' logo seems to promote Yugen's side of the fight -the 'NEW' poetry that opposes academic tradition -by adopting the advertising discourse that academic poets reject. Notably, this image follows the 'Addenda', Yugen's own vehicle for poetic marketing. As in Corso's 'For Black Mountain', this self-implication in advertising that Yugen elsewhere sets itself against shows an awareness that the 'difference' <ref type="bibr" target="#b50">60</ref> that Sorrentino and Olson hold onto between poetry and advertising is less clear when put into print.</p><p>From Yugen 6, p. 52. Image courtesy of the author.</p><p>Analysing the 'Advertising Number' of Contact, Francis explains that Williams 'aped advertising's postures to expose its narrow, insistently-reiterated signified of "buy this"; but by soliciting customers for his poems at the same time […] he also instanced Promotion's centrality to modern poetry'. <ref type="bibr" target="#b51">61</ref> As Mark Morrison explores, modernist poets had a 'vexed relationship to what Huyssen characterizes as the "great divide"'. While they 'vehemently attacked commercialized culture', 'the success of the institutions of the mass market […] would prove too attractive to ignore'. <ref type="bibr" target="#b52">62</ref> Timothy Materer highlights how despite Pound's stated opposition to advertising rhetoric and commercial mass appeal, in his publishing work he actively functioned as an 'entrepreneur and advertiser' for modernism. <ref type="bibr" target="#b53">63</ref> Critical approaches to modernist interactions with advertising and marketing tend to focus on this tension between authors' critiques of advertising and their practical entanglement in literary promotion -formal likenesses such as the 'close parallel between the techniques of modern advertising and imagist techniques' <ref type="bibr" target="#b54">64</ref> are usually presented as the result of a shared cultural moment rather than the writer's conscious choice. But I argue that Yugen's later play with periodical paratexts and advertising language brings the impact of advertising on twentieth-century poetry to the surface, suggesting an openness to its techniques less available to these modernist writers. Modernism acknowledges poetry's position as a product to be advertised; writers in Yugen also begin to consider poetry as a product of advertising culture. While Yugen contains critiques of advertising, its self-conscious promotions and emphasis on a 'new' poetic 'consciousness' 65 also invite artistic explorations of its potential likenesses to developing forms -including the 'NEW DAY' of the advertisement.</p><p>Yugen's sociality and humour are what allows it to contain this diversity of reactions to the intersections between literature and advertising. Analysing late-nineteenth-century 'bibelots', Evans highlights their.</p><p>"relational aesthetics," an aesthetics in which the work of art locates not in images or texts but rather in the communal sense taking shape among readers that there might be some kind of fleeting, parodic, foreign, flirtatious relation taking shape between them. <ref type="bibr" target="#b55">66</ref> Evans uses Contact to epitomise the situatedness of modernist aesthetics, arguing that 'Williams worked to develop a materialist poetics of place that emphasized the haptic immediacy of experience, the reconnection with certitude', unlike the 'relational aesthetic of the bibelots, which depended not on an integrated but a dispersed sense of self and art, of relations that multiply and never end'. <ref type="bibr" target="#b56">67</ref> Yugen's humorous, social approach to its contents similarly eclipses any sense of a singular, authoritative editorial voice or art. The irony of Contact's eclectic advertising cover (combining 'BABBITT'S SOAP' with 'HOKUSAI DIED -1849' alongside advertisements for 'Nujol' and Contact itself) is emphasised by its contrasting periodical poetics of certitude: in 'Sample Critical Statement' ('Sample' itself ironically implying promotion), Williams argues that the 'worst of the anthology method in magazine making is that, in taking no definite regard to position', it 'cannot possibly present foreign work in anything but a blurred light, on a constantly wavering screen.' <ref type="bibr" target="#b57">68</ref> But Yugen delights in the periodical's 'wavering screen' as something now caught up, not in the question of locality, but rather the ambiguous dynamics of advertising culture. As the Corso-Sorrentino exchange and the 'Brooke's soap' imagery span several issues, referencing various literary contexts, the reader is pulled into a web of influences, interacting discourses that may or may not be taken seriously.</p><p>Evans credits the curator Nicolas Bourriaud for coining 'relational aesthetics' to describe 'a new turn in art exhibits of the 1990s, "the community effect in contemporary art."' Evans' link between periodicals' 'coterie publics' <ref type="bibr" target="#b58">69</ref> and exhibition spaces is very useful, but by applying a late-twentieth-century term to the late-nineteenth century he sidelines its interaction with twentieth-century commercial aesthetics. Bourriaud situates the necessity for relational aesthetics in a commercial landscape that is much more prescient in Yugen's reaction to mid-twentieth-century advertising: influenced by Guy Debord's 1967 account of the 'Society of Spectacle' (where 'human relations are no longer "directly experienced", but start to become blurred in their "spectacular" representation'), its urgency comes from an increasing sense that in social spaces 'anything that cannot be marketed will inevitably vanish'. <ref type="bibr">70</ref> However, unlike Bourriaud's call for art that actively generates 'relationships with the world' <ref type="bibr" target="#b59">71</ref> opposed to their reification, Yugen's periodical sociality includes the representational messiness of 'marketed' relations, merging them with the actual social dynamics of its readers and writers. From its tongue-in-cheek advertising of literary contemporaries to its poetic debates across multiple issues and its parallel appropriation of old promotional imagery, Yugen builds a relational aesthetic that embraces advertising, encouraging its audience to read across its advertisements, poetry and letters (and the external texts it references) without allowing a clear message to emerge.</p><p>Evans writes that key to relational aesthetics is the feeling that '[e]verything is connected to everything else, but it is far from clear as to how': the 'excitement comes from trying to figure it out' but 'sure knowledge about the nature and extent of relations is always just out of reach'. <ref type="bibr">72</ref> Yugen connects this ambiguity to the new prominence of advertising. In one sense, Yugen's relational approach refuses to engage with the driving force of advertising (and of a poetic manifesto): the articulation of a clear, persuasive message ('buy this', 'think this'). On the other hand, this ambiguous interconnectedness contains something of the reality of a world increasingly filled with advertising: the cacophony of voices and their references, literary, personal and commercial, that impact not only the consumption of physical texts but also, as Hayakawa, Sorrentino, Marcuse and Olson all highlight, the meaning of language and affect themselves. The relational aesthetic resonates with Flatley's analysis of likeness in Warhol's work as 'relations of imitation and resemblance', things that are 'related and resembling, yet distinct' rather than identical. <ref type="bibr" target="#b60">73</ref> Advertising locates value not in the product itself but its 'flirtatious' <ref type="bibr" target="#b61">74</ref> relation to the consumer -in Williamson's terms, the attractive pull of 'alreadyness' <ref type="bibr" target="#b62">75</ref> which seems to be graspable in purchase. But Yugen's relationality explodes the false personality of the advertisement, instead highlighting advertising's collective impact on midtwentieth-century culture. While in advertising the product represents an eternal answer, a solution to whatever problem it proposes, Yugen relishes how advertising's interactions with literature do precisely the opposite, creating a vast, entangled web of relation and opposition -one that parody, from 'For Black Mountain' to Brookes Soap, is particularly suited to exposing, as parody highlights its likenesses to that which it critiques. Yugen's flirtation with advertising imagery and language undermines the popular view of advertising as a death knell to literature precisely because of its elusiveness, instead leaving its readers with a sense of possibility -one that is only increased by its refusal to state exactly what this possibility is.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Like advertising: poetry and commercial affect</head><p>The possibilities of the relationship between literature and advertising are more fully developed in Yugen's poetry. Alongside its 'NEW DAY' advertisement, Yugen 6 contains O'Hara's 'Personal Poem' which, published in the same year as 'Don' Allen's New American Poetry anthology, echoes the likes and dislikes of Yugen's hip social promotions through an account of O'Hara's lunch with its editor, 'LeRoi' (Baraka):</p><p>[…] we don't like Lionel Trilling we decide, we like Don Allen we don't like Henry James so much we like Herman Melville <ref type="bibr" target="#b63">76</ref> In her 1977 analysis, Perloff foregrounds the 'ubiquity' of the poem's affective 'tensions' over its 'oppressed-gay-man-in-1959' context: '"Personal Poem" doesn't make a point; it presents what it feels like, at a fairly bad time, to go to lunch with a friend'. <ref type="bibr" target="#b64">77</ref> Later work, however, interrogates the specific social dynamics contained in this affective 'ubiquity': in 1997 Reva Wolf explores the 'deep connection' between the poem's '[a]esthetic and personal likes and dislikes'. <ref type="bibr" target="#b65">78</ref> In 2005, reading 'Personal Poem' in relation to midtwentieth-century America's investment in rational choice, Michael Clune synthesises these two approaches, arguing that by apparently making choices in the 'absence of an inner reality', its speaker creates a 'representation of personal choice as whatever one happens to like' that 'reveals a new relation to the collective subject'. <ref type="bibr" target="#b66">79</ref> Personal choice here, as the seeming spontaneity of liking, represents a poetic mode of mass relationality that situates the ubiquitous within specific interactions.</p><p>But this affective, irrational conception of choosing as a 'relation to the collective subject' also rings true with the work of advertising. Wolf highlights the 'numerous similarities between the content of [O'Hara's] poetry and of Warhol's pop paintings'. <ref type="bibr" target="#b67">80</ref> Clune's account of abstracted social connection through liking in 'Personal Poem' resonates with, in Flatley's analysis, Warhol's idealisation of 'liking' as a world where 'everybody can enter into relations of imitation and resemblance with everyone else' due to the universal messaging of advertising, 'a shared relation to and reliance on consumption' which reiterates the basic 'structure of human relationality'. <ref type="bibr" target="#b68">81</ref> Clune does acknowledge that advertising's 'manipulation of consumer response' problematises 'free choice' but he still reads this as a problem of individualism, arguing that O'Hara performs an oppositional 'rescue of free choice' from free market discourse's 'rigid, mechanical model of the individual' by dissolving it in the 'flows and processes of the collective'. <ref type="bibr" target="#b69">82</ref> But, as Flatley demonstrates, part of advertising's appeal is its synthesis of personal and collective, its paradoxical offering of the opportunity to dissolve one's individualism (often unconsciously) through an assertion of individual agency -the choice to like and be like the mass selfhood that the product represents. Through a genetic and material reading of 'Personal Poem', I will demonstrate how O'Hara uses the advertising-inflected nature of mass relationality and affective experience in the mid-twentieth century -a relational aesthetic that works across the issues of Yugen -as a poetic function rather than a purely oppositional force.</p><p>O'Hara has been read more recently for his commercial relationality, but not in this specific material context. Brian Glavey's 2019 analysis of 'Having a Coke With You' pinpoints the slippage between 'relationality' and 'relatability', especially in the context of O'Hara's social media popularity. <ref type="bibr" target="#b70">83</ref> In 2017, Bernes discusses how O'Hara's familiar poetic address in works such as 'Personal Poem' 'anticipates the rhetorical strategies of the postmodern ads' developed in the late 1980s. <ref type="bibr" target="#b71">84</ref> While Bernes is right to identify the resonances between O'Hara's poetry and advertising techniques, framing them as anticipation obscures O'Hara's engagement with mid-twentieth-century developments in advertising and marketing. The relevance of advertising to O'Hara's work is highlighted by Yugen's promotional frameworks. The following issue contains O'Hara's half-serious 'Personism: A Manifesto', which was originally meant to be published alongside 'Personal Poem': a crossed-out conclusion in the manuscript sent to Yugen announces that it 'gives me pleasure to add to this brief commentary […] the first Personist poem, which has been preserved by the Institute of Personism and appears here', in 'Yugen 6'. <ref type="bibr" target="#b72">85</ref> 'Personism' similarly aligns poetry with liking, consumer choice: 'Nobody should experience anything they don't need to, if they don't need poetry to bully for them. I like the movies too'. <ref type="bibr" target="#b74">86</ref> It can be read as promoting a direct relational aesthetic not unlike Bourriaud's conception of art situated in 'the realm of human interactions and its social context, rather than the assertion of an independent and private symbolic space'. <ref type="bibr" target="#b75">87</ref> O'Hara expresses a desire to put 'the poem squarely between the poet and the person'. <ref type="bibr" target="#b76">88</ref> However, Creeley's essay 'The New World', published before 'Personism' in the same issue of Yugen, anticipates this poetic relationality in more serious terms. Describing 'our time as one in which relationships' are 'dominant', Creeley argues that poems 'are peculiarly suited' to this 'environment, because they are basically relational'. <ref type="bibr" target="#b77">89</ref> But he nevertheless defines this period as a time in which it is 'very hard to make one's self understood'. Creeley situates a 'loss of meaning' in mass culture, arguing that if 'culture now derives from mass orientation' then it expresses 'the shaken egos of our time'. <ref type="bibr">90</ref> This account resonates with mid-twentieth-century advertising's attempts to universalise individual interiority, as advertising agencies sent their 'entire creative staff "back to school" to study human behavior.' <ref type="bibr" target="#b78">91</ref> Marketing agencies research the intricacies of emotional states ultimately in order to standardise them, creating a single 'message' that can reach people on all 'levels'. <ref type="bibr" target="#b79">92</ref> In this context, the universal poetic relationality expounded by O'Hara and Creeley risks becoming a mass uniformity. As Gilles Deleuze later observes, we 'no longer find ourselves dealing with the mass/individual pair. Individuals have become "dividuals," and masses, samples, data, markets, or "banks"'. <ref type="bibr" target="#b80">93</ref> Bourriaud identifies this reification of relationality in the late-twentieth century's commercialised public spaces: Before long, it will not be possible to maintain relationships between people outside these trading areas. So here we are summonsed to talk about things around a duly priced drink, as a symbolic form of contemporary human relations. You are looking for shared warmth, and the comforting feeling of well being for two? So try out coffee … <ref type="bibr" target="#b81">94</ref> Bourriaud highlights how marketing rhetoric directs people towards commercial 'trading areas' of social interaction. His solution is to create an exhibition space which 'encourages an inter-human commerce that differs from the "communication zones" that are imposed upon us.' <ref type="bibr" target="#b82">95</ref> But mid-twentiethcentury literary discourse suggests that even the impulse 'to talk about things' has become a trading area in itself. Bourriaud's warning that the 'social bond has turned into a standardised artefact' <ref type="bibr" target="#b83">96</ref> extends to the medium of language through advertising's appropriation of affective terms. Hayakawa sees advertising emptying 'common value-symbols'. <ref type="bibr" target="#b84">97</ref> Creeley discusses how midcentury feeling will 'parody' the 'grotesque approximations' of 'current political and social jargon': 'Death, love, hope, and other qualities of attitude, will appear then as crudely erected statues in vacant lots'. <ref type="bibr" target="#b85">98</ref> There is no alternative 'communication zone' if communication itself is compromised by commercial language, and Yugen suggests that this affects feeling itself.</p><p>Much of the poetry in Yugen expresses an uncertainty that parallels this affective crisis: that of not knowing how to feel. Philip Whalen writes in 'TAKEOUT, 4:II:58', 'What I need is lots of money/No/What I need is somebody to love'; <ref type="bibr" target="#b86">99</ref> and in 'SOUFFLE', 'sometimes/I feel like a motherless child./ I feel like walking out of here &amp; spending/vast sums of money'. <ref type="bibr" target="#b87">100</ref> Baraka's 'The A.B.C's' sets this commercialised emotional uncertainty within its wider scene of advertising, as Whalen's affective impulse towards spending money resonates with Baraka's image of inaccessible emotions consuming branded sweets: 'these packhorses of emotion, you cannot/even call to […] bite/chunks of Clarke bar from your hands'. <ref type="bibr" target="#b88">101</ref> Advertising not only contributes to but also provides a balm for this affective crisis: Baraka's 'Clarke bar' feeds his 'packhorses of emotion'; Whalen's uncertain feelings trigger commercial impulses ('What I need is lots of money'). The likes and dislikes of O'Hara's 'Personal Poem' and the antics of Yugen's poetic promotions soften the anxieties expressed in Yugen by telling its readers how to feel: like this, buy this. Hayakawa and Creeley argue that advertising makes values and feelings 'vacant', but its power still lies in the promise that it can briefly provide them. Here is the power of liking. While poems in Yugen struggle to obtain the 'huge reality of touch and love', <ref type="bibr" target="#b89">102</ref> the commodity does not ask anything of you other than to like it. This appeal of advertising is what O'Hara plays with in 'Personism' ('I like the movies too'), <ref type="bibr" target="#b90">103</ref> and articulates in the first stanza of the like-filled 'Personal Poem': 'but now I'm happy for a time and interested'. <ref type="bibr" target="#b91">104</ref> O'Hara therefore responds to an affective crisis evident throughout Yugen but takes a more open approach to advertising. Seemingly contributing to Sorrentino and Corso's exchange about 'measure' and 'advertisement', <ref type="bibr" target="#b92">105</ref> 'Personism' declares, '[a]s for measure and other technical apparatus, that's just common sense: if you're going to buy a pair of pants you want them to be tight enough so everyone will want to go to bed with you'. <ref type="bibr" target="#b93">106</ref> Poetic form, in this sense, is literalised -not only as bodily form, sexual desire, but also branding. Undermining Sorrentino's distinction of form from advertising, O'Hara shows how poetry, in its need to attract a reader's attention, must be packaged a certain way. Accepting such inherent likenesses, O'Hara's writing adopts the energy of Yugen's Brooke's advertisements by appropriating advertising discourse for its own ends. O'Hara's foregrounding of liking in 'Personal Poem' can be understood in terms of advertising's faux-personal impersonal models of affect. It resonates with Flatley's analysis of Warhol's artistic project of 'liking things' as involving 'attention to ways of being, acting, and looking alike'. <ref type="bibr" target="#b94">107</ref> If feelings under mass culture no longer appear as individual emotions but rather reproductions, 'grotesque approximations', <ref type="bibr" target="#b95">108</ref> then liking, as both positive response and similarity, is a very suitable term for commercial affect. Flatley describes liking as 'a fundamental value judgement': an 'elemental attraction, the most basic positive feeling one can have, a readiness to pay attention to something and be affected by it. As such, it is also an implicit affirmation of something's existence'. <ref type="bibr" target="#b96">109</ref> Advertising functions to create this judgement. The progression from 'like' to 'want' 110 in 'Personal Poem' demonstrates liking's slippage between 'judgement' and desire -not just 'positive feeling' but 'elemental attraction'. <ref type="bibr" target="#b98">111</ref> In advertising's shift from 'being maker-minded to market-minded', <ref type="bibr" target="#b99">112</ref> its audience does not need to affirm a product's function, which is taken as given, but rather like it -affirm its existence as an object of desire. Sianne Ngai highlights aesthetic judgement's implicit need for 'public confirmation'. <ref type="bibr" target="#b100">113</ref> Despite new emphasis on advertising's 'emotional factor' <ref type="bibr" target="#b101">114</ref> (a 'readiness' to 'be affected'), the judgement of liking is truly performed, made public, through the act of purchase (hence 'we just want to be rich') <ref type="bibr" target="#b102">115</ref> -otherwise it is not liked enough.</p><p>'Personal Poem' not only demonstrates this relationship between liking and desire; it also explores its implications as a dominant form of not simply aesthetic but moral judgement. In the stanza preceding O'Hara's list of likes, LeRoi comes in and tells me Miles Davis was clubbed 12 times last night outside BIRDLAND by a cop a lady asks for a nickel for a terrible disease but we don't give her one we don't like terrible diseases <ref type="bibr" target="#b103">116</ref> As Ben Hickman observes, this '"personal" response to racial violence and class consciousness, skipped over like a fish-and-ale lunch', presents an 'uncomfortable amoralism.' 117 O'Hara's 'terrible diseases' pun replaces moral judgement with aesthetic or commercial judgement (as, in advertising's new 'emotional factor', the two become aligned). <ref type="bibr" target="#b105">118</ref> The joke is that an emotional appeal ('terrible diseases') is no longer taken as an opportunity for a moral act (donating 'a nickel') but rather for purchase, as an advertisement that triggers the question of liking: 'we/don't like terrible diseases'. As this judgement leads into the following stanza's list of likes, it seems that the only affective response available to the poem is that of liking (or not liking). But O'Hara's contrasting absence of comment about Davis's assault, as the lines slide, with no breath of punctuation, into the encounter with 'terrible diseases', highlights the insufficiency of such liking as a response. If the lady's emotional appeal is taken as an advertisement, affective language can no longer function as a direct expression of the cop's violence -inviting as it does the commercialised binary between liking and not liking, which directs all 'value-symbols' <ref type="bibr" target="#b106">119</ref> into the choice to buy or not to buy.</p><p>O'Hara's account of Davis's assault therefore rejects both advertisinginflected affective expression and Baraka and Whalen's poetics of not knowing how to feel. His specificity -name, number, time, place, perpetrator -contrasts with the vagueness of 'a lady' and her 'terrible disease'. It replaces moral and affective language by leaving no space for the poem's 'liking' judgement: the violent truth of the assault, 'clubbed 12 times', stands by itself. This specificity returns in the poem's final lines: I wonder if one person out of the 8,000,000 is thinking of me as I shake hands with LeRoi and buy a strap for my wristwatch and go back to work happy at the thought possibly so <ref type="bibr" target="#b107">120</ref> Perloff argues that the 'poignantly tentative "possibly so" of the last line' reinforces 'that terrifying sense of being only one in eight million', <ref type="bibr" target="#b108">121</ref> the population of mid-twentieth-century New York City. However, while the 1964 Lunch Poems publication of 'Personal Poem' ends there, its first publication in Yugen includes the final line, 'it would probably be only the one person.' <ref type="bibr" target="#b109">122</ref> The poem's manuscript, and its first reprinting in The Beat Scene (1960), specifies even further: 'the one person/who gave me a blue whistle from a crackerjack box'. <ref type="bibr" target="#b110">123</ref> These lines highlight the actual specificity of O'Hara's statement. It is not a 'terrifying sense of being only one in eight million' but rather the 'happy' thought of 'the one person' -the only one who gave him a 'blue whistle from a crackerjack box'. Referencing the crackerjack brand's marketing technique of including a 'prize' in its snack boxes, O'Hara both departs from the poem's commercialised affective discourse and makes its advertising undertones most explicit. He avoids the now-commercialised terms of affective judgement -the speaker does not wonder if 'one person' likes 'me' (or loves 'me', the poem was probably written for O'Hara's lover Vincent Warren) <ref type="bibr" target="#b111">124</ref> but rather whether they are 'thinking of me' -and instead expresses his relation to his lover as an act of specificity, particularity of thought: thinking of them, and being thought of, out of '8,000,000'. Nevertheless, the only descriptor for the lover themselves, the only thing that makes them 'Personal' for the reader, is their gift of an advertising product: 'one person' represents the idea of non-commercial specificity that only O'Hara, actually knowing his lover, experiences.</p><p>Deleuze writes that marketing has become 'the "soul" of the corporation'. <ref type="bibr" target="#b112">125</ref> The crackerjack whistle performs a distinction from the commodity's terms of exchange: such 'prizes' are usually advertised not as something purchased, but as a free extra -a 'gift' that represents the 'soul', the human generosity, of the 'crackerjack' brand. As such, O'Hara does not undermine but literalises the function of the whistle, transferring it from the ambiguous relational space of the advertisement -which must appear personal to the masses ('8,000,000') -to a specific relation to 'one'. But by using an advertising technique as a poetic sign for this personal relation, O'Hara highlights the true affective slippage between them: he is interested in how likeness and unlikeness, or Hayakawa's 'venal' and 'disinterested', <ref type="bibr" target="#b113">126</ref> can in poetry be performed in the same instance. O'Hara's relation with the 'one person', his feeling, is made distinct from commodified affective expression, yet the reader's own relation to the poem, their understanding of this specificity, is contingent on O'Hara's use of advertising's universalising formswhether that be the 'crackerjack' prize or, more generally, the contrasting scale of the '8000,000' that represents the possible audience of New York's commercial space (the number arises as he buys 'a strap for my wristwatch') <ref type="bibr" target="#b114">127</ref> as well as the possible object of O'Hara's affections. Like the whistle 'prize', the 'Personism' of O'Hara's poem performs a distinction from its terms of exchange: flirting with the possibility of putting the poem, and his feeling, 'squarely between the poet and the person' yet also signalling -both with its reference to mass scale and advertising and its placement in a heteroglossic, self-marketing periodical -that poetry has much in common with, even much to learn from, the faux personality of advertising.</p><p>Clune argues that the 'object' of O'Hara's 'desire' in 'Personal Poem' is 'not a person but a collective': in 'choosing without knowing why, O'Hara enters into a direct relation with society.' <ref type="bibr" target="#b115">128</ref> But, in the context of Yugen's advertising frameworks, and distinguishing between writer and reader, the poem's 'object of desire' is desire itself. It is less that O'Hara enters into a relation with society than, by resting the poem's affective climax on the mass-oriented possibility of personal relation, fulfilled for O'Hara but still reliant on commercial imagery for the reader, his poem enters them into something like the relational space of the advertisement. Arguing that 'form is the representative of desire in an image', Bourriaud grounds his relational aesthetics in reciprocity: the 'work tries to catch my gaze, the way the new-born child "asks for" its mother's gaze.' This contrasts with the 'authoritarian, "Promote/receive"' dynamic that Bourriaud associates with the commercial image: imposing a clear message, the commodified relation does not encourage the receiver to respond, look back. <ref type="bibr" target="#b116">129</ref> But since O'Hara's poem does not make its object of desire explicit, framing love as a particularity of thought yet poeticising it in mass-commercial terms, it retains that sense of contradictory, ambiguous relation that shapes Yugen's promotional networks more widely and is lacking from the individual advertisement's received idea of self and desire. The reader must look for the feeling advertised. Advertisements thrive in the realm of possibility -their offer of a particular identity or affect often loses its sheen in purchase, as the product reveals itself to be simply an object. But O'Hara suspends his poem in the exciting moment of possible relationality, teasing its 'soul', its feeling, like the offer of the 'crackerjack' prize, but without allowing the disappointment of owning what is ultimately only a representation.</p><p>Writing on O'Hara, Barbara Guest concludes that periodicals 'like Audit and Yugen represented his world'. <ref type="bibr" target="#b117">130</ref> The elusiveness of Yugen's relational aesthetics captures not only literary sociality but also something of the reality of living in a world filled with advertisements' heteroglossic appeals, an experience that can also be overwhelming, irritating (as Corso achieves with the teasing opacity of 'For Black Mountain') and numbing (explored by Whalen, Baraka and Creeley). 'Personal Poem' shows the limits of liking as a binary judgement while also demonstrating how delimiting the flirtatious nature of advertising's relationality, offering but not allowing likeness, turns commercial possibility into an aesthetic. It makes a claim for the relational aesthetic of poetry itself as something that, in the mid-twentieth century, is not only inextricably entangled in the affective dynamics of advertising but can also benefit from this entanglement. Glavey acknowledges O'Hara's commercial imagery but concludes that his poetics ultimately rest in distinction, 'the transformational power of art to give a new glaze to an ordinary object', arguing that unlike Warhol's 'democratic similitude from the banality of the commodity' O'Hara 'remains invested in a modernist logic of the exceptional […] in the possibility that art might put us in contact with "some marvelous experience."' <ref type="bibr" target="#b118">131</ref> While Glavey is right to differentiate O'Hara from Warhol (as O'Hara undermines his mass 'Personism' in the moment of its performance), Yugen pushes beyond artistic exceptionalism by showing how commodity aesthetics such as advertising can 'give a new glaze' to poetry. The forms work in combination: one 'marvellous experience' of 'Personal Poem' is its open extension of the affective promise that in advertising must be ultimately fulfilled, and therefore killed, by purchase.</p><p>The advertising roots of this poetics may only be apparent within Yugen's framework, but this affirms, rather than negates, its particular commercial relationality. While advertising clearly states its product, Yugen explores ways to combine its more unconscious reshaping of expression with the agency of interpretive play. Such a contingent reading of 'Personal Poem' works within Yugen's response to the wider precarity of poetry amidst the mid-twentieth century's developing culture of advertising, an approach which highlights the productive reciprocity of the two forms' position within a vast network of discourses rather than trying to create an impassable distinction between them. This relationality allows Yugen's poetry to generate readings that are multitudinous because they are precarious -and therefore demonstrate how affect and art can find new forms of expression through their interaction with advertising as well as exposing its 'vacant' <ref type="bibr" target="#b119">132</ref> threat. This undermines the singular 'buy this' assertiveness of the advertisement in theory, instead highlighting its own more precarious reality. The power of periodical poetry here is to (to appropriate Glavey's terms) 'put us in contact' with this relationality in a way that helps to abate much of the fear surrounding the likenesses between poetry and advertising -by making it also unserious, exciting, a realm of poetic potential rather than negation.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Conclusion</head><p>Yugen captures a moment in mid-twentieth-century literature that anticipates the commercial nexus of likes and advertising shaping our current online culture. The periodical's play with commercial affect and parody experiments with the twin power of liking and likeness in advertising that becomes an explicit discourse in O'Hara's writing. O'Hara is in many ways a predecessor to the language poets, who may be the more obvious place to explore interactions between poetry and advertising. Citing Bruce Andrews' poetry, Nealon suggests that in the world of commercialised affective discourse writers should work 'relentlessly to avoid those very structures of "meaning," to reinvent or reemphasize alternative uses for poetry.' <ref type="bibr" target="#b120">133</ref> This is one reaction to advertising's territorialisation of '"authentic" sentiment' <ref type="bibr" target="#b121">134</ref> but O'Hara demonstrates that there is still space for meaning in poetics. While poetry itself may not provide complete authenticity, 'Personal Poem' shows how personal affect still plays a powerful part in lived experience and an advertising poetics can open the lyric to new modes of expression. Yugen captures literature's tension between experimenting with new forms and the desire for poetry to carve out a privileged space amidst advertising's appropriation of affective expression. Later periodicals such as Ted Berrigan's 'C': A Journal of Arts, influenced by Yugen and its poets, embrace the former side of the tension, being saturated with liking and commercialism (a poem by Joe Brainard simply repeats the line 'I like Andy Warhol' fourteen times in a teasing semi-sonnet). <ref type="bibr" target="#b122">135</ref> But Yugen represents a vital space where writers began to negotiate this new advertising poetics as something that extends rather than negates literary meaning.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Notes</head></div><figure xmlns="http://www.tei-c.org/ns/1.0"><head></head><label></label><figDesc></figDesc><graphic coords="7,59.98,65.48,299.96,472.31" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0"><head></head><label></label><figDesc></figDesc><graphic coords="11,59.98,65.48,299.96,469.30" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0"><head></head><label></label><figDesc></figDesc><graphic coords="13,59.98,65.48,299.96,481.15" type="bitmap" /></figure>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="26" xml:id="foot_0"><p>L. MIDDLETON-MANSELL</p></note>
+		</body>
+		<back>
+
+			<div type="funding">
+<div><head>Funding</head><p>This work was supported by the <rs type="funder">University of Oxford</rs>'s <rs type="grantName">Faculty of English -St John's College Studentship</rs>.</p></div>
+			</div>
+			<listOrg type="funding">
+				<org type="funding" xml:id="_tp6gYaK">
+					<orgName type="grant-name">Faculty of English -St John&apos;s College Studentship</orgName>
+				</org>
+			</listOrg>
+			<div type="annex">
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Disclosure statement</head><p>The author reports there are no competing interests to declare.</p></div>			</div>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<analytic>
+		<title level="a" type="main">For Black Mountain</title>
+		<author>
+			<persName><forename type="first">Gregory</forename><surname>Corso</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Yugen</title>
+		<imprint>
+			<biblScope unit="volume">4</biblScope>
+			<biblScope unit="page">28</biblScope>
+			<date type="published" when="1959">1959</date>
+			<publisher>Totem Press</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<title level="a" type="main">A NOTE ON GREGORY CORSO&apos;s To Black Mountain</title>
+		<author>
+			<persName><forename type="first">Gilbert</forename><surname>Sorrentino</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Yugen</title>
+		<imprint>
+			<biblScope unit="volume">5</biblScope>
+			<biblScope unit="page">38</biblScope>
+			<date type="published" when="1959">1959</date>
+			<publisher>Totem Press</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<monogr>
+		<title level="m" type="main">The Hidden Persuaders (Penguin, 1981)</title>
+		<author>
+			<persName><forename type="first">Vance</forename><surname>Packard</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="page">24</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<monogr>
+		<title level="m" type="main">Post-Postmodernism: Or, the Cultural Logic of Just-In-Time Capitalism</title>
+		<author>
+			<persName><forename type="first">Jeffrey</forename><surname>Nealon</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2012">2012</date>
+			<publisher>Stanford University Press</publisher>
+			<biblScope unit="page">167</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title level="a" type="main">Poetry and Advertising</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">I</forename><surname>Hayakawa</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">ETC: A Review of General Semantics</title>
+		<imprint>
+			<biblScope unit="volume">3</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page">118</biblScope>
+			<date type="published" when="1946">1946</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title level="a" type="main">) and &apos;&quot;When all is become billboards&quot;: Modern American poetry and &quot;promotion</title>
+		<author>
+			<persName><forename type="first">Sean</forename><surname>See</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Francis</surname></persName>
+		</author>
+		<ptr target="https://www.proquest.com/dissertations-theses/when-all-is-become-billboards-modern-american/docview/304555696/se-2)" />
+	</analytic>
+	<monogr>
+		<title level="m">Ezra Pound and the Poetics of Promotion&apos; (Paideuma (Orono)</title>
+		<imprint>
+			<date type="published" when="1999">2005. 1999</date>
+			<biblScope unit="volume">34</biblScope>
+			<biblScope unit="page" from="1855" to="1960" />
+		</imprint>
+		<respStmt>
+			<orgName>The University of Chicago</orgName>
+		</respStmt>
+	</monogr>
+	<note>Now for a large-mouthed product</note>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title level="a" type="main">New York Poets</title>
+		<author>
+			<persName><forename type="first">Ian</forename><surname>Patterson</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">North America 1894-1960</title>
+		<title level="s">The Oxford Critical and Cultural History of Modernist Magazines</title>
+		<imprint>
+			<publisher>Oxford University Press</publisher>
+			<date type="published" when="2015">2015</date>
+			<biblScope unit="volume">II</biblScope>
+			<biblScope unit="page">1000</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title level="a" type="main">Yugen at the Front</title>
+		<author>
+			<persName><forename type="first">Steven</forename><surname>Belletto</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">The Beats, Black Mountain, and New Modes in American Poetry</title>
+		<imprint>
+			<publisher>Liverpool University Press</publisher>
+			<date type="published" when="2021">2021</date>
+			<biblScope unit="page" from="65" to="67" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<monogr>
+		<author>
+			<persName><forename type="first">Jennifer</forename><surname>Wicke</surname></persName>
+		</author>
+		<title level="m">Advertising fictions: Literature, Advertisement &amp; Social Reading</title>
+		<imprint>
+			<publisher>Columbia University Press</publisher>
+			<date type="published" when="1988">1988</date>
+			<biblScope unit="page">3</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title level="a" type="main">Of Living Belfry and Rampart: On American Literary Magazines Since 1950</title>
+		<author>
+			<persName><forename type="first">Michael</forename><surname>Anania</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">The Little Magazine in America: A Modern Documentary History</title>
+		<imprint>
+			<date type="published" when="1978">1978</date>
+			<biblScope unit="page">18</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<monogr>
+		<author>
+			<persName><forename type="first">Brad</forename><surname>Evans</surname></persName>
+		</author>
+		<title level="m">Ephemeral Bibelots: How an International Fad Buried American Modernism</title>
+		<imprint>
+			<publisher>Johns Hopkins University Press</publisher>
+			<date type="published" when="2019">2019</date>
+			<biblScope unit="page">155</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<monogr>
+		<author>
+			<persName><forename type="first">Jonathan</forename><surname>Flatley</surname></persName>
+		</author>
+		<title level="m">Like Andy Warhol</title>
+		<imprint>
+			<publisher>University of Chicago Press</publisher>
+			<date type="published" when="2018">2018</date>
+			<biblScope unit="page" from="8" to="9" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">Hettie</forename><surname>Cohen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><surname>How</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Hettie</forename><surname>Became</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Jones</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1996">1996</date>
+			<publisher>Avalon Travel Publishing</publisher>
+			<biblScope unit="page">116</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<monogr>
+		<author>
+			<persName><forename type="first">Steven</forename><surname>Belletto</surname></persName>
+		</author>
+		<title level="m">The Beats: A Literary History</title>
+		<imprint>
+			<publisher>Cambridge University Press</publisher>
+			<date type="published" when="2020">2020</date>
+			<biblScope unit="page">167</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<monogr>
+		<title level="m" type="main">The Work of Art in the Age of Deindustrialization</title>
+		<author>
+			<persName><forename type="first">Jasper</forename><surname>Bernes</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2017">2017</date>
+			<publisher>Stanford University Press</publisher>
+			<biblScope unit="page">23</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<monogr>
+		<title level="m" type="main">The Beats</title>
+		<author>
+			<persName><surname>Belletto</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="page">167</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<monogr>
+		<title level="m" type="main">The Work of Art in the Age of Deindustrialization</title>
+		<author>
+			<persName><surname>Bernes</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="page">25</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<monogr>
+		<title level="m" type="main">Decoding Advertisements</title>
+		<author>
+			<persName><forename type="first">Judith</forename><surname>Williamson</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1994">1994</date>
+			<publisher>Marion Boyars Publishers</publisher>
+			<biblScope unit="page">84</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<monogr>
+		<title level="m" type="main">Poetry and Advertising</title>
+		<author>
+			<persName><surname>Hayakawa</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="page">116</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<monogr>
+		<author>
+			<persName><forename type="first">Sophie</forename><surname>Seita</surname></persName>
+		</author>
+		<title level="m">Provisional Avant-Gardes: Little Magazine Communities from Dada to Digital</title>
+		<imprint>
+			<publisher>Stanford University Press</publisher>
+			<date type="published" when="2019">2019</date>
+			<biblScope unit="page">12</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<monogr>
+		<title level="m" type="main">Yugen at the Front</title>
+		<author>
+			<persName><surname>Belletto</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="page">64</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<monogr>
+		<title level="m" type="main">For Black Mountain</title>
+		<author>
+			<persName><surname>Corso</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="page">28</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<monogr>
+		<title/>
+		<author>
+			<persName><surname>Ibid</surname></persName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">Marjorie</forename><surname>Perloff</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">O'</forename><surname>Frank</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Hara</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1998">1998</date>
+			<publisher>University of Chicago Press</publisher>
+			<biblScope unit="page">16</biblScope>
+		</imprint>
+	</monogr>
+	<note>Poet Among Painters</note>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<analytic>
+		<title level="a" type="main">Projective Verse</title>
+		<author>
+			<persName><forename type="first">Charles</forename><surname>Olson</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">The New American Poetry, 1945-1960</title>
+		<imprint>
+			<publisher>University of California Press</publisher>
+			<date type="published" when="1999">1999</date>
+			<biblScope unit="page">387</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<monogr>
+		<title/>
+		<author>
+			<persName><surname>Ibid</surname></persName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<monogr>
+		<title level="m" type="main">Yugen at the Front</title>
+		<author>
+			<persName><surname>Belletto</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="page">68</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b27">
+	<monogr>
+		<title level="m" type="main">Projective Verse</title>
+		<author>
+			<persName><surname>Olson</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="page">392</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b28">
+	<monogr>
+		<title level="m" type="main">Yugen at the Front</title>
+		<author>
+			<persName><forename type="first">Qtd</forename><surname>Baraka</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Belletto</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="page">72</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b29">
+	<monogr>
+		<title level="m" type="main">Projective Verse</title>
+		<author>
+			<persName><surname>Olson</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="page" from="387" to="392" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b30">
+	<monogr>
+		<title level="m" type="main">Letter to Mr Jones</title>
+		<author>
+			<persName><forename type="first">Robert</forename><surname>Creeley</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1960">1960</date>
+			<publisher>Totem Press</publisher>
+			<biblScope unit="page">30</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b31">
+	<monogr>
+		<title level="m" type="main">For Black Mountain</title>
+		<author>
+			<persName><surname>Corso</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="page">28</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b32">
+	<monogr>
+		<title/>
+		<author>
+			<persName><surname>Sorrentino</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="page">38</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b33">
+	<monogr>
+		<title level="m" type="main">Poetry and Advertising</title>
+		<author>
+			<persName><surname>Hayakawa</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="page">117</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b34">
+	<monogr>
+		<title level="m" type="main">The Work of Art in the Age of Deindustrialization</title>
+		<author>
+			<persName><surname>Bernes</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="page">40</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b35">
+	<monogr>
+		<title level="m" type="main">The Maximus Poems</title>
+		<author>
+			<persName><forename type="first">Charles</forename><surname>Olson</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1983">1983</date>
+			<publisher>University of California Press</publisher>
+			<biblScope unit="page">5</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b36">
+	<monogr>
+		<title level="m" type="main">Modern American poetry and &quot;promotion</title>
+		<author>
+			<persName><surname>Francis</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="page">74</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b37">
+	<monogr>
+		<title/>
+		<author>
+			<persName><surname>Sorrentino</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="page">38</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b38">
+	<monogr>
+		<title level="m" type="main">Poetry and Advertising</title>
+		<author>
+			<persName><surname>Hayakawa</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="page">119</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b39">
+	<monogr>
+		<author>
+			<persName><forename type="first">Herbert</forename><surname>Marcuse</surname></persName>
+		</author>
+		<title level="m">One-Dimensional Man: Studies in the ideology of advanced industrial society</title>
+		<imprint>
+			<publisher>Routledge</publisher>
+			<date type="published" when="2002">2002</date>
+			<biblScope unit="page">198</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b40">
+	<monogr>
+		<title/>
+		<author>
+			<persName><surname>Sorrentino</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="page">38</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b41">
+	<analytic>
+		<title/>
+		<author>
+			<persName><surname>Seita</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="s">Provisional Avant-Gardes</title>
+		<imprint>
+			<biblScope unit="page" from="11" to="14" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b42">
+	<monogr>
+		<title level="m" type="main">The Beats</title>
+		<author>
+			<persName><surname>Belletto</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="page">165</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b43">
+	<monogr>
+		<author>
+			<persName><forename type="first">Mike</forename><surname>Chasar</surname></persName>
+		</author>
+		<title level="m">Everyday Reading: Poetry and Popular Culture in Modern America</title>
+		<imprint>
+			<publisher>Columbia University Press</publisher>
+			<date type="published" when="2012">2012</date>
+			<biblScope unit="page">126</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b44">
+	<monogr>
+		<title level="m" type="main">Modern American poetry and &quot;promotion</title>
+		<author>
+			<persName><surname>Francis</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="page">224</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b45">
+	<monogr>
+		<author>
+			<persName><forename type="first">D</forename><surname>Lawrence</surname></persName>
+		</author>
+		<title level="m">Michael Ross, Designing Fictions: Literature Confronts Advertising</title>
+		<imprint>
+			<publisher>McGill-Queen&apos;s University Press</publisher>
+			<date type="published" when="2015">2015</date>
+			<biblScope unit="page">12</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b46">
+	<monogr>
+		<title level="m" type="main">Life Studies&quot; by Robert Lowell and</title>
+		<author>
+			<persName><forename type="first">Gilbert</forename><surname>Sorrentino</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">;</forename><forename type="middle">W D</forename><surname>Snodgrass</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1960">1960</date>
+			<publisher>Totem Press</publisher>
+			<biblScope unit="volume">7</biblScope>
+			<biblScope unit="page">6</biblScope>
+		</imprint>
+	</monogr>
+	<note>Heart&apos;s Needle</note>
+</biblStruct>
+
+<biblStruct xml:id="b47">
+	<analytic>
+		<title level="a" type="main">Advertisements for Themselves: Poetry, Confession, and the Arts of Publicity</title>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">D</forename><surname>Snodgrass</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Christopher Grobe</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">American Literature in Transition, 1950-1960</title>
+		<imprint>
+			<publisher>Cambridge University Press</publisher>
+			<date type="published" when="2018">2018</date>
+			<biblScope unit="page">241</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b48">
+	<monogr>
+		<title level="m" type="main">Yugen at the Front</title>
+		<author>
+			<persName><surname>Belletto</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="page">64</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b49">
+	<monogr>
+		<title level="m" type="main">The Beats</title>
+		<author>
+			<persName><surname>Belletto</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="page">167</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b50">
+	<monogr>
+		<title/>
+		<author>
+			<persName><surname>Sorrentino</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="page">38</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b51">
+	<monogr>
+		<title level="m" type="main">Modern American poetry and &quot;promotion</title>
+		<author>
+			<persName><surname>Francis</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="page">217</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b52">
+	<analytic>
+		<title level="a" type="main">Masrketing British Modernism: The Egoist and Counter-Public Spheres</title>
+		<author>
+			<persName><forename type="first">Mark</forename><surname>Morrison</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Twentieth Century Literature</title>
+		<imprint>
+			<biblScope unit="volume">43</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page">447</biblScope>
+			<date type="published" when="1997">1997</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b53">
+	<analytic>
+		<title level="a" type="main">Make It Sell! Ezra Pound Advertises Modernism</title>
+		<author>
+			<persName><forename type="first">Timothy</forename><surname>Materer</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Marketing Modernisms: Self-Promotion, Canonization, Rereading</title>
+		<imprint>
+			<publisher>University of Michigan Press</publisher>
+			<date type="published" when="1999">1999</date>
+			<biblScope unit="page">26</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b54">
+	<analytic>
+		<title level="a" type="main">Make It Sell! Ezra Pound Advertises Modernism</title>
+		<author>
+			<persName><surname>Materer</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Baraka and Cohen</title>
+		<imprint>
+			<biblScope unit="volume">1</biblScope>
+			<biblScope unit="page">1</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b55">
+	<monogr>
+		<title level="m" type="main">Ephemeral Bibelots</title>
+		<author>
+			<persName><surname>Evans</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="page" from="14" to="15" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b56">
+	<monogr>
+		<title/>
+		<author>
+			<persName><surname>Ibid</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="page" from="180" to="181" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b57">
+	<analytic>
+		<author>
+			<persName><forename type="first">William</forename><surname>Carlos</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Williams</forename></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Robert</forename><surname>Mcalmon</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Contact: Numbers 1-5</title>
+		<imprint>
+			<publisher>Kraus Reprint Corporation</publisher>
+			<date type="published" when="1967">1967</date>
+			<biblScope unit="volume">4</biblScope>
+			<biblScope unit="page">18</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b58">
+	<monogr>
+		<title level="m" type="main">Ephemeral Bibelots</title>
+		<author>
+			<persName><surname>Evans</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="page">15</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b59">
+	<monogr>
+		<title/>
+		<author>
+			<persName><surname>Ibid</surname></persName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b60">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">Like</forename><surname>Flatley</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Andy</forename><surname>Warhol</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="page">5</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b61">
+	<monogr>
+		<title level="m" type="main">Ephemeral Bibelots</title>
+		<author>
+			<persName><surname>Evans</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="page">15</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b62">
+	<monogr>
+		<title level="m" type="main">Decoding Advertisements</title>
+		<author>
+			<persName><surname>Williamson</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="page">84</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b63">
+	<monogr>
+		<title level="m" type="main">Personal Poem</title>
+		<author>
+			<persName><forename type="first">O'</forename><surname>Frank</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Hara</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1960">1960</date>
+			<publisher>Totem Press</publisher>
+			<biblScope unit="page">51</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b64">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">Frank O'</forename><surname>Perloff</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Hara</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="page" from="p. xvi" to="xvii" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b65">
+	<monogr>
+		<author>
+			<persName><forename type="first">Reva</forename><surname>Wolf</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Andy</forename><surname>Warhol</surname></persName>
+		</author>
+		<title level="m">Poetry, and Gossip in the 1960s</title>
+		<imprint>
+			<publisher>University of Chicago Press</publisher>
+			<date type="published" when="1997">1997</date>
+			<biblScope unit="page">18</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b66">
+	<analytic>
+		<title level="a" type="main">Everything We Want&quot;: Frank O&apos;Hara and the Aesthetics of Free Choice</title>
+		<author>
+			<persName><forename type="first">Michael</forename><surname>Clune</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">PMLA</title>
+		<imprint>
+			<biblScope unit="volume">120</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="183" to="186" />
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b67">
+	<monogr>
+		<title level="m" type="main">Andy Warhol, Poetry, and Gossip in the 1960s</title>
+		<author>
+			<persName><surname>Wolf</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="page">19</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b68">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">Like</forename><surname>Flatley</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Andy</forename><surname>Warhol</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="page">12</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b69">
+	<monogr>
+		<title level="m" type="main">Everything We Want</title>
+		<author>
+			<persName><surname>Clune</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="page" from="191" to="192" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b70">
+	<analytic>
+		<title level="a" type="main">Having a Coke with You Is Even More Fun Than Ideology Critique</title>
+		<author>
+			<persName><forename type="first">Brian</forename><surname>Glavey</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">PMLA</title>
+		<imprint>
+			<biblScope unit="volume">134</biblScope>
+			<biblScope unit="page">997</biblScope>
+			<date type="published" when="2019">2019</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b71">
+	<monogr>
+		<title level="m" type="main">The Work of Art in the Age of Deindustrialization</title>
+		<author>
+			<persName><surname>Bernes</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="page">43</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b72">
+	<monogr>
+		<title level="m" type="main">Personism: A Manifesto</title>
+		<author>
+			<persName><forename type="first">O'</forename><surname>Frank</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Hara</surname></persName>
+		</author>
+		<imprint/>
+	</monogr>
+	<note>typescript</note>
+</biblStruct>
+
+<biblStruct xml:id="b73">
+	<analytic>
+		<title/>
+	</analytic>
+	<monogr>
+		<title level="j">Authors&apos; Manuscripts, Yugen</title>
+		<imprint>
+			<biblScope unit="volume">2</biblScope>
+		</imprint>
+		<respStmt>
+			<orgName>Amiri Baraka Papers, Special Collections Research Center, Syracuse University</orgName>
+		</respStmt>
+	</monogr>
+	<note>MSS</note>
+</biblStruct>
+
+<biblStruct xml:id="b74">
+	<monogr>
+		<title level="m" type="main">Personism: A Manifesto</title>
+		<author>
+			<persName><forename type="first">O'</forename><surname>Frank</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Hara</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1961">1961</date>
+			<publisher>Totem Press</publisher>
+			<biblScope unit="volume">7</biblScope>
+			<biblScope unit="page">28</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b75">
+	<monogr>
+		<title/>
+		<author>
+			<persName><surname>Bourriaud</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="page">14</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b76">
+	<monogr>
+		<title/>
+		<author>
+			<persName><surname>Ibid</surname></persName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b77">
+	<monogr>
+		<title level="m" type="main">The New World</title>
+		<author>
+			<persName><forename type="first">Robert</forename><surname>Creeley</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1961">1961</date>
+			<publisher>Totem Press</publisher>
+			<biblScope unit="volume">7</biblScope>
+			<biblScope unit="page">16</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b78">
+	<monogr>
+		<title level="m" type="main">The Hidden Persuaders</title>
+		<author>
+			<persName><surname>Packard</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="page">37</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b79">
+	<monogr>
+		<title/>
+		<author>
+			<persName><surname>Ibid</surname></persName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b80">
+	<analytic>
+		<title level="a" type="main">Postscript on the Societies of Control</title>
+		<author>
+			<persName><forename type="first">Gilles</forename><surname>Deleuze</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">October</title>
+		<imprint>
+			<biblScope unit="volume">59</biblScope>
+			<biblScope unit="page">5</biblScope>
+			<date type="published" when="1992">1992</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b81">
+	<monogr>
+		<title/>
+		<author>
+			<persName><surname>Bourriaud</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="page">9</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b82">
+	<monogr>
+		<title/>
+		<author>
+			<persName><surname>Bourriaud</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="page">16</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b83">
+	<monogr>
+		<title/>
+		<author>
+			<persName><surname>Bourriaud</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="page">9</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b84">
+	<monogr>
+		<title level="m" type="main">Poetry and Advertising</title>
+		<author>
+			<persName><surname>Hayakawa</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="page">119</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b85">
+	<monogr>
+		<title level="m" type="main">The New World</title>
+		<author>
+			<persName><surname>Creeley</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="page">16</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b86">
+	<monogr>
+		<title level="m" type="main">TAKEOUT, 4:II:58</title>
+		<author>
+			<persName><forename type="first">Philip</forename><surname>Whalen</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1958">1958</date>
+			<publisher>Totem Press</publisher>
+			<biblScope unit="page">3</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b87">
+	<monogr>
+		<title level="m" type="main">SOUFFLE</title>
+		<author>
+			<persName><forename type="first">Philip</forename><surname>Whalen</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1958">1958</date>
+			<publisher>Totem Press</publisher>
+			<biblScope unit="volume">3</biblScope>
+			<biblScope unit="page">9</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b88">
+	<monogr>
+		<title level="m" type="main">The A.B.C&apos;s</title>
+		<author>
+			<persName><forename type="first">Amiri</forename><surname>Baraka</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1960">1960</date>
+			<publisher>Totem Press</publisher>
+			<biblScope unit="page">39</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b89">
+	<monogr>
+		<title level="m" type="main">The Chamber</title>
+		<author>
+			<persName><forename type="first">Michael</forename><surname>Mcclure</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1959">1959</date>
+			<publisher>Totem Press</publisher>
+			<biblScope unit="volume">4</biblScope>
+			<biblScope unit="page">14</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b90">
+	<monogr>
+		<title level="m" type="main">Personism</title>
+		<author>
+			<persName><surname>O'hara</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="page">28</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b91">
+	<monogr>
+		<title level="m" type="main">Personal Poem</title>
+		<author>
+			<persName><surname>O'hara</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="page">51</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b92">
+	<monogr>
+		<title/>
+		<author>
+			<persName><surname>Sorrentino</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="page">38</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b93">
+	<monogr>
+		<title level="m" type="main">Personism</title>
+		<author>
+			<persName><surname>O'hara</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="page">28</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b94">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">Like</forename><surname>Flatley</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Andy</forename><surname>Warhol</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="page" from="4" to="5" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b95">
+	<monogr>
+		<title level="m" type="main">The New World</title>
+		<author>
+			<persName><surname>Creeley</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="page">16</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b96">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">Like</forename><surname>Flatley</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Andy</forename><surname>Warhol</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="page">4</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b97">
+	<monogr>
+		<title level="m" type="main">Personal Poem</title>
+		<author>
+			<persName><surname>O'hara</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="page">51</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b98">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">Like</forename><surname>Flatley</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Andy</forename><surname>Warhol</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="page">4</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b99">
+	<monogr>
+		<title level="m" type="main">The Hidden Persuaders</title>
+		<author>
+			<persName><surname>Packard</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="page">23</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b100">
+	<monogr>
+		<title level="m" type="main">Our Aesthetic Categories</title>
+		<author>
+			<persName><forename type="first">Sianne</forename><surname>Ngai</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2012">2012</date>
+			<publisher>Harvard University Press</publisher>
+			<biblScope unit="page">39</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b101">
+	<monogr>
+		<title level="m" type="main">The Hidden Persuaders</title>
+		<author>
+			<persName><surname>Packard</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="page">34</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b102">
+	<monogr>
+		<title level="m" type="main">Personal Poem</title>
+		<author>
+			<persName><surname>O'hara</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="page">51</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b103">
+	<monogr>
+		<title/>
+		<author>
+			<persName><surname>Ibid</surname></persName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b104">
+	<analytic>
+		<title level="a" type="main">New York School</title>
+		<author>
+			<persName><forename type="first">Ben</forename><surname>Hickman</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">American Literature in Transition, 1950-1960</title>
+		<imprint>
+			<publisher>Cambridge University Press</publisher>
+			<date type="published" when="2018">2018</date>
+			<biblScope unit="page">265</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b105">
+	<monogr>
+		<title level="m" type="main">The Hidden Persuaders</title>
+		<author>
+			<persName><surname>Packard</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="page">34</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b106">
+	<monogr>
+		<title level="m" type="main">Poetry and Advertising</title>
+		<author>
+			<persName><surname>Hayakawa</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="page">119</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b107">
+	<monogr>
+		<title level="m" type="main">Personal Poem</title>
+		<author>
+			<persName><surname>O'hara</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="page">51</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b108">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">Frank O'</forename><surname>Perloff</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Hara</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="page">p. xvi</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b109">
+	<monogr>
+		<title level="m" type="main">Personal Poem</title>
+		<author>
+			<persName><surname>O'hara</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="page">51</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b110">
+	<analytic>
+		<title level="a" type="main">Personal Poem</title>
+		<author>
+			<persName><forename type="first">O'</forename><surname>Frank</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">;</forename><surname>Hara</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Donald</forename><surname>Allen</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">The Collected Poems of Frank O&apos;Hara</title>
+		<imprint>
+			<publisher>University of California Press</publisher>
+			<date type="published" when="1995">1995</date>
+			<biblScope unit="page">544</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b111">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">Frank O'</forename><surname>Perloff</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Hara</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="page">p. xv</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b112">
+	<monogr>
+		<title/>
+		<author>
+			<persName><surname>Deleuze</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="page">7</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b113">
+	<monogr>
+		<title level="m" type="main">Poetry and Advertising</title>
+		<author>
+			<persName><surname>Hayakawa</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="page">117</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b114">
+	<monogr>
+		<title level="m" type="main">Personal Poem</title>
+		<author>
+			<persName><surname>O'hara</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="page">51</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b115">
+	<monogr>
+		<title level="m" type="main">Everything We Want</title>
+		<author>
+			<persName><surname>Clune</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="page">187</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b116">
+	<monogr>
+		<title/>
+		<author>
+			<persName><surname>Bourriaud</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="page">23</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b117">
+	<analytic>
+		<title level="a" type="main">On Frank O&apos;Hara</title>
+		<author>
+			<persName><forename type="first">Barbara</forename><surname>Guest</surname></persName>
+		</author>
+		<idno>1478</idno>
+	</analytic>
+	<monogr>
+		<title level="s">Barbara Guest Papers</title>
+		<imprint>
+			<biblScope unit="volume">84</biblScope>
+			<biblScope unit="page">3</biblScope>
+			<date type="published" when="2000">2000</date>
+			<publisher>Beinecke Rare Book and Manuscript Library</publisher>
+		</imprint>
+	</monogr>
+	<note>Typed notes</note>
+</biblStruct>
+
+<biblStruct xml:id="b118">
+	<monogr>
+		<title level="m" type="main">Having a Coke with You Is Even More Fun Than Ideology Critique</title>
+		<author>
+			<persName><surname>Glavey</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="page" from="1003" to="1004" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b119">
+	<monogr>
+		<title level="m" type="main">The New World</title>
+		<author>
+			<persName><surname>Creeley</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="page">16</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b120">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">Post-Postmodernism</forename><surname>Nealon</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="page">167</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b121">
+	<monogr>
+		<title/>
+		<author>
+			<persName><surname>Ibid</surname></persName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b122">
+	<analytic>
+		<title level="a" type="main">ANDY WARHOL: ANDY DO IT</title>
+		<author>
+			<persName><forename type="first">Joe</forename><surname>Brainard</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">C: A Journal of Poetry</title>
+		<imprint>
+			<biblScope unit="volume">6</biblScope>
+			<date type="published" when="1963">1963/1964</date>
+			<publisher>C Press</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

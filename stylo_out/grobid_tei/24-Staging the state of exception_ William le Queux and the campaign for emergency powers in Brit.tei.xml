@@ -1,0 +1,1287 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Staging the state of exception: William le Queux and the campaign for emergency powers in Britain 1906-1914</title>
+				<funder ref="#_9tFxMxe">
+					<orgName type="full">Arts &amp; Humanities Research Council</orgName>
+				</funder>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author role="corresp">
+							<persName><forename type="first">Jago</forename><surname>Morrison</surname></persName>
+							<email>jago.morrison@brunel.ac.uk</email>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Arts &amp; Humanities</orgName>
+								<orgName type="institution">Brunel University London</orgName>
+								<address>
+									<settlement>London</settlement>
+									<country key="GB">UK</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Arts &amp; Humanities</orgName>
+								<orgName type="institution">Brunel University London</orgName>
+								<address>
+									<settlement>London</settlement>
+									<country key="GB">UK</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Staging the state of exception: William le Queux and the campaign for emergency powers in Britain 1906-1914</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date/>
+						</imprint>
+					</monogr>
+					<idno type="MD5">35404C7EE0C811871715FA275D5642C1</idno>
+					<idno type="DOI">10.1080/0950236X.2025.2558586</idno>
+					<note type="submission">Received 22 August 2024; Accepted 20 March 2025</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.0" ident="GROBID" when="2026-02-25T19:55+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term>State of exception</term>
+					<term>spy fiction</term>
+					<term>Secret Service Bureau</term>
+					<term>William le Queux</term>
+					<term>Frederick Roberts</term>
+					<term>James Edmonds</term>
+				</keywords>
+			</textClass>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>This essay examines a high-profile campaign to roll back civil rights in Britain in the years before World War One. By persuading government and the people that Britain was already invaded and facing imminent colonisation, its aim was to place the nation in a state of emergency, requiring a new regime of disciplinary control. Popular novelist William le Queux, Field Marshall Frederick Roberts and government intelligence specialist James Edmonds have all been associated with 'spy mania' by historians. However, their role in a larger effort to erode legal and social protections in Britain has not been sufficiently addressed. I examine their attempts to stage an existential crisis for Britain using the platform of the Daily Mail in 1906, and the strategies they followed thereafter. Importantly, the essay locates these within a sustained campaign of advocacy for exceptional measures, both in war and civil crisis. As the essay seeks to demonstrate, the joint actions of these collaborators helped initiate far-reaching changes in the relationship between security and democracy in Britain.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Introduction</head><p>This essay examines a right-wing campaign to place the United Kingdom in a state of emergency in the years before World War One, with far-reaching consequences for British democracy. It considers the role of three key collaborators. Popular novelist William le Queux has been variously dismissed by historians as a 'talentless writer, opportunist mercenary hack, scaremonger, fraud and Walter Mitty'. <ref type="bibr" target="#b0">1</ref> This essay examines his role in the establishment of Britain's first state intelligence and security agency, analysing it for the first time it within a larger campaign to roll back civil rights in Britain. Field Marshall Frederick Roberts, lauded as a hero among the general public, had a long track record of using emergency powers to advance British interests in the colonies. Government legal advisor and intelligence specialist James Edmonds, as I will demonstrate, was an advocate for the disapplication of judicial safeguards and humanitarian law. He would work with his former deputy Vernon Kell to ensure that a full suite of emergency powers were prepared for use in Britain. As I will show, the paranoia, xenophobia and militarism these men promoted certainly created problems for government, making it harder to improve relations with Germany. A key reason why their campaign proved so influential, however, is that it simultaneously targeted the machinery of government and the voting public. In the latter case, one of its key platforms was the Daily Mail, which by 1906 had been built by proprietor Alfred Harmsworth into the most successful newspaper in the world. Speaking directly to the new electorate created by the 1884 Reform Act, it was unquestionably a formidable and feared political force. Imperialism and xenophobia coloured much of the Daily Mail's coverage and as Adrian Addison writes, 'many Liberals of the day accused Harmsworth of doing more, through his newspapers, to create conditions for war than any other man'. <ref type="bibr" target="#b1">2</ref> In its pages le Queux, a writer with a huge popular following, teamed up with Britain's most highly revered soldier, Lord Frederick Roberts, to create an invasion-scare story like no other. Roberts, speaking around the country and within the House of Lords, did everything in his power to reinforce its message: that Britain's survival depended on a radical change of culture. From primary school onwards, the curriculum needed to be transformed to inculcate military discipline. For all adult men, 'soldiership' needed to become the necessary condition of enfranchisement. <ref type="bibr" target="#b2">3</ref> Wallowing in complacency and paralysed by 'extraordinary regulations', <ref type="bibr" target="#b3">4</ref> they insisted, Britons had allowed themselves to be over-run with enemy spies who were working towards the country's ruin. Drawing directly on le Queux's work, Roberts' former advisor James Edmonds meanwhile used his influence within the War Office and the Committee of Imperial Defence to gain official acceptance of the idea that Britain was already invaded, militarily debilitated and in a situation of imminent peril. A government inquiry into Britain's national security and the adequacy of powers to protect against alien incursion was commissioned. As I will argue, the evidence suggests that all three men played a decisive role in determining its outcomes, working successfully against the instincts of Britain's Liberal establishment.</p><p>In a nation to whom the idea of having a state secret police was anathema, one of the earliest and most enduring effects of their campaign was the establishment of the Secret Service Bureau (SSB), the fore-runner to MI5 and MI6. Importantly, as Richard Thurlow says, 'it needs to be recognised from the outset that the growth of the secret state was a highly controversial phenomenon. Unlike most of the rest of Europe, Britain was not wellendowed with governmental machinery of political repression and social control […] Indeed the triumph of liberalism in the nineteenth century was seen to imply that Britain's pre-eminence was in some way due to the state's relatively relaxed approach to internal security and public order'. <ref type="bibr" target="#b4">5</ref> Thurlow's analysis here notably fails to take into account Britain's record of repressive control in the colonies. It underlines, however, that with the establishment of the SSB and the other measures that accompanied it, Britain had crossed a Rubicon in its approach to intelligence and domestic security. As declassified records show, the agency was purposefully formed to provide a 'screen' between officers of the state and 'dealings' which it would otherwise be 'difficult to disavow'. <ref type="bibr" target="#b5">6</ref> Exempt from parliamentary scrutiny and having no status in law, the SSB perfectly exemplified the state of exception for which it was the harbinger.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Staging the emergency</head><p>William le Queux did not invent the invasion-scare genre -by 1906 it was already well established across Europe. This is a development well documented in I. F. Clarke's classic study Voices Prophesying War <ref type="bibr" target="#b6">7</ref> and elsewhere which I will not extensively rehearse here. From its beginnings, however, it is worth saying that this was a genre closely associated with political campaigning. One of its earliest examples, Lieutenant-Colonel George Chesney's The Battle of Dorking (1871), depicts an impoverished Britain fifty years after a German take-over, and was written with the explicit aim of encouraging readers to volunteer as reservists. As Christian Melby says, Chesney's text did not succeed in that aim: recruitment to the Volunteers remained 'disastrous' throughout this period. <ref type="bibr" target="#b7">8</ref> A better known comparator, Erskine Childers' The Riddle of the Sands (1903), takes aim at the 'pitiful inadequacy of [Britain's] secret service'. <ref type="bibr" target="#b8">9</ref> In the face of government neglect of national security, in Childers' novel, it falls to two amateur yachtsmen to expose preparations for a German assault against Britain. In a postscript to the book's March 1903 edition, Childers welcomes the establishment of a new Committee of National Defence and a programme for naval re-armament, implying that his book had successfully forced government to action. In fact as Leonard Piper says, these developments were already in train. <ref type="bibr" target="#b9">10</ref> If The Riddle of the Sands did have an impact on public opinion, therefore, it was probably to help bolster support for the government's new defence policy.</p><p>Politically, le Queux's 'The Invasion of 1910' campaign was a far more ambitious undertaking than either of these. Created by one of the most popular authors of the day, marketed on a daily basis by the most successful newspaper in the world and written in collaboration with a hugely popular former commander of the British forces, it aim was maximum impact. In preparation for its launch, Roberts and le Queux spent four months at the Daily Mail's expense touring Southern and Eastern England scouting out points of weakness and possible lines for German attack. Harmsworth also wanted to exploit the project's full commercial potential, however. As Clarke writes, when the two men presented their findings to him, Harmsworth told them that 'although the strategy might be faultless, it would be bad for circulation […] the Germans had to pass through every sizeable town, "not keep to remote one-eyed country villages where there was no possibility of large Daily Mail Sales."' <ref type="bibr" target="#b10">11</ref> As the story hit the newsstands, adverts were placed in rival newspapers detailing the areas where the enemy would attack the next day, while men dressed as German soldiers paraded down London streets advertising coming atrocities. Symptomatically, when episode one appeared on 14 March 1906, it was not the only invasion-scare content to be carried by the Daily Mail. Page two featured 'Mixed Marriages', <ref type="bibr" target="#b11">12</ref> calling for unions between English women and Indian men to be made illegal.</p><p>Le Queux's text is both an explicit warning of British vulnerability and a dramatic staging of its consequences. In a headline over its first instalment, Roberts calls stark attention to 'the catastrophe that may happen if we still remain in our present state of unpreparedness'. <ref type="bibr">13</ref> In a preface to the book edition, similarly, le Queux warns that 'the Government are strenuously seeking to conceal from our people the appalling military weakness and the consequent danger to which the country is constantly open'. <ref type="bibr" target="#b12">14</ref> At the start of his narrative Britain is already overrun with an army of 'German advance spies'. <ref type="bibr">15</ref> Importantly, these are not spies in the modern sense of intelligence gatherers, but primarily saboteurs or commandos clearing a path for invading forces. Government and people alike continue in their 'lethargy', <ref type="bibr">16</ref> unaware that the country already exists in a state of emergency. Germany, by contrast, is distinguished by its foresight and efficiency:</p><p>The well-laid plans of the enemy were thus quickly revealed. Among the thousands of Germans working in London, the hundred or so spies, all trusted soldiers, had passed unnoticed but, working in unison, each little group of two or three had been allotted its task […] The railways to the east and north-east coasts all reported wholesale damage done on Sunday night by the advance agents of the enemy, and now this continued on the night of Monday. 17</p><p>In an influential essay 'Spy Fever in Britain', historian David French describes 'The Invasion of 1910' as a narrative in which Britain is over-run by 'evil but well-armed Germans'. <ref type="bibr" target="#b13">18</ref> This is an inaccurate account of le Queux's text, however. While his Germans do show exemplary military discipline, 'the most rigorous and drastic in the whole world', <ref type="bibr" target="#b14">19</ref> it is notable that they are able to combine this with civility and humanity. Indeed, it is suggested, the brutal display of force may sometimes be the most humanitarian. On May 9, Daily Mail readers were invited to look back on Roberts' campaign in the Anglo-Boer War in this light, through the diary of a fallen German officer. 'In the end a bold and forward policy is more economical of life and limb than attempting to avoid necessary losses', this officer writes 'as our present opponents did in South Africa, thereby prolonging the war to an almost indefinite period, and losing many more men […] than would have been the case if they had followed a more determined line in their strategy and tactics'. <ref type="bibr" target="#b15">20</ref> If the British under Roberts and Kitchener were responsible for the loss of many lives, it seems, this was because their approach was not aggressive enough. Elsewhere Roberts reinforces the same message, that Britain has much to learn from Germany. In his Address to the Nation, the latter's steadfast commitment to advancement is showered with praise and admiration. 'Contrasted with our own apathy or puerile and spasmodic efforts, how impressive is this magnificent and unresting energy! It has the mark of greatness; it extorts admiration even from those against whom it is directed!' <ref type="bibr" target="#b16">21</ref> In the Daily Mail, as London enters a literal state of siege on May 5th, we learn that 'everywhere people were regretting that Lord Roberts solemn warnings had been unheeded, for had we adopted his scheme for universal service, such dire catastrophe could never have occurred'. <ref type="bibr" target="#b17">22</ref> No opportunities are lost to castigate the incompetence of government, but readers themselves are also implicitly held up for criticism. This is especially so in the book edition, for which le Queux made a number of edits. '"Who, then, was responsible?" it may well be asked. The answer is simple. The British public [with] its apathetic attitude towards military efficiency'. <ref type="bibr" target="#b18">23</ref> For while Britons do finally rise with all the patriotism they can muster, 'what can we hope, when patriotism is ranged against modern military science?' When a well-prepared enemy possess both superior strategy and equipment, 'all defence is quickly at an end'. <ref type="bibr">24</ref> While Roberts' by-now-familiar political message is delivered here in a consistently didactic fashion, le Queux also tries to appeal to readers on the level of affect, especially in his visceral depiction of ordinary people caught up in war. As artillery shells rain down on the capital, 'some were caught in the streets in their flight, and were flung down, maimed and dying […] men and women blown out of recognition, with their clothes singed and torn to shreds, and helpless, innocent children lying white and dead, their limbs torn away and missing'. <ref type="bibr" target="#b19">25</ref> In scenes reminiscent of the Blitz, his writing attempts to give readers an experience of sensory overload as he describes the shock of spectacular violence, the suffocating fumes and incessant roar of aerial bombardment, the agony of the wounded and the desolation of those bereaved. As the narrative proceeds, communities all around the country reap the consequences of Britain's inaction, as readers are invited to vicariously experience their own ruin. In the face of governmental incompetence, it eventually falls to a volunteer 'League of Defenders' who call on the millions of British patriots to 'rise, and strike your blow for freedom'. <ref type="bibr" target="#b20">26</ref> Notably, here, class and political affiliation fall aside as 'Socialists, Nonconformists, Labour Agitators, Anarchists, and demagogues […] unite with us in one great patriotic effort'. <ref type="bibr">27</ref> By 1906, Roberts had already proved himself adept at shaping the political mood through control of the press. As the commander of an occupying force in Afghanistan, he had learnt the importance of keeping war correspondents on side and the potential damage that could flow from hostile coverage. In the second Anglo-Boer war, similarly, he had been at pains to welcome journalists. According to Rodney Atwood, 'the American James Barnes of the New York Outlook recorded him saying he was glad to have reporters with him, he would be much interested to read their criticisms, and all he asked was that they would try not to get shot. They could speak their minds and tell the truth'. <ref type="bibr" target="#b21">28</ref> Behind this façade of openness, however, Roberts was careful to ensure that his own representation of events would shape opinion at home. Dispatches from correspondents were heavily censored on the pretext that fresh information should never be made available to the enemy. According to Jacqueline Beaumont, meanwhile, he would make sure that no telegrams could be transmitted until his own highly detailed account to the War Office had been sent. In this way 'when news was published in London his own dispatch would lead the news page and would be the first account to be read'. <ref type="bibr" target="#b22">29</ref> From the middle of 1901, popular outrage about the exceptional methods used by Britain's military in South Africa began to build, driven by the efforts of humanitarian campaigner Emily Hobhouse. Roberts' and Kitchener's brutal scorched-earth tactics and the mass internment of civilians in concentration camps were famously denounced by Liberal opposition leader Henry Campbell-Bannerman as 'methods of barbarism', <ref type="bibr" target="#b23">30</ref> forcing their reappraisal and eventual abandonment. By this time, however, Roberts had handed over the role of Commander-in-Chief to Horatio Kitchener, while he himself returned to England, his reputation as a national hero intact.</p><p>In the mid-1890s, le Queux, Roberts and Harmsworth had already explored the possibilities of invasion-scare literature with the serialisation of 'The Poisoned Bullet' in the latter's first periodical Answers. In this case, le Queux's narrative depicted an invasion of Britain by French and Russian forces with an endorsement from Roberts calling for compulsory military service. The following year Harmsworth bought the Portsmouth Mail and hired two writers to produce a similar but more localised version 'The Siege of Portsmouth', to be serialised daily in the run-up to the 1895 general election, in which he was a Conservative Party candidate. The text was prominently featured, enjoying double-page spreads for each of its twenty-one instalments. It is also absolutely packed with local detail, starting with the front-page of the Mail on June 15, 1895 which is entirely taken up by an enormous depiction of Portsmouth town hall exploding. Well-known personalities are woven in and readers encouraged to respond. One, Elwin Thomas, a Crimean War veteran who dies trying to stir the people to action, wrote to the paper saying that he would have preferred to meet his fate by 'an old-fashioned eighty-pounder' instead. <ref type="bibr" target="#b24">31</ref> As with 'The Poisoned Bullet', the political campaign was unsuccessful -both Liberal incumbents were returned in Portsmouth in 1895. The presentation of fiction as a form of fake news capable of dramatising the idea of Britain's imminent peril, however, had become an established technique. In 1896 Harmsworth founded the Daily Mail with his brother, catering to a mass, middle-brow readership which rose to over a million a day within its first six years, the highest of any newspaper ever at that time. <ref type="bibr" target="#b25">32</ref> From the start, its presentation of 'news' was radically different from established papers like the Times. Current events, scandal and politics were all staples, and at times they were allowed to merge. 'The Invasion of 1910', however, was by far its most ambitious project using fiction. Among the reading public, it was an immediate sensation, adding 80,000 to the paper's already huge circulation. <ref type="bibr" target="#b26">33</ref> In its serialised form, it is difficult to estimate its total number of readers, since each copy for papers of this type was typically shared by more than one reader. <ref type="bibr" target="#b27">34</ref> We can fairly estimate, however, that a significant proportion of the British electorate (totalling around five million at that time) will have engaged with the campaign in whole or in part. In book form, it rapidly ran to twenty-seven editions.</p><p>'The Invasion of 1910' depicts Britain in a state of war and advocates a concerted militarisation of British culture. Politically, however, it frames this in term of a desire for peace. As Roberts writes of the British Empire, 'the more we exalt its greatness and its unrivalled character, the more astounding does our recklessness appear -this great Empire is at all times practically defenceless beyond its first line. Such an Empire invites war'. <ref type="bibr" target="#b28">35</ref> An arms race against Germany is recommended, not for the purpose of conflict but for that of deterrence. There is an interesting slippage here between the concepts of war and peace. For Roberts, 'war does not begin, nor does it end, on the day of battle. There is a kind of war which goes on silent and unperceived amid apparent peace […] If once you permit any one state to be your undisputed superior by sea and land, that hour, even if not a shot be fired, you cease to be a free nation. You are no longer an Empire'. 36</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>The British state of exception</head><p>The idea here that Britain is, in peacetime, already in a state of war is a crucial one. In times of national conflict, as Giorgio Agamben shows in State of Exception, the principle that military necessity might require civil authority to be over-ridden was well-established in this period. However, the state of emergency Roberts attempts to conjure here is a hypothetical one, with no apparent end-point. Unless Britain is mobilised and on a war footing, she will always be on the brink of war, he suggests. It is this liminal zone in which the state of exception begins to become normalised that interests Agamben. In France, for example, he discusses the 'état de siège fictif', established soon after the Revolution, which allowed for the suspension of the constitution in times of civil emergency. In Britain I would suggest, the same principle was implicit in the 1714 Riot Act, which was used for over two hundred years to establish a local state of exception that suspended normal legal restraints and allowed the use of extraordinary force against strikers and demonstrators. Perhaps its most infamous use was at the Peterloo Massacre of 1819, in which a Manchester crowd pressing for parliamentary reform were dispersed by sabre-wielding cavalry. Once the Riot Act was read by a magistrate, legal norms were suspended and groups of twelve or more people deemed to have gathered for the purpose of rebellion could be lawfully 'killed, maimed or hurt' by civil and military forces. <ref type="bibr" target="#b29">37</ref> In Agamben's historical account of the state of exception, the British appear as relatively restrained by comparison to their French neighbours, however, a latecomer to emergency powers and exceptional measures. In Britain since the 1689 Mutiny Act, he suggests, the concept of martial law was limited to 'acts done by necessity for the defence of the Commonwealth where there is war within the realm'. <ref type="bibr" target="#b30">38</ref> While this entailed 'sometimes serious consequences for the civilians who found themselves […] involved', he argues that it is only with World War One that we see a 'generalisation of exceptional executive apparatuses in England'. <ref type="bibr" target="#b31">39</ref> Agamben's account here is not only unobservant of developments in the period preceding the First World War, but also to Britain's record in the colonies, however. As Mark Condos argues in the case of British India, as a colonial power Britain had frequent recourse to emergency powers throughout the nineteenth century. In this sense, he suggests, it is much more reasonable to regard the empire as having provided the real testing ground for the use of exceptional measures by Britain. This is an argument well borne out by the example of British dealings in India. From its foundation in 1600, the East India Company was a private corporation formed for the purposes of trade. However, as Condos says, its original charter 'empowered it to govern itself and those under its command, and to protect itself against mutiny and rebellion'. <ref type="bibr" target="#b32">40</ref> These included the ability to rule by martial law at times of crisis. The Bengal State Offenses Regulation of 1804, for example, allowed ordinary court processes to be suspended and for the trial of civilians by courts martial. In 1818 this regulation was augmented by Bengal Regulation III, which 'provided for preventative detention of individuals against whom there might not be "sufficient ground to initiate any judicial proceeding" or when such proceedings might be "inadvisable or improper."' <ref type="bibr" target="#b33">41</ref> At the time of the Indian Uprising of 1857, the Bengal Regulations were generalised and supplemented with further emergency provisions, radically streamlining the courts-martial process and allowing trial of a much wider range of offences beyond overt acts of rebellion. As Troy Downs says, commissions to hold courts-martial 'could be issued not only to military officers and civil officials, but also to "independent English gentlemen not connected with the East India Company, indigo planters and other persons of intelligence and influence." Section one of the act specified the punishments that could be handed down. These included capital punishment, transportation for life, imprisonment for up to 14 years, and the forfeiture of an individual's property'. <ref type="bibr" target="#b34">42</ref> Roberts' writings again shed interesting light here. As a young officer for the East India Company, his Letters Written During the Indian Mutiny not only bear witness to the use of such emergency powers in 1857, but also to the front-line experience of implementing them. As Roberts makes clear in a letter to his mother of June 11, this future Commander of British forces was already a convert to their use:</p><p>Well the troops assembled at Jhelum, and we have come along this far, doing a little business on the road such as disarming regiments and executing mutineers. The death that seems to have the most effect is being blown from a gun. It is rather a horrible sight, but in these times we cannot be particular. Drum Head courts-martial are the order of the day in every station, and had they begun this regime a little earlier, one half of the destruction and mutiny would have been saved. <ref type="bibr" target="#b35">43</ref> He describes with a strange mixture of satisfaction and solicitude, the devastation caused by British artillery in Delhi, as well as the collective punishment meted out on survivors as 'everyone was forced out of the city, and all the houses were plundered. A very sad sight to see old women and little children leaving their houses'. <ref type="bibr">44</ref> Nowhere in his letters does he question either the effectiveness or the appropriacy of the violence inflicted on mutineers and civilians alike.</p><p>After direct control of India was assumed by the British crown in 1858, Roberts transferred to the British army, eventually rising to the rank of Field Marshall. In Afghanistan in the 1870s, as Commander of the Kabul force, he had direct experience of imposing military rule over a civilian population and as Aiden Forth says 'razed Afghan villages in exemplary fashion' in response to hostile action. <ref type="bibr" target="#b36">45</ref> As Commander-in-Chief of the British forces in the second Anglo-Boer war in 1900, this approach was expanded and systematised. When conventional military tactics failed to secure victory for the British, Roberts and his Chief of Staff Horatio Kitchener began a scorchedearth campaign in which farms were burnt and livestock slaughtered. 'Unless the people are generally made to suffer for the misdeeds of those in arms against us', he later maintained, 'the war will never end'. <ref type="bibr">46</ref> In order to further pressure Boer fighters and deprive them of sustenance, troops under his and Kitchener's command forced an estimated quarter of a million women and children into a network of concentration camps. As a result of their primitive and insanitary conditions, around a fifth of those interned in these facilities perished.</p><p>Initially, as Kenneth Loparo says, the camps were justified by Kitchener on the grounds that they would 'cut down on "spying" in rural areas'. <ref type="bibr" target="#b37">47</ref> Later, however, the classic imperialist trope of the civilising mission was preferred, with internees 'portrayed as wild, illiterate human beings who needed training and education'. <ref type="bibr">48</ref> Presenting the camps as a humanitarian intervention might seem manifestly spurious, since the only context in which they could be viewed in that way was against the scorched earth produced by the British outside. But as Agamben says in Means Without Ends, 'the camp is the space that opens up when the state of exception starts to become the rule'. <ref type="bibr" target="#b38">49</ref> Here, amid deliberately induced conditions of famine, the grim conditions within could only be cast as civilised in relation to the devastation without.</p><p>Such naked uses of power were, I would suggest, clearly problematic from the point of view of Britain's obligations in international law, particularly the Hague and Geneva conventions. Roberts' advisor on the application of international law was James Edmonds, who had recently been appointed as head of the 'Special Duties' section of the War Office, with a remit covering intelligence, censorship and interpretation of the laws of war. Although the internment of civilians in concentration camps appeared a flagrant contravention of Hague II, governing the laws and customs of war on land, Edmonds dismissed criticism of the policy as 'malignant propaganda'. <ref type="bibr" target="#b39">50</ref> The specific advice he gave to Roberts and Kitchener during the war is not recorded. However, his position in subsequent writings is consistent: that the Geneva and Hague conventions can be regarded as disapplied in a variety of circumstances. As he stressed in a lecture to the General Staff in 1909, for example, 'the rules of international law […] do not apply in wars with uncivilised states, when their place is taken by the discretion of the Commander and such rules of morality as recommend themselves to the circumstances of the case'. <ref type="bibr" target="#b40">51</ref> Here once again, a space is cleared for military action in which the pure exercise of power escapes legal restraints. As Agamben acutely suggests, when a state of exception entails the suspension of law, 'the fact that atrocities may or may not be committed does not depend on the law but rather on the civility and ethical sense of the [forces] that act temporarily as sovereign'. <ref type="bibr" target="#b41">52</ref> In the same text Edmonds derides the Geneva and Hague conventions as 'antiquated and unreasonable' in the context of 'changes in the art of war'. <ref type="bibr" target="#b42">53</ref> He assesses their insistence on respect for private property as impractical and the prohibition on killing an unarmed opponent after he had surrendered as unrealistic. If a campaign requires the use of exceptional measures, he suggests, 'there are to the mind of most soldiers very grave objections to the provision of a Code of the laws of war' which might prevent this. <ref type="bibr">54</ref> Importantly, Edmonds' position here was to become cemented in British policy until the 1940s, when his Land Warfare (1912) was incorporated as a chapter of Britain's definitive Manual of Military Law. <ref type="bibr" target="#b43">55</ref> Edmonds' official writings on questions of civil emergency in Britain are also revealing here. In a 1911 paper written for the guidance of officers commanding troops in strike areas, he explicitly seeks to disapply the requirement for a magistrate in the use of the Riot Act when dealing with protesters. Citing a small piece of British military law (Regulation 967 of the Kings Regulations and Orders for the Army) he points to possible 'cases of immediate and pressing danger' in which officers are permitted to take action on the basis of their own judgement. In the current situation, it is suggested, such exceptional circumstances should now be regarded as the norm. A legal opinion is submitted clarifying that 'these Regulations contemplate that the normal case is when a magistrate is present. In the present situation, the normal case will be one when the magistrate is not present'. <ref type="bibr" target="#b44">56</ref> The requirement for judicial confirmation that a state of exception exists is here neatly rescinded. Other official interventions add colour to Edmonds' thinking. In a paper of the following year advising on 'Lessons Learned During the Belfast Riots', Edmonds commends the use of bayonets against an Irish crowd led by 'ragged and wild-looking women [in the] forefront waving their bare arms' in a scene reminiscent of 'descriptions of the French Revolution'. <ref type="bibr" target="#b45">57</ref> In 'Strike Duty', a paper setting out security recommendations following the national rail workers strike of 1911, he similarly argues that 'the exhibition of force invariably had the most quieting effect'. Calling for the use of cavalry against striking workers, he suggests that 'some field guns and machine guns should be taken [and] notices should be printed to the effect that the troops are forbidden to fire into the air or to fire blanks'. For this purpose 'an adequate amount of ammunition should be issued to every unit at the outset'. <ref type="bibr" target="#b46">58</ref> Edmonds' readiness to set aside liberal norms and to apply colonial methods of control on the home front recalls Aimé Césaire and Hannah Arendt's discussions of the development of Nazism in Europe in Discourse on Colonialism and The Origins of Totalitarianism respectively. Both thinkers point to the imperial 'boomerang' effect, in which abusive techniques of power practised in overseas territories return to infect the domestic body politic. By brutalising the colonised and turning a blind eye to their rights, as Césaire says, 'relations of domination and submission [become normalised] which turn the colonizing man into a classroom monitor, an army sergeant, a prison guard, a slave driver'. <ref type="bibr" target="#b47">59</ref> In the lectures collected as Society Must be Defended, Michel Foucault similarly discusses the ways in which 'political and juridical weapons' developed by European powers in the colonial realm end up reshaping their own domestic 'apparatuses, institutions and techniques of power'. <ref type="bibr" target="#b48">60</ref> In le Queux's collaboration with Frederick Roberts, as we will see similarly, it is striking how easily the cause of national defence mutates into advocacy for the establishment of concentration camps in Britain.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>The campaign within government</head><p>As we have seen, le Queux's and Roberts' campaign in the Daily Mail with 'The Invasion of 1910' can be judged to have been a huge success in terms of public engagement. Persuading Britain's Liberal government that the country faced an imminent danger of attack from abroad should, ostensibly, have been a much more difficult matter. As I will suggest, however, the two were more closely linked than might appear. In 1905 the Committee of Imperial Defence (CID) had already concluded a two-year enquiry concerning defence of the United Kingdom, with the finding that 'invasion of these islands in such force as to inflict a fatal blow or threaten our independence is impossible'. <ref type="bibr" target="#b49">61</ref> In the wake of the Daily Mail's and other press campaigns, in 1907 the government re-opened the same question with the appointment of an even more prestigiously staffed inquiry chaired by Herbert Asquith himself. Roberts gave evidence and made an 'eloquent presentation' <ref type="bibr" target="#b50">62</ref> to the committee. Once again, however, his efforts to insist that Britain faced a state of emergency met with stiff Liberal resistance. As Christopher Andrew says, when the committee reported on 22 October 1908 'the result of their deliberations was to demolish most of the arguments of the invasion theorists and show surprise attack to be impossible'. <ref type="bibr" target="#b51">63</ref> The campaign's insistence that Britain was over-run with enemy spies, however, received a much more sympathetic hearing. Le Queux's charge against the government, renewed in Spies of the Kaiser (1909), was not that it was blind to threats Britain might face. Rather, it was aiding the enemy through deliberate inaction. 'That German spies are actively at work in Great Britain is well known to the authorities', he wrote. 'The number of agents of the German Secret Police at this moment working in our midst on behalf of the intelligence department in Berlin are believed to be over five thousand'. <ref type="bibr" target="#b52">64</ref> His text goes on to detail the structure of the enemy espionage organisation, with fixed agents in each district paid and controlled by a network of travelling agents, who in turn report to a senior officer in London.</p><p>It is important to stress here that, with the benefit of access to German intelligence records, we now know with certainty that le Queux's army of German spies in Britain was illusory. As Thomas Boghardt writes in his study Spies of the Kaiser, Germany had had some limited success between 1903-6 in persuading a few of its citizens living in in Britain to report on movements of French shipping. However, 'when England replaced France as the key potential enemy, even this small group of gentlemen were very reluctant to continue'. <ref type="bibr" target="#b53">65</ref> In the event of war their 'originally harmless activity' would have transformed itself into the capital offence of espionage against the United Kingdom. From 1911, Germany attempted to develop its intelligence apparatus on a more secure footing through a system of intermediaries (mittelsmänner) under Gustav Steinhauer. Again, however, 'hardly any Germans residing in Britain agreed to become operatives'. <ref type="bibr">66</ref> As Boghardt suggests, 'many Germans resident in Britain were either apolitical, socialist, well-assimilated, or even highly critical of Imperial Germany'. <ref type="bibr">67</ref> For his few agents, Steinhauer was forced to resort to recruiting criminals, some (such as Heinerich Grosse) directly out of prison. Like him, most proved almost useless for espionage purposes on account of their 'sparse and worthless intelligence'. <ref type="bibr">68</ref> Contrary to le Queux's assertion, however, Britain had no developed counter-intelligence service capable of establishing this with certainty. In 1909 a further CID subcommittee was tasked by the Prime Minister with looking at Britain's arrangements for the supervision of aliens and 'whether it is desirable to increase the powers that we possess of dealing in times of emergency with persons suspected of being spies or secret service agents'. <ref type="bibr" target="#b54">69</ref> At the first meeting of the committee on 30 March 1909, James Edmonds was the main witness on intelligence. On proven cases of espionage, he admitted that 'no case has ever been reported to the War Office by the police, although they have assisted us to investigate cases. No case has been reported to us by the Post Office. Civilians are curiously apathetic in this matter'. <ref type="bibr">70</ref> Despite this, however, he went on to describe the structure and operation of an extensive enemy spying apparatus, reflecting le Queux's account and focussed on likely points of invasion. While there was also 'no direct evidence that the Germans intend to carry out demolitions in this country', he suggested, 'one can only assume their intentions'. <ref type="bibr">71</ref> By contrast to the United Kingdom, Edmonds told the committee, Germany's programmes of national service, patriotic societies and veterans' clubs had 'converted the whole male population into an intelligent and watchful auxiliary of the police'. <ref type="bibr" target="#b55">72</ref> Before the committee's second meeting in April 1909, Edmonds was asked to tabulate all known cases of enemy espionage. The material he had collected at the War Office was (unsurprisingly) exceptionally thin. It is well established that Le Queux provided invaluable help here. On 27 February, as publicity for the serialisation of 'Spies of the Kaiser' in the Weekly News, readers had been invited to send in their own accounts of encounters with spies for a prize of £10. As guidance, it was suggested that readers 'may have had adventures with them, may have seen the photographs, charts and plans they are preparing'. <ref type="bibr" target="#b56">73</ref> In his preface to the book edition that followed, le Queux refers to the 'file of amazing documents' that had come to him 'which plainly show the feverish activity with which this advance guard of the enemy is working'. <ref type="bibr" target="#b57">74</ref> As Edmonds confirms in later writing, the material received by le Queux proved essential for supplementing the War Office's meagre evidence of enemy spies for circulation to the committee. Even with Weekly News readers' contributions, however, when reviewing the official file it is impossible not to be struck by the extraordinary flimsiness of the evidence Edmonds set out for the April meeting. One typical case, reported by 'a well-known novelist', stated: Informant, while motoring last summer in an unfrequented lane between Portsmouth and Chichester, nearly ran over a cyclist who was looking at a map and making notes. The man swore in German […] He was obviously a foreigner. <ref type="bibr">75</ref> For the final meeting in July 1909, the Home Office and Post Office both submitted reports counselling moderation. I would suggest however, that their contributions were entirely academic. As the minutes of the first meeting show, Secretary of State for War Richard Haldane had already pre-empted the committee's findings by stating that it was 'quite clear that a great deal of reconnaissance work is being conducted by Germans in this country. Probably, too […] secret agents are collecting information that would enable important demolitions to be carried out […] on or before the outbreak of war'. <ref type="bibr">76</ref> At the time Haldane made this statement as committee chair, no systematic evidence had been put to them of such a threat. Less than a year previously, he had also stated in the House of Commons that there was 'not the slightest evidence' 77 of a large German spy network operating in Britain. What had changed, I would suggest however, was his perception of the political climate. As Haldane wrote to Prime Minister Balfour in 1909: Lord Roberts' repeated statements that we are in danger of invasion and are not prepared to meet it, while made with the honest intention of strengthening our military forces, are doing a good deal of mischief. You would hardly believe the number of circumstantial stories which reach the War Office of German plans to seize our dockyards, block up the fleet, and in other ways prepare for an invasion en masse. The stories themselves are almost always ridiculous, but they are the index of a dangerous state of nervousness against our sending the Expeditionary force, which we have created with such pains, overseas when it was needed to go. Worse still is the effect on the public mind that Germany is the enemy, which renders any attempt to improve relations increasingly difficult. <ref type="bibr" target="#b59">78</ref> In the event of conflict with Germany, it was correctly anticipated by the Liberal government that Britain would primarily be sending troops to fight overseas. From 1906 a series of reforms led by Haldane had created an Expeditionary Force for this purpose. The public campaign led by le Queux, Roberts and Harmsworth to insist that Britain was over-run and underdefended clearly presented a potential impediment to this policy. If a large section of press and public believed that Britain, with her current forces, was already fatally vulnerable, this was a legitimate political concern.</p><p>While Haldane allowed the Secret Service Bureau to be established in 1909, it was given a tiny budget and (by modern standards) ludicrously minimal staffing. Edmonds' former deputy Vernon Kell became head of the domestic section with two members of staff; its descendant MI5 currently employs around five thousand. But then, the army of German spies Kell was employed to confront was itself illusory, as we have seen. As is clear from his letter to Balfour, Haldane did not believe there was any substance to the stories spread by le Queux and others. To add insult to injury, in his unpublished memoirs Edmonds also admits that 'I doubt whether the Germans in 1906-14 seriously contemplated invasion'. <ref type="bibr" target="#b60">79</ref> Britain did not, at that time, face a genuine emergency. From its foundation, however, the SSB embodied a state of exception to established democratic and legal process. For suspected spies, standard procedures of law enforcement did not apply. In the two cases Kell regarded as most important during the agency's first six months, the guilt of two Germans was established by the fact that they drove regularly to the coast, and a third by the way he held the reins when driving his carriage'. <ref type="bibr" target="#b61">80</ref> Another independently wealthy German who claimed to be studying the English language became the subject of Kell's attention when an officer who dined with him 'reported that his English was perfect'. <ref type="bibr">81</ref> Kell's diary for 28 July 1911 records that he spent the day interviewing a 'Miss Solari, who had written to the Daily Mail to the effect that the whole of the East coast was over-run with spies. She had no definite information'. <ref type="bibr" target="#b62">82</ref> The SSB's actions were not limited to documenting their own paranoia, however. Where evidence could not be brought against a suspect, they would nonetheless find themselves dismissed from their employment. <ref type="bibr">83</ref> When a rare, actual German agent Armgaard Graves was brought to trial and convicted in July 1912, Kell was able to secure his release in the hope that he might become a double-agent. Another unsuccessful German agent, William Klare, was framed by the SSB when no incriminating evidence could be gathered on him. It was arranged that he would be offered a copy of the Annual Report of Torpedoes at a barber's shop in Portsmouth and be immediately arrested with it in his possession. As Thomas Boghardt writes, the Portsmouth dockyard police were paid £20 for their connivance in this dubious affair, while the barber was paid £30 for his assistance and 'to keep quiet about the fact that Klare had been framed'. <ref type="bibr" target="#b63">84</ref> It is clear from records of the agency's activities that Kell saw its role as extending beyond intelligence gathering to actively disrupting the activities of spies and their collaborators. The details of his eleventh 'Report on Intelligence Police (Counter-Espionage Bureau)', for example, states that 'steps have been taken to deal with a community of persons […] whose connection with foreign agents, though incapable of proof in a Court of Law, is sufficiently established'. <ref type="bibr" target="#b64">85</ref> George Pelling, a navy engineer, was suspected of being aware of the activities of enemy agents, but having failed to report this. 'In the absence of direct evidence against him', Kell reports, 'Pelling was, at our instance, moved to the mediterranean station' where he was 'subjected to an interrogatory'. <ref type="bibr">86</ref> Pelling's summary treatment was partly targeted at two young women of his acquaintance, Nellie and Edith Riley against whom, similarly, no evidence appears to have been gathered. As Kell writes, it was intended that 'the removal of the latter will […] so frighten them as to limit their activities and usefulness'. <ref type="bibr" target="#b65">87</ref> In State of Exception, Agamben points to the way in which the suspension of democratic norms such as the right to arraignment and trial creates a 'zone of anomie' <ref type="bibr" target="#b66">88</ref> where the subject is stripped of social and legal protections. Although small in scale, the SSB's treatment of Pelling and others here, conducted explicitly outside judicial process, neatly exemplifies this. Unlike the US after 9/11, Britain had no Guantanamo Bay to which suspects could be transported and stripped of their rights. Nevertheless, Pelling's extraordinary rendition to a station beyond the jurisdiction of UK courts, shows in miniature how a British national might be transformed into a non-citizen, in Agamben's terms, a subject of pure sovereignty.</p><p>The SSB's ability to operate simultaneously in cooperation with judicial process and outside legal norms was greatly enhanced by the reworking of the Official Secrets Act in 1911, again pushed by Edmonds. In his evidence to the CID Sub-Committee on Foreign Espionage in 1909, as we have seen, Edmonds had painted a stark contrast between German vigilance in counter-espionage to British laxity. Presenting a copy of the Strafgesetzbuch (the German legal code), he suggested that 'it is practically impossible to obtain information [there] owing to the way in which strangers in Germany are watched and liable to arrest if their movements or actions are suspicious. The Act to forbid the collection of military information is wide and drastic. It is immaterial that the information collected is not secret in Germany. Thus one may be arrested for counting the number of spans of a bridge or pacing the width of a road'. <ref type="bibr" target="#b67">89</ref> Britain needed to adopt comparable measures, he suggested: a pre-prepared, full legal draft of a Bill to amend the 1889 Official Secrets Act was submitted to the committee for inclusion in its report.</p><p>When the new Official Secrets Act was presented to Parliament in 1911, it was rushed through on an exceptionally short timetable without debate, on the false assurance that 'the principle of the Act was not new. It was merely a remodelling of the 1889 Act to deal with certain points which had not been foreseen at the time'. <ref type="bibr" target="#b68">90</ref> If we compare the 1889 and 1911 Acts, I would argue however, it is clear that this is far from being the case. In the 1889 Act, plans and other details of militarily significant sites, such as fortresses, armouries and dockyards are quite reasonably given protection. A person who enters such a site 'for the purpose of wrongfully obtaining information' or communicates information 'when in the interest of the State, it ought not to be communicated' 91 commits a misdemeanour punishable by up to one year's imprisonment with hard labour. If an official or a member of the public passes such information to a foreign state, they commit a felony attracting a sentence up to penal servitude for life.</p><p>In 1911, key changes are made to this, radically reducing the burden of proof for the prosecution, expanding the range of circumstances in which a person could be charged and stripping basic legal protections from the accused. Where a person is suspected, now, 'it shall not be necessary to show a purpose prejudicial to the safety or interests of the State'. Instead, 'notwithstanding that no such act is proved against him, he may be convicted if, from the circumstances of the case, or his conduct, or his known character as proved, it appears that his purpose was a purpose prejudicial to the safety or interests of the State'. <ref type="bibr" target="#b70">92</ref> This shift speaks directly to calls in Kell's reports for such a change. Given that, as we know, he was fighting a phantom army, Kell's desire to be able to act against people whose conduct or characterrather than any provable offence -suggested collusion with spies might be comprehensible. In terms of civil rights, however, the amended Act had quietly introduced a serious retrenchment.</p><p>The definition of 'prohibited places' to which the 1889 Act applied was also massively expanded, from sensitive military and governmental sites to 'any railway, road, way, or channel, or other means of communication be land or water […] or any place used for gas, water, or electricity works or other works for the purposes of a public character'. <ref type="bibr">93</ref> It is difficult not to see the shadows here of le Queux's army of saboteurs, studying critical infrastructure for attack on the eve of an invasion. Those suspected did not need to be shown to have committed an offence. Rather, if anyone 'reasonably suspected as having committed, or having attempted to commit, or being about to commit, such an offence, may be apprehended and detained in the same manner as a person who is found committing a felony'. <ref type="bibr">94</ref> Private property could be entered, searched and articles seized without a warrant from a justice of the peace, if a police superintendent or 'any police officer of a like or superior rank' judged the situation to be an emergency. Perhaps most crucially, the presumption of innocence was suspended. Under the terms of the new Act it was no longer necessary for the authorities to 'show that the accused person was guilty of any particular act prejudicial to the safety or the interest of the State'. Instead, the accused was deemed to have committed such an offence 'unless the contrary is proved'. <ref type="bibr">95</ref> Soon after he was recommended by Edmonds as head of the domestic branch of the SSB, Kell became involved in the preparation of further emergency powers in anticipation of war. As André Keil says, his stated position in this work was that 'effective counterespionage was only possible when certain civil liberties were suspended, which would otherwise unduly protect spies'. <ref type="bibr" target="#b71">96</ref> As early as 1912 he began presenting outlines for legislation to CID drawing directly from the experience of emergency powers in South Africa. These proposals included 'the blanket introduction of press and postal censorship, a suspension of habeas corpus, the establishment of courts-martial for civilians, and the power of military commanders […] to issue emergency decrees'. <ref type="bibr" target="#b72">97</ref> As Christopher Andrew says in Defence of the Realm, there is no clear evidence that Kell was in direct contact with le Queux, or that the two men had an ongoing relationship as the latter did with Edmonds. Le Queux was certainly not a supporter of all the measures Kell put forward to the Committee of Imperial Defence. In German Spies in England (1915), for example, he decries attempts to 'gag the press'. <ref type="bibr" target="#b73">98</ref> Symptomatically, however, in the same sentence he also calls for an end to 'kid-gloved legislation' in national security. Even though he admits that a direct German assault on Britain is now impossible, the fictive emergency of enemy incursion is maintained. 'Armies of spies have swarmed, and still swarm, over Great Britain, though their presence has been, and is even today, officially denied., 99 he tells the reading public. For Germans living in Britain, even those naturalised or UK born to a German parent, there must be a presumption of guilt. Indeed 'every German resident in this country may be classified as a spy, for he is, at all times, ready to assist in the work of the official secretagents of the Fatherland'. 100 Against aliens, there was only one protection: 'confine them in the concentration camps'. <ref type="bibr">101</ref> Though many of those interned might not be active spies, 'to catch all the guilty we must necessarily […] inflict hardship on some who are innocent'. <ref type="bibr">102</ref> As Home Secretary Reginald McKenna had pointed out, not a single act of sabotage attributable to enemy spies had occurred since the start of the war. For le Queux, however, this was simply because the time was not ripe for enemy action, and thus 'we are compelled to live daily upon the edge of a volcano'. <ref type="bibr">103</ref> For the existence of the Secret Service Bureau, le Queux explicitly takes credit here, attributing its establishment directly to 'the evidence I was able to lay before the government'. <ref type="bibr">104</ref> Praise is showered on the agency's efforts to detect and frustrate the most active German spies in the run-up to war. 'The trouble is', he argues however, 'that the Intelligence officers were not allowed to go far enough'. <ref type="bibr">105</ref> The more sympathetic or wellsettled a foreigner appears to be, the more they should be acted against. Indeed 'the real danger comes from those who, for years, have made their homes among us, who have married Englishwomen, and have become so familiar to their neighbours that they are in little or no danger of being under the slightest suspicion'. <ref type="bibr" target="#b74">106</ref> At a minimum all should be interned, while '"kill that spy" […] should be the rule of every commander in the field'. <ref type="bibr">107</ref> Echoing Edmonds and Kell, he insists finally, 'the interests of the State must at all times over-ride the rights of the individual'. 108</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Conclusion: William le Queux and the assault on rights</head><p>This essay has described a campaign for fundamental changes in Britain's security posture in the years before World War One, running strongly against the instincts of its Liberal establishment. Both Roberts and Edmonds were, as I have shown, advocates for unfettered military action in times of crisis, including the use of exceptional measures that tested the limits of domestic and international law. Le Queux threw his weight behind Roberts' call for Britain to prepare for war and actively fuelled public paranoia with his insistence that Britain was infested with enemy agents. In his work, the complacency of people and government alike is an ongoing and repeated theme. As we have seen, both 'The Invasion of 1910' and 'Spies of the Kaiser' played a material role in the formation and proceedings of the 1909 committee on Foreign Espionage in the United Kingdom. While the former helped to create a political climate in which Secretary of State for War Haldane felt compelled to act, the latter provided much of the evidence on which the committee's report was based. It is clear that le Queux was aware of the committee's work, through Edmonds, and as I have shown, his subsequent writing offers energetic support for the anti-democratic and anti-libertarian developments that followed in its wake.</p><p>Within government, Liberal opposition to most of the measures proposed by Kell was sufficient to prevent their wholesale introduction until the outbreak of war. Within days of the declaration of hostilities, as André Keil suggests however, the entire substance of Kell's proposals was formally adopted by Britain. Both the Defence of the Realm Act and the Aliens Restriction Act, on which Kell had worked with the Home Office, passed rapidly through Parliament without debate, becoming law in August 1914. The latter provided for the search, arrest and internment of aliens without trial, noting that 'whether any person is an alien or not […] the onus of proving that that person is not an alien […] shall lie upon that person'. <ref type="bibr" target="#b75">109</ref> By removing both the presumption of innocence and access to judicial process, the two Acts had the effect of suspending fundamental aspects of common law in Britain. The Defence of the Realm Act also effectively suspended the sovereignty of parliament, because the executive could now issue decrees and regulations having the force of law. Civilians suspected of breaching these could be brought before courts-martial which themselves 'operated outside the legal system and common law'. <ref type="bibr" target="#b76">110</ref> Defence of the Realm Regulation (DDR) 14B allowed arrest and internment without trial for British nationals regarded as a threat to the war effort. As Keil suggests, this amounted to 'the effective suspension of habeas corpus by decree'. <ref type="bibr">111</ref> As Agamben says in State of Exception, the effects of these developments was to have an enduring effect after World War One. MI5 and MI6, though increasingly central to British security policy, continued to operate outside the framework of law for three-quarters of a century. When the war ended in 1918, meanwhile, emergency powers were extended until fresh legislation could be prepared. Under this continuing state of emergency, in January 1919 the Lloyd George government sent tanks to Glasgow to suppress protest after a mass demonstration calling for a 40-hour working week. <ref type="bibr">112</ref> In 1920, the Emergency Powers Act then introduced the principle of a peacetime 'emergency', in which the executive could issue Regulations in circumstances where a wide range of 'essentials' 113 such as food, water fuel or transport were threatened. Circumventing normal judicial process, the Act once again provided for 'courts of summary jurisdiction' 114 for those suspected of breaching them. Explicitly targeted at the power of the trade union movement and an attack on the right to strike, it was used to declare a state of emergency in industrial disputes twelve times over the following half century.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Notes</head></div>		</body>
+		<back>
+
+			<div type="funding">
+<div><head>Funding</head><p>Research for this article was supported by the <rs type="funder">Arts &amp; Humanities Research Council</rs> [grant number <rs type="grantNumber">AH/V001000/1</rs>].</p></div>
+			</div>
+			<listOrg type="funding">
+				<org type="funding" xml:id="_9tFxMxe">
+					<idno type="grant-number">AH/V001000/1</idno>
+				</org>
+			</listOrg>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<analytic>
+		<title level="a" type="main">The Mysterious Mr Le Queux</title>
+		<author>
+			<persName><forename type="first">Roger</forename><forename type="middle">T</forename><surname>Stearn</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Critical Survey</title>
+		<imprint>
+			<biblScope unit="volume">32</biblScope>
+			<biblScope unit="page">52</biblScope>
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<monogr>
+		<title level="m" type="main">The Unauthorized Story of the Daily Mail, the Paper That Divided and Conquered Britain</title>
+		<author>
+			<persName><forename type="first">Adrian</forename><surname>Addison</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Mail</forename><surname>Men</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2017">2017</date>
+			<publisher>Atlantic</publisher>
+			<biblScope unit="page">55</biblScope>
+			<pubPlace>London</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<monogr>
+		<title level="m" type="main">Address to the Nation</title>
+		<author>
+			<persName><forename type="first">Frederick</forename><surname>Roberts</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Lord</forename><surname>Roberts</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2012">2012</date>
+			<publisher>John Murray</publisher>
+			<biblScope unit="page">14</biblScope>
+			<pubPlace>London</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">William</forename><surname>Le</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Queux</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">If Britain Were Invaded</title>
+		<imprint>
+			<biblScope unit="page">19</biblScope>
+			<date type="published" when="1906">2014. 1906</date>
+			<publisher>Bodleian Library</publisher>
+			<pubPlace>Oxford</pubPlace>
+		</imprint>
+	</monogr>
+	<note>p. xiii. Originally published as The Invasion of 1910</note>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<monogr>
+		<author>
+			<persName><forename type="first">Richard</forename><surname>Thurlow</surname></persName>
+		</author>
+		<title level="m">The Secret State: British Internal Security in the Twentieth Century</title>
+		<meeting><address><addrLine>Oxford</addrLine></address></meeting>
+		<imprint>
+			<publisher>Blackwell</publisher>
+			<date type="published" when="1994">1994</date>
+			<biblScope unit="page" from="3" to="4" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title level="a" type="main">TNA FO 1093</title>
+	</analytic>
+	<monogr>
+		<title level="m">General Staff Regarding a Secret Service Bureau</title>
+		<imprint>
+			<date type="published" when="1909">1909</date>
+			<biblScope unit="page" from="1" to="2" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<monogr>
+		<author>
+			<persName><forename type="first">I</forename><forename type="middle">F</forename><surname>Clarke</surname></persName>
+		</author>
+		<title level="m">Voices Prophesying War: Future Wars 1763-3749. 2nd ed</title>
+		<meeting><address><addrLine>Oxford</addrLine></address></meeting>
+		<imprint>
+			<publisher>Oxford University Press</publisher>
+			<date type="published" when="1992">1992</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title level="a" type="main">Empire and Nation in British Future-War and Invasion-Scare Fiction, 1871-1914</title>
+		<author>
+			<persName><forename type="first">Christian</forename><forename type="middle">K</forename><surname>Melby</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">The Historical Journal</title>
+		<imprint>
+			<biblScope unit="volume">63</biblScope>
+			<biblScope unit="page">394</biblScope>
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<monogr>
+		<author>
+			<persName><forename type="first">Erskine</forename><surname>Childers</surname></persName>
+		</author>
+		<title level="m">The Riddle of the Sands</title>
+		<meeting><address><addrLine>London</addrLine></address></meeting>
+		<imprint>
+			<publisher>The Folio Society</publisher>
+			<date type="published" when="1992">1992</date>
+			<biblScope unit="page">19</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<monogr>
+		<author>
+			<persName><forename type="first">Leonard</forename><surname>Piper</surname></persName>
+		</author>
+		<title level="m">Dangerous Waters: The Life and Death of Erskine Childers</title>
+		<meeting><address><addrLine>New York</addrLine></address></meeting>
+		<imprint>
+			<publisher>Hambledon &amp; London</publisher>
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<monogr>
+		<title level="m" type="main">Voices Prophesying War</title>
+		<author>
+			<persName><forename type="first">Clarke</forename></persName>
+		</author>
+		<imprint>
+			<biblScope unit="page">122</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">Daily</forename><surname>Mail</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1909-03-15">15 March 1909</date>
+			<biblScope unit="page">2</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">William</forename><surname>Le</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Queux</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">If Britain Were Invaded, p. xiii. 15. Ibid</title>
+		<imprint>
+			<biblScope unit="page">9</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<title level="a" type="main">Spy Fever in Britain, 1900-1915</title>
+		<author>
+			<persName><forename type="first">David</forename><surname>French</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">The Historical Journal</title>
+		<imprint>
+			<biblScope unit="volume">21</biblScope>
+			<biblScope unit="page">356</biblScope>
+			<date type="published" when="1978">1978</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">William</forename><surname>Le</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Queux</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">If Britain Were Invaded</title>
+		<imprint>
+			<biblScope unit="page">52</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">Daily</forename><surname>Mail</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1909-05-04">4 May 1909</date>
+			<biblScope unit="page">10</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<monogr>
+		<title level="m" type="main">Address to the Nation</title>
+		<author>
+			<persName><forename type="first">Frederick</forename><surname>Roberts</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Lord</forename><surname>Roberts</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="page" from="6" to="7" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">Daily</forename><surname>Mail</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1909-05-05">5 May 1909</date>
+			<biblScope unit="page">10</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">William</forename><surname>Le</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Queux</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">If Britain Were Invaded</title>
+		<imprint>
+			<biblScope unit="page">78</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">Daily</forename><surname>Mail</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1909-05-08">8 May 1909</date>
+			<biblScope unit="page">2</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">William</forename><surname>Le</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Queux</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">If Britain Were Invaded</title>
+		<imprint>
+			<biblScope unit="volume">27</biblScope>
+			<biblScope unit="page">230</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<monogr>
+		<author>
+			<persName><forename type="first">Rodney</forename><surname>Atwood</surname></persName>
+		</author>
+		<title level="m">The Life of Field Marshall Lord Roberts</title>
+		<meeting><address><addrLine>London</addrLine></address></meeting>
+		<imprint>
+			<publisher>Bloomsbury</publisher>
+			<date type="published" when="2015">2015</date>
+			<biblScope unit="page">202</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<analytic>
+		<title level="a" type="main">The British Press and Censorship During the South African War 1899-1902</title>
+		<author>
+			<persName><forename type="first">Jacqueline</forename><surname>Beaumont</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">South African Historical Journal</title>
+		<imprint>
+			<biblScope unit="volume">41</biblScope>
+			<biblScope unit="page">276</biblScope>
+			<date type="published" when="1999">1999</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<monogr>
+		<author>
+			<persName><forename type="first">Henry</forename><surname>Campbell-Bannerman</surname></persName>
+		</author>
+		<title level="m">Speech to the National Reform Union</title>
+		<imprint>
+			<date type="published" when="1901-07-14">July 14, 1901</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<analytic>
+		<title level="a" type="main">Empire and Nation</title>
+		<author>
+			<persName><forename type="first">Christian</forename><forename type="middle">K</forename><surname>Melby</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Portsmouth Mail 22</title>
+		<imprint>
+			<date type="published" when="1895-06">June 1895</date>
+			<biblScope unit="volume">3</biblScope>
+			<biblScope unit="page">393</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">Dennis</forename><surname>Griffiths</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Fleet</forename><surname>Street</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2006">2006</date>
+			<publisher>British Library</publisher>
+			<biblScope unit="page" from="132" to="133" />
+			<pubPlace>London</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<monogr>
+		<author>
+			<persName><forename type="first">Christopher</forename><surname>Andrew</surname></persName>
+		</author>
+		<title level="m">The Defence of the Realm: The Authorized History of MI5</title>
+		<meeting><address><addrLine>London</addrLine></address></meeting>
+		<imprint>
+			<publisher>Penguin</publisher>
+			<date type="published" when="2010">2010</date>
+			<biblScope unit="page">9</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b27">
+	<analytic>
+		<title level="a" type="main">The International Circulation and Impact of Invasion Fiction: Case Study of William Le Queux&apos;s the Invasion of 1910 -&quot;Not an Ordinary &apos;Pot-Boiler</title>
+		<author>
+			<persName><forename type="first">See</forename><surname>Ailise</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Bulfin</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Critical Survey</title>
+		<imprint>
+			<biblScope unit="volume">32</biblScope>
+			<biblScope unit="page">166</biblScope>
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b28">
+	<monogr>
+		<title level="m" type="main">Address to the Nation</title>
+		<author>
+			<persName><forename type="first">Frederick</forename><surname>Roberts</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Lord</forename><surname>Roberts</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="page" from="12" to="36" />
+		</imprint>
+	</monogr>
+	<note>Ibid</note>
+</biblStruct>
+
+<biblStruct xml:id="b29">
+	<analytic>
+		<title level="a" type="main">A Very British Dictatorship: The Defence of the Realm Act in Britain, 1914-1920</title>
+	</analytic>
+	<monogr>
+		<title level="j">First World War Studies</title>
+		<imprint>
+			<biblScope unit="volume">14</biblScope>
+			<biblScope unit="page">54</biblScope>
+			<date type="published" when="2023">2023</date>
+		</imprint>
+	</monogr>
+	<note>Riot Act 1714, 1 Geo. 1, St 2, C. 5., quoted by André Keil</note>
+</biblStruct>
+
+<biblStruct xml:id="b30">
+	<monogr>
+		<author>
+			<persName><forename type="first">Giorgio</forename><surname>Agamben</surname></persName>
+		</author>
+		<title level="m">quoting Clinton Rossiter, Constitutional Dictatorship: Crisis Government in the Modern Democracies</title>
+		<meeting><address><addrLine>Chicago; New York</addrLine></address></meeting>
+		<imprint>
+			<publisher>Harcourt Brace</publisher>
+			<date type="published" when="1948">2005. 1948</date>
+			<biblScope unit="page">142</biblScope>
+		</imprint>
+	</monogr>
+	<note>State of Exception</note>
+</biblStruct>
+
+<biblStruct xml:id="b31">
+	<monogr>
+		<title level="m" type="main">State of Exception</title>
+		<author>
+			<persName><forename type="first">Giorgio</forename><surname>Agamben</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="page" from="18" to="19" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b32">
+	<analytic>
+		<title level="a" type="main">Emergency, Exception, and the Colonial Rule of Law: The Case of British India</title>
+		<author>
+			<persName><forename type="first">Mark</forename><surname>Condos</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">First World War Studies</title>
+		<imprint>
+			<biblScope unit="volume">14</biblScope>
+			<biblScope unit="page">35</biblScope>
+			<date type="published" when="2023">2023</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b33">
+	<monogr>
+		<author>
+			<persName><forename type="first">Joseph</forename><surname>Minnattur</surname></persName>
+		</author>
+		<title level="m">Martial Law in India, Pakistan and Ceylon</title>
+		<meeting><address><addrLine>The Hague</addrLine></address></meeting>
+		<imprint>
+			<publisher>Nijhoff</publisher>
+			<date type="published" when="1962">1962</date>
+			<biblScope unit="page" from="15" to="16" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b34">
+	<analytic>
+		<title level="a" type="main">Bengal Regulation 10 of 1804 and Martial Law in British Colonial India</title>
+		<author>
+			<persName><forename type="first">Troy</forename><surname>Downs</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Law and History Review</title>
+		<imprint>
+			<biblScope unit="volume">40</biblScope>
+			<biblScope unit="page">19</biblScope>
+			<date type="published" when="2022">2022</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b35">
+	<monogr>
+		<author>
+			<persName><forename type="first">Frederick</forename><surname>Roberts</surname></persName>
+		</author>
+		<title level="m">Letters Written During the Indian Mutiny</title>
+		<meeting><address><addrLine>New Delhi</addrLine></address></meeting>
+		<imprint>
+			<publisher>Lal</publisher>
+			<date type="published" when="1924">1924</date>
+			<biblScope unit="page">12</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b36">
+	<monogr>
+		<title level="m" type="main">Barbed-Wire Imperialism: Britain&apos;s Empire of Camps</title>
+		<author>
+			<persName><forename type="first">Aidan</forename><surname>Forth</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2017">2017</date>
+			<publisher>University of California Press</publisher>
+			<biblScope unit="page">85</biblScope>
+			<pubPlace>Oakland, CA</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b37">
+	<monogr>
+		<author>
+			<persName><forename type="first">Kenneth</forename><surname>Loparo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Restorative</forename><surname>Justice</surname></persName>
+		</author>
+		<title level="m">Humanitarian Rhetorics, and Public Memories of Colonial Camp Cultures</title>
+		<meeting><address><addrLine>London</addrLine></address></meeting>
+		<imprint>
+			<publisher>Palgrave Macmillan</publisher>
+			<date type="published" when="2014">2014</date>
+			<biblScope unit="volume">48</biblScope>
+			<biblScope unit="page">64</biblScope>
+		</imprint>
+	</monogr>
+	<note>Ibid</note>
+</biblStruct>
+
+<biblStruct xml:id="b38">
+	<monogr>
+		<author>
+			<persName><forename type="first">Giorgio</forename><surname>Agamben</surname></persName>
+		</author>
+		<title level="m">Means without End: Notes on Politics, trans. Vincenzo Binetti and Cesare Casarino</title>
+		<meeting><address><addrLine>Minneapolis</addrLine></address></meeting>
+		<imprint>
+			<publisher>University of Minnesota Press</publisher>
+			<date type="published" when="2000">2000</date>
+			<biblScope unit="page">39</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b39">
+	<monogr>
+		<title level="m" type="main">How Different Then</title>
+		<author>
+			<persName><forename type="first">James</forename><surname>Edmonds</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="page">30</biblScope>
+		</imprint>
+	</monogr>
+	<note>Unpublished Manuscript, Liddell Hart Military Archies Edmonds III/3/1</note>
+</biblStruct>
+
+<biblStruct xml:id="b40">
+	<monogr>
+		<title level="m" type="main">Liddell Hart Military Archives Edmonds IV/6/1</title>
+		<author>
+			<persName><forename type="first">James</forename><surname>Edmonds</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1909-02">February 1909</date>
+			<biblScope unit="page">5</biblScope>
+		</imprint>
+	</monogr>
+	<note>Lecture to The General Staff</note>
+</biblStruct>
+
+<biblStruct xml:id="b41">
+	<monogr>
+		<author>
+			<persName><forename type="first">Giorgio</forename><surname>Agamben</surname></persName>
+		</author>
+		<title level="m">Means without Ends</title>
+		<imprint>
+			<biblScope unit="page">42</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b42">
+	<monogr>
+		<title level="m" type="main">Lecture to The General Staff</title>
+		<author>
+			<persName><forename type="first">James</forename><surname>Edmonds</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1909-02">February 1909</date>
+			<biblScope unit="volume">54</biblScope>
+			<biblScope unit="page">11</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b43">
+	<monogr>
+		<title level="m" type="main">An Exposition of the Laws and Usages of War on Land, for the Guidance of Officers of His Majesty&apos;s Army</title>
+		<author>
+			<persName><forename type="first">James</forename><surname>Edmonds</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Lassa</forename><surname>Oppenheim</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Land</forename><surname>Warfare</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1912">1912</date>
+			<publisher>HMSO</publisher>
+			<pubPlace>London</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b44">
+	<monogr>
+		<title level="m" type="main">Duties in Aid of Civil Power: Notes for Officers Commanding Troops in Strike Areas</title>
+		<author>
+			<persName><forename type="first">James</forename><surname>Edmonds</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1911">1911</date>
+		</imprint>
+	</monogr>
+	<note>Liddell Hart Military Archives Edmonds VII/5</note>
+</biblStruct>
+
+<biblStruct xml:id="b45">
+	<monogr>
+		<title level="m" type="main">Lessons Learnt During the Belfast Riots</title>
+		<author>
+			<persName><forename type="first">James</forename><surname>Edmonds</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1912">1912</date>
+		</imprint>
+	</monogr>
+	<note>Ibid</note>
+</biblStruct>
+
+<biblStruct xml:id="b46">
+	<monogr>
+		<title level="m" type="main">Strike Duty</title>
+		<author>
+			<persName><forename type="first">James</forename><surname>Edmonds</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1911">1911</date>
+		</imprint>
+	</monogr>
+	<note>Ibid</note>
+</biblStruct>
+
+<biblStruct xml:id="b47">
+	<analytic>
+		<title level="a" type="main">In the context of German colonialism and its shaping influence on the Nazi elite, see also Hannah Arendt</title>
+		<author>
+			<persName><forename type="first">Aimé</forename><surname>Césaire</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Trans</forename><forename type="middle">Joan</forename><surname>Discourse On Colonialism</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Pinkman</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">The Origins of Totalitarianism</title>
+		<meeting><address><addrLine>New York; San Diego</addrLine></address></meeting>
+		<imprint>
+			<publisher>Harcourt Brace</publisher>
+			<date type="published" when="1972">1972. 1979</date>
+			<biblScope unit="page">206</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b48">
+	<monogr>
+		<title level="m" type="main">Society Must be Defended: Lectures at the Collège de France</title>
+		<author>
+			<persName><forename type="first">Michel</forename><surname>Foucault</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2003">2003</date>
+			<publisher>Picador</publisher>
+			<biblScope unit="page">103</biblScope>
+			<pubPlace>New York</pubPlace>
+		</imprint>
+	</monogr>
+	<note>trans. David Macey</note>
+</biblStruct>
+
+<biblStruct xml:id="b49">
+	<monogr>
+		<title level="m" type="main">Questions in the House</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">J</forename><surname>Statement Of Mr</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Balfour</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1905-03-07">7 March 1905</date>
+			<biblScope unit="page">595</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b50">
+	<monogr>
+		<author>
+			<persName><forename type="first">Rodney</forename><surname>Atwood</surname></persName>
+		</author>
+		<title level="m">The Life of Field Marshall Lord Roberts</title>
+		<meeting><address><addrLine>London</addrLine></address></meeting>
+		<imprint>
+			<publisher>Bloomsbury</publisher>
+			<date type="published" when="2015">2015</date>
+			<biblScope unit="page">245</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b51">
+	<monogr>
+		<author>
+			<persName><forename type="first">Andrew</forename><surname>Christopher</surname></persName>
+		</author>
+		<title level="m">Her Majesty&apos;s Secret Service: The Making of the British Intelligence Community</title>
+		<meeting><address><addrLine>New York; Viking</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="1986">1986</date>
+			<biblScope unit="page">49</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b52">
+	<monogr>
+		<author>
+			<persName><forename type="first">William</forename><surname>Le</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Queux</forename></persName>
+		</author>
+		<title level="m">Spies of the Kaiser</title>
+		<meeting><address><addrLine>London</addrLine></address></meeting>
+		<imprint>
+			<publisher>Frank Cass</publisher>
+			<date type="published" when="1996">1996</date>
+			<biblScope unit="page">p. xxxiii</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b53">
+	<monogr>
+		<title level="m" type="main">Spies of the Kaiser: German Covert Operations in Great Britain During the First World War Era</title>
+		<author>
+			<persName><forename type="first">Thomas</forename><surname>Boghardt</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2004">2004</date>
+			<publisher>Palgrave Macmillan</publisher>
+			<biblScope unit="page">45</biblScope>
+			<pubPlace>Basingstoke</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b54">
+	<monogr>
+		<idno>TNA CAB 16/8</idno>
+		<title level="m">Report and Proceedings of a Sub-Committee of the Committee of Imperial Defence Appointed to Consider the Question of Foreign Espionage in the United Kingdom</title>
+		<imprint>
+			<date type="published" when="1909">1909</date>
+			<biblScope unit="page">2</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b55">
+	<monogr>
+		<title/>
+		<author>
+			<persName><surname>Ibid</surname></persName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b56">
+	<analytic>
+		<title level="a" type="main">The Failure of British Counter-Espionage against Germany, 1907-1914</title>
+		<author>
+			<persName><forename type="first">Weekly</forename><surname>News</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">;</forename><surname>Nicholas</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Hiley</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">The Historical Journal</title>
+		<imprint>
+			<biblScope unit="volume">28</biblScope>
+			<biblScope unit="issue">6</biblScope>
+			<biblScope unit="page">844</biblScope>
+			<date type="published" when="1909-02-27">27 Feb 1909. 1985</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b57">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">William</forename><surname>Le</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Queux</forename></persName>
+		</author>
+		<imprint>
+			<publisher>Spies of the Kaiser</publisher>
+			<biblScope unit="page">p. xxxiv</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b58">
+	<analytic>
+		<title level="a" type="main">House of Commons Debates, 4th series, CXCII</title>
+		<author>
+			<persName><surname>Hansard</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">The Failure of British Counter-Espionage</title>
+		<imprint>
+			<biblScope unit="volume">393</biblScope>
+			<biblScope unit="page">844</biblScope>
+			<date type="published" when="1908-07-13">13 July 1908</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b59">
+	<monogr>
+		<author>
+			<persName><forename type="first">Frederick</forename><surname>Maurice</surname></persName>
+		</author>
+		<title level="m">Haldane 1856-1915</title>
+		<meeting><address><addrLine>London: Faber</addrLine></address></meeting>
+		<imprint>
+			<publisher>Reference provided by Hiley</publisher>
+			<date type="published" when="1937">1937</date>
+			<biblScope unit="page">256</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b60">
+	<monogr>
+		<title level="m" type="main">How Different Then</title>
+		<author>
+			<persName><forename type="first">James</forename><surname>Edmonds</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="page">320</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b61">
+	<analytic>
+		<title level="a" type="main">Report on the Work Done by the SS Bureau During the First Six Months of its Existence</title>
+		<author>
+			<persName><forename type="first">Vernon</forename><surname>Kell</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">TNA</title>
+		<imprint>
+			<biblScope unit="issue">1/9</biblScope>
+			<biblScope unit="page">5</biblScope>
+			<date type="published" when="1911">1911</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b62">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">Vernon</forename><surname>Kell</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Diary</forename></persName>
+		</author>
+		<idno>TNA KV 1/10</idno>
+		<imprint>
+			<date type="published" when="1910-06-01">1 June 1910-21 November 1911</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b63">
+	<monogr>
+		<author>
+			<persName><forename type="first">Thomas</forename><surname>Boghardt</surname></persName>
+		</author>
+		<title level="m">Spies of the Kaiser</title>
+		<imprint>
+			<biblScope unit="page">72</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b64">
+	<monogr>
+		<idno>KV4/183</idno>
+		<title level="m">11th Report on Intelligence Police (Counter-Espionage Bureau)</title>
+		<imprint>
+			<biblScope unit="page">1</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b65">
+	<monogr>
+		<title/>
+		<author>
+			<persName><surname>Ibid</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="page" from="2" to="3" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b66">
+	<monogr>
+		<title level="m" type="main">State of Exception</title>
+		<author>
+			<persName><surname>Agamben</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="page">23</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b67">
+	<analytic>
+		<title level="a" type="main">Report and Proceedings of a Sub-Committee […] Foreign Espionage</title>
+	</analytic>
+	<monogr>
+		<title level="j">TNA CAB</title>
+		<imprint>
+			<biblScope unit="volume">16</biblScope>
+			<biblScope unit="issue">8</biblScope>
+			<biblScope unit="page">4</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b68">
+	<monogr>
+		<author>
+			<persName><forename type="first">David</forename><surname>Hooper</surname></persName>
+		</author>
+		<title level="m">Official Secrets: The Use and Abuse of the Act</title>
+		<meeting><address><addrLine>London; Coronet</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="1988">1988</date>
+			<biblScope unit="page">40</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b69">
+	<analytic>
+		<title/>
+	</analytic>
+	<monogr>
+		<title level="j">Official Secrets Act</title>
+		<imprint>
+			<biblScope unit="volume">52</biblScope>
+			<biblScope unit="page">269</biblScope>
+			<date type="published" when="1889">1889</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b70">
+	<analytic>
+		<title/>
+	</analytic>
+	<monogr>
+		<title level="j">Official Secrets Act</title>
+		<imprint>
+			<biblScope unit="volume">28</biblScope>
+			<biblScope unit="page">1</biblScope>
+			<date type="published" when="1911">1911</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b71">
+	<monogr>
+		<title level="m" type="main">A Very British Dictatorship</title>
+		<author>
+			<persName><forename type="first">André</forename><surname>Keil</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="page">55</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b72">
+	<monogr>
+		<title level="m" type="main">referencing &apos;Martial Law and Emergency Powers</title>
+		<author>
+			<persName><surname>Ibid</surname></persName>
+		</author>
+		<idno>TNA CAB 11/142</idno>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b73">
+	<monogr>
+		<author>
+			<persName><forename type="first">William</forename><surname>Le</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Queux</forename></persName>
+		</author>
+		<title level="m">German Spies in England: An Exposure</title>
+		<meeting><address><addrLine>Toronto: Thomas Langton</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="1915">1915</date>
+			<biblScope unit="page">92</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b74">
+	<monogr>
+		<title/>
+		<author>
+			<persName><surname>Ibid</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="page" from="172" to="173" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b75">
+	<analytic>
+		<title/>
+	</analytic>
+	<monogr>
+		<title level="j">Aliens Restriction Act</title>
+		<imprint>
+			<biblScope unit="volume">4</biblScope>
+			<biblScope unit="page">2</biblScope>
+			<date type="published" when="1914">1914</date>
+		</imprint>
+	</monogr>
+	<note>Ch</note>
+</biblStruct>
+
+<biblStruct xml:id="b76">
+	<monogr>
+		<title level="m" type="main">A Very British Dictatorship</title>
+		<author>
+			<persName><forename type="first">André</forename><surname>Keil</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="page">52</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b77">
+	<analytic>
+		<title/>
+	</analytic>
+	<monogr>
+		<title level="j">Emergency Powers Act</title>
+		<imprint>
+			<biblScope unit="volume">10</biblScope>
+			<biblScope unit="issue">11</biblScope>
+			<date type="published" when="1920">1920</date>
+		</imprint>
+	</monogr>
+	<note>Ch 55. 114. Ibid. Disclosure statement No potential conflict of interest was reported by the author(s)</note>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

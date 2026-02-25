@@ -1,0 +1,1055 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">&quot;Let us tend this garden together&quot;: Postcolonial time travel in Ng Yi-Sheng&apos;s &quot;Garden&quot;</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author role="corresp">
+							<persName><forename type="first">Zhui</forename><surname>Ning</surname></persName>
+							<email>zchang01@student.bbk.ac.uk</email>
+							<affiliation key="aff0">
+								<orgName type="department">English and Humanities</orgName>
+								<orgName type="institution">University of London</orgName>
+								<address>
+									<settlement>Birkbeck, London</settlement>
+									<country key="GB">UK</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff1">
+								<orgName type="department">English and Humanities</orgName>
+								<orgName type="institution">University of London</orgName>
+								<address>
+									<postBox>PO Box 6945</postBox>
+									<postCode>80064, W1A 6US</postCode>
+									<settlement>Birkbeck, Unit, London</settlement>
+									<country key="GB">UK</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">&quot;Let us tend this garden together&quot;: Postcolonial time travel in Ng Yi-Sheng&apos;s &quot;Garden&quot;</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date/>
+						</imprint>
+					</monogr>
+					<idno type="MD5">73A585FF158E8B2E6DC62CE98150C62B</idno>
+					<idno type="DOI">10.1080/17449855.2025.2607580</idno>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.0" ident="GROBID" when="2026-02-25T19:51+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term>Singapore</term>
+					<term>Ng Yi-Sheng</term>
+					<term>spicepunk</term>
+					<term>time travel</term>
+					<term>speculative fiction</term>
+					<term>slipstream CONTACT Zhui Ning Chang</term>
+				</keywords>
+			</textClass>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>This article argues that Singapore speculative fiction seeks to challenge hegemonic national mythos and imagines alternative approaches to Singapore's historiography, by examining Ng Yi-Sheng's (2018) time-travel short story "Garden" via a postcolonial speculative framework. Firstly, the article demonstrates how the narrative's branching structure disrupts linear time and destabilizes the conventional idea of teleological civilizational progress in Singapore's national narrative. It then investigates the ideological estrangement of founding fathers Stamford Raffles and Lee Kuan Yew in the narrative to critique the state's (neo)colonial paternalism, while highlighting the subaltern in Singapore history through queer female companionship and regional networks of exchange and solidarity. Lastly, the article explores how "Garden" integrates speculative futures as part of its future history, suggesting processes of myth-making and myth-breaking that are collaborative, cyclical, and constantly reinvented to challenge colonialist paradigms of time and historiography.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Introduction: Postcolonial responses to the Singapore story</head><p>Singapore's trajectory from an apparently precolonial backwater to postcolonial economic success is well known: following British colonialism in 1819 and Japanese occupation during World War II, the city state achieved independence in 1965 and developed rapidly to become one of the world's richest countries. This metanarrative appears to conform to a dominant mode of linear temporal progress, itself an extension of the teleological model of history established under British colonial administration, and later appropriated by the ruling People's Action Party (PAP) government. This article argues, through an examination of Ng Yi-Sheng's (2018) time-travel short story "Garden", that speculative fiction can challenge the mythos of linear national progress manufactured and reinforced by the state, and imagine alternative approaches to Singapore's national narratives.</p><p>The dominant view of time and history, as shaped by European colonialism, is dependent on the understanding of time as linear, and of civilizational development as a unidirectional forward-march towards progress <ref type="bibr">(West-Pavlov 2012, 159)</ref>. Walter <ref type="bibr" target="#b8">Benjamin (1999)</ref> calls this spatialized and standardized temporal conception "homogenous, empty time" (252), a notion later adopted by Benedict <ref type="bibr" target="#b4">Anderson (1983)</ref> to demonstrate the relationship between print capitalism and the imagined community of the nation through a socially constructed simultaneity of time and experience. In his later work, Benedict <ref type="bibr">Anderson (2001, 42)</ref> claims that globalization and new information technologies have to some extent undermined the nation's homogenous temporality, but global capitalist expansion means that the hegemonic model of time continues to adhere to western temporal assumptions. In critiquing Eurocentric conceptions of history, Dipesh <ref type="bibr" target="#b10">Chakrabarty ([2000</ref><ref type="bibr" target="#b10">Chakrabarty ([ ] 2008) )</ref> argues that a postcolonial view of global modernity must account for "a plurality of times existing together" (109) in which multiple iterations of the past, present, and future are imbricated. Pheng <ref type="bibr" target="#b12">Cheah (2016)</ref> follows with the claim that the heterogenous temporalities of non-western societies are not to be interpreted as unmaking the consequences of western colonialism or as romanticizing precapitalist pasts, but rather as opportunities to re-examine time as a site of narrative production and how this may be embedded in social discourse <ref type="bibr">(12)</ref>.</p><p>Addressing the role of literature, Cheah advocates for its world-making power, extending beyond the spatial "globe" as thought of in the regionalization of world (and often of postcolonial) literature and instead situating literary acts within temporal processes of "worlding" where they are not only responsive to society but are themselves a transformative force <ref type="bibr">(2016,</ref><ref type="bibr" target="#b1">2)</ref>. Complementing Cheah's theorization of literary worldmaking is the rise of postcolonial speculative fiction and its scholarship, which in the last two decades has been "increasingly exploiting the critical and utopian resources of the genre" to "re-imagine and redefine their place in an uncertain present" <ref type="bibr">(Smith 2012, 5)</ref>. Speculative fiction, an umbrella category that encapsulates all narrative media informed by a "non-mimetic impulse", overwrites long-standing battle lines between the fantasy and science fiction taxonomy rooted in western scholarship <ref type="bibr">(Oziewicz 2017, 2)</ref>. This fuzzy set of texts, with its open-ended boundaries, serves as social commentary on the present as well as an imaginative project to rehearse the future, spearheaded by those on the literary margins as part of an emergent global phenomenon (18).</p><p>However, scholarship on Southeast Asian speculative fiction is still limited, especially when measured against the greater critical attention paid to South and East Asian speculative fiction. 1 While no consensus term exists to encapsulate Southeast Asian speculative fiction, Weihsin <ref type="bibr" target="#b18">Gui (2025)</ref> has proposed the existing speculative fiction term "slipstream" to characterize the fluidity of regional identities and their resistance to the speculative fiction mainstream and literary establishment (7). Additionally, Ng himself coined the alternative label "spicepunk" for decolonial speculative fiction that draws on Southeast Asian cultures and heritages, suggesting "a work may be very spicepunk, or a little bit spicepunk, rather than simply in or out of the category" (2022, n.p.) and encouraging its use as an adjective in the spirit of Gui's slipstream. Ng's term is not the first or last attempt at labelling Southeast Asian speculative fiction, 2 but it still remains a productive frame with which to read temporality in "Garden".</p><p>Singapore is notable among postcolonial societies for its "valorisation of the imperial past" <ref type="bibr">(Wee 1993, 720)</ref> and its apparent disinterest in challenging western knowledge formations and power structures. The state's selective narrativizing of history is perhaps best embodied in then-Deputy Prime Minister Sinnathamby <ref type="bibr" target="#b43">Rajaratnam's (2006)</ref> infamous claim, at a 1984 seminar on adapting traditions into a modern national framework, that everything "before [British colonialism in] 1819 -if anything worthwhile happened at all -has been irretrievably lost in the mists of time" (251). Rajaratnam insists that the state's decision to enshrine the British colonial governor, Stamford Raffles, as the founder of modern Singapore is simply "the proper use of history", and further engagement with Singapore's precolonial past and its peoples' tangled genealogies would stoke racial tensions and incur a "bloody" reckoning (255). Despite varied scholarship and political commentary contesting the notion of a singular Singapore story, this national myth continues to dominate public imagination <ref type="bibr" target="#b24">(Holden 2019)</ref>. The linear narrative of civilizational progress that arises from Rajaratnam's statement is an important instrument in sustaining the legitimacy and hegemony of the PAP government <ref type="bibr">(Loh 1998, 1-2)</ref>, which has ruled Singapore since independence, reinforcing a broadly positive narrative of British colonialism and emphasizing areas such as the national struggle for survival, a need for so-called communitarian Asian values <ref type="bibr">(Wee 2007, 11)</ref>, and continuing prosperity credited to a pragmatic central leadership.</p><p>The fierce debates surrounding the Singapore national narrative reached a critical threshold during the 2019 Bicentennial, a government-led series of educational, artistic, and socially-oriented activities to mark the anniversary of 200 years since <ref type="bibr">Raffles's arrival (SG Bicentennial n.d.)</ref>. This initiative foregrounded the British arrival in its narrative of Singapore history, and was launched a mere four years after Singapore celebrated 50 years of independence in 2015. Various artists, researchers, and public figures in Singapore critiqued the anniversary; for example, performance artist ila's (2019) video installation bekas reflects on the flattening of Malay ethnic identities under British colonial racialization, Alfian Sa'at and Neo Hai Bin's magisterial play Merdeka / 獨立 / (Wild Rice 2019) uses the framing device of a group called "Raffles Must Fall" to explore the dominating regard for colonial history in contrast to the histories of underrepresented anti-colonialist movements buried in the archives, and the Journal of Southeast Asian Studies published a special issue <ref type="bibr">(Kwa 2019</ref>) on the imperial iconography and marginalized histories of Singapore. These works sought to problematize the prominent role of British colonialism in Singapore's national history and offer alternative focal points to challenge and diversify the state narrative. Ng's short story "Garden", although published a year prior to the Bicentennial, can be usefully situated within this larger revisionist movement in Singapore historiography. This article investigates the ways in which the state narrative of teleological progress is disrupted through the story's branching and repetition, arguing that the hegemonic narrative is then remapped onto new constellations of possibility drawn from subaltern aspects of Singapore's histories and linkages with maritime Southeast Asia and global colonial history.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Disruption of linear time</head><p>The branching narrative structure in "Garden" is a key device in disrupting linear time. The format was popularized in gamebooks in the 1970s and 1980s as part of the analogue interactive fiction boom. In gamebooks, the story is divided into narrative units that contain the text, known as sections, which are then connected via links or nodes, giving instructions or choices that allow readers to experience different narrative paths and multiple endings <ref type="bibr" target="#b7">(Arnaudo 2023)</ref>. The gamebook's most iconic works include the Choose Your Own Adventure series <ref type="bibr">(1979-1998, original</ref>   <ref type="bibr" target="#b53">Zork (1977)</ref>. "Garden" deploys this choicebased structure to disrupt the teleological narrative of the nation state, and cannily pairs it with a subaltern voice as the main character -departing from the conventional second-person perspective of the gamebook -to reorient the reader towards a non-linear model of history rooted in heterogenous temporalities.</p><p>"Garden" follows a 14th-century Malay king's concubine called Dang Anom, who flees an unjust death sentence in 1398 by travelling through time, visiting various moments in Singapore's past and future. The narrative includes 21 scenes spanning the years 1299 to 2400, and each ends with one or two instructional links to guide the reader's route through the story and decide Anom's eventual fate. Although each action that propels Anom through time appears arbitrary, such as stepping forward with her left or right foot, it has a direct impact on her destination and likelihood of survival, and therefore on the reader's ability to keep Anom alive and complete the narrative.</p><p>As Sang-Keun <ref type="bibr">Yoo (2023, 44)</ref> observes, temporal mobility has been a prevailing speculative fiction concern since the founding of the genre, wherein the publication of Mary <ref type="bibr" target="#b46">Shelley's ([1818]</ref> 2012) Frankenstein signalled a transition in the European novel from spatial exploration in the then-dominant travel narrative to temporal interventions using futuristic technology <ref type="bibr">(Yoo 2023, 44)</ref>. More recently, postcolonial speculative fiction narratives have also engaged with heterogenous temporalities. Representative examples include Native American slipstream works which "view time as pasts, presents, and futures that flow together like currents in a navigable stream" <ref type="bibr">(Dillon 2012, 3-4)</ref>; Canadian Jamaican author Nalo <ref type="bibr" target="#b26">Hopkinson's (2003)</ref> The Salt Roads, using Afro Caribbean mythologies and vernacular writing to explore the lives of African women across time; and Black American author Octavia Butler's (1979) Kindred, which utilizes time travel to explore the ruptures between a precolonial past, the violence of settlercolonialism, and a post-apocalyptic future. In "Garden", the branching narrative structure allows the story to depart from Benedict Anderson's national time and the PAP's narrative of national development, leveraging the speculative impulse and the reader's agency over the narrative chronology to formulate plural, fragmentary temporalities.</p><p>Instead of the dominant mode where various events are arranged in linear consequential order as part of a historical metanarrative, the chronotope of Anom's chaotic time travel folds and fragments temporal schema so that multiple iterations of Singapore are overlaid on one another. "Garden" is influenced by the postmodernist approach to temporality, where narratives resist the classical storytelling structure framed by a beginning, middle, and end, and instead arrange the events of the narrative to make visible multiple temporal strands <ref type="bibr">(West-Pavlov 2012, 90)</ref>. In narratological terms, the focus of such texts is not on a linear story designed for the reader's passive absorption because, as N. Katherine <ref type="bibr" target="#b21">Hayles and Nick Monfort (2012)</ref> put it, "the text requires the user to make choices, and [ . . . ] these choices affect how the narrative proceeds in a literal (not merely interpretive) sense" (452), providing a discursive catalyst for narrative worldmaking.</p><p>This strategy of branching fiction places the construction and constructed-ness of history as the narrative's thematic and textual foci. In "Garden", the established temporal order is repeatedly interrupted to create unexpected, reader-led encounters, centring an elastic temporal experience that contrasts the rigid fiction of inevitability in teleological time. A reader's appreciation of this fragmentary narrative style, as Russell West-Pavlov observes, is partially predicated on their implicit knowledge of a "real" chronology <ref type="bibr">(2012,</ref><ref type="bibr">146)</ref>; in "Garden", the reader's familiarity with the hegemonic state narrative is precisely what creates the sense of surprise, delight, and irony in a non-linear narrative, allowing them to engage in a process of "ontological disruption and decentring" of history <ref type="bibr">(Hills 2009, 435)</ref>.</p><p>When tracing the text's narrative branches, as set out in Figure <ref type="figure" target="#fig_0">1</ref>, readers will notice there are six potential endings, where the section has no instructional links for moving through the narrative and instead denotes "The End". Five of the six endings occur due to Anom's death, every instance of which comes at the hands of state violence: in 1613, killed while resisting Portuguese colonization; in 1970, found dead due to disease and sexual violence during the Japanese Occupation; in 2019, shot down by guards on orders from Singapore president Halimah Yacob; and finally, on the last page, in 1398, staked to death by the king of her original time. Each time, her death is sudden and violent: her body "shattered" <ref type="bibr">(Ng 2018, 178)</ref> after gunfire, a bullet "clean between her eyes" (195), and a stake "driven straight through the heart and spine" (207). She is not allowed to defend herself and is silenced almost immediately, a reflection of the systemic violence against women and racialized minorities which suppresses dissenting voices to perpetuate a singular hegemonic narrative.</p><p>At the same time, within the branching structure of "Garden", no death is final. Anom may come back to life each time the reader takes another path. Death is no longer the endpoint of the linear narrative, but instead a generative moment, allowing Anom to begin anew on a different, perhaps kinder, route, until the reader finds the one path where Anom survives until the end. Although Anom's death in the section "1398, Again" on the final page is fixed, there is in fact no branching link that leads her back to her own time of 1398 ever again. From a teleological viewpoint, this constitutes a failure in Anom's ability to survive in her original timeline and in the reader's quest to allow Anom to escape death. However, after the possibility of Anom returning home is removed, she is no longer tethered to her original ending and can instead move fluidly between time periods, rewriting paths of possibility in Singapore's history.</p><p>The branching narrative structure creates a disruptive reading experience that requires the reader to keep retracing Anom's path and find a version of the story where she might live. West-Pavlov argues that all narrative textual experience is already constructed from multiple temporal strands, from the in-text mechanisms that shape temporal worldbuilding such as flashbacks, in media res, and point of view through to the "real-life" temporality of reading, whereby readers may choose to skip ahead to find out the end, pause for an undetermined hiatus before resuming, and so on <ref type="bibr">(2012,</ref><ref type="bibr">91)</ref>. As shown in Figure <ref type="figure" target="#fig_0">1</ref>, an unfavourable reader's decision will lead to Anom's death and the end of that narrative path. A more favourable decision may allow Anom to survive and move through multiple years, opening up more moments in history for the reader's pleasure and leading to an eventual ending where Anom lives. Moreover, this repetition of death and rebirth is a well-established factor in gamebooks and video games, known as respawning, and is not a failure of the narrative but rather central to the reader/player experience <ref type="bibr">(Melcer and Cuerdo 2020, 265)</ref>. Although a reader may disregard the instructional links and read in linear order, this reconfiguration of death and failure is a key pleasure for those familiar with gamebooks and their highly replayable structure. The branching narrative structure facilitates a dialectical interaction between text and reader to constantly produce new narratives through repetition and failure, challenging the reader to confront the multiple narratives and temporalities of Singapore that they experience.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Critique of founding narratives</head><p>In the historical consciousness of Singapore, Stamford Raffles has long been celebrated as a hero and visionary, who recognized the strategic location of the island as a British trading port and through his "unwearied zeal" and "comprehensive views" transformed it from "a haunt of pirates into the abode of enterprise, security, and opulence" <ref type="bibr" target="#b42">(Raffles [1835</ref><ref type="bibr">(Raffles [ ] 1991, 545), 545)</ref>. British colonial systems such as the Westminster parliamentary model persist in modern Singapore, and the myth of Raffles continues to permeate the everyday lives of regular Singaporeans. He is an essential part of the state narrative that centres the British arrival to Singapore as the nation's turning point towards modernity; his statue stands at Boat Quay in Singapore's central financial district, and various elite institutions bear his name, including Raffles Hotel, Raffles Hospital, and Raffles Institute, constant reminders linking Singapore's colonial past to its postcolonial present.</p><p>Recent studies such as Tim <ref type="bibr" target="#b20">Hannigan's (2012)</ref> anti-Raffles tract, Raffles and the British Invasion of Java, cast the governor in a poorer light, showing how he crushed dissent, looted palaces, and incited massacres to further the British empire's ambitions. Historian Ernest <ref type="bibr">Chew (1991, 36)</ref> disputes even the myth of Raffles's standing as founder of the colony. He argues that Raffles's 1819 treaty, which the PAP government marks as the founding of modern Singapore, only allowed the establishment of a British trading port and did not include a cessation of sovereignty; instead, Chew states that sovereignty ceded with John Crawfurd's 1824 treaty. Nevertheless, Raffles as founding father continues to loom large in public perceptions of Singapore history.</p><p>"Garden" critiques this colonial nostalgia through a temporal displacement of Raffles from his dominant position in the state metanarrative. In the section set in 1823, shortly before he departs Singapore for the last time, Anom encounters Raffles as a battered man battling illness and grief, wandering alone on a hill. Notably, Raffles terms Singapore an unsuccessful "plantation" <ref type="bibr">(Ng 2018, 182)</ref>, a project characterized by homogeneous cash crops grown for capitalist profit and violent labour inequality. This plantation logic mirrors the British system of racial classification in Singapore in the late-18th to early-20th centuries, whereby various communities were systemized into racial classifications of "Chinese", "Malay", "Indian", and "Eurasian", to efficiently administer a colonial capitalist ideology. In the seminal The Myth of the Lazy Native, Syed Hussein <ref type="bibr" target="#b3">Alatas (1977)</ref> notes that these colonial-era divisions led to a gross misrepresentation of each racialized community, and he interrogates the supposed indolence of the Malay character and explores the influence this stereotype exerted on local and migrant communities to prevent cross-ethnic solidarity against colonial masters. In post-independence Singapore, this racialized classification has been refashioned -though hardly reimagined -as CMIO (Chinese, Malay, Indian, Other), with Chinese as the majority population demographic and "Other" denoting Eurasians and other minority communities. The strict regulation of social cohesion via "racial harmony", including the widely subscribed practice of every citizen choosing their racialized mother tongue as a second language in schools, racialized quotas for housing and education aid, and the annual observation of Racial Harmony Day by schools and community organizations, can be seen as an extension of Raffles's plantation logic which essentialized different ethnic communities to be centrally managed and limited how Singapore society could be imagined. Despite Singapore's powerful association with Raffles, "Garden" characterizes him as thinking very little of his relationship with the island, seeing his experience there plagued by "petty squabbles of his underlings" and "memories of his children, dead of tropical fevers"; as such, the colony "like so many of his ventures is a failure" <ref type="bibr">(Ng 2018, 182)</ref>. This is a stark divergence from the vision, foresight, and passion implied in his founding father mythos. In the 1823 section, he holds several nutmegs, a key crop in the colonial plantation system, but they are "shrunken, paltry", mirroring the frail state of his body and his view that his relationship to Singapore is equally "withered" (183). Raffles longs to "go home to England" (183) and escape the ghosts of this island, to return to the heart of the empire where he believes he will no longer be haunted by his experiences in Singapore. Having reframed him from the image of British colonial triumph into this vastly diminished husk, the narrative underlines the folly of constructing a founding myth on a colonial figure, who has no loyalty or commitment to the island and who sees Singapore only as an insignificant factor in advancing the empire's broader colonial mission.</p><p>Similarly, the narrative takes a highly oppositional characterization of Singapore's first prime minister, Lee Kuan Yew, to explore how legacies of colonialism continue to reverberate even after independence. The nation state's accelerated transformation from an ex-colony to an economically successful developed country is strongly attributed to Lee's political vision and authoritarian leadership. Similar to Raffles, "Garden" does not situate Lee at any recognizable historical moment. Instead, Anom encounters him praying at the Syonan Jinja shrine in 1945, a time that precedes much of his storied political career. In this fictionalized iteration, Lee still bears his English name Harry Lee, and Anom supplies him with contraband alcohol with which he runs black market enterprises during the Japanese Occupation.</p><p>"Garden" appropriates and expands on a core aspect of Lee's political vision, alluded to in his memoir <ref type="bibr" target="#b30">(Lee 2000)</ref>, that his understanding of discipline, survival, and sacrifice were honed under Japanese Occupation and subsequent years of anti-colonial struggle against the British, and these were the tools with which he would shape the narrative of the nation state. When Anom uses her foreknowledge to advise Lee of the Japanese forces' impending defeat, Lee considers for the first time what might be lost in the process of liberation. Given that the Japanese would raze everything on their departure, he judges that "it is not so terrible to destroy a building, once its purpose has been served" <ref type="bibr">(Ng 2018, 190)</ref>, planting the seeds of the PAP government's characteristic ruthlessness towards histories that diverge from their selective curation of the past. The story explicitly notes that Lee "will have no compunction, in the future, about toppling ageing, antiquated towers" (190), even if it is his own home -a reference to his will which stated that the family estate at 38 Oxley Road should be demolished after his death, rather than conserved for historical and heritage interest. 3 Like the Syonan Jinjaa shrine built deep in the forests of the MacRitchie Reservoir and today almost entirely inaccessible, a geographic and temporal black hole -public consciousness of historical narratives outside the PAP's curated version is minimal, framed similarly as black holes in which nothing of note takes place.</p><p>The narrative also exposes the imperial logic inherited and replicated by the postcolonial state. In "Garden", Lee's belief that "nature can be touched, seen, even bent to one's own will" <ref type="bibr">(Ng 2018, 188</ref>) is a trait he learned from both British and Japanese colonial masters and a mirror of their extractivism. As Stuart <ref type="bibr" target="#b19">Hall (1996)</ref> notes regarding the persistence of neocolonial structures in many states that achieved independence in the 20th century, "'the colonial' is not dead, since it lives on in its 'after-effects'" (248). For example, the colonial exploitation of labourers has been recontextualized as positive stories about industrious and resilient migrants in post-independent Singapore, without acknowledging that such narratives inherit and even elaborate on the paternalism of British administration <ref type="bibr" target="#b44">(Sai 2021)</ref>. The PAP government's benign approach to British colonialism, coupled with the state's current practices of sand extraction from other countries and hostile treatment of cheap migrant labour <ref type="bibr" target="#b48">(Tan 2023</ref>), all constitute an exploitative, neocolonialist relationship with Singapore's neighbours that serves to enrich specific sectors of Singapore society but alienate it further from Southeast Asia as a region. Singapore thus cultivates an uneasy relationship with postcoloniality that is illiberal and internationalist <ref type="bibr" target="#b23">(Holden 2008)</ref>, serving the interests of a globalized capitalist system.</p><p>Moreover, in the narrative of "Garden", Lee's actions reproduce Singapore's crisis narrative and subsequent policymaking. At the start of the 1945 section, he prays in Shinto style, even though he thinks "religion is a foolish thing" <ref type="bibr">(Ng 2018, 188)</ref>. His performance of piety in the shrine -the spiritual heart of the Occupation -is a survivalist gesture, mirroring his later pragmatism as statesman in striking trade and diplomatic alliances with key geopolitical powers such as Japan and Britain, despite their past colonial violence towards Singapore. However, at the end of the section when Anom is whisked away before Lee's eyes -"he is frightened <ref type="bibr">[ . . . ]</ref>. Empires may fall, but girls do not simply disappear" (190) -his following plea is not directed at the gods but rooted in a desire for answers, reason, stability, a fearful response to unnatural phenomena, which may be read as a foundation of the national-crisis narrative that Singapore will later build to justify its policies for national security and social cohesion. Such stringent policies have served to uphold the PAP government's normative vision of modernization and economic growth, at the cost of civil liberties and democratic autonomy.</p><p>In selecting these two temporal points to reflect Singapore's founding fathers, "Garden" registers both the island's colonized past and the active legacy of colonialism in the modern nation-state. Ng mobilizes the speculative to momentarily displace Raffles from his pedestal in Singapore history, while demonstrating through Lee's time in the Japanese Occupation that such colonial legacies continue to haunt the foundations of power in this country.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Reimagining marginalized voices</head><p>Given the trauma of independence following Singapore's forceful separation from Malaysia and regional tensions during the Cold War, a recurring motif of the PAP government is a narrative of national crisis mobilized for the defence of Singapore against all threats without and within. Against this threat of crisis, the government has historically suppressed political opposition, queer lifestyles, and other aspects perceived to threaten social stability and thus pose a risk to Singapore's economy <ref type="bibr">(Chua 2003, 74)</ref>. However, "Garden" seeks to recuperate histories that have been erased by the state by refashioning Anom's agency and personhood, and reimagining queer female companionship set against the contentious backdrops of communism and supernaturalism.</p><p>As the main character, Anom is elevated from her literary origins as a nameless supporting character in the Malay canon to rethink the role of the subaltern -that is, a racially minoritized woman in the modern-day Singapore context -in constructing narratives about the nation. Anom is originally a minor character in Sulalat-us-Salatin, otherwise known as Sejarah Melayu or the Genealogy of Sultans, dated to the 17th century. A representative text in the hikayat literary tradition, Sulalat-us-Salatin is a romanticized court epic about the Melaka Sultanate and subsequent Malay kingdoms, and holds enormous cultural influence across the Malay world <ref type="bibr">(Cheah 1998, 110)</ref>. The "Malay world" invoked here does not refer to the traditional demarcation of land masses corresponding to the present-day state borders of Malaysia, Indonesia, Brunei, and others, or as ethnonationalist propaganda for Malay supremacy, but rather is an expansive idea which embraces the movement of people, trade, and texts across the seascape and acknowledges a fluid, complex sense of shared histories and relations <ref type="bibr" target="#b32">(Mandal 2013)</ref>. While the "Malay world" remains contentious as a term, "Garden" engages with the precolonial past through a Malay character who moves through regional histories and texts, advancing a mobile, porous application of the term which aligns with Ng's textual ambitions.</p><p>As a Malay woman from the precolonial past, Anom's ethnicity and gender act as a destabilizing force. Her canonical origins draw attention to the established histories of Malay culture in the region, critiquing Singapore's Chinese-majority state and its troubled relationship with the minority Malay community. Simultaneously, Anom's time-travelling in "Garden" reclaims her from the Malay canon's monarchical and patriarchal dominance. In Sulalat-us-Salatin, Anom is only a footnote -a nameless concubine killed by the sultan for an infraction not of her own doing. Her name was only created for the 1962 film adaptation Dang Anom, produced as part of a golden age of Malay-language film-making during a period of intensive nation-building. However, Anom in "Garden" acts as a companion to the reader and plays a significant role in various moments of Singapore's history. Displaced from the royal strictures of her own time, Anom travels from the periphery of the Malay canon to the centre of her own narrative. She is recast as a being of possibility, at once disrupting the royal patriarchy of the Islamic tradition, Chinese dominance of the state government, and the idea of modernity in Singapore today.</p><p>Much of Anom's time-travelling is isolated, enforced, and places her at a marked disadvantage to those she meets in each time period, echoing the sense of unending crisis framing Singapore's nationhood. Anom is a "prisoner" of time <ref type="bibr">(Ng 2018, 177)</ref> and characters in various time periods react violently to her presence, from the orangutan Ah Meng who "lunges forth, baring her teeth" (192) to the terrorist Mas Selamat's attempt to "silence her" <ref type="bibr">(193)</ref>. These interactions are contrasted by Anom's interactions with Chen Cuifen in 1910, a communist figure perhaps best known as the romantic and revolutionary partner of Kuomintang political party founder Sun Yat-sen. Given that the PAP government is dominated by anglophone Chinese members, who have disenfranchised sinophone political and intellectual movements and suppressed records of communist contributions to anti-colonial resistance <ref type="bibr" target="#b25">(Hong and Huang 2008)</ref>, this spotlight on Chen seeks in part to redress this contentious history and to fold under-represented women fighters into Singapore's narrative of nationhood. The 1910 section in "Garden" is set at Wan Qing Yuan villa, which was at that time a base for the Chinese underground resistance group Tongmenghui whose goal was to overthrow China's Qing dynasty. Although Anom is an "outsider" <ref type="bibr">(Ng 2018, 186)</ref> to the resistance group, Chen is kind to her; she teaches Anom Cantonese, English, and guerilla warfare tactics, and they become "dearest friend[s]" (187). In this time period, Anom is a servant but she and Chen refer to each other as "little sister" (186) and "elder sister" (187), a mark of respect and intimacy crossing class and ethnic boundaries. This is notable as Anom had no friends in her original time period, none that would speak out to save her from the king in 1398, and no companions in a majority of the other timelines visited. Anom and Chen's sisterhood and shared "love for the dream of democracy" (187) may be read as a queer bond in solidarity against monarchical and authoritarian systems of power, recentring an aspect of anti-colonial resistance erased from the official narrative.</p><p>Likewise, Anom's encounter with the Peri in the section "1705" reimagines time that has been deemed unimportant to the state narrative. The Peri, also known as parī or pairikā, is a winged supernatural being of great beauty in Persian and Islamic folklore <ref type="bibr" target="#b29">(Lasman 2021)</ref>. Ng borrows the Peri from the legend of Sultan Mahmud in Tuhfat al-Nafis (1885), a semi-fictitious chronicle of events in the Malay states recorded by Raja Haji Ali. Given the spread of Islamic culture outwards from Melaka since the 15th century, and that Sultan Mahmud ruled over the Johor-Riau sultanate of which Singapore was a part, the Peri's presence draws attention to how the myths and folklore of Singapore are bound up in the ethno-historical and sociocultural flows of the Malay world. Moreover, in "Garden" the encounter with the Peri is situated in 1705, that is, in "a humdrum century" <ref type="bibr">(Ng 2018, 180)</ref>, a century after the Portuguese departure and a century before the British arrival, a time often prefigured as insignificant in Singapore historiography. Her residency on the island signals a continued Indigenous presence and an enduring Islamic influence, a reminder that Singapore was not in fact a barren island prior to its colonization by the British. In a contemporary technocratic state that prioritizes scientific rationality and technological advancement, the encounter with the Peri also suggests that readers should reorient their understanding of precolonial time and recover a sense of Indigenous agency that includes non-secular and folkloric elements in Singapore's historiography.</p><p>The relationship that grows between Anom and the Peri is also significant for the placing of healing, meaningful connection, and mutual support at its heart. Anom's two routes to 1705 are brutal: one takes her through the 1945 Japanese Occupation section with Lee where she battles illness and sexual violence, "gaunt" with "dull and rheumy" eyes <ref type="bibr">(Ng 2018, 189)</ref>, and the other route passes through the futuristic Battle of Changi Airport in 2099, where she is a "bloodied" (199) fighter against a zombie apocalypse. No matter which route she takes, Anom arrives at the Peri's home injured and exhausted, and there her wounds are cared for and she is invited to "rest, however long [she] need <ref type="bibr">[s]</ref> to" (179). Although the Peri is sometimes depicted in folklore as a creature of seduction, in "Garden" she acts as a kind companion to Anom, demanding no repayment for saving Anom, but instead offering an invitation: "Let me teach you the rudiments of pleasure. Let us tend this garden together" (181). This invitation to pleasure, in particular the explicit clarification from the Peri that this is "to tempt you, to court you" (181), introduces a queer element to Anom's character. As Elizabeth <ref type="bibr">Freeman (2010, xvi)</ref> and other queer theorists have argued, much of queer experience is caught up in trauma and loss, and the foregrounding of bodily pleasure through temporal gaps and narrative detours creates a sense of queer asynchronies to rethink historical consciousness in erotic terms. It calls attention to moments and materials that Freeman refers to as "history's flotsam and jetsam" (xvi), the seemingly undesirable fragments that history wishes us to forget, which she argues can be collected and remobilized as sites of queer temporality, where one may linger and take pleasure in the lingering, in defiance of the devouring nature of late-stage capitalism. The depiction of queer female companionship in "Garden" also resists the heteronormative logic that has been consistently enforced in Singapore government policy and permeates all aspects of civil society <ref type="bibr" target="#b37">(Oswin 2014)</ref>, from housing policies that prioritize the heterosexual nuclear family unit to the colonialera Section 377A law criminalizing sodomy that was only repealed in 2022. As the titular "Garden" is a metonym of Singapore, which is widely known as a "garden city", the narrative suggests that the garden Anom and the Peri tend to can be queered as wellthat sharing their time together in joy and intimacy carries a subversive potential to queer the dominant narrative of modernization and state-enforced heteronormativity in the garden that is Singapore.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Integration of futures past</head><p>"Garden" not only invites readers into queer and pluralized pasts, but also opens the door to a diversity of speculative futures. The last 50 years have seen a growth in scholarly engagement with English-language literatures from around the world, and anglophone literatures by Singapore and Singapore-based writers have achieved a certain degree of international recognition and critical acclaim <ref type="bibr">(Poon, Holden, and Lim 2009, xxi)</ref>. Nevertheless, a majority of Singapore literature comprises social realist stories exploring the everyday struggles of Singaporeans at home or abroad <ref type="bibr">(Patke and Holden 2010, 157-62)</ref>. Determined to spotlight this relatively niche genre of Southeast Asian speculative fiction, "Garden" pays tribute to a variety of Singapore speculative fiction works by setting each of Anom's futuristic encounters in fictional worlds imagined by Singapore and Singapore-based writers, such as Neon Yang, Judith Huang, Kevin Martens Wong, and Victor Fernando R. Ocampo. Borrowing from Angelia Poon's argument about Singapore literature's potential to articulate national space, I argue that Anom's engagement with each iteration of the future may be fleeting and only sustained for one or two pages, but these "passing, sidelong glances" <ref type="bibr">(2005,</ref><ref type="bibr">121)</ref> still register as a powerful imaginative force and act as important alternative future histories outside state control.</p><p>"Garden" enfolds the precolonial past with futuristic speculations to synthesize a cyclical, heterogenous origin story for Singapore. Despite the reader's ability to move around the various sections, the text of "Garden" is printed in largely chronological order, but this is disrupted twice -once on the first page of the story in a section titled "1299", the only section that predates Anom's own time period; and once on the final page of the story, set in "1398, Again", where Anom dies by the hand of the king in her original time. The year 1299 is significant, as both recent scholarship and popular folklore have argued for anchoring the origin of Singapore not to the official state narrative of British colonialism in 1819, but to the semimythic prince Sri Tri Buana, who arrives in 1299 and bestows the name "Singa-Pura", or "Lion City", on the island <ref type="bibr">(Kwa et al. 2019)</ref>. Given the arrangement of the sections in "Garden", where the first scene the reader encounters is on the first page and therefore set in 1299, the story of "Garden" may be said to begin not with Anom's original time, but rather with the legendary christening of the island. "Garden" positions this as a crystallizing moment in the island's history, where its naming allows it to become Singapore. Notably, the narrative employs only the name "Singapore" throughout the entire text, regardless of setting or time period, and hardly mentions the island's older names of Temasek, Longyamen, or Pulau Ujong. This is not to conform to a teleological logic where 1299 is the moment of first historical importance, but rather to underline that this is the year which this particular narrative chooses as the moment of Singapore's genesis.</p><p>The year furthest in the future in "Garden" is 2400, an intertextual reference to the first science fiction novel published by a Singaporean author. Han <ref type="bibr" target="#b33">May's (1985)</ref> novel Star Sapphire follows a young scientist, Yva Yolan, and her crew on a voyage aboard the titular starship. In the year 2400 in "Garden", Anom is a venerated leader and Yva's idol, considered the "greatest mind" <ref type="bibr">(Ng 2018, 204)</ref> who led the regeneration programme to revive Singapore's biodiversity after climate collapse. Yva gifts Anom an Asiatic lion, reconstructed "from old DNA samples, mixed with house cat" (205), a hybrid creature recreated in the lab from extinct remains. The 2400 encounter ends with only one instructional link, to "turn to 1299" (206), when Anom and the lion both step through to the past. The narrative comes full circle: Yva is about to embark on a journey that will be the founding of the local speculative fiction genre, and Anom who is a leader in this particular future is stepping back into the annals of history.</p><p>Furthermore, "Garden" suggests that there were kingdoms and narratives from the 13th century that precede both Sri Tri Buana and the colonial presence, which "have not <ref type="bibr">[been]</ref> spoken for a lifetime" <ref type="bibr">(Ng 2018, 172)</ref>. When Anom and the lion move from 2400 to 1299, they watch Sri Tri Buana's ship steer through the storm, bearing "the kingdomless king gripping the brim of his crown" (172). Following local legend, Sri Tri Buana casts his crown overboard to appease the storm, a tribute which allows him to disembark on the island. Once the ship is close enough, Anom "steps into the sea" (172) to receive him. This mythical reinvention foregrounds Malay folklore in the imaginative space of Singapore's history and resonates with scholars who have argued for reading Singapore's history as cycles of trade and cultural flows within Southeast Asia that extend back 700 years or more <ref type="bibr">(Kwa et al. 2019)</ref>, resisting the state narrative marking British colonialism as the start of a legitimate historical record. At the same time, the imbrication of speculative futures in the narrative acts as a counterweight against any essentialist, romanticized notions of the precolonial past and troubles both the British bicentennial and the 700-year narrative. In moving between time periods through a branching narrative structure, and with an opening page that focuses on Singapore's etymological genesis and an ending page that closes Anom's story, the unit of time most privileged in "Garden" is not linear teleological time but rather narrative time.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Conclusion: Towards heterogenous Singapore stories</head><p>As Adrienne M. <ref type="bibr" target="#b9">Brown (2017)</ref> argues, if speculative fiction is "simply a way to practice the future together" (19), then "Garden" is not only a fictive reflection of Singapore history. The story destabilizes the teleological logic of Singapore's dominant national mythos and instead foregrounds marginalized experiences such as queer female pleasure as well as racialized and politically minoritized communities, seeking to reconstitute the island not as an isolated entity on the road of linear civilizational progress but rather as part of a multiplicity of histories, cultures, and exchanges in maritime Southeast Asia. At its heart, "Garden" invites the reader to participate in the processes of myth-making and myth-breaking that shape public narratives about nationhood, and to challenge a singular state narrative in order to move towards a more horizontal and heterogenous people's history.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Notes</head><p>Studies, and has been presented at the MLA, EuroSeas, Current Research in Speculative Fiction, and Forgotten SF conferences. In the creative sphere, they are editor-in-chief at khōréō, an Ignyte-winning and Hugo-nominated magazine of immigrant and diaspora speculative fiction.</p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head>Figure 1 .</head><label>1</label><figDesc>Figure 1. Narrative branches in "Garden".</figDesc><graphic coords="7,124.95,53.37,243.24,538.56" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_0"><head></head><label></label><figDesc>series) by Edward Packard and the Fighting Fantasy series (1982-1995, original series) by Steve Jackson and Ian Livingstone, complementing contemporary text-based video games such as</figDesc><table /></figure>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="4" xml:id="foot_0"><p>Z. N. CHANG</p></note>
+		</body>
+		<back>
+
+			<div type="acknowledgement">
+<div><head>Acknowledgments</head><p>Many thanks to <rs type="person">Caroline Edwards</rs> and <rs type="person">Michael Tsang</rs> for their feedback and unfailing encouragement, and to the <rs type="institution">CHASE (Consortium for the Humanities</rs> and the Arts South-east England) Doctoral Training Partnership for funding this research.</p></div>
+			</div>			<div type="annex">
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Disclosure statement</head><p>No potential conflict of interest was reported by the author(s).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Notes on contributor</head><p>Zhui Ning Chang is a Malaysian doctoral candidate and CHASE scholar at Birkbeck, University of London, where they examine race, decoloniality, and the publishing economy via speculative fictions of Southeast Asia. Their research is published in Science Fiction</p></div>			</div>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<monogr>
+		<title level="m" type="main">Key scholars of Southeast Asian speculative fiction include</title>
+		<editor>Weihsin Gui, Nazry Bahrawi, Gabriela Lee, Anna Felicia Sanchez, and Sydney Paige Guerrero</editor>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<monogr>
+		<title level="m" type="main">Labels proposed for (Southeast) Asian speculative fiction include silkpunk, ricepunk, bamboopunk, and coconutpunk</title>
+		<imprint>
+			<date type="published" when="2019">2019</date>
+		</imprint>
+	</monogr>
+	<note>See Jaymee Goh</note>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title level="a" type="main">38 Oxley Road has been subject to an ongoing debate between Lee&apos;s surviving children and the PAP government regarding its use and demolition</title>
+	</analytic>
+	<monogr>
+		<title level="m">For details, refer to Channel News Asia&apos;s coverage</title>
+		<imprint>
+			<date type="published" when="2017">2017. 2024</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<monogr>
+		<title level="m" type="main">The Myth of the Lazy Native: A Study of the Image of the Malays, Filipinos and Javanese from the 16th to the 20th Century and Its Function in the Ideology of Colonial Capitalism</title>
+		<author>
+			<persName><forename type="first">Syed</forename><surname>Alatas</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Hussein</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1977">1977</date>
+			<pubPlace>Frank Cass</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<monogr>
+		<title level="m" type="main">Imagined Communities</title>
+		<author>
+			<persName><forename type="first">Benedict</forename><surname>Anderson</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1983">1983</date>
+			<publisher>Verso</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title level="a" type="main">Western Nationalism and Eastern Nationalism: Is There a Difference That Matters?</title>
+		<author>
+			<persName><forename type="first">Benedict</forename><surname>Anderson</surname></persName>
+		</author>
+		<idno type="DOI">10.64590/yrj</idno>
+		<ptr target="https://doi.org/10.64590/yrj" />
+	</analytic>
+	<monogr>
+		<title level="j">New Left Review</title>
+		<imprint>
+			<biblScope unit="volume">9</biblScope>
+			<biblScope unit="page" from="31" to="42" />
+			<date type="published" when="2001">2001</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<monogr>
+		<title level="m" type="main">38 Oxley Road: A Timeline of Events</title>
+		<author>
+			<persName><forename type="first">Hwee</forename><surname>Ang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Justin</forename><surname>Min</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Ong Guang-Xi</surname></persName>
+		</author>
+		<ptr target="https://www.channelnewsasia.com/singapore/38-oxley-road-timeline-lee-kuan-yew-lee-hsien-loong-lee-hsien-yang-lee-wei-ling-4679401" />
+		<imprint>
+			<date type="published" when="2024-10-16">2024. October 16</date>
+		</imprint>
+	</monogr>
+	<note>Channel News Asia</note>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title level="a" type="main">Studying Gamebooks: A Framework for Analysis</title>
+		<author>
+			<persName><forename type="first">Marco</forename><surname>Arnaudo</surname></persName>
+		</author>
+		<ptr target="https://analoggamestudies.org/2023/09/studying-gamebooks-a-framework-for-analysis/" />
+	</analytic>
+	<monogr>
+		<title level="j">Analog Game Studies</title>
+		<imprint>
+			<biblScope unit="volume">10</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<date type="published" when="2023">2023</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<monogr>
+		<author>
+			<persName><forename type="first">Walter</forename><surname>Benjamin</surname></persName>
+		</author>
+		<title level="m">Illuminations. Translated by Harry Zorn</title>
+		<meeting><address><addrLine>Pimlico</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="1999">1999</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<monogr>
+		<title level="m" type="main">Emergent Strategy: Shaping Change, Changing Worlds</title>
+		<author>
+			<persName><forename type="first">Adrienne</forename><forename type="middle">M</forename><surname>Brown</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1979">2017. 1979</date>
+			<publisher>AK Press</publisher>
+			<pubPlace>Butler, Octavia; Kindred. Doubleday</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<monogr>
+		<author>
+			<persName><forename type="first">Dipesh</forename><surname>Chakrabarty</surname></persName>
+		</author>
+		<title level="m">Provincializing Europe: Postcolonial Thought and Historical Difference</title>
+		<imprint>
+			<publisher>Princeton University Press</publisher>
+			<date type="published" when="2000">2000. 2008</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title level="a" type="main">The Rise and Fall of the Great Melakan Empire: Moral Judgement in Tun Bambang&apos;s Sejarah Melayu</title>
+		<author>
+			<persName><forename type="first">Boon</forename><surname>Cheah</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Kheng</surname></persName>
+		</author>
+		<ptr target="https://www.jstor.org/stable/41493366" />
+	</analytic>
+	<monogr>
+		<title level="j">Journal of the Malaysian Branch of the Royal Asiatic Society</title>
+		<imprint>
+			<biblScope unit="volume">71</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="104" to="121" />
+			<date type="published" when="1998">1998</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<monogr>
+		<title level="m" type="main">What Is a World? On Postcolonial Literature as World Literature</title>
+		<author>
+			<persName><forename type="first">Pheng</forename><surname>Cheah</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2016">2016</date>
+			<publisher>Duke University Press</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<title level="a" type="main">The Foundation of a British Settlement</title>
+		<author>
+			<persName><forename type="first">Ernest</forename><forename type="middle">C T</forename><surname>Chew</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">A History of Singapore</title>
+		<editor>
+			<persName><forename type="first">C</forename><forename type="middle">T</forename><surname>Ernest</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">Edwin</forename><surname>Chew</surname></persName>
+		</editor>
+		<editor>
+			<persName><surname>Lee</surname></persName>
+		</editor>
+		<imprint>
+			<publisher>Oxford University Press</publisher>
+			<date type="published" when="1991">1991</date>
+			<biblScope unit="page" from="36" to="40" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<title level="a" type="main">Multiculturalism in Singapore: An Instrument of Social Control</title>
+		<author>
+			<persName><forename type="first">Beng</forename><surname>Chua</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Huat</surname></persName>
+		</author>
+		<idno type="DOI">10.1177/0306396803044003</idno>
+		<ptr target="https://doi.org/10.1177/0306396803044003" />
+	</analytic>
+	<monogr>
+		<title level="j">Race &amp; Class</title>
+		<imprint>
+			<biblScope unit="volume">44</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="58" to="77" />
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<monogr>
+		<title level="m" type="main">Walking the Clouds: An Anthology of Indigenous Science Fiction</title>
+		<author>
+			<persName><forename type="first">Grace</forename><forename type="middle">L</forename><surname>Dillon</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2012">2012</date>
+			<publisher>University of Arizona Press</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<monogr>
+		<author>
+			<persName><forename type="first">Elizabeth</forename><surname>Freeman</surname></persName>
+		</author>
+		<title level="m">Time Binds: Queer Temporalities, Queer Histories</title>
+		<imprint>
+			<publisher>Duke University Press</publisher>
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<analytic>
+		<title level="a" type="main">Variations on a Name: The -Punks of Our Times</title>
+		<author>
+			<persName><forename type="first">Jaymee</forename><surname>Goh</surname></persName>
+		</author>
+		<ptr target="https://www.strangehorizons.com/wordpress/non-fiction/variations-on-a-name-the-punks-of-our-times/" />
+	</analytic>
+	<monogr>
+		<title level="m">Strange Horizons</title>
+		<imprint>
+			<date type="published" when="2019">2019</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<analytic>
+		<title level="a" type="main">Southeast Asian Speculative Fiction as Slipstream</title>
+		<author>
+			<persName><forename type="first">Weihsin</forename><surname>Gui</surname></persName>
+		</author>
+		<idno type="DOI">10.1525/sfs.2025.52.1.3</idno>
+		<ptr target="https://doi.org/10.1525/sfs.2025.52.1.3" />
+	</analytic>
+	<monogr>
+		<title level="j">Science Fiction Studies</title>
+		<imprint>
+			<biblScope unit="volume">52</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="3" to="11" />
+			<date type="published" when="2025">2025</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<analytic>
+		<title level="a" type="main">When Was &apos;The Post-Colonial&apos;? Thinking at the Limit</title>
+		<author>
+			<persName><forename type="first">Stuart</forename><surname>Hall</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">The Postcolonial Question</title>
+		<imprint>
+			<publisher>Routledge</publisher>
+			<date type="published" when="1996">1996</date>
+			<biblScope unit="page" from="242" to="260" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<monogr>
+		<title level="m" type="main">Raffles and the British Invasion of Java</title>
+		<author>
+			<persName><forename type="first">T</forename><surname>Hannigan</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2012">2012</date>
+			<publisher>Monsoon Books</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<analytic>
+		<title level="a" type="main">Interactive Fiction</title>
+		<author>
+			<persName><forename type="first">N</forename><surname>Hayles</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Nick</forename><surname>Katherine</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Monfort</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">The Routledge Companion to Experimental Literature</title>
+		<editor>
+			<persName><forename type="first">Joe</forename><surname>Bray</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">Alison</forename><surname>Gibbons</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">Brian</forename><surname>Mchale</surname></persName>
+		</editor>
+		<imprint>
+			<publisher>Routledge</publisher>
+			<date type="published" when="2012">2012</date>
+			<biblScope unit="page" from="452" to="466" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<analytic>
+		<title level="a" type="main">Time, Possible Worlds and Counterfactuals</title>
+		<author>
+			<persName><forename type="first">Matt</forename><surname>Hills</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">The Routledge Companion to Science Fiction</title>
+		<editor>
+			<persName><forename type="first">Mark</forename><surname>Bould</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">Andrew</forename><forename type="middle">M</forename><surname>Butler</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">Adam</forename><surname>Roberts</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">Sherryl</forename><surname>Vint</surname></persName>
+		</editor>
+		<imprint>
+			<publisher>Routledge</publisher>
+			<date type="published" when="2009">2009</date>
+			<biblScope unit="page" from="433" to="441" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<analytic>
+		<title level="a" type="main">Postcolonial Desire: Placing Singapore</title>
+		<author>
+			<persName><forename type="first">Philip</forename><surname>Holden</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/13688790802226736</idno>
+		<ptr target="https://doi.org/10.1080/13688790802226736" />
+	</analytic>
+	<monogr>
+		<title level="j">Postcolonial Studies</title>
+		<imprint>
+			<biblScope unit="volume">11</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="345" to="361" />
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<analytic>
+		<title level="a" type="main">Colonialism with Benefits? Singaporean Peoplehood and Colonial Contradiction</title>
+		<author>
+			<persName><forename type="first">Philip</forename><surname>Holden</surname></persName>
+		</author>
+		<idno type="DOI">10.1017/S0022463420000090</idno>
+		<ptr target="https://doi.org/10.1017/S0022463420000090" />
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Southeast Asian Studies</title>
+		<imprint>
+			<biblScope unit="volume">50</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="632" to="644" />
+			<date type="published" when="2019">2019</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<monogr>
+		<author>
+			<persName><forename type="first">Lysa</forename><surname>Hong</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Jianli</forename><surname>Huang</surname></persName>
+		</author>
+		<title level="m">The Scripting of a National History: Singapore and Its Pasts</title>
+		<imprint>
+			<publisher>National University of Singapore Press</publisher>
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<monogr>
+		<title level="m" type="main">The Salt Roads. Warner Books. ila</title>
+		<author>
+			<persName><forename type="first">Nalo</forename><surname>Hopkinson</surname></persName>
+		</author>
+		<ptr target="https://climateshabitatsenvironments.art/ila/" />
+		<imprint>
+			<date type="published" when="2003">2003. 2019</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b27">
+	<analytic>
+		<title level="a" type="main">The Singapore Bicentennial as Public History</title>
+		<author>
+			<persName><forename type="first">Chong</forename><surname>Kwa</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Ed</forename><surname>Guan</surname></persName>
+		</author>
+		<ptr target="https://www.cambridge.org/core/journals/journal-of-southeast-asian-studies/issue/841159E7E0F902BF3283ABD038996487" />
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Southeast Asian Studies</title>
+		<imprint>
+			<biblScope unit="volume">50</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<date type="published" when="2019">2019</date>
+		</imprint>
+	</monogr>
+	<note>Special issue</note>
+</biblStruct>
+
+<biblStruct xml:id="b28">
+	<monogr>
+		<title level="m" type="main">Seven Hundred Years: A History of Singapore</title>
+		<author>
+			<persName><forename type="first">Chong</forename><surname>Kwa</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Derek</forename><surname>Guan</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Heng</surname></persName>
+		</author>
+		<editor>Peter Borschberg, and Tan Tai Yong</editor>
+		<imprint>
+			<date type="published" when="2019">2019</date>
+		</imprint>
+		<respStmt>
+			<orgName>Marshall Cavendish International and National Library Board of Singapore</orgName>
+		</respStmt>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b29">
+	<analytic>
+		<title level="a" type="main">Otherworld Literature: Parahuman Pasts in Classical Persian Historiography and Epic</title>
+		<author>
+			<persName><forename type="first">Sam</forename><surname>Lasman</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Persian Literature as World Literature</title>
+		<editor>
+			<persName><forename type="first">Amirhossein</forename><surname>Vafa</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">Omid</forename><surname>Azadibougar</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">Mostafa</forename><surname>Abedinifard</surname></persName>
+		</editor>
+		<imprint>
+			<publisher>Bloomsbury Academic</publisher>
+			<date type="published" when="2021">2021</date>
+			<biblScope unit="page" from="35" to="50" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b30">
+	<monogr>
+		<author>
+			<persName><forename type="first">Kuan</forename><surname>Lee</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Yew</surname></persName>
+		</author>
+		<title level="m">From Third World to First: Singapore and the Asian Economic Boom</title>
+		<imprint>
+			<publisher>HarperCollins</publisher>
+			<date type="published" when="2000">2000</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b31">
+	<analytic>
+		<title level="a" type="main">Within the Singapore Story: The Use and Narrative of History in Singapore</title>
+		<author>
+			<persName><forename type="first">Kah</forename><surname>Loh</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Seng</surname></persName>
+		</author>
+		<ptr target="https://www.jstor.org/stable/40860676" />
+	</analytic>
+	<monogr>
+		<title level="j">Crossroads: An Interdisciplinary Journal of Southeast Asian Studies</title>
+		<imprint>
+			<biblScope unit="volume">12</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="1" to="21" />
+			<date type="published" when="1998">1998</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b32">
+	<analytic>
+		<title level="a" type="main">Introduction: Global Conjunctions in the Indian Ocean -Malay World Textual Trajectories</title>
+		<author>
+			<persName><forename type="first">Sumit</forename><forename type="middle">K</forename><surname>Mandal</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/13639811.2013.800730</idno>
+		<ptr target="https://doi.org/10.1080/13639811.2013.800730" />
+	</analytic>
+	<monogr>
+		<title level="j">Indonesia and the Malay World</title>
+		<imprint>
+			<biblScope unit="volume">41</biblScope>
+			<biblScope unit="issue">120</biblScope>
+			<biblScope unit="page" from="143" to="145" />
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b33">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">Han</forename><surname>May</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1985">1985</date>
+			<publisher>Times Books International</publisher>
+		</imprint>
+	</monogr>
+	<note>Star Sapphire</note>
+</biblStruct>
+
+<biblStruct xml:id="b34">
+	<analytic>
+		<title level="a" type="main">Death and Rebirth in Platformer Games</title>
+		<author>
+			<persName><forename type="first">Edward</forename><forename type="middle">F</forename><surname>Melcer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Marjorie</forename><surname>Ann</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Cuerdo</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Game User Experience and Player-Centred Design</title>
+		<editor>
+			<persName><forename type="first">Barbaros</forename><surname>Bostan</surname></persName>
+		</editor>
+		<imprint>
+			<publisher>Springer Nature</publisher>
+			<date type="published" when="2020">2020</date>
+			<biblScope unit="page" from="265" to="298" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b35">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">Yi-Sheng</forename><surname>Ng</surname></persName>
+			<affiliation>
+				<orgName type="collaboration">Lion City. Epigram Books</orgName>
+			</affiliation>
+		</author>
+		<imprint>
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b36">
+	<analytic>
+		<title level="a" type="main">A Spicepunk Manifesto: Towards a Critical Movement of Southeast Asian Heritage-Based SFF</title>
+		<author>
+			<persName><forename type="first">Yi-Sheng</forename><surname>Ng</surname></persName>
+		</author>
+		<ptr target=".com/wordpress/non-fiction/a-spicepunk-manifesto-towards-a-critical-movement-of-southeast-asian-heritage-based-sff/" />
+	</analytic>
+	<monogr>
+		<title level="m">Strange Horizons. strangehorizons</title>
+		<imprint>
+			<date type="published" when="2022">2022</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b37">
+	<analytic>
+		<title level="a" type="main">Queer Time in Global City Singapore: Neoliberal Futures and the &apos;Freedom to Love&apos;</title>
+		<author>
+			<persName><forename type="first">Natalie</forename><surname>Oswin</surname></persName>
+		</author>
+		<idno type="DOI">10.1177/1363460714524765</idno>
+		<ptr target="https://doi.org/10.1177/1363460714524765" />
+	</analytic>
+	<monogr>
+		<title level="j">Sexualities</title>
+		<imprint>
+			<biblScope unit="volume">17</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="412" to="433" />
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b38">
+	<monogr>
+		<author>
+			<persName><forename type="first">Marek</forename><surname>Oziewicz</surname></persName>
+		</author>
+		<idno type="DOI">10.1093/acrefore/9780190201098.013.78</idno>
+		<ptr target="https://doi.org/10.1093/acrefore/9780190201098.013.78" />
+		<title level="m">Entry on Speculative Fiction. Oxford Research Encyclopedia of Literature</title>
+		<imprint>
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b39">
+	<monogr>
+		<author>
+			<persName><forename type="first">Rajeev</forename><forename type="middle">S</forename><surname>Patke</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Philip</forename><surname>Holden</surname></persName>
+		</author>
+		<title level="m">The Routledge Concise History of Southeast Asian Writing in English</title>
+		<imprint>
+			<publisher>Routledge</publisher>
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b40">
+	<analytic>
+		<title level="a" type="main">Performing National Service in Singapore: (Re)Imagining Nation in the Poetry and Short Stories of Alfian Sa&apos;at</title>
+		<author>
+			<persName><forename type="first">Angelia</forename><surname>Poon</surname></persName>
+		</author>
+		<idno type="DOI">10.1177/002198940505697</idno>
+		<ptr target="https://doi.org/10.1177/002198940505697" />
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Commonwealth Literature</title>
+		<imprint>
+			<biblScope unit="volume">40</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="118" to="138" />
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b41">
+	<monogr>
+		<title level="m" type="main">Writing Singapore: An Historical Anthology of Singapore Literature</title>
+		<author>
+			<persName><forename type="first">Angelia</forename><surname>Poon</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Philip</forename><surname>Holden</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Shirley Geok-Lin</forename><surname>Lim</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2009">2009</date>
+		</imprint>
+		<respStmt>
+			<orgName>National University of Singapore Press and National Arts Council of Singapore</orgName>
+		</respStmt>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b42">
+	<monogr>
+		<author>
+			<persName><forename type="first">Sophia</forename><surname>Raffles</surname></persName>
+		</author>
+		<title level="m">Memoir of the Life and Public Services of Sir Thomas Stamford Raffles</title>
+		<meeting><address><addrLine>Singapore</addrLine></address></meeting>
+		<imprint>
+			<publisher>Oxford University Press</publisher>
+			<date type="published" when="1835">1835. 1991</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b43">
+	<analytic>
+		<title level="a" type="main">Adaptive Reuse of History</title>
+		<author>
+			<persName><forename type="first">Sinnathamby</forename><surname>Rajaratnam</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">S. Rajaratnam on Singapore: From Ideas to Reality</title>
+		<editor>
+			<persName><forename type="first">Chong</forename><surname>Guan</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">Kwa</forename></persName>
+		</editor>
+		<imprint>
+			<publisher>World Scientific</publisher>
+			<date type="published" when="2006">2006</date>
+			<biblScope unit="page" from="249" to="254" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b44">
+	<monogr>
+		<title level="m" type="main">Updating the Narrative: A Dialogue Between the Former Coloniser and Colonised</title>
+		<author>
+			<persName><forename type="first">Siew</forename><surname>Sai</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Min</surname></persName>
+		</author>
+		<ptr target="https://s-pores.com/2021/09/updating-the-narrative-a-dialogue-between-the-former-coloniser-and-colonised-by-sai-siew-min/#_ftnref9" />
+		<imprint>
+			<date type="published" when="2021">2021</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b45">
+	<monogr>
+		<title level="m" type="main">The Bicentennial Experience</title>
+		<author>
+			<persName><forename type="middle">N</forename><surname>Sg Bicentennial</surname></persName>
+		</author>
+		<ptr target="https://www.sg/sgbicentennial/the-bicentennial-experience/" />
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b46">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">Mary</forename><surname>Shelley</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Frankenstein. Penguin Classics</title>
+		<imprint>
+			<date type="published" when="1818">1818. 2012</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b47">
+	<monogr>
+		<author>
+			<persName><forename type="first">Eric</forename><forename type="middle">D</forename><surname>Smith</surname></persName>
+		</author>
+		<title level="m">Globalization, Utopia and Postcolonial Science Fiction: New Maps of Hope</title>
+		<meeting><address><addrLine>London</addrLine></address></meeting>
+		<imprint>
+			<publisher>Palgrave Macmillan</publisher>
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b48">
+	<analytic>
+		<title level="a" type="main">Between Land Reclamation and Labour, Empathy and Asian New Wave Film: Fungibility in Yeo Siew Hua&apos;s A Land Imagined 幻土</title>
+		<author>
+			<persName><forename type="first">Jerrine</forename><surname>Tan</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/02690055.2023.2237767</idno>
+		<ptr target="https://doi.org/10.1080/02690055.2023.2237767" />
+	</analytic>
+	<monogr>
+		<title level="j">Wasafiri</title>
+		<imprint>
+			<biblScope unit="volume">38</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="6" to="16" />
+			<date type="published" when="2023">2023</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b49">
+	<analytic>
+		<title level="a" type="main">Contending With Primordialism: The &apos;Modern&apos; Construction of Postcolonial Singapore</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">J W</forename><surname>Wee</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">-L</forename></persName>
+		</author>
+		<idno type="DOI">10.1215/10679847-1-3-715</idno>
+		<ptr target="https://doi.org/10.1215/10679847-1-3-715" />
+	</analytic>
+	<monogr>
+		<title level="j">Positions</title>
+		<imprint>
+			<biblScope unit="volume">1</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="715" to="744" />
+			<date type="published" when="1993">1993</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b50">
+	<monogr>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">J W</forename><surname>Wee</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">-L</forename></persName>
+		</author>
+		<title level="m">The Asian Modern: Culture, Capitalist Development</title>
+		<meeting><address><addrLine>Singapore</addrLine></address></meeting>
+		<imprint>
+			<publisher>NUS Press</publisher>
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b51">
+	<monogr>
+		<title level="m" type="main">Merdeka/ 獨立 / சுதந் திரம்</title>
+		<author>
+			<persName><forename type="first">Russell</forename><surname>West-Pavlov</surname></persName>
+		</author>
+		<ptr target="https://www.wildrice.com.sg/event/1273-merdeka/" />
+		<imprint>
+			<date type="published" when="2012">2012. 2019</date>
+			<publisher>Routledge. Wild Rice</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b52">
+	<analytic>
+		<title level="a" type="main">Mobilities in Anglophone Science Fiction History: Time Travel, Cyclical Temporality, and Virtual Mobility</title>
+		<author>
+			<persName><forename type="first">Sang-Keun</forename><surname>Yoo</surname></persName>
+		</author>
+		<idno type="DOI">10.15519/DCC.2023.08.13.2.40</idno>
+		<ptr target="https://doi.org/10.15519/DCC.2023.08.13.2.40" />
+	</analytic>
+	<monogr>
+		<title level="j">International Journal of Diaspora and Cultural Criticism</title>
+		<imprint>
+			<biblScope unit="volume">13</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="40" to="68" />
+			<date type="published" when="2023">2023</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b53">
+	<monogr>
+		<title/>
+		<author>
+			<persName><surname>Zork</surname></persName>
+		</author>
+		<editor>Tim Anderson, Marc Blank, Bruce Daniels, and Dave Lebling</editor>
+		<imprint>
+			<date type="published" when="1977">1977</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

@@ -1,0 +1,1324 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Neuralink and the rise of psychopolitical governmentality</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName><forename type="first">Sergi</forename><surname>Parellada Guillamón</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="institution" key="instit1">Social Psychology Departament in &quot;Persona i Societat en el Món Contemporani&quot;</orgName>
+								<orgName type="institution" key="instit2">Universitat Autònoma de Barcelona (UAB)</orgName>
+								<address>
+									<settlement>Barcelona</settlement>
+									<country key="ES">España</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Ana</forename><forename type="middle">Gálvez</forename><surname>Mozo</surname></persName>
+							<affiliation key="aff1">
+								<orgName type="institution">Universitat Oberta de Catalunya (UOC)</orgName>
+								<address>
+									<settlement>Barcelona</settlement>
+									<country key="ES">España</country>
+								</address>
+							</affiliation>
+						</author>
+						<author role="corresp">
+							<persName><forename type="first">Francisco</forename><forename type="middle">Tirado</forename><surname>Serrano</surname></persName>
+							<email>franciscojavier.tirado@uab.cat</email>
+							<affiliation key="aff0">
+								<orgName type="institution" key="instit1">Social Psychology Departament in &quot;Persona i Societat en el Món Contemporani&quot;</orgName>
+								<orgName type="institution" key="instit2">Universitat Autònoma de Barcelona (UAB)</orgName>
+								<address>
+									<settlement>Barcelona</settlement>
+									<country key="ES">España</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Neuralink and the rise of psychopolitical governmentality</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date/>
+						</imprint>
+					</monogr>
+					<idno type="MD5">B4071A35271D1782DB4A8B2B3B0BA466</idno>
+					<idno type="DOI">10.1080/14735784.2025.2582471</idno>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.0" ident="GROBID" when="2026-02-25T19:51+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term>Posthumanism</term>
+					<term>Neuralink</term>
+					<term>psychopolitics</term>
+					<term>Governmentality</term>
+					<term>extitutions</term>
+				</keywords>
+			</textClass>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>Over the past decade, Neuralink has become a techno-scientific project that embodies a technological, health and ethical revolution. However, there is still little research analysing it as a political project. In this article, we argue that Neuralink is the embodiment of a new political-social regime that we call psychopolitics, borrowing from the work of Han (2014) and <ref type="bibr" target="#b54">Stiegler (2002)</ref>. This regime is essentially characterised by the imperative to translate psychological processes into data, and by the ultimate goal of optimising our psyche and making it the main arena for political debate. To illustrate this, we first analyse the notion of psychopolitics and the main devices that constitute it. We then present Neuralink as a case study and examine the main results obtained using the content analysis software Atlas.ti (v.23). Finally, we conclude by showing that Neuralink is the prime example of a psychopolitical project at work in our time.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="1.">Introduction</head><p>Let us begin this article with a news extract: 'Elon Musk's Neuralink approved to recruit humans for brain-implant trial. Company is seeking people with paralysis to test its experimental device after getting green light from independent review board' (The Guardian 2020).</p><p>Although it may not seem like it, this piece of news announces the arrival of a new governmentality device. Neuralink Corporation is a private neurotechnology company founded in 2016 by Elon Musk and based in San Francisco, USA. It specialises in the development of extremely easy-to-implant invasive brain-computer interfaces <ref type="bibr" target="#b17">(Fourneret 2020)</ref>. According to data provider PitchBook, the company has more than 400 employees and has raised at least $363 million in funding (Washington Post 2023). In the last decade, it has gained notoriety for presenting itself as a scientific, medical, futuristic, transhumanist and completely apolitical project <ref type="bibr" target="#b53">(Sosiuk 2021)</ref>.</p><p>The company's popularity and the ambition of its techno-scientific projects have made it the focus of academic analysis. The resulting body of literature, which is already starting to accumulate, offers two key perspectives for analysis. On the one hand, there are numerous studies, mostly from the social and human sciences, that problematise Neuralink's general endeavour. Their criticism revolves around three main points. The first concerns ethical issues and includes topics such as (cyber)security, autonomy and the problem of individual privacy when developing direct interfaces between a human brain and a computer <ref type="bibr" target="#b29">(Kizi 2022;</ref><ref type="bibr" target="#b30">LaGrandeur 2021)</ref>. Various initiatives have emerged from this perspective, such as Neuroderechos (Neurorights), joined by countries such as Chile and Spain. This initiative was launched by the Morningside group and has identified the rights to mental privacy, identity and personal autonomy, equal access to cognitive enhancement and protection against the biases of artificial intelligence algorithms as key points for reflection <ref type="bibr" target="#b49">(Santos 2022)</ref>. The second focuses on examining the risks to communication and language posed by a technology such as Neuralink, which promises instant brain-to-brain communication and relies on the mass datification of our cognitive processes. In this case, the critique is that linguistic structure, which is essential to the constitution of the human being and operates on the basis of an eminently performative activity, can be altered in its functioning and produce previously unimaginable consequences <ref type="bibr" target="#b36">(Morales 2023;</ref><ref type="bibr" target="#b67">Žižek 2023)</ref>. Finally, there is an important strand of literature that conceptualises Neuralink as a techno-scientific posthumanist project linked to socalled 'surveillance capitalism'. Authors highlight concerns about a scenario in which companies compete for access to our consciousness and commodify data about our most intimate thoughts and decisions <ref type="bibr" target="#b7">(Cernat, Borțun, and Matei 2022;</ref><ref type="bibr" target="#b17">Fourneret 2020)</ref>.</p><p>On the other hand, there is a body of literature, mostly from the natural, engineering and health sciences, which analyses the potential of Neuralink as a technological project. In this context, authors have examined the medical feasibility of the device <ref type="bibr" target="#b12">(Fiani et al. 2021;</ref><ref type="bibr" target="#b8">Daneev et al. 2022;</ref><ref type="bibr" target="#b52">Sharma, Khan, and Katarya 2022)</ref>, discussed the health risks involved <ref type="bibr" target="#b50">(Schnitzer and Kodalle 2022)</ref> and raised certain bioethical objections <ref type="bibr">(Said et al. 2021)</ref>. This literature generally takes a positive stance on the medical applications of Neuralink in the treatment of neurological disorders, the surgical benefits it may bring, and the study of biocompatibility <ref type="bibr" target="#b28">(Kirsch, Bolu Ajiboye, and Miller 2019;</ref><ref type="bibr" target="#b32">Luckiewicz 2021)</ref>. Of particular note are the studies that highlight 'speed' as one of the major contributions of Neuralink's projects. The authors point to improvements in speed compared to other brain-computer interfaces, faster data processing and reading, and the speed of interface insertion and communication <ref type="bibr" target="#b12">(Fiani et al. 2021;</ref><ref type="bibr" target="#b37">Musk and Neuralink 2019;</ref><ref type="bibr" target="#b61">Valle 2019)</ref>.</p><p>However, despite the interest shown by these researchers, there is one line of reflection that has not yet been thoroughly developed. The focus on 'speed' as a concept, as presented in some of the reflections, takes us directly along this line. When authors highlight the innovations and possible changes that will result from the increased speed of the brain-computer link, they are really pointing to the emergence of a new way of communicating, of managing information, of structuring our actions and, in short, of defining our reality. In other words, we are seeing the emergence of a political dimension that is directly associated with Neuralink's scientific and technological contributions. It is this dimension that we wish to explore in this article. According to our research, Neuralink is much more than a company making huge profits, more than a technological project or a display of ethical ideas that may line up with the above-mentioned surveillance capitalism. Our data show that Neuralink embodies what authors such as <ref type="bibr" target="#b20">Han (2014)</ref> and <ref type="bibr">Stiegler (2010a)</ref> have called 'psychopolitics'. This new regime of power relations and control is essentially characterised by the imperative to translate psychological processes into data, and by the ultimate goal of optimising our psyche and making it the main arena for political debate. Thus, our article is situated within a broader body of literature that, although not focused specifically on the study of Neuralink, examines the relationship between neurobiology and governmentality. Authors such as <ref type="bibr" target="#b26">Isin (2004)</ref> were among the first to coin concepts like neuropower and neuroliberalism to describe a new form of power whose governance operated through neurosis, managing citizens' anxieties. Later, <ref type="bibr" target="#b45">Rose (2006)</ref> analyzed the image of the brain as the governing element of the organism in the behavioural explanation of society. With the rise of the neurosciences, the idea of a neuro era or neuro culture began to take shape <ref type="bibr" target="#b46">(Rose and Abi-Rached 2013)</ref>. This marked a gradual focus on the neuro aspect of individuals. It suggests that notions such as neural plasticity began to shape our entire understanding of the human and the subjective <ref type="bibr" target="#b33">(Malabou 2004)</ref>. Following this thread, <ref type="bibr" target="#b10">Dillon and Reid (2009)</ref> and <ref type="bibr" target="#b64">Whitehead et al. (2018)</ref> also integrated neurobiology into the framework of governmentality, using neuroscientific tools and concepts to characterise and describe liberalism, the subjects it produces, and its war methodology. This latter link between the neurosciences and the military realm has been further developed in recent years with the emergence of neurotechnologies <ref type="bibr" target="#b24">(Howell 2017;</ref><ref type="bibr" target="#b42">Ördén 2024)</ref>.</p><p>Despite these important contributions, we believe it is urgent to expand and deepen studies connecting governmentality and the neurosciences -particularly neurotechnologies -given that they are beginning to permeate every layer of our society at an accelerating pace. Our original analysis of a concrete case like Neuralink and its link to psychopolitics can significantly contribute to this goal.</p><p>To support and illustrate the above, we will first review the concept of psychopolitics, the main devices that constitute it and its core difference from the concept of biopolitics. We will then present the methodology used to analyse Neuralink as a case study, treating it as a paradigmatic example <ref type="bibr" target="#b2">(Agamben 2009)</ref>. This methodology enables the triangulation of diverse data sources, including press articles, scientific publications, conferences, live demonstrations, and websites published and disseminated both by Neuralink itself and by other relevant media outlets from different countries. Following that, we will examine the main results obtained using the content analysis software Atlas.ti (v.23), which allows for coding and categorisation of textual, visual, and audiovisual data. The aim of the analysis was to explore, identify and link verbatims that illustrate how the main devices constituting the concept of psychopolitics can be located within and shape the Neuralink project. Finally, we will conclude by characterising Neuralink as the prime example of psychopolitics at work in our time.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.">What is psychopolitics?</head><p>The work of <ref type="bibr" target="#b13">Foucault (1977;</ref><ref type="bibr" target="#b14">1978;</ref><ref type="bibr">2004)</ref> showed that with the advent of so-called 'modernity', politics could only be understood and analysed as 'anatomopolitics' and 'biopolitics'. The first one refers to the set of control techniques exercised directly on the individual body, focusing on disciplining, training, and optimising the human body to make it useful, docile, and productive within a given social system -for example, through institutions such as the school, the military, the prison or the hospital. On the other hand, under biopolitics, variables such as population, economy, biology and the construction of new subjects come together to form a seamless web. As a result, it is concerned with analysing the threshold established between the population and the normal or pathological individual, with disciplines such as medicine responsible for determining the relationship between normality and pathology through their practices and discourses. The aim of biopolitics is to construct a society without pathologies through the generalised intervention of medicine in the social structure <ref type="bibr" target="#b14">(Foucault 1978)</ref>. In this way, institutions such as hospitals, primary care centres and psychiatric asylums become essential for controlling the management of individuals and populations <ref type="bibr">(Foucault 2004)</ref>. From an economic point of view, biopolitics becomes the rationale under which individual modes of thought and practice are governed by the principles of economic liberalism, with phenomena related to the population as a whole (general health, birthrate, longevity, race, etc.) emerging as important for governmental practice. This gives rise to what Foucault calls Homo oeconomicus, a new subject who guides his everyday life through calculation, measurement, and optimisation or standardisation <ref type="bibr">(Prozorov and Rentea 2020)</ref>.</p><p>Since the end of the twentieth century, the concept of biopolitics has become a mandatory point of reference in the social and human sciences when thinking about power in our historical present. Thus, concepts such as necropolitics emerged, developed by <ref type="bibr" target="#b35">Mbembe (2003)</ref> to describe how, in many contemporary contexts, the exercise of power is not only about managing life (as in biopolitics), but also about administering death -deciding who may live and who must die. This produces 'zones of death' where the law is suspended and bodies are completely exposed to violence, as seen, for example, in the occupied Palestinian territories. In recent decades, however, various critical views have emerged suggesting that the concept has become obsolete due to the emergence of a new historical context that eludes the analysis and understanding offered by the Foucauldian approach.</p><p>In his later work, <ref type="bibr">Foucault (2004;</ref><ref type="bibr" target="#b15">2009)</ref> had already begun to anticipate this, developing the concept of governmentality to describe the new logics of governance that liberal societies began to deploy in the West from the eighteenth century onward. In contrast to the sovereign and disciplinary forms of rule that dominated previous centuries, governmentality is characterised by an exercise of biopower that seeks, as far as possible, to avoid the use of techniques directed at the individual body -such as punishment or regulation -in favour of subtle action on the environment and the social surroundings. However, Foucault also pointed out that for governmentality to operate, it must rely on the production of subjects who voluntarily follow the established order, freely choosing to obey. These subjects are produced through the deployment of so-called technologies of the self, which consist of a set of operations individuals perform on themselves with the aim of transforming in order to attain a certain ideal <ref type="bibr" target="#b16">(Foucault 2010)</ref>. In this way, through acting upon their own subjectivity, neoliberalism has promoted the figure of the entrepreneurial individual, who must invest in and develop different aspects of their life to remain competitive in the market.</p><p>Along these lines, other more contemporary authors have built upon Foucault's ideas to further explore how the entrepreneurial subject embodies the neoliberal ideal. One of them is <ref type="bibr" target="#b45">Rose (2006)</ref>, who introduces the concept of ethopolitics to refer to the deployment of a capitalist moral and ethical cosmos that individuals internalise and that governs their lives. Meanwhile, <ref type="bibr" target="#b31">Lazzarato (2006)</ref> proposes the term noopolitics to refer to the role of techniques of public opinion control in shaping the neoliberal subject. Lazzarato argues that governmentality also operates through discourse produced by a range of experts, amplified by mass media, and which shapes the opinions of the public who consume them.</p><p>However, with the advent of the digital world and artificial intelligence, some authors argue that contemporary governmentality increasingly operates less through discursive logics and more by exploiting the affective-somatic dimension of the public. <ref type="bibr">Stiegler (2010b)</ref> coined the term psychopower to describe power's action on this affectivesomatic side of individuals, aiming to direct their attention toward certain objects and goals considered socially desirable.</p><p>In this vein, <ref type="bibr" target="#b20">Han (2014)</ref>, drawing on <ref type="bibr" target="#b54">Stiegler's (2002)</ref> idea of psychopower, proposed the concept of psychopolitics as a way of describing how individuals and populations are managed in the contemporary era. For Han, the key to the major shift we are experiencing is that the management and control of our bodies has moved from population management to the regulation of our psyches. Psychopolitics works by optimising psychological processes and establishing the psyche as a productive force from which capital can be extracted <ref type="bibr" target="#b5">(Baleriola and Tirado 2023)</ref>. This is made possible by the advent of technologies such as big data, algorithms and artificial intelligence.</p><p>As a concept, psychopolitics describes a set of practices and discourses with three underlying aspects: (a) the large-scale translation of psychological processes into data (datification); (b) the optimisation of these processes through data management; and (c) the exercise of control in spaces beyond the purely institutional, i.e. the so-called extitutional spaces <ref type="bibr" target="#b60">(Tirado and Kingsman 2021)</ref>. These three dimensions are described below.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.1.">From psyche to data: large-scale translation reconceptualises biopolitics</head><p>As some authors have pointed out, the institutions that used to place the physical body at the centre of their activities have shifted in recent decades to other types of practices in which the physical body is linked to information technologies that encode biological processes. Their aim is to produce databases, graphs and statistics that make it possible to anticipate, plan and direct the actions of individuals. This shift from life to data as the new terrain for political struggles has brought with it a new type of power relations that Tirado and Kingsman (2021) call 'datapower'. This does not mean that life is no longer an important factor in political struggles, but simply that data subsume life and become a broader and more important dimension for the creation of power relations, allowing behaviour to be instrumentalised with the aim of modifying, productivising, controlling and monetising it. For example, according to Zuboff (2020), large technology companies such as Facebook, Google, Amazon and Microsoft saw the opportunity to turn data into raw material, creating huge databases and statistics that they could use to predict the behaviour of individuals and monitor our consumption, shaping an individualised economy and turning all spheres of people's lives into a marketable commodity <ref type="bibr" target="#b19">(Han 2013;</ref><ref type="bibr" target="#b59">Tirado and Callén 2008)</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.2.">Psyche optimisation</head><p>The translation of our lives and psyches into data that enable a permanent state of wellbeing and optimise individual potential <ref type="bibr" target="#b11">(Ehrenreich 2021</ref>) is clearly exemplified in disciplines such as biomedicine and psychology. For example, according to <ref type="bibr" target="#b44">Rose (1996)</ref>, given the difficulty that anthropomorphic studies had in understanding the peculiarities of the soul, psychological tests emerged as a means of visualising and diagnosing behavioural and psychological traits. Psychologists use these tools as a means of gaining access to the psyche of the population and its idiosyncrasies, normativising certain characteristics and data patterns as 'healthy' and 'functional', and linking them to well-being. In this way, individuals who deviate from normative standards are psychopathologised and certain combinations of data are catalogued as pathologies or disorders, thus enabling and legitimising their subsequent intervention based on knowledge gained from disciplines such as neuropsychology and clinical psychology.</p><p>However, the practices and discourses of psychopolitics, while sharing the objective described by Rose, differ in the direction they take. Normativity thresholds are established according to the knowledge produced by psychology, psychiatry and neuroscience -that is absolutely true -but now interventions are carried out through a discourse of positivity and well-being. This discourse frees the individual from external coercion, discipline and punishment, and advocates freedom and self-perfection. Thus, people are expected to use their own resources to become productive beings, pursuing goals determined by artificial intelligences and algorithms that indicate which profiles are optimal and which are wrong or unhealthy. Time must be set aside for regular exercise, yoga and meditation, and for seeing a psychologist at the slightest sign of discomfort or inactivity <ref type="bibr" target="#b25">(Illouz 2010)</ref>. Psychopolitics is therefore an exercise in gentle, seductive power that seeks to motivate and optimise our behaviour. It offers individuals projects of positive self-development, improvement and continuous monitoring <ref type="bibr" target="#b60">(Tirado and Kingsman 2021)</ref>. Thus, individuals must optimise all their psychological activity, because they are constantly looking to the future.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.3.">Faster data processing and extitutional control</head><p>Smart self-monitoring and self-care devices play a critical role in all of the above. These devices make it possible to reduce the time it takes to process data and thus to give an answer or make a decision. In this sense, psychopolitics emphasises the role of speed and the ability to accelerate any process by which our behaviour can be predicted. In this context, age-old institutions such as prisons, schools and workshops become increasingly irrelevant because they are slow in processing their activities. These technologies turn the everyday spaces we inhabit into extitutions <ref type="bibr" target="#b51">(Serres 1995)</ref>. Every day we move through blocks of space-time characterised by the constant production of data by devices such as smartphones, which generate an endless stream of information that escapes the block in which it is produced and is managed by third parties far removed from the producer of the information. This gives rise to what <ref type="bibr" target="#b9">Deleuze (1989)</ref> called open and continuous control, the only difference being that it now takes place 24 h a day rather than at specific times as he claimed. The following sections show how the Neuralink project obeys and reproduces this logic.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.">Methodology</head><p>We analysed Neuralink using the logic offered by the case study method <ref type="bibr" target="#b66">(Yin 2014</ref>) treating it as a paradigmatic example (Agamben 2009). The main aim of this perspective is not to generalise, but to particularise a given case according to its situational reality <ref type="bibr" target="#b63">(White and Cooper 2022)</ref>. The goal is to develop an 'ideal type', i.e. an explanation that serves both to provide a deep understanding of the specific case being studied and to generalise this understanding to similar phenomena, recognising, of course, that such generalisation will never be exact but will have to be adapted to the particularities of each new object of study. A paradigmatic case (Agamben 2009) functions as a device that allows for the revelation of the invisible structure and the operational rules of the set or system to which it belongs. It enables the study of a particular phenomenon not as a simple example, but as the key that defines and articulates the totality.</p><p>Our data collection involved locating and compiling digital information published by Neuralink on open access online platforms. We also reviewed articles from relevant newspapers reporting on the project in different countries. This systematic approach took place over a period of six months in 2022 and a further six months in 2023. This allowed us to capture the project's development over the course of two years. Information was collected in the form of text, images and videos. The resulting corpus consists of websites, blogs, interviews, academic articles, newspaper articles and videos of live presentations given by Neuralink. The three tables below list the material analysed and its sources (Tables <ref type="table" target="#tab_0">1</ref><ref type="table">2</ref><ref type="table" target="#tab_1">3</ref>).</p><p>The material was analysed using interpretative content analysis <ref type="bibr" target="#b65">(Willig 2013</ref>) and abductive reasoning. The latter is a knowledge production strategy associated with constructionism, combining inductive and deductive methods (Järvensivu and Törnroos </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>2010</head><p>). Thus, while accepting the concept of psychopolitics to deduce codes and categories of analysis, our research stance was also open to the possibility that new relevant codes and categories might emerge. The empirical corpus was processed using the qualitative data analysis software Atlas.ti (v.23), which allowed us to analyse text files, images and videos.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="4.">What lies behind Neuralink's discourses and practices?</head><p>The above analysis provided us with four broad categories into which we could group the discourses and practices contained in the collected material. These are:</p><p>1. The A-side of Neuralink: a transhumanist, scientific, medical and apolitical project 2. Datification of the psyche 3. Constant improvement of the psyche 4. Technological revolution and extitutionalisation</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="4.1.">The A-side of Neuralink: a transhumanist, scientific, medical and apolitical project</head><p>Neuralink Corporation is systematically presented across all the material analysed as the breakthrough developer of implantable brain-computer interfaces, with the initial aim of optimising neuropsychological rehabilitation and improving the human condition through transhumanism <ref type="bibr" target="#b37">(Musk and Neuralink 2019;</ref><ref type="bibr">Home-Neuralink n.d.)</ref>. The following quotes illustrate this: Neuralink, I think, at first will solve a lot of brain-related diseases. So it could be anything from like autism, schizophrenia, memory loss. […] So, there's, I think, a tremendous amount of good that Neuralink can do in solving critical damage to the brain or the spinal cord. There's a lot that can be done to improve quality of life of individualsthose will be steps along the way -and then ultimately it's intended to address the existential risk associated with digital super intelligence. We will not be able to be smarter than a digital supercomputer, so therefore, if you cannot beat them, join them. (Lex Fridman 2019)</p><p>This will be a slow process where we will gradually increase the issues that we solve until ultimately we can do a full brain-machine interface, meaning that we can ultimatelyyeah, this is going to sound pretty weird, but -achieve a sort of symbiosis with artificial intelligence. <ref type="bibr" target="#b38">(Neuralink 2019)</ref> Similarly, the project is presented as apolitical, seeking neutral and universal scientific knowledge, particularly based on neuroscience.</p><p>First, I want to show you that the work that we're doing doesn't come out of thin air; we're building on over a century of neuroscience research and decades of neural engineering research. These provide a solid foundation for the sorts of things that we're talking about.</p><p>[…] So, I've told you about the way that the brain represents information and that these sorts of encoding methods … Representations in the brain are things that we can learn to decode. <ref type="bibr" target="#b38">(Neuralink 2019)</ref> We found a plethora of quotes and excerpts that, like those above, define Neuralink as a neutral techno-scientific project. It certainly welcomes the ethical debate that comes with any scientific activity, but it also turns its back on any relevant political considerations, insofar as it defines itself as yet another product of a hegemonic Western culture and values, the ultimate foundation of which is science. As we shall see below, this science is also defined as an activity that needs to be fed with 'data', and not just any data, but data from our psyche.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="4.2.">Datification of the Psyche</head><p>The Neuralink project as a whole requires a major translation: the conversion of our psychological activity into data, into bits and pieces that can form databases, matrices, algorithmic markers and so on. This exercise is carried out by its flagship invention: a small microchip that can be implanted in the brain with relative ease. We can record electrical signals in the brain.</p><p>[…] We place electrodes near neurons in order to detect action potentials. Recording from many neurons allows us to decode the information represented by those cells. In the movement related areas of the brain, for example, neurons represent intended movements. There are neurons in the brain that carry information about everything we see, feel, touch, or think. (Home-Neuralink n.d.)</p><p>As the excerpt above suggests, Neuralink reduces psychology to binary code. It sees the neurological substrate as the origin of all human psychological processes, represented by electrical signals and action potentials produced by neurons to communicate and transmit information. Its encoding is therefore essential because it is the gateway to the interior of our psychological life in all its manifestations. Figure <ref type="figure" target="#fig_0">1</ref> illustrates this approach perfectly. The image shows Pager, a macaque implanted with the Neuralink chip, interacting with various displays. This is Pager. He's a nine-year-old macaque who had a Neuralink placed in each side of his brain about six weeks ago. […] By recording from many neurons and feeding their activity into a decoder algorithm, we are able to predict Pager's intended hand movements in real time.</p><p>[…] One of the things the Neuralinks allow Pager to do is to play his favourite video game, Pong. To control his paddle on the right side of the screen, Pager simply thinks about moving his hand up or down. We've removed the joystick altogether. <ref type="bibr" target="#b40">(Neuralink 2021)</ref> Pager's neural activity is picked up by the microchips implanted in his brain and fed into an algorithm that decodes it, i.e. translates it into codes that can later be read and interpreted. At the bottom of the screen to his left is a graph showing the recorded neural spikes, and at the top is the data set formed by recording all the spikes, in which certain patterns can be seen. These are decoded by the algorithm and translated into binary code, which is how the macaque's movement intentions are materialised in the video game. The process can be better understood through an example presented by Neuralink's chief scientist using fake neurological data:</p><p>The way we do that is by building something that we call decoding algorithms. These are mathematical algorithms that we tune based on data like these to be able to take in just those rasters of spiking activity and output the movement that the person wants to make. Okay? So for these little fake data, I built a very simple decoder and sure enough it's able to capture the intended movement. This is what we want to do on a bigger scale. […] Even if you're not actually making the movement, even if you're just thinking about the movement, […] the cells and motor cortex respond in a similar way, so we can build up these decoding algorithms just from those kind of data, and then a paralysed person can think about moving the mouse and the cursor will move. <ref type="bibr" target="#b38">(Neuralink 2019)</ref> </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="4.3.">Constant improvement of the psyche</head><p>The process described in the previous section is bidirectional. In other words, Neuralink also aims to act on the psyche by modifying the brain, often with the stated purpose of medical and neuropsychological rehabilitation. The following quote is one of many examples we came across during our data collection: I think you can solve a very wide range of brain injuries, including severe depression, morbid obesity, sleep, potentially schizophrenia, like a lot of things that cause great stress to people. (TED 2022)</p><p>Neuralink's challenge is to address and alleviate the consequences of a wide range of diseases, disorders, limitations and disabilities. To do this, it bases its actions on a bedrock of technological and scientific knowledge inspired by disciplines such as neurotechnology, medicine, psychology and psychiatry. Therefore, how it defines the problem it wishes to solve is limited to the approach determined by these disciplines. In other words, neuropsychological health is situated in its causes and effects within the individual, specifically in the biological substrate represented by the brain and the nervous system.</p><p>Everyone's going to basically have some kind of neurological disorder. <ref type="bibr">[…]</ref> The thing that's important to appreciate is that an implantable device can actually solve these problems. […] All of your senses, your sight, hearing, feeling, pain … these are all electrical signals sent by neurons to your brain and if you can correct these signals you can solve everything from memory loss, hearing loss, blindness, paralysis, depression, insomnia, extreme pain, seizures, anxiety, addiction, strokes, brain damage. <ref type="bibr" target="#b39">(Neuralink 2020)</ref> All this justifies the question: where exactly is Neuralink's intervention heading?</p><p>Well, I think that the cost of these, you know, brain disease or brain injuries is extremely high to society. If you have to take care of somebody or if they need comprehensive medical care or hospice, this is actually very, very costly to society so I think the economics of solving for that make a ton of sense. And if you enable somebody to, you know, work and be a productive … you know could contribute to the economy, I think that that will … I think that the economics of that will easily pay for itself. (Neuralink 2019)</p><p>Neuralink portrays itself as the great champion of independence for people with disabilities. Controlling computers and smartphones, communicating through them, consuming content, expressing creativity, working and producing digital content is the future for people implanted with its technology. People with paralysis, for example, will retain their disability but gain the ability to produce non-physical objects, information, programmes, digital art and more. Neuralink seeks to ensure individual well-being and to optimise individuals themselves through their psyche and their connection with technology. Any consideration of other factors involved in a particular psychological health problem is disregarded and excluded from the project.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="4.4.">Technological revolution and extitutionalisation</head><p>Neuralink is quick to emphasise the importance of certain innovative features of its project that set it apart from other existing brain-computer interfaces.</p><p>The fundamental principles of reading neurons, sort of doing read-write on neurons with tiny electrodes, have been demonstrated for decades. So it's not like the concept is new. The problem is that there is no product that works well that you can go and buy. So it's all sort of in research labs and it's not … There's always like some cord sticking out of your head, and it's quite gruesome and it's really … There's no good product that actually does a good job and is high-bandwidth and safe and something you'd actually … that you could buy and would want to buy. But the way to think of the Neuralink device is kind of like a Fitbit or an Apple Watch. <ref type="bibr" target="#b58">(TED 2022)</ref> We expect that as our devices continue scale, and as we learn to communicate with more areas of the brain, we will discover new, non-medical applications for our BMIs. Neuralink's long-term vision is to create BCIs that are sufficiently safe and powerful that the general population would want to have them. <ref type="bibr">(Home-Neuralink n.d.)</ref> From the above, it is clear that Neuralink's aim is for its device to become part of our immediate everyday lives, i.e. for everyone to be able to use it permanently, easily and autonomously. As a result, the project constantly emphasises its ability to create a brain-computer interface with the following features: (a) tiny size; (b) pleasing aesthetics; (c) high durability; and (d) easy, comfortable and painless implantation in the cortex. These features are presented in images like the Figure <ref type="figure" target="#fig_1">2</ref>.</p><p>Another commonly cited new feature of the device is its accuracy and enormous data processing speed. This makes it possible to increase the speed and reliability of human communication with technology and, in particular, artificial intelligence.</p><p>The biggest limitation in going along for the ride and in aligning AI, I think, is the bandwidth, how quickly you can interact with the computer. So we're all already cyborgs in a way in that your phone and your computer are extensions of yourself. <ref type="bibr">[…]</ref> But so what's the limitation on a phone or a laptop? Limitation is the rate at which you can receive and send information, especially the speed with which you can send information. So if you're interacting with a phone, it's limited by the speed at which you can move your thumbs or the speed at which you can talk into your phone. This is an extremely low data rate, you know, maybe it's like 10, optimistically 100, bits per second, but a computer can communicate at, you know, gigabits, terabits per second. This is the fundamental limitation that I think we need to address to mitigate the long-term risk of artificial intelligence. <ref type="bibr">(Neuralink 2022)</ref> The most important implication of the above is the massive and constant use of the device in everyday life. This use will turn us into producers of data about our psyche, which will be transmitted from all the blocks of space-time in which our daily lives unfold. These data will be sent out and placed in the hands of third parties, in the hands of large private corporations or government agencies far removed from the original point of data production; they will be anonymous entities over which we will have no control. This will render irrelevant or obsolete the logic of the old institutions involved in collecting data and records of our activities as individuals or as a population. These new blocks of space-time in which we will intermittently produce data can be called 'extitutions', drawing on a concept proposed by <ref type="bibr" target="#b51">Serres (1995)</ref>. Given our current use of smart devices and the emergence of the Internet of Things, it can be argued that this situation is already upon us. According to many authors, this is indeed the case (Zuboff 2020; <ref type="bibr" target="#b59">Tirado and Callén 2008)</ref>. The big difference with Neuralink is that it intends to record our psychological activity permanently and constantly.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="5.">Neuralink: a psychopolitical project</head><p>Our analysis of the collected material revealed four main categories of discourses and practices in the Neuralink project. As outlined above, these are: (a) the A-side of Neuralink: a transhumanist, scientific, medical and apolitical project; (b) datification of the psyche; (c) constant improvement of the psyche; and (d) technological revolution and extitutionalisation. A quick and superficial reading of the discourses and practices gleaned from the press coverage of the Neuralink project might suggest that it is indeed committed to the canonical ideal of objective, neutral, scientific activity with humanitarian aims. However, with the categories identified, we are able to demonstrate that we are dealing with the deployment of a political project tout court. To use <ref type="bibr" target="#b20">Han's (2014)</ref> term, we can call it psychopolitical.</p><p>The first argument for this is that Neuralink is clearly developing a technological device with the ability to translate the psyche into data, establishing a two-way channel of communication between the brain and smart devices. This focus on translating the psyche perfectly echoes the shift that psychopolitics brought to the 2010s as a project aimed at managing the psyche to control individuals. Of course, this interest in psychology is not new; it has a long tradition going back to the birth of psychoanalysis. What is new, however, is that it is now based on an enormous exercise in dataism. That is, the psyche must first be translated into data for subsequent management and intervention. This translation opens up the possibility of capitalising on these data, turning them into raw material and a source of wealth and power for the kind of capitalism that Zuboff (2020) calls surveillance capitalism.</p><p>Secondly, there is a clear intention to permanently optimise the psychological life of people by means of massive psyche datification. The aim is to increase the quality of life of the population, to solve a wide range of neuropsychological disorders and disabilities, and to enhance mental abilities. This exercise is the second major characteristic of psychopolitics. In this new way of exercising power and control, the biological optimisation of citizens' bodies is implied and taken a step further by seeking psychological optimisation. Psychopolitical action allows individuals to become more adaptable to their environment, minimising or invalidating the need to transform it, even though this is precisely where the source of their discomfort and suffering lies. Therefore, it is not so outrageous to assert that Neuralink intends to modify individuals to fit the needs of today's neoliberal and capitalist society, diverting the focus away from transformative social action that might disrupt the status quo and existing power relations. Therefore, as <ref type="bibr" target="#b20">Han (2014)</ref> argued, through projects such as Neuralink, the psyche becomes the new productive force to be managed and controlled.</p><p>The third argument relates to Neuralink's obsession with processing speed. The project aims to boost the accuracy and speed with which data from the brain implant are read, in order to enable instant interaction with connected smart devices. This will make it possible to predict individual behaviour faster and more accurately. In fact, the Neuralink device is designed to work even faster than the speed at which we consciously process this neural information ourselves. This would enable a kind of digital psychopolitics capable of driving the behaviour of the masses on a level that escapes consciousness. To quote <ref type="bibr" target="#b20">Han (2014)</ref>: 'If big data has access to the realm of our unconscious actions and inclinations, it is possible to construct a psychopolitics that would reach deep into our psyche to exploit it' (51). Han anticipated with this quote a radical discontinuity in the exercise of psychopolitics that he himself proposed. As our study shows, the psychopolitical strategy no longer consists of friendly discourses aimed at seduction, but operates directly on unconscious processes, bypassing the rationality of individuals.</p><p>This perspective gives new meaning to the fact that Neuralink's technological innovations include the ability to reduce the brain-computer interface to an implantable brain microchip that individuals can live with comfortably and continuously throughout their daily lives. It also sheds new light on the company's desire to bring this product to the masses and mainstream its use. When this happens, it will be possible to continuously monitor people's mental and physical health without them having to go to medical institutions, thus delegating responsibility for health management to this technological device. This will provide the material basis for the development of a new type of social formation that <ref type="bibr" target="#b51">Serres (1995)</ref> called 'extitutions'. Extitutions reject the old institutions' logic of enclosure that characterised the exercise of biopolitics and turn our everyday lives (at home, at the gym, on a walk, visiting a museum, etc.) into a series of spacetime blocks in which we generate an endless stream of data that escapes these blocks and is managed by third parties whom we have no way of questioning.</p><p>Based on the above arguments, we can say that Neuralink is much more than a scientific and technological project. Its aims go beyond health research, and its very conception is too much for the basic ethical debates it has recently provoked. Its practices and discourses outline a genuine political project, a transformation of the way we live, think and interact with each other and the world around us. This project does not fit the terms that the social sciences have so far used to describe our present: anatomopolitics, biopolitics and their derivatives such as ethopolitics or necropolitics. On the contrary, Neuralink signals a shift in politics and has made the psyche its new battleground.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="6.">Conclusion</head><p>Beyond the technological and ethical debates it has generated, our research has shown that Neuralink is above all a set of practices and discourses that constitute a new kind of political project, which we call psychopolitical, drawing on the term proposed by <ref type="bibr" target="#b20">Han (2014)</ref>. Among the many things that Neuralink embodies (a revolution in technology, health, etc.) is the materialisation of a new regime of power relations and control. Of course, this regime differs from so-called biopolitics in that the emphasis is no longer on coercion or punishment, but on seduction and optimisation. It is not based in semi-closed, bureaucratic institutions, but in spaces that generate a constant stream of data that is used by corporations and organisations outside our direct control. Moreover, our findings reveal a fundamental difference in the psychopolitical dynamic proposed by Han, who argues that power no longer operates externally but is instead internalised by the subject, giving rise to new techniques such as self-exploitation. In contrast, Neuralink reveals a loss of individual agency, as it enables control over the psyche without requiring the subject to internalise a friendly discourse based on an illusory sense of freedom. Thus, the aim of psychopolitics shifts from discourse and desire to non-conscious cognitive processes <ref type="bibr" target="#b21">(Hayles 2024</ref>) and the nervous system. Even so, it is worth mentioning that these conclusions are limited by the success of neurotechnologies like Neuralink in becoming technologies for everyday use -something that is currently hard to imagine due to their invasive nature, which makes obtaining public consent difficult.</p><p>Our findings call for further research to overcome, firstly, the difficulties we encountered in collecting data. Neuralink does not allow access to its facilities and it is extremely difficult to interview its members. Thus, in the set of discourses and practices we have collected, there is a notable lack of feedback from the Neuralink community on our interpretations and analyses. Secondly, it would be interesting to include the point of view of the people who are directly affected by the features of the device.</p><p>Moreover, our findings show how neurotechnologies like Neuralink serve as a bridge or point of transition between two predominant contemporary techniques of governmentality: on the one hand, what some authors refer to as algorithmic governmentality <ref type="bibr" target="#b3">(Amoore 2020;</ref><ref type="bibr" target="#b4">Aradau and Blanke 2022;</ref><ref type="bibr" target="#b47">Rouvroy and Berns 2013)</ref> and on the other, an exercise of what we have called psychopolitics. Thus, this study opens new avenues for research aimed at more precisely and thoroughly analyzing how artificial intelligence and algorithms intersect with the neurosciences and the nervous system within the framework of governmentality and the study of the human condition, as proposed by authors such as <ref type="bibr" target="#b34">Malabou (2024) and</ref><ref type="bibr" target="#b57">Tängh Wrangel (2024)</ref>.</p><p>Finally, it is worth noting that the analysis of Neuralink and similar projects is in itself an essential exercise for the social sciences, in line with <ref type="bibr" target="#b6">Braidotti's (2019)</ref> proposals for affirmative ethics. According to this author, we need to make visible, question and reflect on the kinds of techno-scientific devices we create, the relationships we weave with them, and the meanings and values that permeate them, as they can either emancipate us or lead us to new forms of oppression. In terms of psychopolitics, this will allow us to reclaim our brain, so that we can collectively use it for political purposes, instead of it being used as a means of governance <ref type="bibr" target="#b33">(Malabou 2004</ref>).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Disclosure statement</head><p>No potential conflict of interest was reported by the author(s).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Notes on contributors</head><p>Sergi Parellada Guillamón is a research professor at the Open University of Catalonia and is pursuing a PhD in Social Psychology at the Autonomous University of Barcelona, Spain.</p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head>Figure 1 .</head><label>1</label><figDesc>Figure 1. Neuralink demonstration. Source: Neuralink 2021.</figDesc><graphic coords="11,60.60,53.29,372.02,167.87" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_1"><head>Figure 2 .</head><label>2</label><figDesc>Figure 2. Neuralink implant. Source: Peirón 2023.</figDesc><graphic coords="13,156.36,412.38,180.00,214.41" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_0"><head>Table 1 .</head><label>1</label><figDesc>Material analysed from the Neuralink website.</figDesc><table><row><cell>Source</cell><cell>Type (and no.) of documents</cell><cell>Published Consulted</cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_1"><head>Table 3 .</head><label>3</label><figDesc>Material analysed from relevant media in various countries.</figDesc><table><row><cell>Country</cell><cell>Source</cell><cell>No. of articles</cell><cell>Published</cell><cell>Consulted</cell></row><row><cell>United States (USA)</cell><cell>WIRED</cell><cell>3</cell><cell>14/02/2023-20/09/2023-20/09/2023</cell><cell>2023</cell></row><row><cell></cell><cell>USA TODAY</cell><cell>1</cell><cell>20/09/2023</cell><cell>2023</cell></row><row><cell></cell><cell>The Washington Post</cell><cell>1</cell><cell>26/05/2023</cell><cell>2023</cell></row><row><cell></cell><cell>Los Angeles Times</cell><cell>1</cell><cell>26/05/2023</cell><cell>2023</cell></row><row><cell>Spain</cell><cell>Forbes España</cell><cell>5</cell><cell>03/02/2022-21/09/2023-07/10/2023-</cell><cell>2023</cell></row><row><cell></cell><cell></cell><cell></cell><cell>17/02/2022-26/05/2023</cell><cell></cell></row><row><cell></cell><cell>EL PAÍS</cell><cell>3</cell><cell>01/12/2022-26/05/2023-06/12/2022</cell><cell>2023</cell></row><row><cell></cell><cell>elEconomista.es</cell><cell>1</cell><cell>20/09/2023</cell><cell>2023</cell></row><row><cell></cell><cell>CSIC</cell><cell>1</cell><cell>30/08/2020</cell><cell>2023</cell></row><row><cell></cell><cell>Xataka</cell><cell>1</cell><cell>20/09/2023</cell><cell>2023</cell></row><row><cell></cell><cell>El Confidencial</cell><cell>2</cell><cell>01/08/2022-22/09/2023</cell><cell>2023</cell></row><row><cell></cell><cell>La Vanguardia</cell><cell>1</cell><cell>26/05/2023</cell><cell>2023</cell></row><row><cell>United Kingdom (UK)</cell><cell>BBC News</cell><cell>1</cell><cell>29/08/2020</cell><cell>2023</cell></row><row><cell></cell><cell>The Guardian</cell><cell>3</cell><cell>26/05/2023-20/09/2023-20/12/2022</cell><cell>2023</cell></row><row><cell>India</cell><cell>Hindustan Times</cell><cell>1</cell><cell>21/09/2023</cell><cell>2023</cell></row><row><cell></cell><cell>Times of India</cell><cell>2</cell><cell>08/08/2023-26/05/2023</cell><cell>2023</cell></row><row><cell>Russia</cell><cell>Tsargrad TV</cell><cell>1</cell><cell>26/05/2023</cell><cell>2023</cell></row><row><cell>France</cell><cell>La Croix</cell><cell>1</cell><cell>12/01/2022</cell><cell>2023</cell></row><row><cell></cell><cell>Le Parisien</cell><cell>1</cell><cell>21/09/2023</cell><cell>2023</cell></row><row><cell></cell><cell>Libération</cell><cell>1</cell><cell>26/05/2023</cell><cell>2023</cell></row><row><cell>Argentina</cell><cell>Clarín</cell><cell>1</cell><cell>22/09/2023</cell><cell>2023</cell></row><row><cell></cell><cell>Infobae</cell><cell>1</cell><cell>20/09/2023</cell><cell>2023</cell></row><row><cell></cell><cell>La Nación</cell><cell>1</cell><cell>01/09/2020</cell><cell>2023</cell></row><row><cell>South Africa</cell><cell>Daily Maverick</cell><cell>1</cell><cell>20/09/2023</cell><cell>2023</cell></row></table></figure>
+		</body>
+		<back>
+			<div type="annex">
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>Ana Gálvez Mozo is a professor of Social Psychology at the Universitat Oberta de Catalunya.</p><p>Francisco Tirado Serrano is a professor of Social Psychology at the Autonomous University of Barcelona and a member of STS-b (Barcelona Science and Technology Studies Group).</p></div>			</div>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<monogr>
+		<ptr target="https://neuralink.com/blog/Neuralinkarticles" />
+		<title level="m">+ Videos (11) + Images</title>
+		<imprint>
+			<biblScope unit="page">2023</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<title level="a" type="main">Material analysed from YouTube, including Neuralink&apos;s own channel. Source Channel Video title Published Consulted YouTube @Neuralink Neuralink Launch Event 2019 2022 Introducing Neuralink 2019 2022 Neuralink Progress Update</title>
+	</analytic>
+	<monogr>
+		<title level="j">Medical Internet Research</title>
+		<imprint>
+			<date type="published" when="2019">2019. 31/10/ 2019 2022 Table 2. 2022 2023 Neuralink 2022 2022 2023. 2022 2022 2023. 2019 2022</date>
+		</imprint>
+		<respStmt>
+			<orgName>Neuralink Show and Tell</orgName>
+		</respStmt>
+	</monogr>
+	<note>An Integrated Brain-Machine Interface Platform With Thousands of Channels&apos; (Musk and Neuralink. Summer 2020 2020 2022 Animal Care at Neuralink 2020 2022 Monkey MindPong 2021 2022 Animal Care at Neuralink 2022 Update. LexFridman Elon Musk: Neuralink, AI, Autopilot, and the Pale Blue Dot | Lex Fridman Podcast #49</note>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title level="a" type="main">A future worth getting excited about | Tesla Texas Gigafactory interview | TED 2022 2022 @WELTDocumentary ELON MUSK: &apos;Birthrate might be the biggest threat to the future of human civilization</title>
+		<author>
+			<persName><forename type="first">@</forename><surname>Ted</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Elon</forename><surname>Musk</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">The Signature of All Things</title>
+		<meeting><address><addrLine>New York</addrLine></address></meeting>
+		<imprint>
+			<publisher>Zone Books</publisher>
+			<date type="published" when="2009">2022 2022 References Agamben, Giorgio. 2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<monogr>
+		<title level="m" type="main">Cloud Ethics: Algorithms and the Attributes of Ourselves and Others</title>
+		<author>
+			<persName><forename type="first">Louise</forename><surname>Amoore</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2020">2020</date>
+			<publisher>Duke University Press</publisher>
+			<pubPlace>Durham, NC</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<monogr>
+		<title level="m" type="main">Algorithmic Reason: The New Government of Self and Other</title>
+		<author>
+			<persName><forename type="first">Claudia</forename><surname>Aradau</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Tobias</forename><surname>Blanke</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2022">2022</date>
+			<publisher>Oxford University Press</publisher>
+			<pubPlace>Oxford</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title level="a" type="main">De la bio a la psicopolítica: los dispositivos contemporáneos para la gestión de la psique</title>
+		<author>
+			<persName><forename type="first">Enrique</forename><surname>Baleriola</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Francisco</forename><surname>Tirado</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">En Gobernar los cuerpos: la biopolítica como caja de herramientas coordinado por Daniel J. García López</title>
+		<meeting><address><addrLine>Valencia</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2023">2023</date>
+			<biblScope unit="page" from="245" to="269" />
+		</imprint>
+	</monogr>
+	<note>tirant humanidades</note>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<monogr>
+		<title level="m" type="main">Posthuman Knowledge</title>
+		<author>
+			<persName><forename type="first">Rosi</forename><surname>Braidotti</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2019">2019</date>
+			<publisher>Polity Press</publisher>
+			<pubPlace>Oxford, Inglaterra</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title level="a" type="main">Remote Controlled Individuals? The Future of Neuralink: Ethical Perspectives on the Human-Computer Interactions</title>
+		<author>
+			<persName><forename type="first">Maria</forename><surname>Cernat</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Dumitru</forename><surname>Borțun</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Corina</forename><surname>Matei</surname></persName>
+		</author>
+		<idno type="DOI">10.5220/0011086700003179</idno>
+		<ptr target="https://doi.org/10.5220/0011086700003179" />
+	</analytic>
+	<monogr>
+		<title level="m">En Proceedings of the 24th International Conference on Enterprise Information Systems</title>
+		<imprint>
+			<publisher>Online Streaming. Science and Technology Publications</publisher>
+			<date type="published" when="2022">2022</date>
+			<biblScope unit="page" from="348" to="354" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title level="a" type="main">Differential Non-Autonomous Representation of the Integrative Activity of a Neural Population by a Bilinear Second-Order Model with Delay</title>
+		<author>
+			<persName><forename type="first">Aleksey</forename><forename type="middle">V</forename><surname>Daneev</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><surname>Anatoliy</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Lakeev</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Vyacheslav</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Pavel</forename><forename type="middle">A</forename><surname>Rusanov</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Plesnev</surname></persName>
+		</author>
+		<idno type="DOI">10.1007/978-3-030-85540-6_25</idno>
+		<ptr target="https://doi.org/10.1007/978-3-030-85540-6_25" />
+	</analytic>
+	<monogr>
+		<title level="m">En Human Interaction, Emerging Technologies and Future Systems V, editado por Tareq Ahram y Redha Taiar</title>
+		<title level="s">Lecture Notes in Networks and Systems</title>
+		<meeting><address><addrLine>Cham</addrLine></address></meeting>
+		<imprint>
+			<publisher>Springer International Publishing</publisher>
+			<date type="published" when="2022">2022</date>
+			<biblScope unit="page" from="191" to="199" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<monogr>
+		<author>
+			<persName><forename type="first">Gilles</forename><surname>Deleuze</surname></persName>
+		</author>
+		<title level="m">Conversaciones. Valencia: Pre-Textos</title>
+		<imprint>
+			<date type="published" when="1989">1989. 1995</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<monogr>
+		<author>
+			<persName><forename type="first">Michael</forename><surname>Dillon</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Julian</forename><surname>Reid</surname></persName>
+		</author>
+		<title level="m">The Liberal Way of War: Killing to Make Life Live</title>
+		<meeting><address><addrLine>New York, NY</addrLine></address></meeting>
+		<imprint>
+			<publisher>Routledge</publisher>
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<monogr>
+		<title level="m" type="main">Smile or die: How positive thinking fooled America and the world</title>
+		<author>
+			<persName><forename type="first">Barbara</forename><surname>Ehrenreich</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2021">2021</date>
+			<publisher>Granta Books</publisher>
+			<pubPlace>Londres, Inglaterra</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<title level="a" type="main">An Examination of Prospective Uses and Future Directions of Neuralink: The Brain-Machine Interface</title>
+		<author>
+			<persName><forename type="first">Brian</forename><surname>Fiani</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Taylor</forename><surname>Reardon</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Benjamin</forename><surname>Ayres</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">David</forename><surname>Cline</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Sarah</forename><forename type="middle">R</forename><surname>Sitto</surname></persName>
+		</author>
+		<idno type="DOI">10.7759/cureus.14192</idno>
+		<ptr target="https://doi.org/10.7759/cureus.14192" />
+	</analytic>
+	<monogr>
+		<title level="j">Cureus</title>
+		<imprint>
+			<biblScope unit="volume">13</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<date type="published" when="2021">2021</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<monogr>
+		<title level="m" type="main">Discipline and Punish: The Birth of the Prison</title>
+		<author>
+			<persName><forename type="first">Michel</forename><surname>Foucault</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1977">1977</date>
+			<publisher>Vintage Books</publisher>
+			<pubPlace>New York</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<title level="a" type="main">El nacimiento de la clínica: una arqueología de la mirada médica</title>
+		<author>
+			<persName><forename type="first">Michel</forename><surname>Foucault</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Siglo XXI. Foucault, Michel. 2004. Naissance de la biopolitique: Cours au Collège de France</title>
+		<meeting><address><addrLine>Paris</addrLine></address></meeting>
+		<imprint>
+			<publisher>Seuil</publisher>
+			<date type="published" when="1978">1978. 1978-1979</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<monogr>
+		<title level="m" type="main">Security, Territory and Population: Lectures at the Collège de France, 1977-1978</title>
+		<author>
+			<persName><forename type="first">Michel</forename><surname>Foucault</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2009">2009</date>
+			<publisher>Picador</publisher>
+			<pubPlace>New York</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<monogr>
+		<author>
+			<persName><forename type="first">Michel</forename><surname>Foucault</surname></persName>
+		</author>
+		<title level="m">Tecnologías del yo y otros textos afines</title>
+		<meeting><address><addrLine>Barcelona</addrLine></address></meeting>
+		<imprint>
+			<publisher>Paidós</publisher>
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<analytic>
+		<title level="a" type="main">The Hybridization of the Human with Brain Implants: The Neuralink Project</title>
+		<author>
+			<persName><forename type="first">Éric</forename><surname>Fourneret</surname></persName>
+		</author>
+		<idno type="DOI">10.1017/S0963180120000419</idno>
+		<ptr target="https://doi.org/10.1017/S0963180120000419" />
+	</analytic>
+	<monogr>
+		<title level="j">Cambridge quarterly of healthcare ethics : CQ : the international journal of healthcare ethics committees</title>
+		<imprint>
+			<biblScope unit="volume">29</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="668" to="672" />
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<monogr>
+		<author>
+			<persName><forename type="first">Lex</forename><surname>Fridman</surname></persName>
+		</author>
+		<ptr target="https://www.youtube.com/" />
+		<title level="m">Elon Musk: Neuralink, AI, Autopilot, and the Pale Blue Dot</title>
+		<imprint>
+			<date type="published" when="2019-03">2019. March, 2022</date>
+		</imprint>
+	</monogr>
+	<note>Lex Fridman Podcast #49. watch?v= smK9dgdTl40&amp;ab_channel=LexFridman</note>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<monogr>
+		<author>
+			<persName><forename type="first">Byung-Chul</forename><surname>Han</surname></persName>
+		</author>
+		<title level="m">La sociedad de la transparencia. Traducido por Raúl Gabás</title>
+		<meeting><address><addrLine>Barcelona</addrLine></address></meeting>
+		<imprint>
+			<publisher>Herder</publisher>
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">Byung-Chul</forename><surname>Han</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Psicopolítica. Traducido por Alfredo Bergés</title>
+		<imprint>
+			<date type="published" when="2014">2014</date>
+			<publisher>Herder</publisher>
+			<pubPlace>Barcelona</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<analytic>
+		<title level="a" type="main">Lo impensado: Una teoría de la cognición no consciente y los ensamblajes cognitivos humano-técnicos</title>
+		<author>
+			<persName><forename type="first">N</forename><surname>Hayles</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Katherine</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Traducido por A. López Gabrielidis, L. López Gabrielidis y T</title>
+		<meeting><address><addrLine>Navarro. Buenos Aires</addrLine></address></meeting>
+		<imprint>
+			<publisher>Caja Negra Editora</publisher>
+			<date type="published" when="2024">2024</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<monogr>
+		<title/>
+		<author>
+			<persName><surname>Home-Neuralink</surname></persName>
+		</author>
+		<ptr target="https://neuralink.com/" />
+		<imprint>
+			<date type="published" when="2022-02">February, 2022</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<monogr>
+		<title/>
+		<author>
+			<persName><surname>Home-Neuralink</surname></persName>
+		</author>
+		<ptr target="https://neuralink.com/" />
+		<imprint>
+			<date type="published" when="2023-09">September, 2023</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<analytic>
+		<title level="a" type="main">Neuroscience and War: Human Enhancement, Soldier Rehabilitation, and the Ethical Limits of Dual-Use Frameworks</title>
+		<author>
+			<persName><forename type="first">Alison</forename><surname>Howell</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of International Studies</title>
+		<imprint>
+			<biblScope unit="volume">45</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="133" to="150" />
+			<date type="published" when="2017">2017</date>
+			<pubPlace>Millennium</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<monogr>
+		<author>
+			<persName><forename type="first">Eva</forename><surname>Illouz</surname></persName>
+		</author>
+		<title level="m">La salvación del alma moderna: Terapia, emociones y la cultura de la autoayuda. Traducido por Santiago Llach</title>
+		<meeting><address><addrLine>Madrid</addrLine></address></meeting>
+		<imprint>
+			<publisher>Katz</publisher>
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<analytic>
+		<title level="a" type="main">The Neurotic Citizen</title>
+		<author>
+			<persName><forename type="first">Engin</forename><forename type="middle">F</forename><surname>Isin</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/1362102042000256970</idno>
+		<ptr target="https://doi.org/10.1080/1362102042000256970" />
+	</analytic>
+	<monogr>
+		<title level="j">Citizenship Studies</title>
+		<imprint>
+			<biblScope unit="volume">8</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="217" to="235" />
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b27">
+	<analytic>
+		<title level="a" type="main">Case study research with moderate constructionism: Conceptualization and practical illustration</title>
+		<author>
+			<persName><forename type="first">Timo</forename><surname>Järvensivu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Jan-Åke</forename><surname>Törnroos</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.indmarman.2008.05.005</idno>
+		<ptr target="https://doi.org/10.1016/j.indmarman.2008.05.005" />
+	</analytic>
+	<monogr>
+		<title level="j">Industrial Marketing Management, Case Study Research in Industrial Marketing</title>
+		<imprint>
+			<biblScope unit="volume">39</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="100" to="108" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b28">
+	<analytic>
+		<title level="a" type="main">The Reconnecting the Hand and Arm with Brain (ReHAB) Commentary on &quot;An Integrated Brain-Machine Interface Platform With Thousands of Channels</title>
+		<author>
+			<persName><forename type="first">Robert</forename><forename type="middle">F</forename><surname>Kirsch</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Bolu Ajiboye</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Jonathan</forename><forename type="middle">P</forename><surname>Miller</surname></persName>
+		</author>
+		<idno type="DOI">10.2196/16339</idno>
+		<ptr target="https://doi.org/10.2196/16339" />
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Medical Internet Research</title>
+		<imprint>
+			<biblScope unit="volume">21</biblScope>
+			<biblScope unit="issue">10</biblScope>
+			<biblScope unit="page">16339</biblScope>
+			<date type="published" when="2019">2019</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b29">
+	<analytic>
+		<title level="a" type="main">Neuralink: questions arising about the universal language</title>
+		<author>
+			<persName><forename type="first">Sarvinoz</forename><surname>Kizi</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Murodullaeva Umidjan</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Confrencea</title>
+		<imprint>
+			<biblScope unit="volume">2</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="186" to="190" />
+			<date type="published" when="2022">2022</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b30">
+	<analytic>
+		<title level="a" type="main">Are We Ready for Direct Brain Links to Machines and Each Other? A Real-World Application of Posthuman Bioethics</title>
+		<author>
+			<persName><forename type="first">Kevin</forename><surname>Lagrandeur</surname></persName>
+		</author>
+		<idno type="DOI">10.33182/jp.v1i1.1185</idno>
+		<ptr target="https://doi.org/10.33182/jp.v1i1.1185" />
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Posthumanism</title>
+		<imprint>
+			<biblScope unit="volume">1</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="87" to="91" />
+			<date type="published" when="2021">2021</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b31">
+	<monogr>
+		<title level="m" type="main">Le pluralisme sémiotique et le nouveau gouvernement des signes</title>
+		<author>
+			<persName><forename type="first">Maurizio</forename><surname>Lazzarato</surname></persName>
+		</author>
+		<ptr target="http://eipcp.net/transversal/0107/lazzarato/fr" />
+		<imprint>
+			<date type="published" when="2006-06-19">2006. June 19, 2025</date>
+		</imprint>
+	</monogr>
+	<note>Hommage à Félix Guattari</note>
+</biblStruct>
+
+<biblStruct xml:id="b32">
+	<analytic>
+		<title level="a" type="main">Using Neuralink by Humans: A Process Which Brings Humanity Closer to the Future</title>
+		<author>
+			<persName><forename type="first">Adrian</forename><surname>Luckiewicz</surname></persName>
+		</author>
+		<idno type="DOI">10.1007/978-3-030-72254-8_25</idno>
+		<ptr target="https://doi.org/10.1007/978-3-030-72254-8_25" />
+	</analytic>
+	<monogr>
+		<title level="m">En Control, Computer Engineering and Neuroscience, editado por Szczepan Paszkiel</title>
+		<meeting><address><addrLine>Cham</addrLine></address></meeting>
+		<imprint>
+			<publisher>Springer International Publishing</publisher>
+			<date type="published" when="2021">2021</date>
+			<biblScope unit="page" from="233" to="238" />
+		</imprint>
+	</monogr>
+	<note>Advances in Intelligent Systems and Computing</note>
+</biblStruct>
+
+<biblStruct xml:id="b33">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">Catherine</forename><surname>Malabou</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2004">2004</date>
+			<publisher>Gedisa</publisher>
+			<pubPlace>Barcelona</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b34">
+	<monogr>
+		<title level="m" type="main">Metamorfosis de la inteligencia: Del coeficiente intelectual a la inteligencia artificial</title>
+		<author>
+			<persName><forename type="first">Catherine</forename><surname>Malabou</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2024">2024</date>
+			<publisher>Palinodia</publisher>
+			<pubPlace>Santiago de Chile</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b35">
+	<analytic>
+		<title level="a" type="main">Necropolitics</title>
+		<author>
+			<persName><forename type="first">Achille</forename><surname>Mbembe</surname></persName>
+		</author>
+		<idno type="DOI">10.1215/08992363-15-1-11</idno>
+		<ptr target="https://doi.org/10.1215/08992363-15-1-11" />
+	</analytic>
+	<monogr>
+		<title level="j">Public Culture</title>
+		<imprint>
+			<biblScope unit="volume">15</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="11" to="40" />
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b36">
+	<analytic>
+		<author>
+			<persName><forename type="first">Clara</forename><surname>Morales</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Muñoz</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Slavoj Žižek, Hegel y el cerebro conectado: Barcelona, Paidós</title>
+		<imprint>
+			<date type="published" when="2023">2023</date>
+			<biblScope unit="volume">116</biblScope>
+			<biblScope unit="page" from="265" to="268" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b37">
+	<analytic>
+		<title level="a" type="main">An Integrated Brain-Machine Interface Platform With Thousands of Channels</title>
+		<author>
+			<persName><forename type="first">Elon</forename><surname>Musk</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Neuralink</surname></persName>
+		</author>
+		<idno type="DOI">10.2196/16194</idno>
+		<ptr target="https://doi.org/10.2196/16194" />
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Medical Internet Research</title>
+		<imprint>
+			<biblScope unit="volume">21</biblScope>
+			<biblScope unit="issue">10</biblScope>
+			<biblScope unit="page">16194</biblScope>
+			<date type="published" when="2019">2019</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b38">
+	<monogr>
+		<title level="m" type="main">Neuralink Launch Event</title>
+		<author>
+			<persName><surname>Neuralink</surname></persName>
+		</author>
+		<ptr target="https://www.youtube.com/" />
+		<imprint>
+			<date type="published" when="2019-03">2019. March, 2022</date>
+		</imprint>
+	</monogr>
+	<note>watch?v=rvbh3t7WVI&amp;t=4118s&amp;ab_channel=Neuralink</note>
+</biblStruct>
+
+<biblStruct xml:id="b39">
+	<monogr>
+		<title level="m" type="main">Neuralink Progress Update, Summer</title>
+		<author>
+			<persName><surname>Neuralink</surname></persName>
+		</author>
+		<ptr target="https://www.youtube.com/watch?v=DVvmgjBL74w&amp;t=1055s&amp;ab_channel=Neuralink" />
+		<imprint>
+			<date type="published" when="2020-03">2020. 2020. March, 2022</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b40">
+	<monogr>
+		<author>
+			<persName><surname>Neuralink</surname></persName>
+		</author>
+		<ptr target="https://www.youtube.com/" />
+		<title level="m">Monkey MindPong</title>
+		<imprint>
+			<date type="published" when="2021-04">2021. April, 2022</date>
+		</imprint>
+	</monogr>
+	<note>watch?v=rsCul1sp4hQ&amp;t=2s&amp;ab_channel=Neuralink</note>
+</biblStruct>
+
+<biblStruct xml:id="b41">
+	<monogr>
+		<title level="m" type="main">Neuralink Show and Tell, Fall</title>
+		<author>
+			<persName><surname>Neuralink</surname></persName>
+		</author>
+		<ptr target="https://www.youtube.com/watch?v=YreDYmXTYi4" />
+		<imprint>
+			<date type="published" when="2022-07">2022. 2022. July 2023</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b42">
+	<analytic>
+		<title level="a" type="main">The Neuropolitical Imaginaries of Cognitive Warfare</title>
+		<author>
+			<persName><forename type="first">Hedvig</forename><surname>Ördén</surname></persName>
+		</author>
+		<idno type="DOI">10.1177/09670106241253527</idno>
+		<ptr target="https://doi.org/10.1177/09670106241253527" />
+	</analytic>
+	<monogr>
+		<title level="j">Security Dialogue</title>
+		<imprint>
+			<biblScope unit="volume">55</biblScope>
+			<biblScope unit="issue">6</biblScope>
+			<date type="published" when="2024">2024</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b43">
+	<monogr>
+		<title level="m" type="main">The Routledge Handbook of Biopolitics</title>
+		<editor>Prozorov, Sergei, y Simona Rentea</editor>
+		<imprint>
+			<date type="published" when="2020">2020</date>
+			<publisher>Routledge</publisher>
+			<pubPlace>Londres, Inglaterra</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b44">
+	<monogr>
+		<title level="m" type="main">Inventing Ourselves. Psychology, Power and Personhood</title>
+		<author>
+			<persName><forename type="first">Nikolas</forename><surname>Rose</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1996">1996</date>
+			<publisher>Cambridge University Press</publisher>
+			<pubPlace>New York</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b45">
+	<monogr>
+		<author>
+			<persName><forename type="first">Nikolas</forename><surname>Rose</surname></persName>
+		</author>
+		<title level="m">The Politics of Life Itself: Biomedicine, Power, and Subjectivity in the Twenty-First Century</title>
+		<meeting><address><addrLine>Princeton, NJ</addrLine></address></meeting>
+		<imprint>
+			<publisher>Princeton University Press</publisher>
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b46">
+	<monogr>
+		<author>
+			<persName><forename type="first">Nikolas</forename><surname>Rose</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Joelle</forename><surname>Abi-Rached</surname></persName>
+		</author>
+		<title level="m">Neuro: The New Brain Sciences and the Management of the Mind. Princeton and</title>
+		<meeting><address><addrLine>Oxford</addrLine></address></meeting>
+		<imprint>
+			<publisher>Princeton University Press</publisher>
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b47">
+	<analytic>
+		<title level="a" type="main">Algorithmic Governmentality and Prospects of Emancipation</title>
+		<author>
+			<persName><forename type="first">Antoinette</forename><surname>Rouvroy</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Thomas</forename><surname>Berns</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Réseaux</title>
+		<imprint>
+			<biblScope unit="volume">177</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="163" to="196" />
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b48">
+	<analytic>
+		<title level="a" type="main">Emerging Neuralink Brain Machine Interface Technology: An Oversight Proposal to Address the Ethical, Legal, and Social Implications</title>
+		<author>
+			<persName><forename type="first">Ali</forename><surname>Said</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Luis</forename><surname>Sanchez</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Michael</forename><surname>Olek</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Weldon</forename></persName>
+		</author>
+		<idno type="DOI">10.1080/01947648.2021.1914490</idno>
+		<idno>Havins. 2021</idno>
+		<ptr target="https://doi.org/10.1080/01947648.2021" />
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Legal Medicine</title>
+		<imprint>
+			<biblScope unit="volume">41</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="40" to="41" />
+			<date>1914490</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b49">
+	<analytic>
+		<title level="a" type="main">Neuralink: implicaciones éticas de las tecnologías basadas en interfaces cerebro-máquina</title>
+		<author>
+			<persName><forename type="first">Jonathan</forename><surname>Santos</surname></persName>
+		</author>
+		<author>
+			<persName><surname>González</surname></persName>
+		</author>
+		<idno type="DOI">10.12795/argumentos/2022.i25.02</idno>
+		<ptr target="https://doi.org/10.12795/argumentos/2022.i25.02" />
+	</analytic>
+	<monogr>
+		<title level="m">Argumentos de razón técnica</title>
+		<imprint>
+			<date type="published" when="2022">2022</date>
+			<biblScope unit="page" from="53" to="91" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b50">
+	<analytic>
+		<title level="a" type="main">Brain Computer Interface (BCI) -UX-Design for Visual and Non-Visual Interaction by Mental Commands in the Context of Technical Possibilities</title>
+		<author>
+			<persName><forename type="first">Julia</forename><surname>Schnitzer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Micha</forename><surname>Kodalle</surname></persName>
+		</author>
+		<idno type="DOI">10.2352/ei.2022.34.3.mobmu-402</idno>
+		<ptr target="https://doi.org/10.2352/ei.2022.34.3.mobmu-402" />
+	</analytic>
+	<monogr>
+		<title level="j">IS&amp;T International Symposium on Electronic Imaging</title>
+		<imprint>
+			<biblScope unit="volume">34</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="402" to="403" />
+			<date type="published" when="2022">2022</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b51">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">Michel</forename><surname>Serres</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1995">1995</date>
+			<publisher>Cátedra</publisher>
+			<pubPlace>Atlas. Madrid</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b52">
+	<analytic>
+		<title level="a" type="main">Human Augmentation Technology -A Cybersecurity Review for Widespread Adoption</title>
+		<author>
+			<persName><forename type="first">Aryaman</forename><surname>Sharma</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Kainat</forename><surname>Khan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Rahul</forename><surname>Katarya</surname></persName>
+		</author>
+		<idno type="DOI">10.1109/ICCCNT54827.2022.9984500</idno>
+		<ptr target="https://doi.org/10.1109/ICCCNT54827.2022.9984500" />
+	</analytic>
+	<monogr>
+		<title level="m">En 2022 13th International Conference on Computing Communication and Networking Technologies (ICCCNT)</title>
+		<meeting><address><addrLine>Kharagpur, India</addrLine></address></meeting>
+		<imprint>
+			<publisher>IEEE</publisher>
+			<date type="published" when="2022">2022</date>
+			<biblScope unit="page" from="1" to="4" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b53">
+	<analytic>
+		<title level="a" type="main">Sociología de la ciencia y sociología de los problemas sociales</title>
+		<author>
+			<persName><forename type="first">Ezequiel</forename><surname>Sosiuk</surname></persName>
+		</author>
+		<ptr target="https://ojs.revistacts.net/index.php/CTS/article/view/232" />
+	</analytic>
+	<monogr>
+		<title level="j">Revista Iberoamericana De Ciencia, Tecnología Y Sociedad -CTS</title>
+		<imprint>
+			<biblScope unit="volume">16</biblScope>
+			<biblScope unit="issue">47</biblScope>
+			<date type="published" when="2021">2021</date>
+		</imprint>
+	</monogr>
+	<note>Discusiones y perspectivas</note>
+</biblStruct>
+
+<biblStruct xml:id="b54">
+	<monogr>
+		<author>
+			<persName><forename type="first">Bernard</forename><surname>Stiegler</surname></persName>
+		</author>
+		<title level="m">La técnica y el tiempo</title>
+		<imprint>
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+	<note>Hondarribia: Hiru</note>
+</biblStruct>
+
+<biblStruct xml:id="b55">
+	<monogr>
+		<author>
+			<persName><forename type="first">Bernard</forename><surname>Stiegler</surname></persName>
+		</author>
+		<title level="m">For a New Critique of Political Economy</title>
+		<meeting><address><addrLine>Cambridge</addrLine></address></meeting>
+		<imprint>
+			<publisher>Polity Press</publisher>
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b56">
+	<monogr>
+		<title level="m" type="main">Taking Care of Youth and the Generations</title>
+		<author>
+			<persName><forename type="first">Bernard</forename><surname>Stiegler</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2010">2010</date>
+			<publisher>Stanford University Press</publisher>
+			<pubPlace>Redwood City, CA</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b57">
+	<analytic>
+		<title level="a" type="main">The Biopolitics of Algorithmic Governmentality: How the US Military Imagines War in the Age of Neurobiology and Artificial Intelligence</title>
+		<author>
+			<persName><surname>Tängh Wrangel</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Claes</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Security Dialogue</title>
+		<imprint>
+			<biblScope unit="volume">55</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="349" to="367" />
+			<date type="published" when="2024">2024</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b58">
+	<monogr>
+		<title level="m" type="main">Elon Musk: A future worth getting excited about | TED | Tesla Texas Gigafactory interview</title>
+		<author>
+			<persName><surname>Ted</surname></persName>
+		</author>
+		<ptr target="https://www.youtube.com/watch?v=YRvf00NooN8&amp;ab_channel=TED" />
+		<imprint>
+			<date type="published" when="2022-04">2022. April, 2022</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b59">
+	<analytic>
+		<title level="a" type="main">Sujeción y poder en el posthumanismo</title>
+		<author>
+			<persName><forename type="first">Francisco</forename><surname>Tirado</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Blanca</forename><surname>Callén</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Política y Sociedad</title>
+		<imprint>
+			<biblScope unit="volume">45</biblScope>
+			<biblScope unit="page">15</biblScope>
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b60">
+	<analytic>
+		<title level="a" type="main">Espai i … &quot;. Reflexions sobre el paper de l&apos;espai en les societats contemporànies</title>
+		<author>
+			<persName><forename type="first">Francisco</forename><surname>Tirado</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Kingsman</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Espai I Biopolítica. En M. Lundsteen i G. Navas (Coords) (2021)</title>
+		<imprint>
+			<publisher>Edicions Bellaterra</publisher>
+			<date type="published" when="2021">2021</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b61">
+	<analytic>
+		<title level="a" type="main">The Connection Between the Nervous System and Machines: Commentary</title>
+		<author>
+			<persName><forename type="first">Giacomo</forename><surname>Valle</surname></persName>
+		</author>
+		<idno type="DOI">10.2196/16344</idno>
+		<ptr target="https://doi.org/10.2196/16344" />
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Medical Internet Research</title>
+		<imprint>
+			<biblScope unit="volume">21</biblScope>
+			<biblScope unit="issue">11</biblScope>
+			<biblScope unit="page">16344</biblScope>
+			<date type="published" when="2019">2019</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b62">
+	<analytic>
+		<title level="a" type="main">Elon Musk&apos;s Neuralink says it has FDA approval for human trials: What to know</title>
+		<ptr target="https://www.washingtonpost.com/business/2023/05/25/elon-musk-neuralink-fda-approval/" />
+	</analytic>
+	<monogr>
+		<title level="m">Washington post</title>
+		<imprint>
+			<date type="published" when="2023">2023. 2023</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b63">
+	<monogr>
+		<author>
+			<persName><forename type="first">Robert</forename><forename type="middle">E</forename><surname>White</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Karyn</forename><surname>Cooper</surname></persName>
+		</author>
+		<title level="m">Qualitative Research in the Post-Modern Era: Critical Approaches and Selected Methodologies</title>
+		<meeting><address><addrLine>New York</addrLine></address></meeting>
+		<imprint>
+			<publisher>Springer Nature</publisher>
+			<date type="published" when="2022">2022</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b64">
+	<monogr>
+		<author>
+			<persName><forename type="first">Mark</forename><surname>Whitehead</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Rhys</forename><surname>Jones</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Rachel</forename><surname>Lilley</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Jessica</forename><surname>Pykett</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Rachel</forename><surname>Howell</surname></persName>
+		</author>
+		<title level="m">Neuroliberalism: Behavioural Government in the Twenty-First Century</title>
+		<meeting><address><addrLine>London</addrLine></address></meeting>
+		<imprint>
+			<publisher>Routledge</publisher>
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b65">
+	<monogr>
+		<author>
+			<persName><forename type="first">Carla</forename><surname>Willig</surname></persName>
+		</author>
+		<title level="m">Introducing Qualitative Research in Psychology</title>
+		<meeting><address><addrLine>Buckingham, Inglaterra</addrLine></address></meeting>
+		<imprint>
+			<publisher>Open University Press</publisher>
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b66">
+	<monogr>
+		<author>
+			<persName><forename type="first">Robert</forename><forename type="middle">K</forename><surname>Yin</surname></persName>
+		</author>
+		<title level="m">Case Study Research Design and methods</title>
+		<meeting><address><addrLine>Thousand Oaks, CA</addrLine></address></meeting>
+		<imprint>
+			<publisher>Sage</publisher>
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+	<note>th ed.</note>
+</biblStruct>
+
+<biblStruct xml:id="b67">
+	<analytic>
+		<title level="a" type="main">Hegel in A Wired Brain</title>
+		<author>
+			<persName><forename type="first">Slavoj</forename><surname>Žižek</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">La Era del Capitalismo de la vigilancia. Traducido por Albino Santos Mosquera</title>
+		<meeting><address><addrLine>Londres, Inglaterra; Barcelona</addrLine></address></meeting>
+		<imprint>
+			<publisher>Paidós</publisher>
+			<date type="published" when="2020">2023. 2020</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

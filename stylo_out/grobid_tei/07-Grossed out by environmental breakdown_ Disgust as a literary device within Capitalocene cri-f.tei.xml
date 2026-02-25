@@ -1,0 +1,1245 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Grossed out by environmental breakdown? Disgust as a literary device within Capitalocene cri-fi (crisis-fiction)</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author role="corresp">
+							<persName><forename type="first">Agnethe</forename><surname>Brounbjerg Bennedsgaard</surname></persName>
+							<email>agb@cc.au.dk</email>
+							<affiliation key="aff0">
+								<orgName type="department" key="dep1">Department of Comparative Literature and Rhetoric</orgName>
+								<orgName type="department" key="dep2">School of Communication and Culture</orgName>
+								<orgName type="institution">Aarhus University</orgName>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Grossed out by environmental breakdown? Disgust as a literary device within Capitalocene cri-fi (crisis-fiction)</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date/>
+						</imprint>
+					</monogr>
+					<idno type="MD5">240030F74E03E2A4D1750476A871B4FD</idno>
+					<idno type="DOI">10.1080/0950236X.2025.2608006</idno>
+					<note type="submission">Received 11 April 2025; Accepted 11 September 2025</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.0" ident="GROBID" when="2026-02-25T19:52+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term>Capitalocene</term>
+					<term>environmental fiction</term>
+					<term>feminist affect theory</term>
+					<term>cri-fi (crisis-fiction)</term>
+					<term>Mariana Enriquez</term>
+					<term>Sayaka Murata</term>
+				</keywords>
+			</textClass>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>This article proposes, as an alternative to fear and apathy, the usual suspects of environmental affects, an unexpected aesthetic register -disgust. By comparing the functions of disgust in Mariana Enriquez' and Sayaka Murata's short stories, I demonstrate how disgust invites readers to imagine themselves as porous interconnected entities, while tying the alienation of this connection to the capitalist systems causing environmental breakdown. This bridges the discrepancy between intimate, emotional experience and the abstract knowledge of the climate crisis. I conclude by proposing a new category within and beyond environmental fiction, one that connects environmental crisis to other crises: cri-fi, crisis fiction. I suggest that cri-fi has the potential to do more than persuade readers of the current crises; it can affect the reader's understanding and experience of environmental breakdown by viscerally and emotionally demonstrating the complex interrelations of the climate crisis with capitalism through ambivalent negative affects.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Intimate and abstract experiences of environmental breakdown</head><p>In 2018, Nicole Seymour published Bad Environmentalism: Irony and Irreverence in the Ecological Age, in which she critiqued environmental narratives and environmental scholarship for mirroring the self-righteous, apocalyptic and overly reverent affective language of mainstream environmentalism. Such didactic registers seem poorly equipped to mirror the profound ambiguousness of living through a climate crisis. <ref type="bibr" target="#b0">1</ref> According to scholars such as Timothy Morton, environmental breakdown is so dispersed through time and space that humans cannot perceive it, <ref type="bibr" target="#b1">2</ref> even as simultaneously, and increasingly, a series of consequences are impacting human societies in tangible ways. While such ambiguities have existed since humans became aware of environmental breakdown, I argue that this relation is now shifting on a global scale as the consequences of the climate crisis are rapidly encroaching on intimate, everyday life. The distribution of consequences has historically been unequal, with the countries least responsible for environmental breakdown ironically being the most impacted by it; so while the consequences of the crisis have long been felt in the Global South, they have only more recently become visible in parts of the Global North. <ref type="bibr" target="#b2">3</ref> And the categories Global South and Global North, just like environmental crisis, are themselves multiscalar; <ref type="bibr" target="#b3">4</ref> their limitations are seen in the varying climate impacts within these categories, depending on class, gender and race.</p><p>This shift in visibility registers in the aesthetics of the crisis, leading to an increased focus among scholars on the ways affect and environmental breakdown inform each other -or, put simply, how environmental breakdown is experienced emotionally. <ref type="bibr" target="#b4">5</ref> In literary studies, one aspect of this question has been crucial: the idea that the use of certain affects in literature can create climate-friendly behavioural changes. Alexa Weik von Mossner's Affective Ecologies states that environmental narratives often include 'the openly stated intention of bringing about social change'. <ref type="bibr" target="#b8">6</ref> In one of the few empirical investigations into the impact of climate fiction upon readers, conducted by Matthew Schneider-Mayerson, a main takeaway is that the affective experiences reported by cli-fi readers <ref type="bibr" target="#b9">7</ref> are 'dramatically negative [… |]bleak, dystopian, helpless', leading him to question 'whether they make for effective environmental persuasion'. <ref type="bibr" target="#b10">8</ref> While aims of 'social change' or 'environmental persuasion' are admirable in an urgent situation, it is relevant to question how such aims limit our ability to recognise the potential of environmental fiction that employs other, surprising affective registers. Since Seymour's critique in 2018, an affective diversification of climate discourses has taken place in in literature, scholarship and climate activism, veering away from apocalypticism. Extinction Rebellion protested sewage pollution in an absurdly humorous manner, with pun-filled banners reading 'species not faeces', <ref type="bibr" target="#b11">9</ref> Nicolai Skiveren proposed that humour can create imaginative 'spaces of ambiguity', <ref type="bibr" target="#b12">10</ref> and both Mark Bould <ref type="bibr" target="#b13">11</ref> and Jennifer Wenzel highlighted how such ambiguous literary spaces can account for the role literature itself has played in environmental breakdown. Wenzel writes, 'The urgent task, then, is not to look to literature as a "solution" but to understand its role in calculating what counts as "nature", "environment", "crisis", or even "human"'. <ref type="bibr" target="#b14">12</ref> These unexpected environmental affects are radical in their insistence on the nuances of climate crisis. Furthermore, there is a wave of genre-hybrid fiction from Latin America and East Asia employing a range of ambivalent affects to negotiate the cultural environmental imagination, <ref type="bibr" target="#b15">13</ref> including works by Samantha Schweblin, Agustina Baztericca and Han Kang.</p><p>Viewing environmental breakdown and its cultural imagination through a Capitalocene lens proves useful, given this affective diversification. The Capitalocene shifts the perspective from the classic Anthropocene focus on all humans as a 'major geological force', <ref type="bibr" target="#b16">14</ref> and attends instead to capitalism's central role in the environmental crisis, its 'more specific chain of causality'. <ref type="bibr" target="#b17">15</ref> By attending to capitalism's chain of causality, this perspective allows us to consider what it means that 'the modes of thought that have created today's planetary crisis will not lead us towards planetary justice'. <ref type="bibr" target="#b18">16</ref> The Capitalocene thus invites other kinds of questions; instead of asking whether environmental fiction affects readers in the way it should, hereby continuing the same modes of thought, it asks what kind of stories challenge mainstream modes of thought. Reading through a Capitalocene lens also means understanding environmental breakdown as an interconnected phenomenon. When I use the term 'environmental breakdown', then, I do not exclusively refer to long-term human-made changes in temperature and weather patterns, but also to pollution and biodiversity loss -what is defined by the United Nations as 'the triple planetary crisis' <ref type="bibr" target="#b19">17</ref> -as well as environmental cultural discourses and practices such as sustainability and greenwashing. This, in turn, affects the definition of environmental fiction in this article, which then becomes all fiction which, explicitly or implicitly, registers aspects of the triple planetary crisis.</p><p>In this article, I therefore argue for the potential of environmental fiction that moves beyond mainstream environmental affects, such as hope or fear, <ref type="bibr" target="#b20">18</ref> and instead experiments with ambivalent, or ugly, affects, <ref type="bibr" target="#b21">19</ref> like disgust. Such affects have the potential to go beyond what environmental fiction often does -that is, persuading the reader to acknowledge 'impending disaster' <ref type="bibr" target="#b22">20</ref> -and instead to implicate and challenge the reader in a nuanced, playful negotiation of the ambiguous ways in which the crisis is experienced. By reading for disgust as an irreverent environmental affect, I attempt to bridge the gap between intimate and abstract experiences of the climate crisis, a gap that Seymour attributes to a lack of 'scholarly attention to bodily and emotional experiences of climate change'. <ref type="bibr" target="#b23">21</ref> In the urgency to efficiently understand and mitigate the crisis, we risk overlooking how it actually registers in society and in literature.</p><p>I employ a method of reading for affective disgust through a Capitalocene lens, attending to both the capitalist industries behind the crisis and how crisis registers affectively. To do so, I will first demonstrate that disgust has the potential to engage the reader on a bodily level by entangling them with characters who view their bodily boundaries as porous. As these characters exist within a world ecological system <ref type="bibr" target="#b24">22</ref> in which humans, more-than-humans and, importantly, human systems of extraction cannot be separated, I will subsequently show how the disgust reactions of both readers and characters are redirected from an intimate, bodily level onto a systemic level by highlighting how anthropocentrism is caused by the capitalist systems responsible for environmental breakdown. This double focus shows that while disgust can implicate the reader in an uncomfortable position of porous bodily boundaries, it can simultaneously destabilise the capitalist logic that deems such porosity disgusting, hereby making surprising modes of resistance possible. I will demonstrate this through two short stories, Mariana Enriquez' 'Under the Black Water' (2017), in which the polluted Riachuelo river's 'natural' mutation of children turns into a supernatural resistance towards capitalist industries, and Sayaka Murata's 'A First-Rate Material' (2022), where a couple discuss the meaning of disgust in a world where sustainability discourse legitimises using human remains as furniture and clothing. These texts are chosen because they engage with environmental breakdown in surprising ways, by using disgust to highlight under-lit themes such as pollution and sustainability discourses. Through this reading, I suggest that literature can do more than prompt familiar and predetermined action through persuasion within expected affective registers; it can catalyse new and surprising ways of thinking about what courses of action are yet to be imagined, by rendering impossible the anthropocentric human exceptionalism fuelled by capitalist logic. Finally, I suggest that reading for disgust establishes that fiction concerning environmental breakdown is a much broader category than often anticipated, highlighting that the environmental crisis is not easily delimited, but rather intersects with other crises.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Transformative disgust</head><p>Sara Ahmed defines affects as felt inside, outside, and between bodies and beings, affect thus 'becom[ing] an object' <ref type="bibr" target="#b25">23</ref> on its own, expanding beyond the individual and the collective. Disgust can function on two levels: as a visceral affect and as a performative speech act. These two levels can interrelate and appear independently. While Ahmed focuses on disgust as something that is used to marginalise, both she and Sianne Ngai agree that the latent desire for connection, that is inherent in disgust, contains a transformative potential for breaking down subject/object boundaries and critiquing the capitalist systems upholding these.</p><p>Ahmed writes that proclaiming disgust can have a moralising function, 'generating a community […] bound together by condemnation'. <ref type="bibr" target="#b26">24</ref> She notes that performative 'sticking' of disgust onto others is not a privilege that is equally distributed, but rather depends on and upholds various forms of discrimination, such as racism and sexism, as it 'works precisely by citing norms and conventions that already exist'. <ref type="bibr" target="#b27">25</ref> But, as a feminist scholar, Ahmed is curious about the subversive potential of repeated speech acts, because 'to repeat something is always to open up the (structural) possibility that one will repeat something with a difference'. <ref type="bibr" target="#b28">26</ref> Such possibilities also lie in the ambiguity between the disgust that is performed and the disgust that is felt on a bodily level. While performative disgust often appears unparadoxical, the bodily sensations that the statement can stem from are not: 'Disgust involves not simply distantiation (recoiling), but the intensification of bodily contact that "disturbs" the skin with the possibility of desire'. <ref type="bibr" target="#b29">27</ref> Ahmed states that feeling disgust necessitates physical contact that is experienced as too close, and it thereby ties the subject to that which it claims to be definitively unrelated to. That which disgusts also attracts attention, because of its crossing of normative boundaries; disgust is thus related to, as William Ian Miller writes in The Anatomy of Disgust, 'the lurid and the sensational, informed as these are by sex, violence, horror, and the violation of norms'. <ref type="bibr" target="#b30">28</ref> The ambivalent relation between physical disgust and desire is exactly what, in Sianne Ngai's notion of disgust, enables physical disgust to subversively resist the oppressive, normative morals that disgust as a speech act has often upheld. Ngai highlights the 'critical productivity' <ref type="bibr" target="#b31">29</ref> of ugly affects like disgust against the status quo of late capitalist society, in which genuine emotions and affects are commodified. <ref type="bibr" target="#b32">30</ref> She defines disgust in opposition to contempt: while 'the disgusting […] is perceived as dangerous and contaminating and thus something to which one cannot possibly remain indifferent', conversely, 'the object of contempt is perceived as inferior in a manner that allows it to be dismissed or ignored'. <ref type="bibr" target="#b33">31</ref> Physcial disgust is not something you do not care about, it is something you care obsessively about, creating a proximity between the disgusted and the disgusting. Ngai maintains that disgust, unlike other ugly feelings that diagnose but do not solve social powerlessness in late capitalism, can infiltrate the realm of the political by disturbing normative boundaries. <ref type="bibr" target="#b34">32</ref> Ahmed and Ngai agree that physical disgust show us that 'the boundaries that allow the distinction between subjects and objects are undone in the moment of their making'. <ref type="bibr" target="#b35">33</ref> In the following, I will explore how disgust attempts to implicate the reader in environmental breakdown.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Disgust as a disturbance of bodily boundaries</head><p>In Sayaka Murata's 'A First-Rate Material' and Mariana Enriquez' 'Under the Black Water', disgust appears both as a physical sensation and as a speech act when bodies encounter other bodies -human, more-than-human, and especially that which is in between.</p><p>In 'A First-Rate Material', we follow the protagonist Nana, who is engaged to Naoki. They live in a version of Japan, where it has become the norm that human remains are made into furniture and clothing. It's implied that this custom is semi-new. Instead of reacting to this custom with disgust, Nana fully embraces it; the short story starts with her wearing a sweater made from human hair, praising the luxuriousness of the material. On the contrary, her fiancé is outspokenly disgusted by the custom, and demands that Nana refrain from wearing human materials, and that their wedding rings be made of platinum, instead of the popular rings made from human teeth. After a heated argument, Nana reluctantly agrees, but everything changes when they visit Naoki's widowed mother, who gifts them a veil made from the skin of Naoki's dad.</p><p>Nana puts on the veil and experiences how her father-in-law's skin connects her to him, and to the environment, which is no longer just surroundings, but a part of her. This connection between and to family and environment is what finally convinces Naoki to embrace the norm. The following description emphasises how the skin of her father-in-law allows for the sun to merge with her skin, as she becomes 'enveloped in lightness' when 'the rays of sun shining in through the window were softened by the veil as they were gently filtered through and coalesced on my skin'. <ref type="bibr" target="#b36">34</ref> To Nana, it is precisely the proximity that allows for an interplay between her skin, the skin of her father-in-law and the environment surrounding them that she finds beautiful, even desirable. To readers, though, this may register as disgusting. This contradiction between the way the veil is presented by the protagonist and how it may be perceived by the reader highlights the connection between the desirable and the disgusting through proximity. Here, then disgust becomes a vehicle for reflection on the part of the reader, by juxtaposing contradictory descriptions of beauty and 'naturalness' with the reuse of body parts. Nana's description of her own bodily transformation emphasises the natural in the interplay between bodies and environments through the continued mention of natural light, as well as through biological terms such as 'membrane' and, later on, the '[…] particles of light residing in each individual cell'. <ref type="bibr" target="#b37">35</ref> Presenting the disruption of the delimited individuated human as 'natural' exposes the lack of logic in the human exceptionalism that fuels capitalogenic environmental breakdown. Sara Wasson, in her reading of the concurrent disgust and desire apparent in such 'transformed assemblages', writes that when bodies of human animals: '[…]become less human, their corporeal integrity, dignity, even recognizability, [one] changed into something both more appalling and more fruitful'. <ref type="bibr" target="#b38">36</ref> Here, not just ambiguity, but grotesque juxtapositions are at the forefront of transformations from individual human bodies into something at once 'appalling and more fruitful'; the reader might find this appalling, but the character experiencing it finds it fruitful. In deliberately positing this breakdown of bodily autonomy as desirable and natural, instead of disgusting and unnatural, the narrative is acutely aware that it may create disgust in the reader, continuously implicating the reader in a consideration of close-knit cultural ideas of what is within the realm of the natural -offering new perspectives on what Moore calls the 'web of life', in which human relations are 'always already interpenetrated with the rest of nature'. <ref type="bibr" target="#b39">37</ref> In Mariana Enriquez' 'Under the Black Water', the reader conversely encounters relatable disgust reactions in the protagonist -only these reactions are likely not ones the reader wishes to relate to, as they are directed at marginalised characters. The Capitalocene framework allows a reading of these characters as part of an 'environmental proletariat', <ref type="bibr" target="#b40">38</ref> created by the uneven distribution of the consequences of environmental crisis brought on by capitalist extraction. The story follows a district attorney, Marina, who investigates a case where two teenage boys from the slum Villa Moreno have been killed by the police. Marina thinks they were beaten, then thrown into the Riachuelo river along which the slum lies, a river so polluted it is 'basically dead, decomposing; it couldn't breathe' <ref type="bibr" target="#b41">39</ref> -meaning that the boys could not swim ashore and therefore drowned. Her theory is challenged, though, by a supernatural explanation, when a pregnant girl from the slum tells Marina that one of the boys, Emanuel, 'came back from the water' <ref type="bibr" target="#b42">40</ref> several days after being thrown in, existing in a zombie-like state, dead-but-alive. This information haunts Marina, who has a physical disgust reaction: She dreamed that when the boy emerged from the water and shook off the muck, the fingers fell from his hands. She woke up smelling the stench of dead meat, consumed with a horrible fear of finding those swollen, infected fingers between her sheets. <ref type="bibr" target="#b43">41</ref> Marina thus, unlike Nana, describes her meeting with mutated skin as disgusting and frightening. This reaction is first visible through her dreams, suppressed, unconscious -perhaps because the physical disgust she experiences does not match her conscious political or professional stance. When she meets the pregnant girl, she deliberately avoids disgust by ignoring her mutated, hyperflexible fingers. In the slum, many of the children are born deformed, mutated, because of their mother's proximity to the polluted river:</p><p>[…] their children got sick, consumed by cancer in three months, with horrible skin eruptions that ate away at their legs and arms. And some of them had been born with deformities. Extra arms (sometimes up to four) nosed wide like felines <ref type="bibr" target="#b44">42</ref> Marina is disgusted be these children, calling them ugly and horrible,. <ref type="bibr" target="#b45">43</ref> What she is disgusted with is the porousness of their bodies and how they intermingle with more-than-human bodies -exposing the risk her own body inhabits. This intermingling is visible in the continuous comparison with animals: The pregnant girl's joints 'interweaving […] as if they didn't have joints' <ref type="bibr" target="#b46">44</ref> creates pictures of invertebrates; her eyes are compared to those of a carrion insect, and the mutated children are compared to cats, squids, felines. Marina's reaction will likely match the reader's, grossed out by the perceived unnaturalness of human bodies interweaving with other animals. Her attempt at hiding her disgust, though, highlights disgust as more than a political or cultural concept but also a bodily, uncontrollable experience: 'Disgust pulls us away from the object, a pulling that feels almost involuntary, as if our bodies were thinking for us, on behalf of us'. <ref type="bibr" target="#b47">45</ref> Marina's embodied experience of disgust thus intersects with her political and moral standpoint on pollution and police violence. The story represents how an affective experience of the environmental crisis can differ significantly from the knowledge one has about the crisis, creating an absurd juxtaposition between experience and knowledge. Exploring Marina's ambivalence towards her own feelings of disgust encourages the reader to attend to their own feelings of disgust towards the consequences of the environmental crisis, feelings that are often not represented in environmental fiction. But Marina's ambivalence also stems from her knowledge of the unequal distribution of environmental risk. Marina states that the (un)living conditions of the slum are caused by capitalist pollution, and this creates a contradiction between Marina's physical disgust and performative disgust. On a conscious level, she knows that what is really disgusting is the capitalist systems that have caused the bodily mutations, not the mutations themselves, especially since such consequences are unequally distributed, exempting her. Disgust thus challenges anthropocentric ideas, and consequently disturbs a certain understanding of environmental breakdown that is common within environmental fiction: the Anthropocene. According to Jason W. Moore, the Anthropocene is often employed, both in climate communication and environmental fiction, because it is easy to understand: because it does not challenge the naturalised inequalities, alienation, and violence inscribed in modernity's strategic relations of power and production. It is an easy story to tell because it does not ask us to think about these relations at all. <ref type="bibr" target="#b48">46</ref> But in these stories, disgust places issues such as capitalism and class on the agenda. Not as issues separate from environmental breakdown, but as driving forces behind it.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Capitalocene readings: commodified environmental discourse and supernatural resistance</head><p>The disgust reactions analysed in the previous section stemmed from a perceived incommensurability in humans becoming 'like' the rest of nature, merging with one another and their more-than-human surroundings, which raises the question about how such incommensurability is fostered by the Anthropocentric capitalist logic behind environmental breakdown. Nana's lack of disgust regarding humans as materials in 'A First-Rate Material' signals her refusal of human exceptionalism, but it also implies her compliance with capitalism carried to its logical conclusion: humans as products. Her lack of disgust as she wears the veil could indicate that she does not view her father-in-law as a person anymore, but as a product. The human materials are presented as products throughout the story; they are 'expensive' and 'luxurious'. <ref type="bibr" target="#b49">47</ref> The exorbitant prices are legitimised through environmentalist discourse; human materials are more 'durable' than 'cheap plastic and glass', and the use of human materials is peculiarly phrased as a 'reuse', arguing that this prevents 'wasting the bodies'. <ref type="bibr" target="#b50">48</ref> Since waste is a substantial element of capitalogenic environmental degradation, legitimising the use of human materials by evoking images of wasted resources positions this practice as ecofriendly. Human products are marketed both through a capitalist logic of luxury and through environmental discourse. This combination of capitalism and environmental discourse is emphasised when Naoki's condemnation of the norm is presented as both cheap and environmentally irresponsible. When Naoki calls the norm 'sacrilegious', Nana counters 'it's a waste to throw it away … isn't that more sacrilegious?', while her friends call him 'stingy' for not adding human products to their wedding registry. <ref type="bibr" target="#b51">49</ref> To them, he is disgusting. Thus, the story engages another unexpected aesthetic mediation of the environmental crisis -satire! Satire is a salient humorous mode of environmental narratives, <ref type="bibr" target="#b52">50</ref> and in this case, it works by exposing how environmental discourse can be weaponised against those who dissent, using disgust as social control. In the larger picture, this also points to Nancy Fraser's insight on how the urgency of environmental degradation can be utilised to maintain capitalist productivity:</p><p>Corporate and financial interests [are] profiting handsomely from booming speculation in eco-commodities, they are invested not just economically but also politically in ensuring the global climate regime remains marketcentred and capital-friendly. <ref type="bibr" target="#b53">51</ref> Nana's father-in-law becomes an eco-commodity once his body is commodified, and this is framed as part of the solution to climate change. This is an example of green capitalism, i.e. the idea that the market economy is the most suitable system to save the world from environmental crisis. <ref type="bibr" target="#b54">52</ref> For the father-in-law, becoming a product means he is denied personhood at the same time as his personhood is commodified as unique, since it 'could never be manufactured artificially'. <ref type="bibr" target="#b55">53</ref> Horkheimer and Adorno describe capitalism's reduction of individuality as 'a mere sequence of instantaneous experiences which leave no trace, or rather whose trace is hated as irrational, superfluous and overtaken'. <ref type="bibr" target="#b56">54</ref> In this story, the use of human materials as products both resists and reasserts reduction: the text is designed to elicit disgust in the reader, allowing Nana's father-in-law to exist materially as a trace, a haunting, within the veil. Hereby, he and Nana can potentially merge into something beyond the human, provokingly representing humans as something material, not exceptional to the rest of nature. Simultaneously, even in death his body is not his own, it is utilised in the capitalist system, overtaken. This ambivalent multitude of possible readings is what invites the reader to consider not just their own Anthropocentric logic, but the logic of capitalism's commodification of living beings.</p><p>In Murata's story, disgust is used to expose capitalist logic as ever-adaptable, claiming to be a necessary part of the solution to a self-inflicted crisis, while in Enriquez' story, the marginalised characters' refusal of and alternative to capitalist logics is a source of disgust for middle-class characters. Murata's story critiques capitalism from within, by driving its logics to the extreme; Enriquez' story places itself outside the capitalist system, adopting another logic.</p><p>In 'Under the Black Water', Marina seems aware that what physically disgusts her about the mutated bodies is caused by capitalist pollution, and yet her disgust increases when the inhabitants of the slum attempt to resist capitalist exploitation. They do this by celebrating Emanuel, carrying his deadbut-alive body through the slum in a procession led by the mutated children. The usual shrines to saints and other religious imagery are gone; a priest tells Marina that Emanuel's name means 'God is with us', and that Emanuel is the leader of 'the cult of the dead',. <ref type="bibr" target="#b57">55</ref> They are thus celebrating what humans are taught to fear most, the end to our individual lives: death. The children resist the capitalist expendability that impacts them through environmental pollution, and hereby attempt to reconfigure the human relation to nature. Such a Capitalocene reading highlights and challenges the 'social hierarchies from which the degradation of extra-human nature is inseparable'. <ref type="bibr" target="#b58">56</ref> The mutated children challenge their own position within the capitalist web of life by allowing the pollution to not simply pollute them but, in a twisted way, bring them closer to 'nature' as they shed their human features into something both human and animal -and therefore, to Marina and other middle-class characters, disgusting. Because the children do not simply die, but continue to live among other humans, they get to intervene in what it means to be human. As they are 'screaming mutely', <ref type="bibr" target="#b59">57</ref> with fingers that might as well be legs, they represent the seeming impossibility of moving beyond a capitalist world, as their resufal is only possible through leaving behind their human bodies -and their language. The potential of disgust as a literary device lies within the way disgust makes the crooked dynamics of the environmental crisis palpable on a bodily level. If the reader is physically disgusted with the bodily consequences of the environmental breakdown and, like Marina, feels guilty for their physical reaction, they will root for the children's supernatural resistance. The narrative may make the reader critically reflect on the impotence of the real world, as it implies that the only way out of the capitalist system is by supernaturally leaving behind the human. Hereby disgust can be redirected from the environmental crisis as caused by humanity as such, and onto the very systems that have forced the inhabitants of the slum to leave their old selves behind. This highlights the important scale perspectives that become visible when reading through a Capitalocene lens: environmental breakdown is not just unequally distributed between Global North and South, but across socioeconomic class within those categories.</p><p>It is worth noting Enriquez' mix of supernatural elements (the dead-butalive children) and real places (the polluted Riachuelo river, the slum). The living conditions in 'Under the Black Water' mirror those of the real-life people living along the Riachuelo's banks, conditions which can be understood through the term 'sacrifice zone'. The term refers to 'the paradoxical fact that locales rich in natural resources so often experience poverty, political corruption and environmental devastation'. <ref type="bibr" target="#b60">58</ref> The bliss that capitalism promises will come from using their home as a 'site for dumping all kinds of waste, but especially the offal from cows' <ref type="bibr" target="#b61">59</ref> -that bliss never arrives. Instead, they must sacrifice their health, because the water they live with is sacrificed on the altar of neoliberal capitalism. As such, the slum is a place where both nature and humans are made to work, as cheaply as possible, for capitalism. <ref type="bibr" target="#b62">60</ref> The story speculates on what kind of resistance against exploitation of humans and nature becomes possible when capitalism has exhausted the socio-ecological system to the point of breakdown. It is exactly when the river has become so polluted that its ecosystems break down that the slum's inhabitants resist capitalist environmental exploitation by denying normative disgust and instead redirecting value onto the disgusting. They replace an altar with 'a pole stuck into a common metal flowerpot. Impaled on the pole was a cow's head'. <ref type="bibr" target="#b63">61</ref> The cow's head is described as an idol, hereby making holy that which was thrown in the river as waste, endowing it with new meaning and scrutinising the category 'waste' so as to resist 'ecological and human disposability'. <ref type="bibr" target="#b64">62</ref> Just like Emanuel and the mutated children, the non-commodifiable parts of the cow are given value outside of the capitalist system.</p><p>Such subversions highlight the inequalities of what is deemed disgusting. As Ahmed writes:</p><p>It is important not to neutralise the differences between objects and to recognise that some objects become stickier than other given past histories of contact. <ref type="bibr" target="#b65">63</ref> Ahmed's term 'sticky' accounts for how identity categories inform how affect sticks to subjects. The recurring description of the slum as not only disgusting, but dangerous, is juxtaposed with the reality of the disgusting actions of the authorities (police, industry, politicians), who are more dangerous for the slum's inhabitants than opposite. This may challenge how the reader expects the disgusting to look. While the middle-class characters are disgusted with respectively poverty (the police), the bodily consequences of pollution (Marina) and the supernatural (all), the marginalised who live in the slum are utilising the disgusting bodily consequences of the environmental crisis, already imposed upon them, as a means of taking back agency. By not believing that a middle-class life is possibleor even desirable for them -they resist their role within the system.</p><p>These differing approaches to environmental breakdown, such that those hit hardest by the consequences of climate crisis attempt to subvert the systems that created the crisis, while those who are exempt attempt to solve the crisis by maintaining the system, mirror global climate change policies. At the recent COP29, the Global North countries decided to pay the Global South countries 300 billion dollars a year in climate mitigation efforts, when the original demand was 1.3 trillion dollars a year. <ref type="bibr" target="#b66">64</ref> Such decisions fail to challenge the unequal colonial and capitalist power matrixes that created the crisis; instead, they maintain such unequal power structures and even construct a sense of innocence in the Global North. <ref type="bibr" target="#b67">65</ref> </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Intersectional environmental fiction: cri-fi</head><p>Disgust functions as a disruption in these stories, affecting characters and readers alike. As such, it comes to challenge some of the identifying marks of what is understood as climate fiction, namely that it (1) represents fear of environmental breakdown, (2) is explicitly about climate change. <ref type="bibr" target="#b68">66</ref> Johan Höglund has argued that not just inability, but decidedly lack of desire to change the systems that catalyse environmental breakdown are often characteristic of what he calls 'the American climate emergency narrative', which: registers the arrival of an epochal crisis, [but] it insists that the emergency that such crisis constitutes must be addressed by the system and must serve to preserve the system. In the few instances where a world after capitalism is envisioned, it takes the shape of an abject darkness of such proportions that it resembles Hell. <ref type="bibr" target="#b69">67</ref> The fear in such stories is masked as a fear for the planet's wellbeing, but may be more related to the breakdown of human systems. This fear is exactly what both Enriquez' and Murata's stories are instead concerned with registering as a middle-class disgust at the thought of boundaries of bodies, of systems, being broken down. In Enriquez' story, the world 'after' capitalism, when the inhabitants of the slum resist their expendable roles in the systems and adopt a new logic by supernaturally intermingling with nature, is distinctly not described as a hellscape. It is understood as such only by the middle-class characters, hereby questioning the reader's own reasons for possibly feeling disgusted. Conversely, Murata's story satirically accelerates the absurd ultimate consequences of green capitalist logics, distinctly not describing this as disgusting to the characters, while it may appear so to the reader. Both stories then use disgust to represent the capitalist logic that drives environmental breakdown as the actual hellscape, one by accelerating capitalism to its logical conclusion, the other by protesting its logic. I therefore suggest that they constitute another category that both contains and can be contained by environmental fiction. By connecting environmental crisis to the crisis of capitalism and the concurrent crises of class, they belong to what I propose to call cri-fi, crisis fiction. Such a category is well suited to cover the current moment of polycrisis, a term increasingly used in natural and social sciences, describing how 'disparate crises interact such that the overall impact far exceeds the sum of its parts'. <ref type="bibr" target="#b70">68</ref> These stories do not 'explicitly engage with anthropogenic climate change', <ref type="bibr" target="#b71">69</ref> but are therefore more complex precisely in their portrayal of environmental crisis as a planetary polycrisis, 'a vector of planetary change woven into the very fabric of civilisational power and production (class, empire, agriculture, etc.).' <ref type="bibr" target="#b72">70</ref> In using disgust to portray environmental crisis as interconnected to other phenomena, cri-fi is not easily discernible as being 'about' the environment. In this respect, it breaks with the tendency that Schneider-Mayerson describes:</p><p>Most cli-fi novels announce their subject […]in their synopses, which are visible on back covers and Amazon pages. As such, it seems unlikely that these works would function as Trojan horses for message smuggling. <ref type="bibr" target="#b73">71</ref> The lack of declaration in cri-fi could increase its chances of reaching readers who avoid environmental fiction because they are either anxious or in denial about climate change. Furthermore, such stories may be able to poke holes in the reader's defence mechanisms in surprising and affecting ways, by not revealing (or having) explicit aims. As such, cri-fi could function as a Trojan horse that manages to get behind human defenses. <ref type="bibr" target="#b74">72</ref> </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Resistance from within and beyond capitalism</head><p>Disgust functions in myriad and surprising ways. According to Ngai, there are two main ways for art to engage with disgust. It can either be disgusted, staging its refusal or inability to ingest what consumer culture proclaims all should want or desire to take in or it can cram itself with what has been officially deemed desirable to a point at which it crosses a line from being disgusted to being disgusting. <ref type="bibr" target="#b75">73</ref> These are the two tactics respectively employed: Enriquez' story places a critical subject outside capitalist logic, while Murata's critiques capitalism from the inside, accelerating it. Enriquez' story engages with disgust by refusing that which consumer culture fosters us to desire, a position within the capitalist system, no matter how terrible the conditions. This logic is resisted by the marginalised, hereby displaying the horrid lack of alternatives, as their refusal literally cannot function without the supernatural. Conversely, Murata's story is drenched in the officially desirable mainstream sustainability discourse, grotesquely applying it to the only animal that human exceptionalism has decreed can never be a material. Hereby, the holes in the logic of anthropocentrism are exposed, highlighting the risk of capitalist greenwashing that environmental discourses face.</p><p>Disgust functions as an affect that aims to draw the reader into the narrative by proposing immoral, inappropriate solutions to environmental issues. The stories then utilise disgust to induce ambivalence in readers; they are at once encouraged to enthusiastically denounce the logics and morals of the stories, in order to keep themselves at a safe distance, but at the same time, the readers are entangled so tightly in the narrative, that they may recognise this flawed logics and morals as their own. This ambivalence enables disgust to register, and perhaps bridge, the gap between knowledge of and experience of environmental breakdown, by first representing the disgust that might be felt when bodily boundaries blur, then connecting such disgust to the systems that have caused the crisis.</p><p>I have therefore argued against defining environmental fiction as fiction explicitly about environmental breakdown, as this can implythat environmental breakdown excludes other topics such as class and capitalism. I have instead proposed the term cri-fi, both as a category and as a way of reading, that goes beyond what Wenzel has criticised as 'reading for the nature bits', <ref type="bibr" target="#b76">74</ref> which risks misrepresenting the complexity and power relations of the crisis at hand. By extending the scholarly understanding of environmental fiction into the field of polycrisis, cri-fi changes the questions of how such fiction may impact the reader as well. Instead of assessing environmental fiction based on how well it persuades the reader of the severity of the crisis -or, as is often the case, affirms the reader in their beliefs <ref type="bibr" target="#b77">75</ref> we can ask how cri-fi affects the reader in ways we can neither expect nor imagine. Cri-fi employing ambivalent, weird affects taps into the potential of literature to imagine ourselves and the world we are part of differently. By going beyond to the usual morally appropriate environmental registers, such cri-fi represents humans and their systems as consisting of conflicting affects, undeniably affected by and affecting environments. In a world made increasingly unknowable and absurd by accelerating environmental breakdown, disgust uproots locked norms and boundaries, and calls the reader in as an active agent of the present.</p></div>			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" xml:id="foot_0"><p>A. B. BENNEDSGAARD</p></note>
+		</body>
+		<back>
+			<div type="annex">
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Disclosure statement</head><p>No potential conflict of interest was reported by the author(s).</p></div>			</div>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<monogr>
+		<title level="m" type="main">I use the terms climate and environmental -as well as crisis, breakdown, and change -relatively interchangeably. Even though climate is a narrower term, it is widely used as a term synonymous with the larger category</title>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">Timothy</forename><surname>Morton</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Hyperobjects</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Philosophy and Ecology after the End of the World</title>
+		<imprint>
+			<biblScope unit="volume">1</biblScope>
+			<date type="published" when="2013">2013</date>
+			<publisher>University of Minnesota Press</publisher>
+			<pubPlace>Minneapolis</pubPlace>
+		</imprint>
+	</monogr>
+	<note>st ed., Posthumanities</note>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<monogr>
+		<author>
+			<persName><forename type="first">Climate</forename><surname>Ipcc</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Change</surname></persName>
+		</author>
+		<title level="m">Contribution of Working Groups I, II and III to the Sixth Assessment Report of the Intergovernmental Panel on Climate Change</title>
+		<editor>
+			<persName><forename type="first">H</forename><surname>Lee</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">J</forename><forename type="middle">Romero</forename><surname>Core</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">Writing</forename><surname>Team</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Geneva, Switzerland</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2023">2023. 2023</date>
+			<biblScope unit="page">48</biblScope>
+		</imprint>
+	</monogr>
+	<note>Synthesis Report</note>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<monogr>
+		<title level="m" type="main">Ecocriticism on the Edge:Tthe Anthropocene as a Threshold Concept</title>
+		<author>
+			<persName><surname>Clark</surname></persName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<monogr>
+		<author>
+			<persName><forename type="first">Alexa</forename><surname>Weik</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Von</forename><surname>Mossner</surname></persName>
+		</author>
+		<title level="m">Affective Ecologies: Empathy, Emotion, and Environmental Narrative, Cognitive Approaches to Culture</title>
+		<meeting><address><addrLine>Columbus</addrLine></address></meeting>
+		<imprint>
+			<publisher>Ohio State University Press</publisher>
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">Kyle</forename><surname>Bladow</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Jennifer</forename><surname>Ladino</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Affective Ecocriticism: Emotion, Embodiment, Environment</title>
+		<imprint>
+			<biblScope unit="issue">1</biblScope>
+			<date type="published" when="2018">2018</date>
+			<publisher>UNP -Nebraska</publisher>
+			<pubPlace>Lincoln</pubPlace>
+		</imprint>
+	</monogr>
+	<note>st ed.</note>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<monogr>
+		<title level="m" type="main">Bad Environmentalism: Irony and Irreverence in the Ecological Age, 1</title>
+		<author>
+			<persName><forename type="first">Nicole</forename><surname>Seymour</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2018">2018</date>
+			<publisher>University of Minnesota Press</publisher>
+			<pubPlace>Minneapolis</pubPlace>
+		</imprint>
+	</monogr>
+	<note>st ed.</note>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title level="a" type="main">Kari Marie Norgaard &apos;Climate Denial and the Construction of Innocence: Reproducing Transnational Environmental Privilege in the Face of Climate Change</title>
+		<author>
+			<persName><forename type="first">Nicolai</forename><surname>Skiveren</surname></persName>
+		</author>
+		<idno type="DOI">10.1215/22011919-11150075</idno>
+		<ptr target="htps://doi.org/10.1215/22011919-11150075" />
+	</analytic>
+	<monogr>
+		<title level="m">Environmental Humanities</title>
+		<imprint>
+			<date type="published" when="2012">2024. 2012</date>
+			<biblScope unit="volume">16</biblScope>
+		</imprint>
+	</monogr>
+	<note>Humor as Hope?</note>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title/>
+		<author>
+			<persName><surname>Weik Von Mossner</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Affective Ecologies</title>
+		<imprint>
+			<biblScope unit="page">3</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<monogr>
+		<title level="m" type="main">use the term &apos;cli-fi&apos; here, to reflect how Schneider-Mayerson refers to the books he investigates</title>
+		<author>
+			<persName><forename type="first">I</forename></persName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title level="a" type="main">The Influence of Climate Fiction: An Empirical Survey of Readers</title>
+		<author>
+			<persName><forename type="first">Matthew</forename><surname>Schneider-Mayerson</surname></persName>
+		</author>
+		<idno type="DOI">10.1215/22011919-7156848</idno>
+		<ptr target="htps://doi.org/10.1215/22011919-7156848" />
+	</analytic>
+	<monogr>
+		<title level="j">Environmental Humanities</title>
+		<imprint>
+			<biblScope unit="volume">10</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page">489</biblScope>
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<monogr>
+		<title level="m" type="main">XR UK Protests Shitty Water&apos;, extinctionrebellion.uk</title>
+		<ptr target="https://www.xrpathways.org/xr_uk_protests_shitty_water" />
+		<imprint>
+			<date type="published" when="2023-09-18">2023. 18 September 2024</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<monogr>
+		<title level="m" type="main">Humor as Hope?</title>
+		<author>
+			<persName><surname>Skiveren</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="page">443</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<monogr>
+		<author>
+			<persName><forename type="first">Mark</forename><surname>Bould</surname></persName>
+		</author>
+		<title level="m">The Anthropocene Unconscious: Climate Catastrophe Culture</title>
+		<meeting><address><addrLine>London, Verso</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2021">2021</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<monogr>
+		<title level="m" type="main">The Disposition of Nature: Environmental Crisis and World Literature</title>
+		<author>
+			<persName><forename type="first">Jennifer</forename><surname>Wenzel</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2020">2020</date>
+			<publisher>Fordham University Press</publisher>
+			<biblScope unit="page">17</biblScope>
+			<pubPlace>New York, NY</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title level="a" type="main">Intim planetaritet: Neogotisk feminisme og fremmedgørelse i Samanta Schweblins Redningsafstand (2022) og Han Kangs Vegetaren (2021)</title>
+		<author>
+			<persName><forename type="first">Agnethe</forename><surname>Bennedsgaard</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">PASSAGE -Tidsskrift for Litteratur og Kritik</title>
+		<imprint>
+			<date type="published" when="2024">2024</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">Paul</forename><forename type="middle">J</forename><surname>Crutzen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Eugene</forename><forename type="middle">F</forename><surname>Stoermer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Will</forename><surname>Steffen</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">The &quot;Anthropocene&apos;&apos; (</title>
+		<imprint>
+			<date type="published" when="2000">2000. 2013</date>
+			<publisher>Yale University Press</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<analytic>
+		<title level="a" type="main">Part III: Capitalocene</title>
+		<author>
+			<persName><forename type="first">Justin</forename><forename type="middle">D</forename><surname>Edwards</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Rune</forename><surname>Graulund</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Johan</forename><forename type="middle">Anders</forename><surname>Hoglund</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Dark scenes from Damaged Earth: The Gothic Anthropocene</title>
+		<meeting><address><addrLine>Minneapolis, MN</addrLine></address></meeting>
+		<imprint>
+			<publisher>University of Minnesota Press</publisher>
+			<date type="published" when="2022">2022</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<analytic>
+		<title level="a" type="main">World-ecology: A Global Conversation</title>
+		<author>
+			<persName><forename type="first">Jason</forename><forename type="middle">W</forename><surname>Moore</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Sociologia Urbana e Rurale</title>
+		<editor>
+			<persName><forename type="first">Jason</forename><forename type="middle">W</forename><surname>Moore</surname></persName>
+		</editor>
+		<imprint>
+			<biblScope unit="issue">120</biblScope>
+			<biblScope unit="page" from="9" to="21" />
+			<date type="published" when="2019">2019. 2019</date>
+		</imprint>
+	</monogr>
+	<note>Sociologia Urbana e Rurale</note>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<monogr>
+		<title level="m" type="main">What is the Triple Planetary Crisis</title>
+		<idno>accessed: 10/09</idno>
+		<ptr target="https://unfccc.int/news/what-is-the-triple-planetary-crisis" />
+		<imprint>
+			<date type="published" when="2022">2022. 2024</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<monogr>
+		<author>
+			<persName><forename type="first">Axel</forename><surname>Goodbody</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Adeline</forename><surname>Johns-Putra</surname></persName>
+		</author>
+		<title level="m">Cli-fi: A Companion</title>
+		<meeting><address><addrLine>Oxford</addrLine></address></meeting>
+		<imprint>
+			<publisher>Peter Lang</publisher>
+			<date type="published" when="2019">2019</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<monogr>
+		<title level="m" type="main">Ugly feelings</title>
+		<author>
+			<persName><forename type="first">Sianne</forename><surname>Ngai</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2005">2005</date>
+			<publisher>Harvard University Press</publisher>
+			<pubPlace>Cambridge, MA</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<monogr>
+		<author>
+			<persName><forename type="first">Adam</forename><surname>Trexler</surname></persName>
+		</author>
+		<title level="m">Anthropocene Fictions: The Novel in a Time of Climate Change</title>
+		<meeting><address><addrLine>Charlottesville</addrLine></address></meeting>
+		<imprint>
+			<publisher>University of Virginia Press</publisher>
+			<biblScope unit="page">25</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">Bad</forename><surname>Seymour</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Environmentalism</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="page" from="10" to="11" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<monogr>
+		<title level="m" type="main">World-ecology</title>
+		<author>
+			<persName><surname>Moore</surname></persName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<analytic>
+		<title level="a" type="main">Happy Objects</title>
+		<author>
+			<persName><forename type="first">Sara</forename><surname>Ahmed</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">The Affect Theory Reader</title>
+		<editor>
+			<persName><forename type="first">Gregg</forename><surname>Melissa</surname></persName>
+		</editor>
+		<imprint>
+			<publisher>Duke University Press</publisher>
+			<date type="published" when="2010">2010</date>
+			<biblScope unit="page">36</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<monogr>
+		<author>
+			<persName><forename type="first">Sara</forename><surname>Ahmed</surname></persName>
+		</author>
+		<title level="m">The Performativity of Disgust</title>
+		<imprint>
+			<publisher>Edinburgh University Press</publisher>
+			<date type="published" when="2014">2014</date>
+			<biblScope unit="page">94</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b27">
+	<monogr>
+		<title level="m" type="main">The Performativity of Disgust</title>
+		<author>
+			<persName><forename type="first">Ahmed</forename></persName>
+		</author>
+		<imprint>
+			<biblScope unit="page">93</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b28">
+	<monogr>
+		<title level="m" type="main">The Performativity of Disgust</title>
+		<author>
+			<persName><forename type="first">Ahmed</forename></persName>
+		</author>
+		<imprint>
+			<biblScope unit="page">94</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b29">
+	<monogr>
+		<title level="m" type="main">The Performativity of Disgust</title>
+		<author>
+			<persName><forename type="first">Ahmed</forename></persName>
+		</author>
+		<imprint>
+			<biblScope unit="page">88</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b30">
+	<monogr>
+		<author>
+			<persName><forename type="first">Ian</forename><surname>William</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Miller</surname></persName>
+		</author>
+		<title level="m">The Anatomy of Disgust</title>
+		<imprint>
+			<publisher>Harvard University Press</publisher>
+			<date type="published" when="2009">2009</date>
+			<biblScope unit="page">p. x</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b31">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">Ugly</forename><surname>Ngai</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Feelings</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="page">3</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b32">
+	<analytic>
+		<title level="a" type="main">Immediacy, or the Style of Too-Late Capitalism</title>
+	</analytic>
+	<monogr>
+		<title level="j">Anna Kornbluh</title>
+		<imprint>
+			<date type="published" when="2023">2023</date>
+			<publisher>Verso</publisher>
+			<pubPlace>London</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b33">
+	<monogr>
+		<author>
+			<persName><forename type="first">Sianne</forename><surname>Ngai</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Afterword</forename></persName>
+		</author>
+		<title level="m">On Disgust</title>
+		<meeting><address><addrLine>Cambridge, MA and London, England</addrLine></address></meeting>
+		<imprint>
+			<publisher>Harvard University Press</publisher>
+			<date type="published" when="2015">2015</date>
+			<biblScope unit="page">336</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b34">
+	<monogr>
+		<title level="m" type="main">On Disgust</title>
+		<author>
+			<persName><forename type="first">Afterword</forename><surname>Ngai</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="page" from="353" to="354" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b35">
+	<monogr>
+		<title level="m" type="main">The Performativity of Disgust</title>
+		<author>
+			<persName><forename type="first">Ahmed</forename></persName>
+		</author>
+		<imprint>
+			<biblScope unit="page">83</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b36">
+	<monogr>
+		<title level="m" type="main">Life Ceremony, trans. Ginny Tapley Takemori (Granta Books, 2022)</title>
+		<author>
+			<persName><forename type="first">Sayaka</forename><surname>Murata</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="page">16</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b37">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">Life</forename><surname>Murata</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Ceremony</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="page" from="16" to="17" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b38">
+	<analytic>
+		<title level="a" type="main">Queering the Weird, and Challenges to the &apos;Anthropocene</title>
+		<author>
+			<persName><forename type="first">Sara</forename><surname>Wasson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">;</forename><surname>Caitlín</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Kiernan</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Dark Scenes from Damaged Earth: The Gothic Anthropocene</title>
+		<editor>
+			<persName><forename type="first">Justin</forename><forename type="middle">D</forename><surname>Edwards</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">Rune</forename><surname>Graulund</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">Johan</forename><surname>Höglund</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Minneapolis</addrLine></address></meeting>
+		<imprint>
+			<publisher>University of Minnesota Press</publisher>
+			<date type="published" when="2022">2022</date>
+			<biblScope unit="page" from="307" to="308" />
+		</imprint>
+	</monogr>
+	<note>Erotics and Annihilation</note>
+</biblStruct>
+
+<biblStruct xml:id="b39">
+	<monogr>
+		<author>
+			<persName><forename type="first">Jason</forename><forename type="middle">W</forename><surname>Moore</surname></persName>
+		</author>
+		<title level="m">Capitalism in the Web of Life: Ecology and the Accumulation of Capital</title>
+		<meeting><address><addrLine>Brooklyn, New York</addrLine></address></meeting>
+		<imprint>
+			<publisher>Verso</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b40">
+	<monogr>
+		<title level="m" type="main">The Ecological Rift: Capitalism&apos;s War on the Earth, 1</title>
+		<author>
+			<persName><forename type="first">John</forename><surname>Bellamy</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Foster</forename></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Brett</forename><surname>Clark</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Richard</forename><surname>York</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2010">2010</date>
+			<publisher>Monthly Review Press</publisher>
+			<biblScope unit="page">47</biblScope>
+			<pubPlace>New York</pubPlace>
+		</imprint>
+	</monogr>
+	<note>st ed.</note>
+</biblStruct>
+
+<biblStruct xml:id="b41">
+	<monogr>
+		<author>
+			<persName><forename type="first">Mariana</forename><surname>Enriquez</surname></persName>
+		</author>
+		<title level="m">Things We Lost in the Fire, trans. Megan McDowell</title>
+		<meeting><address><addrLine>London</addrLine></address></meeting>
+		<imprint>
+			<publisher>Portobello Books</publisher>
+			<date type="published" when="2017">2017</date>
+			<biblScope unit="page">166</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b42">
+	<monogr>
+		<title level="m" type="main">Things We Lost in the Fire</title>
+		<author>
+			<persName><surname>Enriquez</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="page">165</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b43">
+	<monogr>
+		<title level="m" type="main">Things We Lost in the Fire</title>
+		<author>
+			<persName><surname>Enriquez</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="page">164</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b44">
+	<monogr>
+		<title level="m" type="main">Things We Lost in the Fire</title>
+		<author>
+			<persName><surname>Enriquez</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="page">160</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b45">
+	<monogr>
+		<title level="m" type="main">Things We Lost in the Fire</title>
+		<author>
+			<persName><surname>Enriquez</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="page">169</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b46">
+	<monogr>
+		<title level="m" type="main">Things We Lost in the Fire</title>
+		<author>
+			<persName><surname>Enriquez</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="page">162</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b47">
+	<monogr>
+		<title level="m" type="main">The Performativity of Disgust</title>
+		<author>
+			<persName><forename type="first">Ahmed</forename></persName>
+		</author>
+		<imprint>
+			<biblScope unit="page">84</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b48">
+	<analytic>
+		<title level="a" type="main">Anthropocene or Capitalocene? Nature, History, and the Crisis of Capitalism</title>
+		<author>
+			<persName><forename type="first">Jason</forename><forename type="middle">W</forename><surname>Moore</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Kairos</title>
+		<imprint>
+			<biblScope unit="page">82</biblScope>
+			<date type="published" when="2016">2016</date>
+			<publisher>PM Press</publisher>
+			<pubPlace>Oakland, CA</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b49">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">Life</forename><surname>Murata</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Ceremony</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="page">2</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b50">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">Life</forename><surname>Murata</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Ceremony</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="volume">2</biblScope>
+			<biblScope unit="page">11</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b51">
+	<monogr>
+		<title level="m" type="main">Life Ceremony</title>
+		<author>
+			<persName><surname>Murata</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="page" from="7" to="10" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b52">
+	<monogr>
+		<title level="m" type="main">Humor as Hope?</title>
+		<author>
+			<persName><surname>Skiveren</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="page">450</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b53">
+	<analytic>
+		<title level="a" type="main">Climates of Capital</title>
+		<author>
+			<persName><forename type="first">Nancy</forename><surname>Fraser</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">New Left Review</title>
+		<imprint>
+			<biblScope unit="issue">127</biblScope>
+			<date type="published" when="2021">2021</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b54">
+	<analytic>
+		<title level="a" type="main">Green Capitalism, Climate Change and the Technological Fix: A More-than-human Assessment</title>
+		<author>
+			<persName><forename type="first">Nick</forename><forename type="middle">J</forename><surname>Fox</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">The Sociological Review</title>
+		<imprint>
+			<biblScope unit="volume">71</biblScope>
+			<biblScope unit="issue">5</biblScope>
+			<date type="published" when="2023">2023</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b55">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">Life</forename><surname>Murata</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Ceremony</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="page">16</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b56">
+	<monogr>
+		<author>
+			<persName><forename type="first">Theodor</forename><forename type="middle">W</forename><surname>Adorno</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Max</forename><surname>Horkheimer</surname></persName>
+		</author>
+		<title level="m">Dialectic of Enlightenment</title>
+		<meeting><address><addrLine>London</addrLine></address></meeting>
+		<imprint>
+			<publisher>Verso</publisher>
+			<date type="published" when="1997">1997</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b57">
+	<monogr>
+		<title level="m" type="main">Things We Lost in the Fire</title>
+		<author>
+			<persName><surname>Enriquez</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="page">132</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b58">
+	<analytic>
+		<title level="a" type="main">Anthropocene Gothic, Capitalocene Gothic: The Politics of Ecohorror</title>
+		<author>
+			<persName><forename type="first">Rebecca</forename><surname>Duncan</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">The Edinburgh Companion to Globalgothic</title>
+		<editor>
+			<persName><forename type="first">Rebecca</forename><surname>Duncan</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Edinburgh</addrLine></address></meeting>
+		<imprint>
+			<publisher>Edinburgh University Press</publisher>
+			<date type="published" when="2023">2023</date>
+			<biblScope unit="page">121</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b59">
+	<monogr>
+		<title level="m" type="main">Things We Lost in the Fire</title>
+		<author>
+			<persName><surname>Enriquez</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="page">143</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b60">
+	<analytic>
+		<title level="a" type="main">American Soil, Louisiana Dirt: The Metaphor Enabling the Sacrifice Zone</title>
+		<author>
+			<persName><forename type="first">Sara</forename><forename type="middle">L</forename><surname>Crosby</surname></persName>
+		</author>
+		<idno type="DOI">10.1093/isle/isaa110</idno>
+		<ptr target="htps://doi.org/10.1093/isle/isaa110" />
+	</analytic>
+	<monogr>
+		<title level="j">Interdisciplinary Studies in Literature and Environment</title>
+		<imprint>
+			<biblScope unit="volume">28</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page">1558</biblScope>
+			<date type="published" when="2021">2021</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b61">
+	<monogr>
+		<title level="m" type="main">Things We Lost in the Fire</title>
+		<author>
+			<persName><surname>Enriquez</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="page">165</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b62">
+	<monogr>
+		<title level="m" type="main">Anthropocene or Capitalocene?</title>
+		<author>
+			<persName><surname>Moore</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="page" from="2" to="3" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b63">
+	<monogr>
+		<title level="m" type="main">Things We Lost in the Fire</title>
+		<author>
+			<persName><surname>Enriquez</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="page">174</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b64">
+	<monogr>
+		<author>
+			<persName><forename type="first">Rob</forename><surname>Nixon</surname></persName>
+		</author>
+		<title level="m">Slow Violence and the Environmentalism of the Poor</title>
+		<meeting><address><addrLine>Cambridge</addrLine></address></meeting>
+		<imprint>
+			<publisher>Harvard University Press</publisher>
+			<date type="published" when="2011">2011</date>
+			<biblScope unit="page">4</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b65">
+	<monogr>
+		<title level="m" type="main">The Performativity of Disgust</title>
+		<author>
+			<persName><forename type="first">Ahmed</forename></persName>
+		</author>
+		<imprint>
+			<biblScope unit="page">90</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b66">
+	<analytic>
+		<title level="a" type="main">Key outcomes agreed at the UN climate talks in Baku</title>
+		<idno>accessed: 03/12/2024</idno>
+		<ptr target="https://www.carbonbrief.org/cop29-key-outcomes-agreed-at-the-un-climate-talks-in-baku/" />
+	</analytic>
+	<monogr>
+		<title level="j">Carbon Brief</title>
+		<imprint>
+			<biblScope unit="volume">29</biblScope>
+			<date type="published" when="2024">2024</date>
+		</imprint>
+	</monogr>
+	<note>COP</note>
+</biblStruct>
+
+<biblStruct xml:id="b67">
+	<monogr>
+		<title level="m" type="main">Climate Denial and the Construction of Innocence</title>
+		<author>
+			<persName><surname>Norgaard</surname></persName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b68">
+	<analytic>
+		<title level="a" type="main">Climate Change Fictions: Representations of Global Warming in American Literature</title>
+		<author>
+			<persName><forename type="first">Antonia</forename><surname>Mehnert</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Literatures, Cultures, and the Environment</title>
+		<meeting><address><addrLine>Cham</addrLine></address></meeting>
+		<imprint>
+			<publisher>Springer International Publishing</publisher>
+			<date type="published" when="2016">2016</date>
+			<biblScope unit="page">38</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b69">
+	<monogr>
+		<author>
+			<persName><forename type="first">Johan</forename><surname>Höglund</surname></persName>
+		</author>
+		<title level="m">The American Climate Emergency Narrative: Origins, Developments and Imaginary Futures</title>
+		<meeting><address><addrLine>Cham</addrLine></address></meeting>
+		<imprint>
+			<publisher>Springer International Publishing AG</publisher>
+			<date type="published" when="2024">2024</date>
+			<biblScope unit="page">204</biblScope>
+		</imprint>
+	</monogr>
+	<note>New Comparisons in World Literature Series</note>
+</biblStruct>
+
+<biblStruct xml:id="b70">
+	<analytic>
+		<title/>
+	</analytic>
+	<monogr>
+		<title level="j">World Economic Forum</title>
+		<imprint>
+			<biblScope unit="volume">18</biblScope>
+			<date type="published" when="2023">2023. 2023</date>
+			<pubPlace>Cologny/ Geneva, Switzerland</pubPlace>
+		</imprint>
+	</monogr>
+	<note type="report_type">Global Risk Report</note>
+	<note>th edition</note>
+</biblStruct>
+
+<biblStruct xml:id="b71">
+	<monogr>
+		<title level="m" type="main">Climate Change Fictions</title>
+		<author>
+			<persName><surname>Mehnert</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="page">38</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b72">
+	<monogr>
+		<title level="m" type="main">Capitalism in the Web of Life</title>
+		<author>
+			<persName><surname>Moore</surname></persName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b73">
+	<monogr>
+		<title level="m" type="main">The Influence of Climate Fiction</title>
+		<author>
+			<persName><surname>Schneider-Mayerson</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="page">479</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b74">
+	<monogr>
+		<title level="m" type="main">For similar arguments: Bould</title>
+		<imprint>
+			<publisher>The Anthropocene Unconscious</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b75">
+	<monogr>
+		<title level="m" type="main">On Disgust</title>
+		<author>
+			<persName><forename type="first">Afterword</forename><surname>Ngai</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="page">335</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b76">
+	<monogr>
+		<title level="m" type="main">The Disposition of Nature</title>
+		<author>
+			<persName><surname>Wenzel</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="page">12</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b77">
+	<monogr>
+		<title level="m" type="main">The Influence of Climate Fiction</title>
+		<author>
+			<persName><surname>Schneider-Mayerson</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="page">491</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

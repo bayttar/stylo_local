@@ -1,0 +1,795 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Apple Trees and Plastic Ducks: Gardens as Post-pastoral Landscapes in Contemporary British Fiction</title>
+				<funder ref="#_FzGavNp">
+					<orgName type="full">unknown</orgName>
+				</funder>
+				<funder>
+					<orgName type="full">Pavol Jozef Šafárik University in Košice</orgName>
+				</funder>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author role="corresp">
+							<persName><forename type="first">Silvia</forename><surname>Rosivalova Baucekova</surname></persName>
+							<email>silvia.baucekova@upjs.sk</email>
+						</author>
+						<author>
+							<persName><forename type="first">English</forename><surname>Studies</surname></persName>
+						</author>
+						<author>
+							<affiliation key="aff0">
+								<orgName type="department">Department of British and American Studies</orgName>
+								<orgName type="institution">Pavol Jozef Šafárik University</orgName>
+								<address>
+									<settlement>Košice</settlement>
+									<country key="SK">Slovakia</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff1">
+								<orgName type="institution">Silvia Rosivalova Baucekova</orgName>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff2">
+								<orgName type="department" key="dep1">Alfrey, Daniels, and Postle</orgName>
+								<orgName type="department" key="dep2">Art of the Garden</orgName>
+								<address>
+									<country>9. 3 Ibid</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff3">
+								<orgName type="institution">Office for National Statistics, &quot;One in Eight British Households Has No Garden</orgName>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Apple Trees and Plastic Ducks: Gardens as Post-pastoral Landscapes in Contemporary British Fiction</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date/>
+						</imprint>
+					</monogr>
+					<idno type="MD5">DFA0D1F109B8178D241CE59652F293EE</idno>
+					<idno type="DOI">10.1080/0013838X.2026.2615905</idno>
+					<note type="submission">Received 25 August 2025 Accepted 22 December 2025</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.0" ident="GROBID" when="2026-02-25T19:50+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>Gardens have long occupied a prominent place in the British cultural imagination. Recently, the compounding crises of climate change and the COVID-19 pandemic brought both the degradation of the environment and the problems with an industrial food chain into sharper focus, driving a new surge of interest in gardening. Yet, although in the popular imagination gardens are seen as idyllic sanctuaries, their depiction in contemporary fiction is often not so straightforward. In this paper, I explore how four British female authors depict gardens, altering traditional garden symbolism to reflect the post-pastoral ethos of much contemporary writing. Using examples from works by Claire-Louise Bennett, Jessie Greengrass, Daisy Hildyard, and Sarah Moss, I show how gardens are reimagined as less idyllic, yet more powerful spaces. This approach allows the four authors to highlight the artificiality of the Manichean distinctions between nature and civilisation, wilderness and society, and the human and non-human.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>The surge of interest in gardening is reflected in the growing demand for allotments. While Charles Elliott noted that the total area of allotments in Britain had fallen from a high of 533,000 acres in the 1970s to just 297,000 by 1996, with a corresponding reduction in waiting times for such sites, 5 the beginning of the twenty-first century saw a reversal of this trend. In 2023 Damien Gayle reported in The Guardian that allotment waitlists have almost doubled over the last decade to an average period of 3 years, 6 a trend which is corroborated by similar findings by the Royal Horticultural Society from 2025. <ref type="bibr">7</ref> There are many reasons behind the continuing interest in gardening. As early as 1998, the Environment, Transport and Regional Affairs Select Committee of the House of Commons noted that concerns about environmental and food system issues would likely increase interest in gardening and allotment demand, 8 and these predictions have proven to be correct. The lack of any substantial effort to respond to the impending environmental catastrophe at the national or supranational level has driven many to seek out their own individual means of adapting to the crisis, and the issue of how we produce food and whether the methods we currently employ are sustainable on a rapidly heating planet represent a significant part of this conversation.</p><p>These debates gained a sense of urgency during and after the COVID-19 pandemic, a global crisis which raised concerns about the reliability of industrial food supply chains and the rights of farm workers and others employed in industrial-scale food production. The profound sense of loss of control caused by the compounding stresses of mobility restrictions, empty supermarket shelves, and the fear of infection led many to embrace gardening, or more specifically crisis or panic gardening, as a coping mechanism. <ref type="bibr">9</ref> This essentially individual approach to the crisis was particularly marked in a country like the UK, where many households had access to private gardens which were accessible even during periods of lockdown or quarantine. Guy Barter, the Royal Horticultural Society's chief horticulturist, estimated that approximately three million people took up gardening in 2020, with a particular focus on growing food, especially staples like onions, potatoes, or salad greens. <ref type="bibr">10</ref> However, the idea of panic gardening is by no means a modern phenomenon, and the activity has clear echoes to the mass adoption of victory gardening during the two world wars. 11 Growing one's own food empowers and grounds us in times of stress, fear, and uncertainty. In such times, gardening and gardens become, both literally and metaphorically, places of calm, control, and sanctuary.</p><p>It is precisely these metaphorical associations of gardens that are the subject of this paper. I first became interested in the literary depictions of gardens relatively recently when, while reading a selection of British pandemic novels as part of another research project, I noticed that the authors frequently draw parallels between the more recent crisis of the pandemic and other, more familiar crises, such as the climate crisis or the midlife crisis. Garden imagery often features prominently in the narratives of pandemic The Royal Horticultural Society, "Allotment Basics." 8 Environment, Transport and Regional Affairs Select Committee, Environment, Transport and Regional Affairs -Fifth Report. 9 See Cunningham, "'Panic Gardening' is Growing Interest in Backyard Food Crops"; Horvath, "Crisis Gardening"; or Larner, "'Panic Gardening' during a Pandemic." <ref type="bibr">10</ref> Barter, "2021 Gardening Predictions." 11 Cunningham, "'Panic Gardening' is Growing Interest in Backyard Food Crops." novels, but these depictions do not always conform to the standard framing of gardens in the crisis gardening discourse in the media and amongst the general population, in which gardens are typically posited as sanctuaries or places of escape. In this paper, I explore the depiction of gardens in contemporary British fiction through a discussion of four works: Pond (2015) by Claire Louise Bennett, The High House (2021) by Jesse Greengrass, The  Fell (2021) by Sarah Moss, and Emergency (2022) by Daisy Hildyard. I argue that these four authors adopt what Terry Gifford calls a post-pastoral narrative mode 12 in their depictions of gardens; in adapting the pastoral tradition for the climate crisis era, the novels thus represent a rejection of the anthropocentric framework in favour of a posthumanist approach. All four authors make use of the techniques of fragmentation and gleaning, thereby allowing them to decentre their human characters and create more space for non-human ones while also locating a middle ground between idealistic and dystopian depictions of the natural world.</p><p>The pastoral mode has been an influential and enduring approach to writing about nature throughout the Western literary canon. The main trope of pastoralism is the juxtaposition between urban complexity and a romanticised rural simplicity. Within such a framework, the farms, meadows, and gardens of the countryside function as the ideal "middle landscape" between urban civilisation and the untamed wilderness devoid of humans. <ref type="bibr">13</ref> Greg Garrard notes that the pastoral mode rests on the premise of "nature as a stable, enduring counterpoint to the disruptive energy and change of human societies". <ref type="bibr">14</ref> As such, the pastoral landscape serves as a retreat in which the jaded minds of city-dwellers can recharge, contemplate, and rediscover themselves within a balmy and pristine natural environment.</p><p>The belief in the healing and stabilising power of natural environments is enduring. In Everybody Needs Beauty: In Search of the Nature Cure Samantha Walton notes that throughout history, a certain therapeutic potential has been ascribed to pastoral landscapes. Places such as gardens, farms, and forests "have been invested with a distinctive power to heal". <ref type="bibr">15</ref> However, in the twenty-first century, the problems associated with what is variously referred to as nature, the environment, ecosystems, or the biosphere have become a major presence in our collective consciousness. Naturally, literature reflects these preoccupations. This is evident in the resurgence of interest in nature writing at the beginning of the century, 16 the emergence of the new genre of climate fiction, 17 or in the general turn of contemporary fiction towards realism and materialism, especially in the case of fiction written by women. <ref type="bibr">18</ref> However, the concept of nature's essential benignity or stability that has underpinned the pastoral mode for centuries has now lost its validity; nature in the contemporary world appears to be anything but "easeful, plentiful, pretty, instructive or enduring". <ref type="bibr">19</ref> In tandem with a reinvigorated interest in 12 See Gifford, Pastoral. The concept of post-pastoral will be discussed in more detail later in this article. <ref type="bibr">13</ref> Marx, The Machine in the Garden, 22. <ref type="bibr">14</ref> Garrard, Ecocriticism, 56. <ref type="bibr">15</ref> Walton, Everybody Needs Beauty, 17. <ref type="bibr">16</ref> See Kerridge, "Nature Writing." 17 See Thieme, Anthropocene Realism. <ref type="bibr">18</ref> See Anjaria, "Twenty-first-century Realism"; Dalley, "The Return of Realism in the World Novel"; Tew and Mengham, British Fiction Today; Turner, "Realism, Women Writers and the Contemporary British Novel"; Walezak, Rethinking Contemporary British Women's Writing; and elsewhere. <ref type="bibr">19</ref>  Garrard, Ecocriticism, 48.  writing about nature, we are witnessing a simultaneous questioning of not only the pastoral mode, but of the idea of "nature" itself.</p><p>As early as 1964 Leo Marx had noted that industrialisation had fundamentally altered the relationship between humans and the planet on which they live. Marx observed that the Industrial Revolution had allowed technological power, symbolised by the train, to escape the boundaries of the city, thereby "transforming the sensory texture of rural lifethe way it looks and soundsand threatening, in fact, to impose a new and more complete dominion over it". <ref type="bibr">20</ref> In the United States, at least, this had come to pass: the machine had entered the garden, and it has never gone away. Ten years later, John Barrell and John Bull, the editors of The Penguin Book of English Pastoral Verse announced the death of the pastoral in English poetry on account that</p><p>[t]he separation of life in the town and in the country that the Pastoral demands is now almost devoid of any meaning. It is difficult to pretend that the English countryside is now anything more than an extension of the town [and] that the Pastoral has not become in fact just another trip, another Sunday afternoon drive. <ref type="bibr">21</ref> Now, more than half a century later, it is impossible to deny the fact that human activity, more specifically industrialisation and the burning of fossil fuels, is having significant effects on every being and object on our planet. The era of the Anthropocene is upon us, and we have become acutely aware that there is no longer any unspoiled countryside to which we can escape from our urban civilisation. The entire world is affected by human technology, from the intensive agricultural operations that now dominate rural areas to the microplastics floating in even the most remote parts of the oceans. The timeless and idyllic settings of the bucolic poems of yesteryear seem almost beyond our imagination.</p><p>Along with the realisation that we are transforming the Earth in such a way that it might soon be uninhabitable for our own species, we have gradually realised that humans are not in fact a unique and distinct entity which exists in separation from the rest of our planet; we are instead fatally "intermeshed" with the reminder of matter and absolutely dependent upon it for our survival. This notion of entanglement, of humanity forming part of the so-called "environment" rather than being simply surrounded by it, has been proposed by many scholars in the humanities, the philosophy of science, and environmental studies. Stacy Alaimo introduced the notion of being intermeshed, or trans-corporeality, in her book Bodily Natures: Science, Environment, and the Material Self, while similar conceptions of the relationship between human and nonhuman/more-than-human entities have been suggested by Donna Haraway, who calls this phenomenon natureculture, that is "the implosion of nature and culture". <ref type="bibr">22</ref> In her essay "Unruly Edges: Mushrooms as Companion Species" Anna Tsing builds on Donna Haraway's conception of multispecies relationships. Tsing notes that while species interdependence among non-human beings is accepted as "a well-known fact", in Western culture humans have for long considered themselves exempt from such dependencies. <ref type="bibr">23</ref> Instead, Western thought has been shaped by the idea of human exceptionalism which dictates that humans can and should take control over the rest of the natural world. However, current research in biology, ecology, or anthropology refutes the notion of human exceptionalism. Drawing on this research, Tsing claims human nature itself has evolved as an interspecies relationship, as a mutual shaping between the human and non-human, not as a one-way process of domestication and domination.</p><p>The idea of interspecies entanglement and of the fluidity of boundaries between agents in the environment was also put forward by Karen Barad. Barad understands individual beings as forged through mutual interactions rather than as already-formed entities entering interactions, a type of relationship she refers to as intra-action. <ref type="bibr">24</ref> According to Barad, bodies are not separate entities that occupy a specific space and time in the world. Rather, they are "performances of the world's dynamic reconfiguring". <ref type="bibr">25</ref> These performances are always embodied, and as such are not "specifically situated in the world" but instead are "of the world in its dynamic specificity". <ref type="bibr">26</ref> With the meaning of such fundamental concepts as nature, environment, and the pastoral now under question, authors are forced to ask themselves whether it is even possible to write about nature and if so, how to go about it. Is the pastoral mode still useful in the twenty-first century? Is there any point in writing about "nature" if everything around us can be considered as nature? How useful is the concept of "environment" if we are unable to separate ourselves from it? Underlying these questions is a deeper problem, the problem of coping with our collective solastalgia: a nostalgia for our planet as we know it as it disappears before our eyes. <ref type="bibr">27</ref> Thus, above all else, fiction writers of the twenty-first century are forced to grapple with the question posed by Timothy Morton in The Ecological Thought: "How do we move forward from the melancholy of a poisoned planet?" <ref type="bibr">28</ref> Ever since it first developed in ancient Greece, the genre of the pastoral and its later evolution into a mode or tradition has been marked by a self-conscious awareness of the impossibility of the rural Eden for which it yearned. Terry Gifford notes that in European literature a thread of anti-pastoralism "was embedded within the most complex pastorals from the Idylls onwards".<ref type="foot" target="#foot_9">29</ref> Leo Marx came to a similar conclusion when studying the pastoral in the American context, making a "distinction between two kinds of pastoralismone that is popular and sentimental, the other imaginative and complex". <ref type="bibr">30</ref> While the former is characterised by a naïve, "inchoate longing for a more 'natural' environment",<ref type="foot" target="#foot_11">31</ref> the latter does not permit us to come away with anything like the simple, affirmative attitude we adopt toward pleasing rural scenery. In one way or another, if only by virtue of the unmistakable sophistication with which they are composed, these works manage to qualify, or call into question, or bring irony to bear against the illusion of peace and harmony in a green pasture. <ref type="bibr">32</ref> Gifford uses the term "post-pastoral" to refer to works, both contemporary and earlier, that attempt to reach beyond "the limitations of pastoral while being recognizably in the pastoral tradition". <ref type="bibr">33</ref> The post-pastoral mode critically engages with and reflects upon the pastoral, "seeking not a stable, complacent form of harmony in the human relationship with natureour species' relationship with its home planet in its macro and its micro ecologiesbut seeking a dynamic, self-adjusting accommodation to 'discordant harmonies'". <ref type="bibr">34</ref> Post-pastoral texts engage with the problem of the human attitude to the natural landscape, asking whether awe can foster humility; they focus on the "implications of recognizing that we are part of that creative-destructive process"of the "ebbs and flows of growth and decay", contending with the questions of human consciousness and how it mediates our relationship with the rest of matter and pondering the interconnections between culture and nature. They question the cultural implications of the belief that humans (and by extension, human culture and technology) are part of nature and attempt to understand what makes us so prone to exploiting the Earth. <ref type="bibr">35</ref> Finally, post-pastoral texts are those "that successfully suggest a collapse of the human/nature divide while being aware of the problematics involved". <ref type="bibr">36</ref> Given this broader context, the post-pastoral seems to be a particularly useful mode for writing about nature in the Anthropocene.</p><p>Indeed, the four books under study in this paper all employ the post-pastoral mode; the gardens and landscapes depicted within them serve as vehicles for a nuanced exploration of the (natural) world which acknowledges the tentativeness of harmony and the interconnectedness of all the actors in nature. The capacity of gardens to serve such a purpose might be surprising, especially considering the more traditional connotations which they bear. According to the Merriam-Webster dictionary, the English word garden has roots in the Old German word gart, which means enclosure, and gardens have often been designed as spaces "set apart from the pressures of ordinary life for pleasure and contemplation". <ref type="bibr">37</ref> In many mythologies gardens are synonymous with paradise, "the imagined locus of our beginning and end […] whose inhabitants are divinely protected", existing in "a preconscious state of innocence and harmony". <ref type="bibr">38</ref> Indeed, even in contemporary understandings, the garden frequently conjures images of privacy, pleasure, peace, and control, "suggesting an aspirational aesthetic that is romantic and resolutely non-urban". <ref type="bibr">39</ref> Yet, despite these deeply held associations, in reality</p><p>[w]e can never wholly domesticate a garden anymore than we can wholly domesticate the soul. Even our most compulsive efforts to control or manipulate the garden are subject to the autonomy, randomness and surprises of nature. Priapus, Saint Augustine reminds us, embodies the endlessly proliferating spirit of the garden. And how easily the untended garden returns to wilderness, its matted overgrowth and tangled vines encroaching on all our emblems of civilization. The garden of paradise always remains an ideal, an unattainable utopia, a product of the sentimental pastoral. In reality, gardens are more like Michel Foucault's "heterotopias", "contradictory sites … capable of juxtaposing in a single real place several spaces, several sites that are in themselves incompatible". <ref type="bibr">41</ref> Although a garden is often enclosed within the boundaries of a fence, it contains a teeming mass of converging worlds. The soil is turned into plants, plants into animals, and animals back into soil; the human mingles with the non-human; culture creates nature and nature sustains culture. The complexity, contingency, permeability, and transience of gardens make them post-pastoral landscapes par excellence.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Out-of-control Gardens as Permeable Sanctuaries</head><p>The four works examined in this paper all share a melancholy mood suffused with solastalgia, however, this does not prevent their characters from acting in the world. The world as depicted in the four books is huge, complex, and often incomprehensible, yet its inhabitants refuse to submit in their struggle for survival. This struggle is most explicitly depicted in Jessie Greengrass's The High House, a climate fiction novel set in a near future in which a huge flood has rendered most of Britain uninhabitable. Caro and her half-brother Pauly forge an existence in a safe house surrounded by a garden and orchard which had been created for them by Caro's mother in anticipation of the coming disaster.</p><p>They share this sanctuary with two villagers, Sally and her grandfather whom the others call Grandy. As they work together to grow vegetables and preserve fruits, their acute feelings of fear, despair, and guilt are counterbalanced by the happiness and contentment which they find in the beauty and bounty of the garden and in the companionship which they offer each other.</p><p>The other three works under study also evoke mixed feelings of fear, guilt, melancholy, awe, and joy. Daisy Hildyard's Emergency was subtitled A Pastoral Novel in its American edition, a decision which ostentatiously situates the work within the long-standing tradition. Despite its rural setting, however, the unnamed narrator has not withdrawn from urban life; she was born and raised in a small village somewhere in the north of England and does not venture beyond its bounds. Yet the outside world intrudes in many forms, such as the exotic spider brought home by accident in a bag of bananas or the village's first computer installed in the local school. The village, in turn, spills out into the world, mostly in the form of the cement produced by the local quarry and the pork raised and slaughtered in the nearby pigsties. There is no escape and no return in Hildyard's pastoral; instead, the local and the global, the rural and the urban, and nature and technology are all deeply enmeshed and constantly intra-acting. The narrator lives her life surrounded by a group of neighbours and other feral kids from the village, running around the maze of unfenced gardens that never seem to end, flowing out instead into the fields, forests, and quarries that circle the village.</p><p>In these gardens, the narrator and her friends are confronted by a world in which beauty and cruelty are both essential elements of life, and where they discover the paradoxical truth that love and care can often unwittingly lead to violence. One such episode takes place after the rabbit the narrator's parents are raising in their garden gives birth to <ref type="bibr">41</ref> Foucault, "Of Other Spaces," 25.</p><p>"a nest full of babies". <ref type="bibr">42</ref> Although her mother warns her against it, the young girl cannot resist the impulse to take one of the baby rabbits out of the run and "take care" of it. Although her intentions are pure, the consequences are grim; when she returns the baby to the rabbit run, the mother rabbit detects the narrator's strange smell and devours her own litter.</p><p>The following day I went to see the rabbits and the mother was alone in her run. She was truly a big rabbit. I watched her for a while. She seemed calm, nibbling dandelion leaves, and I felt a sense of affinity with her because we had done it together, destroyed the babies with our colossal care. Even today, she seems to me very human in the way her principles forced her to self-destruct, and in the scale of her appetite, which far exceeded what she needed to survivethose dandelion leaves. <ref type="bibr">43</ref> This episode represents a crucial encounter in which the narrator is made aware of the inescapability of the fact that life, sustenance, care, violence, and death are all indelible parts of existence. In The Eye of the Crocodile, Val Plumwood recounts her own close encounter with death, when she was almost eaten by a crocodile while canoeing in Kakadu National Park. This event had a profound influence on Plumwood: it represented a "moment of truth" in which "abstract knowledge" about the cycle of matter and inevitability of death suddenly became concrete. <ref type="bibr">44</ref> After almost becoming the crocodile's food, Plumwood was forced to accept that the "apartness" of humans from other animals and the rest of life on Earth is purely an illusion. <ref type="bibr">45</ref> Moreover, the scene perfectly illustrates the notion put forth by Donna Haraway that "[t]ouch and regard have consequences". <ref type="bibr">46</ref> By touching the baby rabbits, the narrator assumes responsibility for their fate. By looking into the mother rabbit's face, by immersing herself in the "intersecting gaze", 47 she learns to understand the rabbit's perspective. Just like Plumwood, who gained a crucial understanding of her own "vulnerability as an edible, animal being" by gazing into the eyes of the crocodile who attacked her, 48 the narrator acquires a "sense of affinity" with the natural world through gazing at the mother rabbit.</p><p>The narrator of Emergency is still a child when the rabbit episode takes place, yet this striking and intimate encounter with death, albeit not her own, becomes a powerful lesson in physicality and mortality and encapsulates what Plumwood jokingly describes as the "essential foodiness" shared by all animals, including the narrator. <ref type="bibr">49</ref> It also serves to highlight the entanglement of life forms that coexist in any ecosystem, including the garden. Through this encounter, the garden is revealed as a source of sustenance for both its human and non-human inhabitants alike, yet it is also a nexus for all kinds of violence: accidental, casual, or intentional. The novel forces us to realise that violence, love, and appetite are all much more similar than we would like to admit. Sarah Moss's The Fell adopts a similar approach to the idea of the garden. Set during the COVID-19 pandemic, the characters of the novel are confined to their homes and private yards as part of the national effort to prevent the spread of the virus, but their attitudes towards the spaces which offer them a sense of escape during quarantine are highly ambivalent. The characters are aware of the connotations of the garden as a site of sanctuary, a safe space set apart from the rest of the world; on this basis, they rationally acknowledge their access to gardens as a benefit, appreciating that they can leave their houses to tend to their flowers and vegetables and rely on the produce while they are unable to shop at the supermarket. Echoing the rhetoric of the traditional pastoral mode, they comment on the beauty and tranquillity of their gardens. In the early days of her quarantine, the protagonist, Kate, wanders through her garden, observing:</p><p>There will be daffodils along the path here in spring, and tulips over there, the dark purple ones sold as black. She's never planted so many bulbs before. […] The kale's holding up, they should have some more of that tonight […] There's birdsong now, some small piping voice in the hedge; wind, not much, in the bare apple tree. From here she can see across the fields to the hill, where the bracken is dying and the heather dull brown, cloud brushing the summit. <ref type="bibr">50</ref> Her neighbour Alice fondly reminisces about how she loved visiting the garden centre before it closed because of the lockdown, relishing "that particular sunny smell of compost and green growing, the wobble of a wheelbarrow when you pick up a rose bush and some tomato seedlings". <ref type="bibr">51</ref> Yet while these descriptions, with their sensory imagery and focus on the pleasantness and idyllic character of the garden, are clear allusions to the pastoral tradition, Moss infuses each of them with a darker mood. Alice muses on the possibility that what she really enjoyed about the garden centre was not the beauty of the plants but rather the act of shopping, while Kate despairs over the fact that even though she grows her own vegetables, the resulting meals almost always end up as "some kind of vegetable and tinned tomato slop on rice". <ref type="bibr">52</ref> And despite the solace which their gardens grant them, both Alice and Kate long to escape their bounds, guiltily admitting that the enclosed space feels more like a prison than a sanctuary.</p><p>Claire-Louise Bennett employs a similar juxtaposition of admiration, awe, and contentment with scepticism, guilt, and despair in her 2015 collection Pond. Bennett deliberately engages with the tradition of the pastoral in her narrative of an unnamed protagonist who has abandoned the city for the countryside in search of clarity, distance, and authenticity. The stories are set in a remote area near a lake, a reference to a classic of the pastoral mode, Henry David Thoreau's Walden, 53 yet Bennett turns the pastoral tradition on its head. Instead of depicting the countryside as pleasant, idyllic, or restorative, the narrator increasingly sees her surroundings and herself as unsettling, terrifying, aweinspiring, and dream-like. Instead of returning to civilisation wiser and more refreshed, she ends up resisting her return, hoping to remain in the dark with her monsters, whom she comes to see as an essential part of her own being. <ref type="bibr">54</ref> The narrator adopts the same ambivalent attitude towards her garden. She is a reluctant gardener who claims she has decided "once and for all" that she didn't "want to be in the business of turning things into other things", 55 yet she finds that she is compelled to do so regardless. Although she rationally perceives any action, and especially action in which she attempts to alter "nature", as pointless, once she starts, she is seemingly unable to stop:</p><p>[…] interfering is something I really loathe in almost all its applications. So, I was trimmingpruning you might call itand pulling up weeds and patting the soil back down, and I soon felt like one of those ladies I'd see from the car window on the way to my grandparents' house with their ample backsides and baggy gardening gloves when I was much smaller. This is mindless, I thought, and very unflatteringstop it at once. But I didn't stop because I was so curious to find out what changed if I carried on. […] I wasn't pitting myself against nature or anything as hammy as that -I was suddenly desperate to get rid of all this disheveled foliage, it's true, but the reason I soon realized was because I wanted to get to bare soil -I missed itit was all covered over and I wanted so much to push everything aside and see the earth. <ref type="bibr">56</ref> In this passage the conflicting feelings of despair and futility at the pointlessness of trying to change the course of nature are warring with an even stronger drive to affect change: to simply see what might happen. The narrator subconsciously senses the intra-action between herself and the world and feels compelled to reconnect with the soil, albeit tentatively. In Second Nature, Michael Pollan referred to this emotion as the "gardener's sublime", a state of mind different from the romantic sublime in which one is astonished by the vast scope and power of nature. Instead, gardeners acknowledge that they are part of the sublime, active participants in the drama of "nature":</p><p>The gardener doesn't lose himself, much less his body, in his particular reverie. For as much as you are being acted upon by everything around you this July afternoon, you are acting too, urging as well as listening, conducting that desultory conversation with nature that is gardening in summertime. And though it may not last very long […], at times like these the green thumb's way through nature seems clearly marked, easy to follow, almost second nature. So simple: grace in the garden but a form of puttering. <ref type="bibr">57</ref> Just like the narrator in Pond, Pollan believes that his intra-action with the rest of the natural world is desultory and contingenthe is merely "puttering" and remains fully aware that everything which he accomplishes is transitory. Nonetheless, he clearly feels that it is exactly this kind of agency that makes sense. As with Pond's narrator, the act of gardening demonstrates to Pollan that he is not pitting himself against nature but working in tandem with everything else, participating actively in the eternal cycle of growth and decay. This foregrounding of the complexities and contradictions inherent in existence, along with an emphasis on the continuity between all beings and all matter, are the defining features of Gifford's post-pastoral literary mode.</p><p>The gardens which feature in the four books under study are never finished, never completely separated from the rest of the world, and certainly not self-contained. The characters are constantly reminded of their entanglement with other beings, but also with the rest of matter. In The High House, Caro muses:</p><p>We are not self-sufficient. There is no such thing. We rely on the stores we have left in the barn. We rely on the chickens, but the flock is shrinking. We rely on the wheat, but one bad year and we will have none left to sow as seed. We rely on the tide pool and the generator which we cannot fix if it breaks. We rely on the high house, on its fabric, on its shelter and protection, but these things will not last forever. We rely on one another. <ref type="bibr">58</ref> In the garden of Greengrass' novel, not only the plants and animals (both human and non-human) are active agents in the cycle of growth-consumption-decay but also all of the objects found within it. The wheat, chickens, humans, the generator, the seeds, and the house itself all co-create a mesh that makes life possible. Yet this harmony is always temporary and when one or more of the participants inevitably cease to fulfil their role, the entire cycle is subject to collapse.</p><p>In "A New Concept for Fighting Climate Change", Elizabeth Rush opines that in order to successfully conceptualise nature, we need to redefine the categories of animate and inanimate: we need to "foreground non-human actors", including those we traditionally consider as not alive, such as rivers or glaciers, by making explicit their agency. <ref type="bibr">59</ref> This is one of the strategies employed by Bennett, Greengrass, Hildyard, and Moss. Hildyard paints a landscape in which trees, children, gravel, abandoned construction machines, and foxes all act upon the world and upon each other. A neighbour "populates" his garden pond "with newts, frogs, and a plastic floating decoy duck", 60 allowing the living and synthetic birds to occupy the space as equals. The poisonous yew, which he gives to the narrator's mother as seasoning for her cooking claiming it is rosemary, is described as moving through the narrator's intestines of its own volition, "mapp[ing] out the physical passage of his frustrated sense of humour". 61 On a different day, when the narrator steps upon a heap of garden compost, she can "see puffs of steam or spores around" her feet, and becomes petrified that the tiny beings living inside the heap will swarm through her skin, entering and invading her stomach, which is simultaneously being attacked from within by a swallowed piece of chewing-gum "lurk[ing] and radiat[ing] its fatal particles" into her body. <ref type="bibr">62</ref> In Emergency, the garden is depicted as an ecosystem without boundaries, an entity which both fascinates and terrifies the narrator. She feels a unity with the cannibalistic rabbit, the swallowed pieces of yew, and the compost bacteria, yet at the same time she is aware that their coexistence is precarious and always prone to fatal consequences.</p><p>The representation of the continuity of matter and being and the revelation that objects traditionally considered as inanimate in fact possess agency is central to the post-pastoral mode. In New Forms of Environmental Writing: Gleaning and Fragmentation, Timothy Baker explains how contemporary authors make use of fragmentation and what he calls "gleaning", that is the presentation of narrative as a collection of fragments, to achieve such effects. In an attempt to capture the complexity and interconnection of the world, these authors foreground "the momentary encounter" and "the daily ritual", 63 focusing on the mundane as a manifestation of the real. The technique of fragmentation represents "a complicated response to environmental concerns that makes a virtue of uncertainty and accident" and a "way of challenging received narratives of environmental engagement". 64 Timothy Morton describes the interconnectedness of ecosystems using <ref type="bibr">58</ref> Greengrass, The High House, 223. <ref type="bibr">59</ref> Rush, "A New Concept for Fighting Climate Change." <ref type="bibr">60 Hildyard,</ref><ref type="bibr">Emergency,</ref><ref type="bibr">46. 61</ref> Ibid. <ref type="bibr">62</ref> Ibid., 61. <ref type="bibr">63</ref> Baker, New Forms of Environmental Writing, 14. <ref type="bibr">64</ref> Ibid.</p><p>the metaphor of a mesh. The mesh is a network of intertwined beings and objects that is "vast, perhaps immeasurably so"<ref type="foot" target="#foot_15">65</ref> and defined by a pervasive strangeness. Within the mesh, "nothing exists all by itself, and so nothing is fully 'itself.'"<ref type="foot" target="#foot_16">66</ref> Instead, objects and beings coexist in complex relationships and any attempt at fully knowing or defining them necessarily fails.</p><p>Baker argues that fragmentation and gleaning make possible a representation of such fundamentally interconnected and ultimately unknowable ecosystems by focusing on the momentary and partial and allowing for uncertainty and coincidence. These two techniques are employed extensively in all four of the books under study. Although Sarah Moss's novel can be interpreted as a linear narrative of the protagonist's abortive attempt to escape quarantine, Moss structures the text in a way that prevents such a simple reading. The point of view is constantly shifting, with each chapter narrated by a different character. The chapters themselves are titled with cryptic statements, and the narrative flows as a series of fragmented thoughts and memories recounted as a sequence of random associations. The conclusion of the novel is left open, indicating that the narrative itself is merely a fragment of a larger story. Similar methods of fragmentation are employed by the other three writers. Emergency, The High House, and the stories collected in Pond are all very loosely plotted and structured as a stream of memories and musings with open endings. In The High House, Greengrass also employs multiple points of view, while Pond is a great example of what Baker calls "fragmented form". <ref type="bibr">67</ref> The stories that form the collection feature minimal plots. Instead, they are made up of loosely connected observations, memories, dreams, and philosophical musing of the protagonist. The timeframe of events is unclear, the collection is written almost entirely in the form of interior monologue, and almost no background information is provided about the protagonist or any of the minor characters. The effect Bennett achieves is that of fragmentation and disorientation.</p><p>The narrative of Emergency is filled with gleaned collections of fragments, much like the gardens in which it is set:</p><p>We walked past a huge henhouse which was a miniature version of the main house, except, on the inside walls, somebody had painted magnificent bare-breasted women, some with fishtails, others combing their hair, wearing shells or pearls, or trailing seaweed which covered or revealed their nakedness. "Suzie's thing," said Ruth. "Bit camp." She marched us around the different gardens inside the garden, barking out the Latin names of the plants and informing us as to whether they were thriving or weak. Then we went into the hothouse.</p><p>[…] These plants were labelled with small white placards on plastic sticks that had been pushed into the damp compost. The Latin names of the plants meant nothing to me but I had heard of their places of origin: Barbados, Trinidad, Carolina, Florida, Georgia. Some olden person had annotated these labels in looped handwriting with notes on the environment that the original seed, cutting, or entire plant had been lifted from: forest, mountain, swamp, plantation. <ref type="bibr">68</ref> The garden described here seems like an amalgamation of various random objects that together form a haphazard whole. At the same time, however, it is a paradise of sorts, an ancient, enchanted place, in which the narrator "wouldn't have been surprised to see a beady eye or scaly tail or long golden feather flick and disappear". <ref type="bibr">69</ref> This magical scene is as much a result of human creativity as it is a product of natural forces beyond human control. The miniature henhouse and the paintings of bare-breasted women coexist in an eclectic ecosystem with the plants expanding inside the hothouse, covering the glass with moisture and bringing matter from all over the globe to this one spot in England. Hildyard depicts such gleaned collections of items frequently throughout the novel. More importantly, she also uses the technique of gleaning as the central structuring principle of the narrative. The plot of Emergency is presented as a series of collected memories and seemingly random events from the protagonist's childhood and teenage years. The haphazard and fragmentary nature of the narrative helps Hildyard portray the protagonist as enmeshed in a world that is complex and ultimately incomprehensible.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Despite It All, the Garden Sustains Life</head><p>In times of uncertainty, people often yearn for action; they keep themselves busy in an attempt to maintain a sense of control, to ward off panic or manage their grief. In an age defined by pervasive solastalgia, in which climate change creates an ever-present, crippling sense of uncertainty over the future, constantly forcing us to consider whether the Earth will still be habitable a couple of years from now, gardening has often been presented as a form of action that can help us cope with the coming disaster or even overcome it. But while the portrayal of gardening in the media tends towards the sentimental pastoral, with gardens presented as an antidote to the exploitation of natural resources and our alienation from nature, the literary works discussed in this paper offer a more complicated perspective. In these four books, gardens are construed as post-pastoral landscapes in which humans are embedded in the fabric of all matter on Earth. These gardens are an integral part of the world, affected by climate change, filled with plastics and machines but also with birds, vegetables, compost, children, and bacteria. In this sense, the books echo Haraway's understanding of the world as a web of "ordinary knotted beings" 70 in which "[t]o be one is always to become with many". 71 This web of ordinary beings is embodied, firmly rooted in matter, and all life in this world unfolds in the form of "a multipartner mud dance issuing from and in entangled species". <ref type="bibr">72</ref> This innovative approach allows the four authors to highlight the artificiality of the Manichean distinctions between nature and civilisation, wilderness and society, and the human and non-human. Yet despite their refusal to romanticise gardens and gardening as a cure-all for our ecological woes, each of the four books acknowledges the power of actively engaging with the material world, especially by growing and eating our own food. The figure of the gardener is portrayed as an embodiment of knowledge, care, and 69 Ibid. <ref type="bibr">70 Haraway,</ref><ref type="bibr">When Species Meet,</ref><ref type="bibr">5. 71 Ibid.,</ref><ref type="bibr">4. 72 Ibid.,</ref><ref type="bibr">32.</ref> survival. In The High House, the village caretaker, Grandy, tends to the gardens surrounding the holiday cottages after their owners have returned to their homes in the city:</p><p>The village was his. It was he who looked after it. The apples which ripened in September in all the trees in all the gardens were Grandy's, and the pears, and he stored them in whichever sheds had room for them, laying them side by side in rows, not touching, so he could go back for them as he wanted through the winterand he made cider, plastic bins of pulp fermenting in his own shed to be strained, later, through old pillowcases hung from a hook in the kitchen roof. The results were poured into demijohns and kept in the airing cupboard for the winter. If you stood outside the cupboard, even with the door shut, you could hear them, bubbling softly away to themselves. It was always a comforting sound. <ref type="bibr">73</ref> Grandy's intimate knowledge of the gardens and what grows and lives in them allows him to preside over the village like an anima locus. Yet it is made clear in the novel that he is only able to thrive in this place because he works in tandem with everything else that inhabits it: the apple trees, the insects, the driftwood. After the flood, Grandy becomes instrumental to the survival of the four characters. Throughout the story he teaches them the skills they need to maintain their garden and grow food for themselves. Finally, at the end of the novel, he becomes a martyr figure, sacrificing his life to save Caro and Sally. And although his eventual death is a reminder that survival is a transitory state, his life stands as a testament to the fact that even under the harshest of circumstances, we are compelled to go on livingwe cannot keep from participating in the eternal cycle of matter.</p><p>In The Fell, Kate ruminates on this cycle while standing in her garden, imagining the people and vegetables that used to occupy that same plot of land in the past:</p><p>She does think about them sometimes, the original inhabitants, the stirring of porridge and pottage where she now fries tofu and grills peppers but also stirs bean soup of the sort they'd surely have eaten with probably the same vegetables from the same garden as those Victorian miners, grown in earth that probably still holds the nutrients of their nightsoil, the afterlives of their bodies present in her and Matt, and aren't we all just rearrangements of the same atoms, which could maybe somehow be a comforting thought but isn't, not particularly. <ref type="bibr">74</ref> In this passage, and indeed in all of the examples discussed above, ambivalence is the dominant tone. The cycle of life and decay offers little comfort, yet it is inevitable. And if it is so, the best course of action might be to become active participants in it by planting, growing, tending, eating, and discharging the stuff of the world that is also the stuff of our gardens. The gardens depicted in Pond, The High House, Emergency, and The Fell, are by no means idyllic but they are undoubtedly sublime. Their beauty, simultaneously bizarre and terrifying, stems not from an aesthetic arrangement of plants, but from the realisation that the vegetables, fruits, and (human and nonhuman) animals that live in them embody the fundamental and inescapable cycle of growth and decay that is existence.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Disclosure Statement</head><p>No potential conflict of interest was reported by the author(s). <ref type="bibr">73</ref> Greengrass, The High House, 62. <ref type="bibr">74</ref>  Moss, The Fell, 21-2.  </p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head>5Elliott,</head><label></label><figDesc>The Potting-Shed Papers, 137. 6 Gayle, "Waiting List for Allotments in England Almost Doubles in 12 Years." 7</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_0"><head></head><label></label><figDesc>40    </figDesc><table /><note><p><p><p><p><p><p><p><p>33 Gifford, "Pastoral," 26.  34 Ibid., 28.  35 Ibid, 27.  36  </p>Ibid., 26.</p>37  </p>Ronnberg, The Book of Symbols, 146 38 Ibid.</p>39  </p>Bhatti, Church, and Claremont, "Peaceful, Pleasant and Private," 46.</p>40  </p>Ronnberg, The Book of Symbols, 148.</p></note></figure>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="20" xml:id="foot_0"><p>Marx, The Machine in the Garden, 32.   </p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="21" xml:id="foot_1"><p>Barrell and Bull, The Penguin Book of English Pastoral Verse, 432.   </p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="22" xml:id="foot_2"><p>Haraway, The Companion Species Manifesto, 16.   </p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="23" xml:id="foot_3"><p>Tsing, "Unruly Edges," 144.</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="24" xml:id="foot_4"><p>Barad, Meeting the Universe Halfway, 34.   </p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="25" xml:id="foot_5"><p>Barad, "Invertebrate Visions," 229.   </p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="26" xml:id="foot_6"><p>Ibid., emphasis added.</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="27" xml:id="foot_7"><p>Albrecht, "Solastalgia."   </p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="28" xml:id="foot_8"><p>Morton, The Ecological Thought, 2.   </p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="29" xml:id="foot_9"><p>Gifford, "Pastoral," 22.   </p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="30" xml:id="foot_10"><p>Marx,  The Machine in the Garden, 5.</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="31" xml:id="foot_11"><p>Ibid.   </p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="32" xml:id="foot_12"><p>Ibid., 25.   </p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="56" xml:id="foot_13"><p>Ibid., 117.   </p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="57" xml:id="foot_14"><p>Pollan, Second Nature, </p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="65" xml:id="foot_15"><p>Morton, The Ecological Thought, 15.   </p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="66" xml:id="foot_16"><p>Ibid.   </p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="67" xml:id="foot_17"><p>Ibid.   </p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="68" xml:id="foot_18"><p>Hildyard, Emergency, 95.   </p></note>
+		</body>
+		<back>
+
+			<div type="funding">
+<div><head>Funding</head><p>This research was funded by a VVGS grant number vvgs-2023-2769 titled "Food in twenty-first century fiction and film: An ecocritical perspective", granted by <rs type="funder">Pavol Jozef Šafárik University in Košice</rs>, Slovakia.</p></div>
+<div><head>ORCID</head><p><rs type="person">Silvia Rosivalova Baucekova</rs> http://orcid.org/<rs type="grantNumber">0000-0002-6144-4348</rs></p></div>
+			</div>
+			<listOrg type="funding">
+				<org type="funding" xml:id="_FzGavNp">
+					<idno type="grant-number">0000-0002-6144-4348</idno>
+				</org>
+			</listOrg>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<monogr>
+		<title level="m" type="main">Bodily Natures: Science, Environment, and the Material Self</title>
+		<author>
+			<persName><forename type="first">Stacy</forename><surname>Alaimo</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2010">2010</date>
+			<publisher>Indiana University Press</publisher>
+			<pubPlace>Bloomington and Indianapolis</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<title level="a" type="main">Solastalgia: Environmental Damage Has Made It Possible to Be Homesick without Leaving Home</title>
+		<author>
+			<persName><forename type="first">Glenn</forename><surname>Albrecht</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Alternatives Journal</title>
+		<imprint>
+			<biblScope unit="volume">32</biblScope>
+			<biblScope unit="issue">4/5</biblScope>
+			<biblScope unit="page" from="34" to="36" />
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<monogr>
+		<title level="m" type="main">Art of the Garden: The Garden in British Art, 1800 to the Present Day</title>
+		<author>
+			<persName><forename type="first">Nicholas</forename><surname>Alfrey</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Stephen</forename><surname>Daniels</surname></persName>
+		</author>
+		<editor>Martin Postle</editor>
+		<imprint>
+			<date type="published" when="2004">2004</date>
+			<publisher>Tate Publishing</publisher>
+			<pubPlace>London</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<monogr>
+		<title level="m" type="main">A History of Gardening in England</title>
+		<author>
+			<persName><forename type="first">Alicia</forename><surname>Amherst</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1895">1895. 2013</date>
+			<publisher>Cambridge University Press</publisher>
+			<pubPlace>Cambridge</pubPlace>
+		</imprint>
+	</monogr>
+	<note type="report_type">Reprint</note>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<monogr>
+		<title level="m" type="main">Oxford Research Encyclopedia of Literature</title>
+		<author>
+			<persName><forename type="first">Ulka</forename><surname>Anjaria</surname></persName>
+		</author>
+		<idno type="DOI">10.1093/acrefore/9780190201098.001.0001/acrefore-9780190201098-e-194</idno>
+		<ptr target="https://oxfordre.com/literature/view/10.1093acrefore/9780190201098.001.0001/acrefore-9780190201098-e-194" />
+		<imprint>
+			<date type="published" when="2017-07-27">July 27, 2017</date>
+		</imprint>
+	</monogr>
+	<note>Twenty-First-Century Realism</note>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<monogr>
+		<author>
+			<persName><forename type="first">Timothy</forename><forename type="middle">C</forename><surname>Baker</surname></persName>
+		</author>
+		<title level="m">New Forms of Environmental Writing: Gleaning and Fragmentation</title>
+		<meeting><address><addrLine>London</addrLine></address></meeting>
+		<imprint>
+			<publisher>Bloomsbury Academic</publisher>
+			<date type="published" when="2022">2022</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title level="a" type="main">Invertebrate Vision: Diffractions of the Brittlestar</title>
+		<author>
+			<persName><forename type="first">Karen</forename><surname>Barad</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">The Multispecies Salon</title>
+		<editor>
+			<persName><forename type="first">Eben</forename><surname>Kirksey</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Durham and London</addrLine></address></meeting>
+		<imprint>
+			<publisher>Duke University Press</publisher>
+			<date type="published" when="2014">2014</date>
+			<biblScope unit="page" from="221" to="241" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<monogr>
+		<title level="m">Meeting the Universe Halfway: Quantum Physics and the Entanglement of Matter and Meaning</title>
+		<meeting><address><addrLine>London</addrLine></address></meeting>
+		<imprint>
+			<publisher>Duke University Press</publisher>
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<monogr>
+		<title level="m" type="main">The Penguin Book of English Pastoral Verse</title>
+		<editor>Barrell, John, and John Bull</editor>
+		<imprint>
+			<date type="published" when="1974">1974</date>
+			<publisher>Allen Lane</publisher>
+			<pubPlace>London</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title level="a" type="main">2021 Gardening Predictions: What Trends will we see</title>
+		<author>
+			<persName><forename type="first">Guy</forename><surname>Barter</surname></persName>
+		</author>
+		<ptr target="https://www.rhs.org.uk/garden-inspiration/archive/2021-gardening-predictions" />
+	</analytic>
+	<monogr>
+		<title level="m">The Royal Horticultural Society</title>
+		<imprint>
+			<date type="published" when="2021-04-02">April 2, 2021</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">Claire-Louise</forename><surname>Bennett</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Pond</surname></persName>
+		</author>
+		<author>
+			<persName><surname>London</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2015">2015</date>
+			<publisher>Fitzcarraldo Editions</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title level="a" type="main">Peaceful, Pleasant and Private: The British Domestic Garden as an Ordinary Landscape</title>
+		<author>
+			<persName><forename type="first">Mark</forename><surname>Bhatti</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Andrew</forename><surname>Church</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Amanda</forename><surname>Claremont</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/01426397.2012.759918</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Landscape Research</title>
+		<imprint>
+			<biblScope unit="volume">39</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="40" to="52" />
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<title level="a" type="main">Panic Gardening&apos; is Growing Interest in Backyard Food Crops</title>
+		<author>
+			<persName><forename type="first">Meg</forename><surname>Cunnigham</surname></persName>
+		</author>
+		<ptr target="https://www.chmafm.com/welcome/panic-gardening-is-growing-interest-in-backyard-food-crops/" />
+	</analytic>
+	<monogr>
+		<title level="j">CHMA Attic Broadcasting</title>
+		<imprint>
+			<date type="published" when="2020-09-01">September 1, 2020</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<title level="a" type="main">The Return of Realism in the World Novel</title>
+		<author>
+			<persName><forename type="first">Hamish</forename><surname>Dalley</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">The Cambridge History of World Literature</title>
+		<editor>
+			<persName><forename type="first">Debjani</forename><surname>Ganguly</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Cambridge</addrLine></address></meeting>
+		<imprint>
+			<publisher>Cambridge University Press</publisher>
+			<date type="published" when="2021">2021</date>
+			<biblScope unit="page" from="636" to="652" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<monogr>
+		<title level="m" type="main">The Potting-Shed Papers: On Gardens, Gardeners, and Garden History</title>
+		<author>
+			<persName><forename type="first">Charles</forename><surname>Elliott</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2002">2002</date>
+			<publisher>The Lyons Press</publisher>
+			<pubPlace>Guilford, Connecticut</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title level="a" type="main">Of Other Spaces</title>
+		<author>
+			<persName><forename type="first">Michel</forename><surname>Foucault</surname></persName>
+		</author>
+		<idno type="DOI">10.2307/464648</idno>
+	</analytic>
+	<monogr>
+		<title level="m">Translated by Jay Miskowiec</title>
+		<imprint>
+			<date type="published" when="1986">1986</date>
+			<biblScope unit="volume">16</biblScope>
+			<biblScope unit="page" from="22" to="27" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<monogr>
+		<title level="m" type="main">Pond by Claire-Louise Bennett Review -A Stunning Debut</title>
+		<author>
+			<persName><forename type="first">Andrew</forename><surname>Gallix</surname></persName>
+		</author>
+		<ptr target="https://www.theguardian.com/books/2015/nov/18/pond-claire-louise-bennett-review" />
+		<imprint>
+			<date type="published" when="2015-11-18">November 18, 2015</date>
+		</imprint>
+	</monogr>
+	<note>The Guardian</note>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<monogr>
+		<author>
+			<persName><forename type="first">Greg</forename><surname>Garrard</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Ecocriticism</surname></persName>
+		</author>
+		<title level="m">The New Critical Idiom. London and</title>
+		<meeting><address><addrLine>New York</addrLine></address></meeting>
+		<imprint>
+			<publisher>Routledge</publisher>
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<monogr>
+		<title level="m" type="main">Waiting List for Allotments in England almost Doubles in 12 Years</title>
+		<author>
+			<persName><forename type="first">Damien</forename><surname>Gayle</surname></persName>
+		</author>
+		<ptr target="https://www.theguardian.com/environment/2023/oct/11/waiting-list-for-allotments-in-england-almost-doubles-in-12-years" />
+		<imprint>
+			<date type="published" when="2023-10-11">October 11, 2023</date>
+		</imprint>
+	</monogr>
+	<note>The Guardian</note>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<analytic>
+		<title level="a" type="main">Pastoral, Anti-Pastoral, and Post-Pastoral</title>
+		<author>
+			<persName><forename type="first">Terry</forename><surname>Gifford</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">The Cambridge Companion to Literature and the Environment</title>
+		<editor>
+			<persName><forename type="first">Louise</forename><surname>Westling</surname></persName>
+		</editor>
+		<meeting><address><addrLine>New York</addrLine></address></meeting>
+		<imprint>
+			<publisher>Cambridge University Press</publisher>
+			<date type="published" when="2014">2014</date>
+			<biblScope unit="page" from="17" to="30" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<monogr>
+		<title level="m">Pastoral: The New Critical Idiom. London and New York: Routledge</title>
+		<imprint>
+			<date type="published" when="1999">1999</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<monogr>
+		<title level="m" type="main">The High House</title>
+		<author>
+			<persName><forename type="first">Jessie</forename><surname>Greengrass</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2021">2021</date>
+			<publisher>Swift Press</publisher>
+			<pubPlace>London</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<monogr>
+		<title level="m" type="main">The Companion Species Manifesto: Dogs, People, and Significant Otherness</title>
+		<author>
+			<persName><forename type="first">Donna</forename><surname>Haraway</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2003">2003</date>
+			<publisher>Prickly Paradigm Press</publisher>
+			<pubPlace>Chicago</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<monogr>
+		<title level="m">When Species Meet</title>
+		<meeting><address><addrLine>Minneapolis</addrLine></address></meeting>
+		<imprint>
+			<publisher>University of Minnesota Press</publisher>
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">Daisy</forename><surname>Hildyard</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Emergency</surname></persName>
+		</author>
+		<author>
+			<persName><surname>London</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2022">2022</date>
+			<publisher>Fitzcarraldo Editions</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<analytic>
+		<title level="a" type="main">Crisis Gardening: Growing Food in Uncertain Times</title>
+		<author>
+			<persName><forename type="first">William</forename><surname>Horvath</surname></persName>
+		</author>
+		<ptr target="https://permacultureapprentice.com/crisis-gardening/" />
+	</analytic>
+	<monogr>
+		<title level="j">Permaculture Apprentice (blog)</title>
+		<imprint/>
+	</monogr>
+	<note>cited 15 July 2025</note>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<analytic>
+		<title level="a" type="main">Nature Writing</title>
+		<author>
+			<persName><forename type="first">Richard</forename><surname>Kerridge</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">The Cambridge Companion to Prose</title>
+		<editor>
+			<persName><forename type="first">Daniel</forename><surname>Tyler</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Cambridge</addrLine></address></meeting>
+		<imprint>
+			<publisher>Cambridge University Press</publisher>
+			<date type="published" when="2021">2021</date>
+			<biblScope unit="page" from="214" to="232" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b27">
+	<analytic>
+		<title level="a" type="main">Panic Gardening&apos; during a Pandemic</title>
+		<author>
+			<persName><forename type="first">Stacey</forename><surname>Larner</surname></persName>
+		</author>
+		<ptr target="https://www.slq.qld.gov.au/blog/panic-gardening-during-pandemic" />
+	</analytic>
+	<monogr>
+		<title level="j">State Library Queensland</title>
+		<imprint>
+			<date type="published" when="2020-05-01">May 1, 2020</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b28">
+	<monogr>
+		<title level="m" type="main">The Machine in the Garden: Technology and the Pastoral Ideal in America</title>
+		<author>
+			<persName><forename type="first">Leo</forename><surname>Marx</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1964">1964</date>
+			<publisher>Oxford University Press</publisher>
+			<pubPlace>New York</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b29">
+	<monogr>
+		<title level="m" type="main">The Ecological Thought</title>
+		<author>
+			<persName><forename type="first">Timothy</forename><surname>Morton</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2010">2010</date>
+			<publisher>Harvard University Press</publisher>
+			<pubPlace>Cambridge, Massachusetts, and London, England</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b30">
+	<analytic>
+		<title level="a" type="main">One in Eight British Households Has No Garden</title>
+		<author>
+			<persName><forename type="first">Sarah</forename><surname>Moss</surname></persName>
+		</author>
+		<ptr target="https://www.ons.gov.uk/economy/environmentalaccounts/articles/oneineightbritishhouseholdshasnogarden/2020-05-14" />
+	</analytic>
+	<monogr>
+		<title level="m">The Fell. London: Picador, 2021</title>
+		<imprint>
+			<date type="published" when="2020-05-14">May 14, 2020</date>
+		</imprint>
+	</monogr>
+	<note>Office for National Statistics</note>
+</biblStruct>
+
+<biblStruct xml:id="b31">
+	<monogr>
+		<title level="m" type="main">The Eye of the Crocodile</title>
+		<author>
+			<persName><forename type="first">Val</forename><surname>Plumwood</surname></persName>
+		</author>
+		<editor>Lorraine Shannon. Canberra</editor>
+		<imprint>
+			<date type="published" when="2012">2012</date>
+			<publisher>Australian National University E Press</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b32">
+	<monogr>
+		<author>
+			<persName><forename type="first">Michael</forename><surname>Pollan</surname></persName>
+		</author>
+		<title level="m">Second Nature: A Gardener&apos;s Education</title>
+		<meeting><address><addrLine>New York</addrLine></address></meeting>
+		<imprint>
+			<publisher>Grove Press</publisher>
+			<date type="published" when="1991">1991</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b33">
+	<analytic>
+		<title level="a" type="main">The Royal Horticultural Society</title>
+		<author>
+			<persName><forename type="first">Ami</forename><surname>Ronnberg</surname></persName>
+		</author>
+		<ptr target="https://www.rhs.org.uk/advice/grow-your-own/allotments/allotment-basics" />
+	</analytic>
+	<monogr>
+		<title level="m">The Book of Symbols: Reflections on Archetypal Images. Cologne: Taschen</title>
+		<imprint>
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+	<note>The Royal Horticultural Society. cited 14 July 2025</note>
+</biblStruct>
+
+<biblStruct xml:id="b34">
+	<analytic>
+		<title level="a" type="main">A New Concept for Fighting Climate Change</title>
+		<author>
+			<persName><forename type="first">Elizabeth</forename><surname>Rush</surname></persName>
+		</author>
+		<ptr target="https://www.theatlantic.com/books/archive/2025/05/new-way-thinking-about-changing-climate/682937/" />
+	</analytic>
+	<monogr>
+		<title level="j">The Atlantic</title>
+		<imprint>
+			<date type="published" when="2025-05-26">May 26, 2025</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b35">
+	<monogr>
+		<title level="m">British Fiction Today</title>
+		<editor>
+			<persName><forename type="first">Philip</forename><surname>Tew</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">Rod</forename><surname>Mengham</surname></persName>
+		</editor>
+		<meeting><address><addrLine>London: Bloomsbury</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b36">
+	<monogr>
+		<title level="m" type="main">Anthropocene Realism: Fiction in the Age of Climate Change</title>
+		<author>
+			<persName><forename type="first">John</forename><surname>Thieme</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2023">2023</date>
+			<publisher>Bloomsbury Academic</publisher>
+			<pubPlace>London</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b37">
+	<analytic>
+		<title level="a" type="main">Unruly Edges: Mushrooms as Companion Species: For Donna Haraway</title>
+		<author>
+			<persName><forename type="first">Anna</forename><surname>Tsing</surname></persName>
+		</author>
+		<idno type="DOI">10.1215/22011919-3610012</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Environmental Humanities</title>
+		<imprint>
+			<biblScope unit="volume">1</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="141" to="154" />
+			<date type="published" when="2012-05">May 2012</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b38">
+	<analytic>
+		<title level="a" type="main">Realism, Women Writers and the Contemporary British Novel</title>
+		<author>
+			<persName><forename type="first">Nick</forename><surname>Turner</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Realisms in Contemporary Culture: Theories, Politics, and Medial Configurations</title>
+		<editor>
+			<persName><forename type="first">Dorothee</forename><surname>Birke</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">Stella</forename><surname>Butter</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Berlin</addrLine></address></meeting>
+		<imprint>
+			<publisher>De Gruyter</publisher>
+			<date type="published" when="2013">2013</date>
+			<biblScope unit="page" from="49" to="69" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b39">
+	<monogr>
+		<title level="m" type="main">Rethinking Contemporary British Women&apos;s Writing: Realism, Feminism, Materialism</title>
+		<author>
+			<persName><forename type="first">Emilie</forename><surname>Walezak</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2022">2022</date>
+			<publisher>Bloomsbury</publisher>
+			<pubPlace>London</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b40">
+	<analytic>
+		<title level="a" type="main">Everybody Needs Beauty</title>
+		<author>
+			<persName><forename type="first">Samantha</forename><surname>Walton</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Search of the Nature Cure</title>
+		<meeting><address><addrLine>London</addrLine></address></meeting>
+		<imprint>
+			<publisher>Bloomsbury</publisher>
+			<date type="published" when="2021">2021</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

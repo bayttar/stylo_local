@@ -1,0 +1,585 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">The Self and Its Social/Ecological Other in E. M. Forster&apos;s Howards End: An Allergic Reading</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author role="corresp">
+							<persName><forename type="first">Khanh</forename><surname>Nguyen</surname></persName>
+							<email>knguyen49@wisc.edu</email>
+							<affiliation key="aff0">
+								<orgName type="department">Department of English</orgName>
+								<orgName type="institution">University of Wisconsin-Madison</orgName>
+								<address>
+									<settlement>Madison</settlement>
+									<region>WI</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff1">
+								<address>
+									<postCode>269</postCode>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">The Self and Its Social/Ecological Other in E. M. Forster&apos;s Howards End: An Allergic Reading</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date/>
+						</imprint>
+					</monogr>
+					<idno type="MD5">EE943445147669B4DECD6107A21D4CB0</idno>
+					<idno type="DOI">10.1080/0013838X.2025.2566703</idno>
+					<note type="submission">Received 16 June 2025 Accepted 19 September 2025</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.0" ident="GROBID" when="2026-02-25T19:54+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>E. M. Forster published Howards End in 1910, just four years after the coining of the term allergy by the Austrian physician Clemens von Pirquet. Though scholarship on the novel has tended to overlook Forster's representation of hay fever-an allergic disease afflicting many of the characters, situating the novel in nineteenth-and twentieth-century medical history prompts me to suspect that there might be more to such representation than hitherto understood. Specifically, I maintain that the self-other conflict at the heart of allergy can illuminate a similar tension present in Howards End: that between connection and disconnection. I approach this tension in both social and ecological terms, demonstrating how the novel is sensitive to the changing relationship between mankind and nature in early twentiethcentury Britain. In so doing, I establish allergy as a potent metaphor for the condition of living in a world disrupted by anthropogenic environmental changes.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Introduction</head><p>As much as "Only connect!" is "the whole of [Margaret Schlegel's] sermon", 1 it is also at the core of Howards End's didactic project. The motto highlights the importance of connections across social boundaries, pushing the novel, if only futilely, towards a utopian vision where "all men are brothers". 2 However, as Margaret herself is aware, for such a vision to be at all possible, or, in other words, for there to be ground for social relationships in the first place, a different kind of connecting work, which at this point is not yet about relationship building, needs to take place. Connecting here means connecting the dots: a method of reading or a hermeneutic of the social text. It consists in unpacking the invisible ties between disparate, seemingly unrelated details and individuals. In her furious reaction to Henry Wilcox's suggestion that her sister Helen Schlegel, who is now pregnant with Leonard Bast's illegitimate child, should leave Howards End, Margaret offers us an example of what such an act of unpacking looks like: hypocritical, cruel-oh, contemptible!-a man who insults his wife when she's alive and cants with her memory when she's dead. A man who ruins a woman for his pleasure, and casts her off to ruin other men. And gives bad financial advice, and then says he is not responsible. These men are you. You can't recognise them, because you cannot connect. <ref type="bibr">3</ref> Here, Margaret suggests that Henry's irresponsibility and cruelty, as well as, ultimately, his failure to connect with other people, stem from his inability to read the social text of the world he occupies. Blind to the parallel between Helen's fallenness and his own infidelity, he is incapable of seeing the hidden threads binding people from both within and without his immediate social circle.</p><p>The arguments I make in this paper are guided by Margaret's model of social hermeneutics. I believe that it is only through the adoption of the very method of reading that E. M. Forster urges his characters to adopt that readers are able to put their finger on the invisible undercurrents governing the world of Howards End. One such undercurrent, I maintain, is hay fever-an allergic disease afflicting many of the characters. While most readings of the novel to date, including Lionel Trilling's landmark study on Forster and Edward Said's few but illuminating references to Howards End in Culture and Imperialism, have either glossed over or completely ignored this significant detail 4 , I aim to show how the disease can serve as a productive site for the unpacking of a fundamental tension at the heart of the novel: that between connection and disconnection. Particularly, an allergic lens allows me to trace the origin of this tension not to a crisis of liberal humanist values, as many critics have done, 5 but to nature's challenged equilibrium in post-industrial revolution Britain. Linking the immunological theorisation of Clemens von Pirquet with Donna Haraway's and Roberto Esposito's understandings of the modern immunitary paradigm, I then attempt to establish allergy as a metaphor for understanding the changing relationship between mankind and the environment: In Howards End we find a representation, subtle and sometimes seemingly unconscious to the novel itself, of the different and powerful ways in which the disease can be mapped onto the condition of living in an ecologically disrupted world.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Mapping Allergy</head><p>Many possible connections exist between Howards End's publication in 1910 and the Austrian physician Clemens von Pirquet's coining of the term allergy four years earlier, through which a set of seemingly dissimilar clinical conditions, including asthma, eczema, urticaria, food sensitivities and hay fever, were brought under "a common cause and a shared pathology". <ref type="bibr">6</ref> The temporal proximity alone means that it is probable that Forster was exposed to some of the day's thinking, scientific or otherwise, about allergy. A closer look at the medical history of hay fever gives me still more reason to believe that Forster's representation of the disease in Howards End might be more 3 Ibid., 308.   4   It is worth pointing out, in addition to this critical oversight, a related omission: There are very few depictions of hay fever and allergic diseases in general in literature despite their high prevalence and the fact that many writers, Marcel Proust being one famous example, suffer from them. nuanced than one would suspect at first glance. When the British physician John Bostock published what is often considered "the first clear clinical description" of hay fever in 1819, the disease was still thought to be quite uncommon by medical scientists. 7 However, by the second half of the nineteenth century, hay fever's prevalence had increased significantly, resulting in, according to one contemporary scientist, great interest both "amongst the laity and amongst the members of the medical profession". <ref type="bibr">8</ref> This trend continued until the early twentieth century, when the disease was seen, paradoxically, as "a desirable condition in that it was not only evidence of a sufferer's accomplishment and education, but also of his or her fashionable status". 9 Given this historical context, when Forster writes about hay fever in Howards End, is he writing about a disease that afflicts some and spares others, all at random, one that is simply a fact of life, not to be distinguished from all other diseases? Put differently, are we to agree with Simon During that in Howards End, "[t]he big meadow is a big meadow, the hay crop is a hay crop, hay fever is hay fever, and the accident by which some people suffer from the allergy and others do not is just an accident: consequential but not meaningful"? 10 I contend that hay fever is represented both consequentially and meaningfully -in fact, consequentially and meaningfully enough for me to not only disagree with During but also give it a more careful examination than existing scholarship on the novel does, if it chooses to engage with the disease at all.</p><p>To begin with, despite During's claim about the distribution of hay fever among Howards End's characters, which he deems purely accidental, there seems to be, upon closer inspection, a pattern relatively consistent with contemporary understandings of the disease. In a lecture delivered in 1887, Sir Andrew Clark, a physician and professor of clinical medicine, observes that "once hay-fever appears it exhibits still further the closeness of its relationships to the nervous system by choosing the man before the woman, the educated before the ignorant, the gentle before the rude, the courtier before the clown". In a similar vein, the American physician William P. Dunbar writes in 1903 that "[t]he fact of exemption from hay fever of savages and practically of the laboring classes in civilized countries, as well as other considerations, suggests that we must look upon hay fever as one of the consequences of higher civilization". 11 Even though these racially and socially biased explanations for the distribution of hay fever fail to explain why Margaret and Helen, who after all are the novel's embodiments of civilisation and cultivatedness, do not suffer from the disease, they map neatly onto the cases of Tibby Schlegel, Henry Wilcox and his three children Charles, Paul and Evie, who all belong to the upper-middle class. On a surface level, Ruth's immunity from hay fever can be traced back to her rural background. Likewise, as a low-paid insurance clerk descending from "the shepherd or ploughboy whom civilization had sucked into the town", 12 Leonard does not have hay fever because, according to Clark and Dunbar, it is simply out of his social class. Thus, the mere presence of hay fever confers upon its victims a distinction which implies deeper socio-economic differences, across which the characters, such as Henry and Leonard, find it difficult to connect with each other. Similarly, Charles's hay fever constitutes something akin to a bodily manifestation of the class barrier between him and the labourers working in the field at Howards End. Miss Avery, the caretaker, recalls: "I've seen Charlie Wilcox go out to my lads in hay time-oh, they ought to do this-they mustn't do that-he'd learn them to be lads. And just then the tickling took him. He has it from his father, with other things. There's not one Wilcox that can stand up against a field in June-I laughed fit to burst while he was courting Ruth". <ref type="bibr">13</ref> Here, the allergic reaction, interrupting Charles's condescending lecture, signifies a breakdown in communication between members of different social classes. The two sides are, in a way, "allergic" to each other, with Charles of course bearing the ridicule.</p><p>To further understand how allergy figures in Howards End's theme of disconnection, let us now consider the novel's ending, which has been read, by During, as a vision of social togetherness built upon mystical democratic values, or by Richard Rankin Russell, as the re-forging of the spiritual bond between characters and things. <ref type="bibr">14</ref> With Margaret inheriting Howards End and entering into an associational living arrangement with Henry, whom she has recently married, her sister Helen, and Helen's illegitimate child fathered by the now dead Leonard, Forster's dictum of "Only connect!" 15 seems completely realised at the story's conclusion. Yet even here, the fulfilment of the novel's ideal of social connection is still disturbed-a disturbance that appears in the image of the "pitiably tired" 16 Henry lying in the gloom of the house to avoid exposure to pollen. His hay fever, however, is only symptomatic of a force far deeper, whose workings seem to elude both the characters themselves and many of the novel's critics. What is this force?</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Allergy and Environmental Changes</head><p>Even though neither touches on hay fever or the pattern of its distribution among the characters, both Ted Howell and Andrew Thacker find in Howards End signs of the Anthropocene 17 -an epoch where mankind constitutes a significant geological force impacting on the Earth in a globally synchronous manner. In one of the most influential evaluations of the historical boundary of the Anthropocene, Jan Zalasiewicz and his colleagues suggest the epoch to have started in the middle of the twentieth century, 18 which means Forster was necessarily writing Howards End in the early dawn on a geological sea change. In agreement with Howell's and Thacker's readings, I also see in the novel elusive warnings about a disturbed ecological system. However, I trace this disturbance, which to my mind is parallel to the disturbance brought on the seemingly harmonious life that the novel's main characters arrive at towards the end, not through dust and rubber, as Thacker does, or turn-of-the-century environmental philosophy, in the case of Howell, but through the literal and metaphorical allergy that several characters suffer from.</p><p>Allergy, I believe, crystalises the force of anthropogenic climate changes, functioning as a channel through which their influences infiltrate into the novel.</p><p>The fact that Henry suffers from hay fever means that he can never fully be part of the communal life at Howards End, not at the beginning of the novel, when Ruth was still alive, nor at the end, when he and Margaret get married. Thus, despite Forster's urge for his characters to "Only connect!",<ref type="foot" target="#foot_0">19</ref> what is evident here is a rift even between those whose connections seem most solid at first sight. To begin with, this rift manifests itself spatially, just as allergy infringes upon the freedom of its sufferers in spatial terms. Due to Henry's hay fever, he often has to stay in the house, which every year needs to be kept "a little dark and airless" until the hay has been carted away in order to prevent the allergic occupants' exposure to pollen. <ref type="bibr">20</ref> Our first insight into Henry's condition is offered, with much humour, through Helen's letter to Margaret during her first visit to Howards End: I looked out earlier, and Mrs. Wilcox was already in the garden. She evidently loves it. … She was watching the large red poppies come out. Then she walked off the lawn to the meadow, whose corner to the right I can just see. Trail, trail, went her long dress over the sopping grass, and she came back with her hands full of the hay that was cut yesterday-I suppose for rabbits or something, as she kept on smelling it. The air here is delicious. Later on I heard the noise of croquet balls, and looked out again, and it was Charles Wilcox practising; they are keen on all games. Presently he started sneezing and had to stop. Then I hear more clicketing, and it is Mr. Wilcox practising, and then, 'a-tissue, atissue': he has to stop too. Then Evie comes out, and does some calisthenic exercises on a machine that is tacked on to a green-gage-tree-they put everything to use-and then she says 'a-tissue,' and in she goes. And finally Mrs. Wilcox reappears, trail, trail, still smelling hay and looking at the flowers. <ref type="bibr">21</ref> What is also significant in the quote, beyond its dramatising effect of the Wilcoxes' allergic reactions, is the fact that Ruth and the rest of the family seem to occupy different spatial and temporal planes. Indeed, the passage gives a strong impression of the spatial and temporal mismatch between the family members. Forster layers his descriptions of Ruth and the allergic Wilcoxes in a way that makes us feel like their in-and-out movements never coincide with each other. Furthermore, what we see in each of these layers is also different: Ruth moves with grace among the vegetal beings of the garden whereas the rest of the family does not seem to belong there. The former is seen "with her hands full of the hay that was cut yesterday", "still smelling hay", and, later on, as "a wisp of hay" herself,<ref type="foot" target="#foot_3">22</ref> whereas hay is believed to be among the causes of the latter's ailment.</p><p>Hay fever therefore represents a rift that serves to separate Ruth, spatially as well as medically, from the rest of the family. Behind this rift, and through the pragmatic quality that Helen observes in the Wilcoxes, we can see another, more fundamental, difference between the two groups. Employing romantic and highly idealised language and images, the novel portrays Ruth as being completely at one with nature, whose company she thoroughly enjoys. There seems to be a symbiosis, manifesting itself in the way her dress trails "over the sopping grass"<ref type="foot" target="#foot_4">23</ref> and her frequent acts of smelling the hay-a process through which the external environment is physically internalised. She is sensitive to the spiritual dimension of the human and non-human communities at Howards End, and it is probably this sensitivity that allows her to act like a bridge between the two realms. In fact, there is a sense that through her deep connection to nature, she manages to bring some of its harmony into the chaotic existence of the other human characters. When Juley Munt-Margaret and Helen's aunt, and Charles Wilcox-Henry's oldest son, arrive at Howards End, angry and "calling each other names", Ruth "stepped in from the garden and made everything less terrible". <ref type="bibr">24</ref> As opposed to Mrs. Wilcox's spiritual, harmonious relationship with her human and non-human surroundings, the other Wilcoxes are represented as utilitarian and materialistic in the way they relate to not only other people but also the natural world. Suggestive of these characteristics is Evie's calisthenic exercise machine. Stacked onto a tree, the machine brings together nature and culture. However, the symbiosis here is violent and exploitative, illustrating the pragmatic character Helen observes in the Wilcoxes: "[T]hey put everything into use [at Howards End]". <ref type="bibr">25</ref> The tree is valued for its usefulness in serving as a platform onto which an exercise machine can be grafted, just like the garden as a whole seems to figure only as a playground for the allergic Wilcoxes.</p><p>The ideological difference between Ruth and the other Wilcoxes that supposedly explains their immunity from hay fever, or lack thereof, also cuts across another duo: Leonard and Henry. As with Ruth, the fact that Leonard is immune from the disease cannot be traced back to his rural background alone. If it is already unexpectable to the reader that this poor, unfairly treated and uncompassionately described office clerk turns out to be an ardent consumer of back-to-the-land literature, such as the works of George Meredith (1828-1909) and E. V. Lucas (1868-1938), Leonard also dares to test out what he reads by embarking on off-the-beaten-path adventures. His nocturnal country walk, though disturbed by hunger and exhaustion, and ending with a grey dawn that reveals "nothing but monotones", portrays him as "a born adventurer" who in Helen's estimation is "better" than the authors he reads. <ref type="bibr">26</ref> As far as the Schlegel sisters are concerned, Leonard is someone who has attained ecological enlightenment. Into his life "the good" of the stars, the trees, the sunrise and the wind, which is necessary to "relieve life's daily grey, and to show that it is grey", has entered, whereas into their lives it has not. <ref type="bibr">27</ref> And though Margaret acknowledges that both Leonard and Henry are of an adventurous disposition, the types of adventure that the two male characters engage in cannot be more different. Speaking to Henry about Leonard, she maintains that "he cares for physical adventure, just as you do. Yes, you go motoring and shooting; he would like to go camping out". <ref type="bibr">28</ref> While it seems difficult to understand how Margaret can lump together a back-to-the-land advocate and an industrial imperialist, 29 her gesture here seems in keeping with her role as a mediator between nature and culture, and perhaps also telling of the fact that she is still blind to the ecological truth that has revealed itself to Leonard.</p><p>One can argue that much of the peril suffered by the Earth can be attributed ideologically to an aggressive, instrumentalist view of the natural world. Thus, in Henry's shooting games or the allergic Wilcoxes' relationship to the garden at Howards End we can already vaguely see the spectre of an environmental crisis. In fact, the novel has often been read as a warning. Despite Howards End's seemingly perfect ending, many studies see just beyond its horizon an approaching disaster, or even an impending apocalypse. <ref type="bibr">30</ref> For Howell in particular, the imminent calamity is ecological, growing from the seeds, found throughout the novel, "of many dramatic forms of climate change that subsequently dominated the twentieth century". <ref type="bibr">31</ref> His reading is further supported by the novel's intertextual connections to the more explicitly prophetic short story "The Machine Stops", which Forster first published during the writing of Howards End. While I agree with Howell's interpretation, I believe that the novel's predictive description of the plight of the natural world should also be read with an eye towards the function of allergy as an ecological warning.</p><p>In the early twentieth century, the mechanism behind the body's allergic reactions to certain substances was still poorly understood. Different explanations were given, reflecting "deeper uncertainties about the existence and properties of antibodies and about the precise nature of antigen-antibody reactions". <ref type="bibr">32</ref> Even the terminology itself was not uniformly agreed upon, with allergy, coined by von Pirquet, and anaphylaxis, coined by the French physicians and physiologists Charles Richet and Paul Portier, competing for popularity. <ref type="bibr">33</ref> A similar confusion can be seen in relation to hay fever, whose root cause was variously suspected to be the patient's nervous disposition, diet or exposure to substances such as dust or animal dander. One particularly influential, albeit initially controversial, theory was the British physician Charles Blackley's, which holds pollen to be the causative agent of hay fever. His conclusion was also supported by North American researchers. <ref type="bibr">34</ref> The framing of the disease in environmental terms means that early remedies were often geared towards intervening in the patient's living conditions. Gregg Mitman observes how in the US, efforts to combat hay fever led to governmentally funded de-weeding initiatives, the growth in the 1930s of the air-conditioning industry, and the establishment of numerous hay fever resorts in mountainous regions. <ref type="bibr">35</ref> Likewise, Mark Jackson points out that in the British context, travels to places near the sea were advised, leading to the booming of services catering to hay fever escapees in the country's coastal areas. 36 However, it is evident that in these early calculations regarding the causes and possible treatments of allergy, the environment was understood in a narrow, humancentric way: It was something to be adapted or reinvented according to human needs. If it fails to respond to man-made interventions, then a wealthy hay fever sufferer could 30 See Howell, "Imperialist Inherits the Earth", 548 for an account of the different readings of Howards End that pay attention to its implicit apocalypticism. <ref type="bibr">31</ref> Howell, "Imperialist Inherits the Earth", 547. <ref type="bibr">32</ref> Jackson, Allergy, 47. <ref type="bibr">33</ref> Igea, "History of the Idea of Allergy". <ref type="bibr">34</ref> Jackson, Allergy. <ref type="bibr">35</ref> Mitman, Breathing Space. <ref type="bibr">36</ref> Jackson, Allergy.</p><p>simply travel to a resort in the mountains or by the sea to escape their ailment. It would take a few more decades from the coining of the term allergy for the early environmental understanding of the disease to take on an explicitly environmentalist dimension. Recent studies suggest that "[c]limate change has many impacts on environmental allergens and allergic diseases such as asthma and hay fever", which constitute "one of the most important impacts of climate change on human health". <ref type="bibr">37</ref> At the same time, contemporary discussions around allergy have often focused on issues of environmental injustices and disparities. They highlight how, as a result of "systemic racism that promotes segregation of neighborhoods, disinvestment in predominantly racial/ethnic minority neighborhoods, and discriminatory housing, employment and lending practices", "[c]ommunities of color and low-income populations live, work and play in environments with disproportionate exposure to hazards associated with allergic disease". <ref type="bibr">38</ref> Within the environmental movement in the late twentieth and early twenty first century in particular, allergy has become a witness to "the expansion of modern ecological and environmental sensitivity", with the bodies of those who suffer from allergic diseases and environmental illnesses, especially multiple chemical sensitivity (MCS), serving as "portents of impending ecological disaster". <ref type="bibr">39</ref> In a similar way to how a vision of broader ecological threats could be seen in the allergic body, the changes happening to the British landscapes and society depicted in Howards End are indicative of larger-scale environmental transformations taking place elsewhere at the time. Besides this strategic shifting of scale from the local to the global that happens in both the novel and the discourses around the disease, Howards End and allergy also share a prescience about the catastrophic environmental future which we are now living in. What I want to demonstrate next is how the function of allergy as a warning constitutes part of the prophetic agenda of Forster's novel. Specifically, we find in Howards End an early articulation of the ecological sensitivity of the disease that would be verbalised more explicitly in the environmentalist discourse from the second half of the twentieth century onwards. To make these arguments, a different set of dots need to be connected, namely those between turn-of-the-century Britain and the global, imperial arena where the Wilcoxes' presence comes with more real and much bigger environmental consequences.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Allergy and Industrial Imperialism</head><p>One of the first signs of modernity that Forster introduces to the reader is the motorcar, depicted in quite a hyperbolic fashion in Aunt Juley's trip to Howards End at the beginning of the novel. The car's speed accelerates the dramatic tension that has been building up due to Helen's short-lived infatuation with Paul. Furthermore, Aunt Juley's awkwardness with being a passenger is perhaps emblematic of the experience of many of Forster's contemporaries with the new technologies that were springing up and transforming life in early twentieth-century Britain. However, the car for the author is not just a narrative device or symbol of social change. It is, first and foremost, a real car-an entity whose description is given in mechanical terms and whose workings leave visible traces in its surroundings. Forster writes:</p><p>They drew up opposite a draper's. Without replying, [Charles] turned round in his seat, and contemplated the cloud of dust that they had raised in their passage through the village. It was settling again, but not all into the road from which he had taken it. Some of it had percolated through the open windows, some had whitened the roses and gooseberries of the wayside gardens, while a certain proportion had entered the lungs of the villagers. "I wonder when they'll learn wisdom and tar the roads," was his comment. Then a man ran out of the draper's with a roll of oilcloth, and off they went again. <ref type="bibr">40</ref> Again, the cloud of dust can be read metaphorically to suggest the miscommunication that is going on between the Schlegels and the Wilcoxes at this point in the story. Likewise, the percolation of the dust through the car windows seems telling of the anticipated, but temporarily delayed, mixing between the two families. However, it is a materialist reading that Forster here appears to be nudging the reader towards. Dust in the quoted passage is real dust, and its travel into the lungs of the villagers living on the sides of the road means the contamination of bodies-real, living bodies-by external pollutants. Seeing Charles's car for an actual car also means being alert to the connection between the tires of the car and the Wilcoxes' rubber business in West Africa. On the one hand, one of the important uses of rubber imports in Britain in the first half of the twentieth century was for the production of pneumatic tires to be used on cars, which accounted for 38% and 50% of the total value of national rubber manufacturing in <ref type="bibr">1912 and 1947, respectively. 41</ref> The Wilcoxes are apparently some of the earliest owners of cars in Britain, with petrol-driven automobiles having become available only less than two decades before the novel's publication. On the other hand, as a lucrative business, the rubber trade, booming in the first decade of the twentieth century, 42 was the financial foundation for the affluent lifestyles enjoyed by imperialists like the Wilcoxes. Thus, in Charles's car, the rubber that its tires are made of, and the dust inhaled by the villagers that are not at all Charles's objects of concern, Thacker sees a spatially and temporally expansive network that connects "the modern metropolis, the new Edwardian suburbs, the pastoral landscape of the English countryside, and the imperial domains upon which so much of the wealth of the European empires was based". <ref type="bibr">43</ref> Here, I would like to expand this network still further. Parallel to the occluded rubber plantations that are at the background of the Wilcoxes' economic wealth are the field surrounding Howards End. Likewise, the dust that insidiously threatens the health of the villagers functions in a somewhat similar way to the pollen inhaled by the allergic Wilcoxes.</p><p>The first description of hay fever that the reader is given does not concern any of the Wilcoxes but Tibby-Margaret and Helen's brother. The two sisters are supposed to visit Howards End together, but since Tibby is sick and Margaret has to stay home to take care of him, Helen is alone on the trip. About Tibby's condition, Forster writes: "The hay fever had worried him a good deal all night. His head ached, his eyes were wet, his mucous membrane, he informed her, in a most unsatisfactory condition". <ref type="bibr">44</ref> The third <ref type="bibr">40</ref> Forster, Howards End, 18-19. <ref type="bibr">41</ref> Woodruff, "Growth of the Rubber Industry", 385. <ref type="bibr">42</ref> Koike, "Managing Agency Capitalism". <ref type="bibr">43</ref> Thacker, "Of Dust and Rubber", 2. <ref type="bibr">44 Forster,</ref><ref type="bibr">Howards End,</ref><ref type="bibr">11.</ref> symptom appears quite unusual. On a semantic level, what exactly does Tibby's "mucous membrane" refer to? And what does "in a most unsatisfactory condition" mean? In particular, the word membrane shifts the perspective of the observer from the level of external organs like the head and the eyes to the microlevel of the patient's cellular existence, rendering the gaze curiously medical. Forster's medical gaze also appears through the way he uses, almost as a pun, the word tissue. Both the scientific and everyday meanings of the word, referring respectively to the "substance, structure, or texture of which an animal or plant body, or any part or organ of it, is composed" and a shorthand for tissue paper, were still quite recent by the time of Howards End's writing. <ref type="bibr">45</ref> While elsewhere in the novel Forster uses the word in its biological sense, in the previously quoted passage where we see Henry, Charles and then Evie shout out for "a-tissue" at the onset of their allergic symptoms, the two meanings seem to playfully come together. Parsing through these seemingly unrelated details, we come to a fact of the human body that, according to Laura Otis, Forster's contemporaries were growing uneasy with: its permeability. <ref type="bibr">46</ref> On the one hand, the body's permeability exposes the villagers through the act of breathing to the health damage caused by the fumes and dust that fossil fuel-run vehicles like the Wilcoxes' cars produce. As Thacker has pointed out, the pollution resulting from the increasing use of motorcars and its effects on human health, the environment and agricultural production were causes for growing concern for the public in Forster's times. On the other hand, it is also through the process of breathing that the Wilcoxes become exposed to the allergens causing their hay fever. In the second half of the nineteenth century, the English dairy industry experienced exponential growth and "dairying became the most valuable sector and liquid milk production the most important single enterprise". <ref type="bibr">47</ref> To feed the expanding dairy herds, "Italian Rye grass (Lolium perene) was introduced which pollinated more heavily than any of the traditional grasses". <ref type="bibr">48</ref> According to Thomas Platts-Mills, the resultant sudden increase in the amount of airborne pollen might well have been one of the important factors explaining the explosion of hay fever in Britain in the late nineteenth century. Pointing to recent changes in agriculture and transportation, both hay fever and air pollution caused by motorcars were sign-of-the-times problems witnessed firsthand by Forster. If we push the parallel further, perhaps there is ground to connect the field at Howards End with the rubber plantations owned by the Wilcoxes in West Africa, which supply both the raw material that the tires of their cars are made of and the wealth on which their lifestyles depend. <ref type="bibr">49</ref> In other words, even though the novel as a whole seems to be quite reticent in its engagement with the historical reality of the British empire, 50 as Said has pointed out, 51 reading Forster's description of life in the metropole contrapuntally we can get a glimpse of what 45 Oxford English Dictionary, s.v. "tissue", https://doi.org/10.1093/OED/5896731814 (accessed June 15, 2025). <ref type="bibr">46</ref> Otis, Membranes. <ref type="bibr">47</ref> Taylor, "Growth and Structural Change", 47. 48 Platts-Mills, "Allergy Epidemics", 2-3. <ref type="bibr">49</ref> It is perhaps not without significance that upon entering the house at Howards End for the first time, Margaret is reminded "of the map of Africa [that hangs in Herny's office]; of empires". Forster, Howards End, 201. <ref type="bibr">50</ref> While the novel makes it explicit that the Wilcoxes got rich thanks to the rubber trade, details about their business are never mentioned. For instance, Margaret observes that Henry has only "implied his business rather than described it, and the formlessness and vagueness that one associates with Africa itself [have] hitherto brooded over the main sources of his wealth". Forster, Howards End, 195. <ref type="bibr">51 Said,</ref><ref type="bibr">Culture and Imperialism,</ref><ref type="bibr">93.</ref> was going on in the invisible imperial space. The field can thus be taken to stand in for the plantation, where, similar to how the cultivation of Italian ryegrass went up at home in response to a growing dairy sector, rubber trees were being planted at an industrial scale to meet the demands of the British automobile manufacturing industry.</p><p>Hay fever seems to be the Wilcoxes' chief source of vulnerability, both social and physical. Miss Avery's observation that "[t]here's not one Wilcox that can stand up against a field in June" 52 frames the relationship between them and the field as necessarily antagonistic. Likewise, at the beginning of the novel, Helen, while acknowledging in her letter to Margaret the superiority of the Wilcoxes' pragmatic outlook on life, finds in their allergy a good opportunity for counterattack: "On the other hand, I laugh at them for catching hay fever". <ref type="bibr">53</ref> Writing in Membranes: Metaphors of Invasion in Nineteenth-Century Literature, Science, and Politics, Otis maintains that "[w]hile they were happy to expand outwards, Westerners became horrified when the cultures, peoples, and diseases they had engulfed began diffusing, through their now permeable membranes, back towards their imperial cell bodies". <ref type="bibr">54</ref> Looking at the field and the plantation together allows us to see some of the anxiety observed by Otis. However, I believe the Wilcoxes' vulnerability and subconscious anxiety are most fruitfully read not only in imperial but also ecological terms. Thus, their hay fever can be interpreted as revenge from a nature that the industrial imperialism they stand for is destroying in both Britain and the colonies. Put simply, if the villagers living near the motorway inhale dust, the Wilcoxes breathe in pollen. Their allergic symptoms are a dramatisation of what Rob Nixon terms the "slow violence" 55 done to the bodies of the people that Charles, sitting in his motorcar, leaves behind. Likewise, as ecological revenge, hay fever alerts us to the environmental consequences of the Wilcoxes' business enterprise, among which is the massive deforestation that happened as trees were cleared to make space for rubber plantations owned by European colonists.</p><p>Thus, as a vulnerability metaphorically resulting from the Wilcoxes' ecological exploitation and destruction, allergy hints at a disjointedness in the relationship between mankind and nature. As also argued previously, the disease works spatially and ideologically to disconnect the characters in the novel. As such, it represents a friction that brings together the two major components of my argument concerning Howards End: the breaking of social connections and human-induced environmental changes in the early twentieth century. I suggest that allergy lends itself to these diverse metaphorical meanings because inherent in its philosophical and medical ontology is a friction, to be explored below, that resists connections between the self and its social/ecological other.</p><p>of the body to a substance resulted in the production of antibodies that induced a change in subject-specific reactivity to the substance" itself. <ref type="bibr">57</ref> What kickstarted von Pirquet's early experimentation and theorisation of allergy was his suspicion that immunity works in a way that might be more complex than hitherto conceived. By the early twentieth century, the immune system was understood by immunologists and microbiologists such as Louis Pasteur, Paul Ehrlich, Elie Metchnikoff, Jules Bordet and Emil von Behring to be a mechanism of absolute protection, constituting a line of defence thanks to which the body can guard itself against the threat of foreign intrusion. Through his clinical practice as a paediatrician in Vienna, however, von Pirquet suspected that the immune system might also be involved in the development of human infectious diseases. <ref type="bibr">58</ref> His suggestion that both protection and sickness are the result of the same mechanism did not land well on contemporary scientists, and von Pirquet himself admitted that "the conception that the antibodies, which should protect against disease, are also responsible for the disease, sounds at first absurd". 59 However, his theorisation was later proven to be true: Allergy and immunity are two sides of the same coin. The former is essentially the working of an overprotective guarding system which prompts the host, in reaction to a perceived threat that is in truth not a threat at all, to initiate a chain of biological changes intended to defend the body but ending up putting it in danger. The new understandings of the immune system brought about by von Pirquet were fundamental to the identity of the discipline of immunology. As Jackson has observed, his work "stimulated renewed interest in the role of what were regarded as the body's defence mechanisms in dictating the symptoms and course of human diseases", helping to "sustain both conceptual and practical links between immunology and medicine, or between immunology and pathology". <ref type="bibr">60</ref> It is important to note here that the concept of immunity itself was borrowed from the political-juridical sphere, where it denotes "a temporary or definitive exemption on the part of subject with regard to concrete obligations or responsibilities that under normal circumstances would bind one to others". It was not until the late nineteenth century that immunity got taken up in the biomedical science, where the term refers to "a condition of natural or induced refractoriness on the part of a living organism when faced with a given disease". <ref type="bibr">61</ref> Tracking the etymological connection between immunity and community, the Italian philosopher Roberto Esposito points out how "the most incisive meaning of immunitias is inscribed in the reverse logic of communitias: immune is the 'nonbeing' or the 'not-having' anything in common". <ref type="bibr">62</ref> At the background of an immunological reaction, then, are the severance of connections and the impossibility of community. In a similar vein, Donna Haraway maintains that "the immune system is a map drawn to guide recognition and misrecognition of self and other in the dialectics of Western biopolitics. That is, the immune system is a plan for meaningful action to construct and maintain the boundaries for what may count as self and other in the crucial realms of the normal and the pathological". <ref type="bibr">63</ref> If allergy is <ref type="bibr">57</ref> Igea, "History of the Idea of Allergy", 976. <ref type="bibr">58</ref> Igea, "History of the Idea of Allergy". <ref type="bibr">59</ref> Quoted in Jackson, Allergy, 37. <ref type="bibr">60</ref> Jackson, Allergy, 43. <ref type="bibr">61 Esposito,</ref><ref type="bibr">Biopolitics and Philosophy,</ref><ref type="bibr">45. 62</ref> Ibid., 51. <ref type="bibr">63 Haraway,</ref><ref type="bibr">Simians,</ref><ref type="bibr">Cyborgs,</ref><ref type="bibr">and Women,</ref><ref type="bibr">204.</ref> immunity gone awry, then present in the term's semantic make-up is a fundamental friction: that between the self and the other. To put it another way, the disease is the reaction of the self trying to preserve its ontological integrity against the threat of a foreign other. In ecological terms, then, the repeated image of Ruth smelling hay signifies a harmonious merging of the two whereas the hay-fever-suffering Wilcoxes' allergic reactions allude to a violent refusal to connect.</p><p>As such, allergy offers itself as a potent metaphor for the changing relationship between humanity and nature, a metaphor that becomes even more powerful when we consider how the dramatic rise of allergy as a medical condition in the late nineteenth century coincided with the emergence and intensification of forms of ecological changes that would drastically alter the Earth's climate. In Howards End we thus find a subtle, perhaps even unconscious, articulation of the multifaceted ways in which the term can help us make sense of the fundamental disjunctions that pushed the global ecological system to disequilibrium. As an environmental illness, allergy and its symptoms point to both the vulnerability of the human body in a changing world and the damage suffered by nature at the hands of mankind. However, it is in allergy's function as a metaphor that the term's ecological nuances can be more fully appreciated. If Esposito and Harraway find in the immunological response that constitutes allergy a negation of community, then at the heart of our destruction of nature is a similar failure: the failure of mankind to live in harmonious community with the non-human world. Looked at in this way, climate change is essentially a massive, collective and existential allergy.</p><p>The breaking of community that characterises an allergic reaction manifests itself physically and dramatically in sneezing, a classic symptom of allergy. As a protective reflex that seeks to expel intruders, sneezing works to preserve the integrity of the host in a manner similar to immunity. In Howards End, we hear the allergic characters, including Henry, Charles, Evie and Tibby, sneeze all the time. In Helen's previously quoted description of life at Howards End, the Wilcoxes' sneezing, signalling the onset of their allergic reactions, forces them to stop their sports activities in the garden and move indoors. Together with Henry's physical confinement to the indoors space of the house during the hay cutting season, the sneezing suggests something curious. It appears that the friction between humanity and nature that lies at the core of allergy functions both ways: If mankind sees its connection with nature breaking, then nature also seems to find community with mankind impossible. Thus, at the same time that the sneezing is the allergic Wilcoxes' reflex to expel an external presence from their body, nature is perhaps also trying to expel them from its space. However, given that mankind is a real threat to the Earth whereas the pollen is only a perceived danger to the immune system, our role in the equation is more of an allergen and less of an allergic host.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Conclusion</head><p>According to George Dangerfield, in the early twentieth century, liberalism in Britain was going through a "strange death". <ref type="bibr">64</ref> The metaphor is apt for my reading of Howards End since in it we do find two deaths that are just as strange: those of Ruth and Leonard. The passing of the two characters signals something like an attack on the novel's liberal ideals. <ref type="bibr">64</ref> Dangerfield, Strange Death of Liberal England.</p><p>Gone with Ruth is a vision, beautifully realised in her relationship with Margaret, of deep human connections built upon platonic, spiritual values; likewise, crushed under the weight of the bookcase in the hall at Howards End is not only Leonard but also the possibility of inter-class social relations. However, as much as the deaths symbolically represent the perils of twentieth-century British liberalism, they also signal something else: In the absence of Ruth and Leonard-the two characters who embody most strongly Howards End's ecological values, readers are left with no one to turn to for an authentic connection with nature. Practically speaking, by tipping the statistical balance against the non-allergic characters, their departure from the narrative hints at a world becoming increasingly allergic in both the medical and metaphorical sense of the adjective. By the end of the novel, Margaret, in her seemingly happy but "perilously maintained" 65 marriage with Henry, must have realised that her dictum of "Only connect!" 66 has failed. Connecting here no longer means connections since most of the novel's meaningful connections are gone. Instead, it is reduced to a social hermeneutic through which she is confronted with the very loss of those connections. Margaret's dilemma appears similar to the dilemma of those living in an ecologically disturbed world: Authentic nature is increasingly lost and what we are left with is only its representation, facing which we are reminded of the very loss of nature itself.</p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head>5Crews,</head><label></label><figDesc>Perils of Humanism; Born, "Private Garden, Public Swamps"; Levenson, Modernism and Fate of Individuality. 6 Jackson, Allergy, 9.</figDesc></figure>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="19" xml:id="foot_0"><p>Forster, Howards End, 186.   </p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="20" xml:id="foot_1"><p>Ibid., 340.   </p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="21" xml:id="foot_2"><p>Ibid., 4.   </p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="22" xml:id="foot_3"><p>Ibid., 4, 74.   </p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="23" xml:id="foot_4"><p>Ibid., 4.   </p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="24" xml:id="foot_5"><p>Ibid., 27.   </p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="25" xml:id="foot_6"><p>Ibid., 4.   </p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="26" xml:id="foot_7"><p>Ibid., 121, 119, 122.   </p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="27" xml:id="foot_8"><p>Ibid., 143, 145.   </p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="28" xml:id="foot_9"><p>Ibid., 145.   </p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="29" xml:id="foot_10"><p>Leonard's rhetorical question when narrating his country walk to Helen and Margaret, "what's the good -I mean, the good of living in a room for ever?", puts him in further contrast with Henry, whose freedom of movement is limited by his allergic disease. Ibid., 120.</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="37" xml:id="foot_11"><p>Beggs, "Environmental Allergens", 176.   </p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="38" xml:id="foot_12"><p>Burkbank et al., "Environmental Justice and Allergic Disease", 1.</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="39" xml:id="foot_13"><p>Jackson, Allergy, 125, 207.   </p></note>
+		</body>
+		<back>
+
+			<div type="acknowledgement">
+<div><head>Acknowledgements</head><p>The author would like to thank <rs type="person">Professor Russ Castronovo</rs> from the <rs type="affiliation">University of Wisconsin-Madison's English Department</rs> for his feedback on earlier versions of this manuscript and for encouraging its submission for publication.</p></div>
+			</div>			<div type="annex">
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Allergy as a Metaphor</head><p>Von Pirquet's 1906 coinage combines the Greek root allos, meaning "other or different" with ergia, meaning "energy or action". Through the term allergy, the physician wanted to get at the idea of "altered biological reactivity", 56 or, in other words, how "the exposure</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Disclosure statement</head><p>No potential conflict of interest was reported by the author.</p></div>			</div>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<analytic>
+		<author>
+			<persName><forename type="first">Paul</forename><surname>Beggs</surname></persName>
+		</author>
+		<author>
+			<persName><surname>John</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Environmental Allergens: From Asthma to Hay Fever and Beyond</title>
+		<imprint>
+			<date type="published" when="2015">2015</date>
+			<biblScope unit="volume">1</biblScope>
+			<biblScope unit="page" from="176" to="184" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<title level="a" type="main">Private Gardens, Public Swamps: &apos;Howards End&apos; and the Revaluation of Liberal Guilt</title>
+		<author>
+			<persName><forename type="first">Daniel</forename><surname>Born</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">NOVEL: A Forum on Fiction</title>
+		<imprint>
+			<biblScope unit="volume">25</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="141" to="159" />
+			<date type="published" when="1992">1992</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title level="a" type="main">Environmental Justice and Allergic Disease: A Work Group Report of the AAAAI Environmental Exposure and Respiratory Health Committee and the Diversity, Equity and Inclusion Committee</title>
+		<author>
+			<persName><forename type="first">Allison</forename><forename type="middle">J</forename><surname>Burbank</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Allergy and Clinical Immunology</title>
+		<imprint>
+			<biblScope unit="volume">151</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="656" to="670" />
+			<date type="published" when="2023">2023</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<monogr>
+		<title level="m" type="main">The Perils of Humanism</title>
+		<author>
+			<persName><forename type="first">Frederick</forename><surname>Crews</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="middle">E M</forename><surname>Campbell</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Forster</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1962">1962</date>
+			<publisher>Princeton University Press</publisher>
+			<pubPlace>Princeton</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<monogr>
+		<title level="m" type="main">The Strange Death of Liberal England</title>
+		<author>
+			<persName><forename type="first">George</forename><surname>Dangerfield</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1997">1997</date>
+			<publisher>Stanford University Press</publisher>
+			<pubPlace>Redwood City</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<monogr>
+		<title level="m" type="main">Against Democracy: Literary Experience in the Era of Emancipations</title>
+		<author>
+			<persName><forename type="first">Simon</forename><surname>During</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2012">2012</date>
+			<publisher>Fordham University Press</publisher>
+			<pubPlace>New York City</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<monogr>
+		<title level="m" type="main">Bíos: Biopolitics and Philosophy</title>
+		<author>
+			<persName><forename type="first">Roberto</forename><surname>Esposito</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2008">2008</date>
+			<publisher>University of Minnesota Press</publisher>
+			<pubPlace>Minneapolis</pubPlace>
+		</imprint>
+	</monogr>
+	<note>Translated by Timothy Campbell</note>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<monogr>
+		<title level="m" type="main">Perils of Humanism</title>
+		<author>
+			<persName><surname>Crews</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="volume">106</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">Howards</forename><surname>Forster</surname></persName>
+		</author>
+		<author>
+			<persName><surname>End</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="page">186</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title level="a" type="main">The Machine Stops</title>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">M</forename><surname>Forster</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">The Machine Stops and Other Stories</title>
+		<editor>
+			<persName><forename type="first">Rod</forename><surname>Mengham</surname></persName>
+		</editor>
+		<meeting><address><addrLine>London</addrLine></address></meeting>
+		<imprint>
+			<publisher>André Deutsch</publisher>
+			<date type="published" when="1997">1997</date>
+			<biblScope unit="page" from="87" to="118" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<monogr>
+		<title level="m">Howards End</title>
+		<meeting><address><addrLine>New York City</addrLine></address></meeting>
+		<imprint>
+			<publisher>Vintage Books</publisher>
+			<date type="published" when="1921">1921</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<monogr>
+		<title level="m" type="main">The Reinvention of Nature</title>
+		<author>
+			<persName><forename type="first">Donna</forename><surname>Haraway</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Simians</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Women</forename><surname>Cyborgs</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1990">1990</date>
+			<publisher>Routledge</publisher>
+			<pubPlace>Oxfordshire</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<title level="a" type="main">An Imperialist Inherits the Earth: Howards End in the Anthropocene</title>
+		<author>
+			<persName><forename type="first">Ted</forename><surname>Howell</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Modern Language Quarterly</title>
+		<imprint>
+			<biblScope unit="volume">77</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="547" to="572" />
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<title level="a" type="main">The History of the Idea of Allery</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">M</forename><surname>Igea</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Allergy: European Journal of Allergy and Clinical Immunology</title>
+		<imprint>
+			<biblScope unit="volume">68</biblScope>
+			<biblScope unit="issue">8</biblScope>
+			<biblScope unit="page" from="966" to="973" />
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<monogr>
+		<title level="m" type="main">Allergy: The History of a Modern Malady</title>
+		<author>
+			<persName><forename type="first">Mark</forename><surname>Jackson</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2006">2006</date>
+			<publisher>Reaktion Books</publisher>
+			<pubPlace>London</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title level="a" type="main">Managing Agency Capitalism and Malayan Rubber</title>
+		<author>
+			<persName><forename type="first">Kenji</forename><surname>Koike</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of the Malaysian Branch of the Royal Asiatic Society</title>
+		<imprint>
+			<biblScope unit="volume">90</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="73" to="100" />
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<monogr>
+		<author>
+			<persName><forename type="first">Michael</forename><surname>Levenson</surname></persName>
+		</author>
+		<title level="m">Modernism and the Fate of Individuality: Character and Novelistic Form from Conrad to Woolf</title>
+		<meeting><address><addrLine>Cambridge</addrLine></address></meeting>
+		<imprint>
+			<publisher>Cambridge University Press</publisher>
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<monogr>
+		<title level="m" type="main">Breathing Space: How Allergies Shape Our Lives and Landscapes</title>
+		<author>
+			<persName><forename type="first">Gregg</forename><surname>Mitman</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2008">2008</date>
+			<publisher>Yale University Press</publisher>
+			<pubPlace>New Haven</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<monogr>
+		<title level="m" type="main">Slow Violence and the Environmentalism of the Poor</title>
+		<author>
+			<persName><forename type="first">Rob</forename><surname>Nixon</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2013">2013</date>
+			<publisher>Harvard University Press</publisher>
+			<pubPlace>Cambridge</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<monogr>
+		<title level="m" type="main">Membranes: Metaphors of Invasion in Nineteenth-Century Literature, Science, and Politics</title>
+		<author>
+			<persName><forename type="first">Laura</forename><surname>Otis</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1999">1999</date>
+			<publisher>The Johns Hopkins University Press</publisher>
+			<pubPlace>Baltimore</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<analytic>
+		<title level="a" type="main">The Allergy Epidemics: 1870-2010</title>
+		<author>
+			<persName><forename type="first">Thomas</forename><surname>Platts-Mills</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Allergy and Clinical Immunology</title>
+		<imprint>
+			<biblScope unit="volume">136</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="3" to="13" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<analytic>
+		<title level="a" type="main">The Life of Things in the Place of Howards End</title>
+		<author>
+			<persName><forename type="first">Richard</forename><surname>Russel</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Rankin</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Narrative Theory</title>
+		<imprint>
+			<biblScope unit="volume">46</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="196" to="222" />
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">Edward</forename><forename type="middle">W</forename><surname>Said</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Culture</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Imperialism</surname></persName>
+		</author>
+		<author>
+			<persName><surname>London</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1993">1993</date>
+			<publisher>Chatto &amp; Windus</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<analytic>
+		<title level="a" type="main">Growth and Structural Change in the English Dairy Industry, c1860-1930</title>
+		<author>
+			<persName><forename type="first">David</forename><surname>Taylor</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Agricultural History Review</title>
+		<imprint>
+			<biblScope unit="volume">35</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="47" to="64" />
+			<date type="published" when="1987">1987</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<analytic>
+		<title level="a" type="main">Of Dust and Rubber: Rereading Howards End</title>
+		<author>
+			<persName><forename type="first">Andrew</forename><surname>Thacker</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Études Britanniques Contemporaines</title>
+		<imprint>
+			<biblScope unit="volume">58</biblScope>
+			<biblScope unit="page" from="1" to="11" />
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<monogr>
+		<author>
+			<persName><forename type="first">Lionel</forename><forename type="middle">E M</forename><surname>Trilling</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Forster</surname></persName>
+		</author>
+		<title level="m">The Makers of Modern Literature. Norfolk: New Directions Books</title>
+		<imprint>
+			<date type="published" when="1943">1943</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<analytic>
+		<title level="a" type="main">Blackley and the Development of Hay Fever as a Disease of Civilization in the Nineteenth Century</title>
+		<author>
+			<persName><forename type="first">Kathryn</forename><forename type="middle">J</forename><surname>Waite</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Medical History</title>
+		<imprint>
+			<biblScope unit="volume">39</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="186" to="196" />
+			<date type="published" when="1995">1995</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b27">
+	<analytic>
+		<title level="a" type="main">Growth of the Rubber Industry of Great Britain and the United States</title>
+		<author>
+			<persName><forename type="first">William</forename><surname>Woodruff</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">The Journal of Economic History</title>
+		<imprint>
+			<biblScope unit="volume">15</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="376" to="391" />
+			<date type="published" when="1955">1955</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b28">
+	<analytic>
+		<title level="a" type="main">When Did the Anthropocene Begin? A Mid-Twentieth Century Boundary Level is Stratigraphically Optimal</title>
+		<author>
+			<persName><forename type="first">Jan</forename><surname>Zalasiewicz</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Quaternary International</title>
+		<imprint>
+			<biblScope unit="volume">383</biblScope>
+			<biblScope unit="page" from="196" to="203" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

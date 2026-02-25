@@ -1,0 +1,1006 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Scaling up the Capitalocene: paratexts, storyworld, and climate change in New York 2140</title>
+				<funder ref="#_DDRWWXA">
+					<orgName type="full">National Social Science Fund of China</orgName>
+				</funder>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author role="corresp">
+							<persName><forename type="first">Hongri</forename><surname>Wang</surname></persName>
+							<email>wang_hongri@alumni.sjtu.edu.cn</email>
+						</author>
+						<author>
+							<persName><forename type="first">Kim</forename><forename type="middle">Stanley</forename><surname>Robinson</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">David</forename><surname>Harvey</surname></persName>
+						</author>
+						<author>
+							<affiliation key="aff0">
+								<orgName type="department">Department of English</orgName>
+								<orgName type="institution">Tongji University</orgName>
+								<address>
+									<settlement>Shanghai</settlement>
+									<country>People&apos;s Republic of China</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff1">
+								<orgName type="institution">The Condition of Postmodernity</orgName>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff2">
+								<address>
+									<settlement>Hongri Wang</settlement>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff3">
+								<orgName type="department">Department of Literary Studies</orgName>
+								<orgName type="institution">Ghent University</orgName>
+								<address>
+									<country key="BE">Belgium</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff4">
+								<orgName type="department">TEXTUAL PRACTICE</orgName>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff5">
+								<address>
+									<settlement>Hongri Wang</settlement>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Scaling up the Capitalocene: paratexts, storyworld, and climate change in New York 2140</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date/>
+						</imprint>
+					</monogr>
+					<idno type="MD5">5068D428FE581EA61C513FD43DC38EA2</idno>
+					<idno type="DOI">10.1080/0950236X.2025.2608007</idno>
+					<note type="submission">Received 5 July 2024; Accepted 14 August 2025</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.0" ident="GROBID" when="2026-02-25T19:52+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>In response to the representational challenges that climate change poses to narrative, econarratology seeks to forge chains between the storyworld and broader extranarrative contexts. This article argues that paratexts, serving as a liminal zone mediating between the inside and the outside of the text, are well-suited to grappling with the scalar complexity of climate change by expanding the parameters of the storyworld to scale up narrative time and space and by complicating the author-text-reader collectivity. Using New York 2140 (2017) as a case study, the article illustrates how the interplay between the epigraphs and the core text of this novel can foster a collective subject position that evokes readerly engagement and contribute to a scalar extension, which I analyze in dialogue with the spatio-temporal scale compression underlying capitalism's expansion, particularly drawn from ideas of David Harvey. By including the paratextual dimensions within the ambit of the storyworld of climate change texts, the article helps to extend the purview of what it means for a novel to engage with the trans-scalar collectivity in the Anthropocene.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Introduction</head><p>The contemporary experience of time and space is characterised by increasing condensation. Rob Nixon identifies the current era as an 'age of onrushing turbo-capitalism' where the present 'feels more abbreviated than it used to'. <ref type="bibr" target="#b1">2</ref> As Nixon shows, our age venerates speed and efficiency, fixating on advanced time-savers and temporal templates like 24/7 or 996 -a work schedule practiced by some companies in China -which exacerbate a shortened time horizon and pervasive sense of time scarcity. Concurrently, the acceleration of temporal rhythms contributes to the dissolution of spatial boundaries, a concept David Harvey terms 'time-space compression'. <ref type="bibr" target="#b2">3</ref> What particularly intrigues me about Nixon's abbreviated present and Harvey's conceptualisation of compression is that they both conceive of the experience of time and space as a dynamic transformation or comparison inevitably involving different scales. As Joshua DiCaglio suggests, scale is a 'metaphenomenal structure that makes use of a consistent measure to compare and calibrate ourselves to phenomena'. <ref type="bibr" target="#b3">4</ref> Abbreviation and compression can only occur in 'comparative degree'. When we describe something as abbreviated or compressed, we implicitly bring two scales into comparison, employing one particular scale to measure and evaluate the scale of the observed object.</p><p>The emergence of climate change, a representative symptom of the Anthropocene, introduces another scale into this comparison: the ecological scale which cannot be more real nor more elusive. In this way, the linear pattern underlying the aforementioned comparative degree is bent into a simultaneous 'juxtaposition' of contradictory scales, or what I call the scalar structure of Anthropocenic temporality and spatiality. As DiCaglio explains, scale is the 'relation between one "over there" and another "over here"'. <ref type="bibr">5</ref> A scalar perspective, for instance, means a 'situated dislocation' involving 'both places at once'. <ref type="bibr">6</ref> A scalar structure of temporality or spatiality thus entails a merging of multiple places or temporalities at once, which is captured in new terminology such as 'shadowtime' -the perplexing coexistence of 'two or more orders of temporal scales' where a warm winter's day is shadowed by 'a day of frightening global warming' in the long run. <ref type="bibr" target="#b4">7</ref> Glenn Albrecht's account of 'solastalgia' similarly expresses a sense of dislocation vis-à-vis ecological degradations, or a 'homesickness one gets when one is still at "home"'. <ref type="bibr" target="#b5">8</ref> The fact that we are still 'here' is juxtaposed with a sensation of being thrown elsewhere. The scalar complexity of the Anthropocene has transformed our 'familiar world' into a 'daily phantom', to use Timothy Clark's phrases, in which the immense scales of climate change infiltrate and intermingle with the immediate scales of our daily life. <ref type="bibr" target="#b6">9</ref> Addressing such scalar complexity has been subject to ongoing academic scrutiny, particularly in terms of the representational challenges that climate change poses to narrative time and space. Axel Goodbody sheds light on the use of time travel, often in a 'ludic' way, to provide an impetus for transscalar thinking. <ref type="bibr" target="#b7">10</ref> Marco Caracciolo examines metaphorical patterns as a formal strategy that enables narrative to negotiate the multiscalarity of the contemporary ecological crisis. <ref type="bibr" target="#b8">11</ref> To capture the expansive scales and elusive experientiality of climatological time, Erin James explores narrative resources that can encourage readers to 'expan [d] the boundaries of a storyworld' and forge chains 'between one narrative's world and the broader, nonnarrative world'. <ref type="bibr" target="#b9">12</ref> This claim is further considered in this article, particularly in relation to formal affordances of paratexts. I argue that paratexts, as a liminal zone mediating between the intranarrative storyworld and the extranarrative world, are well-suited to negotiate the scalar complexity of climate change by expanding the parameters of the storyworld to scale up narrative time and space and by complicating the collectivity of author-text-reader interaction. Drawing on scholarly discussions particularly from Harvey, the article first analyzes the spatio-temporal scale compression underlying capitalism's expansion and its encroachment upon the world, laying bare a key aspect of the extranarrative contexts that both New York 2140 (2017) and this article intend to engage with. <ref type="bibr" target="#b10">13</ref> My econarratological reading then showcases how the epigraphs in this novel, resonating with the anonymous citizen narrator in the core text, extend the scale of Kim Stanley Robinson's storyworld and turn this citizen figure into a collective subject position to further evoke readerly engagement. While the core text foregrounds a story of a capitalocenic 'here', the copious epigraphs make cameos to form a collective 'there' that invites readers to participate in Robinson's post-capitalist futurity, 'stretching' narrative time and space in contrast with the scale compression underlying capitalist history and contributing to the scalar structure of the novel.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Expanding the storyworld: from James's 'extranarrative contexts' to Genette's paratexts</head><p>To accommodate the vast timescale of the Anthropocene which challenges the scale of narrative time often tied to human perspectives, scholars are exploring narrative resources that can expand the boundaries of the storyworld and evoke readers' trans-scalar awareness. For instance, drawing upon Gérard Genette's well-known categorisation of narrative time, James proposes 'the pseudo-singular' as a new category to account for the intranarrative event that is represented as singular, yet 'its richness and historical familiarity ensures that no reader can realistically believe it occurs as disconnected from earlier events known from other contexts that exist outside of the text'. <ref type="bibr" target="#b11">14</ref> While Genette's terminology of duration, order and frequency provides fruitful models for accommodating long durations that exceed the timeline of the primary narrative -such as ellipsis and summary, where story time surpasses narrative time -the temporal extension implicated in Genette's categories remain 'rooted firmly in story time', thus failing to effectively address the longue durée beyond the scope of the storyworld. <ref type="bibr">15</ref> The pseudo-singular satisfies this need by providing readers with explicit or implicit textual cues as an invitation to 'extend the parameters of the storyworld' and 'reach beyond story time to interpret the significance of an event within additional, extranarrative contexts'. <ref type="bibr" target="#b12">16</ref> For example, the 'structure of racism' in River Solomon's An Unkindness of Ghosts (2017)where darker-skinned lower deck labourers endure suffering while lighterskinned upper deckers revel in opulence -can be read not merely as an allegory but as a pseudo-singular event that encourages readers to recognise the relevance between the abuse on the ship and 'a historical sequence of slavery that exists outside of story time'. <ref type="bibr">17</ref> In this way, the pseudo-singular can 'encourage readers to read on multiple timescales' and reconsider how the 'experiential time' of narrative existents can relate to the much broader historical and climatological time. <ref type="bibr" target="#b13">18</ref> James thus offers a pathway to scaling up the temporal scope of a narrative: through textual cues that can heighten the links between the storyworld and broader, extranarrative contexts, thereby evoking trans-scalar readings across the embodied timescale of the reader's experience and broader timelines within socio-ecological contexts.</p><p>It is this heightening of transtextual linkage and contextual outreach that drives my consideration of paratexts in this article, which can also provide cues inviting readers to expand the storyworld of the main text and engage with extranarrative information that might come from broader historical and ecological scales. Genette describes paratexts as a 'threshold' or a 'vestibule' -a liminal space that both frames and extends the text, thereby 'ensuring the text's presence in the world'. <ref type="bibr" target="#b14">19</ref> What he calls 'the text's presence in the world' resonates with the linkage between intranarrative storyworld and extranarrative contexts discussed in James's model. Furthermore, I see the relevance of paratexts to the Anthropocene narrative theory because of their ability to supplement and prolong the core text. They function as shadows of the core text, surrounding and extending the primary narrative, just as geological time or climatological time constitutes the shadowtime of our current epoch. Paratexts not only serve as the threshold mediating between the intranarrative storyworld and extranarrative contexts, but also are the foregrounded background or embodiments of the extranarrative contexts, signalling readers to recognise the relevance of additional events and broader information on the socio-cultural history and ecological contexts that have been traditionally considered as the backdrop or underrepresented within the core text. It is this potential to extend the parameters of the storyworld, allowing extranarrative contexts to infiltrate and flow into the text -or, using Genette's words, ensuring the text's presence in the world -that makes paratexts another narrative resource worthy of further econarratological scrutiny. In this article's case study, this extension is brought home through the strategic deployment of copious epigraphs as a chronotopic montage that offers snapshots of New York's social, cultural, and ecological landscape, expanding the scales of the core storyworld and challenging the accelerated time-space compression of the capitalist lifeworld.</p><p>Moreover, this article views paratexts as a narratological tool to mobilise readerly engagement and foster transtextual collectivity. Paratexts can form a 'discursive collective' around the text, encouraging readers to engage with the broader, trans-scalar collectivity that the climate crisis requires us to grapple with. <ref type="bibr" target="#b15">20</ref> Several scholars, notably Adeline Johns-Putra, have shed light on the potential of paratexts to expand the realist narrative's 'situatedness in place, time and individualistic (that is, anthropocentric) perspective' and to 'mirror, support and enact the collectivity' narrated within climate change fiction. <ref type="bibr" target="#b16">21</ref> Through the interplay between paratexts and climate texts, both readers and authors are motivated to bridge 'the line between real world and realist storyworld' and to understand their place 'at the intersection of the discursive, material, and moral universes of the Anthropocene'. <ref type="bibr">22</ref> Johns-Putra reads all of Robinson's fictions, scholarly essays, interviews, media commentaries, and public talks as a 'coherent ideological infrastructure' that invites readers to 'form part of the collective, utopian enterprise' often envisioned in the novelist's oeuvre. <ref type="bibr" target="#b17">23</ref> While her analysis explores how intertextuality, metatextuality, hypertextuality, and architextuality -four of the five transtextual categories defined by Genette <ref type="bibr" target="#b18">24</ref> work together to build a broader transtextual ecology, this article engages with climate fiction paratextuality on a comparatively micro level: the paratext proper, particularly the epigraphs in New York 2140, an often-overlooked aspect in literary analysis of Robinson's works. My reading of New York 2140 presents a different mode of transtextual linkage, one in which paratexts do not merely connect the novel to its surrounding discursive contexts, but also function as a narrative method that integrates the paratextual into the text, placing the fictional narrative in dialogue with other forms of discourses. This transtextual nexus not only dismantles the parameters of Robinson's storyworld and rescales it within a broader contextual montage, but also enables the myriad New Yorkers featured in the epigraphs to resonate with and participate in the anonymous citizen in the core text, speaking to the collectivity embedded in the anonymity of the citizen figure. By revealing the emergence of this collective subjectivity through the transtextual interplay, my analysis also adds a collectivizing dimension to the econarratological extension of storyworld.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Capitalism's God-trick: reconceptualizing scales of time and space</head><p>If responses from econarratology have largely focused on the debate over narrative's (in)capability to come to terms with the spatiotemporal scale of climate change, sparked by Amitav Ghosh's influential argument in The Great Derangement, in Robinson's narrative universe, this diplopic investigation often takes the form of a tripartite seesaw among the climate crisis, narrative, and capitalism. <ref type="bibr" target="#b19">25</ref> Fredric Jameson, among other scholars, considers Robinson's fiction an 'important theoretical intervention in contemporary utopian and Marxian thought'. <ref type="bibr" target="#b20">26</ref> Spanning from the Science in The Capital trilogy (2004-2007) to the bestselling New York 2140 and his recently published The Ministry for the Future (2020), Robinson's oeuvre consists of a series of thought experiments that place the interconnectedness of climate change and socio-economic crises stemming from capitalist system at the core. While most scholarly discussions agree on the crucial role of capitalism as the 'driving force of the Anthropocene in New York 2140', analysing the conflict between capitalism and climate change as exposed in Robinson's narrative, this article focuses attention on the novel's engagement with their scalar tension: capitalism's frenzy for acceleration and short-term profits become major obstacles to the imperative of deceleration and longterm resilience required for effective climate change mitigation. <ref type="bibr" target="#b21">27</ref> To put it more bluntly, one demands scaling down while the other necessitates scaling up. Such scalar tension is crucial not only for understanding one of the most important aspects of the extranarrative backdrop that New York 2140 and Anthropocene literary criticism seek to engage with, but also for decoding Robinson's formal replication and reconstruction of the Capitalocene -an alternative notion to the Anthropocene that emphasises how the intersection of capital accumulation, power, and global trade has shaped the planet.</p><p>Jason Moore has already attended to the significant role of scale as capitalism's 'God-trick' to reshape the world in the formation of the Capitalocene: For Moore, the 'genius of capitalism's cheap nature strategy' lies in the creation of a spatio-temporal scale 'to represent time as linear, space as flat', mapping and quantifying the natural world as external to the economic system and reducible to price labels under the law of value. <ref type="bibr" target="#b22">28</ref> We can also find insights into the social embeddings of scale in Harvey's critique of capitalist lifeworlds, in which capitalism's tendency to scale down is theorised as time-space compression, an inward collapse of the world caused by the 'speed-up in the pace of life, while so overcoming spatial barriers'. <ref type="bibr" target="#b23">29</ref> He views time and space as resources of social power and charts the nexus of the history of social changes and the history of spatial and temporal conceptions. For instance, the Medieval Ages exhibited 'sensuous' and 'finite centred qualities of space', while the rise of merchant activities later introduced a new scale of time, which Harvey describes as a 'better measure of time "for the orderly conduct of business"'. <ref type="bibr" target="#b24">30</ref> This shift, symbolised by clocks and bells, replaced the natural rhythms of agricultural life with a new chronological order that facilitated market expansion. As increasingly accurate maps, chronometers, and calendars emerged, 'rationalized configurations' of the Enlightenment further led to 'ideal abstractions of space and time'. <ref type="bibr">31</ref> Interestingly, Harvey frequently discusses time-and space-measuring devices in his diachronic survey. Although the term 'scale' may not be explicitly used in Harvey's analysis, the devices he charts -such as clocks, bells, maps, and other concrete examples of scalespeak to the fundamental rescaling at the heart of time-space compression.</p><p>Therefore, Harvey's account of time-space compression that leads to the inward collapse of our world is, in fact, spatio-temporal scale compression. Time itself is not accelerating, and space is not being compressed. There are always 24 hours in a day, and the size of the planet remains unchanged from the Ice Age. The sensation of 'speeding up' and the illusion of space shrinking arise because the scales that we use to measure, perceive, experience, and evaluate time and space are being compressed. Harvey's 'shrinking map of the world' is a vivid example of capitalism's ongoing enterprise of compressing temporal and spatial scales to alter our perception and conceptualisation of the world (see Figure <ref type="figure" target="#fig_0">1</ref>). When the speed of 'horse-drawn coaches' is used to measure the Earth, the planet appears enormous; however, when the 'jet passenger aircraft' is used as the scale of measurement, the world seems much smaller. Through the increasingly compressed scales of time and space, capitalism exerts its influence on the global landscape and reorganises the world. The idea of 'annihilation of space through time' could also be seen as a manipulation of scales in which temporal scales are used to measure space and ultimately to conquer space through increasingly shortened temporal scales, unleashing capitalism's '"creative destruction" upon the geographical landscape'. <ref type="bibr">32</ref> Scale compression reaches its peak in the current epoch, exemplified by working patterns such as 996 and 24/7. As the 'final capitalist mirage of post-history' in Jonathan Crary's words, the scale of 24/7 eradicates the line between brightness and shadow and dissolves the boundary between workplace and home, constructing a high-speed yet highly compressed world. <ref type="bibr" target="#b25">33</ref> Even holiday travel is becoming an illusionary 'elsewhere' in Italo Calvino's sense of the term, acting as a 'negative mirror' that jolts the traveller into an awareness of 'the little that is his, discovering the much he has not had and will never have'. <ref type="bibr">34</ref> From the traditional working day to the non-stop 24/7 pattern, increasingly compressed scales lead to shortening time horizons and pervasive expanding simultaneity in the 'broad present'. <ref type="bibr" target="#b26">35</ref> This line of accounts of scale compression is formally challenged and questioned in New York 2140, which presents a different mode of rescaling -not in the form of linear prolongation or compression, as implicated in Harvey's understanding of time and space that relies on linear patterns and anthropogenic notions of temporality, but rather as a scalar extension, achieved by deploying paratexts as a nuanced and fluid mode of reading the transscalar entanglement of the Anthropocene. From Timothy Morton's well-known instance of climate change as a 'hyperobject' that is massively distributed across scales far exceeding human stretches of time and space, to Nixon's account of 'slow violence' which highlights how the delayed destruction of contemporary ecological crises defies immediate visibility, the vast spatiotemporal scale of Anthropocene crises envelops and entangles with the experiential time of individuals, serving not only as a counter-force of deceleration but also as an inseparable aspect of reality through which we must understand the capitalist acceleration of our age. <ref type="bibr" target="#b27">36</ref> This form of scalar structure, or the simultaneous coexistence and entanglement of multiple scales, is epitomised by the notion of the carbon footprint: modernity's rapid acceleration of fossil fuel consumption is embedded in the daily routines of everyday life -such as driving a car, heating an apartment, or flying between countriesactions that, though seemingly insignificant on their own, are causing catastrophic changes that will last into deep geological time. In New York 2140, the scalar structure is foregrounded through the novel's extensive range of epigraphs, including the geological and climatological records of New York City, which 'surround' and extend the limited scales of the core storyworld signalled by the title (New York, and 2140) at first glance. Through its sophisticated interaction between the core text and epigraphs, the novel provides readers with a 'safe-context' <ref type="bibr" target="#b28">37</ref> for navigating across different registers of scales -such as those of the individual and the collective, of human societies and ecological systems -or in Dipesh Chakrabarty's words, 'shuttling between different scales' in the Anthropocene. <ref type="bibr" target="#b29">38</ref> In this sense, my interpretation of paratexts as a mode for expanding the parameters of narrative imaginations of human-nonhuman enmeshment shares the spirit of the 'transscalar revision to Anthropocene critique' as Henry Ivry calls for:</p><p>What is crucial is the simultaneity of 'contradictory registers'. This is the cornerstone of transscalar thinking: the ability to embrace the contradictory that does not choose between the geologic, on the one hand, and race, on the other. In fact, it is to realize that these myriad scales are not contradictory but rather complementary and co-constitutional. <ref type="bibr" target="#b30">39</ref> Seen in this light, Robinson explores the possibility of a 'transscalar revision to the Capitalocene' through the transtextual experimentation in New York 2140, creating a site for critics to assess the effectiveness of incorporating peripheral elements to 'scale up and down' narrative engagement with the Anthropocene, and for readers to mentally model and imaginatively inhabit the scalar complexity of the unfolding era.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Reconstructing the Capitalocene: from the capitalocenic storyworld to scaled-up temporality and spatiality</head><p>Resonating with Jameson's observation that it is easier to imagine the 'deterioration of the earth' than the 'breakdown of late capitalism', <ref type="bibr" target="#b31">40</ref> Robinson states that it is '[e]asier to destroy the world than to change capitalism even one little bit', lamenting the arduousness of altering the capitalist system. <ref type="bibr" target="#b32">41</ref> However, in New York 2140, he envisions a post-capitalist storyworld where 'the end of the world' is juxtaposed with 'the end of capitalism'. Despite the post-apocalyptic setting in which two mega-floods have submerged Manhattan, Robinson's protagonists collaborate to dismantle the prevailing capitalist system and achieve a 'comedy of the commons'. <ref type="bibr" target="#b33">42</ref> The tension between representing the world-shaping power of capitalism and ventilating its suffocating world-formation with new winds of political will is not lost on Robinson. As Anna Kornbluh states, the novel 'mediates capitalist realism as world-structuration rather than world-regard', 'accepting its world-trappings' while disrupting 'the suffocating totalizations of capitalist realist depression'. <ref type="bibr" target="#b34">43</ref> Although Kornbluh does not employ terms like 'storyworld' or 'the Capitalocene', her discussion of capitalist 'world-trappings' and 'world-structuration' alludes to the world-shaping influence of capitalism, which is central to the concept of the Capitalocene that the storyworld of New York 2140 both formally replicates and challenges.</p><p>In the core text, Robinson constructs a Capitalocenic storyworld where capitalism serves as a 'viscous' hyperobject, in Morton's term, and sticks to all the essential elements of the New York 2140 storyworld. <ref type="bibr" target="#b35">44</ref> According to David Herman, the storyworld is a mental model that encompasses 'who did what to and with whom, when, where, why, and in what fashion in the world to which interpreters relocate as they work to comprehend a narrative'. <ref type="bibr" target="#b36">45</ref> Robinson sets his storyworld in 2140 (when) at the global financial hub of New York (where), in which the protagonists work together to expose the conspiracy of the Stock Exchange Center and protect their building from capitalist intrusion (why and what). All the eight parts of the novel are titled after economic concepts such as 'sunk costs', 'liquidity trap', price ('Expensive or Priceless') or 'the comedy of the commons' (a play on the term 'the tragedy of the commons'), formally replicating how capitalism organises the world by integrating it into this economic system and reducing its value to price labels. By 'gluing' space, time, event and subtitles to this hyperobject, New York 2140 captures the omnipresence of capitalism in the real world.</p><p>The four distinct types of narration employed in the novel further nuance Robinson's imaginative account of the Capitalocene, indicating the ideological proximity between anthropocentric solipsism and capitalism. Eight groups of characters take turns narrating or focalising the subchapters. Robinson implicitly categorises them into four groups through different types of narration, which could be interpreted as a formal strategy reflecting the varying degrees of proximity each protagonist has to capitalism. The trader Franklin is the only character who narrates his own story, implying the disparities in discourse power within capitalist society. In Michal Klata's words, 'only those with sufficient means, who are intimate with the rules that govern the system, can "tell their own story"'. <ref type="bibr" target="#b37">46</ref> Franklin's instrumentalized interpretation of climate disasters -where floods are viewed as 'a case of creative destruction' and rising sea levels as an 'index' to be capitalised upon -instantiates how capitalism monetises nature and exploits catastrophes. <ref type="bibr" target="#b38">47</ref> Throughout his chapters, Franklin's solipsistic voice and interest-driven perspective are the only sensory centre and narrative voice available to readers, mirroring the self-centeredness and anthropocentrism foundational to the Capitalocene. In contrast, Gen, Vlade, Amelia, Charlotte, Stefan and Roberto, who all reside in the same building, are represented through third-person narration and internal focalisation in their respective chapters. The uniformity of their narration resonates with their collective mission to resist the capitalist encroachment into the intertidal zone. Jeff and Matt come across more as 'embodiments of philosophical ideas than real people', engaging in dialogues reminiscent of Samuel Beckett's Waiting for Godot (1953) and highlighting the absurdity and pervasiveness of the capitalist system. <ref type="bibr" target="#b39">48</ref> As these characters distance themselves from capitalism, their narratives reflect a diminishing sense of self-centeredness and anthropocentrism.</p><p>The anonymous citizen stands perhaps furthest from capitalism, with the trans-scalar vastness of his narration serving as one key to 'scaling up' the New York 2140 storyworld. As a mouthpiece for Robinson, the citizen frequently quotes academic terms such as 'Anthropocene' and 'actor network' <ref type="bibr" target="#b40">49</ref> to critique the capitalist system and makes metanarrative comments, presenting the geographical history of New York across the centuries: New York, New York, it's a hell of a bay. […] It was one dripline coming off the world-topping ice cap of the Ice Age, […] When the great ice monster melted ten thousand years ago, sea level rose about three hundred feet. […] The floods inundated New York harbor and every other coastal city around the world, mainly in two big surges that shoved the ocean up fifty feet, and in that flooding lower Manhattan went under, and upper Manhattan did not. <ref type="bibr">50</ref> The citizen can flash back to the Ice Age and summarise how the two pulses 'shoved the ocean up fifty feet' in an impersonal tone, or venture into the future to present a prolepsis of the arrival of a new Congress in 2143. <ref type="bibr">51</ref> Without his trans-temporal narration that foregrounds ecological transformations and critiques of capitalism, the novel would be reduced to a story of how several characters actualise an 'euthanasia of the rentier' movement in 2140, focusing solely on human dramas. The citizen's narration, as James argues, brings 'differing textures of time and space' into the novel through its 'hallmarks of the omni-temporality and -spatiality'. <ref type="bibr" target="#b41">52</ref> Even this extradiegetic, omniscient figure has to confront the consequences of climate disasters, highlighting the enduring viscosity of Anthropocenic hyperobjects and the grim reality that '[t]here is no life boat'. <ref type="bibr">53</ref> Moreover, numerous epigraphs preceding each chapter resonate with the citizen's narration through shared thematic concerns, presenting a contextual montage of New York and further extending the core storyworld. Clustered around two major thematic concerns, the 120 epigraphs in New York 2140 are drawn together by the threads of 'New York' and 'Capital', serving as footnotes to the citizen's narration. On the one hand, the epigraphs echo and extend the citizen narrator's satirical tone toward capitalism, ranging from Gilles Deleuze's lament over speech and communication being 'thoroughly permeated by money' -strategically positioned before a chapter narrated by Franklin, a living embodiment of capitalism in the storyworld -to Virginia Woolf's reflection on the relationship between money and literature, and the note from the International Monetary Fund fabricated by Robinson himself, commenting on the '[w]idening income inequality' in the future. <ref type="bibr" target="#b42">54</ref> On the other hand, the epigraphs foreground messages about environmental transformations, extreme weather, and other climate disasters -elements that typically serve as the background of a story -such as Manhattanhenge days when 'sunsets align with the streets and pour down them out of the west, turning the canals to fire'; the total eclipse of the sun in 1925 in which New York 'looked like a city risen from the bottom of the sea'; and the ambitious geoengineering plan in the 1920s to 'dam and drain the East River', aiming to build a channel that would connect Manhattan with Brooklyn and Queens. <ref type="bibr" target="#b43">55</ref> In this way, these epigraphs function as the aforementioned 'embodiments' of the ecological contexts of New York City, bringing the inseparable entanglement of the natural environment in the city's development to the fore. They invite readers to reach out to narrative information from the more-than-human scale and pay heed to the natural surroundings to which humans are no longer external but deeply embedded in and actively reshaping -a key aspect of human-nonhuman enmeshment central to the Anthropocene.</p><p>Based on their epigraphers, these copious epigraphs fall into three categories: (1) comments made by real-world celebrities and historical figures, including geological and climatological records of the New York City; (2) excerpts from literary works and films centred around New York; and (3) metacommentaries from the author, Robinson himself. Robinson's commentaries intertwine with epigraphs from external sources, both resembling and enriching the discursive contexts within which the narrative unfolds and becomes another discourse of its own that helps us better understand climate change. The snapshots of New York extracted from literary works and films can be perceived as fragments of various storyworlds, each possessing its own spatial setting and temporal contour and transporting readers to imagined versions of New York across different eras -including the nineteenth, twentieth, and twenty-first centuries, as well as an imagined future.</p><p>The leaden twilight weighs on the dry limbs of an old man walking towards Broadway. […] 'I remember when it was all meadows', he grumbles to the little boy.</p><p>-John Dos Passos, Manhattan Transfer Others will see the shipping of Manhattan north and west, and the heights of Brooklyn to the south and east … -Walt Whitman 'Relationships in New York are about detachment', she said.</p><p>-Candace Bushnell, Sex and the City Widening income inequality is the defining challenge of our time. We find an inverse relationship between the income sharing accruing to the rich (top 20 percent) and economic growth. The benefits do not trickle down. noted the International Monetary Fund years later <ref type="bibr" target="#b44">56</ref> For instance, the epigraph taken from Whitman's poem, 'Crossing Brooklyn Ferry', transports readers to the East River in the nineteenth century, inviting them to 'see the shipping of Manhattan north and west, and the heights of Brooklyn to the south and east'. <ref type="bibr">57</ref> John Dos Passos's leaden twilight in Manhattan Transfer offers a glimpse of social indifference and spiritual emptiness of the urban life in New York City from the late Gilded Age to the Jazz Age. The paratext from Sex and City presents readers with the metropolis in the contemporary era and its emotional detachment, while the fabricated note from the International Monetary Fund speculates on the widening wealth gap in the distant future. The nonfictional epigraphs -ranging from Jean-Paul Sartre's and H. L. Mencken's impressions of the city to its geological records -serve as what Genette calls 'vestibules', further inviting readers to move beyond the timeline of the core text and tap into the collective memory of real-world New York. These diverse epigraphs provide readers with multiple versions of New York across different time periods and from various perspectives. As they converge to form a trans-temporal montage of New York City, readers are encouraged to expand the parameters of the core text and deploy the post-pulse New York in 2140 onto larger timelines ranging from geological transformations prior to modernity to the distant future implicated in the epigraph from the International Monetary Fund fabricated by Robinson. In this sense, the epigraphs in New York 2140 can be seen as paratextual cues that invite readers to scale up the core storyworld.</p><p>The place where all the aspirations of the world meet to form one vast master aspiration, as powerful as the suction of a steam dredge.</p><p>-H. L. Mencken I had to get used to it, but now that I have, nowhere do I feel freer than amid the crowds of New York. You can feel the anguish of solitude here, but not of being crushed.</p><p>-Jean-Paul Sartre <ref type="bibr" target="#b45">58</ref> Moreover, fictional epigraphs blend with paratexts from the real world, jointly creating a multilayered space under the umbrella term 'New York' where fictionality is juxtaposed with factuality, 'voic[ing] all kinds of sentiments from all kinds of places, including literary giants, political leaders, and artists'. <ref type="bibr" target="#b46">59</ref> Such fictionality-factuality juxtaposition also complicates the spatialization of Robinson's novel: the metropolitan collage of New York that emerges from the pluriverse of the epigraphs, acts as a 'shadowspace' (echoing the term 'shadowtime' coined by Ranu Mukherjee and Alicia Escott), surrounding and extending the post-apocalyptic New York of 2140 depicted in the core text.</p><p>In contrast to the capitalist practice of scale compression I have already discussed, the epigraphs in New York 2140 function as a myriad of satellites -each possessing its own distinctive spatial and temporal contour and revolving around the main text (see Figure <ref type="figure" target="#fig_1">2</ref>) -and extend the central storyworld which, as the title of the novel suggests, is set within a limited scale of time and space (New York, 2140). This satellite-like structure of paratexts revolving around the core text reverberates and amplifies the transscalar contour of the citizen's narration, contributing to a poetic realisation of scale extension. The epigraphs are thus not peripheral embellishments to the novel, but are integrated into Robinson's storyworld, providing a potential way to unveil the underlying tensions and latent possibilities implicated in the core text. They operate as agents of what Gilles Deleuze and Félix Guattari call 'deterritorialization', dismantling the linear and localised spatio-temporal logic that underpins the core text -excluding the citizen's narration. <ref type="bibr" target="#b47">60</ref> By inserting fragments from a wide array of historical, ecological, and cultural contexts, the epigraphs destabilise the boundaries of the main storyworld and re-situate it within a contextual collage that mirrors the entanglement of ecological transformation, historical sedimentation, cultural imagination, and flows of capital in the Anthropocene era. In doing so, the transtextual interplay of New York 2140 enacts a counterlogic of rescaling the world against the accelerated scale compression underlying capitalist lifeworlds -a scalar extension that heightens awareness of deep time and human-nonhuman entanglement, enabling readers to scale across different registers, including the intersection of capitalist exploitation and climate disasters in the post-flood storyworld, the disparities among a diverse cast of characters and their actions set in 2140, as well as the geological and climatological histories of New York City foregrounded in both the epigraphs and the anonymous citizen's narration. However, while the analysis of this section focuses on the upscaling affordance of paratexts, particularly how they align with the citizen narrator to reinforce Robinson's critical reflections on the Capitalocene, the interaction between paratexts and the main text in climate change fiction is by no means merely expansive. Through their dynamic interplay with the core text, paratexts are capable of facilitating a form of transtextual scaling to negotiate the scalar complexity of the Anthropocene, which requires not only scaling up to account for the long-term impacts of human activities on planetary systems, but also scaling down to capture localised effects, differentiated vulnerabilities and agency within New York and elsewhere beyond the scope of Robinson's storyworld.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Waiting for a post-capitalist utopia: on the anonymity and collectivity of the citizen</head><p>Apart from scaling up narrative time and space, the paratextual extension to the storyworld in New York 2140 further complicates the collectivity of author-text-reader interaction. The previous section of this article discussed the thematic concerns shared by epigraphs in New York 2140 and the citizen's narration. Another significant element contributing to the nexus between the paratexts and the core text is the anonymity of the citizen. Throughout the novel, Robinson refers to this omniscient narrator as 'a citizen', 'that citizen', 'the citizen' or 'the city smartass'. <ref type="bibr" target="#b48">61</ref> As a metaleptic figure, this citizen narrator bounces between the intradiegetic and extradiegetic levels, providing environmental contexts for the protagonists' actions and making vicious commentaries on capitalist society. The narrator even directly addresses readers as 'you' and speaks to them: 'Why would you think that, knowing what you know? … There are no happy endings! Because there are no endings'. <ref type="bibr">62</ref> There is no consensus yet in scholarly criticism on the citizen narrator's identity. This citizen could be any resident of the post-apocalyptic New York, a 'future historian', or a trans-temporal and trans-spatial omniscient figure who is positioned 'outside of the world that the rest of the characters inhabit and display'. <ref type="bibr" target="#b49">63</ref> Yet the anonymity of the citizen narrator goes beyond sheer ambivalence to signal a collective identity. The citizen is anonymous, thus allowing everyone to share the name. This collectivity is brought out through the epigraphs: all the epigraphers are either New York residents or have written about the city. The varied voices -from New York-based writers such as Herman Melville as well as the aforementioned Whitman and Dos Passos, to public figures like Fran Lebowitz and Will Irwin, who observe the city with their sharp and incisive gazes -echo the narration of 'this New Yorker' in the core text, as the citizen narrator addresses itself, transforming its anonymity into a latent site for the emergence of a collective subject position. <ref type="bibr" target="#b50">64</ref> Other epigraphers who may be less directly considered New York citizens, such as Robinson himself, often resonate with the citizen's narration through their critical tone toward capitalism. Another notable example is Ambrose Bierce, whose repeated quotations in the epigraphs offer sarcastic commentaries on the materialistic nature and inherent contradictions of capitalism. They further broaden the scope of Robinson's citizen, which is not confined to New Yorkers per se but open to more critical minds reflecting on the capitalist development that New York represents.</p><p>Corporation, n. An ingenious device for obtaining individual profit without individual responsibility. Money, n. A blessing that is of no advantage to us excepting when we part with it.</p><p>-Ambrose Bierce, The Devil's Dictionary <ref type="bibr">65</ref> In this sense, the numerous epigraphers are all 'the citizens' who make cameo appearances -to, using Robert Markley's words, 'craft a futuristic tale of financial oligarchy run rampant and the ways that collective action might bring eco-economics down to earth' -making the citizen's narration a polyphonic voice and heightening the citizen's collective identity. <ref type="bibr" target="#b51">66</ref> The citizen is thus turned into a collective subject whose identity remains absent throughout the novel, yet becomes an open space inviting readers to participate in the collective utopia Robinson constructs, as opposed to the solipsism underlying the formation of the Capitalocene.</p><p>In this way, the epigraphs in New York 2140 not only heighten the connection between the novel and its socio-ecological contexts, but also participate in the narrative imagination as an integral part. The mobilising and collectivizing effects of paratexts, in conjunction with the 'meta-narrator' in the core text, foster a collective subject position that evokes readerly engagement, contributing to the trans-scalar collectivity inherent in climate change fiction and placing 'readers more firmly within a climatological collective' across temporal and spatial boundaries. <ref type="bibr" target="#b52">67</ref> Robinson thus uses paratexts to explore visions of post-capitalist collectivity that move beyond the 'top-down' arc in which transformations are mainly driven by overarching systems and centralised authorities, to ventilate the Capitalocenic totalisation with utopian political winds that come from the 'bottom-up' and from the peripheral to the centre, emphasising individual actions that collectively bring about social changes. Raphael Kabo reads the concluding pages of the novel where Jeff, Mutt, and Amelia 'become common in their absorption into the "big world" of the sweaty, heaving, dancing crowd' as one of the most politically utopian scenes in the book, which centres on 'collective assemblies of individual subjects' rather than large-scale and abstracted systems. <ref type="bibr" target="#b53">68</ref> Bringing the nexus between the anonymous citizen narrator and the numerous 'citizens' involved in epigraphs into view, I argue that Robinson's account of post-capitalist utopia is not only rooted in the alliance of 'commons', in Kabo's words, but also in the transtextual collective among the author, the text, and the reader. <ref type="bibr">69</ref> The network formed by protagonists inside the core text, all the 'citizens' implicated in the epigraphs, as well as readers who are encouraged to join Robinson's transtextual universe, converge to become the citizen figure, offering a vision of transformation that emerges from the collectivisation of individual subjects and the inclusion of peripheral dimensions to complicate and enrich the central axis. This form of collectivity transcends textual borders to bond the author and the reader and reach out to potential 'citizens' from all eras, responding to a greater collective across temporal, spatial, and multispecies scales that the Anthropocene demands us to inhabit.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Conclusion: the scalar structure of New York 2140</head><p>The rise of the Capitalocene witnesses an ongoing practice of scale compression that favours short-term horizons and individualistic perspectives to weigh losses or gains, which is evident either in the form of Fordist assembly lines that break down the production process into ever smaller scales to assign workers specific tasks along the line and enhance efficiency, or in the increasingly shortened time frames used to quantify outputs. From the 24/7 economy to advanced time-tracking software that measures productivity down to the minute or the second, and short social media posts as well as videos catering to contemporary consumers' attention spans and the instant gratification culture, our planet is encroached by increasingly shortened scales, turning into an ever-shrinking image in the map of spatio-temporal scale compression.</p><p>This article has demonstrated the potential of paratexts to extend the scales of narrative time and space and strengthen author-text-reader collectivity, thus formally responding to and upscaling against the short-termism and individualistic ethics implicated in the Capitalocene. Scholars such as Amitav Ghosh and Claire Colebrook suggest that narrative, as an anthropogenic product intimately tied to human perspectives and scales of the individual, the family, and the nation, may be ill-equipped to accommodate vast hyperobjects such as climate change. <ref type="bibr" target="#b54">70</ref> Yet, the formal affordances of paratexts highlighted in this article offer a glimpse of how narrative can evoke a transtextual scaling that not only invites readers to zoom out toward large-scale climatological and geological transformations, but also encourages them to zoom in and attune to more localised assemblages of the Anthropocene -such as the conflicts and complicities between capitalism and climate disaster, as well as the divisions and collaborations among individuals -thereby serving as a nuanced mode for navigating the scalar complexity of the Anthropocene lifeworld. In New York 2140, the paratextual collage compensates for the Capitalocene in the core text, which pivots on a limited scale of temporality (2140) and spatiality (New York), unveiling the scalar structure that the novel shares with the Anthropocene. The scale of the storyworld in the core text -as the title suggests, fixating on the 'situatedness' of time and place -is accompanied and prolonged by broader ecological scales involved in the epigraphic montage. The backdrop of accelerated scale compression in the capitalist lifeworld, is overshadowed and formally challenged by the poetic realisation of scale extension emerging from the novel's transtextual rescaling.</p><p>Although this article's analysis emphasises how paratexts contribute to scale variability and facilitate the upscaling of the main storyworld -particularly as a narrative response to capitalism's tendency toward short-termism and individualism -it does not discount the significance of downscaling imagination in the Anthropocene. Living in the Anthropocene, as the novel's formal experimentation suggests, means inhabiting a range of conflicting yet interwoven scales, both large and small, that emerge from a human-nonhuman enmeshed reality. Like the citizen narrator who comments on history at the end of the novel -as 'a collective thing […] So: individuals, groups, civilizations, and the planet itself all did these things, in actor networks of all kinds. Remember not to forget, if your head has not already exploded, the nonhuman actors in these actor networks' -Robinson has made the paratext a powerful narrative tool to evoke the trans-scalar collectivity, one that acknowledges the interconnectedness of various actors without flattening them into a fabricated smooth surface. <ref type="bibr" target="#b55">71</ref> Paratexts, particularly through their mobilising and collectivising effects, capture and accommodate the disillusionment and discontent regarding our collective inaction to effectively mitigate the climate crisis, and help articulate Robinson's utopian vision for a post-capitalist future, which appears to lie in the inclusion of the peripheral and the collectivisation of individuals. By bringing the paratextual dimension into the formal analysis of Anthropocene criticism, the article also highlights the overlooked peripheral power of climate change fiction, which, through the incorporation and foregrounding of what was often considered marginal or background, encourages us to rescale our understanding of the world amid the more-than-human assemblage, just as the ongoing changes in the global climate invite us to rethink the boundaries between background and foreground, peripheral and central, as well as external and internal in the age of the Anthropocene.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Notes</head></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head>Figure 1 .</head><label>1</label><figDesc>Figure 1. The shrinking map of the world through innovations in transport which 'annihilates space through time'. Reproduced from The Condition of Postmodernity: An Enquiry into the Origins of Cultural Change by David Harvey by permission of Blackwell Publishers. Copyright 1990 by David Harvey.</figDesc><graphic coords="9,71.32,53.29,300.02,410.85" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_1"><head>Figure 2 .</head><label>2</label><figDesc>Figure 2. The Storyworld of New York 2140.</figDesc><graphic coords="15,62.82,406.72,311.87,181.08" type="bitmap" /></figure>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="4" xml:id="foot_0"><p>H. WANG</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="6" xml:id="foot_1"><p>H. WANG</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="10" xml:id="foot_2"><p>H. WANG</p></note>
+		</body>
+		<back>
+
+			<div type="acknowledgement">
+<div><head>Acknowledgements</head><p>I would like to thank the anonymous reviewers and editors for their insightful questions and valuable comments.</p></div>
+			</div>
+			<div type="funding">
+<div><head>Funding</head><p>This work was supported by the <rs type="funder">National Social Science Fund of China</rs> (grant number: <rs type="grantNumber">25CWW052</rs>).</p></div>
+			</div>
+			<listOrg type="funding">
+				<org type="funding" xml:id="_DDRWWXA">
+					<idno type="grant-number">25CWW052</idno>
+				</org>
+			</listOrg>
+			<div type="annex">
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Disclosure statement</head><p>No potential conflict of interest was reported by the author(s).</p></div>			</div>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<monogr>
+		<title level="m" type="main">The Condition of Postmodernity: An Enquiry into the Origins of Cultural Change</title>
+		<author>
+			<persName><forename type="first">David</forename><surname>Harvey</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1992">1992</date>
+			<publisher>Blackwell</publisher>
+			<biblScope unit="page">218</biblScope>
+			<pubPlace>Oxford</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<monogr>
+		<author>
+			<persName><forename type="first">Rob</forename><surname>Nixon</surname></persName>
+		</author>
+		<title level="m">Slow Violence and the Environmentalism of the Poor</title>
+		<meeting><address><addrLine>Cambridge, MA</addrLine></address></meeting>
+		<imprint>
+			<publisher>Harvard University Press</publisher>
+			<date type="published" when="2011">2011</date>
+			<biblScope unit="page">8</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<monogr>
+		<title level="m" type="main">The Condition of Postmodernity</title>
+		<author>
+			<persName><forename type="first">David</forename><surname>Harvey</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="page">240</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<monogr>
+		<author>
+			<persName><forename type="first">Joshua</forename><surname>Dicaglio</surname></persName>
+		</author>
+		<title level="m">Scale Theory: A Nondisciplinary Inquiry</title>
+		<meeting><address><addrLine>Minneapolis</addrLine></address></meeting>
+		<imprint>
+			<publisher>University of Minnesota Press</publisher>
+			<date type="published" when="2021">2021</date>
+			<biblScope unit="page">8</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<monogr>
+		<author>
+			<persName><forename type="first">Timothy</forename><surname>Clark</surname></persName>
+		</author>
+		<title level="m">The Value of Ecocriticism</title>
+		<meeting><address><addrLine>Cambridge</addrLine></address></meeting>
+		<imprint>
+			<publisher>Cambridge University Press</publisher>
+			<date type="published" when="2019">2019</date>
+			<biblScope unit="page">12</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title level="a" type="main">A New Concept in Health and Identity</title>
+		<author>
+			<persName><forename type="first">Glenn</forename><surname>Albrecht</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">PAN: Philosophy, Activism, and Nature</title>
+		<imprint>
+			<biblScope unit="volume">3</biblScope>
+			<biblScope unit="page">45</biblScope>
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+	<note>Solastalgia</note>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<monogr>
+		<author>
+			<persName><forename type="first">Timothy</forename><surname>Clark</surname></persName>
+		</author>
+		<title level="m">Ecocriticism on the Edge: The Anthropocene as a Threshold Concept</title>
+		<meeting><address><addrLine>London; New York; Bloomsbury</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2015">2015</date>
+			<biblScope unit="page">39</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title level="a" type="main">Time Travel as a Tool for Promoting Trans-Scalar Thinking</title>
+		<author>
+			<persName><forename type="first">Axel</forename><surname>Goodbody</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Narratives of Scale in the Anthropocene: Imagining Human Responsibility in an Age of Scalar Complexity</title>
+		<editor>
+			<persName><forename type="first">Gabriele</forename><surname>Dürbeck</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">Philip</forename><surname>Hüpkes</surname></persName>
+		</editor>
+		<meeting><address><addrLine>New York</addrLine></address></meeting>
+		<imprint>
+			<publisher>Routledge</publisher>
+			<date type="published" when="2021">2021</date>
+			<biblScope unit="page">45</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<monogr>
+		<author>
+			<persName><forename type="first">Marco</forename><surname>Caracciolo</surname></persName>
+		</author>
+		<title level="m">Narrating the Mesh: Form and Story in the Anthropocene</title>
+		<meeting><address><addrLine>Charlottesville</addrLine></address></meeting>
+		<imprint>
+			<publisher>University of Virginia Press</publisher>
+			<date type="published" when="2021">2021</date>
+			<biblScope unit="page" from="139" to="158" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<monogr>
+		<author>
+			<persName><forename type="first">Erin</forename><surname>James</surname></persName>
+		</author>
+		<title level="m">Narrative in the Anthropocene (Columbus: The Ohio State University Press</title>
+		<imprint>
+			<date type="published" when="2022">2022</date>
+			<biblScope unit="page">103</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">Kim</forename><surname>Stanley</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Robinson</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Orbit</title>
+		<imprint>
+			<date type="published" when="2017">2140. 2017</date>
+			<pubPlace>New York; London</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<monogr>
+		<title level="m" type="main">Narrative in the Anthropocene</title>
+		<author>
+			<persName><surname>James</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="page">102</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<monogr>
+		<title/>
+		<author>
+			<persName><surname>Ibid</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="page" from="103" to="199" />
+		</imprint>
+	</monogr>
+	<note>Italics added</note>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<monogr>
+		<title/>
+		<author>
+			<persName><surname>Ibid</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="page" from="102" to="103" />
+		</imprint>
+	</monogr>
+	<note>Italics added</note>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<monogr>
+		<author>
+			<persName><forename type="first">Gerard</forename><surname>Genette</surname></persName>
+		</author>
+		<title level="m">Paratexts: Thresholds of Interpretation, trans. Jane E. Lewin</title>
+		<meeting><address><addrLine>Cambridge</addrLine></address></meeting>
+		<imprint>
+			<publisher>Cambridge University Press</publisher>
+			<date type="published" when="2001">2001</date>
+			<biblScope unit="page" from="1" to="2" />
+		</imprint>
+	</monogr>
+	<note>Italics added</note>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title level="a" type="main">Transtextual Realism for the Climatological Collective</title>
+		<author>
+			<persName><forename type="first">Adeline</forename><surname>Johns-Putra</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">The Cambridge Companion to Literature and Climate</title>
+		<editor>
+			<persName><forename type="first">Adeline</forename><surname>Johns-Putra</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">Kelly</forename><surname>Sultzbach</surname></persName>
+		</editor>
+		<meeting><address><addrLine>New York</addrLine></address></meeting>
+		<imprint>
+			<publisher>Cambridge University Press</publisher>
+			<date type="published" when="2022">2022</date>
+			<biblScope unit="page">293</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<monogr>
+		<title/>
+		<author>
+			<persName><surname>Ibid</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="page" from="283" to="293" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<monogr>
+		<title/>
+		<author>
+			<persName><surname>Ibid</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="page">290</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<monogr>
+		<title level="m" type="main">Paratexts are one of the five types of transtextuality he lists</title>
+		<imprint>
+			<date type="published" when="1982">1982. 1997</date>
+			<publisher>University of Nebraska Press</publisher>
+			<pubPlace>Lincoln; London</pubPlace>
+		</imprint>
+	</monogr>
+	<note>Genette discusses transtextuality (previously referred to as &apos;paratextuality&apos;) in his Palimpsests: Literature in the Second Degree. See Gérard Genette, Palimpsests: Literature in the Second Degree, trans.</note>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<monogr>
+		<author>
+			<persName><forename type="first">Amitav</forename><surname>Ghosh</surname></persName>
+		</author>
+		<title level="m">The Great Derangement: Climate Change and the Unthinkable</title>
+		<meeting><address><addrLine>Chicago, IL</addrLine></address></meeting>
+		<imprint>
+			<publisher>University of Chicago Press</publisher>
+			<date type="published" when="2016">2016</date>
+			<biblScope unit="page" from="9" to="26" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">Robert</forename><surname>Markley</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Kim</forename><surname>Stanley Robinson</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2019">2019</date>
+			<publisher>University of Illinois Press</publisher>
+			<biblScope unit="page">6</biblScope>
+			<pubPlace>Champaign</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<analytic>
+		<title level="a" type="main">Contemporary Cli-Fi as Anthropocene Literature: Kim Stanley Robinson&apos;s New York 2140</title>
+		<author>
+			<persName><forename type="first">See</forename><surname>Seth</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Reno</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">The Anthropocene: Approaches and Contexts for Literature and the Humanities</title>
+		<editor>
+			<persName><forename type="first">Seth</forename><forename type="middle">T</forename><surname>Reno</surname></persName>
+		</editor>
+		<meeting><address><addrLine>New York</addrLine></address></meeting>
+		<imprint>
+			<publisher>Kim Stanley Robinson</publisher>
+			<date type="published" when="0176">2021. 176</date>
+			<biblScope unit="page">15</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<analytic>
+		<title level="a" type="main">The Value of Everything? Work, Capital, and Historical Nature in the Capitalist World-Ecology</title>
+		<author>
+			<persName><forename type="first">Jason</forename><surname>Moore</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Review (Fernand Braudel Center)</title>
+		<imprint>
+			<biblScope unit="volume">37</biblScope>
+			<biblScope unit="issue">3-4</biblScope>
+			<biblScope unit="page">259</biblScope>
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<monogr>
+		<title level="m" type="main">The Condition of Postmodernity</title>
+		<author>
+			<persName><surname>Harvey</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="page">240</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<monogr>
+		<title/>
+		<author>
+			<persName><surname>Ibid</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="page" from="243" to="241" />
+		</imprint>
+	</monogr>
+	<note>Italics added</note>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<monogr>
+		<author>
+			<persName><forename type="first">Jonathan</forename><surname>Crary</surname></persName>
+		</author>
+		<title level="m">24/7: Late Capitalism and the Ends of Sleep</title>
+		<meeting><address><addrLine>London; New York</addrLine></address></meeting>
+		<imprint>
+			<publisher>Verso Books</publisher>
+			<date type="published" when="2013">2013</date>
+			<biblScope unit="page" from="9" to="10" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<monogr>
+		<author>
+			<persName><forename type="first">Hans</forename><surname>Ulrich</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Gumbrecht</forename></persName>
+		</author>
+		<title level="m">Our Broad Present: Time and Contemporary Culture</title>
+		<meeting><address><addrLine>New York</addrLine></address></meeting>
+		<imprint>
+			<publisher>Columbia University Press</publisher>
+			<date type="published" when="2014">2014</date>
+			<biblScope unit="page">p. xiii</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b27">
+	<monogr>
+		<author>
+			<persName><forename type="first">Timothy</forename><surname>Morton</surname></persName>
+		</author>
+		<title level="m">Hyperobjects: Philosophy and Ecology after the End of the World</title>
+		<meeting><address><addrLine>Minneapolis</addrLine></address></meeting>
+		<imprint>
+			<publisher>University of Minnesota Press</publisher>
+			<date type="published" when="2013">2013</date>
+			<biblScope unit="page">2</biblScope>
+		</imprint>
+	</monogr>
+	<note>Nixon, Slow Violence and the Environmentalism of the Poor</note>
+</biblStruct>
+
+<biblStruct xml:id="b28">
+	<analytic>
+		<title level="a" type="main">Narrative in the Anthropocene</title>
+		<author>
+			<persName><forename type="first">Erin</forename><surname>James</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Environment and Narrative: New Directions in Econarratology</title>
+		<editor>
+			<persName><forename type="first">Erin</forename><surname>James</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">Eric</forename><surname>Morel</surname></persName>
+		</editor>
+		<imprint>
+			<publisher>The Ohio State University Press</publisher>
+			<date type="published" when="2020">2020</date>
+			<biblScope unit="page">185</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b29">
+	<analytic>
+		<title level="a" type="main">Whose Anthropocene? A Response</title>
+		<author>
+			<persName><forename type="first">Dipesh</forename><surname>Chakrabarty</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">RCC Perspectives</title>
+		<imprint>
+			<biblScope unit="volume">2</biblScope>
+			<biblScope unit="page">111</biblScope>
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b30">
+	<monogr>
+		<author>
+			<persName><forename type="first">Henry</forename><surname>Ivry</surname></persName>
+		</author>
+		<title level="m">Transscalar Critique: Climate, Blackness, Crisis</title>
+		<meeting><address><addrLine>Edinburgh</addrLine></address></meeting>
+		<imprint>
+			<publisher>Edinburgh University Press</publisher>
+			<date type="published" when="2023">2023</date>
+			<biblScope unit="page">25</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b31">
+	<monogr>
+		<author>
+			<persName><forename type="first">Fredrick</forename><surname>Jameson</surname></persName>
+		</author>
+		<title level="m">The Seeds of Time</title>
+		<meeting><address><addrLine>New York</addrLine></address></meeting>
+		<imprint>
+			<publisher>Columbia University Press</publisher>
+			<date type="published" when="1996">1996</date>
+			<biblScope unit="page">p. xii</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b32">
+	<monogr>
+		<author>
+			<persName><forename type="first">Kim</forename><surname>Stanley</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Robinson</forename></persName>
+		</author>
+		<title level="m">Forty Signs of Rain</title>
+		<meeting><address><addrLine>London</addrLine></address></meeting>
+		<imprint>
+			<publisher>Harper Collins</publisher>
+			<date type="published" when="2004">2004</date>
+			<biblScope unit="page">140</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b33">
+	<monogr>
+		<title level="m" type="main">The Comedy of the Commons&apos; is the title of Part Eight in New York 2140, which is adapted from the economic concept, &apos;tragedy of the commons&apos;. It refers to a situation where the accessibility of a resource to the public enhances the individual benefits received by each user from that resource</title>
+		<imprint>
+			<date type="published" when="2140">2140</date>
+			<biblScope unit="page">535</biblScope>
+			<pubPlace>See Robinson; New York</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b34">
+	<analytic>
+		<title level="a" type="main">Climate Realism, Capitalist and Otherwise</title>
+		<author>
+			<persName><forename type="first">Anna</forename><surname>Kornbluh</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Mediations</title>
+		<imprint>
+			<biblScope unit="volume">33</biblScope>
+			<biblScope unit="page" from="99" to="118" />
+			<date type="published" when="2019">2019</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b35">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">Hyperobjects</forename><surname>Morton</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="page">27</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b36">
+	<monogr>
+		<author>
+			<persName><forename type="first">David</forename><surname>Herman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">'</forename><surname>Storyworld</surname></persName>
+		</author>
+		<title level="m">Routledge Encyclopedia of Narrative Theory</title>
+		<editor>
+			<persName><forename type="first">David</forename><surname>Herman</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">Manfred</forename><surname>Jahn</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">Marie-Laure</forename><surname>Ryan</surname></persName>
+		</editor>
+		<meeting><address><addrLine>London</addrLine></address></meeting>
+		<imprint>
+			<publisher>Routledge</publisher>
+			<date type="published" when="2005">2005</date>
+			<biblScope unit="page">570</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b37">
+	<analytic>
+		<title level="a" type="main">Strategies of Cognitive Estrangement in Kim Stanley Robinson&apos;s</title>
+		<author>
+			<persName><forename type="first">Michał</forename><surname>Klata</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Prague Journal of English Studies</title>
+		<imprint>
+			<biblScope unit="volume">10</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page">117</biblScope>
+			<date type="published" when="2021">2021</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b38">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">Robinson</forename></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2140">2140</date>
+			<biblScope unit="page" from="118" to="119" />
+			<pubPlace>New York</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b39">
+	<monogr>
+		<title level="m" type="main">Contemporary Cli-Fi as Anthropocene Literature</title>
+		<author>
+			<persName><surname>Reno</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="page">176</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b40">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">Robinson</forename></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2140">2140</date>
+			<biblScope unit="volume">141</biblScope>
+			<biblScope unit="page" from="399" to="603" />
+			<pubPlace>New York</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b41">
+	<monogr>
+		<title level="m" type="main">Narrative in the Anthropocene</title>
+		<author>
+			<persName><surname>James</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="page">155</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b42">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">Robinson</forename></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2140">2140</date>
+			<biblScope unit="page" from="494" to="116" />
+			<pubPlace>New York</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b43">
+	<monogr>
+		<title/>
+		<author>
+			<persName><surname>Ibid</surname></persName>
+		</author>
+		<imprint>
+			<date>196 and 329</date>
+			<biblScope unit="page">438</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b44">
+	<monogr>
+		<title/>
+		<author>
+			<persName><surname>Ibid</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="volume">530</biblScope>
+			<biblScope unit="page" from="429" to="116" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b45">
+	<monogr>
+		<title/>
+		<author>
+			<persName><surname>Ibid</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="page" from="600" to="265" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b46">
+	<monogr>
+		<title level="m" type="main">Climate Realism, Capitalist and Otherwise</title>
+		<author>
+			<persName><surname>Kornbluh</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="page">112</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b47">
+	<monogr>
+		<author>
+			<persName><forename type="first">Gilles</forename><surname>Deleuze</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Felix</forename><surname>Guattari</surname></persName>
+		</author>
+		<title level="m">A Thousand Plateaus: Capitalism and Schizophrenia, trans. Brian Massumi</title>
+		<imprint>
+			<publisher>University of Minnesota Press</publisher>
+			<date type="published" when="2007">2007</date>
+			<biblScope unit="page">10</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b48">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">Robinson</forename></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2140">2140</date>
+			<biblScope unit="volume">77</biblScope>
+			<biblScope unit="page" from="139" to="495" />
+			<pubPlace>New York</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b49">
+	<analytic>
+		<title level="a" type="main">Staging the Speculative: On Kim Stanley Robinson&apos;s New York 2140</title>
+		<author>
+			<persName><surname>Reno</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Qui Parle: Critical Humanities and Social Sciences</title>
+		<imprint>
+			<biblScope unit="volume">27</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page">155</biblScope>
+			<date type="published" when="2018">2018</date>
+			<publisher>Spencer Adams</publisher>
+		</imprint>
+	</monogr>
+	<note>Contemporary Cli-Fi as Anthropocene Literature. 533; James, Narrative in the Anthropocene</note>
+</biblStruct>
+
+<biblStruct xml:id="b50">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">Robinson</forename></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2140">2140</date>
+			<biblScope unit="volume">46</biblScope>
+			<biblScope unit="page">76</biblScope>
+			<pubPlace>New York</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b51">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">Kim</forename><surname>Markley</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Stanley Robinson</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="page">15</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b52">
+	<monogr>
+		<title level="m" type="main">Transtextual Realism for the Climatological Collective</title>
+		<author>
+			<persName><surname>Johns-Putra</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="page">287</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b53">
+	<analytic>
+		<title level="a" type="main">Life! Life!&quot;: The Precarious Utopianism of Kim Stanley Robinson&apos;s New York 2140</title>
+		<author>
+			<persName><forename type="first">Raphael</forename><surname>Kabo</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Utopian Studies</title>
+		<imprint>
+			<biblScope unit="volume">32</biblScope>
+			<biblScope unit="issue">202</biblScope>
+			<biblScope unit="page" from="267" to="268" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b54">
+	<monogr>
+		<author>
+			<persName><forename type="first">Claire</forename><surname>Colebrook</surname></persName>
+		</author>
+		<title level="m">Death of the PostHuman: Essays on Extinction</title>
+		<meeting><address><addrLine>Ann Arbor, MI</addrLine></address></meeting>
+		<imprint>
+			<publisher>The Great Derangement</publisher>
+			<date type="published" when="2014">2014</date>
+			<biblScope unit="page" from="9" to="26" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b55">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">Robinson</forename></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2140">2140</date>
+			<biblScope unit="page">603</biblScope>
+			<pubPlace>New York</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

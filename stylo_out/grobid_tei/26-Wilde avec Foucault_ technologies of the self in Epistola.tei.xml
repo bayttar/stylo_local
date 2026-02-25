@@ -1,0 +1,579 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Wilde avec Foucault: technologies of the self in Epistola</title>
+				<funder ref="#_XPqSxuY">
+					<orgName type="full">ERC (HORIZON EUROPE European Research Council)</orgName>
+				</funder>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author role="corresp">
+							<persName><forename type="first">Nidesh</forename><surname>Lawtoo</surname></persName>
+							<email>n.lawtoo@hum.leidenuniv.nl</email>
+							<affiliation key="aff0">
+								<orgName type="department">Leiden Center for the Arts in Society</orgName>
+								<orgName type="institution">Leiden University</orgName>
+								<address>
+									<settlement>Leiden</settlement>
+									<country key="NL">The Netherlands</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Oscar</forename><surname>Wilde</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Leiden Center for the Arts in Society</orgName>
+								<orgName type="institution">Leiden University</orgName>
+								<address>
+									<settlement>Leiden</settlement>
+									<country key="NL">The Netherlands</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><roleName>Profundis</roleName><forename type="first">;</forename><surname>De</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Leiden Center for the Arts in Society</orgName>
+								<orgName type="institution">Leiden University</orgName>
+								<address>
+									<settlement>Leiden</settlement>
+									<country key="NL">The Netherlands</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Michel</forename><surname>Foucault</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Leiden Center for the Arts in Society</orgName>
+								<orgName type="institution">Leiden University</orgName>
+								<address>
+									<settlement>Leiden</settlement>
+									<country key="NL">The Netherlands</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Pierre</forename><surname>Hadot</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Leiden Center for the Arts in Society</orgName>
+								<orgName type="institution">Leiden University</orgName>
+								<address>
+									<settlement>Leiden</settlement>
+									<country key="NL">The Netherlands</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Wilde avec Foucault: technologies of the self in Epistola</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date/>
+						</imprint>
+					</monogr>
+					<idno type="MD5">198E6BEFB01292C0BA9B67DA7A855637</idno>
+					<idno type="DOI">10.1080/0950236X.2025.2551343</idno>
+					<note type="submission">Received 16 January 2025; Accepted 27 June 2025</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.0" ident="GROBID" when="2026-02-25T19:55+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>This article reframes Oscar Wilde's letter from prison, De Profundis, now retitled Epistola: In Carcere et Vinculis, in light of ancient epistolary writings concerned with the ethical care of the self. I argue that Wilde's epistolary account of his 'spiritual experience' should be reinscribed in what Michel Foucault calls 'technologies of the self' and Pierre Hadot calls 'spiritual exercises' central to ancient philosophy. This genealogical reframing of Epistola has both ethical and aesthetic implications: on the one hand, it shows that the philosophical foundations of Epistola are rooted in ethical practices of 'care of the self', or souci de soi, which were central to Socratic, Epicurean and Stoic traditions and pave the way for Christian confessional practices; on the other hand, Wilde's aestheticisation of Christ as a spiritual but also artistic model to imitate turns the self into a work of art along lines that anticipate Foucault's late turn towards an aesthetics of existence. Once these two sides of are joined by reading Wilde avec Foucault, a new ethical and aesthetic picture of Epistola begins to take form.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>I have determined to write to you myself, as much for your sake as for mine.</p><p>(Oscar Wilde, Epistola)</p><p>The genre of epistles shows a side apart from the philosophy of the era. The examination of conscience begins with letter writing. (Michel Foucault, 'Technologies of the Self')</p><p>For a long time, Oscar Wilde's De Profundis represented a radical turn in Wilde's poetics. Prior to his imprisonment for 'acts of gross indecency' at Reading Gaol, Wilde had consistently celebrated a decadent, hedonistic, and playful affirmation of l'art pout l'art that made works like The Picture To be sure, Wilde's letter remains a protean work that escapes unitary definitions and benefits from a plurality of perspectives sensitive to biographical, confessional, spiritual, aesthetic, psychological, and ethical principles among others. And yet, we should be careful to hastily conclude that it is based on a 'theology that is compelling if simultaneously lacking in doctrinal consistency', <ref type="bibr">6</ref> for consistency with theology was not Wilde's main preoccupation while in prison. If consistency there is in Epistola it is not with a single doctrine but, rather, with a broader and rather heterogeneous genealogical tradition of epistolary writings that both precede and inform Christian traditions as well. My hypothesis is that Epistola benefits from being reinscribed in a neglected Greco-Roman ethical tradition that used writing in general and epistolary writing in particular as a medium for self-transformation. If it is true, as Regenia Gagnier argues, that Epistola 'illustrates most of the elements of prison literature under modern conditions', 7 I supplement this claim by reinscribing the letter in a longer genealogy of epistolary writing qua spiritual exercises that goes back to classical antiquity and in-forms (gives form to) Epistola as well. It is, in fact, well known that as an early-modernist writer trained in classics, Wilde was well-positioned to articulate genealogical continuities between the ancients and the moderns. Less known is that Epistola is a Janus-faced text that looks back to ancient philosophical traditions and, by doing so, anticipates philosophical developments concerning technologies of the self yet to come.</p><p>This Janus-faced argument on Wilde's technologies of the self takes the following form. On one side, a focus on the ethical foundations of Wilde's 'spiritual experience' (E 99), reveals that what appear, at first sight, to be Christian confessional principles are actually rooted in more ancient, Epicurean, but also Socratic and Stoic 'spiritual exercises', which, as the philosopher and classicist Pierre Hadot has influentially shown, informed both pagan and Christian philosophical traditions concerned with what he called, 'a metamorphosis of personality'. <ref type="bibr">8</ref> On the other side, Wilde's re-enactment of ethical principles of self-care via an epistolary genre that was once widespread in classical antiquity allows him to anticipate, by almost a century, an ethical turn in continental philosophy sensitive to what Michel Foucault, echoing Hadot, called 'care of the self', or souci de soi. <ref type="bibr">9</ref> If critics have argued that 'Foucault was never more Wildean than when he addressed the aesthetics of sexuality by discussing gay culture and sadomasochism', 10 genealogical lenses reveal that Wilde was perhaps never more Foucauldian than when he addressed the arts of the self via the technology of epistolary writing, thereby paving the way for the ethical turn in the late <ref type="bibr">Foucault. 11</ref> A comparison between Foucault's technology of the self with Wilde's technique of self-writing in Epistola reveals deeper, and so far largely unnoticed continuities between their respective understanding of the souci de soi. Despite these different theoretical orientations, both sides of this Janus-faces letter reveal that Wilde's ethical souci de soi is not opposed to aestheticism. On the contrary, it paves the way for technologies, or as Foucault also calls them, arts of the self, that treat human life itself as a plastic, impressionable, and in our sense, mimetic work of art. 12 My wager, then, is that Wilde's Epistola turns out to be an untimely manifestation of a mimetic souci de soi which entails a care for others via an aesthetic of existence that is currently returning on the philosophical scene.</p><p>Let us thus reinscribe Epistola in the broader tradition concerned with philosophical self-knowledge, ethical self-writing, and aesthetic transformation to which it belongs.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="1.">Delphic principles: caring for self-knowledge</head><p>Once we broaden our genealogical perspective beyond the Christian frame that initially dominated the critical reception of De Profundis so as to include more ancient, aesthetic, but also ethical and spiritual philosophical traditions Wilde was familiar with due to his training in classics, a more complex picture of Epistola begins to take form. From the very first lines, in fact, Wilde makes clear that the main objective of the letter is to generate a performative, and thus transformative effect in both his reader and his own self. <ref type="bibr" target="#b1">13</ref> Addressing Douglas after almost two years of silence on the latter part, Wilde begins his epistle as follows: 'Dear Bosie, After long and fruitless waiting I have determined to write to you myself, as much for your sake as for mine' (E 37). It is thus as much for the sake of the other, as for the sake of the self, that Wilde starts writing in the first place. That the self is tied to the other, and vice versa, should not come as a surprise in an author who made both sexual and mimetic influences between self and others a central concern of his aesthetics. <ref type="bibr" target="#b2">14</ref> But his initial intention is now less focused on aestheticism and beauty than on ethics and transformation. His goal, in fact, is to attain a higher level of joy, happiness, perhaps even wisdom, and above all, peace of mind, which concerns as much the addressed other as the writing self. Thus, Wilde specifies: I have no doubt that in this letter which I have to write of your life and of mine, of the past and of the future, of sweet things changed to bitterness and of bitter things that may be turned to joy, there will be much that will found your vanity to the quick. If it prove so, read the letter over and over again till it kills your vanity (37).</p><p>From the outset, it is indeed clear that this kind of epistolary writing does not simply aim to represent the reality of Wilde's imprisonment to Douglas, or blame his former lover for the events that led up to his tragic downfallthough that is part of the letter too. Rather, Wilde's primary concern is to use the artistic medium of epistolary writing as an art (technē) to generate a transformative ethical effect both in the reader's character (ēthos) and in the suffering (pathos) of the self-writing, ethics, and transformation being genealogically entangled throughout Epistola.</p><p>That the root of Wilde's suffering, or pathos, is primarily ethical is confirmed as Wilde subordinates aesthetics to ethics when it comes to the pathological effect of his relationship with Douglas. As he puts it: 'Ethically you had been even still more destructive to me than you had been artistically' (E 44). It follows, then, that Wilde needs to transform the ethical foundations of character first (both his, and his former lover's) to subsequently reaffirm what he calls the 'truth' (110) of his artistic vocation -signalling an interplay between ethics, truth, and art. This also means that in order to turn 'bitterness' into 'joy', Wilde does not spare Douglas a severe evaluation of the latter's ethical and aesthetic failures. The list is long and painful. He mentions, for instance, Douglas' 'lack of any power of sustained intellectual concentration' (39), 'a blind and exaggerated vanity' (48), an 'entire lack of imagination' (56), 'lack of any control over [his] emotions' (42) often leading to 'an excess of vulgar violence' (42), stretching to include unnecessary pleasures such as 'an inexhaustible greed' (43) and a 'mania for absurd extravagances in eating and drinking' (46), among other excessive hedonistic pleasures qua pathologies in which Wilde had himself partaken and are now in need of a cure to turn suffering back into joy.</p><p>The models Wilde later convokes for inspiration are Christian and spiritual in orientation, but it is crucial to realise that the ethical principles Epistola first turns to stem from Greek philosophy. <ref type="bibr" target="#b3">15</ref> Thus, Wilde convokes a Delphic principle that is commonly associated with Greek philosophy in general and Socratic ethics in particular as he stings Douglas' soul as follows: 'The real fool, such as the gods mock or mar, is he who does not know himself' (E 38). Wilde is echoing the famous maxim 'know thyself' [gnōthi seauton] inscribed on the Temple at Delphi, which provides founding philosophical figures like Socrates with an ethical principle to affirm a life worth living. Thus, he later continues: 'In one sense of the word it is of course necessary, as the Greek oracle said, to know oneself: that is the first achievement of knowledge' (124). This is indeed an ancient Socratic principle if there is one. It provides a philosophical, ethical perspective whose goal is not simply to inform the addressee but, rather, to transform him in line with ethical principles of self-knowledge that can be traced back to Plato's dialogues. Wilde, for one, explicitly acknowledges his Platonic influence as he says that a previous letter he had written to Douglas 'can only be understood by those who have read the Symposium' (53). Wilde would have thus agreed wholeheartedly with Pierre Hadot that 'it is the figure of Socrates … who remains the living call that awakens moral conscience', for 'the Socratic dialogue appears as a spiritual exercise practiced in common; it invites to an interior spiritual exercise, that is, to an examination of conscience, to the attention to the self, in brief, to the famous "know-thyself"'. <ref type="bibr" target="#b4">16</ref> This philosophical reframing already allows us to see that Wilde's genealogical debts to ancient philosophy in general and Socrates in particular are broader than those he explicitly acknowledges. In addition to the Symposium, there is another Platonic dialogue whose ethical imperative will have a strong influence on a whole tradition of Greco-Roman epistolary self-writing that concerns us, perhaps stretching to inform Wilde's Epistola as well. The genealogical connection between Wilde and Socrates is reinforced if we recall that the Delphic ethical imperative also appears in a Socratic dialogue concerned with the education of a beautiful, yet vain, aristocratic youth who, not unlike Bosie, is not particularly inclined towards selfknowledge. And yet, out of an ethical concern for his soul, Socrates attempts to educate him nonetheless, perhaps because he also happens to be in love with this beautiful, vain, aristocratic lover who not only appears in the Symposium. The dialogue in question, you will have guessed, is a now spurious but once very influential Platonic dialogue: Alcibiades. <ref type="bibr" target="#b5">17</ref> It is titled after a prominent historical figure of aristocratic descent who will play a key role in Athens' downfall and whose political ambitions, as Socrates notes, are radically at odds with his lack of self-knowledge. <ref type="bibr" target="#b7">18</ref> As Socrates puts it to his student qua lover towards the end of the dialogue: 'Whoever is commanding us to "know thyself" is calling upon us to make known the soul.' <ref type="bibr" target="#b8">19</ref> There is thus an ancient and rather influential genealogical connection that ties self-knowledge to the formation and transformation of the soul which Wilde inherits as he convokes the Delphic principle. Thus, Wilde reminds Douglas that 'to regret one's own experiences is to arrest one's own development […] is no less than a denial of the soul' (E 100). The parallel could not be clearer and it is striking that, to my knowledge, it has not been noted before: Just as Socrates who claims to be 'the only lover' of Alcibiades, for he loved not his possessions but his soul, <ref type="bibr" target="#b9">20</ref> stings, like a gadfly, his young, vain lover, so Wilde stings his former lover whose 'vanity' counts as his 'chief faults' (41) with the same Delphic principle by urging him not to deny his soul and start caring for it.</p><p>And yet, Wilde's ethical concern goes further. He is not simply echoing the well-known Delphic principle predicated on an abstract self-knowledge of a pre-existing, disembodied, immortal Soul that will continue to inform both an idealist tradition in western philosophy and, later, Christianity as well. Instead, Wilde has a much more down-to-earth, materialist, and embodied yet still ethical conception of the soul in mind. Hence, he specifies that his striving for what he calls 'truth' or, alternatively, 'wisdom', is not limited to the imperative of self-knowledge alone; rather, it is oriented towards a practical transformation of a soul that is unknowable in advance, for experimentally oriented humans often do not know exactly where they are going in the first place. Wilde continues his line of argumentation as follows: 'People whose desire is solely for self-realization never know where they are going'; and he adds, 'to recognize that the soul of man is unknowable is the ultimate achievement of wisdom' (E 124). The ethical telos that drives Epistola is thus not so much knowing the self in abstract theory, but being or, rather, becoming a different self in ethical practice. <ref type="bibr" target="#b10">21</ref> Adopting what Wilde calls elsewhere a 'use of archaeology' attentive to performative 'effects', <ref type="bibr" target="#b11">22</ref> we begin to sense that he develops a more empirical, down-toearth, ethical -but as we shall see, ultimately aesthetic -approach to truth and wisdom, one that was left in the shadow of a Platonic idealist tradition but was not foreign to Socratic dialogues -if only because, as Michel Foucault reminds us, it was already at play in Alcibiades.</p><p>It is well-known that in the last phase of his career, Foucault turned to ethical concerns with technologies of the self in order to advocate a care for the self in line with ancient philosophy in general. Less known is that he finds in Plato's Alcibiades's a privileged starting point central to later Epicurean, Stoic, and later Christian traditions. Interestingly, despite their differences, all these schools of thought privileged the epistolary medium as a tool for ethical transformation. Now, Foucault also argues that these technologies were not primarily geared towards self-knowledge but towards self-transformation; they were not driven by the Delphic maxim, 'know thyself' (gnōthi seauton), but by the Socratic and later Stoic and Epicurean maxim, 'take care of yourself' (epimeleisthai sautou). <ref type="bibr" target="#b12">23</ref> As he puts it, it is in Alcibiades that 'we find the first appearance of the phrase epimeleisthai sautou', stressing the down-to-earth meaning of epimeleisthai linked to 'taking pains with one's holding and one's health', for it is a 'medical term to signify the fact of caring'. <ref type="bibr">24</ref> With Alcibiades as a precursor of techniques of caring for the self, Foucault then generalises the goal of later, Greco-Roman traditions including Epicurean and Stoic traditions, in immanent terms that confirm the self-care principles we already begun to see at play in Wilde's Epistola. As Foucault puts it:</p><p>The precept of the 'care of the self' [souci de soi] was, for the Greeks, one of the main principles of cities, one of the main rules for social and personal conduct and for the art of life. For us now, this notion is rather obscure and faded. When one is asked 'What is the most important moral principle in ancient philosophy? the immediate answer is not, 'Take care of oneself' but the Delphic principle, gnōthi seauton ('Know yourself') […] Without doubt our philosophical tradition has overemphasized the latter and forgotten the former. <ref type="bibr">25</ref> Wilde not only fundamentally agrees with Foucault in theory; he also puts the ancient principle of epistolary writing to use via a practice of truthtelling, or parrhesia, whose ultimate aim was not abstract self-knowledge but the experiential evolution of character instead (both his and his lover's). That Wilde's choice of epistolary writing is indeed consistent with his ethical intentions is once again confirmed by Foucault's genealogy of epistolary writings about the self. Foucault notes that in this Greco-Roman tradition 'writing was also important in the culture of the care of the self', 'including writing treatises and letters to friends to help them, and keeping notebooks in order to reactivate for oneself the truths one needed'. <ref type="bibr">26</ref> And he adds:</p><p>The self is something to write about, a theme or object (subject) of writing activity. That is not a modern trait born of the Reformation or of Romanticism; it is one of the most ancient Western traditions. It was well established and deeply rooted when Augustine started his Confessions. <ref type="bibr">27</ref> Prior to a Christian tradition of epistolary writings that finds in the Epistles of Paul collected in the New Testament a major example, a minor, underdiscussed, but nonetheless important epistolary tradition traversed ancient Greco-Roman philosophy in general and was prominent in Epicurean and Stoic traditions in particular, which will play a central role in the formation of Christian confessional practices -stretching to in-form (give form to) Wilde's Epistola as well. 28</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.">Epistolary self-writing: techniques of ethical care</head><p>As many critics noted, early in his career Wilde turned to Epicurus as a source of inspiration for the type of hedonism he advocated in The Picture of Dorian Gray, a New Hedonism that lacked moral foundations and led to Walter Pater's dismissal as 'dainty Epicurean theory'. <ref type="bibr">29</ref> Less noted is that in Epistola Wilde developed a care of the self that comes closer to what Pater calls 'true Epicureanism', if only because it includes 'the moral sense'. <ref type="bibr">30</ref> Epistola, in fact, does not mark a simple repudiation of his former hedonistic life. As Wilde clearly puts it: 'I don't regret for a single moment having lived for pleasure' (E 109). Yet, like Epicurus before him, Wilde now distinguishes between 'necessary' and 'unnecessary' pleasures, celebrating the former as the door to happiness and condemning the latter as the cause of disruption of 'peace of mind' or ataraxia, 31 as his critique of Douglas' excesses makes clear. He also stresses that his faith remains rooted in immanent sensations oriented towards this world, rather than towards unseen afterworlds. Thus, Wilde adds: 'The faith that other give to what is unseen, I give to what one can touch, and look at. My gods dwell in temples made with hands; and within the circle of actual experience is my creed made perfect and complete' (98). Complicating the expectations set up by the initial Christian title, De Profundis, Wilde makes clear that his focus remains on immanent, material sensations that can be seen and touched with the hands, and thus experienced aesthetically -if only because aesthesis means sensation and is rooted on what one can touch and look at, but also hear and smell -rather than unseen transcendental ideals to be believed blindly. Epistola is thus far from painting a picture of Wilde has having turned his back to aesthetics. On the contrary, it entails a deepening of aesthetics via a hedonistic ethics geared towards turning the self itself into a work of art, as we shall confirm.</p><p>Wilde's writing of Epistola was, among other things, a mnemonic spiritual exercise geared towards both remembering and transforming personal experiences via technologies of self-writing rooted in ancient philosophical principles. <ref type="bibr">32</ref> Given his training in classics in general and fascination for Epicurus in particular, Wilde certainly remembered that contrary to Plato's idealism, Epicurus had made empirical sensations and the experiential affections they entail the foundations of the philosophy of the Garden. Located close to the Academy, this was a pluralist, communal space for philosophical self-cultivation where Epicurus lived and taught. Open to all, including women and slaves, the motto inscribed on the Garden's gate became the identifying principle of Epicureanism in general, an ethical, hedonistic principle readers of Wilde will be familiar with as well: 'here pleasure is the highest good'. <ref type="bibr">33</ref> Little is left of Epicurus's writings, but the traces that remain resonate strikingly with principles internal to Wilde's Epistola. Diogenes Laertes, whose Lives of Ancient Philosophers includes not only Epicurus' few remaining letters, or epistles, but also summaries of lost works, like Canon, reports that in the latter, Epicurus 'says that the criteria for truth are sensations (aisthêsis) and preconceptions (prolepsis), and affections; but for Epicureans there are also imaginative perceptions and thoughts'. <ref type="bibr">34</ref> Sensations, affections, as well as imaginative perceptions and thoughts are indeed a leitmotif in Epistola as well, since Wilde considers the 'imagination as the basis of all spiritual and material life' (E 119). While the motivation to write the letter is ethical, the medium remains fundamentally entangled with aesthetics. For Wilde, as for Epicurus before him, spiritual life is not opposed to but, rather, rooted in the materiality of an aesthetic life. His faith in the senses (what 'one can touch, and look at') is also in line with Epicurus' Letter to Menoeceus, as he states that 'all good and all evil reside in sensation (aisthêsis)'. <ref type="bibr">35</ref> From the centrality of sensations and affections to the celebration of imaginative perceptions and thoughts, from his affirmation of moderation in necessary pleasures to his stress on ethical transformation, we begin to sense that Wilde's ethical concern with 'truth' and 'wisdom' in Epistola are in line with an ancient philosophical tradition that goes beyond -mind/ body, ethical/aesthetic, philosophical/spiritual -dualisms and is concerned with what Hadot, calls 'philosophy as a way of life'. <ref type="bibr">36</ref> More precisely, it entails an attempt to reach a 'true Epicureanism' by purging his philosophy of the excesses of Dorian Gray's New Hedonism, while retaining a solid ethical orientation in a care of the self rooted to this world characteristic of Epistola.</p><p>This hypothesis is confirmed if we continue to reinscribe Epistola in a longer tradition of epistolary writings that establish complex continuities between Christian and Greco-Roman traditions of self-writing that Wilde -anticipating both Hadot and Foucault -helps us bring to the fore. In fact, had Foucault stretched his interests in aestheticism beyond Baudelaire and Nietzsche, he would have found in Wilde's writings in general and in Epistola in particular a brilliant example of the interplay of both ethical and aesthetic principles central to the epistolary tradition of 'self writing' and 'technologies' or 'arts of the self' Foucault started to excavate in the last years of his life. Since Foucault did not live long enough to turn to Wilde, we shall do that for him, in his writerly company so to speak.</p><p>What Foucault says of the use of dialogues, notebooks, and especially, letters, or epistles, in Greco-Roman culture in the first two centuries of the empire, including writers from Epicurus to Plutarch, Marcus Aurelius to Seneca, resonates strikingly with the fundamental orientation of Epistola and perfectly applies to Wilde as well:</p><p>Writing was also important in the culture of the care of the self. One of the tasks that defines the care of the self is that of taking notes on oneself to be reread, writing treatises and letters to friends to help them, and keeping notebooks in order to reactivate for oneself the truths one needed. <ref type="bibr">37</ref> Self-writing was thus not simply descriptive, or constative; it was meant to generate a performative effect on both writer and addressee. The immanent assumption was that by putting precepts in writing, having them at hand as guides of conduct (hupomnēmata) to meditate repeatedly, these principles would become impressed on the soul, making a transformation of character possible, often via what Foucault calls 'philosophical love' that entails the 'relation to a master'. <ref type="bibr" target="#b13">38</ref> We are thus better placed to understand the intended performative effect of Epistola conveyed most succinctly in a formula Wilde expresses to Douglas as follows: 'You see that I have to write your life to you and you have to realise it' (E 70). Wilde's epistolary technology of the self is based on a type of self-writing explicitly intended to generate performative effects on the life of the other.</p><p>We are now in a position to see and feel that what was true for ancient Greco-Roman traditions of self-writing remains true for Wilde's Epistola as well: the self was not considered in autonomous isolation but, rather, as part of a structure of social relations, reciprocal relations often mediated by writings aiming to making or remaking the character or ethos of others. This is the reason Hadot, paving the way for Foucault, writes that 'the care of the self [souci de soi] is not opposed to the care of the city [souci de la cité]' and care of others [souci des autres]. <ref type="bibr" target="#b14">39</ref> Furthering this line of inquiry via both Stoic and Epicurean traditions, and confirming the intimate link between ethics and aesthetics central to our argument as well, Foucault speaks of 'ethopoietic writing' whose aim is as much to transform the character, or ethos, of the other who is addressed poetically as the character of the self who is writing. He does so in terms that once again resonate with Wilde's intentions: 'The letter one writes acts, through the very action of writing, upon the one who addresses it, just as it acts through reading and rereading it on the one who receives it.' <ref type="bibr" target="#b15">40</ref> As Seneca had already put it: '"The process is mutual; for men learn while they teach."' 41 And in a passage whose resonances reach the heart of Wilde's Epistola, Foucault comments:</p><p>The letter one sends in order to help one's correspondent -advise him, exhort him, admonish him, console him -constitutes for the writer a kind of training … it also constitutes a certain way of manifesting oneself to oneself and to others […] It is a way of giving ourselves to that gaze about which we must tell ourselves that it is plunging into the depths of our heart (in pecticis intimum introspicere). <ref type="bibr" target="#b16">42</ref> Plunging in the depths of the heart, and thus of aesthetically felt sensations, via a correspondence that is both geared towards transforming the author, while serving as a training for the self, reveals that the depth of De Profundis is not only spiritual but also ethical, or rather ethopoetic, not only of Christian or transcendental inspiration but of a much more ancient, Greco-Roman and thus immanent orientation. Hence, Wilde does not simply echo the Delphic principle in writing; rather, he gives his ex-lover/student a practical exercise whose genealogical foundations we are now in a position to full grasp as Wilde opens Epistola with the following injunction: 'read the letter over and over again until it kills you vanity' (E 37).</p><p>On the shoulders of this philosophical tradition, Wilde turns writing into an ethopoetic training that consists in plunging the depths of a wounded heart in view of transforming the other and achieve peace of mind within the self. That he is quite conscious of using writing as a technology of transformation is made explicit as he writes, for instance:</p><p>In all that I have said I am simply concerned with my own mental attitude towards life as a whole; and I feel that not to be ashamed of having been punished is one of the first points I must attain to, for the sake of my own perfection, and because I am so imperfect. (E 102)</p><p>Here we see yet another major Epicurean, but also Stoic technique expressed in self-writing conceived as a training to be realised in life. Despite the disagreements between competing philosophical traditions, what ultimately matters in practice when it comes to the care of the self is not the reality of suffering itself but our mental attitude towards it. As the Stoic philosopher Epictetus had famously summarised it: 'what troubles us are not things but our judgment of things'. <ref type="bibr" target="#b17">43</ref> Hence, the ethical focus geared towards obtaining peace of mind, or ataraxia, should be on changing our mental attitude towards a painful condition rather than the condition itself, if only because the former depends on us, the latter does not. This is, after all 'the fundamental dogma of stoicism' <ref type="bibr" target="#b18">44</ref> that, for ancient philosophers, should always be at hand to meditate. Hence Wilde does precisely what Epictetus suggests: 'one must write them; one must read them'. <ref type="bibr" target="#b19">45</ref> After this genealogical detour via ancient techniques of writing the self we can confirm our initial hypothesis concerning the ethopoetic foundations of Epistola: Wilde's ethical advice is not simply abstract and theoretical, geared towards knowing himself; rather, the advice is ethopoetic for it is intended to transforming the self via a practice of truth-telling or parrhesia that, as Foucault also stressed, 'is the constitutive and indispensable element of the relation between souls' central to the care of the self and others.' <ref type="bibr" target="#b20">46</ref> It is thus no accident that Wilde also aligns his technology of the self with the ethical principle of parrhesia as he writes: 'I have said to you that to speak the truth is a painful thing. To be forced to tell lies is much worse' (E 141). Epistola is explicitly conceived as a spiritual exercise in truth telling. And it is because the care of the self depends on the relation of truth with another self that lying is worse than the effort of speaking the painful truth -which is also what Wilde had advocated from the very first lines.</p><p>The ancient principles that inform Epistola beginning, middle, and end allow us to reframe it as part of an ancient epistolary technology of the self that was once well-known in ancient philosophy and, in characteristic fashion, Wilde puts to modern, transformative use. In a passage that sums up these ethopoetic principles, Wilde, anticipating Foucault, makes clear that his intention is not only to denounce an 'unjust system' that turns punitive techniques into disciplinary techniques of power (his critical move); <ref type="bibr" target="#b22">47</ref> he also goes beyond critique by overturning perspectives in order to affirm a care of the self via an immanent training rooted in everyday life and geared towards the transformation of his own character (his ethopoetic move). As Wilde puts it in a passage worth quoting at length for it sums up the entire trajectory from ethics to a poetic self-transformation via spiritual exercises qua writing technologies we have been tracing so far: But, somehow, I have got to make both of these things just and right to me. And exactly as in Art one is only concerned with what a particular thing is at a particular moment to oneself, so it is also in the ethical evolution of one's character. I have got to make everything that has happened to me good for me. The plank bed, the loathsome food, the hard ropes shredded into oakum till one's fingertips grow dull with pain, the menial offices with which each day begins and finishes […] the silence, the solitude, the shame -each and all of these things I had to transform into a spiritual experience (E 99; my emphasis)</p><p>As in art, so in ethics: Wilde's 'spiritual experience' is, indeed, an ethical experience in which the art or techne of epistolary writing becomes a technology of the self in which the 'meticulous concern with the details of daily live' serve as a mnemonic exercise to 'reactivate for oneself the truths one needed'. <ref type="bibr" target="#b23">48</ref> As Marcus Aurelius had already put it, echoing Epictetus: 'Concerning everything that provokes sadness in you, remember to use this "dogma": not only this is not an unhappiness, but it is a happiness to endure it with courage.' 49 Given Wilde's explicit aim that his goal is to 'learn how to be happy' (E 102), we should not be surprised to find ancient -both Epicurean and Stoic -ethopoetic, spiritual principles in Epistola concerned with the courage of happiness. On the Epicurean side, he shares with Epicurus the goal to achieve an 'absence of troubles in the soul', or ataraxia, vital to achieving 'the goal of a happy life'. <ref type="bibr" target="#b25">50</ref> On the Stoic side he also affirms the acceptance of ills he cannot change and must 'convince [him]self that they are not real ills'. <ref type="bibr" target="#b26">51</ref> As Wilde's puts it, speaking of his poverty and other material ills: 'I can school myself to worse than that' (E 98), a schooling that is not simply abstract and theoretical but practical and deeply felt (aesthesis) for it concerns the transformation of his character (ethos) he aims to achieve by writing Epistola.</p><p>In sum, Wilde relies on his personal experience of mimetic pathos, or suffering, to further a classical concern with speaking the truth (parrhesia) and care of the self (epimeleisthai sautou) via the etho-poetic art (techne) of epistolary writing. He does so in life-affirmative, deeply felt, aesthetic terms that stive for peace of mind (ataraxia) in view of promoting a happy life, and perhaps, an intensification of individuality as well. As Foucault noted, the ethical stakes of 'self writing' were not only a detachment from material possessions; they also concerned what he calls an 'intensification of subjectivity'. <ref type="bibr">52</ref> It is thus no accident that Wilde sums up the performative effects of his souci de soi as follows: 'The external things of life seem to me now of no importance at all. You can see to what intensity of individualism I have arrived -or am arriving rather, for the journey is long' (E 97). What we must stress as a last genealogical step is that along the journey, Wilde never stopped injecting (immanent) aesthetic categories into his epistolary self writing in view of turning his own self into a work of art.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.">Notes towards an aesthetics of existence</head><p>We have seen that in Epistola, Wilde steps back to a marginalized tradition of epistolary writings as a training in self-care that was once dominant in ancient philosophy, yet will have to wait almost a century after Wilde's death before re-turning to the forefront of the philosophical scene. What we insist on in guise of conclusion is what was already central to the beginning and middle of our argument: Wilde not only troubles the distinction between the ancients and the moderns, Greek philosophy and Christian spirituality, pagan models and Christian models; he also brings the ethical and spiritual foundations of self-care back in touch with his aesthetic principles that inform what we could call his art of the self. This conjunction between ethics and aesthetics is not new among modernist authors. Foucault, for one, defined Charles Baudelaire 'one the most acute [consciousness] in the nineteenth century' because his dandysme inaugurates modern man by which he mans, 'the man who tries to invent himself'. <ref type="bibr" target="#b27">53</ref> What we add is that in Epistola Wilde supplements an ancient paradox to this aesthetic tradition by position the experience of imitation, or mimesis, as central to the modernist re-invention of his self.</p><p>In many ways, what Foucault says of Baudelaire late in his career equally applies to Wilde's work in general and to Epistola in particular: 'From the idea that the self is not given to us, I think that there is only one practical consequence: we have to create ourselves as a work of art.' <ref type="bibr" target="#b28">54</ref> Upon his release from prison, as he first met André Gide at Berneval, Wilde made the exact same claim: '"My life is like a work of art."' <ref type="bibr" target="#b29">55</ref> This is, after all, the essence of dandysme, which as Foucault notes, cannot be dissociated from what he calls an 'indispensable asceticism'. <ref type="bibr" target="#b30">56</ref> And yet, if Baudelaire's dandysme originates from artistic reflections in Parisian salons, Wilde's asceticism emerges from his lived experience in British prisons. In this sense, Wilde goes perhaps further than Baudelaire in the exploration of the ethical profundity of the arts of the self. His inner experience with ascetic practices that emerges from the suffering of confinement and punitive labour, supplemented by the use of epistolary writing as a spiritual exercise, provides him with a unique, imaginative, but still mimetic stimulus to turn the self into an original work of art. In a paradox that in-forms his corpus as a whole, <ref type="bibr" target="#b32">57</ref> Wilde does so by turning the experience of what the Greeks called mimesis and the Latins called imitatio as an ethical, spiritual, as well as aesthetic principle for an original technology of self-fashioning.</p><p>If Pater had turned Plato, the enemy of poetry, into an artistic model that, paradoxically, prefigures aestheticism, in a mirroring mimetic reflection, Wilde turns Christ, the son of God, into an aesthetic model that prefigures the Romantic movement. As he recalls, putting it to Gide 'in some Paris café': 'while metaphysics had but little real interest for me, and morality absolutely none, there was nothing that either Plato or Christ had said that could not be transferred immediately into the sphere of Art and there find its complete fulfilment. [It was a generalization as profound as it was novel]' (E 110). As Wilde sets out to reframe Christ as the 'true precursor of the Romantic movement' whose imaginative qualities make him 'the ultimate type, both in life and in Art' (110), he introduces a new spiritual model to imitate; and yet, he is far from marking a break in his ethics, let alone poetics; rather, he transfers an exemplary spiritual figure who has been traditionally aligned with both religion and a metaphysics beyond the world to his concerns with ethical and aesthetic transformations in this world.</p><p>That imitation is, paradoxically, still the medium that turns a moral or religious reading of Christ into an exemplary ethical-aesthetic model endowed with the (will to) power to shape lives in this world is suggested repeatedly in Epistola. The medieval tradition of imitatio Christi serves as an initial point of anchorage, perhaps unsurprisingly since Wilde's performative drive had led him since his youth to develop a penchant for the 'imitation of saints', often with a comic 'performative' intent. <ref type="bibr" target="#b33">58</ref> While his mimetic pathos is now tragic in orientation, Wilde is nonetheless quick to detach it from theology and religion by rooting it on the side of a human, all too human life. Thus, he writes: 'We do not require the Liber Conformitatum to teach us that the life of St. Francis was the true Imitatio Christi, a poem compared to which the book that bears that name is merely prose' (E 123). As both Hadot and Foucault have shown, it was common in the ethical tradition of the care of the self, which reaches from Greco-Roman antiquity to spiritual exercises central to Christianity -there is no clearcut break between the two traditions genealogically, just as there is no clear-cut break between them in Epistola -to 'reproduce certain examples', <ref type="bibr" target="#b34">59</ref> spiritual examples that, in the medieval period, find in Thomas à Kempis De Imitazione Christi their most famous manifestations. Wilde furthers this genealogical connection while also adding an aesthetic touch in line with his own mimetic ethopoetics. Hence, he relies on the poetry/prose distinction to mark the superiority of a type of imitation at play on the side of Life (St. Francis' imitatio Christi) over the type of imitation at play on the side of a book or Art (Kempis's Imitatio Christi). <ref type="bibr">60</ref> Thus, we are told that St. Francis 'understood Christ, and so he became like him' (123), an indication that, for Wilde, becoming like an exemplary spiritual other so as to feel his suffering, or pathos, rests on a type of 'understanding', or logos, that can be put to artistic use in writing to give poetic form to the self.</p><p>The defining characteristic of imitation, as Wilde understands it, is not simply to mirror ideal models in an afterworld but, rather, to induce a type of sympathy that transgresses the boundaries of individuation in this world. What Wilde says of Christ's 'flamelike imagination' is a thinly disguised mirroring reflection of his own artistic, poetic and mimetic imagination. As Wilde puts it, Christ 'realised in the entire sphere of human relations that imaginative sympathy which in the sphere of Art is the sole secret of creation' (E 110). While the Romantic conception of the imagination has been traditionally conceived as anti-mimetic and based on the autonomous originality of the genius, Wilde complicates this Romantic tradition by tying it -via Christ -it to the mimetic concept of sympathy that is not simply religious or moralistic but affective and thus aesthetic in orientation. That Wilde understands sympathy in affective mimetic terms internal to the etymological origins of sym-pathos (feeling with, not for) is immediately confirmed as he adds: Christ 'pointed out that there was no difference at all between the lives of others and one's own life' (114). While visual mimesis sets up metaphysical distinctions between self and others to be considered from an aesthetic distance, the sym-pathos of Christ manifests a mimetic extension of personality that allows humans to bridge the divide between self and others. Thus, Wilde repeatedly tells Douglas: '"Whatever happens to another happens to oneself"' (110). This is not simply an account of moral sympathy characterising a homo religious; it is, first and foremost, the diagnostic of a sym-pathos characteristic of homo mimeticus. <ref type="bibr">61</ref> We are now in a position to see and feel that the spiritual exercise of imitatio is not only of Christian inspiration; it continues to rest on Greek foundations we have been progressively unearthing as constitutive of Wilde arts of the self. Thus, with characteristic succinctness Wilde immediately adds: 'By this means [mimesis] he [Christ] gave to man an extended, a Titan personality' (E 114). The new personality that Wilde aspires to fashion via the techniques of the self developed in Epistola is, indeed, born out of the interplay of Christian and Greek traditions. Their ethical and spiritual principles, as Foucault and Hadot have shown, and our reading of Epistola confirmed, were genealogically entangled from the beginning. Wilde also adds a confessional, perhaps tragic, but also aesthetic touch to his spiritual model as he aligns Christ with the pathos of a 'Titan personality'.</p><p>Which mythic figure does Wilde have in mind as a model to imitate? Of all the Titans that animated Greek mythology, it is perhaps Prometheus who bears the closest analogy to the type of artistic Christ Wilde imagines in Epistola. This is true for at least two reasons that cut across the ethical-aesthetic, Art-Life divides Wilde has been blurring all along his career: On the side of art, in a heroic downward movement from transcendence to immanence, the mythic figure of Prometheus embraced suffering, or pathos, to provide humans with a divine technological gift, including the gift of poetic writings that will galvanise the Romantic imagination; on the side of life, this technical gift includes a technē tou biou that, as we have seen, can be put to ethopetic use not only to know the self but also, and above all, to care for the self. How? By treating the self as a work of art and thus giving artistic form to that plastic subject matter which is the human soul.</p><p>While a dominant tradition in literary criticism has tended to focus on Wilde's turn to Christian models, our genealogy has shown that it might be more accurate to say that in Epistola a transcendental conception of Christ has been brought down to earth in conjunction with Greek models, both of which have been assimilated into Wilde's mimetic aestheticism. From the confines of prison, literally in chains, Wilde did indeed turn towards spiritual models for ethical and artistic inspiration. And yet, if a Christian model of suffering dominated Western religion and theology up to at least the nineteenth century, Wilde, in a subtle overturning move he shares with both Nietzsche and Baudelaire, transfers this figure back to the immanent sphere of Art, which he then uses as a model to give artistic form to a human, all too human life. Thus, having identified 'Christ's place … with the poets', Wilde can only repeat what he 'had written in The Soul of Man:' namely, 'that he who would lead a Christ-like life must be entirely and absolutely himself' (E 110).</p><p>In the end, for Wilde, being, or rather, becoming oneself, could never be achieved in isolation; it required, paradoxically, the presence of models to imitate. If he realised that his imprisonment marked a turn from joy to sorrow in his life, within the confines of his cell, he put his art to use via a technology of epistolary writing that aspired to go beyond self and others, the ancients and the moderns, Epicurean principles and Christian models, ethics and aesthetics, Life and Art. In the process of writing, he generates a sym-pathos whose aim might have been to turn him -along with the suffering-imaginative and Promethean Christ he identifies with -into an ethical, spiritual, and artistic model for others to imitate.</p><p>To be sure, this exercise in self-writing helped sustain Wilde during his last months in prison, but the mnemonic arts of the self whose foundations reach back to the birth of philosophy in theory was soon forgotten upon his release from prison in practice. Still, to this day, his letter continues to dramatise a souci de soi characteristic of a deeply lived spiritual experience qua aesthetics of existence that, under its adequate title, Epistola, continues to address usreaching to form and, perhaps, transform future readers as well. </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Notes</head></div><figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_0"><head></head><label></label><figDesc>Oscar Wilde and the Simulacrum: The Truth of Masks (London: Legenda, 2015), p. 289. 5. The publication history of De Profundis is complex: the title, De Profundis was originally chosen by Robert Ross, Wilde's friend and literary executor. It refers to a radically shortened and edited version of the manuscript Ross published in 1905. In a letter to Ross, Wilde refers to his letter as Epistola: in Carcere et Vinculis. Wilde, De Profundis, p. 64. For informed historical accounts of the details of the text's publication history, see Ian Small, 'Introduction', in Ian Small (ed.), De Profundis 'Epistola: In Carcere et Vinculis' (Oxford: Oxford 24. Foucault, 'Technologies of the Self', p. 230. On the role of Alcibiades in fostering later technologies of the self, see also pp. 228-31. 25. Ibid., p. 226. Foucault also specifies: In the Hellenistic and imperial periods, the Socratic notion of 'the care of the self' became a common, universal philosophical theme. 'Care of the self' was accepted by Epicurus and his followers, by the Cynics, and by such Stoics as Seneca, Rufus, and Galen. (Ibid., pp. 231-32) 26. Ibid., p. 232. 27. Ibid. 28. For clarity: I am not claiming that Wilde was explicitly reading Epicurean or Stoic authors for inspiration since we know that among the 'twenty or so titles' that he was allowed at Reading Gaol, figured Dante, 'a Greek testament, Keats' poems, the works of Chaucer, and Renan's Vie de Jésus', though Renan was also the author of Marc Aurèle et la fin du monde antique whose ethical themes inform the Vie de Jésus as well. Matthew Sturgis, Oscar Wilde: A Life (London: Head of Zeus, 2018), p. 610. My argument is that the practice of writing Epistola led him, intentionally or not, to re-enact an ancient tradition of truth telling and self writing geared toward the care of the self. 29. Walter Pater, 'A Novel by Oscar Wilde', in Oscar Wilde, The Picture of Dorian Gray, 3rd ed., ed by Michael Patrick Gillespie (New York: W. W. Norton &amp; Company, 2020), pp. 377-80, p. 378. 30. Ibid., 378. 31. Epicurus, 'Lettre à Ménécée', in Daniel Delattre and Jackie Pigeaud (eds.), Diogene Laertes Vie et doctrines des philosophes illustres x, in Les Épicuriens (Paris: Gallimard, 2010), pp. 45-51, p. 47. 32. Stressing the role of memory in Epistola, Garnier argues that 'Wilde fought silence and isolation by writing a biography of Alfred Douglas, whose remembered image recreated for him the world outside'. Garnier, Idylls of the Marketplace, 187; see also 188-92. We specify that Epistola for Wilde is also meant as a technique of self writing geared toward transforming his character inside. 33. Lucius Annaeus Seneca, Letters on Ethics to Lucilius, trans. Margaret Graver and A. A. Long (Chicago: The University of Chicago Press, 2015), 21.10, p. 78. 34. Diogene Laertes Vie et doctrines, p. 12 (my trans.). 35. Epicurus, 'Lettre à Ménécée', p. 46 (my trans.). 36. This is the title of the English translation of Hadot's Qu'est-ce que la philosophie antique, and aptly so, for it is the principle that sums up what ancient philosophy is for Hadot. While some of the habitual routines Wilde was subjected to in prison (silence and isolation, time for remembering the past, routinebased menial work such as oakum picking etc.) bear a family resemblance with the ancient tradition of spiritual exercises as defined below, they are nonetheless part of disciplinary techniques designed to induce Wilde's spiritual degradation. Technologies of power should thus not be confused with technologies of the self, as the latter is an antidote to the former. Since Wilde's freely chosen craft, or techne, was writing, it is the possibility of writing Epistola itself within a disciplinary institution that serves -contra the degrading effects of disciplinary routines -as the life-affirmative technology qua spiritual exercise to care for his self in prison. 37. Foucault, 'Technologies of the Self', p. 232. 60. As Wilde had famously stated in 'The Decay of Lying', 'Life imitates Art far from than Art imitates Life'. Oscar Wilde, 'the Decay of Lying', in Criticism, pp. 72-103, p. 94. 61. See Nidesh Lawtoo, Homo Mimeticus: A New Theory of Imitation (Leuven: Leuven University Press, 2022).</figDesc><table><row><cell>1. Andrew J. Counter, 'Wilde, Zola, Dreyfus, Christ: Fin De Siècle Passions', Rep-</cell></row><row><cell>resentations, 149 (2020), pp. 103-33, p. 116. See also Jean-Melissa Schramm,</cell></row><row><cell>'Wilde and Christ', in Kerry Powel and Peter Raby (eds.), Oscar Wilde in</cell></row><row><cell>Context (Cambridge: Cambridge University Press, 2013), pp. 253-60.</cell></row><row><cell>2. Colm Tóbín, 'Introduction', in De Profundis and Other Prison Writings</cell></row><row><cell>(London: Penguin Books, 2013), p. xxvii.</cell></row><row><cell>3. Schramm, for instance, argues that Wilde's 'self-identifications in his final</cell></row><row><cell>writings are not with "the New Hellenism" but with the old stories of</cell></row><row><cell>sacrifice and martyrdom' predicated on an 'encounter with the risen Christ'.</cell></row><row><cell>Schramm, 'Wilde and Christ', p. 259, p. 260.</cell></row><row><cell>4. Giles Whiteley,</cell></row></table></figure>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="18" xml:id="foot_0"><p>N. LAWTOO</p></note>
+		</body>
+		<back>
+
+			<div type="acknowledgement">
+<div><head>Acknowledgements</head><p>I am grateful to Textual Practice's external reviewers for insightful suggestions that helped me sharpen the argument.</p></div>
+			</div>
+			<div type="funding">
+<div><head>Funding</head><p>This work is based on research that was funded by the <rs type="funder">ERC (HORIZON EUROPE European Research Council)</rs> under grant <rs type="grantNumber">716181</rs>.</p></div>
+			</div>
+			<listOrg type="funding">
+				<org type="funding" xml:id="_XPqSxuY">
+					<idno type="grant-number">716181</idno>
+				</org>
+			</listOrg>
+			<div type="annex">
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>University Press, 2005), pp. 1-30. On the history of a 'composite text, made of different pieces composed at different moments' that are constitutive of the 'manuscript's artificial nature', see Josephine M. Guy and Ian Small, 'Reading De Profundis', ELT, 49.2 (2006) </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Disclosure statement</head><p>No potential conflict of interest was reported by the author(s).</p></div>			</div>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<monogr>
+		<title level="m" type="main">This article supplements an ancient philosophical tradition focused on the care of a mimetic self that was still missing so far</title>
+		<imprint>
+			<date type="published" when="2018-02-01">Symplokē 26.1-2 (2018</date>
+			<biblScope unit="page" from="307" to="328" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<title level="a" type="main">My understanding of performativity considers not only the linguistic power to do things with words (what J. L. Austen calls speech acts) but also the affective power of language and theatrical performances to induce a change in the imitative life of the reader (what I call &apos;mime acts&apos;). For a more detailed discussion see Nidesh Lawtoo</title>
+	</analytic>
+	<monogr>
+		<title level="j">MLN</title>
+		<imprint>
+			<biblScope unit="volume">138</biblScope>
+			<biblScope unit="page" from="1438" to="1459" />
+			<date type="published" when="2023">2023</date>
+		</imprint>
+	</monogr>
+	<note>Wilde&apos;s Mime Acts: Performing Minor Mimesis</note>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title level="a" type="main">For philosophically informed accounts of sexual influence in Dorian Gray, see for instance Jonathan Dollimore</title>
+	</analytic>
+	<monogr>
+		<title level="j">Partial Answers</title>
+		<imprint>
+			<biblScope unit="volume">18</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="213" to="238" />
+			<date type="published" when="2018">2018. 2020</date>
+			<publisher>Oxford University Press</publisher>
+			<pubPlace>Oxford</pubPlace>
+		</imprint>
+	</monogr>
+	<note>The Excess of Mimesis: Reframing The Picture of Dorian Gray</note>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<monogr>
+		<title level="m" type="main">on Wilde&apos;s debt to Plato&apos;s theory of mimesis and its role in education and subject formation specifically, see Lawtoo &apos;The Critic as Mime</title>
+		<editor>Iain Ross, Oscar Wilde and Ancient Greece</editor>
+		<imprint>
+			<date type="published" when="2012">2012</date>
+			<publisher>Cambridge University Press</publisher>
+			<pubPlace>Cambridge</pubPlace>
+		</imprint>
+	</monogr>
+	<note>On Wilde&apos;s debt to Greek philosophy in general</note>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">Excercices</forename><surname>Hadot</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="page">41</biblScope>
+		</imprint>
+	</monogr>
+	<note>my trans.</note>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<monogr>
+		<title level="m" type="main">In confirmation of this genealogical connection, I find out belatedly that Gide, in his memories of Wilde, reports the latter saying that that Douglas&apos;s road &apos;is that of Alcibiades&apos;: No, he does not understand me. He cannot understand me any more. But I keep on telling him that in every letter: we cannot follow the same road. He has his and it is beautiful -I have mine</title>
+		<imprint/>
+	</monogr>
+	<note>His is that of Alcibiades; mine is now that of St. Francis of Assisi</note>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<monogr>
+		<author>
+			<persName><surname>Wilde Qtd</surname></persName>
+		</author>
+		<title level="m">André Gide, Oscar Wilde, trans. and introduction Stuart Mason</title>
+		<meeting><address><addrLine>Oxford</addrLine></address></meeting>
+		<imprint>
+			<publisher>Holywell Press</publisher>
+			<date type="published" when="1905">1905</date>
+		</imprint>
+	</monogr>
+	<note>III, np</note>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<monogr>
+		<title level="m" type="main">Alcibiades as a &apos;beautiful&apos; but also &apos;vain&apos; figure who &apos;loved to be loved&apos;, Martha Nussbaum sums up Socrates&apos; relation to Alcibiades in terms that apply to Wilde&apos;s relation to Douglas as well: &apos;His story is in the end, a story of waste and loss, of the failure of practical reason to shape life.&apos; Martha C. Nussbaum, The Fragility of Goodness: Luck and Ethics in Greek Tragedy and Philosophy</title>
+		<imprint>
+			<date type="published" when="2001">2001</date>
+			<publisher>Cambridge University Press</publisher>
+			<biblScope unit="page">166</biblScope>
+			<pubPlace>Cambridge</pubPlace>
+		</imprint>
+	</monogr>
+	<note>revised ed.</note>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<monogr>
+		<author>
+			<persName><forename type="first">Alcibiades</forename><forename type="middle">I</forename><surname>Plato</surname></persName>
+		</author>
+		<ptr target="https://www.platonicfoundation.org/translation/platos-alcibiades-1/" />
+		<title level="m">The Dialogues of Plato, trans. David Horan, 130e</title>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<monogr>
+		<title level="m" type="main">Alcibiades, 132b. Socrates puts it: &apos;I was the only lover of you, the others loved what belongs to you</title>
+		<author>
+			<persName><surname>Plato</surname></persName>
+		</author>
+		<imprint/>
+	</monogr>
+	<note>but what belongs to you [money, the body] is passing its prime while you [the soul] are beginning to blossom&apos; (A 132b</note>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title level="a" type="main">Already in &apos;Soul of Man Under Socialism&apos; Wilde had stated: &apos;&quot;Know thyself&quot; was written over the portal of the antique world</title>
+	</analytic>
+	<monogr>
+		<title level="s">The Complete Works of Oscar Wilde</title>
+		<editor>
+			<persName><forename type="first">Josephine</forename><forename type="middle">M</forename><surname>Guy</surname></persName>
+		</editor>
+		<imprint>
+			<biblScope unit="volume">4</biblScope>
+			<biblScope unit="page">240</biblScope>
+			<date type="published" when="2007">2007</date>
+			<publisher>Oxford University Press</publisher>
+			<pubPlace>Oxford</pubPlace>
+		</imprint>
+	</monogr>
+	<note>Oscar Wilde, Criticism: Historical Criticism, Intentions, The Soul of Man</note>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<monogr>
+		<title level="m" type="main">The Truth of Masks</title>
+		<author>
+			<persName><forename type="first">Oscar</forename><surname>Wilde</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="page">216</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<monogr>
+		<title level="m" type="main">For succinct and, for our purpose, illuminating summaries attentive to epistolary self writing, see esp. Foucault</title>
+		<imprint>
+			<biblScope unit="page" from="223" to="251" />
+		</imprint>
+	</monogr>
+	<note>Self Writing&apos; and &apos;Technologies of the Self&apos; in Ethics, Subjectivity, and Truth</note>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<monogr>
+		<title level="m" type="main">Foucault specifies that self-writing served as &apos;guide for conduct&apos; or hupomnēmata whose goal was to be &apos;deeply lodged in the soul</title>
+		<imprint>
+			<biblScope unit="page" from="208" to="210" />
+		</imprint>
+	</monogr>
+	<note>Self Writing</note>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<monogr>
+		<title level="m" type="main">Qu&apos;est-ce que</title>
+		<author>
+			<persName><surname>Hadot</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="page">67</biblScope>
+		</imprint>
+	</monogr>
+	<note>my transl.</note>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<monogr>
+		<title level="m" type="main">Self Writing</title>
+		<author>
+			<persName><surname>Foucault</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="page">214</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<monogr>
+		<title/>
+		<author>
+			<persName><surname>Ibid</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="page">217</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<monogr>
+		<title level="m">Epictetus qtd in Pierre Hadot, Introduction aux Pensée de Marc Aurèle: La citadèle intérieure</title>
+		<meeting><address><addrLine>Paris</addrLine></address></meeting>
+		<imprint>
+			<publisher>Fayard</publisher>
+			<date type="published" when="1992">1992</date>
+			<biblScope unit="page">93</biblScope>
+		</imprint>
+	</monogr>
+	<note>my transl.</note>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<monogr>
+		<title level="m" type="main">Introduction</title>
+		<author>
+			<persName><surname>Hadot</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="page">93</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<monogr>
+		<author>
+			<persName><forename type="first">Qtd</forename><surname>Epictetus</surname></persName>
+		</author>
+		<title level="m">Hadot, Introduction</title>
+		<imprint>
+			<biblScope unit="page">93</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<monogr>
+		<title level="m" type="main">As Foucault continues: when a soul wants to take care of itself [prendre soin], when it wants to ensure this epimeleia heautout that is fundamental as it wants to therapeusesthai, to heal itself [se soigner] it needs another soul, and this other soul must have the parrêsia</title>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<monogr>
+		<author>
+			<persName><forename type="first">Michel</forename><surname>Foucault</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">La</forename></persName>
+		</author>
+		<title level="m">Discours et vérité</title>
+		<editor>
+			<persName><forename type="first">Henri-Paul</forename><surname>Fruchaud</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">Danile</forename><surname>Lorenzini</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Paris</addrLine></address></meeting>
+		<imprint>
+			<publisher>Vrin</publisher>
+			<date type="published" when="2016">2016</date>
+			<biblScope unit="page">32</biblScope>
+		</imprint>
+	</monogr>
+	<note>my trans.</note>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<analytic>
+		<title level="a" type="main">No Useless Labour: Oscar Wilde&apos;s De Profundis and the Importance of Intellectual Work</title>
+	</analytic>
+	<monogr>
+		<title level="j">Textual Practice</title>
+		<imprint>
+			<biblScope unit="volume">33</biblScope>
+			<biblScope unit="page" from="1030" to="1031" />
+			<date type="published" when="2019">2019</date>
+		</imprint>
+	</monogr>
+	<note>For a comparison of Wilde&apos;s and Foucault on prison punishment, see Christian Gerzso</note>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<monogr>
+		<title/>
+		<author>
+			<persName><surname>Ibid</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="page">232</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<monogr>
+		<author>
+			<persName><forename type="first">Marcus</forename><surname>Aurelius</surname></persName>
+		</author>
+		<title level="m">Hadot, Introduction</title>
+		<imprint>
+			<biblScope unit="page">73</biblScope>
+		</imprint>
+	</monogr>
+	<note>my transl.</note>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<monogr>
+		<title level="m" type="main">Lettre à Ménécée</title>
+		<author>
+			<persName><surname>Epicurus</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="page">128</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<monogr>
+		<title level="m" type="main">Foucault reminds us of the Stoic practice of praemeditatio malorum in which future misfortunes such as death, exile, or imprisonment were anticipated to &apos;convince oneself that they are not real ills</title>
+		<imprint>
+			<biblScope unit="page">239</biblScope>
+		</imprint>
+	</monogr>
+	<note>Wilde does not need to anticipate the malorum as he is already experiencing it</note>
+</biblStruct>
+
+<biblStruct xml:id="b27">
+	<analytic>
+		<title level="a" type="main">What is Enlightenment</title>
+	</analytic>
+	<monogr>
+		<title level="m">Ethics</title>
+		<imprint>
+			<biblScope unit="page">312</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b28">
+	<analytic>
+		<title level="a" type="main">On the Genealogy of Ethics: An Overview of Work in Progress</title>
+		<author>
+			<persName><forename type="first">Michel</forename><surname>Foucault</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Ethics</title>
+		<imprint>
+			<biblScope unit="page">262</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b29">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">Wilde</forename><surname>Gide</surname></persName>
+		</author>
+		<imprint/>
+	</monogr>
+	<note>III. np</note>
+</biblStruct>
+
+<biblStruct xml:id="b30">
+	<monogr>
+		<title level="m" type="main">complex and difficult elaboration: what Baudelaire</title>
+		<imprint/>
+	</monogr>
+	<note>in the vocabulary of his day, calls dandysme</note>
+</biblStruct>
+
+<biblStruct xml:id="b31">
+	<analytic>
+		<title level="a" type="main">Foucault speaks of &apos;the asceticism of the dandy who makes of his body, his behavior, his feelings and passions, his very existence, a work of art&apos;. Foucault</title>
+		<author>
+			<persName><surname>Thus</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">What is Enlightenment</title>
+		<imprint>
+			<biblScope unit="page">312</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b32">
+	<monogr>
+		<title level="m" type="main">Wilde&apos;s Mime Acts&apos;, and &apos;The Excess of Mimesis&apos; all part of a book manuscript provisionally titled</title>
+		<imprint>
+			<publisher>Wilde and the Imitation of Life</publisher>
+		</imprint>
+	</monogr>
+	<note>On the centrality of mimesis in Wilde&apos;s work see Lawtoo</note>
+</biblStruct>
+
+<biblStruct xml:id="b33">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">Oscar</forename><surname>Sturgis</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="page">31</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b34">
+	<monogr>
+		<title level="m" type="main">On the Genealogy of Ethics</title>
+		<author>
+			<persName><surname>Foucault</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="page">271</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

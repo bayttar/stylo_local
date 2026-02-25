@@ -1,0 +1,846 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">The Making of Incarnation, and the Infrastructure of Virtuality</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName><forename type="first">Tom</forename><surname>Mccarthy</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">School of Foreign Languages</orgName>
+								<orgName type="institution">Shanghai Jiao Tong University</orgName>
+								<address>
+									<settlement>Shanghai</settlement>
+									<country>People&apos;s Republic of China</country>
+								</address>
+							</affiliation>
+						</author>
+						<author role="corresp">
+							<persName><forename type="first">Jihuan</forename><surname>Yu</surname></persName>
+							<email>sjtuyujihuan@sjtu.edu.cn</email>
+							<affiliation key="aff1">
+								<orgName type="institution">McCarthy</orgName>
+								<address>
+									<addrLine>118. 3 McCarthy, Remainder. 4 McCarthy, C. 5 McCarthy</addrLine>
+									<settlement>Typewriters</settlement>
+									<country>Satin Island</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">The Making of Incarnation, and the Infrastructure of Virtuality</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date/>
+						</imprint>
+					</monogr>
+					<idno type="MD5">81FB527888A52425E4F769D9E1ADAFA7</idno>
+					<idno type="DOI">10.1080/0013838X.2025.2566694</idno>
+					<note type="submission">Received 9 June 2025 Accepted 19 September 2025</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.0" ident="GROBID" when="2026-02-25T19:54+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term>Tom McCarthy</term>
+					<term>The Making of Incarnation</term>
+					<term>infrastructure</term>
+					<term>virtuality</term>
+				</keywords>
+			</textClass>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>This article argues that Tom McCarthy's 2021 novel The Making of Incarnation reconfigures contemporary realism for an era shaped by virtuality. As stable representation collapses and the boundary between the virtual and the actual blurs, McCarthy redirects attention to the material infrastructures enabling virtuality-the invisible systems underpinning simulation and constituting the real, described here as "infrastructural realism". Extending beyond present technologies, the novel adopts a historical poetics to trace the genealogies of virtual infrastructures, revealing that virtuality is deeply rooted in human history and offers new perspectives for interpreting received histories. Ultimately, the article contends that The Making of Incarnation, through its sustained ethical inquiry, gestures toward a humanistic future for the age of virtuality. Invoking the motif of love embodied in Lillian's Dantean inscription, the novel imagines virtual infrastructures not as instruments of dehumanization or exploitation, but as foundations for new forms of human flourishing and ethical possibility.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>I. Introduction</head><p>Readers familiar with Tom McCarthy's oeuvre-from Remainder (2005) to C (2010) and Satin Island (2015)-will recognize The Making of Incarnation (2021) as his most technically intricate and esoteric novel to date. As Andrew Gallix notes, the narrative is saturated with "preordained patterns or underlying algorithms", featuring "complex descriptions of wind tunnels and motion-capture techniques". 1 Throughout his career, McCarthy has consistently explored the virtualization of reality, posing the central question: "How much more relevant, then, is the great thinker of the 'virtual,' of total legibility and omni-data, to the twenty-first century?" 2 Earlier novels such as Remainder investigate the blurred boundaries between simulation and lived experience through reenactments; 3 C traces the origins of virtuality to World War I media technologies; 4 and Satin Island explores the pervasive saturation of algorithms and the author's impasse in the digital age. <ref type="bibr">5</ref> Yet The Making of Incarnation registers a notable reorientation: rather than concentrating primarily on the phenomenological effects of virtualization, McCarthy turns to interrogate its material foundations. Rather than foregrounding existential crises within simulated worlds, the novel conducts a forensic "unboxing" of the digital black box, revealing the often-invisible infrastructural assemblages that sustain virtuality. These include mathematical theorems (the algorithmic basis of simulation), motion-capture systems (biomechanical interfaces that translate gestures into data), corporate R&amp;D networks, research institutions, and patent registries. Collectively, these infrastructures operationalize virtuality, grounding it in technical, legal, and economic realities.</p><p>Yet dissent and misunderstanding toward McCarthy's novel remain pronounced. For instance, Jonathan Myerson, writing in The Guardian, describes the novel's technical interludes as "IT wallpaper" and even asks, "Is that a novel?" 6 However, such critiques overlook McCarthy's deliberate recalibration of narrative priorities. As Giles Harvey observes, the novel foregrounds the "labyrinthine creative process" behind technological production, 7 redirecting attention from conventional character or plot development to the infrastructures underpinning contemporary reality. This shift demands a new critical lens-one that interrogates the true significance of McCarthy's technical narratives and the authorial intentions behind them. McCarthy's meticulous focus on technical minutiae advances a purposeful agenda: to expose the material conditions underlying virtuality, a dimension largely neglected in existing scholarship on his work.</p><p>McCarthy's stylistic approach, described by Mark Farrant as "theory fiction", 8 situates The Making of Incarnation within contemporary debates on the "infrastructural cut". <ref type="bibr">9</ref> The novel's engagement with infrastructure as both theme and narrative method aligns with recent scholarship that explores the politics and poetics of infrastructural systems and their cultural ramifications. While such debates have invigorated poststructuralist, ecocritical, and Marxist inquiries into literary infrastructure, this analysis frames McCarthy's novel as a distinctly self-reflexive metanarrative of infrastructural critique.</p><p>Here, I use infrastructure to refer to the material, historical, and ethical foundations that underpin social, technological, and cultural systems. Materially, it consists of the physical networks and mechanisms that enable daily life; historically, it registers the accumulated developments and power relations that shape its evolution; and ethically, it mediates values and social consequences, influencing how individuals live and interact within broader social superstructures. Whereas speculative fiction often foregrounds the  For recent scholarly discussions of infrastructural critique, several representative works stand out across genres and disciplines. Among journal articles, foundational contributions include Patricia Yaeger's "Dreaming of Infrastructure" (2007), Brian Larkin's "The Politics and Poetics of Infrastructure" (2013), Marina Vishmidt's "Between Not Everything and Not Nothing: Cuts Toward Infrastructural Critique" (2017), and Reuben Martens and Pieter Vermeulen's "Infrastructural Prolepsis: Contemporary American Literature and the Future Anterior" (2021). At the level of special issues, the field has been invigorated by "Infrastructuralism" (MFS Modern Fiction Studies, vol. 61, no. 4, Winter 2015; and symplokē,  vol. 31, nos. 1-2, 2023, under the same title), "The Infrastructure of Emergency" (American Literature, vol. 93, no. 3, September 2021, jointly with Resilience: A Journal of the Environmental Humanities, vol. 8, no. 3, Fall 2021), and "Reading for Infrastructure: Worlds Made and Broken" (Social Text, vol. 40, no. 4, 2022). Book-length contributions include Kate Marshall's Corridor: Media Architectures in American Fiction (2013) and Lauren Berlant's On the Inconvenience of Other People (2022). Edited collections such as The Promise of Infrastructure (2018), edited by Nikhil Anand, Akhil Gupta, and Hannah Appel, and The Aesthetic Life of Infrastructure: Race, Affect, Environment (2022), edited by Kelly M. Rich, Nicole M. Rizzuto, and Susan Zieger, further extend the field's reach. Together, these works map the evolving contours of infrastructural critique in literary and cultural studies.</p><p>social consequences of virtual technologies, McCarthy adopts a materialist lens to expose the obscured systems that underwrite them. This analysis advances three interconnected arguments. First, The Making of Incarnation articulates what I term infrastructural realism: McCarthy foregrounds the paradox of virtual infrastructure's visibility-its apparent seamlessness only becomes perceptible at moments of disruption, repetition, or failure within immersive systems. The technologies we typically overlook-motion-capture systems, digital modelling research, and transnational corporate collaborations involving academic institutions, consultancies, and intelligence agencies-constitute, for McCarthy, the "real" of hyperreality: not the phenomenological effect of immersion, but the concealed material conditions that enable it.</p><p>Second, following Marina Vishmidt's observation that "temporality and infrastructure … are entangled-through which history and power relations can be seen", 10 the novel reimagines virtuality not as a recent technological phenomenon, but as a spectral force embedded within historical discourse. Although virtuality as technology is contemporary, its conceptual lineage runs deep through Western intellectual history as a latent potentiality that anticipates present forms. By critically examining the infrastructures underpinning virtuality, McCarthy's novel provides a framework for reassessing and reinterpreting received historical narratives.</p><p>Finally, by situating virtual infrastructure within the context of political superstructures, McCarthy interrogates how techno-capitalism transforms virtual systems into tools that dehumanize labour, reducing individuals to mere infrastructural components. This critique is dramatized through the quest for Box 808, a fictional archive of Lillian Gilbreth's pioneering research in time-motion studies, which serves as a conduit for reinterpreting historical narratives and exploring the ethics of technological justice. The novel further revisits the crisis of Soviet-Taylorism, which envisioned society as a vast, rationalized machine, and ultimately proposes a third, humanist alternative. Through its multilayered narrative, The Making of Incarnation becomes a metanarrative of infrastructural critique, revealing the dialectic between infrastructural systems and superstructural power that underlies the logic of virtuality.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>II. Realizing the Virtual: Toward an Infrastructural Realism</head><p>As Peter Boxall suggests, "the value of the novel today by rethinking its capacity to offer a critical representation of reality-requires us, I think, to ask again what we mean by the term realism." 11 Tom McCarthy's formal experimentation in The Making of Incarnation emerges as a direct response to his longstanding preoccupation with redefining literary realism. Historicizing this concern reveals that McCarthy's engagement adopts postmodernism's skepticism toward naïve mimesis. Roland Barthes deconstructed realism as a "reality effect" sustained by rhetorical conventions, 12 while Jean-François Lyotard dismissed it as evoking reality only through "nostalgia or mockery". <ref type="bibr">13</ref> In his essays, McCarthy likewise identifies a "system-error at the source of realism itself", arguing that twentieth-century realism operates through "secondary mimesis"-a derivative replication of realities already mediated. <ref type="bibr">14</ref> This critique has gained renewed urgency in the twenty-first century, where stable reference is destabilized by the pervasive virtuality of contemporary life. Zadie Smith's influential essay "Two Paths for the Novel", published in The New York Review of Books in 2008, first identified McCarthy's radical intervention in realism, casting him as a disruptor of the Balzac-Flaubert lineage of "lyrical realism", with its reliance on "the random detail [that] confers the authenticity of the Real". <ref type="bibr">15</ref> By contrast, Remainder insists on the sensory truth of materiality. As Smith notes, the protagonist, after the accident that deprives him of any authentic sense of the world, "builds in order to feel". <ref type="bibr">16</ref> In an age of simulacra, where reality itself can no longer be guaranteed, immersive media generate what Baudrillard terms "hyperreality", a condition in which models fabricate a reality without origin or authenticity. 17 Through the unnamed narrator's compulsive re-enactments, Remainder stages a simulacral present, "played and replayed like a stuck record". <ref type="bibr">18</ref> Within such conditions, sensory experience emerges as the only possible ground for authenticity. McCarthy thus extends postmodern critiques of realism, repurposing the mode to interrogate literary production in the virtual age-a mode that might be called sensory realism.</p><p>In The Making of Incarnation, however, McCarthy turns critically on this earlier stance, exposing how sensory perception itself is complicit in producing fantasies and distortions, thereby marking a new stage in his interrogation of contemporary realism. The novel suggests that the immersive quality of such experiences derives not from heightened authenticity but from deliberately engineered designs that privilege sensation over scientific truth. In this sense, immersive sensory experience becomes less a marker of reality than a symptom of its calculated dislocation within a virtualized world, since virtual technologies continually manufacture illusions. This critique is made explicit in the novel's opening sequence, where Ben Briar-a NASA veteran now serving as "Special Technical Adviser" for the film Incarnation-introduces his "Ten Commandments for Depicting Space Travel". <ref type="bibr">19</ref> These commandments satirize Hollywood's willingness to sacrifice scientific accuracy for sensory "realism" and heightened spectacle. Modelled after Moses' biblical edicts, Briar's pronouncements-such as "Thou shalt not let thy FX boys create giant, billowing explosions every time a starship fighter […] is destroyed"-lampoon the industry's reliance on the immersive effects manufactured by virtual technologies rather than adherence to factual rigor. <ref type="bibr">20</ref> His pointed critique of Starship Troopers' oxygen-deficient explosions (a physical impossibility in the vacuum of space) underscores McCarthy's broader contention that the so-called sensory realism of contemporary speculative fiction is achieved by systematically violating the very brute reality it purports to represent.</p><p>Dubbed the "Realism Tsar" by sceptical CGI artists, Briar embodies McCarthy's thesis: the sensory immediacy of "immersive" media-whether blockbuster space battles or VR <ref type="bibr">14</ref> McCarthy, Typewriters, 62. <ref type="bibr">15</ref> Smith, "Two Paths for the Novel". <ref type="bibr">16</ref> Ibid. 17 For a detailed discussion of Baudrillard's concept of hyperreality, see "Simulacra and Simulations", 179. <ref type="bibr">18</ref> McCarthy, Remainder, 219. <ref type="bibr">19</ref> McCarthy, The Making of Incarnation, <ref type="bibr" target="#b2">[29]</ref><ref type="bibr" target="#b3">[30]</ref><ref type="bibr">[31]</ref><ref type="bibr">[32]</ref><ref type="bibr">[33]</ref><ref type="bibr">[34]</ref><ref type="bibr">[35]</ref><ref type="bibr" target="#b3">30.</ref> simulations-relies not on fidelity to technical reality but on engineered illusions that exploit cognitive biases. <ref type="bibr">21</ref> Works of speculative fiction and film that claim immersive authenticity often stray far from empirical truth, sidelining the complex infrastructures that underwrite their effects. A key detail in the novel draws attention to this cultural tension: Briar's employer, the "Two Cultures Consultancy", explicitly invokes C.P. Snow's critique of the mutual incomprehension between scientific and humanistic discourses. <ref type="bibr">22</ref> This legacy of the "two cultures" shapes the novel's critical perspective: literary attempts to engage with virtuality are often dismissed by scientific rigor as impractical fantasies, while speculative narratives, viewed through an engineer's lens, are revealed to be factually flawed. Whereas the literary imagination privileges narrative and sensory immersion, the engineer discerns the virtual infrastructures underlying these illusions. This disciplinary divide underlies McCarthy's engagement with Snow, whose observation that "words are always simpler than the brute reality from which they make patterns" frames the novel's diagnosis of a persistent cultural rift.<ref type="foot" target="#foot_2">23</ref> Speculative narratives, McCarthy suggests, privilege aesthetic immersion over infrastructural accountability, thereby perpetuating what the novel positions as a crisis of representation.</p><p>This critique finds a compelling counterpoint in Anthony Garnett, founder of Pantarey Motion Systems, whose transition from studying Classics at Oxford to engineering motion capture-the very foundation that enables virtual characters to appear lifelikeillustrates the potential for disciplinary synthesis. <ref type="bibr">24</ref> Garnett's interdisciplinary background reveals the technical substratum of immersive aesthetics, highlighting how infrastructure is often erased beneath the seamless surface of illusion. While C.P. Snow's "two cultures" model posits a fundamental divide, Garnett's work enacts McCarthy's imperative to confront the labour of technology by grounding narrative in material processes. By shifting focus to infrastructure, McCarthy recentres technology's material substrate-the invisible systems underpinning literary representation. For McCarthy, these infrastructures constitute a neglected "real", obscured by the humanistic veneer of the "two cultures" divide.</p><p>Thematic traces of this concern first emerge in McCarthy's earlier works: in Men in Space, the anonymous police agent's meticulous cataloging of surveillance apparatus, and in C, Serge Carrefax's obsession with telegraphy-both exemplify the entanglement of human subjectivity with emergent media technologies. <ref type="bibr">25</ref> In these novels, however, virtual infrastructure appears only in asides or interpolations. By contrast, The Making of Incarnation shifts decisively toward infrastructure itself, which emerges as the novel's primary narrative force. Dispensing with a single, centralized character, it foregrounds the dynamic systems and networks that structure virtual experience. Narrative priority falls not on plot but on the granular documentation of technical workflows, corporate alliances, and historical contingencies, thereby privileging the "making" (as the title suggests) over the aesthetic illusionism of sci-fi animation. Through this design, the novel suggests that for literature to reclaim authenticity, it must undergo a technical reorientation that foregrounds the infrastructural foundations shaping our conception of the real.</p><p>Notably, the importance of these infrastructures becomes especially visible in moments of crisis-for instance, during the production breakdown in the speculative film Incarnation, where conflicts among art director Eldridge, CG director Herzberg, and technical adviser Briar Barir lay bare the material reality of infrastructural labour. 26 Marina Vishmidt's insight is instructive here: "infrastructure is … normalized into everyday routine" until a moment of friction-such as that between the humanistic and technical spheres-renders it newly perceptible. <ref type="bibr" target="#b1">27</ref> When workflows stall or collapse, readers are confronted with the otherwise invisible apparatuses of production-systems that ordinarily dissolve into the seamlessness of the final product.</p><p>In this configuration, the incorporation of virtual technology transforms technology itself into the novel's infrastructure, operating as a novel delivery system for meaning and experience. Beyond what Vishmidt identifies as the temporality of the novel as a traditional infrastructure, <ref type="bibr">28</ref> McCarthy repeatedly reveals, within the narrative itself, moments of slippage produced by the allure of virtual technologies. The most striking occurs when Phocan spends twenty-three pages observing a bobsleigh team in a digitized wind tunnel, meticulously mapping the virtual-physical interface. <ref type="bibr" target="#b2">29</ref> This episode generates a kind of techno-religious ecstasy, a surreal suspension that diverts the narrative from the search for Box 808 and indefinitely delays its progression. Such moments distinguish McCarthy's novel from earlier critiques of infrastructure. While recent special issues-such as Modern Fiction Studies' "Infrastructuralism" or American Literature's "The Infrastructures of Emergency"-reorient narrative criticism toward ecological and Anthropocene crises, <ref type="bibr" target="#b3">30</ref> The Making of Incarnation functions as a metanarrative of infrastructure itself. The very distractions generated by the allure of technical devices become one of the novel's primary narrative motors, repeatedly displacing the central plot.</p><p>Moreover, McCarthy's infrastructural realism encompasses more than the material substrates of technology. As Reuben Martens and Pieter Vermeulen argue, infrastructure involves "the practice of attending closely to the jostling, colliding, and overlapping of social, cultural, technological, and natural forms." <ref type="bibr">31</ref> The novel integrates labor into this nexus, embedding corporate hierarchies within its investigation of virtual systems -most notably through the anonymous CAD operators at Degree Zero Studios, reduced to nameless cogs within the cinematic apparatus, alongside fleetingly referenced technicians, while only a select few central figures shape the virtual industry. The narrative also traces a sprawling network of consultancies (Dorley and Grieves Law Firm, Peacock Consultancy), academic institutions (Pantarey Labs, Purdue University's archives, Rīgas Tehniskā Universitāte's Solid-State Physics Department), and technical sites such as wind tunnels. Together, these elements reveal the vast technical and social networks obscured by the seamless consumption of virtual products, exposing a continuous production chain underpinned by cooperative capitalism.</p><p>This framework anticipates the novel's later critique of techno-ethics, as McCarthy renders visible the entanglement of technical, social, and historical infrastructures, and the contested material and ideological foundations that support them. In doing so, he literalizes Vishmidt's axiom that "infrastructure sounds more like reality", 32 privileging the processes of infrastructural production over the allure of finished simulations.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>III. Historicizing the Virtual: Toward a Historical Poetics of Infrastructure</head><p>However, to focus exclusively on the formal or material dimensions of infrastructure risks reproducing the very ahistoricism that McCarthy critiques. Infrastructure is not an atemporal construct, nor does virtuality emerge ex nihilo; its contemporary manifestations are tethered to historical antecedents that the novel meticulously excavates. As Reuben Martens and Pieter Vermeulen argue, engaging with infrastructure "requires an appreciation of [its] temporal … complexity, and not just of its stubborn materiality." <ref type="bibr">33</ref> The Making of Incarnation interrogates virtuality not merely as a technological phenomenon but as a conceptual lineage inscribed within historical processes.</p><p>McCarthy's intervention lies precisely in his historicization of virtual infrastructure. While earlier literary works often treated infrastructure as a static, synchronic entity, McCarthy exposes its diachronic stratification, revealing the historical material conditions and human agency behind its emergence. His persistent engagement with the past-evident across his oeuvre-extends to his interrogation of virtuality's infrastructures. During a 2015 lecture at Zurich's Cabaret Voltaire, McCarthy invoked Mallarmé's temporal dialectic, arguing that meaningful signification requires simultaneously projecting "several centuries ahead" while turning "toward the past". <ref type="bibr">34</ref> This tension animates The Making of Incarnation, a novel that thematically "combines the very new and the very old" 35 but resists reduction to mere "media archaeology" 36 -a label frequently applied to McCarthy's earlier works. Instead, the novel's historical retrospection serves a broader aim: to historicize infrastructure itself, rendering visible how the "invisible" systems underpinning virtuality are sedimentations of long-term cultural and epistemic struggles.</p><p>McCarthy traces these occluded prehistories through infrastructure's material lineages, countering the techno-presentism prevalent in genres like science fiction, where virtuality is often framed as a post-1980s phenomenon (e.g. head-mounted displays in cyberpunk). As Redondo Beach notes in the foreword to The Metaphysics of Virtual Reality, VR represents "the culmination of a process that has been ongoing in technology and for even longer in Western thought"-a process McCarthy maps by positioning infrastructure as a palimpsest. <ref type="bibr">37</ref> Each layer reveals how past epistemic regimes continue to shape present techno-social relations-a method that aligns with Lauren 32 Vishmidt, "Between Not Everything and Not Nothing", 266. <ref type="bibr">33</ref> Martens and Vermeulen, "Infrastructural Prolepsis", 17. <ref type="bibr">34</ref> McCarthy, Typewriters, 120. <ref type="bibr">35</ref> Gallix, "The Making of Incarnation by Tom McCarthy: A Quest for Perfection". <ref type="bibr">36</ref> Nieland, "Dirty Media", 570. <ref type="bibr">37</ref> Heim, The Metaphysics of Virtual Reality, vi.</p><p>Berlant's call for renewed attention to the histories of infrastructure, which foster "a historically different understanding of how to convert a violently unequal inheritance […] to a space where history and experience recombine beyond consensus realism." <ref type="bibr">38</ref> McCarthy's historiographic metafiction thus embeds historical consciousness directly into the technical syntax of infrastructure.</p><p>At the forefront of McCarthy's historical poetics is cybernetics, whose feedback loops form the conceptual infrastructure underlying virtual technologies. In the chapter titled "The Norbert Wiener Appreciation Society", Pantarey founder Garnette and his friend Pilkington discuss Wiener's legacy. <ref type="bibr">39</ref> Through their dialogue, McCarthy reveals that cybernetic principles were encrypted within social systems and human behaviours long before virtuality emerged as a technological reality. These latent systemic logics, embedded in the structures of everyday life, only became legible with Wiener's formalization. McCarthy interjects their dialogue with a metanarrative voice that frames Wiener's cybernetics as a retroactive lens:</p><p>"When I pick up a cigar, I translate into action nothing other than a feedback mechanism […] When I shoot down a plane, my limbs on the ack-ack gun […] and the vacuum tubes that plot the plane's path […] all these make up an integrated circuit […] elevators, steamboat engines, jellyfish amalgams, economics, the law-these, too, are birthed and structured by […] the matrix-womb of cybernetics." <ref type="bibr">40</ref> By retrojecting cybernetics into pre-digital contexts-industrial machinery, legal systems, and bodily reflexes-McCarthy strategically reframes motion capture not as a discrete twentieth-century innovation but as a structural expression of feedback-driven epistemologies that have long organized both organic life and institutional processes. Within this paradigm, Norbert Wiener is elevated not as an originator, but as the codifier of these pervasive logics, celebrated as "prophet, messiah and apostle". <ref type="bibr">41</ref> Such a reorientation compels a critical reconsideration of virtuality's historical depth, situating it as an infrastructural force that predates its digital actualization.</p><p>This historical dynamic is illustrated in the scene where Garnette and Pilkington, in their discussion of Wiener's legacy, find themselves haunted by "spectres" of earlier generations of technologists: "Spectres float between the two men now, kinking round curves of wineglasses and side plates: ghosts of two young engineering postgrads with wide collars, bushy sideburns, flaring cords, all fired up by the new world leaping at them from the pages of Nash, Bateson, Geyer and von Glasersfeld. But it was him they came back to, again and again-prophet, messiah and apostle, all contained within a single name and figure: Norbert Wiener." <ref type="bibr">42</ref> The emergence of these "spectres" closely recalls Derrida's concept of haunting in Specters of Marx, where the ghost embodies a persistent, disruptive virtuality that unsettles established boundaries of time and space. As Derrida notes, such hauntings "virtualize space and time", dissolving the binary between "presence and its representation, 'real time' and 'deferred time,' effectivity and simulacrum". 43 <ref type="bibr">38</ref> Berlant, On the Inconvenience of Other People, 398. <ref type="bibr">39</ref> McCarthy, The Making of Incarnation, 179-95. <ref type="bibr">40</ref> Ibid., 180. <ref type="bibr">41</ref> Ibid., 149. <ref type="bibr">42</ref> Ibid., 180. <ref type="bibr">43</ref> Derrida, Specters of Marx, 212.</p><p>McCarthy enacts this hauntological logic by staging encounters with cybernetic "spectres", thus positioning virtuality as an infrastructural force that both traverses and unsettles historical boundaries. In a manner reminiscent of Derrida's spectre-which disrupts the linear progression of history-McCarthy's portrayal compels a recursive approach to historiography, one in which latent systemic potentials from the past continuously inform and reshape contemporary technological realities. This theoretical orientation closely echoes Pierre Lévy's conception of virtuality as potentiality-an archive of unrealized trajectories-which McCarthy's novel animates through its narrative exploration of alternative historical possibilities. <ref type="bibr">44</ref> This interplay between past and potential futures is further crystallized in the chapter "The Girl with Kaleidoscope Eyes". In this episode, Pantarey employees Diamond and Noam Webster-the so-called "keeper of the skulls"-utilize virtual tools to reexamine the Sarajevo incident, the seminal event that triggered World War I. <ref type="bibr">45</ref> By triangulating digitized architectural plans, satellite imagery, and sun-tracking data, Diamond uncovers temporal discrepancies within the historical record: "Cross-referencing [the photographs] with the building's original architectural plans […] and sun-tracking tables for Guatemala City […] It's clear the time code […] is falsified, or at least wrong." 46 This discovery destabilizes the accepted narrative of the Sarajevo incident, suggesting that the truth of this foundational historical event is not only contingent but may have been actively obscured or manipulated. Through this subplot, McCarthy advances a dual argument: first, that virtual infrastructure-encompassing sensed, recorded, and archived data-reshapes historical understanding by exposing contradictions and gaps within dominant narratives; and second, that such infrastructure transforms the world into a palimpsest of overlapping, often competing, scripts, where historical "truth" emerges not as a fixed entity but through ongoing, iterative reinterpretation. By treating digital infrastructure as a prism through which to reread the past, the novel suggests that archives, algorithms, and data trails are not just tools of control but instruments of historical reimagination.</p><p>It is precisely the spectre of virtuality evoked by Norbert Wiener-especially the imperative to recover unrealized or overlooked potentials-that drives the novel's narrative backward in time, generating two parallel yet interconnected investigative threads. The first follows Dr. Phocan, Pantarey's chief engineer, who, acting on Garnette's instructions, traces the origins of motion-capture technology back to Lillian Gilbreth. As Garnette remarks, "Lillian and Frank […] Their methods laid the groundwork for what people like us do. Our Norbert even mentions them, in passing. They bridge the gap between the nineteenth century-Marey, Taylor-and the world that would emerge with Ford: mass automatization and, later, digitization. Without them, there'd be no mo-cap." <ref type="bibr">47</ref> The second thread centres on Dean, a lawyer at Dorley and Grieves, whose initial task-determining the patentability of motion sequences-quickly evolves into a forensic investigation of the legal and archival structures underpinning the now-digitised practice of motion capture. Her inquiry likewise unexpectedly <ref type="bibr">44</ref> Lévy, Becoming Virtual, 52. <ref type="bibr">45</ref> McCarthy, The Making of <ref type="bibr">Incarnation,</ref><ref type="bibr">[196]</ref><ref type="bibr">[197]</ref><ref type="bibr">[198]</ref><ref type="bibr">[199]</ref><ref type="bibr">[200]</ref><ref type="bibr">[201]</ref><ref type="bibr">[202]</ref><ref type="bibr">[203]</ref><ref type="bibr">203. 47 Ibid.,</ref><ref type="bibr">182.</ref> converges with the foundational research of Lillian Gilbreth, whom McCarthy reimagines as a crucial precursor to virtual infrastructure.</p><p>Phocan and Dean, like the author himself, are motivated by a belief in the untapped potential of history-a conviction most fully embodied in Lillian Gilbreth. Through their intertwined investigations, the novel foregrounds Gilbreth as a pivotal figure who unites technological innovation with humanistic reflection. Set in the 1920s, before the digital era, the narrative reconstructs Gilbreth's pioneering efforts to engineer devices for capturing and preserving traces of motion-establishing a crucial foundation for later developments in virtual technology. Gilbreth thus becomes the linchpin for the novel's articulation of historical poetics in relation to virtuality. Her research directly links back to Étienne-Jules Marey, the father of chronophotography, whose inventions ranged from pulse-writers etching blood's rhythms onto smoke-blackened glass to early motion photographs that documented not only martial gestures but also fleeting acts such as handwriting in the air. <ref type="bibr">48</ref> Gilbreth's significance, however, resides not only in her technical innovations that build upon and extend foundational developments in virtual infrastructures, but also in her hybrid status as a "two culture" figure-praised by Laurel Graham for "bringing the human element to industrial engineering". <ref type="bibr">49</ref> McCarthy highlights how Gilbreth's interdisciplinary background shapes her thinking, observing that "literature's threaded through the fabric of all her deliberations". <ref type="bibr">50</ref> Within the narrative, Gilbreth becomes both a historical conduit and a poetic catalyst, linking the technical development of virtuality to its deeper cultural and epistemic foundations. McCarthy's fictionalization allows Lillian to intertwine her investigations into virtual infrastructure with the visionary journey of Dante's La Divina Commedia. Her conception of virtuality as latent potential mirrors the pilgrim's journey "through the entire machinery of circles driving other circles, wheels within wheels, then passing even further, on into the centre, the Empyrean", culminating in the final revelation of the "Primum Mobile", and ultimately, "the love that moves the sun and other stars". <ref type="bibr">51</ref> In this way, she anticipates post-Wienerian cybernetic thought, elevating information systems into metaphysical terrain and framing virtuality as both infrastructural reality and aspirational ideal.</p><p>In The Making of Incarnation, fiction thus functions as a critical mode of inquiryinterrogating how history is encoded, stored, and continually reconfigured within technological and cultural systems. The novel becomes more than a meditation on virtual technologies; it is a historiographic inquiry into their cultural conditions of possibility. Within this historico-poetic framework, Box 808 emerges as a revelatory artifact. For both Dean and Dr. Phocan, its supposed power to "change everything" 52 resides less in any technical secret than in its capacity to symbolically reveal the concealed foundations of virtuality-namely, the labour, bodily discipline, and ideological structures that underpin it-thereby laying the groundwork for the novel's subsequent ethical explorations. <ref type="bibr">48</ref> Ibid., 117. <ref type="bibr">49</ref> Graham, Managing on Her Own, <ref type="bibr">29. 50</ref> McCarthy, The Making of Incarnation, 116. <ref type="bibr">51</ref> Ibid., 303. This episode echoes a scene in Dante Alighieri's La Divina Commedia ("The Devine Comedy"), specifically in Paradiso ("Paradise"). See Dante, The Divine Comedy. Vol. 3, Paradise, 330. <ref type="bibr">52 Ibid.,</ref><ref type="bibr">129,</ref><ref type="bibr">189,</ref><ref type="bibr">216,</ref><ref type="bibr">301</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>IV. Ethicizing the Virtual: Toward the Infrapolitics of Virtuality</head><p>Phocan's search leads him to Riga, Latvia's capital, to meet Raivis Vanins, a former Soviet dynamicist who had corresponded with Lillian during the Cold War. This journey proves ultimately fruitless-culminating not in revelation, but in personal entanglement with Vanins's daughter, Lazda, and Vanins's subsequent suicide. In the aftermath, Phocan is left with a sense of existential absurdity: Box 808 is revealed as nothing more than an ordinary birdcage, indistinguishable from the others, which he ultimately chooses not to open. The actual "truth" of the box is deciphered not by Phocan but by Dean, whose meticulous archival research into Lillian's notes leads her, unexpectedly, to Dante's La Divina Commedia. Dean discovers that the final secret inscribed in Box 808 is a fragment written in Italian-a quotation from Dante, signifying that love is the primordial force driving all motion: "Con amore: with love; amor che move, love that moves … " <ref type="bibr" target="#b4">53</ref> Dean's discovery comes only after considerable difficulty and institutional resistance. Her investigation into Box 808 alarms her employer and their clients, who suddenly demand that "all trails and records of their, or her, ever having carried out such research be erased-quite literally: she was to delete her copies of the dispatches, surrender working files, wipe all notes from her laptop"; shortly thereafter, a GCHQ agent discreetly enquires about anything "sensitive" in her work, particularly concerning the history of time-and-motion studies. <ref type="bibr" target="#b5">54</ref> The urgency to suppress findings about a box whose secret is merely "love" raises a crucial question: why would a simple message affirming love as the foundation of motion provoke such profound concern? The disproportionate response points to a deeper anxiety about the underlying stakes of virtual infrastructure and the power structures it potentially unsettles or exposes.</p><p>The infrastructure of virtuality is never neutral; it is always embedded within power relations that mediate between material systems and ideological superstructures, as Matthew Poole's analysis of techno-capitalist frameworks underscores. <ref type="bibr" target="#b6">55</ref> Bassam El Baroni further argues that virtual infrastructures inherently generate what he calls "infrapolitics"-a contested space where ethical dilemmas proliferate alongside technological advancement. <ref type="bibr" target="#b7">56</ref> The Making of Incarnation foregrounds this tension by exposing the divergence between the utopian ideals once associated with virtual infrastructures and their present-day distortions.</p><p>This dynamic is most evident in Phocan's encounter with Raivis Vanins, a former Soviet dynamicist who corresponded closely with Lillian Gilbreth and is likely to know the fate of Box 808. Through their conversation, Phocan comes to recognize Lillian Gilbreth's original humanitarian intent: motion-capture technology was conceived not as an instrument of control, but as a means of alleviating industrial workers' physical strain and occupational hazards-a vision admired even by Soviet thinkers during the Cold War. Yet, this dialogue compels Phocan to a moment of reckoning: his own contributions to motion-capture systems, once imagined as emancipatory, are now implicated in processes of dehumanization.</p><p>This realization centres on the Physis 6 TM system, formerly his most significant technological achievement. Initially, Phocan believed that such virtual infrastructures would offer revolutionary possibilities-facilitating sophisticated virtual filmmaking and providing tools for medical professionals to analyse and rehabilitate those with disabilities. Finally, however, he becomes aware that these same technologies are now entangled in ethically ambiguous practices, largely driven by capitalist imperatives. Stuart Kelly succinctly captures this tension, observing that "at one level this is about the choreography of the human body; at another it is-since the studies involve production lines-a horrific vision of how to make humans more efficient, or rather, more like robots … since the whole novel is about how we are embodied, made flesh, trapped in skin." <ref type="bibr">57</ref> The narrative thus reveals that the very infrastructures designed to enhance human agency instead reify capitalist exploitation by embedding ethical ambiguity into their operational protocols.</p><p>Within these systems, even the most intimate aspects of personhood-such as actors' facial expressions-become quantifiable and subject to manipulation. As Phocan explains while manipulating feature-dots on actors after their performances, "Faces … are landscapes. They've got peaks and ridges and ravines, which can be surveyed with absolute precision. Once you've got the contours, you can start manipulating themlike landscape architects … " 58 The fundamental distinction between humans and their virtual avatars-authentic emotional expression-is thus systematically eroded. Under the guise of facilitating film production and maximizing profit, these virtual infrastructures turn people into something less than fully human.</p><p>However, contemporary virtuality's ethical crisis extends beyond mere dehumanization. More troubling is the direct transformation of people into infrastructural components themselves. As AbdouMaliq Simone argues, contemporary social relations increasingly render "people as infrastructure", exemplified by the labourers behind virtual projects who, despite their technical skills, remain low-level workers obscured by the very spectacle they enable. <ref type="bibr">59</ref> In The Making of Incarnation, McCarthy emphasizes the significant yet invisible labour required to bring virtual fantasies to the screen, labour that is hidden behind dazzling simulacra. The workers depicted at Degree Zero, for example, operate under conditions of intense isolation and dehumanization: "They sit in rows, all facing the same way. Light … coagulates in spectacle-lens glass before draining away over skin that … is recast in grey. All of them wear headphones … none of them have phones … their isolation is complete." 60 These workers, despite their technical expertise, are rendered faceless, interchangeable, and isolated, highlighting the exploitative dynamics at the core of contemporary digital production. After his experience in Riga, Phocan is left in a state of existential doubt, contemplating his possible resignation from Pantarey and a withdrawal from the ethically fraught world of virtual infrastructure altogether. <ref type="bibr">57</ref> Kelly, "Book Review: The Making of Incarnation, by Tom McCarthy". <ref type="bibr">58</ref> McCarthy, The Making of Incarnation, 91. <ref type="bibr">59</ref> Simone, "People as Infrastructure", 407. <ref type="bibr">60</ref> McCarthy, The Making of Incarnation, 67.</p><p>Dean's legal investigation into the patentability of motion brings to the fore critical questions about autonomy, control, and the technocratic logic embedded within the infrastructure of virtuality. If human actions themselves can be patented, what remains of personal freedom? Her inquiries provoke significant institutional anxiety: authorities-reminiscent of George Orwell's Big Brother in Nineteen Eighty-Fourclosely monitor and intervene, intent on suppressing research that challenges corporate interests or raises historical and ethical concerns. <ref type="bibr">61</ref> In this light, the infrastructure of virtuality ceases to illuminate history; instead, it becomes a tool for obfuscation and control -a veil of ignorance perpetuated by social media, television, and the very technologies that purport to inform and connect. Pilkington's warning to Garnette encapsulates this anxiety: "Wasn't the vision always tinted darkly, blood-tinged? … casting human responsibility to the winds … the arms race, business, advertising rowing us into a maelstrom of destruction … " 62 Absent a critical historical perspective, one risks becoming allegorically trapped in Plato's cave, unable to perceive the widening chasm between the utopian promises once attached to virtual technologies and their present-day instrumentalization by capitalist and state apparatuses.</p><p>Virtual infrastructure, in its aspirational form, was originally conceived to empower human flourishing-a promise embedded in the utopian vision of Soviet Taylorism, which imagined motion capture technology as a means of better identifying and optimizing workers' operations on the assembly line, ultimately aiming to liberate labour from bodily constraints. Yet, as McCarthy's narrative demonstrates, this idealism is fundamentally compromised. Significantly, the novel adopts a critical stance toward the infrapolitics engendered by both capitalist instrumentalization and Soviet mechanistic social engineering, illuminating the ethical and existential limitations intrinsic to each system. This comparative critique is dramatized in Phocan's disillusionment in Riga, where his encounter with the legacy of Soviet technocracy raises a pivotal question: Could Soviet Taylorism, despite its professed commitment to worker welfare, ever realize an ideal social superstructure? The Soviet project operated under the grand illusion of society as a rational, frictionless machine, capable-if properly calibrated-of elevating humanity from suffering. Vanins articulates this faith with tragic clarity: "We, too, believed in something. Not the Revolution, nor the truth of Lenin's vision … it was something bigger and more abstract. Maybe it was the orchestration itself, its implicit promise that society … could operate as one giant apparatus-that this apparatus … could transform experience and knowledge, elevate them to a higher state … " 63 This transcendental fantasy, however, collapses under the weight of its own contradictions. Vanins likens Soviet scientists to the Hashashin-the Assassins of Alamut, seduced by a fabricated paradise of flowing wine and celestial music, only to discover their utopia was a stage-set operated by prior initiates. <ref type="bibr">64</ref> The analogy is damning: Soviet technocracy, for all its geometric precision and rationalist fervour, replicated the very illusions it sought to dismantle. Like the Assassins' garden, its vision of a perfectly engineered society relied on recursive deception, where yesterday's believers became today's <ref type="bibr">61</ref> Orwell, Nineteen Eighty-Four. <ref type="bibr">62</ref> McCarthy, The Making of Incarnation, 181. <ref type="bibr">63</ref> Ibid., 291. <ref type="bibr">64</ref> Ibid., 290-1.</p><p>operators of the machinery that once ensnared them. Phocan's epiphany is twofold: first, he recognizes that the vision of society as a vast machine is ultimately an existential absurdity-an order stripped of empathy that reduces individuals to interchangeable cogs. Second, the Soviet experiment's eventual collapse into corruption and infrastructural decay ("the apparatus ran itself down … the only question was what bits … could be stolen" 65 ) exposes the nihilism inherent in any superstructure that privileges systemic abstraction over lived human experience.</p><p>In the end, the tragic absurdity of the infrastructure is encapsulated in the final fate of Box 808: "beneath this twisted mass, on the bird box's floor, three curvy white lines … could be paint, or it might just be bird shit." 66 The material residue of utopian ambition becomes indistinguishable from waste, raising the question: what truly constitutes the superstructure of human society? Yet, as Lillian's story suggests, a humanist alternative persists. The novel's closing refrain from Lillian's journal-penned during her final years at the Phoenix rest home, "legato con amore" ("bound by love"), which echoes the inscription left in Box 808-gestures toward love as the true driver of motion and meaning. <ref type="bibr">67</ref> In this way, The Making of Incarnation ultimately suggests that, to ethically navigate the virtual age, infrastructures must be reimagined around compassion and human connection, rather than instrumental rationality or profit-driven imperatives. By doing so, the novel moves beyond the mechanistic logic that sees society as cold machinery, proposing instead a reconfiguration of infrastructure grounded in affective resonance and ethical relation.</p><p>This vision of "affective infrastructure", as Berlant would call it, points toward a future in which virtual infrastructures are re-anchored in human values and care. <ref type="bibr">68</ref> By framing love as the primordial force behind motion, McCarthy rejects both capitalist instrumentalization and Soviet technocracy, proposing instead a third way-one where virtual infrastructures are re-anchored in care and solidarity. For McCarthy, the path forward lies not in abandoning infrastructure but in reclaiming its ethical potential. In this synthesis, McCarthy's historical poetics of infrastructure culminates in a radical humanism: neither capitalist nor Soviet, but profoundly, insistently ethical. In tracing the history and ethics of virtuality's infrastructures, McCarthy suggests the necessity of a new, humanist paradigm-one that breaks with both the techno-utopian and techno-authoritarian models, and instead grounds the "virtual" in the affective and ethical bonds that hold society together.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>V. Conclusion</head><p>In their introduction to the special issue "The Infrastructure of Emergency" in American Literature, Jessica Hurley and Jeffrey Insko argue that "the redispositioning of infrastruc-ture…becomes a crucial tool for those seeking to produce different realities in the present and alternative possibilities for the future"; they further pose the question: "What role might literature and literary studies play in this work of redispositioning?" suggesting that literature, by shaping perceptions of space and time, helps us grasp infrastructure <ref type="bibr">65</ref> Ibid., 291. <ref type="bibr">66</ref> Ibid., 296. <ref type="bibr">67</ref> Ibid., 326. <ref type="bibr">68</ref> Berlant, On the Inconvenience of Other People, 27.</p><p>as a structuring force. <ref type="bibr" target="#b12">69</ref> In this very spirit, McCarthy's novel, though deeply historical in its poetics, ultimately shifts attention toward the future possibilities of both literary form and human society.</p><p>On one level, McCarthy's vision speaks to the evolution of literary form itself. By interrogating the technical underpinnings of virtuality, he formulates a new realist paradigm -what might be termed "infrastructural realism"-that directly engages with the complexities and contradictions of the digital age. This approach revitalizes literary representation, urging fiction to grapple not only with surface phenomena but also with the ofteninvisible networks that constitute contemporary reality.</p><p>Moreover, The Making of Incarnation compels urgent reflection on the ethical and existential stakes of virtual infrastructures. McCarthy's narrative confronts readers with a fundamental question: do infrastructures exist to serve humanity, or have humans themselves become mere components within technical systems? In raising this dilemma, McCarthy's fiction directly intervenes in contemporary debates over the political and ethical ramifications of technological systems.</p><p>Ultimately, McCarthy's infrastructural realism demonstrates a distinctive form of literary agency, reshaping both the structure and purpose of contemporary fiction while grounding it in a broader humanist framework. By foregrounding infrapolitical and ethical concerns, McCarthy invites readers to reimagine infrastructure as a force capable of fostering human flourishing rather than reinforcing alienation and control. His literary project urges us to envision virtual infrastructures animated by foundational values, echoing Lillian's Dantean inscription-"amor che move", the love that moves. <ref type="bibr" target="#b13">70</ref> </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Disclosure Statement</head><p>No potential conflict of interest was reported by the author.</p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head>6</head><label></label><figDesc>Myerson, "The Making of Incarnation by Tom McCarthy Review -All Work and No Play". 7 Harvey, "Reality According to Tom McCarthy". 8 Farrant, "Neoliberalism, Critique", 341.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_1"><head></head><label></label><figDesc>9</figDesc></figure>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="21" xml:id="foot_0"><p>Ibid., 77.   </p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="22" xml:id="foot_1"><p>Ibid., 34.   </p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="23" xml:id="foot_2"><p>Snow, The Two Cultures, 66.   </p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="24" xml:id="foot_3"><p>McCarthy, The Making of Incarnation, 40.</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="25" xml:id="foot_4"><p>With regard to these two instances of McCarthy ′ s early attention to virtual infrastructure, seeMcCarthy, Men in Space,  96, and C,[65][66][67][68]<ref type="bibr" target="#b12">[69]</ref><ref type="bibr" target="#b13">[70]</ref>[71][72][73][74][75][76] </p></note>
+		</body>
+		<back>
+
+			<div type="availability">
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Data Availability Statement</head><p>There is no data set associated with the paper.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>ORCID</head><p>Jihuan Yu http://orcid.org/0009-0005-9851-3326</p></div>
+			</div>
+
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<monogr>
+		<title level="m" type="main">The Making of Incarnation</title>
+		<author>
+			<persName><surname>Mccarthy</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="page" from="172" to="174" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<monogr>
+		<title level="m" type="main">Between Not Everything and Not Nothing</title>
+		<author>
+			<persName><surname>Vishmidt</surname></persName>
+		</author>
+		<imprint/>
+	</monogr>
+	<note>265. 28 Ibid., 265</note>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<monogr>
+		<title level="m" type="main">The Making of Incarnation</title>
+		<author>
+			<persName><surname>Mccarthy</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="page" from="137" to="160" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title level="a" type="main">31 Martens and Vermeulen</title>
+	</analytic>
+	<monogr>
+		<title level="m">See MFS Modern Fiction Studies</title>
+		<imprint>
+			<date type="published" when="2015-09">2015. September 2021</date>
+			<biblScope unit="volume">61</biblScope>
+			<biblScope unit="page">17</biblScope>
+		</imprint>
+	</monogr>
+	<note>American Literature</note>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title level="a" type="main">Amor che move&quot; (&quot;Love that moves&quot;) is the concluding line of Paradiso, the final cantica of Dante&apos;s La Divina Commedia</title>
+		<author>
+			<persName><surname>Ibid</surname></persName>
+		</author>
+		<author>
+			<persName><surname>302</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">The Divine Comedy</title>
+		<imprint>
+			<biblScope unit="volume">3</biblScope>
+			<biblScope unit="page">394</biblScope>
+			<pubPlace>See Dante; Paradise</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<monogr>
+		<title/>
+		<author>
+			<persName><surname>Ibid</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="page">298</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<monogr>
+		<title level="m" type="main">Infrastructure, Ideology, Hegemony</title>
+		<author>
+			<persName><surname>Poole</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="page">52</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<monogr>
+		<title level="m" type="main">Introduction: Infrapolitics after Infrastructure Space</title>
+		<author>
+			<persName><surname>Baroni</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="page">29</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<monogr>
+		<title level="m">The Promise of Infrastructure</title>
+		<editor>
+			<persName><forename type="first">References</forename><surname>Anand</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">Akhil</forename><surname>Nikhil</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">Hannah</forename><surname>Gupta</surname></persName>
+		</editor>
+		<editor>
+			<persName><surname>Appel</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Durham</addrLine></address></meeting>
+		<imprint>
+			<publisher>Duke University Press</publisher>
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title level="a" type="main">Introduction: Infrapolitics After Infrastructure Space</title>
+		<author>
+			<persName><forename type="first">Bassam</forename><surname>Baroni</surname></persName>
+		</author>
+		<author>
+			<persName><surname>El</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Between the Material and the Possible: Infrastructural Re-Examination and Speculation in Art</title>
+		<editor>
+			<persName><forename type="first">Bassam</forename><surname>El</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">Baroni</forename></persName>
+		</editor>
+		<meeting><address><addrLine>Berlin</addrLine></address></meeting>
+		<imprint>
+			<publisher>Sternberg Press</publisher>
+			<date type="published" when="2021">2021</date>
+			<biblScope unit="page" from="9" to="18" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<monogr>
+		<title level="m" type="main">The Rustle of Language</title>
+		<author>
+			<persName><forename type="first">Roland</forename><surname>Barthes</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1986">1986</date>
+			<publisher>Hill and Wang</publisher>
+			<pubPlace>Trans. Richard Howard. New York</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title level="a" type="main">Simulacra and Simulations</title>
+		<author>
+			<persName><forename type="first">Jean</forename><surname>Baudrillard</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Jean Baudrillard: Selected Writings</title>
+		<editor>
+			<persName><forename type="first">Mark</forename><surname>Poster</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Stanford</addrLine></address></meeting>
+		<imprint>
+			<publisher>Stanford University Press</publisher>
+			<date type="published" when="2001">2001</date>
+			<biblScope unit="page" from="166" to="184" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<monogr>
+		<title level="m" type="main">Introduction: The Infrastructure of Emergency</title>
+		<author>
+			<persName><forename type="first">Insko</forename><surname>Hurley</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="page">350</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<monogr>
+		<title level="m" type="main">The Making of Incarnation</title>
+		<author>
+			<persName><surname>Mccarthy</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="page">302</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<title level="a" type="main">The Commons: Infrastructures for Troubling Times*</title>
+		<author>
+			<persName><forename type="first">Lauren</forename><surname>Berlant</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Environment and Planning D: Society and Space</title>
+		<imprint>
+			<biblScope unit="volume">34</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="393" to="419" />
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<monogr>
+		<title level="m" type="main">On the Inconvenience of Other People</title>
+		<imprint>
+			<date type="published" when="2022">2022</date>
+			<publisher>Duke University Press</publisher>
+			<pubPlace>Durham</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<monogr>
+		<title level="m" type="main">The Value of the Novel</title>
+		<author>
+			<persName><forename type="first">Peter</forename><surname>Boxall</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2012">2012</date>
+			<publisher>Cambridge University Press</publisher>
+			<pubPlace>Cambridge</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<monogr>
+		<title level="m" type="main">The Divine Comedy: Volume III, Paradise. Trans. with introduction and commentary by Mark Musa</title>
+		<author>
+			<persName><forename type="first">Alighieri</forename><surname>Dante</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1984">1984</date>
+			<publisher>Penguin Books</publisher>
+			<pubPlace>London</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<monogr>
+		<title level="m" type="main">Specters of Marx: The State of the Debt, the Work of Mourning and the New International</title>
+		<author>
+			<persName><forename type="first">Jacques</forename><surname>Derrida</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2006">2006</date>
+			<publisher>Routledge</publisher>
+			<pubPlace>London</pubPlace>
+		</imprint>
+	</monogr>
+	<note>Translated by Peggy Kamuf</note>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<analytic>
+		<author>
+			<persName><forename type="first">Marc</forename><surname>Farrant</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Neoliberalism, Critique, and the Contemporary Novel: Tom McCarthy and Theory Fiction</title>
+		<imprint>
+			<date type="published" when="2023">2023</date>
+			<biblScope unit="volume">69</biblScope>
+			<biblScope unit="page" from="341" to="364" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<analytic>
+		<title level="a" type="main">The Making of Incarnation by Tom McCarthy: A Quest for Perfection</title>
+		<author>
+			<persName><forename type="first">Andrew</forename><surname>Gallix</surname></persName>
+		</author>
+		<ptr target="https://www.irishtimes.com/culture/books/the-making-of-incarnation-by-tom-mccarthy-a-quest-for-perfection-1.4674827" />
+	</analytic>
+	<monogr>
+		<title level="j">The Irish Times</title>
+		<imprint>
+			<date type="published" when="2021-10-06">6 October 2021. May 2025</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<monogr>
+		<title level="m" type="main">Managing On Her Own: Dr. Lillian Gilbreth and Women&apos;s Work in the Interwar Era</title>
+		<author>
+			<persName><forename type="first">Laurel</forename><surname>Graham</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1998">1998</date>
+			<publisher>Engineering &amp; Management Press</publisher>
+			<pubPlace>Norcross, GA</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<analytic>
+		<title level="a" type="main">Reality According to Tom McCarthy</title>
+		<author>
+			<persName><forename type="first">Giles</forename><surname>Harvey</surname></persName>
+		</author>
+		<ptr target="https://www.nytimes.com/2021/11/02/books/review/tom-mccarthy-making-incarnation.html" />
+	</analytic>
+	<monogr>
+		<title level="j">The New York Times</title>
+		<imprint>
+			<date type="published" when="2021-11-02">2 November 2021. May 2025</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<monogr>
+		<title level="m" type="main">The Metaphysics of Virtual Reality</title>
+		<author>
+			<persName><forename type="first">Michael</forename><surname>Heim</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1993">1993</date>
+			<publisher>Oxford University Press</publisher>
+			<pubPlace>Oxford</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<analytic>
+		<title level="a" type="main">Introduction: The Infrastructure of Emergency</title>
+		<author>
+			<persName><forename type="first">Jessica</forename><surname>Hurley</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Jeffrey</forename><surname>Insko</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">American Literature</title>
+		<imprint>
+			<biblScope unit="volume">93</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="345" to="359" />
+			<date type="published" when="2021">2021</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<analytic>
+		<title level="a" type="main">Book Review: The Making of Incarnation, by Tom McCarthy</title>
+		<author>
+			<persName><forename type="first">Stuart</forename><surname>Kelly</surname></persName>
+		</author>
+		<ptr target="https://www.scotsman.com/arts-and-culture/books/book-review-the-making-of-incarnation-by-tom-mccarthy-3393873" />
+	</analytic>
+	<monogr>
+		<title level="m">The Scotsman</title>
+		<imprint>
+			<date type="published" when="2021-09-23">23 September 2021. May 2025</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<analytic>
+		<title level="a" type="main">The Politics and Poetics of Infrastructure</title>
+		<author>
+			<persName><forename type="first">Brian</forename><surname>Larkin</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Annual Review of Anthropology</title>
+		<imprint>
+			<biblScope unit="volume">42</biblScope>
+			<biblScope unit="page" from="327" to="343" />
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b27">
+	<monogr>
+		<title level="m" type="main">Becoming Virtual: Reality in the Digital Age</title>
+		<author>
+			<persName><forename type="first">Pierre</forename><surname>Lévy</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1998">1998</date>
+			<publisher>Plenum Press</publisher>
+			<pubPlace>New York</pubPlace>
+		</imprint>
+	</monogr>
+	<note>Translated by Robert Bononno</note>
+</biblStruct>
+
+<biblStruct xml:id="b28">
+	<monogr>
+		<author>
+			<persName><forename type="first">Jean-François</forename><surname>Lyotard</surname></persName>
+		</author>
+		<title level="m">The Postmodern Condition: A Report on Knowledge</title>
+		<editor>
+			<persName><forename type="first">Geoff</forename><surname>Bennington</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">Brian</forename><surname>Massumi</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Minneapolis</addrLine></address></meeting>
+		<imprint>
+			<publisher>University of Minnesota Press</publisher>
+			<date type="published" when="1984">1984</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b29">
+	<monogr>
+		<title level="m" type="main">Corridor: Media Architectures in American Fiction</title>
+		<author>
+			<persName><forename type="first">Kate</forename><surname>Marshall</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2013">2013</date>
+			<publisher>University of Minnesota Press</publisher>
+			<pubPlace>Minneapolis</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b30">
+	<analytic>
+		<title level="a" type="main">Infrastructural Prolepsis: Contemporary American Literature and the Future Anterior</title>
+		<author>
+			<persName><forename type="first">Reuben</forename><surname>Martens</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Pieter</forename><surname>Vermeulen</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Resilience: A Journal of the Environmental Humanities</title>
+		<imprint>
+			<biblScope unit="volume">8</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="15" to="39" />
+			<date type="published" when="2021">2021</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b31">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">Tom</forename><surname>Mccarthy</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Remainder</surname></persName>
+		</author>
+		<author>
+			<persName><surname>London</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2007">2007</date>
+			<publisher>Vintage Books</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b32">
+	<monogr>
+		<title level="m">Men in Space</title>
+		<meeting><address><addrLine>London</addrLine></address></meeting>
+		<imprint>
+			<publisher>Vintage Books</publisher>
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b33">
+	<monogr>
+		<title level="m" type="main">The Mattering of Matter: Documents from the Archive of the International Necronautical Society</title>
+		<author>
+			<persName><forename type="first">Tom</forename><surname>Mccarthy</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2012">2012</date>
+			<publisher>Sternberg Press</publisher>
+			<pubPlace>Berlin</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b34">
+	<monogr>
+		<title level="m" type="main">Satin Island: A Novel</title>
+		<author>
+			<persName><forename type="first">Tom</forename><surname>Mccarthy</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2015">2015</date>
+			<publisher>Alfred A. Knopf</publisher>
+			<pubPlace>New York</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b35">
+	<monogr>
+		<title level="m">Typewriters, Bombs, Jellyfish: Essays</title>
+		<meeting><address><addrLine>New York; London</addrLine></address></meeting>
+		<imprint>
+			<publisher>Jonathan Cape</publisher>
+			<date type="published" when="2017">2017. 2021</date>
+		</imprint>
+	</monogr>
+	<note>The Making of Incarnation</note>
+</biblStruct>
+
+<biblStruct xml:id="b36">
+	<analytic>
+		<title level="a" type="main">The Making of Incarnation by Tom McCarthy Review -All Work and No Play</title>
+		<author>
+			<persName><forename type="first">Jonathan</forename><surname>Myerson</surname></persName>
+		</author>
+		<ptr target="https://www.theguardian.com/books/2021/sep/12/the-making-of-incarnation-tom-mccarthy-review" />
+	</analytic>
+	<monogr>
+		<title level="j">The Guardian</title>
+		<imprint>
+			<date type="published" when="2021-09-12">12 September 2021. May 2025</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b37">
+	<analytic>
+		<title level="a" type="main">Dirty Media: Tom McCarthy and the Afterlife of Modernism</title>
+		<author>
+			<persName><forename type="first">Justus</forename><surname>Nieland</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">MFS Modern Fiction Studies</title>
+		<imprint>
+			<biblScope unit="volume">58</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="569" to="599" />
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b38">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">George</forename><surname>Orwell</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2003">2003</date>
+			<publisher>Penguin Books</publisher>
+			<pubPlace>Nineteen Eighty-Four. London</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b39">
+	<analytic>
+		<title level="a" type="main">Infrastructure, Ideology, Hegemony</title>
+		<author>
+			<persName><forename type="first">Matthew</forename><surname>Poole</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Between the Material and the Possible: Infrastructural Re-Examination and Speculation in Art</title>
+		<editor>
+			<persName><forename type="first">Bassam</forename><surname>El</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">Baroni</forename></persName>
+		</editor>
+		<meeting><address><addrLine>Berlin</addrLine></address></meeting>
+		<imprint>
+			<publisher>Sternberg Press</publisher>
+			<date type="published" when="2021">2021</date>
+			<biblScope unit="page" from="21" to="34" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b40">
+	<monogr>
+		<author>
+			<persName><forename type="first">Kelly</forename><forename type="middle">M</forename><surname>Rich</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Nicole</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Susan</forename><surname>Rizzuto</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Zieger</surname></persName>
+		</author>
+		<title level="m">The Aesthetic Life of Infrastructure: Race, Affect, Environment</title>
+		<meeting><address><addrLine>Evanston</addrLine></address></meeting>
+		<imprint>
+			<publisher>Northwestern University Press</publisher>
+			<date type="published" when="2023">2023</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b41">
+	<analytic>
+		<title level="a" type="main">People as Infrastructure: Intersecting Fragments in Johannesburg</title>
+		<author>
+			<persName><forename type="first">Abdoumaliq</forename><surname>Simone</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Public Culture</title>
+		<imprint>
+			<biblScope unit="volume">16</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="407" to="429" />
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b42">
+	<monogr>
+		<title level="m" type="main">The New York Review of Books</title>
+		<author>
+			<persName><forename type="first">Zadie</forename><surname>Smith</surname></persName>
+		</author>
+		<ptr target="http://www.nybooks.com/articles/2008/11/20/two-paths-for-the-novel/" />
+		<imprint>
+			<date type="published" when="2008-11-20">20 November 2008. May 2025</date>
+		</imprint>
+	</monogr>
+	<note>Two Paths for the Novel</note>
+</biblStruct>
+
+<biblStruct xml:id="b43">
+	<monogr>
+		<title level="m" type="main">The Two Cultures</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">P</forename><surname>Snow</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2012">2012</date>
+			<publisher>Cambridge University Press</publisher>
+			<pubPlace>Cambridge</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b44">
+	<analytic>
+		<title level="a" type="main">Between Not Everything and Not Nothing: Cuts Towards Infrastructural Critique</title>
+		<author>
+			<persName><forename type="first">Marina</forename><surname>Vishmidt</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Former West: Art and the Contemporary After 1989</title>
+		<editor>
+			<persName><forename type="first">Maria</forename><surname>Hlavajova</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">Simon</forename><surname>Sheikh</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Cambridge, MA</addrLine></address></meeting>
+		<imprint>
+			<publisher>The MIT Press</publisher>
+			<date type="published" when="2017">2017</date>
+			<biblScope unit="page" from="265" to="269" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b45">
+	<analytic>
+		<title level="a" type="main">Introduction: Dreaming of Infrastructure</title>
+		<author>
+			<persName><forename type="first">Patricia</forename><surname>Yaeger</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">PMLA</title>
+		<imprint>
+			<biblScope unit="volume">122</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="9" to="26" />
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

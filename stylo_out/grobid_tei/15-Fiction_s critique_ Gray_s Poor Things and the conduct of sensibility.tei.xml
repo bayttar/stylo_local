@@ -1,0 +1,713 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Fiction&apos;s critique: Gray&apos;s Poor Things and the conduct of sensibility</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author role="corresp">
+							<persName><forename type="first">Timothy</forename><surname>O'leary</surname></persName>
+							<email>t.oleary@unsw.edu.au</email>
+							<affiliation key="aff0">
+								<orgName type="department">School of Humanities and Languages</orgName>
+								<orgName type="institution">University of New South Wales</orgName>
+								<address>
+									<settlement>Sydney</settlement>
+									<country key="AU">Australia</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff1">
+								<orgName type="institution">CONTACT Timothy O&apos;Leary</orgName>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Fiction&apos;s critique: Gray&apos;s Poor Things and the conduct of sensibility</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date/>
+						</imprint>
+					</monogr>
+					<idno type="MD5">0051B2F1C9C90F7F48BBD3B7CFEFCD41</idno>
+					<idno type="DOI">10.1080/0950236X.2025.2608009</idno>
+					<note type="submission">Received 23 January 2025; Accepted 7 November 2025</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.0" ident="GROBID" when="2026-02-25T19:53+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term>Critique</term>
+					<term>fiction</term>
+					<term>sensibility</term>
+					<term>Poor Things</term>
+					<term>Foucault</term>
+				</keywords>
+			</textClass>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>This essay explores how works of literary fiction contribute to the aims of critique, understood along Foucauldian lines as a transformative engagement with modes of subjectivity. Drawing on the work of Michel Foucault and Jacques Rancière, these modes are defined in terms of the 'conduct of sensibility'. Alasdair Gray's novel Poor Things (1992) reveals aspects of the conduct of sensibility and of the battle between conflicting forces that strive to give shape to that conduct. The novel makes a contribution to the practice of critique by providing both an analysis of a certain framework of subjectivation and by offering a strategic map for its transformation. If the conduct of sensibility unfolds along an axis of perception, interpretation, and action, then works of fiction offer privileged access to that complex web, not only as tools for analysis but also as interventions that nudge, probe, and disrupt. Hence, rather than critique on its own, or literature on its own, being able to engage in effective critique, my argument is that the practice of critique needs fiction, not as an occasional object of analysis but as a constant ally in its work.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>I</head><p>The film Poor Things 3 takes one section of the novel Poor Things <ref type="bibr" target="#b2">4</ref> , adds elements of a steam-punk aesthetic, injects a theme of revenge fantasy, and presents a visually stunning and outstandingly performed narrative of fantastic events. It is a perfect example of the potential of film fiction to entertain, move, and provoke debate. The novel Poor Things, however, does something different. <ref type="bibr" target="#b3">5</ref> The novel constructs a web of partial and conflicting narratives and perspectives that each purport to recount and interpret the life of a woman called either Bella Baxter or Victoria McCandless. In doing so it employs genres and registers that include memoir, biography, epistolary narrative, scholarly footnotes, historiographical debate, and gothic illustration. Through this layering of discourses, which are never fully reconciled with each other, one of the things the novel does is to provide a framework for understanding the way people are nudged and guided to perceive and understand the world in particular ways. Its central protagonist, Bella-Victoria, starts life anew as an adult who, depending on the narrative, is remaking her identity either by necessity or choice. <ref type="bibr" target="#b4">6</ref> Observing this process of reinscribing a tabula rasa, the novel shows something about the way sensibilities are moulded by both internal and external forces and the way those sensibilities in turn guide action. That is, it reveals aspects of the conduct of sensibility and of the battle between conflicting forces that strive to give shape to that conduct; and also, to the forces, including fiction, that presume to interpret and judge the lives of others. This work of staging the complex formation of a mode of sensibility, as told from multiple viewpoints, means that the novel Poor Things makes a potential contribution to the practice of critique, where critique is understood along the Foucauldian lines that I will sketch below. My aim is to explore this contribution, and more broadly to consider the relations between works of fiction, critical practices, and modes of sensibility; with a view to arguing that such practices of critique can benefit from engaging with literary fiction, both as an analysis of modes of subjectivation and as a strategic map for its transformation.</p><p>Since its first publication in 1992, Poor Things has attracted a significant amount of critical engagement. Like much of Gray's work, it is often seen in the context of explorations of Scottish national identity and its playful manipulation of genres and styes. More specifically, Alasdair Gray is very much a Glasgow author, whose relation to the city is analogous to that between Joyce and Dublin. In fact, one of the frequent criticisms of the film adaptation of the novel was that it moved the central action to London, thus undermining Gray's critical stance towards colonisation and metropolitan centres of power, which is a key theme running through Poor Things. <ref type="bibr" target="#b5">7</ref> While these themes are crucial aspects of the novel, they are not central to my focus. Rather, what interests me here is the way Poor Things ceaselessly foregrounds its status as fiction and as fabrication. The novel comprises at least five different modes of discourse that interweave and contradict each other as they purport to convey the truth of the life of Bella Baxter, aka Victoria McCandless. First, there are the illustrations and engravings by the (actual) author, Alasdair Gray, with their moody gothic atmosphere. Second, there is the Introduction by the (fictional) editor Alasdair Gray. Third we have the 1909 memoir by Archibald McCandless (which itself is multi-layered, including extracts of letters from Bella Baxter and her lover Duncan Wedderburn, and psychological evaluations of Bella, purportedly written by luminaries including Charcot, Breuer and Kraepelin). This memoir constitutes the core of the novel and provides the narrative for the 2023 film adaptation. Fourth we have the letter written in 1914 (approximately thirty years after the events recounted in the memoir) by Victoria McCandless, the 'real' Bella Baxter, which completely rejects the narrative of Archibald's memoir. And finally, there are Chapter Notes with historical and critical comments by the (fictional) editor Alasdair Gray, which seek to defend the plausibility of Archibald's memoir about Bella, while also hedging its bets by continuing the story of Victoria McCandless, through diverse documentary sources, up to her death in 1946.</p><p>The multi-layered, multi-discursive form of this novel bears a striking resemblance to the structure of some of the edited collections that Michel Foucault published in the 1970s and early 1980s. <ref type="bibr" target="#b6">8</ref> For example, Foucault's Herculine Barbin: being the recently discovered memoirs of a Nineteenth-Century French Hermaphrodite, which is an edited collection of texts that focuses on the case of a nineteenth-century French intersex person, Herculine Barbin (1838-1868). Herculine lived as female until she was twenty-two but, after an extensive medical, legal, and religious investigation, was forced to change her civil status to male and shortly afterwards died by suicide. The book brings together an array of archival documents that cast light on this case from multiple perspectives, including: an Introduction by Foucault; the memoir written by Herculine herself shortly before she died; a series of reports based on medical examinations of Herculine; documents from church authorities; contemporary press reports; and an extract from a latenineteenth century novel, A Scandal in the Convent, that is loosely based on her case. While Gray's fictional narrative plays with the styles and norms of historical discourse, Foucault's collection of historical documents is assembled in such a way as to induce effects of fiction. As authors, both Gray and Foucault are aware of the benefits of this dual valency. In Poor Things, the question of the veracity of the central documents is an explicit meta-fictional concern. Gray goes to great lengths to create a simulacrum of historical authenticity, complete with an acknowledgement of historiographical disagreement and competing interpretations. Foucault, for his part, combines texts that cover a spectrum including medico-scientific examinations, non-fiction genres such as life-writing, journalism, and a work of scandalous literature. It is not by chance that this staging of diverse discourses has clear resonances with novels such as Poor Things.</p><p>Readers of Foucault sometimes assume that, after an early phase in the 1960s, in which he was fascinated with the works of writers such as Sade, Blanchot, Bataille, and the nouveau roman, he abandoned literary works for the more serious tasks of archival research and socially engaged critique. <ref type="bibr" target="#b8">9</ref> However, it would be more accurate to say that what Foucault had learned about the practices of fiction, in the early 1960s, came to diffuse his entire work at a fundamental level. As I have noted, an obvious example ot this mobiisation of the techniques of fiction in his edited collections of the 1970s and 80s. But we can also read key works like Discipline and Punish [1975]  <ref type="bibr" target="#b9">10</ref> and The History of Sexuality, volume 1 [1976]  <ref type="bibr" target="#b10">11</ref> as texts that are highly effective in staging turning points in the genealogy of knowledge and practices precisely because of their use of techniques of fiction. At a fundamental level, therefore, as Foucault was later to acknowledge, there is a strong relation between his historical works and works of fiction: 'I am well aware that I have never written anything but fictions', he says, going on to explain that one must be open to the possibility that 'a true discourse engenders or "manufactures" something that does not as yet exist, that is, "fictions" it'. <ref type="bibr" target="#b11">12</ref> If, as Gallagher suggests, 'no feature of the novel seems to be more obvious and yet more easily ignored than its fictionality' ('The Rise of Fictionality', 344), I would argue that fictionality is even more easily forgotten in the case of texts of critique. Foucault's edited collections are one, particularly salient example of this relation to fiction, but one could draw similar connections in the case of many other works, from Foucault's own Discipline and Punish (1995), to Nietzsche's On the Genealogy of Morality <ref type="bibr">13 (2006)</ref> and Virginia Woolf's Three Guineas <ref type="bibr">14 (2019)</ref>. Against this tendency to ignore their fictionality, I argue that works of critique are bound up with fiction in two senses. First, as we have just seen, they can be so in the direct sense that they draw explicitly upon techniques that are often mobilised by fiction, such as Foucault's staging of a polyphony of voices in Herculine Barbin, with a view to generating a critical effect.</p><p>Second, as I will focus on here, there is a more general sense in which fiction and critique are connected. One of the things they both do is to explore processes of subject-formation as they occur over time within precise social contexts. But more than this, works of literary fiction also experiment with new forms of subjectivity and new ways of experiencing the world. Insofar as works of literary fiction engage in both an exploration of existing subjectivities and the imagining of new forms of subjectivity, I suggest that theorists working within the broadly conceived field of critical studies can benefit from paying them sustained attention. Before seeing how that argument plays out in my reading of Poor Things, however, I want to clarify some of the key theoretical terms I will be using.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>II</head><p>I am suggesting that Gray's Poor Things is a fruitful entry point into reconsidering the relation between works of fiction, practices of critique, and modes of sensibility. These three concepts, fiction, critique, and sensibility arguably belong to the category of what W.B. Gallie called 'essentially contested' <ref type="bibr" target="#b14">15</ref> or 'essentially complex' <ref type="bibr" target="#b15">16</ref> concepts. That is, they each carry with them their own long, complex history of disputed definitions and competing social practices; a history of contestations that it is neither possible nor desirable to resolve into univocity. Nevertheless, even as 'essentially contested' concepts, it is possible to provide a provisional working definition of each of them. My understanding of critique follows the account given in Michel Foucault's late work. In a series of papers from the last years of his life, Foucault identified and analysed a tradition of critique that, while it stretched back to the early modern period, took its recognisable modern form as an attitude or an ethos first with Kant and then in the nineteenth-century experience of modernity. At its core, this attitude is oriented towards 'a permanent critique of our historical era' and a 'critical ontology of ourselves'. <ref type="bibr" target="#b16">17</ref> For Foucault, this critical attitude and intellectual practice consists of two essential steps: first, 'the historical analysis of the limits imposed on us' and second, 'an experiment with the possibility of going beyond' those limits (p. 319). If we consider these two steps in the light of processes of subject-formation or 'subjectivation', then we have the core of the understanding of critique that I will follow. <ref type="bibr" target="#b17">18</ref> I use the term fiction in two senses. First, in accordance with contemporary everyday usage, I take it to indicate a particular type of literary text, most exemplified today by the novel. This is the straightforward sense in which fiction indicates both a section in a bookshop and a kind of book prize that is distinguished from a prize for history, non-fiction, or poetry. Hence, in this paper, I offer a reading of a work of fiction, the novel Poor Things, and I make suggestions that could apply to any number of other such works. The second sense in which I use fiction is richer and more complex, drawing on the term's etymology that traces back, at least, to the Latin fictionem -on the one hand, a kind of making and forming (possibly by hand, possibly a pot) and on the other hand, a kind of feigning and deceiving (in the sense that Ulysses was a master of deceit). <ref type="bibr" target="#b18">19</ref> This is the sense of fiction that Foucault draws on when he says, 'I am well aware that I have never written anything but fictions' ('History of sexuality ', p. 193). In the quotes given above, Gallagher and Rancière draw on both senses of the term. For Gallagher, the eighteenth-century novelist Henry Fielding writes works of literary fiction, for sure, but unlike earlier novelists, he does so with a view to also engaging in the fictive work of 'shaping knowledge through the fabrication of particulars' (p. 344). While for Rancière, works of literary fiction, for example novels, engage in 'the labour of fiction' by moulding and reshaping 'modes of individuality' and 'forms of perception' (p. 141). It is this combination of two of the possible senses of fiction that will be particularly useful in this paper; that is, fiction designates both works of literary fiction and the 'fictive' work of making and remaking ways of knowing, perceiving, and experiencing.</p><p>My understanding of sensibility draws on Jacques Rancière's concept of the 'distribution of the sensible' [le partage du sensible]. <ref type="bibr" target="#b19">20</ref> In essence, Rancière's suggestion is that any given social world will be characterised by a specific, historically malleable, framework according to which the world of sense perception -what can be perceived and experienced, and by whom -is structured. It comprises:</p><p>… the system of self-evident facts of sense perception that simultaneously discloses the existence of something in common and the delimitations that define the respective parts and positions within it … A distribution of the sensible therefore establishes at one and the same time something common that is shared and exclusive parts. ('Politics', p. 7)</p><p>It is this distribution that makes possible shared social experiences, while simultaneously excluding certain social groups and marginalising certain forms of experience. We can think of it as the overarching framework that explains why, for example, in certain societies white people are likely to be blind to racism, or men are likely to be blind to sexism. Sensibility, therefore, comprises the perceptions and judgements that determine which elements of our world are salient, perceivable, and remarkable, thus giving rise to voluntary and involuntary responses to those elements, including affirmation, denial, and avoidance.</p><p>By the conduct of sensibility, I want to indicate, on the one hand, the ways in which a sensibility is formed, influenced, and managed within a social context and, on the other hand, the ways in which a given sensibility in its turn facilitates, or makes more or less likely, certain forms of conduct. That is, my concept of the conduct of sensibility comprises sensibility understood as both moulded by a social context and as giving rise to actions within and potentially against that context. This concept also draws inspiration from Foucault's definition of the exercise of power as 'a set of actions on possible actions … a conduct of conducts and a management of possibilities' ('Subject and Power', p. 341). That is, power operates by acting upon the actions of others, by guiding or conducting their modes of conduct; and the modes of the conduct of sensibility are no exception to this principle of operation. My concept of the conduct of sensibility, therefore, aims to grasp not only the ways in which a distribution of the sensible is connected to modes of conduct, in a sense as inputs and outputs, but also the ways in which sensibility itself is a battleground for control or influence. In other words, the ways in which there is a battle, at the level of broad social forces and at the level of the individual, for the conduct of sensibility. In a nutshell, therefore, the conduct of sensibility concerns two things: what gets noticed and what gets done about it.</p><p>Combining these three concepts, my aim is to explore the extent to which works of literary fiction both resonate with and contribute to the aims of critique, understood as the transformative engagement with modes of subjectivity, where these modes are primarily defined, for present purposes, in terms of the conduct of sensibility. In other words, what can literary fiction tell us about, and how can it contribute to, critique; and how does Poor Things exemplify this contribution?</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>III</head><p>Fundamentally, as Godwin Baxter says about Archibald's narrative, this novel concerns 'making a conscience' (p. 102). In fact, it is 'a bildungsroman of a decidedly peculiar sort', <ref type="bibr" target="#b20">21</ref> in which the three central characters in one way or another are explicitly 'made' during the narrative. Archibald McCandless's memoir starts with the chapter 'Making Me' and continues with 'Making Godwin Baxter' and 'Making Bella Baxter'. All three characters have slightly murky background. McCandless is an impoverished, illegitimate son and orphan, who wants to secure a medical degree; Baxter is either the illegitimate son of a renowned surgeon or the Frankensteinian creation of his supposed father; and Bella-Victoria is either a product of a similarly grotesque procedure or a woman who flees an abusive husband and father to remake herself and her life. At the centre of the novel, at least according to McCandless's memoir, we witness the outcome of an experiment in which Godwin Baxter, aka 'God', a rogue medical researcher and vivisectionist, takes the drowned, pregnant body of a young woman (Victoria), transplants the brain of her unborn foetus into the adult body, revives the body, and then takes her into his home in Glasgow, in the guise of an orphaned niece (Bella) -initially with the motivation of satisfying his sexual desires, although he never carries out that plan. On this account, Bella is, in effect, born into the world as an adult woman with an infant brain, having no accumulated experience and, consequently, no acquired mode of sensibility. Despite the plans, desires, and predations of the men who surround her, however, she embarks on a voyage of sexual and intellectual discovery that takes her across Europe, from Glasgow to London, Lisbon, Switzerland, Egypt, and to a short period as a sex worker in Paris. On her return to Glasgow, she marries McCandless, secures a medical qualification, and commits her life to Fabian Socialism and to improving the lives of the disadvantaged in a women's health clinic that she funds with her inheritance from Baxter.</p><p>The gothic and fantastic elements of this tale are brought into question, however, by the contents of a letter written by Victoria McCandless in 1914, which is to be opened by her great-grandchildren in 1974. This letter presents itself as a no-nonsense factual account of the key events of the writer's life, focussed on setting the record straight for posterity and also, in passing, presenting her husband Archibald as a lazy, ineffectual, and vain man. It criticises Archibald's memoir as a narrative that 'positively stinks of all that was morbid in that most morbid of centuries, the nineteenth … What morbid Victorian fantasy has he NOT filched from?' (pp. 272-273). In the letter there is no vivisection, no brain transplants, no revived corpse. Nonetheless, Victoria's account has a similar cast of characters and begins with a similar fresh beginning, albeit less fantastical than Archibald's tale of medical experimentation. Fleeing her abusive husband, Victoria takes refuge with Godwin Baxter, the only man who has shown her any kindness, before embarking on a similar journey of sexual and moral discovery, with a similar denouement, as she returns to Glasgow to marry Archibald and work as a doctor treating disadvantaged women.</p><p>Since a large part of McCandless's memoir also consists of a letter purportedly written by Bella herself, the novel actually provides us with two accounts of the making of a conscience, each written in the first person by a version of the same character. While the two accounts differ in many details and in style, there is no doubt that, in this fictional world, they concern the same person. This person, Bella-Victoria, is a woman who lives surrounded by men who either abuse or try to control her, but also in key moments help her to embark on her own journeys of discovery. <ref type="bibr" target="#b21">22</ref> For example, Bella's creator, 'God', turns from a potential sexual abuser to a benevolent father-figure who supports her development and her own life-plans. In the Victoria narrative, we learn that as a child, brought up in poverty by a miserly and violent father, she had been trained by her mother to be 'a working man's domestic slave' and, after the family comes into money, had been trained by the nuns to be 'a rich man's domestic toy' (p. 258). Later, however, when she is married to the abusive General Blessington, Godwin refuses to administer the clitoridectomy that she has been led to believe will resolve her sexual dissatisfaction, and it is to him that she flees when she leaves her marriage and chooses to remake her life.</p><p>Everything that happens in the novel unfolds against this background reality of the inequality and lack of autonomy of women in nineteenth century European society. Even the twentieth-century scholarly notes, the historiographical debates, and the editorial framing device, not to mention the actual author, all involve men talking about, interpreting and judging, the life of a woman. In this regard, even though the novel is usually compared to Mary Shelley's Frankenstein, <ref type="bibr" target="#b22">23</ref> it also resonates with George Bernard Shaw's Pygmalion, <ref type="bibr" target="#b23">24</ref> in which a man 'creates' a woman, although with unexpected consequences. It is worth acknowledging that this centrality of male judgements and fantasies opens the novel to the criticism that it is ultimately more in tune with traditional modes of subjectivity, including patriarchal social structures, than it is potentially critical of them. I would suggest, however, that Poor Things is too complex and multi-layered a work to be pinned down in this way. In fact, if the 2023 film adaptation has provoked so much debate about the film's status as 'feminist' or 'anti-feminist', it is perhaps because it confines itself exclusively to a dramatisation of one part of the novel, McCandless's memoir, in which the male sexualised gaze is most prevalent. As Ann Lee notes:</p><p>Crucially, in the original novel, Bella denounces everything that happens, claiming it was all the 'morbid' imaginings of her 'poor fool' of a husband, whose account we have initially been following. So yes, it makes sense that it comes across as a male fantasy as that's what the author was intending, as part of his commentary on how these are projected on to women, but we don't get to see that condemnation from Bella on screen. <ref type="bibr" target="#b24">25</ref> Hence, one could argue that the film adaptation, in limiting itself to one perspective, removes the potential critical sting of Gray's novel. <ref type="bibr" target="#b25">26</ref> Putting these debates to one side, then, I want to focus on what the novel, treated as a whole, can tell us about the specific, often gendered, forms of the conduct of sensibility that play out within particular social contexts.</p><p>The dominance of male desires and male power is the key salient feature of what we could call the underlying 'distribution of the sensible' of the novel's milieu. What is interesting about the novel, from my point of view, however, is not so much its representation or its critique of this reality, but the way it explores how an individual carves out a mode of thinking, feeling, and acting within and against that background distribution of the sensible. How did this individual, Bella-Victoria, go from being a domestic slave or a man's sexual fantasy, to a person who became a Fabian Socialist who devoted her life to helping disadvantaged women and children? In other words, how does Bella-Victoria's individual conduct of sensibility intersect with the broader social forces that act upon all individuals? And what is special about the way a work of fiction, as opposed to a work of history or of social science, can present this process? I want to focus on the fallout from a single event, Bella's initial loss of moral innocence, when she visits the city of Alexandria in Egypt. Bella goes ashore with two fellow cruise ship passengers, the American missionary Dr Hooker, who is an apologist for empire and white, Christian supremacy and the amoral English cynic Mr Astley. Both these men treat Bella as a blank slate on which they try to write their own respective, conflicting worldviews. On her insistence, however, they agree that her naivety about the human condition needs to be corrected with a dose of harsh reality by exposure to what they call 'the degrading spectacle of human filth and misery' (p. 142). At first, instead of seeing the details of this visit, the reader only sees the immediate aftermath of the shock this exposure induces. The novel presents a facsimile of a page from Bella's letter to Godwin Baxter that conveys her initial response to the event through almost illegible, tear-stained words. Baxter deciphers her words:</p><p>No no no no no no no no no, help blind baby, poor little girl help help both, trampled no no no no no no no no no no no no no no no no no no no, no where my daughter, no help for blind babies poor little girls I am glad I bit Mr. Astley. (p. 151) Bella later shares the details of what she had seen (pp. 173-176), but really it is the immediate effect that matters. Up to this moment, Bella had assumed that 'everyone … was part of the same friendly family' (p. 143). What she sees in Alexandria, however, the thoughtless cruelty and abject suffering, opens her eyes to a human reality that one element of the narrative clearly attributes to the exploitation of women and the colonised. Bella, however, has very little framework to understand this spectacle that she finds so shocking. And, so, her state of inarticulacy quickly gives way to the desire to understand, and then ameliorate, human suffering; 'how could I stop all this? I did not know what to do' (p. 176). Thus, for Bella, sensibility is, quite literally, a matter not just of what gets noticed but also what gets done about it.</p><p>As Bella seeks a way forward, we see the battle for the conduct of her sensibility playing out. Having already moved beyond the short-term pursuit of pleasure with Wedderburn, she is now faced with an apparent choice between Dr Hooker's heartless brand of Christian colonisation and Astley's unfeeling cynicism. Neither of these worldviews, however, satisfy her. To Astley's claim that there are 'three kinds of people' in the world; the childishly innocent (as Bella was), the selfish optimists (as Dr Hooker is), and the doomed cynics (as Astley is), she responds that there must be a fourth way of being, as she doesn't want to be 'a childish fool a selfish optimist or equally selfish cynic' (p. 156). Astley concedes that there are also the 'world improvers' who seek a progressive fourth way, from socialists and communists to anarchists and terrorists (pp. 161-163), but advises Bella against pursuing this path. Bella, however, rejects his cynicism and declares in a letter to Godwin Baxter, 'I must be a Socialist' (p. 164). Once she has formulated this commitment, she is ready to return to Glasgow and start her life's work, warning Baxter that 'you must answer some difficult questions for me. You must tell me how to do good and not to be a parasite' (p. 189).</p><p>One of the most striking features of these accounts of 'making a conscience' (p. 102) however, is that, despite the unshakeable moral certainty that Bella-Victoria embraces, the formal structure of the novel itself undermines all certainty by bringing into question the reliability of the narratives, and not only the narratives, but all the conflicting scholarly apparatus and interpretations that surround them. At one level, the novel provides two versions of the same tale; a tale in which a young woman throws off the shackles of Victorian morality, attains her sexual freedom, and, after some formative experiences, commits her life to a progressive, optimistic feminist socialism. In this way, we could say that both narratives converge in telling a tale of emancipation against enormous odds. Almost like a choose your own adventure, you can pick either the gothic fantasy version or the matter-of-fact version, but in either case the narrative arc will be the same.</p><p>However, readers of the novel do not get to choose which narrative they will follow; because all the narratives, plus the notes, the fabricated historical citations, and the striking illustrations, are part of the reading experience. The final section of the novel, the 'Notes Critical and Historical', in a way mirrors in microcosm the discursive polyvalency of the novel as a whole. It provides extensive details of Victoria's life from 1914 up to her death in 1946, including letters by Victoria and press clippings, in which she is portrayed as a naively optimistic, well-meaning, but increasingly marginalised and slightly delusional crank. But it also incorporates other texts, giving voice to witnesses who have a different view of Victoria, including for example a fictionalised Hugh MacDiarmid, who praises Victoria's work as a medical practitioner and says it was only cowardly spite that prevented her from being accepted into the Scottish medical establishment.</p><p>According to these notes, by the 1940s, Victoria's women's health clinic has dwindled to a practice that she runs from the basement of Baxter's old house, where she tends, in her own words, to 'some children's pets and two elderly hypochondriacs' (p. 317). Yet, despite this downward slide, Victoria holds onto her progressive optimism. In her 1914 Letter, she had expressed optimism that the onset of the First World War would lead to a socialist revolution across Europe -an optimism that we know to have been misplaced. Now, the editor of the Notes claims to have unearthed a letter in which she writes to MacDiarmid in 1945 expressing the hope that the newly elected Labour government will at last establish 'a workers' cooperative nation' (p. 316). -again of course, a misplaced optimism. <ref type="bibr" target="#b26">27</ref> Meanwhile, the editor, maintaining his allegiance to the Archibald memoir to the end, notes that on her death in 1946, Victoria's body was ninety-two while her brain was only sixty-six.</p><p>It is striking, then, that even though both of the central narratives begin with a woman who is created solely for the pleasure of men and end with a woman who has achieved her social, economic, and sexual emancipation, the novel as a whole seems to remain undecided about the nature of Bella-Victoria's life. At the end of it all, the fictional editor has the final word, at least the chronologically final word, which he uses to convey an ironic commentary on the political optimism that was at the core of Bella-Victoria's ethical sensibility and her subsequent decline almost into an object of derision. As a whole, therefore, the novel stages a conflict between warring sensibilities, both in its portrayal of Bella-Victoria and in its voicing of conflicting interpretations of her life. It can be seen as demonstrating the unreliability of multiple modes of discourse, ranging from fantasy fiction and life-writing to history and psychiatry, and hence as making it impossible for a reader to embrace any one of these as conveying the full truth. Or, approached from the other direction, it can be seen as in fact conveying a certain truth, but one that contains so many perspectives as to be almost ungraspable. As Nietzsche insisted:</p><p>There is only a perspectival seeing, only a perspectival knowing; the more affects we are able to put into words about a thing … the more complete will be our 'concept' of the thing, our 'objectivity'. <ref type="bibr" target="#b27">28</ref> Perhaps Gray's novel pushes this principle to the limits of intelligibility.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>IV</head><p>I want now to return to my title, fiction's critique, a phrase which can be read in two ways: it indicates both the critique that fiction does and the critique that fiction has done to it. It involves an investigation into both the ways in which fiction contributes to the aims of critique and also the ways in which critique approaches fiction. In this final section, I want to address both sides of that equation. In other words, how do works of fiction contribute to the aims of critique understood as the 'historical analysis of the limits imposed on us' and an 'experiment with the possibility of going beyond' those limits ('Enlightenment', p. 319); and how should critique, therefore, approach fiction? This approach differs both from the so-called ethical turn in criticism of the 1990s and from some recent calls for a rejection of critique in favour of post-critique (however that is defined).</p><p>It might help to contrast my approach, firstly, with the work of Martha Nussbaum, who provided a key philosophical impetus to the ethical turn in literary criticism in her Love's Knowledge. <ref type="bibr" target="#b28">29</ref> The key point for Nussbaum is that certain works of literature contribute to the moral education of the modern citizen. The protagonists of novels such as James's The Golden Bowl, <ref type="bibr" target="#b29">30</ref> for example, through their modelling of a 'finely aware and richly responsible' sensibility, provide 'a paradigm of moral activity' (p. 148) that ultimately supports 'social democracy' (p. 391). <ref type="bibr" target="#b30">31</ref> It's worth noting that this widely held view of literature as a kind of ethical training ground is also expressed, although from a very different theoretical and political direction, in Gayatri Spivak's concept of 'aesthetic education'. <ref type="bibr" target="#b31">32</ref> Whereas Nussbaum approaches fiction as a pedagogical tool that can refine a reader's capacity to operate within a given mode of the conduct of ethical sensibility, by honing and improving a pre-approved skill, I want to investigate the possibility that fiction can contribute to a more critical approach to that mode of conduct, by unravelling and hence disrupting its regime of sensibility.</p><p>Appealing in this way to the concept of critique, my approach necessarily crosses paths with recent debates about the value of critique, and whether it has a future. How is one to respond, for example, to Bruno Latour's claim that critique has 'run out of steam', <ref type="bibr" target="#b32">33</ref> or to the more recent moves in literary theory to develop a form of post-critical reading of texts? The position I am developing here resonates with recent attempts that respond to challenges such as those of Latour, by beginning to develop more affirmative practices of critique in the present. Collections such as Didier Fassin and Bernard Harcourt's A Time for Critique, <ref type="bibr" target="#b33">34</ref> for example, point towards new ways that critique can be developed in the contemporary world; ways that recognise the limitations of a purely negative, suspicious mode of critique, by renewing the focus on the how of critique. <ref type="bibr" target="#b34">35</ref> Within the field of literary studies, this debate has taken the form of sustained analyses of the limitations of the traditional critical paradigm that relied on reading strategies that were motivated by suspicion of the text, and has opened the way for new post-critical modes of reading, such as the 'surface reading' of Best and Marcus. <ref type="bibr" target="#b35">36</ref> Rita Felski, who has been at the forefront of this questioning of critique, rejects the paradigmatic version of the older form of critique, which she calls 'crrritique', <ref type="bibr" target="#b36">37</ref> and which she characterises as secondary, negative, intellectual, and intolerant of other theoretical paradigms. She argues that the current 'malaise' (p. 119) with that mode of reading literary and cultural texts, frees up literary theorists to 'experiment with modes of argument less tightly bound to exposure, demystification, and the lure of the negative' (p. 120). It is these new modes of argument that, in the end, she is interested in; '[t]he point, in the end', she says, 'is not to redescribe or reinterpret critique but to change it ' (p. 193).</p><p>While these debates, represented here by Latour and Felski, often overlap in both concepts and terminology, it is important to maintain a distinction between them. On the one hand, there is a debate within critical theory of the broadly genealogical, Nietzschean, Foucauldian variety, exemplified by Latour's provocative essay of 2004, which concerns the work of, for example, social scientists, historians, and philosophers, who wish to engage in some variety of socially and politically progressive intellectual work. In this debate, the question is whether the old intellectual models and tools of critique, as exemplified by Foucauldian genealogy, are still fit for purpose. This is a debate that concerns critique in the sense in which I defined it above using Foucault's terms. On the other hand, there is a debate within literary studies that concerns the proper methods and aims of the criticism of literary and other cultural texts. This debate can be seen in the line of earlier debates between, for example, practical criticism and other reading strategies such as Marxism, feminism, New Historicism, and so on. In this debate, there is a concern that recent practices in literary and cultural criticism focused too narrowly on negative, debunking readings of texts and that this paradigm needs to be replaced with more affirmative reading strategies. For the sake of clarity, let's say that this is a debate within criticism, rather than critique.</p><p>There are, of course, many resonances and overlaps between these two debates. The most salient, for my purposes, is the idea in both debates that what is needed today is an 'affirmative' mode of critique/criticism as opposed to a 'negative', reductive form of critique/criticism. For my part, I want to contribute to these efforts by proposing a practice of critique that engages with literary texts through an ultimately affirmative, collaborative style of reading; where those texts are not just objects of analysis, but equal participants in the practice of critique. Rather than proposing a new form of literary criticism, then, I am outlining a new way of practicing critique, but one that draws significantly on works of fiction. The argument of this paper, therefore, is not so much that novels can make readers more effective critics, or more virtuous citizens, but that engaging with fiction can make critique itself more effective. In other words, the engagement with Bella-Victoria, including the attempt to trace the ways she perceives, interprets, and responds to her world, and the ways the novel represents that engagement, provide an invaluable source of understanding for critique itself. If our modes of sensibility, along with the socially sanctioned conduct of that sensibility, unfold along an axis of perception, interpretation, and action, then works of fiction offer access to that complex web, not only as tools to help us understand but also as interventions that nudge, probe, and disrupt.</p><p>It is interesting that, despite her post-critique stance, Felski's recommendations in fact resonate with the approach I am taking here. For example, Felski urges her readers not 'to diminish or subtract from the reality of the texts we study but to amplify their reality, as energetic coactors and vital partners in an equal encounter' (p. 185). And, in a formulation that could easily be read through the sensibility lens of this paper, she suggests that from a post-critique perspective, the text 'impinges and bears on the reader across time and space; as a mood changer, a reconfigurer of perception, a plenitude of stylistic possibilities, an aid to thought' (p. 183, emphasis in original). To me, this suggests that it may not be helpful to adopt an either/or stance as a starting point in either of these debates. There is clearly, both in literary studies and in critical theory, a whole range of ongoing attempts to renew the tools of criticism and critique in order to respond more effectively to the worlds we live in today; and it would be foolish to reject any of them out of hand. 38</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>V</head><p>How then do works of fiction contribute to the aims of critique understood as the 'historical analysis of the limits imposed on us' and an 'experiment with the possibility of going beyond' those limits ('Enlightenment', p. 319); and how should critique, therefore, approach fiction. Let's look, firstly, at the contribution these works make to the 'historical analysis of the limits imposed on us' (p. 319). As is the way with novels, of course, they shouldn't be expected to unleash revolutions or single-handedly overthrow paradigms; rather, they work through small adjustments, by sowing minor doubts, and offering glimpses of different modes of perceiving and doing. For example, the things that Bella-Victoria notices in her environment, along with the pressure she feels to assent to or reject modes of behaviour, the responses she makes to the systems of meaning that are offered to her, all bring into focus the battle for the conduct of sensibility that occurs within any social context. Insofar as Poor Things provides an analysis of the way these regimes of meaning are enforced, it provides something like that Foucauldian 'analysis of the limits imposed on us'. This in itself is already a significant step towards the second, experimental, aim of critique. Once again, however, when it comes to experimenting with the possibility of going beyond the limits of one's present, this novel has little concrete to say. And, in fact, that is not necessarily a bad thing and could just as easily be said of books such as Herculine Barbin or even Discipline and Punish.</p><p>Insofar as they do contribute to this experiment, however, I think it will be helpful to think about it in terms of what Rancière calls the 'labour of fiction' ('Dissensus', p. 141). For Rancière, fiction in the broadest sense needs to be understood, not as the opposite of the real, but as something that involves a 'reframing of the "real"' (p. 141): I would suggest that Poor Things contributes to such a reframing by providing an experience of given forms of sensibility and by opening up the possibility of moving beyond those forms. In fact, the representation of experiences in fiction already introduces a reframing of the real because of the distance fiction places between the reader and the experience. Reading a novel is already a process that, as Rancière suggests, creates new connections to modes of subjectivity, of perception, and to ways of experiencing time. So far as the practical moment of critique is concerned, that is, the experimental testing of the limits of what is imposed on us (by ourselves and others), a novel of course can't actually do that for the reader, or for the critical theorist. What it can do, however, is both represent the efforts of fictional protagonists to push against those boundaries and, even more importantly, mark out the specific barriers that stand in the way of such experimentation. This is a critical effect that is just as useful for an individual reader as it is for critique itself.</p><p>Works of fiction such as Poor Things, therefore, are capable of providing maps for the analysis of the limits of our present. And, in many cases, they also offer (fictional) experiments in being otherwise. Hence, I would suggest that one of the things critique can usefully do in relation to works of literature, is to identify and amplify the possible effects of fiction that are given through the works' representations of modes of the conduct of sensibility. In other words, critique, in its engagement with works of fiction, would analyse the distribution of the sensible that is represented in the work, along with the forces that strive to both modify and maintain the conduct of that sensibility. In order to do this, critique must have a rigorous way of understanding the intersection between the modes of operation of fiction and the modes of operation of the conduct of sensibility. This paper is a first step towards that goal.</p><p>Hence, rather than critique on its own, or literature on its own, being able to engage in effective critique, my argument is that the practice of critique needs fiction, not as an occasional object of analysis but as a constant ally in its work, both as archive and as strategic map. Avoiding the hastiness of the outright rejection of critique, such a practice would contribute to the broader, positive task of critique, understood by Foucault as a 'patient labour giving form to our impatience for liberty' ('Enlightenment', p. 319); that is, a labour that I have interpreted here as a critical re-fictioning of the conduct of sensibility. </p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head>[</head><label></label><figDesc>It] frames a new fabric of common experience, a new scenery of the visible and a new dramaturgy of the intelligible. It creates new modes of individuality and new connections between those modes, new forms of perception of the given and new plots of temporality. Similar to political action, it effectuates a change in the distribution of the sensible. (p. 141)</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_1"><head>Notes 1 .</head><label>1</label><figDesc>Catherine Gallagher, 'The Rise of Fictionality', in Franco Moretti (ed.), The Novel (NJ: Princeton University Press, 2006), p. 336. 2. Jacques Rancière, Dissensus: On Politics and Aesthetics, trans. Steven Corcoran (London: Continuum, 2010), p. 141. Subsequent references to 'Dissensus' will be given in parentheses after quotations in the text.</figDesc></figure>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="4" xml:id="foot_0"><p>T. O'LEARY</p></note>
+		</body>
+		<back>
+
+			<div type="acknowledgement">
+<div><head>Acknowledgements</head><p>I would like to thank colleagues at <rs type="institution">UNSW</rs> for making valuable comments on this paper: <rs type="person">Melanie White</rs>, <rs type="person">Chris Falzon</rs>, <rs type="person">Helen Groth</rs>, <rs type="person">James Phillips</rs>, and <rs type="person">Sean Pryor</rs>; and members of <rs type="institution">UNSW</rs>'s English and Creative Writing group, to whom I presented an earlier draft.</p></div>
+			</div>			<div type="annex">
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Disclosure statement</head><p>No potential conflict of interest was reported by the author(s).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>ORCID</head><p>Timothy O'Leary http://orcid.org/0009-0007-8621-696X</p></div>			</div>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<monogr>
+		<title level="m" type="main">Director Poor Things</title>
+		<author>
+			<persName><forename type="first">Yorgos</forename><surname>Lanthimos</surname></persName>
+		</author>
+		<imprint/>
+	</monogr>
+	<note>Film</note>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<monogr>
+		<title level="m">Film4, Element Pictures, TSG Entertainment</title>
+		<imprint>
+			<date type="published" when="2023">2023</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<monogr>
+		<author>
+			<persName><forename type="first">Alasdair</forename><surname>Gray</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Poor</forename><surname>Things</surname></persName>
+		</author>
+		<title level="m">First published in</title>
+		<meeting><address><addrLine>London: Bloomsbury</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="1992">2002. 1992</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<monogr>
+		<title level="m" type="main">To be clear, the contrast here is not between film in general and the novel in general; it is between Lanthimos&apos;s adaptation of the novel and the novel itself. There is no reason why a film could not do the same work that I ascribe to this novel</title>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<monogr>
+		<title level="m" type="main">One of the narratives primarily uses Bella as the name, the other primarily uses Victoria. However, Godwin Baxter occasionally uses Bella-Victoria (p. 271). I use Bella-Victoria when discussing features and experiences that are shared by both versions of the character</title>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title level="a" type="main">Making up for lost time&apos;: Scotland, stories, and the self in Alasdair Gray&apos;s Poor Things</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">P</forename><surname>Kaczvinsky ; And</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Leishman</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Bioethics and biolaw through literature</title>
+		<editor>
+			<persName><forename type="first">D</forename><surname>Carpi</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Berlin</addrLine></address></meeting>
+		<imprint>
+			<publisher>De Gruyter</publisher>
+			<date type="published" when="2001">Winter, 2001. 2013. 2011</date>
+			<biblScope unit="volume">42</biblScope>
+			<biblScope unit="page" from="1" to="16" />
+		</imprint>
+	</monogr>
+	<note>The Problem of Liminal Beings in Alasdair Gray&apos;s Poor Things</note>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<monogr>
+		<title level="m" type="main">I, Pierre Rivière … A Case of Parricide in the Nineteenth Century, trans. Frank Jellinek</title>
+		<editor>Michel Foucault</editor>
+		<imprint>
+			<date type="published" when="1982">1982</date>
+			<publisher>University of Nebraska Press</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<monogr>
+		<title level="m">Disorderly Families: Infamous Letters from the Bastille Archives, trans. Thomas Scott-Railton</title>
+		<editor>
+			<persName><forename type="first">Michel</forename><surname>Foucault</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">Arlette</forename><surname>Farge</surname></persName>
+		</editor>
+		<imprint>
+			<publisher>University of Minnesota Press</publisher>
+			<date type="published" when="2021">2021</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title level="a" type="main">For an analysis of this shift, see for example Timothy O&apos;Leary, Foucault and Fiction: The Experience Book</title>
+	</analytic>
+	<monogr>
+		<title level="j">Continuum</title>
+		<imprint>
+			<date type="published" when="2009">2009</date>
+			<pubPlace>London</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<monogr>
+		<title level="m" type="main">Discipline and Punish: The Birth of the Prison</title>
+		<author>
+			<persName><forename type="first">Michel</forename><surname>Foucault</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1995">1995</date>
+			<publisher>Vintage Books</publisher>
+			<pubPlace>trans, Alan Sheridan (New York</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title level="a" type="main">The History of Sexuality</title>
+		<author>
+			<persName><forename type="first">Michel</forename><surname>Foucault</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">trans. Robert Hurley</title>
+		<imprint>
+			<biblScope unit="volume">1</biblScope>
+			<date type="published" when="1978">1978</date>
+			<publisher>Pantheon Books</publisher>
+			<pubPlace>London</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title level="a" type="main">The History of Sexuality</title>
+		<author>
+			<persName><forename type="first">Michel</forename><surname>Foucault</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Power/ Knowledge: Selected Interviews and Other Writings</title>
+		<editor>
+			<persName><forename type="first">Colin</forename><surname>Gordon</surname></persName>
+		</editor>
+		<meeting><address><addrLine>New York</addrLine></address></meeting>
+		<imprint>
+			<publisher>Pantheon Books</publisher>
+			<date type="published" when="1980">1980</date>
+			<biblScope unit="page">193</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<monogr>
+		<title level="m" type="main">On the Genealogy of Morality</title>
+		<author>
+			<persName><forename type="first">Friedrich</forename><surname>Nietzsche</surname></persName>
+		</author>
+		<editor>Keith Ansell-Pearson and trans. Carol Diethe</editor>
+		<imprint>
+			<date type="published" when="2006">2006</date>
+			<publisher>Cambridge University Press</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<monogr>
+		<author>
+			<persName><forename type="first">Virginia</forename><surname>Woolf</surname></persName>
+		</author>
+		<title level="m">A Room of One&apos;s own and Three Guineas</title>
+		<meeting><address><addrLine>London</addrLine></address></meeting>
+		<imprint>
+			<publisher>Penguin Books</publisher>
+			<date type="published" when="2019">2019</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<title level="a" type="main">Essentially Contested Concepts</title>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">B</forename><surname>Gallie</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Proceedings of the Aristotelian Society, New Series</title>
+		<imprint>
+			<biblScope unit="volume">56</biblScope>
+			<biblScope unit="page">169</biblScope>
+			<date type="published" when="1955">1955-1956</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title level="a" type="main">Art as an Essentially Contested Concept</title>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">B</forename><surname>Gallie</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">The Philosophical Quarterly</title>
+		<imprint>
+			<biblScope unit="volume">6</biblScope>
+			<biblScope unit="issue">23</biblScope>
+			<biblScope unit="page">107</biblScope>
+			<date type="published" when="1956-04">April 1956</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<title level="a" type="main">Subsequent references to &apos;Enlightenment&apos; will be given in parentheses after quotations in the text</title>
+		<author>
+			<persName><forename type="first">Michel</forename><surname>Foucault</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Ethics (London: Penguin</title>
+		<editor>
+			<persName><forename type="first">Paul</forename><surname>Rabinow</surname></persName>
+		</editor>
+		<imprint>
+			<biblScope unit="volume">1</biblScope>
+			<biblScope unit="page">319</biblScope>
+			<date type="published" when="1997">1997</date>
+		</imprint>
+	</monogr>
+	<note>Essential Works of Foucault 1954-1984</note>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<analytic>
+		<title level="a" type="main">Subsequent references to &apos;Subject and Power</title>
+		<author>
+			<persName><forename type="first">See</forename><surname>For 'subjectivation'</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Michel</forename><surname>Foucault</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Michel</forename><surname>Foucault</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Essential Works of Foucault 1954-1984</title>
+		<title level="s">The History of Sexuality</title>
+		<editor>
+			<persName><forename type="first">James</forename><surname>Faubion</surname></persName>
+		</editor>
+		<meeting><address><addrLine>New York; London</addrLine></address></meeting>
+		<imprint>
+			<publisher>Penguin Books</publisher>
+			<date type="published" when="1990">1990. 2000</date>
+			<biblScope unit="volume">2</biblScope>
+			<biblScope unit="page">331</biblScope>
+		</imprint>
+	</monogr>
+	<note>The Use of Pleasure, trans. will be given in parentheses after quotations in the text</note>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">Etymology</forename><surname>Online</surname></persName>
+		</author>
+		<ptr target="https://www.etymonline.com/word/fiction" />
+		<imprint>
+			<date type="published" when="2024-12-14">14 Dec 2024</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<analytic>
+		<title level="a" type="main">Subsequent references to &apos;Politics&apos; will be given in parentheses after quotations in the text</title>
+		<author>
+			<persName><forename type="first">Jacques</forename><surname>Rancière</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">The Politics of Aesthetics: The Distribution of the Sensible, trans. Gabriel Rockhill</title>
+		<meeting><address><addrLine>London</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<analytic>
+		<title level="a" type="main">Gray&apos;s Anatomy: When Words and Images Collide</title>
+		<author>
+			<persName><forename type="first">Lynn</forename><surname>Diamond-Nigh</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Review of Contemporary Fiction</title>
+		<imprint>
+			<biblScope unit="volume">15</biblScope>
+			<biblScope unit="page">178</biblScope>
+			<date type="published" when="1995">1995</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<monogr>
+		<title level="m" type="main">Gray remarks that he is particularly happy with this novel because its three central characters</title>
+		<ptr target="https://alasdairgrayspace.net/who-is-alasdair-gray/poor-things" />
+		<imprint>
+			<pubPlace>Bella-Victoria, Godwin, Archibald</pubPlace>
+		</imprint>
+	</monogr>
+	<note>) are &apos;rather innocent and quite good people&apos; who &apos;try to do all the good they can. See &apos;Interview. Transcript and audio available here</note>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<monogr>
+		<author>
+			<persName><forename type="first">Mary</forename><surname>Shelley</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Frankenstein</forename></persName>
+		</author>
+		<title level="m">The 1818 Text</title>
+		<meeting><address><addrLine>London</addrLine></address></meeting>
+		<imprint>
+			<publisher>Penguin Books</publisher>
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">George</forename><surname>Bernard</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Shaw</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Pygmalion</title>
+		<imprint>
+			<date type="published" when="2003">2003</date>
+			<publisher>Penguin Books</publisher>
+			<pubPlace>London</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<analytic>
+		<title level="a" type="main">See Ann Lee&apos;s contribution in this collection of responses to the film: &apos;&quot;She&apos;s bound and gagged for laughs&quot;: Is Poor Things a feminist masterpiece or an offensive male sex fantasy?</title>
+		<ptr target="https://www.theguardian.com/film/2024/jan/24/bound-gagged-poor-things-feminist-masterpiece-male-sex-fantasy-oscar-emma-stone-ruffalo" />
+	</analytic>
+	<monogr>
+		<title level="j">The Guardian</title>
+		<imprint>
+			<date type="published" when="2024-01-24">24 January 2024. 22 Jan 2025</date>
+			<pubPlace>Date Accessed</pubPlace>
+		</imprint>
+	</monogr>
+	<note>text=In%20the% 201970s%2C%20pornographers%20jumped,but%20it%20is%20not% 20feminist</note>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<analytic>
+		<title level="a" type="main">As Cristie March points out, in the novel &apos;Bella Baxter circumvents the stifling culturally constructed confines of her &quot;proper&quot; Victorian comportment&apos; and &apos;unsettles the cultural perceptions of those men with whom she interacts and who have come to expect and rely on naïve and socially non-resistant women&apos;. Cristie March</title>
+	</analytic>
+	<monogr>
+		<title level="j">Bella and the Beast (and a Few Dragons</title>
+		<imprint>
+			<biblScope unit="volume">43</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page">16</biblScope>
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+	<note>Critique</note>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<analytic>
+		<title level="a" type="main">As John Glendening points out, part of the novel&apos;s educational agenda is to &apos;indicate how difficult it is for one individual, no matter how gifted and well-educated, to translate idealism into positive social change given the powerful forces arrayed against it</title>
+	</analytic>
+	<monogr>
+		<title level="j">Mosaic: An Interdisciplinary Critical Journal</title>
+		<imprint>
+			<biblScope unit="volume">49</biblScope>
+			<biblScope unit="page" from="75" to="93" />
+			<date type="published" when="2016">2016</date>
+			<publisher>John Glendening</publisher>
+		</imprint>
+	</monogr>
+	<note>Education, Science, and Secular Ethics in Alasdair Gray&apos;s Poor Things</note>
+</biblStruct>
+
+<biblStruct xml:id="b27">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">Friedrich</forename><surname>Nietzsche</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Genealogy</forename></persName>
+		</author>
+		<imprint/>
+	</monogr>
+	<note>III, 12, emphasis in original</note>
+</biblStruct>
+
+<biblStruct xml:id="b28">
+	<monogr>
+		<author>
+			<persName><forename type="first">Martha</forename><surname>Nussbaum</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Love's Knowledge</surname></persName>
+		</author>
+		<title level="m">Essays on Philosophy and Literature</title>
+		<imprint>
+			<publisher>Oxford University Press</publisher>
+			<date type="published" when="1990">1990</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b29">
+	<monogr>
+		<title level="m" type="main">The Golden Bowl</title>
+		<author>
+			<persName><forename type="first">Henry</forename><surname>James</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2009">2009</date>
+			<publisher>Penguin Books</publisher>
+			<pubPlace>London</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b30">
+	<analytic>
+		<title level="a" type="main">For a counter argument to Nussbaum&apos;s reading of this novel and Henry James in general, see Rebekah Scott</title>
+	</analytic>
+	<monogr>
+		<title level="j">Textual Practice</title>
+		<imprint>
+			<biblScope unit="volume">35</biblScope>
+			<biblScope unit="page" from="941" to="966" />
+			<date type="published" when="2021">2021</date>
+		</imprint>
+	</monogr>
+	<note>The dreadful done&quot;: Henry James&apos;s style of abstraction</note>
+</biblStruct>
+
+<biblStruct xml:id="b31">
+	<monogr>
+		<title level="m" type="main">An Aesthetic education in the Era of Globalization</title>
+		<author>
+			<persName><forename type="first">Chakravorti</forename><surname>Gayatri</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Spivak</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2013">2013</date>
+			<publisher>Harvard University Press</publisher>
+			<pubPlace>Boston, MA</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b32">
+	<analytic>
+		<title level="a" type="main">Why Has Critique Run Out of Steam? From Matters of Fact to Matters of Concern</title>
+		<author>
+			<persName><forename type="first">Bruno</forename><surname>Latour</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Critical Inquiry</title>
+		<imprint>
+			<biblScope unit="volume">30</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="225" to="248" />
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b33">
+	<monogr>
+		<author>
+			<persName><forename type="first">Didier</forename><surname>Fassin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Bernard</forename><surname>Harcourt</surname></persName>
+		</author>
+		<title level="m">A Time for Critique</title>
+		<meeting><address><addrLine>New York</addrLine></address></meeting>
+		<imprint>
+			<publisher>Columbia University Press</publisher>
+			<date type="published" when="2019">2019</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b34">
+	<monogr>
+		<author>
+			<persName><forename type="first">Bernard</forename><surname>See</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Harcourt</surname></persName>
+		</author>
+		<title level="m">Cooperation: A Political, Economic, and Social Theory</title>
+		<meeting><address><addrLine>New York</addrLine></address></meeting>
+		<imprint>
+			<publisher>Columbia University Press</publisher>
+			<date type="published" when="2023">2023</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b35">
+	<analytic>
+		<title level="a" type="main">For a rebuttal of the call for surface reading, see Esther Peeren</title>
+		<author>
+			<persName><forename type="first">Stephen</forename><surname>Best</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Sharon</forename><surname>Marcus</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">The Ends of Critique: Methods, Institutions, Politics</title>
+		<editor>
+			<persName><forename type="first">Kathrin</forename><surname>Thiele</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">Birgit</forename><surname>Kaiser</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">Timothy</forename></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">O'</forename><surname>Leary</surname></persName>
+		</editor>
+		<meeting><address><addrLine>New York</addrLine></address></meeting>
+		<imprint>
+			<publisher>Rowman and Littlefield</publisher>
+			<date type="published" when="2009">2009. 2009. 2021</date>
+			<biblScope unit="volume">108</biblScope>
+			<biblScope unit="page" from="1" to="21" />
+		</imprint>
+	</monogr>
+	<note>Suspicious Minds: Critique as Symptomatic Reading</note>
+</biblStruct>
+
+<biblStruct xml:id="b36">
+	<monogr>
+		<author>
+			<persName><forename type="first">Rita</forename><surname>Felski</surname></persName>
+		</author>
+		<title level="m">The Limits of Critique</title>
+		<meeting><address><addrLine>Chicago, Ill</addrLine></address></meeting>
+		<imprint>
+			<publisher>Chicago University Press</publisher>
+			<date type="published" when="2015">2015</date>
+			<biblScope unit="page">120</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b37">
+	<analytic>
+		<title level="a" type="main">For other, similar calls for a renewed, affirmative critical engagement with literature, see: James North, Literary Criticism: A Concise Political History</title>
+	</analytic>
+	<monogr>
+		<title level="m">Appreciation After Critique</title>
+		<meeting><address><addrLine>Boston, MA</addrLine></address></meeting>
+		<imprint>
+			<publisher>Wolfram Schmidgen</publisher>
+			<date type="published" when="2017">2017. 2021. 2022. 2023</date>
+			<biblScope unit="volume">52</biblScope>
+			<biblScope unit="page" from="1085" to="1111" />
+		</imprint>
+	</monogr>
+	<note>New Literary History</note>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

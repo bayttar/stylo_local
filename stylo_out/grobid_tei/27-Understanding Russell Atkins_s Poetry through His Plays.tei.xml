@@ -1,0 +1,806 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Understanding Russell Atkins&apos;s Poetry through His Plays</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName><forename type="first">Xiuxia</forename><surname>Chen</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">School of Foreign Languages</orgName>
+								<orgName type="institution">Huzhou University</orgName>
+								<address>
+									<settlement>Huzhou City</settlement>
+									<country>People&apos;s Republic of China</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Lauri</forename><surname>Scheyer</surname></persName>
+							<affiliation key="aff1">
+								<orgName type="department">Foreign Studies College</orgName>
+								<orgName type="institution">Hunan Normal University</orgName>
+								<address>
+									<settlement>Changsha City</settlement>
+									<country>People&apos;s Republic of China</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Understanding Russell Atkins&apos;s Poetry through His Plays</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date/>
+						</imprint>
+					</monogr>
+					<idno type="MD5">3CA4FE42FFC5EF7C8E102A4B44A96928</idno>
+					<idno type="DOI">10.1080/0013838X.2025.2560444</idno>
+					<note type="submission">Received 15 March 2025 Accepted 7 September 2025</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.0" ident="GROBID" when="2026-02-25T19:55+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term>Russell Atkins</term>
+					<term>gothic</term>
+					<term>avantgarde</term>
+					<term>deconstruction</term>
+					<term>verse drama</term>
+					<term>African American literature</term>
+				</keywords>
+			</textClass>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>African American poet Russell Atkins (1926-2024) is an esteemed figure among readers and critics of experimental English poetry. His honours and awards include an Honorary PhD from Cleveland State University (1976), an Individual Artist Grant from the Ohio Arts Council (1978), a Lifetime Literary Achievement Award from the Poetic League (1997), a Bread Loaf Writers Conference Fellowship (1956), appointment to the literature advice panel of the Ohio Arts Council and National Endowment for the Arts (1973-1976), and many more recognitions of his influence and significance. Atkins is widely regarded as a "poet's poet" whose prodigious body of work is both highly original and deeply resistant to conventional analysis. Atkins's verse plays, which he referred to by several different names (poetic dramas, plays in poetry, poems as dramas, poems in play form, and poetrydramas) have received little academic attention compared to the wealth of analysis on his poems. However, Atkins's relatively understudied poetry-dramas offer important insight into the theories, techniques, and themes employed in his verse. This article provides a close focus on the poetry-dramas as literarily valuable in their own right and as an interpretive lens for Atkins's well-respected but difficult poetry.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Introduction</head><p>Russell Atkins (1926-2024), the African American avant-garde poet, playwright, musician, and theorist, has been called a major figure with significant influence by prominent poets and scholars including Eugene B. Redmond, Aldon Lynn Nielsen, Evie Shockley, Tyrone Williams, Lorenzo Thomas, Janice Lowe, and Kevin Prufer. Atkins published his first poems at age 18 and was already pursuing a path by the mid-1940s of consistent formal exploration and innovation from which he never vacillated. His poetry, which has received considerable scholarly attention, is often described as unique, complex, demanding, obscure, and difficult. His poems in the form of plays-which he most often called "poetry-dramas"-are relatively underexplored compared to his poetry. However, close examination of Atkins's poetry-dramas provides revealing clues that help to illuminate the techniques, theories, and themes employed in his verse. This article will focus on the technique of defamiliarization, the theory of deconstruction, and the theme of eco-gothic which are prominent in his poetry-dramas and hold important keys to understanding his poetry.</p><p>Atkins has simultaneously mesmerised and mystified readers since the post-World War II era. Acknowledged as an authentically original poet, theorist, and musician who always worked across boundaries of genre, Atkins has been lauded for his influence despite the daunting challenges presented by his gnomic style. Tyrone Williams makes the resounding claim that "Russell Atkins is one of the most significant literary innovators within the African Diaspora tradition as manifest in the United States of America during the first three quarters of the twentieth century". <ref type="bibr">1</ref> Clarence Major calls Atkins "one of the best poets I know". 2 Paul Breman observes that Atkins's poems and plays "had anticipated ideas and techniques with which others had later made their reputations". <ref type="bibr">3</ref> As early as 1970, Casper LeRoy Jordan and J. Stefanski proclaimed that "Atkins has been among the most subtle influences of the last two decades". <ref type="bibr">4</ref> For Sean Singer, Atkins is "an original among black American writers of his generation" who "has achieved a kind of cult status among cognoscenti". Singer repeats the word "unique" in positioning Atkins in a "'beyond category' status". <ref type="bibr">5</ref> Eugene B. Redmond also employs the description "unique" in claiming that Atkins uses experimental techniques "to deal with man's current and past hurts" in a poetics marked by "witty, wacky, yet serious philosophical musings". <ref type="bibr">6</ref> In addition to "unique", frequent descriptors of Atkins's practice are "avant-garde", "formally innovative", and "experimental". 7 Such terms have become the normative signifiers for Atkins's lifelong devotion to resisting the dominant trends of the cultural mainstream to follow his own aesthetic and intellectual path.</p><p>Rather than regarding his poetry-dramas as a minor or side endeavour, this article presents them as important vehicles to better understand and appreciate Atkins's renowned but challenging poetry. This perspective is shared by Tom Orange who also recognises the important role of Atkins's plays within the larger context of dramas by American poets. <ref type="bibr">8</ref> Poetry-drama, in Atkins's words, "is more of a tableau stage production dominated by poems as word-sets and employing 'conspicuous technique' as musicform, symphonic poetics". 9 When talking about the intention of writing this genre, Atkins said that "[t]emporarily derailed, so to speak, I turned to drama for some new 1 Williams, "'To Be Set To Music'," 160.  Jordan and Stefanski, "Special Russell Atkins Issue Commentary," 1. 5 Singer, "Atkins," 188. 6 Redmond, Drumvoices, 329.   7   The term "avant-garde" is used Cameron Williams in "'Really, music was the cause of it'" in the introduction to the 2 June 2016, interview which appeared in Jacket2. Eli Didier calls Atkins "avant-garde" in "Objects for Piano's Exploration of Poetry and Music" in Ploughshares and the MA thesis "Productive Non-Sense: How Louis Zukofsky, Russell Atkins, and Nathaniel Mackey Rethink the Functions of Language and Sense". Kevin Prufer and Michael Dumanis use the terms "formally experimental" and "avant-garde" in "Rediscovering Russell Atkins" (Belt Magazine) and Russell Atkins: On the Life and Work of an American Master. Evie Shockley calls him "formally innovative" in "Death is Only Natural". Sean Singer writes "Atkins' voice is completely unique in American poetry and it can be challenging for most readers" (193).   8   In his essay "The Place of Atkins and Future Scholarship," Orange writes "I wanted to assess Atkins' willingness to have some of his poetic dramas from the 1950s included in a forthcoming anthology of poets' theater pieces being edited by Patrick Durgin and Kevin Killian". With characteristic modesty, Atkins professed " … no one would be interested in those pieces today" but Orange "insisted to the contrary" (200). 9 Atkins, Juxtapositions, 5.  technique for poetry devices that could extend into poem-plays or 'poems in play-form,' or drama form". <ref type="bibr">10</ref> In such poetry-dramas as The Corpse (1963), The Drop of Blood (1961),  The Abortionist (1963), The Exoneration (1961), and The Nail (1957), Atkins foregrounds the ideas, goals, and operations that he consistently explores in his poetry. Even the connective hyphen ("poetry-drama") articulates the inseparable bond between his verse plays and his poetry corpus. 11 All of Atkins's poetry-dramas are replete with drama themes such as violence, crimes, blood, murders, and death, but depicted in poetic techniques. The Corpse unfolds a gothic story of a widow who mourns her late husband by exhibiting the morbid behaviour of repeatedly excavating his tomb and finally commits suicide when her husband's corpse degrades into a skeleton. The Drop of Blood provides a magical realism story in which a drop of blood mocks a faithful wife and incites her to murder her unfaithful husband. The Abortionist is a story about a vengeful doctor who kills his enemy's daughter and her unborn fetus under the pretext of an illegal abortion. In The Exoneration, a policeman interrogates and assaults an innocent person. The Nail, adapted from Pedro Antonio de Alarcon's story, focuses on a widow who performs acts of deception with false names and identities. Due to these multiple identities, she is accused of murdering her husband. These examples demonstrate the abiding themes that link Atkins's verse dramas in spite of their variations in setting, style, narrative structure, and character development. As in the cases of W.B. Yeats, Samuel Beckett, Amiri Baraka, Paul Laurence Dunbar, Langston Hughes, Lorraine Hansberry, ntozake shange, Bertolt Brecht, and T.S. Eliot, among others who wrote both poems and plays, the immediacy and interactivity required by plays often reveals a poet's central methods and goals. Accordingly, Atkins's poetry-dramas provide windows of interpretive insight to better understand and appreciate his daunting body of poems that might otherwise appear impenetrably strange or difficult.</p><p>Sean O'Brien observes that theatre is a collaborative enterprise whereas lyric poetry more typically expresses an individual vision. O'Brien explains the special challenges placed on the poet who uses verse in plays:</p><p>The verse dramatist needs to have an extremely clear sense of what she has in mind before she goes into the arena of collective endeavor where prose is viewed as the normal and natural linguistic form. She will have to act as an advocate, an explicator, and a propagandist for the kind of work she wishes to present, and to be prepared to engage in a much more basic level of explanation … 12 Accordingly, Atkins is a lucid promoter of the ideas and techniques in his poetry-dramas instead of an un-disclosive outsider as he is sometimes portrayed. He reveals with conviction and clarity what he hopes to achieve in the poetry-dramas.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Poetry-Drama as a Form of Poetry</head><p>Atkins was explicit that he viewed his poetry-dramas as a means of working out issues in poetry rather than explorations of the prose or drama genres. The various names that he used for his plays all incorporate a reference to poetry: "poetic dramas", "plays in poetry", "poems as dramas", "poems in play form", and "poetry-dramas". As in his poems, Atkins explained that his poetry-dramas encourage mannerism, experimentation, creative selfindulgence (even solipsism), repetition and redundancy, and distractions. His highly individualistic practice calls for the artist alone to determine the nature of aesthetic beauty. <ref type="bibr">13</ref> Atkins claimed the purpose of the poetry-dramas-which he insisted should not be regarded as plays that incidentally used poetry-was "the predominance of the poetry performance as technique" (italics in the original) where the verse is not "an appendage of some play" which would otherwise be "self-sufficient". <ref type="bibr">14</ref> When asked about the methods used in his poetry-dramas compared to predecessor poets such as Shakespeare and Eliot who also wrote plays, Atkins emphasised that his plays were a means for him to work out the formal and thematic issues of his poems rather than to practice traditional playwriting. To underscore the prominence of the poetic operations in his plays, Atkins has stressed the phrase "poetry technique" with noteworthy frequency: "I was more interested in exploring poetry techniques in the plays" versus other noted poet-playwrights who were more focused on such issues as character development and narrative design.</p><p>The fundamentally poetic nature of Atkins's poetry-dramas becomes increasingly evident when closely comparing these verse plays to his poetry. In such examples as The Drop of Blood, The Abortionist, and The Corpse, there is a notable absence of the elements that would be expected in theatrical scripts such as character description and development and backstory. <ref type="bibr">15</ref> In the poetry-dramas, Atkins consistently breaks down the polished workings of language and narrative design in ways that evoke the disruptions and discontinuities of his poetic trademark style rather than the collective expectations of logical and linear expressions and structures typically found in plays. For Atkins, the goal of the artist was not something as mundane and common as communication, clarity, or naturalness, but "the bringing-into-existence-as-creativity process" which applies to this inventive poetry-drama form. <ref type="bibr">16</ref> Atkins's explanations of the goals, methods, and theories behind his poetry-dramas-which he regarded as integral components of his poetry corpus-provide the pedagogical tools to understand his poetic ethos and practices.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Conspicuous Poetic Technique</head><p>In his interview with the author, Atkins noted that he was "using poetic technique" in the poetry-dramas. He explained that their poetic identity was emphasised by their initial mode of presentation not only as scripts for performance, but also as printed literary texts: "Most of them first appeared in journals, in print instead of staged". Much of the text of the poetry-dramas is lineated and presented with many visual and semantic cues associated with the English lyric poetry tradition and its techniques: ragged righthand margins, enjambment, caesuras, repetition, syntactic inversions, elaborate figures including repetition and alliteration, various types of internal and end rhymes, puns, baroque and fanciful language, metre, polysemy, lexical innovation, neologisms, kennings, elevated diction, and parallelism. <ref type="bibr">17</ref> The first speech of The Corpse demonstrates the clear use of these poetic techniques. If it were not presented in the rough framework of a script, a reader would assume this opening passage is an elegiac poem to be analyzed using the interpretive methodology of poetry criticism: WIDOW Cold scare of the skythe alas strewn way! Our drear of friends funeral'dfuneral'd away.</p><p>Palling beyond hedges at the lean of trees, We left you Larenuf, done, dead, ceremonied. Time cannot make less of it, only more engrieve! Such typically poetic devices in this opening monologue represent an extreme of artifice and an explicit rejection of naturalism. In explaining his poetics, the phrase consistently used by Atkins is "conspicuous technique". Examples of "conspicuous technique" in this excerpt from The Corpse include verbal and syntactical anthropomorphic contortions ("scare of the sky" in line 1; "palling beyond" and "the lean of" in line 3); words used in unusual grammatical categories ("funeral'd" and "ceremonied" transformed from nouns to adjectives; the archaic term "drear" transformed from an adjective to a noun; and the exclamation "alas" used as a noun with a definite article); caesura (lines 1 and 2); apostrophe to nature (Cold scare of the sky -); alliteration (done, dead, drear, 'd); archaicisms (alas; 'd for past tense); gothic mood and content (death and a funeral); repetitions (funeral'd); internal and off-rhymes (ceremonied/engrieved; less/left; way/away; lean/trees); philosophical musings on life and death (line 5); and eco-poetic diction and themes (cold; scare; drear; funeral; pall; dead; engrieve).</p><p>Compare this excerpt from Atkins's poetry-drama to the opening of his poem "Anxieties" 18 which employs the same techniques that become more apparent and comprehensible when viewed through the magnified perspective of the poetry-dramas:</p><p>Throw no more o! Gothic, you lit night-leaves, It suddens the hark at lone or lamp there: No reaching for toward disheartening fat of all Dismembered things under moon, going where? <ref type="bibr">19</ref> Once again we find the tone of an elegiac ode; archaicisms (o!; hark; and a kenning in night-leaves); eco-gothic themes and diction (Gothic, night, lone, lamp, disheartening, dismembered, moon); alliteration (lit, leaves, lone, lamp; disheartening, dismembered); syntactical dislocations to disrupt the smooth absorption of meaning (for toward; the adjective "sudden" transformed into a plural verb); various types of rhyme (Throw, no, more, o); repetition (no); words transformed to atypical grammatical categories ("suddens" as a verb; "the hark" as a noun with a definite article); and the combination <ref type="bibr">17</ref> Atkins used several different terms for these plays, including "poems in playform", "Poetry-Drama", "poems as plays", and "poetic dramas". What is to be noted is that all these terms connect his plays with his poetry. The authors have chosen to use "poetry-drama" (lower case) as the term he used most frequently. <ref type="bibr">18</ref> See Objects 2, the Renegade Press, 1963. <ref type="bibr">19</ref> Atkins, Objects 2, 1.</p><p>of apostrophe (the address of Gothic) with philosophical questions about life, death, and nature in lines three and four conveyed with disjointed syntax (all/Dismembered things under moon, going where?). Recognising his goals and methods in the poetry-dramas greatly enhances the ability of readers to identify these operations and their purposes in his poetry.</p><p>In the poetry-dramas, Atkins consistently breaks down the polished workings of language in ways that evoke the disruptions and discontinuities of his poetic trademark style rather than the collective expectations of the prose-based narrative found in drama. The poetry-dramas and poems mirror each other by insistently foregrounding the aesthetic properties and operations of language. In the poetry-drama The Abortionist: A Poetic Drama to Be Set to Music, Atkins uses devices such as interruption and stutter to obstruct the conventional linearity of prose logic which visually and semantically evokes poets in the line of Emily Dickinson. In this poetry-drama and others, Atkins uses redirections and hesitations created by a series of dashes, pauses, and spaces as examples of "conspicuous technique" to generate new insights: MISS HARRINGTON No, no. I won't take long, Dr., for I -That is -Iwell -I Have something to tell. It's of -we understand, My decision?you see -That is -I mean 20 -In many of his poems, he similarly uses spacing and punctuation to disrupt the poem's linear flow and call attention to the meaning-making properties of language through heightened aesthetic processes. One example of many is the pattern of interruptions and disturbances in this excerpt from the second stanza of his poem "Late Bus 21 ": the streets are deserted: the bus blunders on, bounced! -we wait: the men sit still: One talks to the other yeah,-their eyes (-sure, we know what's up-) <ref type="bibr">22</ref> Rather than the normative style of prose and naturalistic conversation in modern theatre, Atkins's dialogue looks and sounds more like his poetry with its repetitions, ragged right 20 Atkins, Two, 2. <ref type="bibr">21</ref> Atkins kept revising his poetry endlessly during his long span of writing life. In this article, the poems have mainly been selected from the versions in the book World'd Too Much. According to the book's editors, Kevin Prufer and Robert E.</p><p>McDonough, Russell Atkins revises his poetry continually, often returning years later to reconceive a poem. As we began work on this volume, we regularly discovered three or four versions of a poem that had been published over the course of decades, and we were faced with the difficult task of deciding which version to include. ( <ref type="formula">237</ref>)</p><p>The editors decided to provide all versions of the poems in alphabetical order and noted the original publications in which the poems appeared. For those poems with several versions,the authors of this article have noted the version of the poem for clarity. For instance, the poem "Lake in a Storm" has two versions; thus it is indicated that the version used in this article was published in (Here in the, 1976). <ref type="bibr">22</ref>  Atkins, World'd Too Much, 100.  margins, communicative gaps, and exaggerated aesthetic effects in language and form. In both the speech from The Abortionist and the poem "Late Bus", Atkins's body of conspicuous technique remains apparent: a gothic tone of anxious and ominous apprehension in an everyday context, the nervousness and isolation of speakers, awkward conversational patterns, and the uncanny effects of verbal, semantic, and auditory repetitions.</p><p>Atkins elaborated on the place of the poetry-dramas in the larger context of his oeuvre by distinguishing between them and conventional works by playwrights whose aim was achieved in live performance: "Poetry-Drama is used to differentiate between a drama written in prose that is 'poetic' and a drama written in poetry". <ref type="bibr">23</ref> Performances were not the only or even an essential outcome of his poetry-dramas. The poetic effects are imbued with great importance, which reinforces the claim of this article that Atkins's poetry-dramas provide direct and significant insight into the methods, goals, and techniques of Atkins's better-known poetry.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Poetry-Dramas as Formal Experimentation</head><p>There is abundant evidence that the poetry-dramas were intended to be experimental poetry with theatricalised amplifications, and therefore, vehicles to understand the extreme boundaries of Atkins's formal innovations in the lyric genre. In the Editor's Note to the poetry-dramas The Abortionist and The Corpse (Free Lance Press, 1963), Jordan emphasised the fundamentally poetic nature of the poetry-dramas as an experimental form and explains how they differ from conventional theatrical scripts. Jordan calls these works "original experiments for poems as dramas" which "have not sought to effect 'strong characterization' or the usual 'insights' into 'human behavior'" as "incompatible with the experiment". <ref type="bibr">24</ref> The fundamentally poetic uses of form and language prove Atkins's contention that his poetry-dramas were not conventional scripts but texts to work out issues in poetics.</p><p>Atkins's aesthetic values and practices were consistent throughout his life and appeared in all his creative and critical endeavours. His autobiography in Contemporary Authors stresses that even as a child, he was focused on an independent and integrated path where his creative works in painting, music, performance, and literature explored the same beliefs and practices. Atkins was determined to "go experimental" 25 and be "dissident" <ref type="bibr">26</ref> by doing what he wanted-which was to formulate a theory of composition that would combine all areas of the arts so he could be "wholly wrapped up in poetry, music, and the pursuit of the unusual". <ref type="bibr">27</ref> In what is believed to be the last interview of his life, with the author (facilitated by Diane Kendig), Atkins explains the unwavering motive behind his entire artistic output when asked how he describes his work: "What I tried to concentrate on was deviating from the usual. I called myself deviating". 28 23 Atkins, Juxtapositions, 6. <ref type="bibr">24</ref> Atkins, Two, 32. <ref type="bibr">25</ref> Atkins, "Russell Atkins," 8. <ref type="bibr">26</ref> Atkins, "Russell Atkins," 9. <ref type="bibr">27</ref> Ibid., 10. <ref type="bibr">28</ref> Diane Kendig generously presented the author's questions to Atkins during her visit to him on 29 July 2022, and recorded his responses in an email to the author dated 1 August 2022. The authors express their sincere gratitude to Kendig for her kind help.</p><p>Atkins famously remarked in an oft-quoted statement, "I was avant garde before I knew there was an avant garde". <ref type="bibr">29</ref> Major studies of avant-garde movements by seminal critics including Renato Poggioli and Peter Bürger have emphasised that "difference" in art is often experienced by audiences as alienating, but there is sense to be made from understanding the motives behind such "deviations", to use Atkins's term. <ref type="bibr">30</ref> Critics including Nielsen note Atkins's systematic opposition to art that he considered mainstream or moribund, but there is no suggestion that his poetry is hopelessly impenetrable or wilfully obscure. Rather, there are effective methods for understanding how Atkins's resistance to normative operations is designed to refresh and re-make meaning and sense. For Singer, this refusal to follow mainstream formal paths is "a kind of bravery: Atkins writes without fear of voices of authority figures … " 31 In the MA thesis "Productive Non-Sense", Eli Didier similarly calls Atkins a writer who is willing to be regarded as an outsider whose goal is to "open the parameters for how a literary work 'means' by rethinking and reframing the primary function of language". <ref type="bibr">32</ref> Didier defends such operations as no more arbitrary and no less normative than the conventional signing systems of lyric poetry whose authority they were intended to interrogate.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Defamiliarization as Avant-Garde Practice</head><p>Such experimental motives align Atkins with the techniques of defamiliarization which became prominent in the largely white Euro-American avant-garde movements of the early twentieth-century including surrealism and Dada. In his groundbreaking 1917 essay, "Art as Technique", the great Russian Formalist Viktor Shklovsky famously defined art as "works created by special techniques designed to make the works as obviously artistic as possible". <ref type="bibr">33</ref> He contrasts such expressions with those that have become "habitual" and "automatic". According to Shklovsky, true art, including poetry, forces us to fulfil Aristotle's mandate in The Poetics: literature should contain an element of the "strange" to refresh our views of life, objects, and experiences. By using words and formations that combat the state of being unconscious, "art exists that one may recover the sensation of life". According to Shklovsky, this ability of art to re-animate emotion occurs by means of incorporating prominent linguistic techniques: foreign and obscure words, elevated and archaic diction, non-standard lexical formations to impede the pace of sensory and semantic absorption, repetition, and all modes of interference with "automatism of perception".</p><p>These methods are precisely those used by Atkins in his poetry-dramas and poems, which he has referred to in multiple publications as "conspicuous technique". He aggressively employs such devices for the same purposes described by Shklovsky and other Russian Formalists: to refresh the experience of life through art, which they viewed as one of the major purposes of poetry. In Shklovsky's formulation, poetry defamiliarizes the habitual through "a difficult, roughened, impeded language" which relies on slowness <ref type="bibr">29</ref> Atkins, Here in the, 52. <ref type="bibr">30</ref> Poggioli's The Theory of the Avant-Garde (1962) and Bürger's Theory of the Avant-Garde (1974) are regarded as foundational postmodern classics on this topic. <ref type="bibr">31</ref> Singer, "Atkins,"188. <ref type="bibr">32</ref> Didier, "Productive Non-Sense," iv. <ref type="bibr">33</ref> All quotations from Shklovsky come from the open-source digital text in the works cited. This article is in the public domain and widely available from multiple sources.</p><p>and devices of anti-systematization, deformation of language, and anti-order such as echo, lexical creativity, atavistic verbal throwbacks to earlier eras, and "attenuated, tortuous" and "formed" speech to achieve maximum attention to attention itself by means of the poetry. <ref type="bibr">34</ref> For Shklovsky, poetry's purpose and meaning are to "make strange" the ordinary in linguistic expression to impede the processes of reception and create new perceptions. We see these operations enacted in bolder theatrical formats in Atkins's poetrydramas which enable readers to productively recognise and analyze their presence and operations in his poetry.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Theory of Deconstruction</head><p>Just as the Russian Formalists' concept of defamiliarization has a deeper purpose beyond mere experimentalism and its surface manifestations, Atkins's prominent use of conspicuous technique has an important transformational motive in impacting how life and art are perceived and experienced. The expressive obstacles and distortions that Atkins called "conspicuous technique" were the stylistic methods that he used to serve the theory he called "deconstruction", well before the advent of Jacques Derrida and poststructuralism. (Juxtapositions 6) Atkins first used the term "deconstruction" (lower case d) in 1958 to mean "the taking apart of objects as Ideas". <ref type="bibr">35</ref> Conspicuous technique became a primary method for Atkins of enacting his theory of deconstruction as a means of breaking down and recreating meaning. For Atkins, deconstruction was a mode of recreation rather than the radical relativism or attack on meaning that was sometimes charged in critiques of the post-structuralist Deconstruction (upper case D) associated with Continental Theory. As observed by Nielsen, deconstruction for Atkins became paradoxically a mode of recreation. Prufer and Dumanis concur that deconstruction was a productive and consistent compositional mode for Atkins rather than a method of breaking down or taking apart: "Composing is a deconstruction method that is fixed for the 'mind's eye'". <ref type="bibr">36</ref> The refreshing of perspective and recreation of a new system of values was Atkins's abiding goal for poetry and all the arts and is most clearly seen in the heightened theatricalised form of his poetry-dramas.</p><p>Examples of deconstruction used to renew meaning throughout the poetry-dramas often follow a "disturbing path", as described by Nielsen. Nielsen, Tyrone Williams, and Adelaide Simon were among the earliest critics to recognise that Atkins's use of deconstruction could also be seen as a vehicle to highlight and rectify the violence in the past and present of mainstream post-War American social values. But such rectification and creation of new ways of seeing could only occur by calling attention to those patterns of racist destructiveness, which explains the extreme violence in the poetry-34 This seminal essay is an open-source document that is widely available and often reproduced. The Works Cited lists the version used in writing this article which is one of many that can be accessed. 35 See Atkins, "Psychovisual Perspective," 37. Jacques Derrida first used the pre-existing term "Deconstruction" in Of Grammatology, Writing and Difference (1967). The word did not have the same meaning in Derrida's philosophical framework and there is no reason to believe he was familiar with the earlier publications of Atkins or deliberately borrowed his ideas. But Nielsen points out Atkins's lesser-known use of this word-compared to the lasting fame of Derrida-as an example of the way critical theory has historically tended to disregard contributions by Black diasporic thinkers and writers. See further information: Nielsen, "Black Deconstruction," 96. <ref type="bibr">36</ref>  Prufer and Dumanis, Russell Atkins, 15.  dramas. Vivid depictions of the wanton murder and desecration of an unborn baby (The Abortionist) and the repeated exhumation of a decomposing corpse (The Corpse) are metaphorically purposeful as devices of defamiliarization. Such destructive practices as racism, oppression, militarism, and suppression could only be eradicated by laying bare the extent of the depravity and by seizing control of "the DEFINING OF KNOWLEDGE". <ref type="bibr">37</ref> Using a psychoanalytical approach, Tyrone Williams saw Atkins's deployment of "conspicuous technique" as an allegory for "unveiling the subconscious" and revealing psychic turmoil through archaic lexical forms and punctuation as well as "anastrophe, anthimeria, and zeugma". <ref type="bibr">38</ref> Such operations valorise "an excess of aesthetic effects as conspicuous technique" which "elevates artifice", and "excessive emoting, the dramatic gesture". <ref type="bibr">39</ref> These methods used by Atkins consistently activate the aesthetic act to dismantle and recompose perspectives and experiences of life. T. Williams points out that Atkins's "reconstruction of received anachronistic forms remains unique" 40 as a manifestation of his theory of deconstruction to refresh communication. In conjunction with the atavistic lexical constructions and the numerous modes of conspicuous technique noted in this article, Atkins prominently employs a consistent group of figures and themes to embody his concept of deconstruction as a compositional method to break with old values and automatism in order to refresh and recreate new meanings.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Eco-Gothic Deconstruction</head><p>Atkins's use of conspicuous technique in his poetry-dramas and poetry is manifested in the service of a theory-deconstruction-as well as a key theme, the eco-gothic. Ecogothic, or ecogothic, connects aspects of the gothic with a concern for nature and the climate. According to the essay "Introduction: The EcoGothic in the Long Nineteenth Century" in Gothic Studies, the author David Del Principe asserts that an ecogothic approach takes "a nonanthropocentric position to reconsider the role that the environment, species, and nonhumans play in the construction of monstrosity and fear". <ref type="bibr">41</ref> By demonstrating such concerns, Atkins's poetry-dramas such as The Corpse and The Nail reflect an ecogothic perspective by combining representations of emotional and meteorological phenomena through images and scenes such as terrifying and threatening dark nights, storms, wind, and thunder where non-anthropocentric forces engender profound human responses and consequences. This eco-gothic writing reveals Atkins's consistent view that the dark side of human and non-human nature transcends boundaries of time, space, and species, often with destructive impacts for both nature and humanity. By blurring rigid categorical distinctions in his poetry-dramas between the human and non-human, the natural and unnatural, and life and death, the dark aspects of human and non-human life are revealed as he fosters a deeper understanding of the often-threatening interconnectedness between spheres, transcending boundaries of space, time and race. Keetley and Sivils explain the merging of eco-poetics and the gothic that occurs in 37 See Atkins cited in Nielsen, "Black Deconstruction," 90. <ref type="bibr">38</ref> Williams, "To Be Set," 168. <ref type="bibr">39</ref> Williams, "Bounded," 67. <ref type="bibr">40</ref> Williams, "To Be Set," 160. <ref type="bibr">41</ref> Principe, "Introduction," 1.</p><p>the portmanteau of the eco-gothic, which entails: "(1) a repository of deep unease, fear, and even contempt as humans confront the natural world; (2) a literary mode that uses an implacable external 'wilderness' to call attention to the crisis in practices of representation; and (3) a terrain in which the contours of the body are mapped, contours that increasingly stray beyond the bounds of what might be considered properly 'human'". <ref type="bibr">42</ref> Atkins utilises "signs in the Gothic [that] function as what Derrida, taking apart Husserl's logocentric theory of language, calls 'indications' that point to something other rather than 'expressions' that convey it" <ref type="bibr" target="#b1">43</ref> which reflects Atkins's deconstructionist approach of "taking apart objects as ideas". <ref type="bibr" target="#b2">44</ref> Through these evoked ideas of resisting racism, revealing the darker side of humanity, and emphasising a posthuman ecology, Atkins reconstructs a new eco-gothic ethics. The interplay of eco-gothic and deconstruction resonates with moral and ethical values across races and species. As described by Shockley, this combination of elements creates a gloomy, anxious, and oppressive atmosphere where Atkins is "using nature symbolically […] to magnify the horrors" 45 : "Atkins' consistent attention to death and recurring portrayals of dark and stormy nights in his poems distinguishes him among the group of African American nature poets". <ref type="bibr">46</ref> We see such effects throughout Atkins's poetry-dramas. Fear and anxiety toward inclement weather and monstrous nature often confine individuals to the indoors which results in a claustrophobic aspect to domestic interiors whose space becomes an imprisoning confinement. As Sivils notes, "nature is a haunted house", <ref type="bibr" target="#b4">47</ref> and this interplay between the gothic and the natural world results in a literature adept at exploiting a deep-seated fear of nature even when indoors. <ref type="bibr">48</ref> At the start of the poetry-drama The Nail (subtitled "To be set to music"), the setting is described as an "Expressionistic" seacoast with a dark stage late at night lit by a dim lamp. There is an "ominous wind outside" as a "window shudders" and "bursts open" as "Wind rushes around the room" and "the sound of autumnal waves increases" as the lamp goes out. In the next paragraph, the cacophony of natural sounds in this foreboding environment is followed by sounds of approaching humanity: a coach and "banging" on the door. In Act I Scene 1, the gothic setting is embellished by language and sound. The mysterious female character who has arrived on the coach introduces herself as Blanca whose husband is dead. She describes herself using the kenning-like construction of "the dark-as-night" and "an at-last of a woman" who has "screams to remember" and "drear hours" for memories. "To me the world must always be something of a / stranger", she comments, which encapsulates the atmosphere and techniques in so much of Atkins's writing.</p><p>Atkins deconstructs the natural and human domains by juxtaposing equally horrifying human-made and non-human sounds in domestic and natural settings to highlight the comparable horrors present in both environments. Since nature is portrayed as evil, destructive, and hostile to humans, humans retreat to domesticated settings to control their environment and avoid dangers from the primal world by clearly demarcating the boundaries between natural and human contexts. Social sites comparatively become perceived shelters from such dangers. However, Atkins subverts this dichotomy by showing that even these supposed safe havens are not immune to horror. The wife dies in her house after furious shouting and screaming in The Drop of Blood. In The Abortionist, Miss Harrington is an accidentally pregnant young woman who desperately seeks an abortion to avoid social shame. She is hideously murdered by a psychopathic doctor in a basement to a riot of terrifying sound effects including insistent knocking and pounding on the door by a night watchman, the sound of both Miss Harrington and her fetus falling to the floor, Miss Harrington's moaning, gasping, and screaming, the sound of approaching footsteps, the loud voices of police summoned by the night watchman who is worried by the commotion, and a crash against the door as they finally break in to discover the horrific gore of the murder scene. Atkins deconstructs the distinctions between urban and natural contexts, civilised and primal behaviours, and subjective and objective realms showing, according to Shockley, "the commonness, the quotidian nature of death". <ref type="bibr">49</ref> This eco-gothic deconstruction between urban and natural scenes can also be seen in Atkins's poetry. In his poem "Lake in A Storm", <ref type="bibr">50</ref> Atkins portrays the destructive and catastrophic power of nature which produces somatic and even psychotic human responses. In a mere thirteen lines, the conspicuous technique to carry the poem's effects is eerie personifications where the alternating sounds of nature and humanity collide. The lake is described in line 2 as having "Lear'd it in a howl" where the madness of Shakespeare's famed character is transposed to the character of a lake in a storm. In lines 2-3, the anthropomorphic dramatisation escalates: "a hark / crash" leads to a "high shriek". Line 8 is a single line stanza of claustrophobic terror: "thunder crammed in a moan". A single line forming the 4th stanza reads "craze of the seascape" connecting lunacy with the curiously aesthetic and ekphrastic term "seascape". <ref type="bibr">51</ref> As the raucous weather subsides, the poem still ends with a grotesque human/ natural miscegenation in the whimper of "little noises". In this poem, as in the poetrydramas, nature is monstrous and humankind is helpless in the face of its own as well as external nature. The storm, as a metonymy of nature, is depicted as something uncontrollable and unpredictable, and a force that distorts space and order. Chaos, a sense of doom, psychological claustrophobia, and fear of the unknown are conveyed by nature and humanity's alienation in this entrapped condition.</p><p>In the poem "School Demolition", the destruction of a of school building is depicted as a violent and mysterious crime scene ("shot through / the windows") with the interrogative suggestion ("murdered?") that this act of demolishing a human-made structure was a murder where nature (the moon) serves as is the silent coroner conducting the autopsy of this corpse: shot through the windows -murdered? so silently about the rooms the autopsy beginsthe moon coroner working late. <ref type="bibr">52</ref> While architecture and technology should be viewed as prized indicators of civilisation and symbols of refinement and culture, "School Demolition" shows these human achievements to be in the service of a rotting society. The decay and demolition of the school-a hall of learning for youth-represents the corruption of adult society and its relationship with nature. In the poetry-dramas and poetry, Atkins continuously reveals the inner darkness of humanity and horrors lying just beneath its surface. Nature and humanity are alienated just as humanity is self-alienated, and there is no respite or safe space anywhere.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Sonic Repetitions</head><p>The effects of the eco-gothic are often conveyed through sound, such as echo, repetition, and evocation of natural sounds that cannot be controlled by humans. Such external sounds are frequently juxtaposed with human-made sounds that are generally disturbing, such as screams of pain or maddening patterns of auditory repetitions. As a poet who places significant emphasis on sound, Atkins employs a variety of techniques that blend horror with straightforward narrative by utilising his trademark "conspicuous technique". <ref type="bibr">53</ref> Nielsen claims that "Atkins's poems are the polyphonic whisperings from that monstrous cabinet where black history has been shut away" 54 where Atkins uses prominent and varied sonic techniques to amplify the spectral and uncanny atmosphere, rendering defamiliarized sound as a crucial element of his experimental eco-gothic style.</p><p>Atkins counts sound in his poetry-dramas and poems as a pronounced "conspicuous technique": "Poetry-Drama is more of a tableau stage production dominated by poems as word-sets and employing 'conspicuous technique' as music-form, symphonic poetics". <ref type="bibr">55</ref> In the poetry-dramas, Atkins's theory of deconstruction is often manifested in his engagements with the theme of the eco-gothic using the "conspicuous technique" of sound and repetition. The poetry-dramas are filled with repetitive sound effects that carry visual, emotional, and semantic weight. As expressed by Atkins, "If a thing is good enough to be said once, it is good enough to be repeated in some form immediately and thereafter". <ref type="bibr">56</ref> Atkins has referred to his poetry-dramas as "orchestral poetics" where language is "scored like a ton of bricks, using words for maximum momentum, volume, and 'doubling' by manipulating the implicit in a set of grammatical categories … " 57 Among Atkins's poetry-dramas, at least four-The Drop of Blood, The Corpse, The Abortionist, and The Nail-are subtitled "To Be Set to Music". Sound is one of the most prominent examples of conspicuous technique in the poetry-dramas which we can then contextualise more clearly in his poems. Constant repetitions of music function as hauntings in his poetry-dramas to distort time perception, an operation which also plays out in more subtle form in his poetry. Haunting can induce abnormal, irrational, and impulsive human reactions and bring a sense of spectrality, which as Jacques Derrida has pointed out, "radically conflates pasts, presents, and futures and thus dislodges linear time". <ref type="bibr">58</ref> Haunted individuals are imprisoned in distorted time, particularly the unforgotten past. They exist in dual temporalities-subjective past and objective present-where doubling represents "one aspect of the uncanny". <ref type="bibr">59</ref> Destabilisation is produced by the conspicuous techniques of repetition, refrain, return, echo, and other sonic devices associated with poetic doubling such as rhyme, alliteration, and metre.</p><p>By continuously altering the audience's temporal experience, music transcends linear time, merging past, present, and future into a singular, haunting auditory experience. In The Drop of Blood, as the wife descends the stairs, there is the "sound of furious rain outside of draperied window". <ref type="bibr">60</ref> In The Corpse, "the Widow hurries out into the thunder and the lightning takes all light from the stage leaving a sudden gloom in which the thunder growls under music". 61 Later, "the storm commences to rage. The stage is dark, all but the ornamented gateway of the vault through it we look out into the lightning and thunder and rain of the sodden cemetery". 62 Such detailed description of stormy weather creates the "symphonic poetics" towards which Atkins aimed: She flings open the panelled door; in rushes the wind; her garments are in violent agitation. A choir of voices singing faintly of ghastliness with a faraway tinkling of wind chimes, hurriedly passes and is no more heard. There is the fall of the thunder. <ref type="bibr">63</ref> This blurring of temporal boundaries enhances the eco-gothic ambiance, fostering a sense of unease and otherworldliness that is central to the poetry-drama genre which then becomes evident in the poems. The deployment of sonic repetitions with ecogothic effect in Atkins's poetry-dramas reveals his poetic strategy and offers a lens to explore these themes in his poetry. In both genres, the most frequently recurring sonic pattern is that of threatening environmental sounds juxtaposed with human sounds of anguish. A terrifying eco-gothic symphony is generated by rain, wind, and thunder in gloomy weather combined with human screams of pain and despair in cold uncomfortable settings. The tension formed by the natural and human sounds evokes an earthly and human environment of discomfort, estrangement, and the unhomely.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Conclusion</head><p>This essay argues that the poetry-dramas of Russell Atkins were no side project but a significant contribution to his challenging body of poetry and poetics. The techniques used in his poetry appear in exaggerated ways in his poetry-dramas making the poetry-dramas valuable blueprints to interpret the poems. As Singer explains, plays in verse require a higher level of clear authorial revelation and explication than conventional dramas because they do not fulfil audience expectations of a linear prose-based narrative structure. Atkins was explicit that his poetry-dramas were his opportunity to engage with issues of poetry which he believed clearly articulated his poetic goals and methods. When asked to elucidate his theories, Atkins replied "I can't see what is difficult about it. I was just trying to write about what I was doing". His poetry-dramas were not dramatic scripts using verse, but literary texts that were inextricable from the genre of poetry. Recognising the intersections of methodology (conspicuous technique), theory (deconstruction), and theme (eco-gothic) in Atkins's poetry-dramas illuminates their presence and function in his poetry. Underpinned by his own pre-Derridean theory of deconstruction, Atkins reconstructs a Gothic aesthetic that transcends individual, racial, temporal, spatial, and ecological boundaries. Examined closely, his poetrydramas foreground the "conspicuous technique" that is omnipresent in more subtle ways in his poetry. Therefore, the poetry-dramas should be viewed as significant literary works that contribute to Atkins's poetic oeuvre and provide important critical guidance in understanding and appreciating his renowned body of poetry.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Disclosure Statement</head><p>No potential conflict of interest was reported by the authors. </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>ORCID</head></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head>2</head><label></label><figDesc>Prufer and Dumanis, Russell Atkins, 12. 3 Breman, "The Heritage Series," 139.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_1"><head></head><label></label><figDesc>4</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_0"><head></head><label></label><figDesc>Lauri Scheyer http://orcid.org/0000-0002-6437-8286 Bibliography Anolik, Ruth Bienstock, and Douglas L. Howard, eds. The Gothic Other: Racial and Social Constructions in the Literary Imagination. Jefferson, North Carolina, and London: McFarland &amp; Co., 2004. Atkins, Russell. "The Drop of Blood." In Phenomena, edited by Russell Atkins, 8-31. Wilberforce: Free Lance Poets and Prose Workshop, 1961. ---Here in the. Cleveland: Cleveland State University Press, 1976. ---Interview with the author (unpublished) implemented in Cleveland, OH, facilitated by Diane Kendig. 29 July 2022. ---Juxtapositions. Cleveland: Self-published, 1991. ---"Lake in A Storm." In World'd Too Much: Selected Poetry by Russell Atkins, edited by Kevin Prufer and Robert E. McDonough, 93. Cleveland: Cleveland State University Poetry Center, 2019. ---"Late Bus." In World'd Too Much: Selected Poetry by Russell Atkins, edited by Kevin Prufer and Robert E. McDonough, 100. Cleveland: Cleveland State University Poetry Center, 2019. ---The Nail. Cleveland: Free Lance Press, 1970. ---Objects. Eureka: Hearse Press, 1963. ---Objects 2. Cleveland: Renegade Press, 1963. ---"Over His Dead Body." In World'd Too Much: Selected Poetry by Russell Atkins, edited by Kevin Prufer and Robert E. McDonough, 154. Cleveland: Cleveland State University Poetry Center, 2019. ---"A Psychovisual Perspective for 'Musical' Composition." Free Lance 3, no. 2 (1955): 2-17. ---"Psychovisual Perspective for 'Musical' Composition." Free Lance 5, no. 1 (1958): 7-47.</figDesc><table /></figure>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="13" xml:id="foot_0"><p>See Juxtapositions, 1991.   </p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="14" xml:id="foot_1"><p>Atkins, World'd Too Much, 22.   </p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="15" xml:id="foot_2"><p>Of the poetry-dramas, The Nail is an outlier as an adaptation of a short story by Pedro Antonio de Alarcon where the others are Atkins's original compositions.</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="16" xml:id="foot_3"><p>Atkins, World'd Too Much, 23.   4   X. CHEN AND L. SCHEYER</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="49" xml:id="foot_4"><p>Shockley, "Death is Only Natural,"114.   </p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="50" xml:id="foot_5"><p>See Here in the, 1976.</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="51" xml:id="foot_6"><p>Atkins, World'd Too Much, 94.   </p></note>
+		</body>
+		<back>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<monogr>
+		<author>
+			<persName><forename type="first">Sivils</forename><surname>Keetley</surname></persName>
+		</author>
+		<title level="m">Ecogothic in Nineteenth-Century American Literature</title>
+		<imprint>
+			<biblScope unit="volume">4</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<monogr>
+		<title level="m" type="main">Incorporations</title>
+		<author>
+			<persName><surname>Rajan</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="page">222</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<monogr>
+		<title level="m" type="main">Psychovisual Perspective</title>
+		<author>
+			<persName><surname>Atkins</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="page">37</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<monogr>
+		<title level="m" type="main">Death is Only Natural</title>
+		<author>
+			<persName><surname>Shockley</surname></persName>
+		</author>
+		<idno>109. 46 Ibid., 113</idno>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title level="a" type="main">American Gothic and Environment, 1800-present</title>
+		<author>
+			<persName><surname>Sivils</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">124. 48 Ibid</title>
+		<imprint>
+			<biblScope unit="page">130</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">Russell</forename><surname>Atkins</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="s">Contemporary Authors Autobiography Series</title>
+		<editor>
+			<persName><forename type="first">Joyce</forename><surname>Nakamura</surname></persName>
+		</editor>
+		<imprint>
+			<biblScope unit="volume">16</biblScope>
+			<biblScope unit="page" from="1" to="19" />
+			<date type="published" when="1992">1992</date>
+			<publisher>Cengage Gale</publisher>
+			<pubPlace>Andover</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title level="a" type="main">Trainyard at Night</title>
+	</analytic>
+	<monogr>
+		<title level="m">World&apos;d Too Much: Selected Poetry by Russell Atkins</title>
+		<editor>
+			<persName><forename type="first">Kevin</forename><surname>Prufer</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">Robert</forename><forename type="middle">E</forename><surname>Mcdonough</surname></persName>
+		</editor>
+		<imprint>
+			<date type="published" when="2019">2019</date>
+			<biblScope unit="page">178</biblScope>
+		</imprint>
+		<respStmt>
+			<orgName>Cleveland State University Poetry Center</orgName>
+		</respStmt>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<monogr>
+		<title level="m">Two by Russell Atkins: The Abortionist and The Corpse</title>
+		<meeting><address><addrLine>Cleveland</addrLine></address></meeting>
+		<imprint>
+			<publisher>Free Lance Press</publisher>
+			<date type="published" when="1963">1963</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<monogr>
+		<title level="m" type="main">Oxford Companion to Gothic Tales</title>
+		<author>
+			<persName><forename type="first">Chris</forename><surname>Baldick</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2009">2009</date>
+			<publisher>Oxford University Press</publisher>
+			<pubPlace>New York</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title level="a" type="main">The Heritage Series: A Memoir</title>
+		<author>
+			<persName><forename type="first">Paul</forename><surname>Breman</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">The Heritage Series of Black Poetry, 1962-1975: A Research Compendium</title>
+		<editor>
+			<persName><forename type="first">Lauri</forename><surname>Scheyer</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Aldershot and Burlington; Crow, Charles L. American Gothic; Cardiff</addrLine></address></meeting>
+		<imprint>
+			<publisher>University of Wales Press</publisher>
+			<date type="published" when="2008">2008. 2009</date>
+			<biblScope unit="page" from="127" to="168" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title level="a" type="main">Productive Non-Sense: How Louis Zukofsky, Russell Atkins, and Nathaniel Mackey Rethink the Functions of Language and Sense-Making</title>
+		<author>
+			<persName><forename type="first">Eli</forename><surname>Didier</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Master&apos;s thesis</title>
+		<imprint>
+			<date type="published" when="2010">2010</date>
+		</imprint>
+		<respStmt>
+			<orgName>State University of New York at Buffalo</orgName>
+		</respStmt>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<monogr>
+		<title level="m" type="main">Gothic Music: Sounds of the Uncanny</title>
+		<author>
+			<persName><forename type="first">Isabella</forename><surname>Elferen</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Van</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2012">2012</date>
+			<publisher>The University of Wales Press</publisher>
+			<pubPlace>Cardiff</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<title level="a" type="main">Sonic Gothic</title>
+	</analytic>
+	<monogr>
+		<title level="m">The Gothic World</title>
+		<editor>
+			<persName><forename type="first">Glennis</forename><surname>Byron</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">Dale</forename><surname>Townshend</surname></persName>
+		</editor>
+		<meeting><address><addrLine>London and New York</addrLine></address></meeting>
+		<imprint>
+			<publisher>Routledge</publisher>
+			<date type="published" when="2014">2014</date>
+			<biblScope unit="page" from="429" to="440" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<title level="a" type="main">The Uncanny</title>
+		<author>
+			<persName><forename type="first">Sigmund</forename><surname>Freud</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Romantic Writings</title>
+		<editor>
+			<persName><forename type="first">Stephen</forename><surname>Bygrave</surname></persName>
+		</editor>
+		<meeting><address><addrLine>London</addrLine></address></meeting>
+		<imprint>
+			<publisher>Routledge</publisher>
+			<date type="published" when="1996">1996</date>
+			<biblScope unit="page" from="318" to="325" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<title level="a" type="main">Editor&apos;s Note</title>
+		<author>
+			<persName><forename type="first">Casper</forename><surname>Jordan</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Leroy</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Two by Russell Atkins</title>
+		<editor>
+			<persName><forename type="first">Russell</forename><surname>Atkins</surname></persName>
+		</editor>
+		<editor>
+			<persName><surname>Cleveland</surname></persName>
+		</editor>
+		<imprint>
+			<publisher>Free Lance Press</publisher>
+			<date type="published" when="1963">1963</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title level="a" type="main">Special Russell Atkins Issue Commentary</title>
+		<author>
+			<persName><forename type="first">Casper</forename><surname>Jordan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Leroy</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Stefanski</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Free Lance</title>
+		<imprint>
+			<biblScope unit="volume">14</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page">1</biblScope>
+			<date type="published" when="1970">1970</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<monogr>
+		<title level="m" type="main">Ecogothic in Nineteenth-Century American Literature</title>
+		<editor>Keetley, Dawn, and Matthew Wynn Sivils</editor>
+		<imprint>
+			<date type="published" when="2018">2018</date>
+			<publisher>Routledge</publisher>
+			<pubPlace>New York and London</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<analytic>
+		<title level="a" type="main">Black Deconstruction: Russell Atkins and the Reconstruction of African American Criticism</title>
+		<author>
+			<persName><forename type="first">Aldon</forename><surname>Nielsen</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Lynn</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diacritics</title>
+		<imprint>
+			<biblScope unit="volume">26</biblScope>
+			<biblScope unit="issue">3-4</biblScope>
+			<biblScope unit="page" from="86" to="103" />
+			<date type="published" when="1996">1996</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<monogr>
+		<title level="m">Integral Music: Languages of African American Innovation</title>
+		<meeting><address><addrLine>Tuscaloosa</addrLine></address></meeting>
+		<imprint>
+			<publisher>The University of Alabama Press</publisher>
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<analytic>
+		<title level="a" type="main">Objects: For Russell Atkins</title>
+	</analytic>
+	<monogr>
+		<title level="m">Russell Atkins: On the Life and Work of an American Master</title>
+		<editor>
+			<persName><forename type="first">Kevin</forename><surname>Prufer</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">Michael</forename><surname>Dumanis</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Warrensburg</addrLine></address></meeting>
+		<imprint>
+			<publisher>Pleiades Press</publisher>
+			<date type="published" when="2013">2013</date>
+			<biblScope unit="page" from="17" to="40" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<analytic>
+		<title level="a" type="main">The Poet in the Theatre: Verse Drama</title>
+		<author>
+			<persName><forename type="first">Sean</forename><surname>O'brien</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">The Handbook of Creative Writing</title>
+		<editor>
+			<persName><forename type="first">Steven</forename><surname>Earnshaw</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Edinburgh</addrLine></address></meeting>
+		<imprint>
+			<publisher>Edinburgh University Press</publisher>
+			<date type="published" when="2014">2014</date>
+			<biblScope unit="page" from="229" to="235" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<analytic>
+		<title level="a" type="main">The Place of Atkins and Future Scholarship</title>
+		<author>
+			<persName><forename type="first">Tom</forename><surname>Orange</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Russell Atkins: On the Life and Work of an American Master</title>
+		<editor>
+			<persName><forename type="first">Kevin</forename><surname>Prufer</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">Michael</forename><surname>Dumanis</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Warrensburg</addrLine></address></meeting>
+		<imprint>
+			<publisher>Pleiades Press</publisher>
+			<date type="published" when="2013">2013</date>
+			<biblScope unit="page" from="196" to="206" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<monogr>
+		<title level="m" type="main">Introduction: The EcoGothic in the Long Nineteenth Century</title>
+		<author>
+			<persName><forename type="first">David</forename><surname>Principe</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Del</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2014">2014</date>
+			<biblScope unit="volume">16</biblScope>
+			<biblScope unit="page" from="1" to="9" />
+		</imprint>
+	</monogr>
+	<note>Gothic Studies</note>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<monogr>
+		<title level="m" type="main">Rediscovering Russell Atkins</title>
+		<author>
+			<persName><forename type="first">Kevin</forename><surname>Prufer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Michael</forename><surname>Dumanis</surname></persName>
+		</author>
+		<ptr target="https://beltmag.com/rediscovering-russell-atkins/" />
+		<imprint>
+			<date type="published" when="2014-10-22">22 October 2014. July 2024</date>
+		</imprint>
+	</monogr>
+	<note>Belt Magazine</note>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<monogr>
+		<title level="m">Russell Atkins: On the Life and Work of an American Master</title>
+		<meeting><address><addrLine>Warrensburg</addrLine></address></meeting>
+		<imprint>
+			<publisher>Pleiades Press</publisher>
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<analytic>
+		<title level="a" type="main">Incorporations: The Gothic and Deconstruction</title>
+		<author>
+			<persName><forename type="first">Tilottama</forename><surname>Rajan</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Gothic and Theory: An Edinburgh Companion</title>
+		<editor>
+			<persName><forename type="first">Jerrold</forename><forename type="middle">E</forename><surname>Hogle</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">Robert</forename><surname>Miles</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Edinburgh</addrLine></address></meeting>
+		<imprint>
+			<publisher>Edinburgh University Press</publisher>
+			<date type="published" when="2019">2019</date>
+			<biblScope unit="page" from="220" to="239" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<monogr>
+		<author>
+			<persName><forename type="first">Eugene</forename><forename type="middle">B</forename><surname>Redmond</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Drumvoices</surname></persName>
+		</author>
+		<title level="m">The Mission of Afro-American Poetry: A Critical History</title>
+		<meeting><address><addrLine>New York</addrLine></address></meeting>
+		<imprint>
+			<publisher>Anchor/Doubleday</publisher>
+			<date type="published" when="1976">1976</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b27">
+	<monogr>
+		<title level="m" type="main">Modern Gothic: A Reader</title>
+		<author>
+			<persName><forename type="first">Victor</forename><surname>Sage</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Allan</forename><forename type="middle">Lloyd</forename><surname>Smith</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1996">1996</date>
+			<publisher>Manchester University Press</publisher>
+			<pubPlace>Manchester and New York</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b28">
+	<analytic>
+		<title level="a" type="main">Art as Technique</title>
+		<author>
+			<persName><forename type="first">Viktor</forename><surname>Shkovsky</surname></persName>
+		</author>
+		<ptr target="extension://efaidnbmnnnibpcajpcgl-clefindmkaj/https://warwick.ac.uk/fac/arts/english/currentstudents/undergraduate/modules/fulllist/first/en122/lecturelist-2015-16-2/shklovsky.pdf" />
+	</analytic>
+	<monogr>
+		<title level="m">Open source</title>
+		<imprint>
+			<date type="published" when="1917-07">1917. July 2024</date>
+			<biblScope unit="page">11</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b29">
+	<analytic>
+		<title level="a" type="main">Death is Only Natural</title>
+		<author>
+			<persName><forename type="first">Evie</forename><surname>Shockley</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Russell Atkins: On the Life and Work of an American Master</title>
+		<editor>
+			<persName><forename type="first">Kevin</forename><surname>Prufer</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">Michael</forename><surname>Dumanis</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Warrensburg</addrLine></address></meeting>
+		<imprint>
+			<publisher>Pleiades Press</publisher>
+			<date type="published" when="2013">2013</date>
+			<biblScope unit="page" from="108" to="116" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b30">
+	<analytic>
+		<title level="a" type="main">Salvos for Atkins</title>
+		<author>
+			<persName><forename type="first">Adelaide</forename><surname>Simon</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Input</title>
+		<imprint>
+			<biblScope unit="volume">4</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="8" to="9" />
+			<date type="published" when="1964">1964</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b31">
+	<analytic>
+		<title level="a" type="main">Atkins: Writing Cleveland</title>
+		<author>
+			<persName><forename type="first">Sean</forename><surname>Singer</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Russell Atkins: On the Life and Work of an American Master</title>
+		<editor>
+			<persName><forename type="first">Kevin</forename><surname>Prufer</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">Michael</forename><surname>Dumanis</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Warrensburg</addrLine></address></meeting>
+		<imprint>
+			<publisher>Pleiades Press</publisher>
+			<date type="published" when="2013">2013</date>
+			<biblScope unit="page" from="183" to="195" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b32">
+	<analytic>
+		<title level="a" type="main">American Gothic and Environment, 1800-Present</title>
+		<author>
+			<persName><forename type="first">Matthew</forename><surname>Sivils</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Wynn</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">The Gothic World</title>
+		<editor>
+			<persName><forename type="first">Glennis</forename><surname>Byron</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">Dale</forename><surname>Townshends</surname></persName>
+		</editor>
+		<meeting><address><addrLine>London and New York</addrLine></address></meeting>
+		<imprint>
+			<publisher>Routledge</publisher>
+			<date type="published" when="2014">2014</date>
+			<biblScope unit="page" from="121" to="131" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b33">
+	<analytic>
+		<title level="a" type="main">Viscous Porosity</title>
+		<author>
+			<persName><forename type="first">Nancy</forename><surname>Tuana</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Material Feminisms</title>
+		<editor>
+			<persName><forename type="first">Stacy</forename><surname>Alaimo</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">Susan</forename><forename type="middle">J</forename><surname>Hekman</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Bloomington and Indianapolis</addrLine></address></meeting>
+		<imprint>
+			<publisher>Indiana University Press</publisher>
+			<date type="published" when="2007">2007</date>
+			<biblScope unit="page" from="188" to="213" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b34">
+	<analytic>
+		<title level="a" type="main">Bounded and Unbounded Field Functions in Atkins and Olson</title>
+		<author>
+			<persName><forename type="first">Tyrone</forename><surname>Williams</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Foreign Languages and Cultures</title>
+		<imprint>
+			<biblScope unit="volume">2</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="63" to="68" />
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b35">
+	<analytic>
+		<title level="a" type="main">The Rhetorical-Aural Poetry-Dramas of Russell Atkins</title>
+	</analytic>
+	<monogr>
+		<title level="m">Russell Atkins: On the Life and Work of an American Master</title>
+		<editor>
+			<persName><forename type="first">Kevin</forename><surname>Prufer</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">Michael</forename><surname>Dumanis</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Warrensburg</addrLine></address></meeting>
+		<imprint>
+			<publisher>Pleiades Press</publisher>
+			<date type="published" when="2013">2013</date>
+			<biblScope unit="page" from="160" to="182" />
+		</imprint>
+	</monogr>
+	<note>To Be Set To Music</note>
+</biblStruct>
+
+<biblStruct xml:id="b36">
+	<analytic>
+		<title level="a" type="main">Victorian Hauntings: Spectrality, Gothic, the Uncanny and Literature</title>
+		<author>
+			<persName><forename type="first">Julian</forename><surname>Wolfreys</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Hampshire</title>
+		<imprint>
+			<date type="published" when="2002">2002</date>
+			<publisher>Palgrave</publisher>
+			<pubPlace>New York</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b37">
+	<monogr>
+		<title level="m" type="main">Phenomenology: The Basics</title>
+		<author>
+			<persName><forename type="first">Dan</forename><surname>Zahavi</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2019">2019</date>
+			<publisher>Routledge</publisher>
+			<pubPlace>London and New York</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

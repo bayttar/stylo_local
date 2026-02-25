@@ -1,0 +1,839 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Narrating Panarchy in the Anthropocene: The Adaptive (Short Story) Cycle in Rebecca Campbell&apos;s Arboreality</title>
+				<funder ref="#_zzTbGkg">
+					<orgName type="full">Glocal City: Reshaping the English Canadian Imaginary</orgName>
+				</funder>
+				<funder ref="#_mKp4TwH">
+					<orgName type="full">Canada and Beyond</orgName>
+				</funder>
+				<funder ref="#_CzndqZr #_JE4VaCq">
+					<orgName type="full">Spanish Ministry of Science, Innovation, and Universities</orgName>
+				</funder>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author role="corresp">
+							<persName><forename type="first">Ana</forename><surname>María Fraile-Marcos</surname></persName>
+							<email>anafra@usal.es</email>
+							<affiliation key="aff0">
+								<orgName type="department">Departamento de Filología Inglesa</orgName>
+								<orgName type="institution">Universidad de Salamanca</orgName>
+								<address>
+									<settlement>Salamanca</settlement>
+									<country key="ES">Spain</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff1">
+								<orgName type="department">Departamento de Filología Inglesa</orgName>
+								<orgName type="institution">Universidad de Salamanca</orgName>
+								<address>
+									<addrLine>C/ Placentinos 18</addrLine>
+									<postCode>37008</postCode>
+									<settlement>Salamanca</settlement>
+									<country key="ES">Spain</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff2">
+								<orgName type="institution">Ana María Fraile-Marcos</orgName>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Narrating Panarchy in the Anthropocene: The Adaptive (Short Story) Cycle in Rebecca Campbell&apos;s Arboreality</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date/>
+						</imprint>
+					</monogr>
+					<idno type="MD5">D075E7BB829BFF33628DBEE204E68DA4</idno>
+					<idno type="DOI">10.1080/00111619.2026.2621919</idno>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.0" ident="GROBID" when="2026-02-25T19:53+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>This article contributes to Anthropocene studies and narratology by examining how Rebecca Campbell's Arboreality (2022) uses the aesthetics of the short story cycle to represent the complexities and paradoxes of socioecological crisis. It argues that the form's defining features-circularity, fragmentation, interconnection, and its oscillation between closure and open-endedness-mirror the recursive, rhizomatic dynamics of panarchy theory, which conceptualizes resilience through adaptive cycles of growth, conservation, release, and reorganization across nested human and nonhuman systems. While resilience theory is being increasingly applied in literary and cultural studies, the narratological significance of the short story cycle as a form structurally homologous to panarchic cycles remains underexplored. By bringing these frameworks into dialogue, the article addresses this critical gap, showing how literary form itself can register ecological crisis and renewal in the Anthropocene.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Introduction</head><p>One of the central challenges for contemporary literature and culture in the Anglosphere is how to narrate the crisis of the Anthropocene, the proposed geological epoch in which human activity has become the dominant force shaping Earth's systems, profoundly altering Earth's ecology on a planetary scale <ref type="bibr">(Crutzen and Stoermer 2000)</ref> and thereby disrupting the 11,700-year ecological stability of the Holocene that enabled the flourishing of human civilization. Within Anglophone popular culture, the Anthropocene has often been cast through dystopian and apocalyptic imaginaries that depict ecological breakdown as both imminent and unavoidable, a narrative tendency that can foster resignation and political paralysis <ref type="bibr">(Malm and Hornborg)</ref>. In contrast, Anglophone critical discourse has sought to unsettle these narratives. Thinkers such as Heather Davis and Zoë Todd, Kyle Whyte, and Kathryn Yusoff underscore the colonial, racial, and gendered asymmetries that structure Anthropocene narratives, highlighting how ostensibly universalizing framings of planetary crisis obscure the uneven distribution of ecological harm across different communities within and beyond the Anglosphere. While their work exposes the "slow violences" <ref type="bibr">(Nixon)</ref> underpinning the Anthropocene, it also gestures toward reparative futures built on Indigenous knowledge, relational ethics, and responsibility. Other Anglophone scholars, including Donna Haraway and ecomodernist thinkers, interpret the Anthropocene less as an apocalyptic endpoint than as a transitional phase, envisioning possible futures of multispecies kinship or technological innovation.</p><p>Despite the richness of these debates, Anthropocene literary studies have not sufficiently examined how narrative form itself can mediate between collapse and renewal. This article fills that gap by proposing panarchy theory's adaptive cycles <ref type="bibr">(Gunderson and Holling)</ref> as a critical framework for reading literary form that not only registers the Anthropocene's ruptures and cascading crises through an aesthetics of circularity, fragmentation, interconnection, and open-endedness, but also imagines the possibility of resilience and regeneration. 1 It offers Rebecca Campbell's Arboreality as a striking case study of how the short story cycle's formal allowances resonate with panarchy's multi-scalar feedback loops and can be used to dramatize Anthropocene adaptive cycles of collapse and reorganization. Moreover, I suggest that Campbell's aesthetic experimentation goes beyond foregrounding relational resilience-building and collective reorganization in the wake of ecological crisis and social disruption, and broadens the scope of Anthropocene storytelling by opening imaginative space for breaking free from the vicious circles of ongoing crisis.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Panarchy Loops as a Structuring Conceptual Form</head><p>The model of the resilience adaptive cycle was first advanced by Canadian ecologist Crawford S. <ref type="bibr">Holling in 1973</ref>. Working in complex system ecology, Holling rejected the idea that systems exist in a single steady state or follow a linear, teleological model of succession that moves predictably from an initial phase of growth or exploitation involving the rapid colonization of recently disturbed areas, to a final phase of conservation and stability, characterized by the slow accumulation and storage of energy and material. Instead, Holling proposed that ecological, social, and socio-ecological systems also undergo recurring phases of release, or creative destruction -marked as omega in his graphic representation of the feedback loop -and reorganization-marked as alpha, indicating the beginning of a new cycle <ref type="bibr">(Holling and Gunderson 34)</ref>. These periods of collapse, creative destruction, and renewal indicate the resilience capacity of a system -that is, its ability "to absorb disturbance and still retain its basic function and structure" <ref type="bibr">(Walker and Salt 1)</ref>. They also add a back loop to the previous model of systems ecology, drawing a cyclical dynamic known as resilience adaptive cycle ("Adaptive Cycle").</p><p>C.S. Holling and Lance Gunderson further developed the feedback loop heuristic through the concept of panarchy. Named after the Greek god Pan, a symbol of universal nature and associated with unpredictable change, panarchy highlights the profound interdependence of social and natural complex systems organized through a "nested hierarchy" of adaptive cycles that interact across different scales in both top-down and bottom-up directions. Thus, fast-moving small-scale systems can influence the larger, slower systems in which they are embedded through a process called "revolt," while larger systems provide the "memory" for reorganization after a collapse through a process called "remember" <ref type="bibr">(Holling,</ref><ref type="bibr">Gunderson,</ref><ref type="bibr">and Peterson 75</ref>) (see also "Panarchy"). Panarchy, therefore, provides a framework -or a "metaphor," in Holling and Gunderson's parlance -for the narrative representation of the dynamic structures through which systems -natural (e.g., forests), human (e.g., capitalism), and coupled human-natural (e.g., institutions managing natural resources such as the Forest Service) -remain interconnected through recurring cycles of growth, accumulation, collapse, and renewal.</p><p>Equally central to our application of the panarchy model to the analysis of narrative patterns that attempt to register the complexities of the Anthropocene is the diverging "little tail" marked as x in the graphical representation of the adaptive cycle ("Adaptive Cycle"), which signals variation in the repetition of feedback loops. Reading narrative form in the interstitial space of this divergent tailsituated at the threshold between cyclical iteration and the possibility of moving toward an unknown cycle -invites speculative imaginings that transcend the mere repetition of collapse and recovery in the Anthropocene, opening possibility for the emergence of new, resilient, and self-sustaining ecosocial systems.</p><p>I suggest that panarchy's crucial insight -that no action within the planet's intricate systems occurs in isolation -intersects productively with the Anthropocene's emphasis on the deep entanglement of human and nonhuman forces. While the Anthropocene highlights the magnitude of human impact on the Earth system, it simultaneously exposes the system's often unpredictable and uncontrollable responses to that impact. Thus, the "terraforming assemblage" (Woods, "Scale Critique" 134) of collective agencies that sustains ecological stability through complex adaptive feedback loops often displaces or diminishes the human as a central actor, revealing the hubristic assumptions underpinning Anthropocentric logics. Such a recognition compels a radical rethinking of humanity's relationship to the planet. Viewed through the lens of panarchy's adaptive cycles, the Anthropocene emerges then as "the most decisive philosophical, religious, anthropological and [. . .] political concept yet produced as an alternative to the very notions of 'Modern' and 'modernity'" <ref type="bibr">(Latour,</ref><ref type="bibr">"Facing Gaia" 77)</ref>.</p><p>In line with these insights, recent scholarship in the humanities <ref type="bibr">(Caracciolo; Duffield)</ref> and social sciences <ref type="bibr">(Wakefield)</ref> has drawn attention to the loop as a particularly apt figure for representing the Anthropocene. Borrowing the adaptive cycle heuristic, urban geographer Stephanie Wakefield suggests that the historical processes typically associated with the Anthropocene and Western liberalism -including colonization, slavery, resource extraction, and industrialization -can be understood in terms of the adaptive cycle's front loop of growth, exploitation, and conservation, whereas the current moment of nested crises responds to the back loop, where release and system reorganization happen. In Wakefield's words, the back loop "is our present, the moment of the naming of the Anthropocene (as a failure)" (32), an era "of confusion, chaos, and the potential for transformation" (33). Reckoning with the potential of the back loop to enable new arrangements and possibilities, Wakefield frames it as a "lens through which to see contemporary phenomena differently" (11). This perspective transcends both the paralyzing view of the Anthropocene as an unavoidable apocalypse and the liberal conception of resilience as "a form of back loop management that seeks to create and define 'safe operating spaces' able to absorb and manage, rather than eliminate, disturbance" (34). Instead, viewing the Anthropocene through the lens of the back loop as a "threshold" 2 of "discombobulated modes of knowing and being" (33) shifts the perspective from old codes that prefigure a tragic End or a world of ruins to the possibility of an open future where interaction across previously unbridgeable divides gives rise to "something fundamentally original" (33).</p><p>Panarchy's model of nested adaptive cycles does not articulate a smooth or seamless circular trajectory; rather, it accommodates both forms of discontinuous linearity and the meshy, rhizomatic, and networked connections that characterize complex adaptive systems. In this respect, panarchy resonates productively with nonlinear modes of narrative organization that seek to capture the complex, entangled realities of the Anthropocene. Such narrative forms include discontinuous progression, the loop, the network, and the rhizome-four nonlinear models that, as Marco Caracciolo argues in Narrating the Mesh, "may coexist within a narrative" (73) alongside one another and alongside linearity, as Campbell's Arboreality compellingly demonstrates.</p><p>I posit that this hybrid structure resonates strongly with the formal logics of the short story cycle, whose discrete stories branch, diverge, and reconnect in ways that resist the coherence of a singular arc. Thus, the short story cycle offers an aesthetic form uniquely suited to representing the adaptive, disruptive, and innovative dynamics that characterize panarchic cycles in the Anthropocene. Its structure -composed of discrete yet interlinked narratives -mirrors the iterative phases of growth, accumulation, collapse, and reorganization that define panarchy. In Forrest Ingram's blueprint definition of the form, the short story cycle is, "a book of short stories so linked to each other by their author that the reader's successive experience on various levels of the pattern of the whole significantly modifies his experience of each of its component parts" (11). 3 The story cycle's characteristic oscillation between fragmentation and cohesion formally enacts the tensions between stability and rupture that shape socio-ecological systems under stress. Individual stories may chart localized moments of disturbance or adaptation, while the cumulative architecture of the cycle reveals broader patterns of transformation across temporal and spatial scales. In this way, the short story cycle not only accommodates but actively stages the recursive, multi-scalar rhythms of Anthropocene crisis, offering a literary analogue for understanding how disruption can generate new configurations of meaning, relationship, and possibility. Crucially, the story cycle's structural technique of repetition with variation resonates with the non-linear temporality, relationality, and iterative logic of the looping mechanisms central to Holling's panarchy model, which resilience ecology mobilizes to conceptualize socio-ecological transformation. Viewed in this light, the short story cycle emerges as a uniquely generative narratological form for representing the recursive dynamics of temporal and systemic change in today's climate-struck and highly interconnected world.</p><p>I suggest that the story cycle's orientation toward non-linear, emergent futurities moves the form beyond narratives of mere adaptation toward those that imagine experimental transformation, regeneration, and flourishing. In doing so, the short story cycle emerges as a key mechanism for developing new conceptual understandings of contemporary reality and envisioning meaningful resilience, as the following analysis of Arboreality illustrates.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Arboreality's Feedback Loop Aesthetics: The Adaptive Short Story Cycle</head><p>Arranged chronologically within a temporal arc ranging from the 2030s through 2100, Arboreality comprises six speculative stories -"Special Collection," "Controlled Burn," "An Important Failure," "Scions and Root Stocks," "Pub Food," and "The Cathedral Arboreal" -that trace social collapse and ongoing environmental transformation driven by global warming. Each narrative portrays the resilience of human characters and their nonhuman companions on Vancouver Island and in the city of Vancouver. Challenging the categorization of Arboreality as a novella-a label attached by Stelliform Press at publication and echoed by several reviewers 4 -I argue that the book's thematic exploration of resilience is amplified by an aesthetic that mirrors panarchy's feedback loops, thereby revitalizing the short story cycle as a form uniquely suited to grappling with the complexities of the Anthropocene.</p><p>Exemplifying the simultaneous individuality and interconnection characteristic of the short story cycle -what Forrest Ingram defines as the "double tendency of asserting the individuality of its components on one hand and of highlighting, on the other, the bonds of unity which make the many into a single whole" (19) -each story in Arboreality stands independently. Yet, recurring characters, motifs, and settings progressively intersect and intertwine across temporal, spatial, human, and nonhuman boundaries, creating an interplay of formal multiplicity and cohesion. Moreover, the fragmentariness and interconnectivity characteristic of the short story cycle is emphasized within the individual stories by the interpolation of italicized vignettes that interrupt the primary storyline at the same time as they produce an overarching heterodiegetic commentary across the book. These digressive fragments connect local and global ecological phenomena across time, introduce new characters, and displace human temporality with dendrochronological and geological scales. The result is a narrative strategy that both constructs and disrupts linearity, privileging instead a looping structure reminiscent of the adaptive cycles in panarchy theory. This structural principle is underscored by the concluding story, which functions as the diverging "little tail" of the adaptive cycle ("Adaptive Cycle"), its open-ended return repeating with variation and thereby intimating the potential emergence of a qualitatively different eco-social system.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Arboreality's Front Loop</head><p>While Arboreality's focus on resilience firmly situates the text within the adaptive cycle's back loop, the front loop nevertheless surfaces both formally and thematically. Frequent invocations of the precollapse stability that haunts the narrative heighten the sense of the diegetic present as a time of crisis, disruption, and transformation. These echoes of the past infuse the text with loss and melancholic nostalgia while propelling the characters' varied responses to life in a collapsing world.</p><p>According to Wakefield, inhabiting the back loop elicits two broad kinds of responses: efforts to maintain a "safe operating space" reminiscent of the front loop and experiments in "human capacities and ways of living" ( <ref type="formula">14</ref>). The former, Wakefield argues, often take the form of resilience governance techniques that remain tethered to "the maintenance of existing economic, social, and political relations" (13). Alternatively, they may deploy post-apocalyptic imaginaries that impose a new "Anthropocene moral code" (13), demanding adherence to laws of entanglement, anti-humanism, and limits -where failure to comply risks being seen as obsolete hubris. Such frameworks, she contends, ultimately produce "damaging constraints on life and imagination" (13), aiming to stabilize (to govern) life even while declaring it unstable and beyond human control. By contrast, the second pathway -centered on exploring new capacities and ways of living -emerges through "responses to the back loop by regular people, which they develop not to govern the back loop, but to inhabit it according to their own needs and inclinations" ( <ref type="formula">14</ref>). Arboreality interrogates these various responses and their possible outcomes.</p><p>The front loop figures prominently in the opening story. Set in the 2030s and the decades that follow, "Special Collections" unfolds at the chronological cusp where the fragile stability of the Anthropocene's conservation phase gives way to the destructive force of the back loop -symbolized by the collapse of the McPherson Library at the University of Victoria on Vancouver Island. Jude, a Communication professor and the story's focalizer, views the present through the past. As he walks to his office, he observes decaying condo towers that "had once been gilded and brilliant" (Campbell, Arboreality 3), the campus rhododendrons "dying" (3), and the endemic Arbutus Menziesii driven toward extinction by prolonged drought and heat ( <ref type="formula">14</ref>). Amid the global breakdown of infrastructures, he nostalgically longs for now-vanished services such as coffee shops and wi-fi. Hoping the current catastrophic scenario is temporary, Jude remains attached to memories of a previous reality of perceived order and prosperity, and laments that "[h]e'd been left behind with [the past]" (7). As the story unfolds, his decades-long endeavor to salvage as many books as he can from the disintegrating library shows his resilience-building response to the back loop as an attempt to preserve the Western technologies of knowledge the books represent. In contrast to Jude's nostalgic attachment to the past, his students consider the preceding era as "incredible," "even horrible," marked by "frivolity bought at a terrible cost" (4). Positioned at the threshold between the front loop's conservation phase and the back loop's stage of creative destruction, they condemn the irresponsibility of earlier generations, whose actions have left them confronting collapse while pursuing degrees in "disaster management and experimental agriculture" (4). However, the outlook of both Jude and his students reveals a desperate effort to preserve the supposedly safe operating space of the front loop even as they struggle "to survive what the world would soon become, if they didn't first save it" (4). Unlike earlier management paradigms derived from neoliberal resilience thinking, which "promised a better future" <ref type="bibr">(Wakefield 13)</ref>, their resilience practices seek only to "adapt to changing conditions in order to secure and manage an unchanging order" (13).</p><p>The exploitative dynamics of the front loop's growth phase come to the fore in "An Important Failure," which foregrounds the latent, long-term effects of human activity on nature's cycles. 5  Oscillating between the changing topography of Vancouver, altered by rising sea levels, and Kaatza on Vancouver Island, a pervasive sense of loss shapes the primary storyline, which follows Mason, a young luthier apprentice and the story's focalizer, from the 2040s onward. After learning that the historic 1689 Plaisir violin -currently played by child prodigy Masami Lucretia Delgado -is nearing the point of irreversible decay, he engages in a quest to craft a new instrument in the tradition of the seventeenth-century Cremonese luthiers. Determined to secure the necessary old-growth tonewood, which has by then become practically unavailable due to the destruction of old-growth forests by industrial logging and climate-driven wildfires, Mason furtively fells a centenary Sitka spruce remembered from his childhood in Kaatza, where he grew up with his friends Sophie and Jake. Mason's decision to poach one of the last surviving Sitkas in the West Coast rainforest marks the first of several crimes committed in his pursuit and exemplifies how Mason's attempt to preserve the cultural achievements of a bygone era ultimately reproduces the extractivist logic that sustains the destructiveness of the Anthropocene's back loop.</p><p>The front loop resurfaces in "Scions and Root Stocks," where decades after the events in the earlier stories, Kit laments that "his only future was in undoing what had been done by generations who lived brief golden lives, sucking all the sweetness from the world before he was even born" <ref type="bibr">(Campbell,</ref><ref type="bibr">Arboreality 74</ref>). Yet, since childhood, when he urged his grandmother to tell him "about the olden days" (68; emphasis in the original) glimpsed only through old DVD movies, Kit has been captivated by a past of abundance and carefree wellbeing he never experienced. That fascination curdles into anger in the concluding story "The Cathedral Arboreal." After having endured the hardships of civilizational regression caused by Vancouver Island's isolation from the rest of the world, Kit fears for the life of his asthmatic grand-daughter Meg, who lacks access to essential medicines. Then, overcome by rage and impotence, he admits that "not for the first time a terrible rage rose in his throat at the billions of people who had lived strange, glorious lives spanning continents and planets, and abandoned him here with a little girl he couldn't help" (99).</p><p>Similarly, "Pub Food" brims with nostalgia for the stability and good life of the previous front loop era, underscoring the stark scarcity of food, medicine, clothing, and fuel in the diegetic present. Determined to give terminally ill Jake a birthday meal reminiscent of their youth, Sophie experiments with autochthonous plants. Yet, just as she cannot provide the medicines to ease his suffering -"No fentanyl. No paclitaxel even if they were surrounded by yew trees. No silver dragées. No antibiotics for the cough that got steadily worse" (82) -she can only partially reproduce the remembered dishes: "Ginger. Rose. Mint. No sprinkles" (82). This deprivation overwhelms her with "a grinding, rageful resentment" (78), echoing Kit's frustrations, yet she nevertheless persists in reclaiming fragments of front loop living standards through improvisation with food and homeopathic remedies. While indulging in memories of the front loop, the story remains anchored in the back loop, poised between the release and reorganization phases, while Sophie's small-scale acts of culinary and medicinal experimentation exemplify the adaptive probes that, in Holling's model, catalyze systemic renewal and open pathways for future resilience.</p><p>In the concluding story, the prosperity and "lost pleasure of acceleration" (91) associated with the front loop is either nostalgically recalled -as when Sophie wishes that the city of her memories "wasn't dead, just smaller than it had been, and ready to be revived when the world stopped ending" (90) -or envisioned as something to be reclaimed -as the Corps do when they confidently assert the return of the good old times (95).</p><p>Throughout the book, the act of remembering unfolds on both human and nonhuman scales. For the human characters, recalling a previous world of stability, growth, and safety drives their improvisational survival strategies, fueled by the hope that "the world [may be] changed again for the better" (20). Meanwhile, nature itself "remembers," evolving and adapting to the new conditions, creating a resilient ecosystem in response. In terms of panarchy, this cross-scale remembering facilitates the transition from the back loop's destruction phase to the front loop's balance. Thus, the aesthetic choices within the story cycle echo panarchy's model of cross-scale "revolt" and "remember" interactions, threading the stories together.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Arboreality's Back Loop</head><p>Arboreality's fragmented yet interconnected structure conveys the transition from the stability of the adaptive cycle's front loop to the back loop's successive phases of "creative destruction" and rapid reorganization. The release or creative destruction stage dominates the early stories, where the collapse of human infrastructures amid environmental disasters is seen as an "end-time" (30), consistent with the omega phase of panarchy's adaptive cycle. In "Special Collections," as Jude "continued to wait for a return to normal that never came" (3), systemic breakdown appears as a "slow apocalypse" (12) and the demise of the front loop's stability is starkly confirmed. An interpolated passage describing the lethal effects of extreme heat on both the ecosystems of Saanich Inlet and on human populations from Tacoma to Port Hardy (7-9) further underscores the all-encompassing destructive logic of the release phase. In "Controlled Burn," Bernard, one of the few neighbors remaining in his Cowichan Bay suburb after "the Great Desettlement of Vancouver Island" (10), abandons the nostalgic orientation toward the front loop's stability in favor of a lived confrontation with collapse, where survival demands recalibrating values in the wake of systemic breakdown.</p><p>These early stories center on what Nicholas Beuret and Gareth Brown term a "salvage politics"a mode of living oriented toward survival amid ongoing social and infrastructural breakdown. This ethos is most vividly illustrated in "Special Collections," through Jude's efforts to rescue books from the McPherson Library, and in "Scions and Root Stocks," through the Indigenous character Benno's recycling of materials such as "copper wire and unbroken windows; concrete block foundations and brick walls" (68-69). Yet, rather than clinging to "the wreck of the old good life fantasy" (Berlant 398), the act of salvaging -of both traditional and modern technologies, as exemplified by Benno's ability to smoke salmon and "rewire an old satellite uplink to get news from Korea and Australia" (Campbell, Arboreality 69) -foregrounds human experimentation in adaptation, transformation, and renewal. Reminding young Kit that their people have lived on this land "for ten thousand years" and survived countless catastrophes -including "the settlers. Empire. Capitalism" (70) -Benno insists that "Someone's going to survive this" (70). His commitment to salvaging what remains valuable and turning "this place into something new" (70) reflects a pragmatic ethos of resilience and creative reconstruction. Instead of merely dwelling amid the ruins of capitalism or celebrating the nonhuman at the expense of human survival, as many post-apocalyptic narratives do, Benno's transformative practices foreshadow a futurity on the liminal space of the adaptive cycle's diverging little tail, anticipating the possibility of moving beyond the Anthropocene's vicious repetition of destruction and renewal.</p><p>Living in the back loop, for Benno, entails a practical orientation that blends what Wakefield calls "hubristic experimentation with new uses" -the "reclamation of tools of existence and the hubristic confidence to wield them" ( <ref type="formula">14</ref>) -with "an allowance for the unknown" ( <ref type="formula">14</ref>). This stance recognizes and collaborates with the often unpredictable agency of the nonhuman, transforming survival into an ongoing, experimental dialogue between human ingenuity and ecological contingency.</p><p>From the beginning of the book, "Special Collections" announces this rhizomatic entanglement as Jude witnesses the emergence of a new tree species -the "golden arbutus" (Campbell, Arboreality 13) or aurum (96). Described as "a new tree for a new world" (15), the aurum's ambiguous originwhether a spontaneous mutation or the product of a forestry lab's genetic modification (13)embodies the intertwining of human and nonhuman agency. The tree's rapid, self-directed adaptation marks a transition into the reorganization, or alpha, phase of the back loop, highlighting both nature's inherent capacity for regeneration and human ingenuity in facilitating its colonization while harnessing it for ecological, infrastructural, and spiritual renewal. In subsequent stories, the aurum becomes a central emblem of resilience and regeneration, its roots literally and symbolically holding "the world together" (102). Thus, the aurum operates as both symbol and structuring principle, embodying the panarchic insight that resilience emerges not from unbroken circularity but from a dynamic interplay of loops, ruptures, divergences, and interspecies linkages reminiscent of Gilles Deleuze and Félix Guattari's use of the rhizome as a metaphor for a model of horizontal, decentralized connectivity. Much like the vegetal imaginaries employed by writers such as Richard Powers -whose arboreal architectures in The Overstory map human and nonhuman lives through dendritic, interlaced patterns -or Elif Shafak, who mobilizes tree-like metaphors in The Island of Missing Trees to figure relationality across time and space, Campbell's Arboreality extends this literary lineage through its central trope of the golden arbutus, and remodels the short story cycle as a form that evokes the morphology of tree roots. In this sense, the text's narrative pattern mirrors the panarchic ecological mesh it portrays, offering a form capable of registering the non-linear, ever-branching, diverging cycles through which worlds endure.</p><p>"Controlled Burn" further exemplifies this kind of socio-ecological resilience taking place during the reorganization phase of the back loop. Bernard's efforts to restore ecological balance operate on two interconnected fronts. On one hand, he replaces the imported ornamental plants in his abandoned neighborhood with hardy native species that would take on a life of their own. On the other, he starts burning down deserted houses to facilitate the rewilding of the area. Alongside the primary storyline, the interpolated italicized passages establish a connection between the precolonial ecological history of the North American west coast and the diegetic present of climate crisis through the imagery of fire as a trope for renewal. Evoking Indigenous techniques of controlled burning that historically sustained the successional landscapes of Garry oak savannas, these interludes connect traditional Indigenous practices with Bernard's creatively destructive interventions, revaluing Indigenous epistemologies and practices of land stewardship (Fraile-Marcos, "Narrating the Anthropocene" 9). Rather than seeking to reproduce a pristine or prior version of nature, Bernard's rewilding aligns with what Wakefield describes -drawing on geographer Jamie Lorimer -as "'wild experiments' that produce new and unexpected configurations, generated through the interaction of multiple forms of life" (136). In this way, Bernard's rewilding deepens Arboreality's exploration of back-loop practices as sites of creative transformation, where destruction and renewal intertwine to generate novel socio-ecological possibilities.</p><p>Bernard's understanding of respectful human -nonhuman collaboration is enhanced by his fascination with the landscape architecture book salvaged by Jude in the previous story, which inspires him to envision "a world built not of plastic and concrete, but living trees: garden walls formed from intersecting branches, and a cathedral with a roof full of singing birds" <ref type="bibr">(Campbell,</ref><ref type="bibr">Arboreality 28)</ref>. Catalyzing this vision is his construction of a living-tree bench through coppicing and inosculation, an early experiment that anticipates Kit's cathedral arboreal and exemplifies the adaptive practices of Holling's reorganization phase. These small-scale, innovative practices that draw on traditional knowledges lay the groundwork for ecological regeneration and the long-term resilience of the Kaatza community.</p><p>At the center of the book, "An Important Failure" functions as a hinge between the earlier stories' depiction of the omega phase and the subsequent alpha phase that marks the rapid system reorganization on Vancouver Island and beyond. As in "Controlled Burn," its interpolated italicized vignettes highlight the interacting adaptive cycles unfolding across different scales of space, time, and socioecological reorganization. Thus, the opening heterodiegetic vignette links the germination of a Sitka spruce in Kaatza in 1607 to Stradivari's use of resonant spruce from il Bosco Che Suona near Cremona. Shifting between scientific explanation and a lyric, emotive style, the second italicized interlude aligns with the scholarly view that the measurable decline in atmospheric CO 2 around 1610 was caused in part by the spontaneous reforestation of vast regions of the Americas following the mass death of Indigenous peoples "after contact with Europeans" (40). The resulting global temperature drop of "about 1°C on average" (39), which "took centuries to recover and begin their steady rise to the present day" (40), prompted the globalization of the Little Ice Age. This climatic shift slowed tree growth, producing the densely ringed wood later prized for its acoustic properties by the Cremona luthiers. Marked by some scholars as the Anthropocene's onset -the so-called Orbis Spike (Lewis and Maslin 185) -this moment aligns the germination of the Sitka spruce in Kaatza, recounted in the story's first interlude, with the Anthropocene's back loop of disturbance and reorganization. On the cultural level, the spruce, whose "heartwood formed in an apocalypse" <ref type="bibr">(Campbell,</ref><ref type="bibr">Arboreality 40)</ref>, embodies the overlapping feedback loops that characterize the ambivalent entanglement of climate and culture during the Little Ice Age. Whereas the spruce heartwood foregrouds the front loop of European modern growth, exemplified by the emergence of unparalleled craftsmanship in Cremona, it simultaneously marks the same epoch as a back loop for Indigenous populations. Their decimation, mass displacement, and the loss of ecosystems and cultural practices under European conquest and colonization constitute an ongoing ancestral dystopia <ref type="bibr">(Whyte)</ref>. This multi-scalar loop is metonymically rendered -"This is the little ice age as written in the rings of a spruce tree. It sounds like a violin" <ref type="bibr">(Campbell,</ref> -and later expands into further panarchic loops through Mason's poaching of a Sitka tree in the late twenty-first century. The story's structure thus dramatizes recursive human -nature adaptive cycles across the longue durée of human -nonhuman interdependencies.</p><p>By the end of "An Important Failure" the future remains "shopworn" (65). However, Kaatza emerges as a site of experimentation and possibility, where Indigenous and settler communities move together from disaster into renewed, life-affirming relationships with each other and with the resilient land, gesturing toward the reorganization phase of the back loop, which continues to unfold in the subsequent stories. At the same time, the story complicates any linear sense of recovery, refusing the possibility of fully leaving destruction behind or returning seamlessly to the stability of the front loop.</p><p>The Back Loop's Divergent "Little Tail": Arboreality's Return Story Formally, "The Cathedral Arboreal" functions not only as the concluding story in Arboreality but also as what Gerald Lynch terms a return story-a story that loops back to themes, motifs, or situations from earlier in the cycle, providing some sort of closure while reopening interpretive possibilities. In doing so, it enacts the looping temporality of both the adaptive cycle and Anthropocene's feedback loops.</p><p>"The Cathedral Arboreal" is set in 2100 and centers on the visit to Vancouver Island of a group of young "Canadians" (84) who call themselves "the Corps" (92). The story unfolds through the dual perspectives of Sophie, now in her eighties and a matriarch of the Kaatza community, and Kit, in his forties and already a grandfather. The arrival of the Canadians marks the long-awaited reconnection of Vancouver Island with the mainland and the wider world, hypothetically signaling the end of the socalled "Dark Age" (87), which situates the story at the threshold of a potential new front loop of system stability. Yet Sophie's wary question -"Is the Dark Age over?" (87) -underscores her doubts. The Corps' mission is to interview locals and compile an oral history of survival during the collapse, which creates space to revisit earlier characters and events through collective reminiscence. They also share with the locals top-notch technologies and medicines and update them about the important scientific developments that have taken place during the decades of isolation from the rest of the world, emphasizing the differential impact of socio-ecological collapse on different populations.</p><p>In turn, Kaatza's achievements are also foregrounded, as the Corps have the chance to admire the ecological abundance -"the river was already crowded with Chinook, more than anyone could eat [. . .] The oyster beds overflowed, the ocean gardens purple with mussels, and the apples heavy on their branches" (92) -resulting from their imaginative practices. These include rewilding abandoned urban areas, using grafting and inosculation to create infrastructures such as a living bridge, cultivating Daisugi aurum forests as firebreaks (96), and expanding the market garden first planted by Jake's grandmother in the 1970s, which "had sustained them through the fiery decades" (104). Sophie also takes pride in her research, which contributed to cultivating fast-growing aurum and Empress trees resistant to fungal blight. These, she reflects, might in centuries "claw enough carbon back from the atmosphere to drop them back to 2°C over pre-industrial temperatures. Or not" (89). Her ambivalence encapsulates the community's tempered hope. At the story's center stands the cathedral arboreal, a structure Kit is building from living trees where Bernard planted a suburban forest garden decades before. This ecological architecture epitomizes Kaatza's resilience and ingenuity in partnership with the natural world. Their innovations build on the foresight and dedication of earlier generations who cared not only for their own material and spiritual wellbeing but also for laying the groundwork of an ecosystem capable of sustaining future lives.</p><p>By contrast, the Corps exude ecomodernist confidence, boasting of advanced technologies and multigenerational fifty-year projects "fueled by a hundred million human hearts beating in unified zeal" (95). Kit envisions them as "a huge smiling crowd that occupied all of Ontario, millions moving in unison, their eyes fixed on a brilliant future" (93). Rooted in the ethos of "the good Anthropocene" (Ellis; Asafu-Adjaye et al.; Tejero-Marín), the Corps embrace a view of resilience that aims to absorb potential transformation in order to restore the system to its original state, leaving neither imprint nor lasting trace of the disruption that altered it. Thus, Khush's claim: "we're going to be taking it all back. Bringing you home" <ref type="bibr">(Campbell,</ref><ref type="bibr">Arboreality 95)</ref>. This kind of resilience aligns with neoliberal subjectivity as it "resurrects a form of self-sufficiency, and hence a fantasy of mastery" (Bracke 58-59) that denies vulnerability and dependence. Proudly reporting large-scale carbon sequestration and the restoration of global trade and communications, the Corps adhere to the very neoliberal ideologies that precipitated environmental collapse. Their vision of a return to the front loop of stable prosperity betrays a nostalgic desire to reassert human dominance through technological acceleration, thereby perpetuating the ecological disruptions they seek to repair. This contradiction surfaces in Khush's account of algae-bloom management in Lake Ontario, which produced biodiesel and livestock feed as part of "a massive, carbon-negative system" (Campbell, Arboreality 94), but at the cost that "the fish were all dead, and you came out slimy if you tried to swim" (94). Their anthropocentric hubris culminates in the colonialist triumph they express over "Arctic re-settlement and new uranium exploration in what had been the Northwest Territories" (103). Ultimately, their ethos of resilience forecloses the capacity to imagine otherwise -or to enact what Bracke terms "the agential modalities to pursue those imaginations" (64).</p><p>Although Khush tells Kit "We're doing the same stuff as you but on, like, a larger scale" (Campbell, Arboreality 95), the Corps' hubristic orchestration of planetary processes to secure human flourishing differs significantly from Kaatza's land-based, holistic practice of resilience. While Kaatza envisions futures guided by human agency, they also embrace an ethical responsibility to make the world more hospitable to all species; their actions, unlike the Corps,' are not wholly subordinated to human need. Without eschewing the benefits of the Corps' planetary outlook or technological capacity, Campbell complicates the notion of the "good Anthropocene," situating it precisely at the interface of utopia and dystopia, where divergent resilience practices open distinct pathways out of the back loop's reorganization phase. Visualized as the "little tails" in Holling's loop, these pathways offer the reader a spectrum of possible futurities, suggesting the ongoing continuity of panarchy's adaptive cycles.</p><p>On one hand, the Corps' acknowledgment of the Anthropocene's entanglement of human and more-than-human forces does not prevent their continued subordination of the natural world to human priorities and designs. Their hopeful ecomodernist vision of recovery and flourishing at the end of the Dark Age reinstates the anthropocentrism of the previous era, foreshadowing the potential return to the Anthropocene's vicious cycle of growth and collapse. The Corps' optimism is tempered by Kit's sober reckoning with planetary agencies: "no matter how light their step or how many tons of carbon the Canadians sequestered, the sea was still rising [. . .] It had happened and it was happening and it would happen" (109-110). On the other hand, Kaatza's relational ethos seeks to cooperate with local ecosystems to strengthen resilience and response capacity in the face of future disruption.</p><p>Suspended between these possible futurities, the story's ending aligns with Silvia Martínez-Falquina's description of the short story cycle as a "peculiar case of the simultaneity of closure and openness, both formally and in terms of meaning" (180). Closure takes condensed form in Kit's inventory of the human and more-than-human collaborators who co-created his resilient world:</p><p>If it wasn't for Trish, [. . .] for Benno and Mason and Sophie and Jake. If it wasn't for genetic techs and fishermen, for forest gardens and potato fields and chickens and dairy cattle, and rabbits on the traplines, for black-tail deer and blackberries and ocean gardens along the shore [. . .] If it wasn't for old books [. . .] and recovered aluminum and old cinder blocks and cannibalized electronics and many-times-mended solar cells. <ref type="bibr">(Campbell,</ref> His reckoning with all the human and nonhuman agents that have contributed to their survival and resilience connects times, places, and characters across stories providing a sense of both continuity and accomplishment built on the memory of accumulated transgenerational efforts.</p><p>Openness, by contrast, is embodied in the unfinished cathedral arboreal. Kit's "vision of a human life that was part of all the teaming kingdoms below ground and in the sky above" (106) captures the world's ongoing transformation through collaborative human -nonhuman entanglements. The closing italicized interlude further stresses open-ended continuity and cyclic adaptation: while species vanish, wildfires persist, and "a new variant of some old virus" (111) heralds another pandemic, the birth of "a yearling spruce tree with golden needles" (111) near Sitka recalls the tree that sprouted during the Little Ice Age and from which Mason fashioned his violin -the same violin Belinda plays at the end, celebrating the reunion of the Canadians and the islanders. Architecture and music emerge at the conclusion of Arboreality as arts that foster not only human transformation but also active modes of coexistence that move beyond human survival and resilience toward envisioning the good life (Wakefield 130; Fraile-Marcos, "Speculative") through creative and experimental cooperation with the nonhuman.</p><p>Ending on this looping note, the book resists any sense of narrative finality, returning instead to the formal and thematic cyclicity that structures both its stories and its ecological vision. Arboreality's recursive movement -its continual circling back to images of growth, decay, and reemergenceforegrounds a narrative logic that refuses the linear, human-centered expectation of resolution. In place of an ending, the text offers a rhythm of ongoing adaptation, disruption, and renewal that mirrors the panarchic cycles shaping socio-ecological systems. This refusal of closure is not merely an aesthetic gesture but a conceptual intervention into how crisis is narrated in the Anthropocene: crisis here is not a single catastrophic event culminating in definitive collapse, but a continual condition of instability, recalibration, and transformation. By suspending the possibility of an ultimate end, the cycle underscores Jairus Grove's assertion that the end of the world "is the end of something but never the end" (280), inviting readers to inhabit a temporality which endings are always provisional and regeneration remains perpetually in motion.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Conclusion</head><p>Reading Campbell's Arboreality through the framework of panarchy's adaptive cycles introduces a complex perspective on the Anthropocene, one that acknowledges systemic crisis yet resists both dystopian fatalism and naïve optimism, foregrounding instead the potential of human agency to engage productively with socio-ecological transformation. Just as Holling's model of ecological resilience charts the phases of exploitation, conservation, release, and reorganization, Campbell's interlinked stories enact cycles of collapse and renewal through patterns of revolt and remembering, repetition and difference, each tale contributing to a broader ecology of narrative. The short story cycle's refusal of linear closure -its tendency to circle back, refract perspectives, and interweave disparate times and voices -mirrors the recursive logic of adaptive systems, where endings are never absolute but rather preludes to transformation. Moreover, the divergent "little tails" in the panarchy diagram are formally echoed in the cycle's looping structure: moments of apparent conclusion give way to renewed beginnings, as the text opens pathways toward unexpected futures.</p><p>By highlighting a deep structural resonance between the rhetorical mechanisms of the short story cycle and the dynamics of panarchy's adaptive cycles, this article has shown that Arboreality not only tells stories of resilience and survival amid the ruins of a broken world, where regeneration is always shadowed by uncertainty, but also emphasizes free experimentation in the unsafe operating space of the back loop, showing that every ending contains the seed of multiple possible beginnings. Arboreality elucidates the tension between the small-scale, land-based, collaborative resilience practices -exemplified by the inhabitants of Kaatza -and the large-scale technocratic resilience governance embodied by the Corps. Although both constitute plausible responses to the disruptions of the back loop, the collection's concluding story exposes their ultimate insufficiency to transcend the adaptive cycle. Instead, Arboreality gestures toward a provisional middle ground: a mode of worldmaking that negotiates between ecomodernist and posthumanist paradigms through the convergence of ethical experimentation and technological innovation. By foregrounding the entanglement of human and more-than-human agencies, Campbell demonstrates that the short story cycle -often marginalized as a minor or transitional form -provides a generative narratological framework for representing the recursive dynamics of collapse and renewal that define the Anthropocene. In doing so, Arboreality extends the remit of Anthropocene storytelling itself, revealing how literary form can register planetary crisis while also imagining adaptive, multispecies modes of coexistence attuned to a world in continual reorganization. Through its recursive storytelling, Arboreality reminds us that to narrate the Anthropocene is not to master its turbulence, but to dwell within it -to find form in the very rhythms of collapse and regrowth. 3. The most commonly used denominations are "cycle," "sequence," and "composite." However, the "nomadic" (Driss) quality of this narrative form has resulted in a proliferation of labels. Rolf Lundén (12-18) lists those that emphasize the connections with the novel (story-novel, storied novel, composite novel, fragmentary novel, episodic novel, anthology novel, collective novel, para-novel, rovelle) -see also Elke D'hoker on the differences between the short story cycle and the composite novel; and Suzanne Ferguson on sequences, anti-sequences, cycles, and composite novels-; those that highlight the affinity with the independent story collections (unified short story collection, integrated short-story collection, short story collection), and terms that refer to a formal blend or compound (blend, blended work, short story compound, short story ensemble, and divided narrative).</p><p>More recently, scholars have noted a new direction in the cycle in the form of the flash fiction novel, the novellain-shorts, the flash novella, the vignette novel, and novella-in-flash (Beckel and Rooney vii). These texts, ranging from 5000 to 12,000 words, are "composed entirely of standalone pieces organized into a full narrative arc" (Beckel and Rooney vii). While keeping the characteristics of longer form short story cycles, flash cycles emphasize gaps and a lack of narrative resolution (Smith 171). 4. Arboreality's blurb informs that the book is "A Novella Expansion of the 2020 Theodore Sturgeon Memorial Award Winner. Dana McFarlane describes Arboreality as a "novella [. . .] in the form of related stories that diverge and interleave, reaching forward from the aftermath of a near future catastrophe." Brett Josef Grubisic calls the book a speculative "novella-in-stories." Stephanie Oliver refers repeatedly to the book as a novella in her conversation with Rebecca Campbell -although Campbell never uses this term in this interview (Campbell, "'Everything Is Aw-ful'"). 5. For an analysis of latency in "An Important Failure" see Ana María Fraile-Marcos, "Narrating the Anthropocene" (10-12).</p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head>Notes 1 .</head><label>1</label><figDesc>For a genealogy of "[t]he modern origin story of resilience" (O'Brien 8) see Susie O'Brien's Introduction to What the World Might Look Like (3-36). 2. See Timothy Clark for the conceptualization of the Anthropocene as a threshold.</figDesc></figure>
+		</body>
+		<back>
+
+			<div type="acknowledgement">
+<div><head>Acknowledgments</head><p>This work was supported by the <rs type="funder">Spanish Ministry of Science, Innovation, and Universities</rs> under grant <rs type="grantNumber">PID2020-113190GB-C22</rs> for the research project <rs type="projectName">Narrating Resilience, Achieving Happiness? Toward a Cultural Narratology</rs>.</p></div>
+			</div>
+			<div type="funding">
+<div><head>Funding</head><p>The work was supported by the <rs type="funder">Spanish Ministry of Science, Innovation, and Universities</rs> [<rs type="grantNumber">PID2020-113190GB-C22</rs>].</p></div>
+<div><head>Notes on contributor</head><p><rs type="person">Ana María Fraile-Marcos</rs> is Professor of English at the <rs type="institution">University of Salamanca</rs>, with a focus on contemporary Canadian, Indigenous, and postcolonial writing. Her publications include The <rs type="projectName">Many Faces of Resilience and Healing in Contemporary Narratives (a special issue of World Literature Studies, 2023</rs>) and the edited collections Glocal Narratives of Resilience (2020) and Literature and the <rs type="funder">Glocal City: Reshaping the English Canadian Imaginary</rs> (<rs type="grantNumber">2014</rs>). She is the principal investigator of the research project <rs type="projectName">Narrating Resilience, Achieving Happiness? Toward a Cultural Narratology</rs>, and Co-editor-in-Chief of <rs type="funder">Canada and Beyond</rs>.</p></div>
+			</div>
+			<listOrg type="funding">
+				<org type="funded-project" xml:id="_CzndqZr">
+					<idno type="grant-number">PID2020-113190GB-C22</idno>
+					<orgName type="project" subtype="full">Narrating Resilience, Achieving Happiness? Toward a Cultural Narratology</orgName>
+				</org>
+				<org type="funding" xml:id="_JE4VaCq">
+					<idno type="grant-number">PID2020-113190GB-C22</idno>
+				</org>
+				<org type="funded-project" xml:id="_zzTbGkg">
+					<idno type="grant-number">2014</idno>
+					<orgName type="project" subtype="full">Many Faces of Resilience and Healing in Contemporary Narratives (a special issue of World Literature Studies, 2023</orgName>
+				</org>
+				<org type="funded-project" xml:id="_mKp4TwH">
+					<orgName type="project" subtype="full">Narrating Resilience, Achieving Happiness? Toward a Cultural Narratology</orgName>
+				</org>
+			</listOrg>
+			<div type="annex">
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Disclosure Statement</head><p>No potential conflict of interest was reported by the author(s).  <ref type="bibr">vol. 34, no. 3, 2016, pp. 393-419. doi:10.1177/0263775816645989 .</ref> </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Works Cited</head></div>			</div>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<analytic>
+		<title level="a" type="main">The Walking Dead: The Anthropocene as a Ruined Earth</title>
+		<author>
+			<persName><forename type="first">Nicholas</forename><surname>Beuret</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Gareth</forename><surname>Brown</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/09505431.2016.1257600</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Science as Culture</title>
+		<imprint>
+			<biblScope unit="volume">26</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="330" to="354" />
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<monogr>
+		<title level="m" type="main">Bouncing Back: Vulnerability and Resistance in Times of Resilience</title>
+		<author>
+			<persName><forename type="first">Sarah</forename><surname>Bracke</surname></persName>
+		</author>
+		<editor>Judith Butler, et al.</editor>
+		<imprint>
+			<date type="published" when="2016">2016</date>
+			<publisher>Duke UP</publisher>
+			<biblScope unit="page" from="52" to="75" />
+		</imprint>
+	</monogr>
+	<note>Vulnerability in Resistance</note>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">Rebecca</forename><surname>Campbell</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Arboreality. Stelliform P</title>
+		<imprint>
+			<biblScope unit="page">2022</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title level="a" type="main">Everything Is Awe-Ful: A Conversation on Climate Change Fiction with Rebecca Campbell</title>
+		<idno type="DOI">10.14201/candb.v12i147-159</idno>
+	</analytic>
+	<monogr>
+		<title level="m">Everything Is Awful? Ecology and Affect in Literatures in Canada, Special Issue of Canada and Beyond</title>
+		<imprint>
+			<date type="published" when="2023">2023</date>
+			<biblScope unit="volume">12</biblScope>
+			<biblScope unit="page" from="147" to="159" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<monogr>
+		<title level="m" type="main">Narrating the Mesh: Form and Story in the Anthropocene</title>
+		<author>
+			<persName><forename type="first">Marco</forename><surname>Caracciolo</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2021">2021</date>
+		</imprint>
+		<respStmt>
+			<orgName>U of Virginia P</orgName>
+		</respStmt>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title level="a" type="main">Narrative Loops and Climate Futures: A Form for Uncertain Times</title>
+		<idno type="DOI">10.1215/03335372-11557593</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Poetics Today</title>
+		<imprint>
+			<biblScope unit="volume">46</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="151" to="169" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title level="a" type="main">Ecocriticism on the Edge: The Anthropocene as a Threshold Concept</title>
+		<author>
+			<persName><forename type="first">Timothy</forename><surname>Clark</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Bloomsbury</title>
+		<imprint>
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title level="a" type="main">The Reaches of Freedom: A Response to An Ecomodernist Manifesto</title>
+		<author>
+			<persName><forename type="first">Eileen</forename><surname>Crist</surname></persName>
+		</author>
+		<idno type="DOI">10.1215/22011919-3616452</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Environmental Humanities</title>
+		<imprint>
+			<biblScope unit="volume">7</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="245" to="254" />
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title level="a" type="main">On the Importance of a Date, or Decolonizing the Anthropocene</title>
+		<author>
+			<persName><forename type="first">Heather</forename><surname>Davis</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Zoe</forename><surname>Todd</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">An International Journal for Critical Geographies</title>
+		<imprint>
+			<biblScope unit="volume">16</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="761" to="780" />
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+	<note>ACME:</note>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<monogr>
+		<title level="m" type="main">A Thousand Plateaus: Capitalism and Schizophrenia</title>
+		<author>
+			<persName><forename type="first">Gilles</forename><surname>Deleuze</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Félix</forename><surname>Guattari</surname></persName>
+		</author>
+		<editor>Brian Massumi. U of Minnesota P</editor>
+		<imprint>
+			<date type="published" when="1987">1987</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title level="a" type="main">A Continuum of Fragmentation Distinguishing the Short Story Cycle from the Composite Novel</title>
+		<author>
+			<persName><forename type="first">Elke</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Constructing Coherence in the British Short Story Cycle</title>
+		<editor>
+			<persName><forename type="first">Patrick</forename><surname>Gill</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">Florian</forename><surname>Kläger</surname></persName>
+		</editor>
+		<editor>
+			<persName><surname>Routledge</surname></persName>
+		</editor>
+		<imprint>
+			<date type="published" when="2018">2018</date>
+			<biblScope unit="page" from="17" to="31" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title level="a" type="main">Nomadic Genres: The Case of the Short Story Cycle</title>
+		<author>
+			<persName><forename type="first">Hager</forename><surname>Driss</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Ben</surname></persName>
+		</author>
+		<idno type="DOI">10.1353/mos.2018.0017</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Mosaic: An Interdisciplinary Critical Journal</title>
+		<imprint>
+			<biblScope unit="volume">51</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="59" to="74" />
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<title level="a" type="main">Anthropocene Consciousness, Time Loops, and Anticipatory Collective Trauma in Narratives of Anthropogenic Environmental Disaster</title>
+		<author>
+			<persName><forename type="first">Hilary</forename><surname>Duffield</surname></persName>
+		</author>
+		<idno type="DOI">10.1215/03335372-11557569</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Poetics Today</title>
+		<imprint>
+			<biblScope unit="volume">46</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="171" to="196" />
+			<date type="published" when="2025">2025</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<title level="a" type="main">The Planet of No Return. Human Resilience on an Artificial Earth</title>
+		<author>
+			<persName><forename type="first">Erle</forename><surname>Ellis</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">The Breakthrough Journal</title>
+		<imprint>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="37" to="44" />
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<title level="a" type="main">Sequences, Anti-Sequences, Cycles, and Composite Novels: The Short Story in Genre Criticism</title>
+		<author>
+			<persName><forename type="first">Suzanne</forename><surname>Ferguson</surname></persName>
+		</author>
+		<ptr target="https://journals.openedition.org/jsse/312" />
+	</analytic>
+	<monogr>
+		<title level="j">Journal of the Short Story in English</title>
+		<imprint>
+			<biblScope unit="volume">41</biblScope>
+			<biblScope unit="page" from="103" to="117" />
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<monogr>
+		<title level="m" type="main">Narrating the Anthropocene: Scale, Latency, and Entanglement in Rebecca Campbell&apos;s Arboreality</title>
+		<author>
+			<persName><forename type="first">Ana</forename><forename type="middle">M</forename><surname>Fraile-Marcos</surname></persName>
+		</author>
+		<idno type="DOI">10.1093/isle/isaf077</idno>
+		<imprint>
+			<date type="published" when="2025">2025</date>
+			<biblScope unit="page" from="1" to="22" />
+		</imprint>
+	</monogr>
+	<note>ISLE: Interdisciplinary Studies in Literature and Environment</note>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<title level="a" type="main">Speculative Reworkings of the Good Life at the End Times: Care, Resilience, and Relational Futures in Cherie Dimaline and Rebecca Campbell</title>
+		<idno type="DOI">10.6018/ijes.659281</idno>
+	</analytic>
+	<monogr>
+		<title level="j">IJES</title>
+		<imprint>
+			<biblScope unit="volume">25</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="47" to="64" />
+			<date type="published" when="2025">2025b</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<monogr>
+		<title level="m" type="main">Savage Ecology: War and Geopolitics at the End of the World</title>
+		<author>
+			<persName><forename type="first">Jairus</forename><surname>Grove</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Victor</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2019">2019</date>
+			<publisher>Duke UP</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<monogr>
+		<title level="m" type="main">Quill and Quire</title>
+		<author>
+			<persName><forename type="first">Brett</forename><surname>Grubisic</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Josef</surname></persName>
+		</author>
+		<ptr target="https://quillandquire.com/review/arboreality/" />
+		<imprint>
+			<date type="published" when="2022-08-03">3 Aug. 2022</date>
+		</imprint>
+	</monogr>
+	<note>Arboreality</note>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<monogr>
+		<author>
+			<persName><forename type="first">Lance</forename><forename type="middle">H</forename><surname>Gunderson</surname></persName>
+		</author>
+		<title level="m">Panarchy: Understanding Transformations in Human and Natural Systems. Island P</title>
+		<editor>
+			<persName><forename type="first">C</forename><forename type="middle">S</forename><surname>Holling</surname></persName>
+		</editor>
+		<imprint>
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<analytic>
+		<title level="a" type="main">Anthropocene, Capitalocene, Plantationocene, Chthulucene: Making Kin</title>
+		<author>
+			<persName><forename type="first">Donna</forename><surname>Haraway</surname></persName>
+		</author>
+		<idno type="DOI">10.1215/22011919-3615934</idno>
+	</analytic>
+	<monogr>
+		<title level="m">Environmental Humanities</title>
+		<imprint>
+			<date type="published" when="2015">2015</date>
+			<biblScope unit="volume">6</biblScope>
+			<biblScope unit="page" from="159" to="165" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<monogr>
+		<title level="m" type="main">Panarchy: Understanding Transformations in Human and Natural Systems</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">S</forename><surname>Holling</surname></persName>
+		</author>
+		<editor>H. Gunderson Lance and C.S.</editor>
+		<imprint>
+			<date type="published" when="2002">2002</date>
+			<biblScope unit="page" from="63" to="103" />
+		</imprint>
+	</monogr>
+	<note>Sustainability and Panarchies</note>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<analytic>
+		<title level="a" type="main">Lance &quot;Resilience and Adaptive Cycles</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">S</forename><surname>Holling</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Gunderson</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Panarchy: Understanding Transformations in Human and Natural Systems</title>
+		<editor>
+			<persName><forename type="first">H</forename><forename type="middle">Gunderson</forename><surname>Lance</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">C</forename><forename type="middle">S</forename></persName>
+		</editor>
+		<imprint>
+			<date type="published" when="2002">2002</date>
+			<biblScope unit="page" from="25" to="62" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<monogr>
+		<title level="m" type="main">Representative Short Story Cycles of the Twentieth Century. Mouton</title>
+		<author>
+			<persName><forename type="first">Forrest</forename><forename type="middle">L</forename><surname>Ingram</surname></persName>
+		</author>
+		<idno type="DOI">10.1515/9783110888546</idno>
+		<imprint>
+			<date type="published" when="1971">1971</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<analytic>
+		<title level="a" type="main">Storytelling: From the Early Anthropocene to the Good or the Bad Anthropocene</title>
+		<author>
+			<persName><forename type="first">Jan</forename><surname>Kunnas</surname></persName>
+		</author>
+		<idno type="DOI">10.1177/2053019617725538</idno>
+	</analytic>
+	<monogr>
+		<title level="j">The Anthropocene Review</title>
+		<imprint>
+			<biblScope unit="volume">4</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="136" to="150" />
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<analytic>
+		<title level="a" type="main">Fifty Shades of Green</title>
+		<author>
+			<persName><forename type="first">Bruno</forename><surname>Latour</surname></persName>
+		</author>
+		<idno type="DOI">10.1215/22011919-3616416</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Environmental Humanities</title>
+		<imprint>
+			<biblScope unit="volume">7</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="219" to="225" />
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<monogr>
+		<title level="m" type="main">The Human Planet: How We Created the Anthropocene. Penguin, 2018. Lundén, Rolf. The United Stories of America: Studies in the Short Story Composite</title>
+		<author>
+			<persName><forename type="first">Simon</forename><forename type="middle">L</forename><surname>Lewis</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Mark</forename><forename type="middle">A</forename><surname>Maslin</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1999">1999</date>
+			<pubPlace>Rodopi</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b27">
+	<monogr>
+		<title level="m" type="main">The One and the Many: English-Canadian Short Story Cycles</title>
+		<author>
+			<persName><forename type="first">Gerald</forename><surname>Lynch</surname></persName>
+		</author>
+		<idno type="DOI">10.3138/9781442681941</idno>
+		<imprint>
+			<date type="published" when="2001">2001</date>
+		</imprint>
+		<respStmt>
+			<orgName>U of Toronto P</orgName>
+		</respStmt>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b28">
+	<analytic>
+		<author>
+			<persName><forename type="first">Andreas</forename><surname>Malm</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Alf</forename><surname>Hornborg</surname></persName>
+		</author>
+		<idno type="DOI">10.1177/2053019613516291</idno>
+	</analytic>
+	<monogr>
+		<title level="m">The Geology of Mankind? A Critique of the Anthropocene Narrative</title>
+		<imprint>
+			<date type="published" when="2014">2014</date>
+			<biblScope unit="volume">1</biblScope>
+			<biblScope unit="page" from="62" to="69" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b29">
+	<analytic>
+		<title level="a" type="main">Postcolonial Trauma Theory and the Short Story Cycle: Edwidge Danticat&apos;s The Dew Breaker</title>
+		<author>
+			<persName><forename type="first">Martínez</forename><surname>Falquina</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Silvia</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">ES Revista de Filología Inglesa</title>
+		<imprint>
+			<biblScope unit="volume">35</biblScope>
+			<biblScope unit="page" from="171" to="192" />
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b30">
+	<analytic>
+		<title level="a" type="main">What Is Credible Hope, in This Place?</title>
+		<author>
+			<persName><forename type="first">Dana</forename><surname>Mcfarlane</surname></persName>
+		</author>
+		<ptr target="https://thebcreview.ca/2024/04/04/2122-mcfarland-campbell/" />
+	</analytic>
+	<monogr>
+		<title level="j">The British Columbia Review</title>
+		<imprint>
+			<date type="published" when="2024-04-04">4 Apr. 2024</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b31">
+	<monogr>
+		<title level="m" type="main">Slow Violence and the Environmentalism of the Poor</title>
+		<author>
+			<persName><forename type="first">Rob</forename><surname>Nixon</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2011">2011</date>
+			<publisher>Harvard UP</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b32">
+	<analytic>
+		<title level="a" type="main">What the World Might Look Like: Decolonial Stories of Resilience and Refusal</title>
+		<author>
+			<persName><forename type="first">Susie</forename><surname>O'brien</surname></persName>
+		</author>
+		<ptr target="https://www.resalliance.org/panarchy" />
+	</analytic>
+	<monogr>
+		<title level="j">Panarchy. Resilience Alliance</title>
+		<imprint>
+			<date type="published" when="2024">2024</date>
+		</imprint>
+	</monogr>
+	<note>McGill-Queen&apos;s UP</note>
+</biblStruct>
+
+<biblStruct xml:id="b33">
+	<monogr>
+		<title level="m" type="main">The American Short Story Cycle</title>
+		<author>
+			<persName><forename type="first">Jennifer</forename><surname>Smith</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Joan</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2018">2018</date>
+			<publisher>Edinburgh UP</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b34">
+	<analytic>
+		<title level="a" type="main">Getting Hitched and Unhitched with the Ecomodernists</title>
+		<author>
+			<persName><forename type="first">Bronislaw</forename><surname>Szerszynski</surname></persName>
+		</author>
+		<idno type="DOI">10.1215/22011919-3616443</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Environmental Humanities</title>
+		<imprint>
+			<biblScope unit="volume">7</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="239" to="244" />
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b35">
+	<analytic>
+		<title level="a" type="main">Projecting Utopian Thought: The Conceptualization of the &apos;Good Anthropocene&apos; in Kim Stanley Robinson&apos;s The Ministry for the Future</title>
+		<author>
+			<persName><forename type="first">Ana</forename><surname>Tejero-Marín</surname></persName>
+		</author>
+		<idno type="DOI">10.5007/2175-8026.2023.e92559</idno>
+	</analytic>
+	<monogr>
+		<title level="m">Ilha Do Desterro</title>
+		<imprint>
+			<date type="published" when="2023">2023</date>
+			<biblScope unit="volume">76</biblScope>
+			<biblScope unit="page" from="313" to="331" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b36">
+	<analytic>
+		<title level="a" type="main">Anthropocene Back Loop: Experimentation in Unsafe Operating Space</title>
+		<author>
+			<persName><forename type="first">Stephanie</forename><surname>Wakefield</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Open Humanities P</title>
+		<imprint>
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b37">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">Brian</forename><surname>Walker</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">David</forename><surname>Salt</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Resilience Thinking: Sustaining People and Ecosystems in a Changing World. Island P</title>
+		<imprint>
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b38">
+	<analytic>
+		<title level="a" type="main">Indigenous Science (Fiction) for the Anthropocene: Ancestral Dystopias and Fantasies of Climate Change Crises</title>
+		<author>
+			<persName><forename type="first">Kyle</forename><forename type="middle">P</forename><surname>Whyte</surname></persName>
+		</author>
+		<idno type="DOI">10.1177/2514848618777621</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Environment and Planning E: Nature and Space</title>
+		<imprint>
+			<biblScope unit="volume">1</biblScope>
+			<biblScope unit="issue">1-2</biblScope>
+			<biblScope unit="page" from="224" to="242" />
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b39">
+	<analytic>
+		<title level="a" type="main">Scale Critique for the Anthropocene</title>
+		<author>
+			<persName><forename type="first">Derek</forename><surname>Woods</surname></persName>
+		</author>
+		<idno type="DOI">10.1215/00265667-2782327</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Minnesota Review</title>
+		<imprint>
+			<biblScope unit="volume">83</biblScope>
+			<biblScope unit="issue">83</biblScope>
+			<biblScope unit="page" from="133" to="142" />
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b40">
+	<monogr>
+		<title level="m" type="main">A Billion Black Anthropocenes or None</title>
+		<author>
+			<persName><forename type="first">Kathryn</forename><surname>Yusoff</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2018">2018</date>
+		</imprint>
+		<respStmt>
+			<orgName>U of Minnesota P</orgName>
+		</respStmt>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

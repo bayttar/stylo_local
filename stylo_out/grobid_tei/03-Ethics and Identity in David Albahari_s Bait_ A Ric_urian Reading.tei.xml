@@ -1,0 +1,904 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Ethics and Identity in David Albahari&apos;s Bait: A Ricoeurian Reading</title>
+				<funder>
+					<orgName type="full">Human Rights and Democracy in South-Eastern Europe (University of Bologna</orgName>
+				</funder>
+				<funder ref="#_s6mPGjH">
+					<orgName type="full">European Regional Development Fund</orgName>
+				</funder>
+				<funder>
+					<orgName type="full">ERDF/EU</orgName>
+				</funder>
+				<funder>
+					<orgName type="full">University of Sarajevo</orgName>
+				</funder>
+				<funder ref="#_UjJnaSN">
+					<orgName type="full">Spanish Ministry of Science, Innovation and Universities</orgName>
+				</funder>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author role="corresp">
+							<persName><forename type="first">Raúl</forename><surname>Algarín</surname></persName>
+							<email>raul.algarin@autonoma.cat</email>
+							<affiliation key="aff0">
+								<orgName type="department">Faculty of Arts and Humanities</orgName>
+								<orgName type="institution">Autonomous University of Barcelona</orgName>
+								<address>
+									<settlement>Barcelona</settlement>
+									<country key="ES">Spain</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff1">
+								<orgName type="department">Facultat de Filosofia i Lletres</orgName>
+								<orgName type="institution" key="instit1">Universitat Autònoma de Barcelona. Carrer de la Fortuna s/n</orgName>
+								<orgName type="institution" key="instit2">Cerdanyola del Vallés</orgName>
+								<address>
+									<postCode>08193</postCode>
+									<settlement>Barcelona</settlement>
+									<country key="ES">Spain</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Ethics and Identity in David Albahari&apos;s Bait: A Ricoeurian Reading</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date/>
+						</imprint>
+					</monogr>
+					<idno type="MD5">02CAB84C985197781375244DA8CA84AF</idno>
+					<idno type="DOI">10.1080/00111619.2026.2630973</idno>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.0" ident="GROBID" when="2026-02-25T19:51+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>Serbian author David Albahari's novel Bait has been examined thematically in relation to masculinities, history, war, trauma, memory, and ethics. Bait's style has been analyzed through the lens of postmodernism, with particular attention to its structural fracture and contradiction. This article provides a Ricoeurian and rhetorical analysis, contending that the novel enacts the ethics of narrating another's life from a belated postmemorial perspective. Drawing primarily on Paul Ricoeur's theories of memory, testimony, translation, and narrative identity, as well as Jeffrey Blustein's moral philosophy of memory and Marianne Hirsch's concept of postmemory, the study first reconstructs the "ethical locations" of the three principal characters: Mother as moral witness, the narrator as proxy witness, and Donald as ethical mentor. Subsequently, a rhetorical analysis examines how the novel allocates reliability and authority among the characters, the audience, and the implied author, thereby illuminating the novel's ethical implications on multiple levels.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Introduction</head><p>David Albahari's novel Bait was originally published in Serbian, as Mamac, in 1996 by Narodna Knjiga publishers. The quality of this work granted the author the NIN Prize, the National Library of Serbia Award for bestseller, and the International Balkanika Award the same year of its release. Albahari also received the Ivo Andrić Literary Prize for Description of Death in 1982, the 2005 City of Belgrade Award for Leeches, and the 2014 Isidora Sekulić Award for Životinjsko carstvo -not translated into English to date.</p><p>Bait, Albahari's most acclaimed novel, was composed during his voluntary exile in Canada, where he resided from 1994 until his return to Belgrade in 2012. In contrast to his earlier works, the so-called "Canadian novels" -Snow Man <ref type="bibr">(Snežni čovek, 1995)</ref>, Bait <ref type="bibr">(Mamac, 1996)</ref>, and Globetrotter (Svetski putnik, 2001) -shift both the geographical setting and narrative perspective. These texts depict exiled intellectuals who have left the war-torn Yugoslavia and settled in Canada, where they confront the loss of homeland, language, and stable identity, and juxtapose "Old World" history with "New World" geography <ref type="bibr">(Brujić; Melnyk)</ref>. Exile and migration emerge as central themes, which were largely absent from Albahari's pre-emigration prose. Formally, his postmodernism also undergoes a transformation, "recapitulat[ing] reality within an epic form" and transitioning from pure metafiction toward a postmodern realism that directly addresses war, nationalism, Holocaust memory, and the ethics of representing trauma from a distance .</p><p>The novel tells the story of an unnamed character-narrator, who leaves the former Yugoslavia shortly after his mother's death and a brief period as an interpreter at the 1990s war in Bosnia. At the moment of narration, he is settled in Canada, where he has only one friend, Donald, a writer who mentors him in writing a novel about his mother. The narration lasts one day, during which he waits for Donald to return his feedback on a recent manuscript the narrator has sent to him. Meanwhile, he listens to four cassette tapes he had recorded in Belgrade with his Jewish mother's recollections of the Second World War, including persecution in the Independent State of Croatia, the loss of her first husband and children, and her survival in Serbia. The novel unfolds as a continuous oscillation between three temporal planes -the narrator's present in Canadian exile; his recent past when he tapes Mother's voice and works as an interpreter for a humanitarian organization during the war in Bosnia; and his mother's distant wartime experiences during the Second World War -without ever stabilizing into a linear life story. The mother's testimony is shared through the transcript of the recording, and her persistent withholding and refusal to provide a canonical life narrative frustrate the narrator's initial intent to transform her suffering into a novel.</p><p>Bait has been examined thematically in relation to history and masculinities (Gordić), history <ref type="bibr">(Gosta)</ref>, paranoia <ref type="bibr">(Lazičić and Messner)</ref>, war <ref type="bibr" target="#b29">(Obradović 2018)</ref>, trauma <ref type="bibr">(Ribnikar)</ref>, memory <ref type="bibr">(Marot Kiš; Mijatović and Durić)</ref>, exile <ref type="bibr">(Ðorović)</ref>, and ethics <ref type="bibr">(Gosta)</ref>. This article extends these studies by investigating the ethics of the narrator as a proxy witness and the novel's rhetorical dimensions, offering an analysis of Albahari's prose that has not yet been undertaken. Drawing on philosophical and ethical theories of memory by <ref type="bibr">Ricoeur (Memory, History Forgetting; On Translation)</ref>, Jeffrey Blustein (The Moral Demands of Memory), and Avishai Margalit (The Ethics of Memory), as well as Marianne Hirsch's concept of "postmemory," the study first examines the positions of the principal characters and their respective "ethical locations" <ref type="bibr">(Phelan Living,</ref><ref type="bibr">23)</ref> in relation to Mother's testimony, before proceeding to a brief rhetorical analysis in which Ricoeur's theories merge with those of the Chicago School to read the narrative as a purposive act of communication, focussing on how textual choices shape audience's responses. By foregrounding the novel's metalinguistic and metaliterary dimensions, the analysis explores the relationships among author, narrator, and reader to elucidate the novel's layered ethical dynamics.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>The Ethics of Telling Mother's Story: The Narrator as Son</head><p>Bait has frequently been characterized as a novel of loss. In addition to his anguish at his mother's passing, Ðorović notes the narrator's loss of identity, language, homeland, and sense of belonging. She contends, drawing on Milan Miljković, that the loss of the mother serves as a synecdoche for the narrator's broader experience of loss, highlighting the importance of the cassettes as his most prized possession. These tapes symbolize multiple forms of loss and highlight the enduring traces of the past, particularly the maternal voice and the sound of his native language.</p><p>Already orphaned twice, the narrator lacks "the illusion of permanence, a constancy that suggests life to be a knowable, reliable, trustworthy, and [. . .] feasible endeavor" that parents project <ref type="bibr">(Levy 15)</ref>, while gaining perspective on his parents' strengths and weaknesses and increasing the responsibility for his life . Now the tapes, the external sound archive, become the medium that activates his functional memory, enabling him to "dialogue" with his mother in a way he was not prepared to do at the moment of recording, associating her messages with recent episodes of his own life, enlightening the reading of his present with her testimony. The processes of communicative memory  and postmemory <ref type="bibr">(Hirsch Family Frames,</ref><ref type="bibr">23)</ref> blend throughout his narration. His remembrance, however, prompts ethical questions: is Mother's story worth remembering? Is he being faithful to her account? Is he using her testimony ethically?</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Mother: Life</head><p>The novel starts with Mother questioning where to start her account, an ethical element reflecting her conviction that human life cannot be told and that "there is not a book into which one can fit an entire life" (Albahari 95). Her brief utterances during the first day of recording underscore, on the one hand, a silence that marked her own life and informs of moments that resist representation <ref type="bibr">(Gosta 572)</ref>, and, on the other hand, a final commitment to speak -"We'll continue tomorrow" (Albahari 9). Mother decides to tell her story and, thereby, to fulfill her duty to remember. Does this duty actually exist? <ref type="bibr">Ricoeur ("Memory and Forgetting,</ref><ref type="bibr">[17]</ref><ref type="bibr">[18]</ref> reserves it to the ethicopolitical level of thinking memory and orients it toward the future: transmitting the meaning of past events to the next generation. He bases his claim on three reasons: First, it is a means of fighting against the erosion of traces; second, it is necessary for what Hanna Arendt calls continuation of action, forgiving -to be liberated from the burden of the past -and promising -to be bound by one's own word, "a very powerful rapprochement" (in Ricoeur's "Memory and Forgetting,"18); third, it keeps alive the memory of victims' suffering against history that celebrate victors. Fourth, he asks whether there is also a "duty to forget," arguing that amnesty is not amnesia and, although both remembering and forgetting contribute to the continuation of action, there is no symmetry between them: remembering teaches, whereas forgetting aims at going beyond anger and hatred -both ultimately oriented toward justice. Mother's vision embraces an ethical moving forward that is aware of memory instrumentalization and overcomes questions of guilt:</p><p>What is inside you no one can take away from you; what is outside you is not yours all the same. That's why we never said to you: Look at that place, the person guilty for that is so-and-so. We said only: Look at that place. For what is guilt? And who dares, who truly dares to say who is guilty and who is not? (Albahari 61).</p><p>The moral value of Mother's testimony resides in its symbolic expression, the "love of the good and opposition to the bad" and the "commitment to the moral order that was upset by [the wrongdoing]" . As the teller of her personal experience during the Holocaust, she becomes what Avishai  names "moral witness," the one who experiences or risks exposure to evil and suffering and testifies with moral purpose. Genuine moral witnessing requires first-hand acquaintance, which endows them with the highest testimonial authority. Although moral witnesses are not free from memory fallibility, they "enjoy [an] epistemic advantage over those who have not had comparable experiences" in terms of bearing witness <ref type="bibr">(Blustein 312)</ref>. Thus, they are owed "moral deference" (313, cf. Laurence 1992), and eventual checks on their reports of past events do not enerve their overall credibility.</p><p>For Ricoeur (Memory, History), testimony functions as the pivotal link between memory, history, and ethics: memory first takes form in the witness's avowal -"I was there" -and it is only through this spoken assertion that remembrance becomes available for archiving and, eventually, for historical narration. By testifying, someone asserts that an event occurred and presents themselves as a trustworthy witness to that assertion. Ricoeur considers testimony a trace for the historiographer, but his framework can be applied, mutatis mutandis, to Mother's testimony in Bait, taking the narrator as the historiographer (vid. section "The Narrator: Reader" below). Thus, Mother designates herself as a witness by means of a triple deictic: "the first person singular, the past tense of the verb, and the mention of there in relation to here" (164). Her first words about the events, about Germans entering Zagreb and trampling through the flowers and the chocolate show this self-designation: "I was standing at the window [in Zagreb] and watching people change" (Albahari 13). The testimony is inscribed in a dialogical situation; it has an audience that the witness addresses, asking to be believed. Witnessing is subject to ethical requirements, such as the intent to be intelligible, to provide adequate communication, and to provide a steadfast <ref type="bibr">(Ricoeur Memory,</ref><ref type="bibr">History 165)</ref>, truthful, and complete account <ref type="bibr">(Blustein 315</ref>) that the audience, if suspicious, can contrast with others.</p><p>Since her original audience was her son, readers are a future larger audience <ref type="bibr">(Blustein 315</ref>) to whom the narrator presents a Mother-witness the same way any of us would imagine a witness testifying in court -she takes a handkerchief (Albahari 14), reaches out for a glass of water <ref type="bibr">(43,</ref><ref type="bibr">93)</ref>, holds her arms across her bosom (26), which contributes to reproduce an atmosphere of mourning, nervousness, tension, and resistance to share. This halo of credibility is strengthened by the idea that, in court, imaginary witnesses testify under oath and by her position within the historical context of the Shoah. Her testimony does not raise suspicion, finding in her recorded narration what James Phelan terms "pockets" of reliability <ref type="bibr">(Phelan Somebody,</ref><ref type="bibr">125)</ref> in three axes: axis of ethics -her testimony is clear, and complete, despite silences; axis of events -for example the entry of German troops in Zagreb during the Second World War and the Sajmište concentration camp correspond to historiographical accounts, while other evidence, such as the letters sent by her first husband corroborate other claims; and the axis of knowledge -as she tells what she witnessed.</p><p>The narrator challenges the readers' perception, telling them "Donald would surely advise me to check the facts [. . .] so that I don't build on unstable foundations. There is nothing so reliable as history, he says" (Albahari 22), or questioning the extended audience: "Mother's voice, especially now that she is dead, belongs to me alone" (13). Later, by saying that "voice [. . .] is not words; real speech is not heard, it is spoken within" (17), Donald reinstates readers as a narrative audience, able to understand Mother's testimony, be emotionally moved, and be ethically capable of drawing value. Donald's literary mentorship, as I will address, is a succession of clashes over history, literature, and cultural prejudices. However, a closer reading reveals a Canadian friend who is ethically engaged in offering advice on how the narrator should use his mother's testimony in the novel he claims to want to write. From this perspective, Donald actually becomes an ethical mentor.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Donald: The Guide</head><p>Either as the narrator's double, or as the alleged only Canadian friend the narrator has, Donald marks the transition between the temptation of instrumentalizing Mother's testimony -the narrator wanted to obtain a direct novel from her -to the one reflected at the moment of narration in the novel. I am referring here to the synthetic dimension of the character, that is, "its role as artificial construct in the larger construction of the text" <ref type="bibr">(Phelan Living,</ref><ref type="bibr">218)</ref>, because in Donald's mimetic dimension, his persona enacts cultural and literary clashes with the protagonist, who does not follow his advice in any regard, as the narrator's manuscript Donald reviews shows: I'd written about a poet [. . .] [whose] world [. . .] is falling apart, a war is going on, his mother has died, and he feels, despite all prosaic concision, the story of her life becoming real in him, drawing him into himself and forcing him to play a role determined long ago. [. . .] [T]hen I wrote -and it's the only thing I made up -how on the bank of a river he meets a girl to whom he declares in a long monologue that love is the last bastion, and that, if we lose it, life becomes an endless sinking. [. . .] On the last page, the river slowly rises. [. . .] All of that I did in the English language. (Albahari 97)</p><p>The manuscript is conceived as a pastiche of previous discussions with Donald in which the main theme and only voice correspond to the author. This is not surprising since the narrator trusts Donald less and less as the novel progresses. Thus, the narrator seeds the doubt about his friend's reliability, who seems to stop favoring his progress and achievements, to increase conflict, and to document for his own literary purposes some of the narrator's ideas by "taking out his little pad and writ[ing] down" (58, cf. 91). Donald also begins to mock Mother's protagonism, calling her "a puppeteer" (46), and questions the fit of the novelistic genre to recount her story. I will return to these contradictions later, but if Bait is the narrator's finalized novel, one observes an ethical effort to follow the mentor's guidance in retelling Mother's story.</p><p>It is Donald who encourages the narrator to go beyond stylistic words and to expose actual messages without explanations -"[w]hoever explains [. . .] takes away from the story" (Albahari 28) -or brings up the issue of the connection between any story told by a writer and his own biography -"the writer always writes about himself" (23), which links to Hirsch's postmemory and its influence with its usefulness for the new generation -"I am adapting memories to new demands," says the narrator (28). Donald insists that the story about the narrator's mother should not turn into a story about himself and that he should "let her speak" (36), because "your story is about your mother" (41); "if someone wants to write about his mother, then he has to write about his mother" (85). In the meantime, the idea of a faithful representation of Mother grows in the narrator, whose profound cogitation about this possibility ends up condensed in two questions: "Is it possible [. . .] that a story really exists only in a single moment [. . .] and that, therefore, it can never be repeated because that present is, after all, unrepeatable? [. . .] Is it possible to tell a story at all?" (53).</p><p>Telling her story implies talking about himself not only because of the extant intergenerational connection, but also because of the unavoidable parallelisms between his own context during the dissolution of Yugoslavia and his mother's, where ethnic hatred, displacement, and emigration were commonplace. The retelling, however, must follow an ethical reflection -first exposed by Donald, then adopted by the narrator himself -that underlies the narration. As a result, an account of Mother's memories cannot disregard its ethical dimension, whence the narrator's claim that "If I ever write a book about mother, I know now for sure, I'll also write about Donald" (65), the source of his ethical work.</p><p>The narrator attempts to follow Donald's directions in repeating Mother's story, as evidenced by his moral decisions regarding translation and his acceptance of responsibility for Mother's testimony. The next section examines the critical aspects of translation and explains how it relates to the narrator's actions. The analysis then addresses the broader issue of ethical accountability in the retelling of testimony.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>The Narrator (I): Interpreter</head><p>A mother's testimony serves as a primary vehicle of communicative memory -the "history in the frame of autobiographical memory" passed down through "informal traditions and genres of everyday communication," through which families establish continuity, identity, and moral orientation <ref type="bibr">(Assmann 22)</ref>. The verification of facts does not exhaust the value of such remembrance; the narrative, emphases, and gaps may also reveal the particular social conditions and cultural frameworks in the remembered events that have gained relevance (cf. Portelli 24). These dynamics are important across generations because, even in the absence of direct experience, the transmission of memories can be so powerful as to inhabit them as a formative horizon of memory and identity <ref type="bibr">(Hirsch 107)</ref>. In this manner, recalling a mother's story helps to preserve knowledge about the past and the cultural circumstances that made it possible. Furthermore, the mother's narration can be interpreted as a witnessing event that requires a listening other and carries ethical stakes of recognition, responsibility, and response when approached explicitly as testimony .</p><p>In Albahari's Bait, the narrator occupies a double position as interpreter and son. His work throughout the novel can be understood as bringing together two kinds of "translation": first, intralinguistic translation within Serbian; and second, transgenerational transmission of memory. Interlinguistic translation is thematized in the novel but not foregrounded. The narrator repeatedly problematizes the adequacy of English as a language of self-expression and as a marker of distance from his origin upon arrival in Canada (Albahari 73 and 79). He reflects on the ambivalence of writing in the language of his host community, despite the aesthetic difficulties of translating his literary sensibility from Serbian into English (97), worries about the loss of affection Mother's words would have for him if they were translated ( <ref type="formula">22</ref>), and he underscores the limits of translation in conveying historical nuance during his work as a translator for a humanitarian organization in Bosnia, where the loss of a common language becomes for him a symptom of Yugoslavia's disintegration (73). These reflections situate interlinguistic translation as an ethically charged practice. Nevertheless, the central axis for ethical discussion lies elsewhere: in the intralinguistic work by which speakers reformulate, explain, and "say the same thing in another way" <ref type="bibr">(Ricoeur On Translation)</ref>, and in the intergenerational transmission that Marianne Hirsch theorizes as postmemory. Along this axis, similar ethical questions arise regarding the narrator's retelling of his mother's testimony. Both Ricoeur's hermeneutics of interpretation and translation and Hirsch's theorization of postmemory refuse the misappropriation of others' words and experiences, and both insist that mediation is not a neutral conduit but a site where meaning is produced, negotiated, and put to use. While both Ricoeur and Hirsch arrive at similar ethical viewpoints, their paths are distinct. Ricoeur's starting point is the autonomy of discourse -how meaning exceeds authorial intention once words enter circulation -whereas Hirsch begins by considering the power of shared, often traumatic, stories and images passed down through generations. She focuses on how the intense emotional weight of these narratives can sometimes make it difficult to distinguish between the actual event and its retelling. Read together, the two frameworks illuminate a common problem: how to transmit and interpret the other -the original discourse of Mother's taped spoken testimony -without the mediated discoursethe narrator's written reworking of that testimony -converting that otherness into one's own possession.</p><p>In specifically Ricoeurian terms, the fixation of the mother's speech produces distanciation-a constitutive separation from the originating situation and from any recoverable authorial intentionwhich makes the discourse publicly available to an "unlimited series of readings" (Ricoeur Hermeneutics 139) and releases a "surplus of meaning" (Ricoeur Interpretation 45 ff.) that no single interpretation can exhaust. Interpretation therefore cannot be reduced to rule-following; it demands phronesis, practical judgment , and takes an ethical posture Ricoeur calls linguistic hospitality, the effort to "bring the reader to the author" and "bring the author to the reader" without collapsing either side, aiming at an "equivalence without identity" <ref type="bibr">(Ricoeur On Translation)</ref>. In this horizon, appropriation names the hermeneutical act by which the meaning of original discourse becomes one's own -transforming self-understanding by allowing the discourse to refigure the interpreter's assumptions, freeing the discourse to address the interpreter (Suazon 60-61)whereas misappropriation names the ethical failure of projecting bias, reducing meaning to authorial psychology, or denying discourse autonomy, thereby violating responsibility to the other and to truth and inflicting symbolic violence on the vulnerable (vid. "abuses of memory, <ref type="bibr">" Ricoeur Memory,</ref><ref type="bibr">History,</ref><ref type="bibr">[68]</ref><ref type="bibr">[69]</ref><ref type="bibr">[70]</ref><ref type="bibr">[71]</ref><ref type="bibr">[72]</ref><ref type="bibr">[85]</ref><ref type="bibr">[86]</ref><ref type="bibr">[87]</ref><ref type="bibr">[88]</ref><ref type="bibr">[89]</ref><ref type="bibr">[90]</ref><ref type="bibr">[91]</ref><ref type="bibr">[92]</ref>.</p><p>From a Ricoeurian perspective, Hirsch's theorization of postmemory articulates a structurally parallel claim while foregrounding a distinct configuration of ethical risks. "Through repetitions, displacement, and recontextualization," she argues, "postmemorial generations [. . .] attempt to live with, and at the same time to re-envision and redirect, the mortifying gaze of <ref type="bibr">[past]</ref> images" <ref type="bibr">(Hirsch The Generation,</ref><ref type="bibr">120)</ref>. Transmitted stories and images can feel like memories "in their own right" for the next generation (Hirsch "The Generation," 107), yet precisely this identificatory power threatens an ethical collapse of distance, where the descendant subsumes the survivor's trauma into a selfauthorizing narrative and effaces alterity. Hirsch therefore insists that postmemory must remain reflexive, mark its belatedness, and preserve the gap between lived and inherited experience; "post"does not signal closure but a troubling continuity that must be handled responsibly. This insistence clarifies what is at stake in Bait: testimony functions as a "trace par excellence" (Leichter 379) grounding narrative identity and postmemorial inheritance, and a mediated retelling must preserve the trace "while [still] keeping the mark of absence and distance" <ref type="bibr">(Ricoeur Memory,</ref><ref type="bibr">History,</ref><ref type="bibr">427)</ref>. In this way, the "forgetting kept in reserve" (414) can reemerge when revisited, and the testimony can remain an occasion not for appropriation-as-possession but for ethical reevaluation of who "we" take ourselves to be <ref type="bibr">(Leichter 393</ref>). This mediation is implicitly evident in Hirsch's image-based analyses, which show how original sources (photographs, films) and mediated discourse (postmemorial narration) operate in distinct codes -visual and linguistic.</p><p>Bait contains a single semiotic code, the linguistic one, for both Mother and narrator. This could make distance and preservation less visible, yet the narrative portion corresponding to the mother's testimony is explicitly marked as a transcription. The narrator proceeds by verbatim repetition, quoting his mother's words in order and following the sequence of the four tapes, whose beginnings the reader encounters on pages 3, 26, 54, and 87, respectively. He does not conceal that he never finishes listening to the third tape -"I can't listen to it any longer. First I stop the tape; then I press the button for fast rewind" (Albahari 80) -and he provides the reason: he remembers that, for the remainder of the recording, he monopolized the conversation by speaking about the impossibility of understanding, the inadequacy of language, and the interpretation of silence. Because the tape is filled with his own discourse rather than hers, the reader is spared that portion. Simultaneously, the narrative makes us aware of a second code, an acoustic or auditory dimension that accompanies the mother's account. Since the medium of the novel is exclusively written, part of the information conveyed by the testimony -ambient sounds, voice modulation -could be lost. The narrator responds to this risk by "glossing" the transcript: he continually annotates the words with descriptions of tone, gesture, and silence. We learn about his mother's emotional reactions -"She [. . .] wiped her nose"(14); "Then she began to cry" (30); "Mother whimpered and sobbed" (33); "Mother sighed [. . .] Mother cleared her throat" (58) -and her silence "She fell silent" <ref type="bibr">(22,</ref><ref type="bibr">43,</ref><ref type="bibr">67,</ref><ref type="bibr">90)</ref>. In this way, he reconstructs something like the integrity of the acoustic archive in writing.</p><p>The aural archived memory preserved on the tapes also reactivates visual memory. The narrator supplements the transcription with information about movements at the time of recording -reaching for the handkerchief or the glass of water, crossing her arms -and with contextual remarks about his mother's stubbornness, her fondness for popular sayings, her marriages, her flight from Croatia during the Second World War, and her arrival in Serbia. These comments do not belong to the recorded testimony, nor does the narrator pretend they do: "those weren't her words; it is merely my attempt to define her essence" (Albahari 19). He also notes his own reactions on the tape -impatience (27), laughter (51), rage (57), embarrassment (69) -in a progression from disbelief to a belated realization that extends into the narrative present, where he questions his former self and his initial intent with regard to his mother's story.</p><p>Beyond the faithful transcription of his mother's words and the acoustic environment, three further aspects support the claim that the narrator's retelling aims at fidelity. First, he respects and leaves gaps that evoke both the unspeakable and the surplus of meanings. The mother's silences function as a form of historical withholding that resists appropriation by the nation-state, the global market for victim narratives, or her son's postmemorial identification <ref type="bibr">(Nishku 110)</ref>. As Tatjana Aleksić posits, "her silence is equally an act of defiance against the history that shaped [. . .] her life [. . .][and] implies an impotent protest by a victim who, failing to articulate history, [. . .] hopes she can exert any control over its powers" (59). The narrator adopts a similar restraint when he refrains from elaborating scenes that would require literary virtuosity or when he reacts to the letters from his mother's first husband written from the concentration camp: "The horror in his soul, whose presence one also feels, cannot be described by any means, just as the horror that seized me as I read the letters, with the knowledge of what happened when the words stopped, cannot be described" (Albahari 91).</p><p>Second, he refuses a notion of "posthistorical time" in which history merely repeats itself and denounces its ideological manipulation: "there now existed some posthistorical time that was supposed to repeat some other time, as if life were a textbook from which they could tear out individual pages and replace them with new ones, which were really the old ones" (73). By the same token, his memories can be informed by, but never replaced with, his mother's.</p><p>Third, neither he nor his mother exploits the role of a victim of the Holocaust. He appears as a Jew, a Yugoslav, and a writer whose world is collapsing; each of these identities is wounded, but none is instrumentalized as pure victimhood. His Jewish upbringing is retrospectively tied to his mother's betrayal of her first husband's wish that the Jewish faith not be maintained in the family (103); as a Yugoslav, he laments the symbolic loss of the common language (73); as a writer, he recalls his failed beginnings as an unpublished poet in Yugoslavia and his persistent insecurities. His position is that of a secondary victim who acts by proxy as "representative of family lines" <ref type="bibr">(Thompson 123)</ref> or as a "tertiary victim" (Govier 60) as a Jew. Poetically, it could well be that his stance of not being a writer and his difficulties in writing a book out of his mother's story represent his resistance to presenting his narrative as a final, authoritative account of his mother's life.</p><p>The narrative present shows him confronting his mother's memory with humility, acknowledging the intrinsic difficulty of knowing "those who are closest to us" (Albahari 19), and attempting to approach her story within ethical limits. He exercises restraint in interpretation, marks his conjectures as such when filling in gaps -"Derventa was one of the gateways to the world, and he [my father] used to come there, I suppose, engaged in business" (55, my emphasis) -and exposes his own misreadings. On a few occasions he misinterprets the circumstances of the recording, momentarily forgetting his original plan when he notices that a portion of one tape remains empty, probably to allow for later additions -"I can't think of one good reason why I didn't continue to use the first tape" (27) -or he slides back into literary analysis of his mother's testimony -"Perhaps silence is also part of the style?" (22). However, even these moments testify to his effort at fidelity, since they document the conditions under which the testimony was collected and the difficulty of representing it in its wholeness, including its lacunae.</p><p>The narrator seems to be aware of his moral obligations toward his mother, thereby ensuring the deceased is properly valued in the way he remembers her, as Jeffrey Blustein calls it, an "expressive account of remembering" (266-267). Writing a book in remembrance is a manifestation of an enduring duty toward a close person that "flow[s] from or instantiate[s] duties of love and honor" (273) since it fulfills a restorative function in voicing a testimony by enlarging its audience, therefore breaking the silence. If Bait is the text of the final book the narrator writes, it may not be a book exclusively about the mother, yet it partly presents an ethical retelling of her testimony, remaining formally conservative, closely adhering to her words, and preserving its nuances.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>The Narrator (II): The Reader</head><p>The preceding analysis has addressed the handling of Mother's testimony, identifying Donald as an ethical guide and evaluating the narrator's fidelity in retelling. However, Bait extends beyond Mother's story; her recorded voice is situated within a broader narrative of self-constitution that interweaves Mother's past with the son's experiences, including his final moments in Serbia and his relationship with Donald in Canada. Through this complex interplay of remembered scenes, the narrator constructs what Ricoeur terms narrative identity. The following discussion shifts focus from testimonial fidelity to the novel's ethics of identity formation.</p><p>This shift also brings into view two levels of memory and forgetting that Ricoeur ("Memory and Forgetting") distinguishes beyond the ethico-political "duty of memory" I referred to above: the pathological-therapeutic and the pragmatic. At the pathological-therapeutic level, the ethical stakes lie in healing: memory becomes "work," oriented away from compulsive repetition and toward "working through," reconciliation with the past, and the acceptability of memory through mourningnot only of "persons" but also of "abstractions like fatherland, freedom -ideals of all kinds" (14)rather than melancholic fixation. At the pragmatic level, ethics becomes a matter of responsible practice. Because abuses of memory are tied to the fragility of identity -"diseases of memory are basically diseases of identity" (14) -the ethical task is to "keep the promise" (15), the capacity to bind oneself to the future through change, which entails obligation toward others and sustained selfnarration that seeks exemplarity in events ( <ref type="formula">16</ref>).</p><p>Ricoeur's account of identity clarifies what Bait dramatizes. He distinguishes between idem and ipse identity (Ricoeur Oneself 3): idem (the same) names relatively stable traits by which one remains recognizable, whereas ipse (selfhood) names self-constancy without relying on sameness -keeping promises, assuming responsibility, and recognizing oneself as the author of a revisable life. Narrative mediates between these poles by configuring heterogeneous events into an intelligible temporal whole. In Bait, the narrator initially appears at the level of idem as a subject of repetition and deferral: conflict-averse and self-effacing, he defines himself through the hierarchy "Donald is a writer"/"I am not a writer" (Albahari 2001, 3), and he admits he avoids confrontation, even lying about his father's use of a tape recorder to align with Donald's reality and prevent disagreement ( <ref type="formula">7</ref>). Yet the novel also stages a tentative emergence of ipse: late in the narrative he insists, "I hesitate, I vacillate, but when I make a decision, nothing can make me change my mind" (77), a claim reframed by the closing scene in which he bars Donald from entering -"I press against it [the door] with my shoulder, I shove my foot beneath it, I lean my whole body on its smooth upper surface" (117). The force of this gesture suggests that ipse is hard-won, while its meaning remains open: it may secure autonomy or merely produce another loss. This duality creates an instability between the narrative identity of the pragmatic level and the working-through of the pathological-therapeutic level. In fact, the character-narrator is in the process of defining himself, yet his trauma keeps deferring his outcome. Paying attention to both, however, will help further analysis.</p><p>Narrative identity, first developed by Ricoeur in Time and Narrative, then extrapolated to the topics of the self and history, articulates how a person can remain the same while changing through "discordance concordance," by inscribing both continuity and transformation within a single, interpretive history that synthesizes the heterogeneous -in his personal narrative <ref type="bibr">(Ricoeur Oneself,</ref><ref type="bibr">141)</ref>. The narrative identity is developed in three stages ("three-fold Mimesis"; Ricoeur Time, 53 ff.): prefiguration, the pre-understanding of action and temporality that precedes any story; configuration, where narrative configures heterogeneous elements into a meaningful whole; and refiguration that occurs when readers apply that configured world to their own experience. Refiguration still applies to narrative identity in Oneself as Another <ref type="bibr">(1994)</ref>, but it appears transposed from reader-text reception to self-life interpretation and presented as relational.</p><p>Bait ties the narrator's selfhood to Mother's taped voice, to Donald as rival and mirror, and to the implied author who structures the narrative as an address to the reader. "I am here thanks to the one who is not here" (Albahari 107) condenses this relational ontology. The sentence reads on several levels at once: the parents who are dead, the absent Donald who once acted as the "gardener" of his soul ( <ref type="formula">63</ref>), Mother's Jewish first husband, whose decision about his children's identity haunts the family story, and, as I will explain later, the implied author without whom the author would not exist. Ethically, this dependence on others aligns with Ricoeur's "solicitude" <ref type="bibr">(Ricoeur Oneself,</ref><ref type="bibr">188)</ref>: the reciprocity of receiving and giving through which a self becomes a self "as another," under the broader aim of the "good life with and for others" (171-80).</p><p>Mother's voice is the medium through which this ethics becomes legible. The tapes establish a belated dialogue between then and now across two "chronotopic planes" (Milosavljević 17), and the narrator's affect merges with her speech -"The reels are turning, the tape is becoming taunt. I'm tired. 'Don't tell me about tiredness,' says Mother" (Albahari 40). This interaction displaces communicative memory into the present <ref type="bibr">(Mijatović and Ðurić 95)</ref> and forces the narrator to reassess his earlier instrumentalization of her testimony: "In forcing her to speak, I wanted her all to myself, to turn her feeling of loss [. . .] into my feeling of gain" (Albahari 10). Retrospectively, he admits belated comprehension -"Now, however, I understand" (70) -and begins to register the authority not only of Mother's vulnerability of her silences and resistance to official narrative (Marot Kiš 477). The conflict over identity crystallizes this lesson: against the narrator's earlier "You became a Serb again" (Albahari 16) when she tells how she concealed her Jewish identity after fleeing from Croatia, Mother insists on the logic of survival -"In war, life is a document" (17) -and thereby exemplifies "self-constancy" <ref type="bibr">(Ricoeur Oneself,</ref><ref type="bibr">165)</ref>: fidelity through change under hostile institutions.</p><p>The narrator, in contrast, is shown as unstable. The narration focuses on the loss of identity: he is not a Yugoslav as his country of nationality broke up; he has difficulties to relate as a Serb when a mechanic in Banja Luka informs him that only Serbs live now in the city (73); he states he is not a good Jew (Albahari 75); he lives between the heavy weight of history and language as condensers of his culture, and the willingness to embrace a new life in Canada. The conflict with Donald is based on misunderstandings and stereotypical views that confront the Balkans and Europe with Canada  and can be read as a succession of opposites that, excluding each other, call for a responsible decision with which to refigure his narrative identity. It is worth remarking that both characters incur in permanent contradictions with regard to what they criticize about each other, but this fact does not enervate the steady game of opposites with regard to character -hesitant vs decisive (7); angry vs accepting (79); too suspicious (40) vs too kind (32); barbarian (82) vs civilized; collective (40) vs individual -history -bound vs unbound by history -and literature -linear, concise, and coherent story vs fragmented (24). All the reader knows is the alleged change the narrator experiments toward the end -"I breathe the air as if it is quite different air, as if these are no longer my lungs, as if this is no longer I [. . .] [T]hese [. . .] comparisons [. . .] indicate a transformation into something else, into someone else" (116). If I considered Donald an ethical guide earlier, here he becomes the ethical possibilities among which to choose, overwhelming a fragile narrator installed in indecision. As readers, we can only assert that, if we consider Bait the narrator's final work, Donald's literary authority was neglected, but the rest of the refiguration remained open and fed by the narrator's antagonizing friend.</p><p>The narrator's idem-identity is destabilized, as he is unable to recognize himself in the language or community to which he ostensibly belongs, nor does he fully adopt new values. Concurrently, trauma undermines his ipseity, resulting in a diminished sense of self-continuity. The "I" persists, yet narrating one's identity becomes problematic, reducing selfhood to "exposing selfhood by taking away the support of sameness" <ref type="bibr">(Ricoeur Oneself,</ref><ref type="bibr">149). While Milosavljević (19)</ref> argues that the novel reveals the impossibility of achieving narrative identity, thus situating the narration at the pathological level, Gerrit Glas (349) maintains that "[d]isorderess is not enough to deny narrative unity to a subject." Ricoeur interprets the apparent nothingness of the self as a dialectic between narrative identity (Who am I?) and moral identity (Here I am!), between the range of possible actions and the ethical voice that asserts, "Everything is possible but not everything is beneficial (understanding here, to others and to yourself)" <ref type="bibr">(Ricoeur Oneself,</ref><ref type="bibr">167)</ref>. This dynamic reveals a dialectic of ownership and dispossession, care and carefreeness, and self-affirmation and self-effacement. An existential crisis that exposes the fragility of identity and commitment does not constitute evidence of the self's literal nonexistence. Despite fluctuations and ruptures, the narrative agent continues to assume and reinterpret a life to which others still hold it accountable (168). This accountability is further explored through a brief rhetorical analysis.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>The Narrator (III): The Author</head><p>Although Ricoeur does not provide a systematized theory of rhetoric, recent scholarship has shown that rhetorical concerns -audience, judgment, and the redescription of reality -run through his hermeneutics (Ritivoi; Scott). Already in "Work and the Word" (1953), he identifies speech as action on others, reflexive action on the self, and action on meaning; later, in The Rule of Metaphor, he defines metaphor as "the rhetorical process by which discourse unleashes the power that certain fictions have to redescribe reality" (11). Blake Scott links this broader rhetorical orientation to Ricoeur's engagement with the "rhetorical turn" and argues that Ricoeur's ideas -especially audience, mimesis, and phronetic judgment -are available for rhetorical application <ref type="bibr">(Scott 195,</ref><ref type="bibr">209,</ref><ref type="bibr">227,</ref><ref type="bibr">277)</ref>. I draw on this potential alongside rhetorical narrative theory in the wake of the Chicago School, particularly Rabinowitz's account of audiences (Rabinowitz 125 ff.) and Phelan's distinction between narrator, implied author, and the "choices that create the narrative text" <ref type="bibr">(Phelan Living 216)</ref>. This combined framework clarifies how Bait distributes credibility, responsibility, and agency among Mother, Donald, the narrator, and the reader.</p><p>Sanja <ref type="bibr">Šakić (112-113)</ref> observes that Albahari's one-paragraph novels, among which Bait is included, often end in a scene of silence in which the protagonist pauses at a threshold -entering or exiting a represented space -without any intradiegetic explanation. The threshold thus becomes a chronotope of crisis and an emblem of "open closure": narration ends, but meaning remains underdetermined and requires the reader's collaboration to be configured <ref type="bibr">(Šakić 38, 108)</ref>. Bait culminates in precisely such a suspended scene. As the narrator and Donald remain motionless at the doorway, the narrator reflects: "If I really knew how to write, I could make a note of our motionlessness and recognize in it the announcement of the change" (Albahari 117). The conditional here stages a problem of access: change is posited, yet the narrative withholds a final account of what that change consists in. From a Ricoeurian standpoint, this is the ethical force of refiguration: narrative does not merely represent action but intersects with the reader's world and solicits judgment, thereby transforming reading into an act of application <ref type="bibr">(Ricoeur Time,</ref><ref type="bibr">71)</ref>. In that sense, the "open closure" does not simply defer meaning; it distributes responsibility, compelling the reader to judge agency, credibility, and how a life is being narratively formed.</p><p>This redistribution of ethical responsibility becomes explicit in the novel's thematization of the conditional mood. <ref type="bibr">Šakić (59)</ref> reads the conditional as a key epistemological device: it marks the narrator's uncertainty about truth and installs a hypothetical mode in which what can be told is what can be imagined "as if" it were true, even when it cannot be verified. From a Ricoeurian perspective, such hypotheticals can be ethically productive insofar as they open the space of refiguration -fiction's modeled world becomes a site where readers test possibilities of self-understanding and relation to history <ref type="bibr">(Šakić 35-38)</ref>. However, in Bait, the conditional is also explicitly problematized from within. Mother's aphorism -"Something had either happened <ref type="bibr">[. . .]</ref> or it hadn't, everything else was unimportant, especially conditional sentences" (Albahari 56, emphasis added) -and Donald's dictum that "the conditional mood <ref type="bibr">[. . .]</ref> does not exist in nature" (93) both reject the narrator's preferred conditional mode as evasive. These statements expose a crisis of agency: the conditional can register conscientious fallibility, but it can also function as a rhetorical refuge for a narrator who postpones commitment. This becomes clearest in the anaphoric refrain "If I knew how to write," which repeatedly interrupts narration and introduces a second temporal layer -the moment of writingdistinct from the narrated past or the narrating moment. The refrain appears in reported speech -"If I knew how to write, I told Donald . . . " (34) -and private thought -"If I knew how to write, I thought . . . " (41), but most insistently it surfaces as an aside that reads less like a character's memory than like an implied author's self-positioning: "If I knew how to write, I would surely describe that look" (17); "If I were more skillful, I could work out that scene in detail, but I lack the words" (22); "If I knew how to write, I could put that another way" (56); "If I knew how to write, I could also make all sorts of things out of that" (93). The effect is ethically double: the narrator claims incapacity and nonaction, yet the text's very existence contradicts that claim, suggesting a transfer of responsibility from the narrating "I" to the implied author who manages selection, omission, and framing.</p><p>This absolute questioning of the self, which makes the ethical agent disappear within the work of fiction and therefore suspends his imputability, correlates with the vanishment of the others. Donald's rhetorical weakening is ethically consequential because it reduces the space of solicitude and contestation required for just narration. Unlike Mother, whose testimony is recorded and can be replayed, Donald is never granted direct speech; he appears only in reported dialogue and conjecture, and even when he is physically present at the end, he remains silent. This withdrawal neutralizes opposition within the fictional world, leaving the narrator's voice largely uncontested. The narrator alternates between declaring Donald a trustworthy writer and suspecting him of exploiting their conversations; he claims existential dependence -"If Donald didn't exist, perhaps I too, didn't exist" (63) -while simultaneously portraying Donald as patronizing and insulting. The conditional amplifies this instability by allowing Donald's "voice" to appear only as the narrator's projection: "Donald would probably laugh at such a conclusion" (84); "Donald would say [. . .] that, not trying to hide a trace of malice" (98). As Donald's presence thins into conjectural heteroglossia, the narrator effectively removes his most immediate internal critic, intensifying the ethical burden placed on the reader as evaluator.</p><p>In this dilution of the self and others, Mother's testimony presides, showing a pronounced asymmetry between Mother and the unstable narrator. Mother's taped testimony functions as the novel's most stable discourse: it is concrete, historically anchored, and presented as internally consistent, thereby encouraging the authorial audience to treat it as trustworthy. That reliability is reinforced through ethos: the narrator repeatedly frames Mother as systematic and orderly (Albahari 29), a patient listener (63), and a teacher whose authority is inseparable from restraint -she "taught without leaving the slightest trace of the fact that she'd been teaching" (50). Her aphorisms -"Happiness is a habit" (58), "all is written in a person's eyes" (69) -condense practical wisdom and elevate her to a moral reference point: she "lectured" the family "in the art of living," while they remained "eternal freshmen" compared to her (46). Her ethical role and respect are nevertheless undermined in at least two accounts: as a shield for the narrator's actions and as a metaliterary tool. First, the narrator weaponizes her words against Donald, questioning his trustworthiness and using her ethical capital to guide the reader's judgment, as if the narrator were following Mother's dictum. Thus, "I must have so much trust in him [Donald]" contrasts with Mother's saying "it's better to be mistrustful than well meaning" (25), which later on serves to accommodate Mother's words "all is written in a person's eyes, one should never believe the person who avoids another's glance" to the narrator's interest when he intentionally disregards how Donald looks at him straight in the eye by saying "Donald has tiny eyes and blinks often, as if they're full of dust. Perhaps I shouldn't believe him either" (69). Furthermore, as I noted above, together with Donald, Mother casts doubt on the reliability of actions expressed as hypotheses, which are therefore used as a tool in the implied author's hands to expose her son's manipulative nature. Mother thus fulfills a synthetic dimension by instilling ethics throughout the narrative and guiding the reader toward the dismissal of Donald and the unveiling of the narrator's unreliability.</p><p>The last pages of Bait intensify this metaliterary instability by implying a slippage among the narrator, Donald, and the implied author. The narrator reports: "I've already put everything into Donald's hands, and when I say this, I really do mean everything; nothing remains, least of all the part Mother spoke of" (108). Taken literally, the statement is difficult to reconcile with the narrated situation: the reader has been listening to the tapes with the narrator, and Donald could not have received them; moreover, Donald's final silence and exclusion from the house undermine the idea that he has everything now. The claim makes better sense if "Donald" is read not only as a character, but also as a displaced figure for authorial control -an internalization of the power that, as Phelan puts it, lies in "the choices that create the narrative text" (Phelan Living 216). Even if one does not underscore the onomastic speculation ("Donald," of Gaelic origin, means "ruler of the world"), the narrative logic points toward a functional identification: "Exit Mother and Enter Donald" (Albahari 108) signals not simply a shift in plot attention after Mother's death, but the replacement of her testimonial authority with a metaliterary authority that governs the novel's ethics and poetics.</p><p>Who is answerable for the narrative act -its exclusions, its instrumentalizations, its judgments -if agency is repeatedly displaced upward (to an implied author) and outward (to the reader)? The novel dramatizes a conflict between selfhood as accountable attestation and selfhood as rhetorical selfexception. What the threshold finally announces is less a stable transformation than an ethical test: whether narrative identity consolidates as self-constancy in the real world or remains suspended in the protective grammar of the conditional within the fiction.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Conclusions</head><p>The analysis has offered a Ricoeurian interpretation of David Albahari's Bait, highlighting the importance of Donald's moral guidance and the preservation of Mother's testimony as an ethical act. Mother's recorded voice positions testimony as the meeting point of memory, history, and moral obligation, acting as both a dialogical claim and a documentary archive. In the face of demands for aesthetic closure and the commodification of suffering, the narrator's acts of transcription, annotation, and restraint show a dedication to faithfulness, maintaining the trace-character of Mother's words. In this way, the novel articulates a remembrance that avoids misappropriation while focusing on justice for the victim.</p><p>The novel is situated within the ethical complexities of postmemory, where inherited narratives may change the self while staying essentially separate, thanks to the narrator's dual roles as translator and descendant. The ethical requirement is to exercise linguistic hospitality -establishing equivalency without identification and maintaining alterity while facilitating understanding -as Mother's discourse moves outside its initial context and becomes susceptible to other interpretations.</p><p>The internal conflicts in the narrative -Mother's consistent ethos, Donald's conflicting mentoring, and the narrator's vacillation between control and humility -show how easily testimony may be turned into rhetorical capital. The rhetorical structure of the text is inextricably linked to the ethical placing of the characters: the mechanisms that establish Mother's credibility also enable her strategic use in the narrator's exchanges with Donald and in the implied author's orchestration of reader engagement and judgment.</p><p>Certain narrative devices, including the use of the conditional mood and the final threshold scene, foreground the unresolved question of accountability, which remains unsettled within the narrative and must be addressed through narrative identity and readerly refiguration. The conditional mood functions as a grammar of evasion, suspending responsibility and shifting agency to the implied author and the reader. The open closure thus becomes a refigurative demand, requiring readers to exercise practical judgment regarding reliability and responsibility, thereby enacting Ricoeur's ethics -pursuing the good life with others in just institutions -beyond the fictional world.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Disclosure Statement</head><p>No potential conflict of interest was reported by the author(s).</p></div>		</body>
+		<back>
+
+			<div type="funding">
+<div><head>Funding</head><p>This article was presented in the framework of the project <rs type="projectName">NAME, Narratives at the Margins of Europe</rs> [<rs type="grantNumber">PID2023-152619NB-I00</rs>]. financed by the <rs type="funder">Spanish Ministry of Science, Innovation and Universities</rs>, the <rs type="institution">State Research Agency</rs>, and the <rs type="funder">European Regional Development Fund</rs> [<rs type="grantNumber">MICIU/AEI/10.13039/501100011033</rs>, and <rs type="funder">ERDF/EU</rs>].</p></div>
+<div><head>Notes on contributor</head><p><rs type="person">Raúl Algarín</rs> is a PhD candidate at the <rs type="institution">Autonomous University of Barcelona</rs>, where he researches post-Yugoslav literature within the framework of memory and identity studies. He holds master's degrees in Humanities (UOC) and in <rs type="funder">Human Rights and Democracy in South-Eastern Europe (University of Bologna</rs> and <rs type="funder">University of Sarajevo</rs>).</p></div>
+			</div>
+			<listOrg type="funding">
+				<org type="funded-project" xml:id="_UjJnaSN">
+					<idno type="grant-number">PID2023-152619NB-I00</idno>
+					<orgName type="project" subtype="full">NAME, Narratives at the Margins of Europe</orgName>
+				</org>
+				<org type="funding" xml:id="_s6mPGjH">
+					<idno type="grant-number">MICIU/AEI/10.13039/501100011033</idno>
+				</org>
+			</listOrg>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<analytic>
+		<title level="a" type="main">Works Cited Albahari</title>
+	</analytic>
+	<monogr>
+		<title level="j">David. Bait. Northwestern UP</title>
+		<imprint>
+			<date type="published" when="2001">2001</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<title level="a" type="main">Extricating the Self from History: David Albahari&apos;s Bait</title>
+		<author>
+			<persName><forename type="first">Tatjana</forename><surname>Aleksić</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of the Midwest Modern Language Association</title>
+		<imprint>
+			<biblScope unit="volume">39</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="54" to="70" />
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title level="a" type="main">Communicative and Cultural Memory</title>
+		<author>
+			<persName><forename type="first">Jan</forename><surname>Assmann</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Cultural Memories. The Geographical Point of View</title>
+		<editor>
+			<persName><forename type="first">Peter</forename><surname>Meulsburger</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">Michael</forename><surname>Heffernan</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">Edgar</forename><surname>Wunder</surname></persName>
+		</editor>
+		<editor>
+			<persName><surname>Sprinkler</surname></persName>
+		</editor>
+		<imprint>
+			<date type="published" when="2011">2011</date>
+			<biblScope unit="page" from="15" to="27" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<monogr>
+		<title level="m" type="main">The Moral Demands of Memory</title>
+		<author>
+			<persName><forename type="first">Jeffrey</forename><surname>Blustein</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2008">2008</date>
+			<publisher>Cambridge UP</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title level="a" type="main">The Novel Snowman by David Albahari: A Socio-Anthropological Reading</title>
+		<author>
+			<persName><forename type="first">Marija</forename><surname>Brujić</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Etnoantropološki problemi/ Issues in Ethnology and Anthropology</title>
+		<imprint>
+			<date type="published" when="2020">2020</date>
+			<biblScope unit="volume">15</biblScope>
+			<biblScope unit="page" from="129" to="153" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<monogr>
+		<author>
+			<persName><forename type="first">Richard</forename><forename type="middle">A</forename><surname>Cohen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">James</forename><forename type="middle">L</forename><surname>Marsh</surname></persName>
+		</author>
+		<title level="m">Ricoeur as Another: The Ethics of Subjectivity. SUNY Series in the Philosophy of the Social Sciences</title>
+		<imprint>
+			<publisher>State U of New York P</publisher>
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title level="a" type="main">Exile and Loss in David Albahari&apos;s Novel Bait</title>
+		<author>
+			<persName><forename type="first">Miljana</forename><surname>Ðorović</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Lj</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Folia: Journal of Language and Literary Studies</title>
+		<imprint>
+			<biblScope unit="issue">49</biblScope>
+			<biblScope unit="page" from="43" to="57" />
+			<date type="published" when="2024">2024</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<monogr>
+		<title level="m" type="main">Memory in Culture. Sara B. Young Translated by</title>
+		<author>
+			<persName><forename type="first">Astrid</forename><surname>Erll</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2011">2011</date>
+			<publisher>Palgrave MacMillan</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title level="a" type="main">History, Identity, and Masculinity in David Albahari&apos;s Bait</title>
+		<author>
+			<persName><forename type="first">Gerrit</forename><surname>Glas</surname></persName>
+		</author>
+		<idno type="DOI">10.18485/bells.2012.4.7</idno>
+		<idno>doi:10.18485/bells.2012.4.7</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Belgrade English Language and Literature Studies</title>
+		<imprint>
+			<biblScope unit="volume">10</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="93" to="104" />
+			<date type="published" when="2003">2003. 2012</date>
+		</imprint>
+	</monogr>
+	<note>PPP</note>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title level="a" type="main">Where Should I Begin?: The Ethics of History and Translation in David Albahari&apos;s Bait</title>
+		<author>
+			<persName><forename type="first">Tamara</forename><surname>Gosta</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/00111619.2013.793648</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Critique: Studies in Contemporary Fiction</title>
+		<imprint>
+			<biblScope unit="volume">55</biblScope>
+			<biblScope unit="issue">5</biblScope>
+			<biblScope unit="page" from="567" to="579" />
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title level="a" type="main">Forgiveness and the Unforgivable</title>
+		<author>
+			<persName><forename type="first">Trudy</forename><surname>Govier</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">American Philosophical Quarterly</title>
+		<imprint>
+			<biblScope unit="volume">36</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="59" to="75" />
+			<date type="published" when="1999-01">Jan, 1999</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<monogr>
+		<title level="m" type="main">Family Frames: Photography, Narrative, and Postmemory</title>
+		<author>
+			<persName><forename type="first">Marianne</forename><surname>Hirsch</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1997">1997</date>
+			<pubPlace>Harvard UP</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<title level="a" type="main">The Generation of Postmemory</title>
+		<idno type="DOI">10.1215/03335372-2007-019</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Poetics Today</title>
+		<imprint>
+			<biblScope unit="volume">29</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="103" to="128" />
+			<date type="published" when="2008-03">Mar, 2008</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<monogr>
+		<title level="m" type="main">The Generation of Postmemory: Writing and Visual Culture After the Holocaust</title>
+		<imprint>
+			<date type="published" when="2012">2012</date>
+			<pubPlace>Columbia UP</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<title level="a" type="main">Memory and Forgetting in Paul Ricoeur&apos;s Theory of the Capable Self</title>
+		<author>
+			<persName><forename type="first">Maureen</forename><surname>Junker-Kenny</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">A Companion to Cultural Memory Studies</title>
+		<editor>
+			<persName><forename type="first">Astrid</forename><surname>Erll</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">Ansgar</forename><forename type="middle">De</forename><surname>Nünning</surname></persName>
+		</editor>
+		<editor>
+			<persName><surname>Gruyter</surname></persName>
+		</editor>
+		<imprint>
+			<date type="published" when="2010">2010</date>
+			<biblScope unit="page" from="203" to="211" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title level="a" type="main">Bearing Witness or the Vicissitudes of Listening</title>
+		<author>
+			<persName><forename type="first">Doris</forename><surname>Laub</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Testimony: Crises of Witnessing in Literature, Psychoanalysis, and History</title>
+		<editor>
+			<persName><forename type="first">Shoshana</forename><surname>By</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">Doris</forename><surname>Felman</surname></persName>
+		</editor>
+		<editor>
+			<persName><surname>Laub</surname></persName>
+		</editor>
+		<editor>
+			<persName><surname>Routledge</surname></persName>
+		</editor>
+		<imprint>
+			<date type="published" when="1992">1992</date>
+			<biblScope unit="page" from="57" to="74" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<title level="a" type="main">Moral Deference</title>
+		<author>
+			<persName><forename type="first">Thomas</forename><surname>Laurence</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">The Philosophical Forum</title>
+		<imprint>
+			<biblScope unit="volume">24</biblScope>
+			<biblScope unit="issue">1-3</biblScope>
+			<biblScope unit="page" from="233" to="250" />
+			<date type="published" when="1992">1992</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<analytic>
+		<title level="a" type="main">Komik und Paranoia in der Prose von David Albahari und Svetislav Basara</title>
+		<author>
+			<persName><forename type="first">Goran</forename><surname>Lazičić</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Elena</forename><surname>Messner</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Književna istorija</title>
+		<imprint>
+			<biblScope unit="volume">51</biblScope>
+			<biblScope unit="issue">168</biblScope>
+			<biblScope unit="page" from="9" to="25" />
+			<date type="published" when="2019">2019</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<monogr>
+		<title level="m" type="main">The Dual Role of Testimony in Paul Ricoeur&apos;s Memory, History, Forgetting</title>
+		<author>
+			<persName><forename type="first">David</forename><surname>Leichter</surname></persName>
+		</author>
+		<editor>Michael Berber, Lester Embree, and Thomas Nenon</editor>
+		<imprint>
+			<date type="published" when="2010">2010</date>
+			<publisher>Zeta Books</publisher>
+			<biblScope unit="volume">5</biblScope>
+			<biblScope unit="page" from="373" to="399" />
+		</imprint>
+	</monogr>
+	<note>Phenomenology</note>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<monogr>
+		<title level="m" type="main">The Orphaned Adult. Understanding and Coping with Grief and Change After the Death of Our Parents</title>
+		<author>
+			<persName><forename type="first">Alexander</forename><surname>Levy</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1999">1999</date>
+			<publisher>Perseus Books</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<monogr>
+		<title level="m" type="main">The Ethics of Memory</title>
+		<author>
+			<persName><forename type="first">Avishai</forename><surname>Margalit</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2009">2009</date>
+			<publisher>Harvard UP</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<analytic>
+		<title level="a" type="main">Sjećanje na život: pripovijedanje i pamcenje u romanu Davida Albaharija</title>
+		<author>
+			<persName><forename type="first">Marot</forename><surname>Kiš</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Danijela</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Slavistična revija</title>
+		<imprint>
+			<date type="published" when="2017">2017</date>
+			<biblScope unit="volume">65</biblScope>
+			<biblScope unit="page" from="475" to="486" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<analytic>
+		<title level="a" type="main">Alberta in the Alberta Novels of David Albahari</title>
+		<author>
+			<persName><forename type="first">George</forename><surname>Melnyk</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Writing Alberta: Building on a Literary Identity</title>
+		<editor>
+			<persName><forename type="first">G</forename><surname>Melnyk</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">D</forename><surname>Coates</surname></persName>
+		</editor>
+		<imprint>
+			<date type="published" when="2017">2017</date>
+			<biblScope unit="page" from="91" to="113" />
+		</imprint>
+		<respStmt>
+			<orgName>U of Calgary P</orgName>
+		</respStmt>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<analytic>
+		<title level="a" type="main">Glas majčine tajne -tajna majčinog glasa: Akustika sjećanja u romanu Mamac Davida Albaharija</title>
+		<author>
+			<persName><forename type="first">Aleksandar</forename><surname>Mijatović</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Dejan</forename><surname>Ðurić</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Književna smotra: Časopis za svjetsku književnost</title>
+		<imprint>
+			<biblScope unit="volume">50</biblScope>
+			<biblScope unit="page" from="85" to="96" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<analytic>
+		<title level="a" type="main">Konstrukcija Narrativnog Identiteta u Romanu Mamac Davida Albaharija</title>
+		<author>
+			<persName><forename type="first">Milosavljević</forename><surname>Milić</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Snežana</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Philologia Mediana</title>
+		<imprint>
+			<biblScope unit="volume">9</biblScope>
+			<biblScope unit="issue">9</biblScope>
+			<biblScope unit="page" from="15" to="20" />
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<analytic>
+		<title level="a" type="main">Are Nation and Exile a Woman? -The Case of David Albahari&apos;s Novel Bait</title>
+		<author>
+			<persName><forename type="first">Milan</forename><surname>Miljković</surname></persName>
+		</author>
+		<idno type="DOI">10.14324/111.2057-2212.036</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Slovo</title>
+		<imprint>
+			<biblScope unit="volume">28</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="39" to="59" />
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<analytic>
+		<title level="a" type="main">The Politics of Representation: Mamac, by David Albahari</title>
+		<author>
+			<persName><forename type="first">Damjana</forename><surname>Mraović</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of the North American Society for Serbian Studies</title>
+		<imprint>
+			<biblScope unit="volume">19</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="35" to="54" />
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+	<note>Serbian Studies</note>
+</biblStruct>
+
+<biblStruct xml:id="b27">
+	<analytic>
+		<title level="a" type="main">Interview with David Albahari</title>
+		<author>
+			<persName><forename type="first">Mraović-O'</forename><surname>Hare</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Damjana</forename></persName>
+		</author>
+		<idno type="DOI">10.1080/00085006.2008.11092578</idno>
+	</analytic>
+	<monogr>
+		<title level="s">Canadian Slavonic Papers/Revue Canadienne des Slavistes</title>
+		<imprint>
+			<biblScope unit="volume">50</biblScope>
+			<biblScope unit="issue">1-2</biblScope>
+			<biblScope unit="page" from="177" to="192" />
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b28">
+	<monogr>
+		<title level="m" type="main">How the Silence Sounded: Writing Trauma in Albanian and Post-Yugoslav Literatures</title>
+		<author>
+			<persName><forename type="first">Genta</forename><surname>Nishku</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2023">2023</date>
+			<publisher>U of Michigan</publisher>
+		</imprint>
+	</monogr>
+	<note>Ph.D. dissertation</note>
+</biblStruct>
+
+<biblStruct xml:id="b29">
+	<monogr>
+		<title level="m" type="main">Writing the Yugoslav Wars. Literature, Postmodernism, and the Ethics of Representation</title>
+		<author>
+			<persName><forename type="first">Dragana</forename><surname>Obradović</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2018">2018</date>
+			<biblScope unit="page" from="100" to="138" />
+		</imprint>
+		<respStmt>
+			<orgName>U of Toronto P</orgName>
+		</respStmt>
+	</monogr>
+	<note>The Search for a Language of the Historical Present</note>
+</biblStruct>
+
+<biblStruct xml:id="b30">
+	<monogr>
+		<title level="m" type="main">Living to Tell About It</title>
+		<author>
+			<persName><forename type="first">James</forename><surname>Phelan</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2005">2005</date>
+			<publisher>Cornell UP</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b31">
+	<monogr>
+		<title level="m" type="main">Somebody Telling Somebody Else. A Rhetorical Poetics of Narrative. The Ohio State UP</title>
+		<imprint>
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b32">
+	<monogr>
+		<title level="m" type="main">The Death of Luigi Trastulli and Other Stories: Form and Meaning in Oral History</title>
+		<author>
+			<persName><forename type="first">Alessandro</forename><surname>Portelli</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1991">1991</date>
+			<publisher>State U of New York P</publisher>
+			<biblScope unit="page" from="49" to="51" />
+		</imprint>
+	</monogr>
+	<note>What Makes Oral History Different</note>
+</biblStruct>
+
+<biblStruct xml:id="b33">
+	<analytic>
+		<title level="a" type="main">Truth in Fiction: A Reexamination of Audiences</title>
+		<author>
+			<persName><forename type="first">Peter</forename><forename type="middle">J</forename><surname>Rabinowitz</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Critical Inquiry</title>
+		<imprint>
+			<biblScope unit="volume">4</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="121" to="141" />
+			<date type="published" when="1977">1977</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b34">
+	<analytic>
+		<title level="a" type="main">Istorija i Trauma u romanima Davida Albaharija</title>
+		<author>
+			<persName><forename type="first">Vladislava</forename><surname>Ribnikar</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Zborminsk matice srpske za književnost i jezik</title>
+		<imprint>
+			<date type="published" when="2006">2006</date>
+			<biblScope unit="volume">54</biblScope>
+			<biblScope unit="page" from="613" to="639" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b35">
+	<monogr>
+		<title level="m" type="main">On Translation. Eileen Brennan Translated by</title>
+		<author>
+			<persName><forename type="first">Paul</forename><surname>Ricoeur</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2007">2007</date>
+			<publisher>Routledge</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b36">
+	<monogr>
+		<title level="m" type="main">Interpretation Theory. Discourse and the Surplus of Meaning</title>
+		<author>
+			<persName><forename type="first">Paul</forename><surname>Ricoeur</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1976">1976</date>
+			<publisher>Texas Christian UP</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b37">
+	<monogr>
+		<title level="m">Hermeneutics and the Human Sciences: Essays on Language, Action, and Interpretation. John B. Thompson Translated by</title>
+		<imprint>
+			<publisher>Cambridge UP</publisher>
+			<date type="published" when="1981">1981</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b38">
+	<monogr>
+		<title level="m" type="main">On Paul Ricoeur: Narrative and Interpretation</title>
+		<editor>David Wood. Taylor and Francis Group</editor>
+		<imprint>
+			<date type="published" when="1992">1992</date>
+			<biblScope unit="page" from="195" to="206" />
+		</imprint>
+	</monogr>
+	<note>Narrative Identity</note>
+</biblStruct>
+
+<biblStruct xml:id="b39">
+	<monogr>
+		<title level="m">Oneself as Another. Kathleen Blamey Translated by. The U of Chicago P</title>
+		<imprint>
+			<date type="published" when="1994">1994</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b40">
+	<analytic>
+		<title level="a" type="main">Questioning Ethics: Contemporary Debates in Continental Philosophy</title>
+	</analytic>
+	<monogr>
+		<title level="m">Memory and Forgetting</title>
+		<editor>
+			<persName><forename type="first">Mark</forename><surname>Dooley</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">Richard</forename><surname>Kearney</surname></persName>
+		</editor>
+		<editor>
+			<persName><surname>Routledge</surname></persName>
+		</editor>
+		<imprint>
+			<date type="published" when="1999">1999</date>
+			<biblScope unit="page" from="12" to="19" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b41">
+	<analytic>
+		<title level="a" type="main">The Rule of Metaphor: The Creation of Meaning in Language</title>
+	</analytic>
+	<monogr>
+		<title level="m">History, Forgetting. Kathleen Blamey and David Pellauer Translated by. The U of Chicago P</title>
+		<imprint>
+			<date type="published" when="2003">2003. 2004</date>
+		</imprint>
+	</monogr>
+	<note>Memory</note>
+</biblStruct>
+
+<biblStruct xml:id="b42">
+	<analytic>
+		<title level="a" type="main">Kathleen McLaughlin and David Pellauer Translated by. U of Chicago P</title>
+	</analytic>
+	<monogr>
+		<title level="m">Ritivoi, Andreea D. Paul Ricoeur: Tradition and Innovation in Rhetorical Theory</title>
+		<imprint>
+			<publisher>State U of New York P</publisher>
+			<date type="published" when="2006">2012. 2006</date>
+			<biblScope unit="volume">1</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b43">
+	<analytic>
+		<title level="a" type="main">Povijest u metafikciji -konfiguracija vremena u prozi Davida Albaharija</title>
+		<author>
+			<persName><forename type="first">Sanja</forename><surname>Šakić</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">University of Zagreb, Faculty of Humanities and Social Sciences</title>
+		<imprint>
+			<date type="published" when="2022">2022</date>
+		</imprint>
+	</monogr>
+	<note>Ph.D. Dissertation</note>
+</biblStruct>
+
+<biblStruct xml:id="b44">
+	<monogr>
+		<title level="m" type="main">The Rhetoricity of Philosophy</title>
+		<author>
+			<persName><forename type="first">Blake</forename><surname>Scott</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2024">2024</date>
+			<publisher>Routledge</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b45">
+	<analytic>
+		<title level="a" type="main">Paul Ricoeur on Appropriation: The Way to Rediscover the Role of Subjectivity in Understanding</title>
+		<author>
+			<persName><forename type="first">Ruby</forename><forename type="middle">S</forename><surname>Suazon</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">USC Graduate Journal</title>
+		<imprint>
+			<biblScope unit="volume">16</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="53" to="63" />
+			<date type="published" when="2000">2000</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b46">
+	<analytic>
+		<title level="a" type="main">Historical Injustice and Reparation: Justifying Claims of Descendants</title>
+		<author>
+			<persName><forename type="first">Janna</forename><surname>Thompson</surname></persName>
+		</author>
+		<idno type="DOI">10.1086/339139</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Ethics</title>
+		<imprint>
+			<biblScope unit="volume">112</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="114" to="135" />
+			<date type="published" when="2001">2001</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

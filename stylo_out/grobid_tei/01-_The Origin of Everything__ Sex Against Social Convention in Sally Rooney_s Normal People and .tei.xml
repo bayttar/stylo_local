@@ -1,0 +1,705 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">&quot;The Origin of Everything&quot;: Sex Against Social Convention in Sally Rooney&apos;s Normal People and Intermezzo</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author role="corresp">
+							<persName><forename type="first">Genevieve</forename><surname>Couvret</surname></persName>
+							<email>genevieve.couvret@law.ox.ac.uk</email>
+							<affiliation key="aff0">
+								<orgName type="department">Faculty of Law</orgName>
+								<orgName type="institution">University of Oxford</orgName>
+								<address>
+									<settlement>Oxford</settlement>
+									<country key="GB">United Kingdom</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff1">
+								<orgName type="department">Faculty of Law</orgName>
+								<orgName type="institution" key="instit1">University of Oxford</orgName>
+								<orgName type="institution" key="instit2">Brasenose College</orgName>
+								<address>
+									<addrLine>Radcliffe Square</addrLine>
+									<postCode>OX1 4AJ</postCode>
+									<settlement>Oxford</settlement>
+									<country key="GB">United Kingdom</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">&quot;The Origin of Everything&quot;: Sex Against Social Convention in Sally Rooney&apos;s Normal People and Intermezzo</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date/>
+						</imprint>
+					</monogr>
+					<idno type="MD5">046600FB58F3ADB100C7D08C07CEDF0F</idno>
+					<idno type="DOI">10.1080/00111619.2026.2636850</idno>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.0" ident="GROBID" when="2026-02-25T19:51+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>This article explores the representation of sex in Sally Rooney's Normal People and Intermezzo as an affective, embodied form of intersubjective communication with the power to reshape, rather than be shaped by, social conditions including class, gender, and age. Rooney's depiction of intimacy thereby destabilizes normative conceptions of relationality and/in heterosexual relationships, both challenging and incorporating the presence of patriarchal structures and contemporary heteropessimism. This article also addresses frequent criticisms of both novels which have long vexed feminist literary theory -in particular, the sexualization of masochism and unrealistic picture of heterosexual relationships.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Introduction</head><p>In an essay in the Paris Review, Sally Rooney historicizes the English language novel as having always been concerned with the intersection between "gender, status, and sexual morality," such themes reaching synthesis in the nineteenth-century works of Jane Austen. Under "ordinary social circumstances," marriage is the only permissible expression of erotic desire, so the possibility of marriage becomes "the tension that animates [Austen's] novels." Rooney thus claims that, at least since Austen, the stakes of the English language novel are love and marriage as driven by erotic desire. The falling away of repressive sexual morality in the early twentieth century partially destabilized this dramatic context and put pressure on a form traditionally concerned with the inexpressibility of sexual impulses, with the dynamics and norms that overlay the unsayable. However, Rooney argues that this substantive tension between norms of acceptability and an unspoken undercurrent of erotic desire remains definitive to the novel.</p><p>Taking this brief history as its point of departure, this article explores the staging of heterosexual sex in Rooney's Normal People and Intermezzo. I argue that there has been a paradigmatic shift in normative sexual discourse, as reflected in Rooney's work, from the traditional conception of sex as a dangerous act shaped by closed, patriarchal structures toward its reconfiguration, through a feminist lens, as an embodied form of intersubjective communication imbued with the power to overcome social conventions. As depicted in Normal People and Intermezzo, social conditions such as gender and class difference which presage the downfall of romantic relationships are mediated and ultimately overcome through the shared sexual act.</p><p>For her rendering of unconventional (albeit predominantly white and heterosexual) relationship dynamics in contemporary Irish society, Rooney, a self-professed Marxist, has earned immense popularity as "the First Great Millennial Author" <ref type="bibr">(Barry)</ref>. Normal People was longlisted for the Man Booker Prize and Women's Prize for Fiction, adapted into a popular television series, and has received significant critical and scholarly attention for its representations of masculinity and female sexuality. Intermezzo, by contrast, has yet to be the subject of any scholarship owing to its release in late 2024. The gap in intimacy studies regarding Rooney's work is particularly puzzling, and disproportionate to the significant attention she otherwise receives, given the prevalence of intimate scenes in her books.</p><p>Through my close reading of intimate scenes, this article can be considered a contribution to intimacy studies, which is inherently transdisciplinary in approach (Cooke 4). 1 My impetus for paying close attention to representations of heterosex in literature emerges out of the feminist tradition. Feminists were among the first to recognize that the sexual encounter is also a normative, gendered space <ref type="bibr">(Rubin 145)</ref> and to offer a political critique of desire as shaped by patriarchal oppression, particularly in the context of heterosexual sex <ref type="bibr">(Srinivasan 76)</ref>. However, although the recognition of the sexed body as a cultural, historical, (and literary) product was a central and early contribution of feminist thought, I acknowledge that feminism is not the privileged site of a theory of sexuality <ref type="bibr">(Rubin 178)</ref>. I make use of several disciplinary approaches that address the ontological status of the sexed body and its relationship to the cultural order and normative sexual behavior.</p><p>The centrality of romantic love in popular literature written by women has been a heretofore "obsessive" focus of feminist literary critics and also incidentally complicates much discussion of Rooney <ref type="bibr">(Felski 41)</ref>. In imagining the possibility of sustained relationships under seemingly unsustainable conditions of late capitalism and heteropessimism, many feminist critics have complained that Rooney's work is too optimistic and utopian regarding heterosexual relationships (Allardice). This has long been a concern of literary and critical theorists -since at least 1998, Lauren Berlant has been interested in how utopian scenes of intimacy perpetuate "normative practices, fantasies, institutions, and ideologies" ("Intimacy", 282). The specific charge against Rooney is that she offers a fictional balm to contemporary disillusion with heterosexual relationships that is more akin to romance novels and pulp fiction than of serious literary merit. In this vein, Heimers queries whether Rooney's novels accurately fall within the genre of "chick lit," a somewhat pejorative term which indicates the merging or commodification of female identity and empowerment with consumer culture (299). I disagreethis explains my focus on representations of sex. Notwithstanding the commercial success of these novels, the language and centrality of sexuality throughout is neither consumerist nor necessarily empowering. It is deeply personal, at times uncomfortable, and often contradictory. This is what makes it radical -even, or especially, when it is bound to the heterosexual frame. Sexual desire is premised on and expresses the very precarity and constructedness of our relationships, including constructions of gender. This is why, according to Rooney, the uncertainty endemic to heterosexual relationships about how to read one another's desires, especially between the lines of social convention, is the very basis of the English-language novel since Austen. There are limits to our minds, to our capacities to read one another, and to the language and forms to which we put our minds to use, like love, sex, and the novel -but there is much to be gained from the attempt.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Part I</head><p>The relationships in Normal People and Intermezzo are tales of dependence on the other, on the basis that right kind of (sexual) relationship has the power to dim the constellation of social forces that otherwise keep us worlds apart. In this part, I examine how, in Rooney's depictions of sex, affective, physical touch engenders a form of understanding beyond language and, in turn, enables Rooney's lovers to overcome socially institutionalized barriers to their relationships including class, age, and gendered misunderstanding. In being primarily concerned with embodied sexual experience as a destabilizing act, I draw on the phenomenological approach to sexuality established by Merleau-Ponty in Phenomenology of Perception. Whilst profound, the disorganizing impact of sex is also portrayed as entirely ordinary -or, indeed, "normal" in Rooney's work. The incorporation of sex into her characters' everyday lives, akin to a scene of dialogue, directly coincides with Lauren Berlant's notion of the de-dramatization of sex in On The Inconvenience of Other People, and her collaboration with Lee Edelman in Sex, or the Unbearable. A central focus of this article is to consider how sexuality organizes our ways of being in relation to each other, specifically through the gendered frame. Berlant and Edelman have contributed significantly to the reconceptualization of sex as "a site for experiencing the intensified encounter with what disorganises accustomed ways of being" (11, my emphasis). The representation of sex as a space in which to recreate or destabilize relational norms of the social world is another way of understanding the central claim in this part.</p><p>The established character of sex in Western culture is as a "dangerous, destructive, negative force" (Rubin 148). In the nineteenth century, sexuality emerged as a historically specific set of social practices which engendered social organization <ref type="bibr">(Rubin 146)</ref>. Conventional sexuality became, and remains, a means of sustaining the bourgeois economy as premised on the patriarchal family, the corollary of which is the practice of heterosex for the purposes of reproduction <ref type="bibr">(Berlant,</ref><ref type="bibr">Inconvenience 31,</ref><ref type="bibr">65 and Grosz 155)</ref>. This is "sex without optimism" -the notion that sex as a means of connection is a nonproductive and futile act -which instills normativity and the reproductive paradigm in a patriarchal society <ref type="bibr">(Berlant and Edelman 11)</ref>. The formal attempt made by Rooney attempts to rupture this paradigm, restructuring the institutions, dramas, and imaginaries, including those of gender, that sustain it. At the heart of Normal People and Intermezzo is the conceit that, despite material realities exerting themselves on a relationship from the outside -the death of a father, class distinctions, age gaps, and gendered expectations -erotic connection constitutes, and engenders, a form of understanding that can hold those material realities at bay, or even push back.</p><p>In Normal People, Connell is the son of Marianne's family cleaner or, as one of his friends teasingly puts it, "her housemaid" (Rooney 23). This explicit class distinction, in which "[Marianne is] from a good family and Connell is from a bad one" (32), is inverted when it comes to social capital. Connell is a popular athlete and Marianne is a friendless object of contempt; "some people thought she was the ugliest girl in school" (24). The "destabilising," "terrifying," "bewildering" and "destructive" power which Marianne thinks she could wield if people found out about their secret sexual relationship reflects that it is not the sexual act itself but its exposure to external judgment which gives it its destructive element (31). When Connell doesn't invite Marianne to the school dance she leaves school for good. They reunite at Trinity College in Dublin, where Marianne's superior class status is now congruent with her social standing. The remainder of the novel follows their on-off relationship over their college years, punctuated by a repeated failure to understand one another due to the implicit operation of class and gendered structures: Marianne feels used as a sexual object and repeatedly enters into relationships with men who wish to dominate her; Connell doesn't know how to ask Marianne if he can live with her over the summer because he can't make rent; Connell feels excluded by Marianne's social circle; Marianne grapples with family violence. Yet these failures of understanding are in constant tension with the mutuality, connection, and belonging which they experience when physically intimate, which underscores and revives their long-term connection and ability to change one another for the better.</p><p>In Intermezzo, thirty-two-year-old junior barrister Peter is in a love triangle with twenty-two-yearold student Naomi, "legally homeless, and borderline what you might call a sex worker" (Rooney 74) and his ex-girlfriend Sylvia who is unable to have sex "in any kind of normal way, or not without a lot of pain" after being in an accident (131). Peter's younger brother, Ivan, is twenty-two years old when he meets the older Margaret at an exhibition chess match in the countryside. According to Pulitzer Prize winning critic Andrea Long Chu, in both novels, the characters "feel the pressures of conventionality nowhere more acutely than in their sex lives." Whilst Peter considers his own "ongoing sexual and also quietly financial relationship [. . .] with [Naomi] is, from the legal-philosophical, sociopolitical points of view, a thing of nothing" (Rooney 15), failing to fit his feelings into any conceptual framework, he also chides Ivan's relationship on the basis that "[Margaret] is nearly forty. She's been married already. You're twenty-two, you're hardly out of college, you don't even have a job" (167). And yet, they want each other, "with a terrible desire that threatened to destroy everything it touched. Their friendships, families, both their lives" (391). Rooney is precisely interested in what relationships feel like in a cultural moment where certainties about their forms have deteriorated ("Sally Rooney on Normal People" 00:17:00). As a result, in her novels, sex is more capacious, shot through with possibilities of breakdown and renewal, not only mediating conventions of the outside world, but challenging them.</p><p>For Rooney, a character does not have any intrinsic value; what gives a character its power is its relation to others <ref type="bibr">(Emre)</ref>. It is the relationship, rather than the individual, that is the unit of social life ("Sally Rooney on Normal People" 00:10:30). Any change experienced by an individual is the product of being in contact with another person -as Marianne observes, "if she was different with Connell, that difference was not happening inside herself, in her personhood, but in between them, in the dynamic" (Rooney, Normal People 14). Merleau-Ponty's phenomenological stance toward the sexed body is also inherently relational. He describes sexuality as one's "manner of being toward the world" that expresses "the subject's general power of adhering to different milieus, of determining himself through different experiences, and of acquiring structures of behavior" (161). Sex between characters in Rooney's novels can thus be seen as the conflagration and reconfiguration of social relations within a particular milieu, giving life and the people that populate it a new kind of value outside of what they mean to each other in terms of capital, whether it be social capital or financial status. This "value" is something more inchoate and affective -a wordless form of understanding, beyond language, evoked through physical touch, which has the power to shape how we behave and exist in relation to others. A renewed sense of value and affectivity in sexual relations matters because contemporary sexual culture, and indeed contemporary life, is deeply afflicted with a consumerist, mediatized, and instrumentalist approach to romantic and sexual relationships. 2  The phenomenological role of the body as a site of understanding is confronted in Rooney's explicit traversal of the Cartesian mind/body problem. At the beginning of Intermezzo, Ivan considers "the body a fundamentally primitive object" that is "heavy, depressingly specific, making no sense at all" compared with the "supreme rationality" of the human mind (Rooney 25-26). His preference for the rational, autonomous, thinking mind compared with the irrational, emotional, feeling body maps onto a hegemonic liberal dichotomy between male and female subjects <ref type="bibr">(Grosz 4</ref>). This dichotomy dissolves through his relationship with Margaret, as he experiences the unconscious, instinctive nature of physical touch:</p><p>It has occurred to him that perhaps the mind and body are after all one, together, a single being [. . .] when he and Margaret are together, for instance, the intelligence that animates instinctively his gestures, touching, is that not the same intelligence that suggests to him the move that will later trap the knight? It is the same, himself, his own intelligence, his personhood (160).</p><p>Ivan and Margaret share a "deep animal contentment that goes beyond words," the word "animal" naturalizing their connection beyond human constructions of gender, class, and normality. These "total and perfect [. . .] ways of knowing one another passing out beyond language" exclusively arise in the sexual scene, intimating that sex itself, as an affective experience, has the capacity to engender understanding between people despite gender difference, which is unremarked upon (244). The wordlessness of the exchange is important; Berlant suggests that intimacy is interfered with by "metadiscourse," by talking about the relationship itself, and can only arise when one can take for granted feelings of flow, calm, and recognition <ref type="bibr">(Berlant,</ref>. Hence true intimacy is accessible for Rooney's characters through the sexed body, rather than the body being a site of confusion, mystery, and error.</p><p>Where sexual contact is instrumentalised, informed, and circumscribed by social institutions that appeal to knowledge and continuity, such as the preservation of the patriarchal family form, it is stripped of its transcendent potential. Berlant and Edelman have also described sex as "experiencing corporeally, and in the orbit of the libidinal, the shock of discontinuity and the encounter with nonknowledge" (4). Rooney subverts constructions of the sex-act as the attainment of a fixed end toward knowledge of the other and instead situates her characters, their desires, acculturation, and genders in a diachrony, enabling the sex-act to incorporate multiple contradictory desires and ambivalences that challenge its conception as a purely functional act. Rather than experiencing sex as a self-directed, goal-oriented exercise in masculinity, Connell in Normal People experiences physical touch with an almost unfamiliar and unconscious level of ease when he is with Marianne: "Connell feels certain about what he's doing, but it's a blank certainty, as if he's blankly performed a memorized task" (Rooney 180). Both Ivan and Connell are deeply wary, highly sensitive, and experience similar uncertainty around their own relationship to sexual pleasure as the female characters. Post-feminism is often marked by such "non-heroic" constructions of masculinity as passive and depressed (Gege Yang 845), reflecting a modern male subject who is unable to achieve "ontological security by recourse to traditional values associated with an idealized type of heterosexual hegemonic masculinity" (Rumens 250). 3 For example, Connell reports finding his previous sexual experiences "so stressful as to be largely unpleasant, leading him to suspect that there's something wrong with him" (Rooney 5). He relives "excruciating acts of tenderness, performed in gigantic pantomime" (21), consciously aware of the performative aspect of sexuality typically reserved for women under the male gaze. Equally, Ivan's only prior sexual experience occasioned "almost no pleasure at all, just a lot of awkwardness and bad feeling" (Rooney, Intermezzo 111).</p><p>Importantly, sexual confidence is only unlocked in Ivan and Connell in relation to a particular person. Rooney thereby draws a clear nexus between erotic physical sensation and shared understanding, often conveyed by a sense of privacy between characters. For example, Connell experiences "the intensity of the privacy between them" as "very severe, pressing in on him with an almost physical pressure on his face and body" (Normal People 7). Similarly, "their secret weighed inside [Marianne's] body pleasurably, pressing down on her pelvic bone when she moved" (17). The rupture of the binary between the mind and body intimates new possibilities for heterosexual desire, which makes sense in its own way within a particular dynamic even in conflict with rational considerations like age, selfconfidence, masculinity, and social status. Rather, shared physical desire breaks with rational thought as it has been constructed and engenders a higher kind of affective knowledge of the other.</p><p>Despite invocations of life, death, and its worldmaking potential, sex in Intermezzo is also portrayed as completely ordinary. Rooney neutralizes the drama of sex through realistic descriptions and its frequent recurrence in the plot, often occurring every time romantic partners interact. Indeed, Ivan is described as "sweating a lot" at the same time as experiencing "strong, powerful feelings of happiness," sensing simultaneously that "it could all be very ordinary" and that this could be what makes "life worth living" (Rooney 52). This is consistent with Merleau-Ponty's phenomenological perspective in which sexuality is "continuously present in human life as an atmosphere" (171) and, thus understood, is "coextensive with life" itself" (172). By depicting sex as entirely ordinary, Rooney empties it of its destructive character, whilst simultaneously installing it with profound meaning: "This, enclosed in ordinary existence, the desire from which all human life derived, the origin of everything" (Intermezzo 392). The impetus to transcend sexuality fades away if we conceive of ourselves as submerged in sexuality not as a form of institutional power but as a means to physical existence which is, in turn, simply the experience of being connected to other people. Whilst sexuality itself cannot be transcended, central as it is to all lived experience, this also means that it is never closed.</p><p>This emphasis on affectivity and mundanity manifests at the level of sentence in Rooney's marked writing style. Rooney's use of language can itself be described as "intimate," which has "at its root [. . .] the quality of eloquence and brevity" <ref type="bibr">(Berlant,</ref><ref type="bibr">"Intimacy" 281)</ref>. Most notably, Rooney conveys the immediacy of her characters' subjectivity through use of the present tense and lack of quotation marks. The sentence structure mimics an internal thought structure, replicating the act of perception, often of mundane details, as in the second sentence of Normal People: "She's still wearing her school uniform, but she's taken off the sweater, so it's just the blouse and the skirt, and she has no shoes on, only tights" (1). The intrusion of an existential thought from outside the present moment and insertion into a random point in a paragraph, or sexual scene, reflects how consciousness operates -"[Ivan] touches her hip with the palm of his hand. Despite everything. Death, nothingness" (Intermezzo 77). Frequently throughout Intermezzo, thoughts of life flow inexorably from thoughts of sex; "The story of human life. All of their ancestors, his, and hers also. Life itself, the passing mystery. Very easily in the end he moves inside her" (51). This contributes to the de-dramatization of sexual events as part of the overall experience of consciousness, rather than constituting a singular, distinct, all-consuming moment. This de-dramatization is important because the corollary of sex negativity, and suppression of sexuality in society, is what Rubin denotes "the fallacy of misplaced scale" in which "sexual acts are burdened with an excess of significance" or, put simply, taken too seriously (149). This fallacy perpetuates a hierarchy of sexual acts, with marital, monogamous, reproductive sexuality at the top <ref type="bibr">(Rubin 151)</ref>. Rooney subtly disrupts this hierarchy by rendering sexual relationships that would traditionally appear suspect or abnormal as ordinary, relatable, and part of the everyday experience of conscious life.</p><p>Intermezzo ultimately resolves in an "arrangement" between Peter, Sylvia, and Naomi in which he continues to be in a relationship with them both (Rooney 418). His simultaneous love for Naomi and Sylvia, Naomi's relative youth, and Sylvia's condition, precipitate a sense of total structural collapse in his world. After touching Sylvia again after many years, with Naomi waiting back at his apartment, Peter's internal monologue disintegrates, as intimated by the persistent, circumlocutory use of multiple clauses and fragmentary sentences without subject or preposition:</p><p>How capable he has been of holding in his mind with no apparent struggle such contradictory beliefs and feelings [. . .] everything lethally intermixed, everything breaching its boundaries, nothing staying in its right place. She, the other, himself. Even Christine [his mother], Ivan, this married girlfriend of his. Their father: from beyond the grave. Conceptual collapse of one thing into another, all things into one (287).</p><p>Peter's conflicting sexual feelings clearly destabilize the internalized mental boundaries and assigned roles of the people in his life. In this way, sex "stages as acutely as anything does the problem of how one's object world and the attachment habits that keep it going, while maintaining attachment to what else social relations can do" <ref type="bibr">(Berlant,</ref><ref type="bibr">Inconvenience 43)</ref>. Similarly, in being with Ivan, Margaret concludes that she has come to "hold too closely [. . .] the respect of [her] family, the admiration of [her] colleagues, friends" (Rooney 304) and that Ivan's youth and grief were "solid sensible ideas, powerful enough for the surface of daily life, but not powerful enough for the hidden life of desire shared between two people" (118). Peter and Margaret's realizations and pull toward desire notwithstanding the risk of "social death" (418) are an expression of Berlant's claim that sex can be linked to political revolution only when situated in a relational paradigm (Inconvenience 33). It may be a minor revolution -one man ends up with two girlfriends, his younger brother in a twelve-year age gap relationship with an older woman, dating across social classes, falling in love amidst the wreck of grief and the risk of social judgment -but such things fray the familiar fabric of social life, and the nature of the attachments that constitute it, as we know it.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Part II</head><p>What of gender, then, if sex is a site of opening in supposedly closed social structures? In Normal People, a significant aspect of how Marianne relates to her sexuality is through a masochistic lens. The elision between a feminist consciousness of sexual autonomy and a false consciousness which plays into a system of female subordination, is a renewed area of feminist critique <ref type="bibr">(Srinivasan 49)</ref>. The contemporary reluctance to make universal prescriptions underscores the complicated critical response to Marianne's pathology -a regressive manifestation of poor self-esteem and neglect or an acceptable form of surrender to the one you love?</p><p>These questions have renewed political purchase in post-feminist literature. Variously described as a type of feminism following the second wave, as a regressive anti-feminist political stance, or as a theoretical position, there is little scholarly agreement on what precisely defines post-feminism <ref type="bibr">(Gill 147)</ref>. Rosalind Gill argues that it is best understood as a "distinctive sensibility" closely tied to contemporary neoliberalism and characterized by the following recurrent ideas: a preoccupation with the body as a window to interior life (149-50); the sexualization of culture in which power operates from a self-policing, subjective position rather than an external, objective male gaze (150-52); the reprivatization of issues that were once politicized, like sexual desire (153); and reassertion of sexual difference and the claim that men and women do not understand each other (158). "Chick lit" is steeped in these ideas; Heimers notes that the "aggrandisement of love as an ersatz religion" in Rooney's novels, which privatizes gendered issues, effaces structural concerns, and invests the (male) lover with powers of redemption is consistent with aspects of post-feminist ideology (298). In relation to the renewed problematization of misunderstanding in heterosexual relationships, Asa Seresin also defines "this mode of feeling [. . .] particularly palpable in the present" and "performative disaffiliations with heterosexuality" as heteropessimism, a "hopelessness about straight experience" which contributes to a disillusion with sexual culture that is prohibitive of social change. 4  In her representations of heterosexual miscommunication, a daunted male sexuality, a female sexuality that desires domination, and the salience of the body to interior experience and selfknowledge, Rooney flirts with each of these post-feminist or heteropessimist ideas, brushing up against them, neither rejecting them outright nor embracing them fully. This ambivalence or prevarication offers hints of resistance -whilst our relationships are inextricably bound to the norms of the social world, physical connection discloses new possibilities and forms of knowledge. Ultimately, Rooney's characters surrender to their desires for one another despite material conditions that create difficulties for their relationships, such as a female sexuality shaped by a desire for male ownership, or external judgments about the appropriateness of certain pairings. The possibility of transcending patriarchal structures through sex is ultimately forgone for something more tangled, profound, and resistant to contemporary heteropessimism: the ability for a man and woman to share in the struggle.</p><p>On the surface, Normal People depicts a female desire for masochism as the straightforward internalization of Marianne's victim status given a history of family violence from her father and brother. Masochistic pleasure is often linked to the normalizing aims of sexuality as a form of power, wherein subjugation of the female body is internalized and eroticized by the oppressed female subject. This accords with the radical second-wave view that sex for women, more broadly, is epistemologically indistinguishable from male violence under conditions of male domination (MacKinnon 157). However, many contemporary scholars, whilst advocating for an interrogation of the ethics of one's sexual desires (see <ref type="bibr">Srinivasan xiii)</ref>, consider it reductive to posit that ethical sex is entirely and necessarily stripped of power relations. It would be a flawed, reductive reading of Normal People to suggest that it merely reinforces conventional heterosexual power dynamics in its treatment of female sexuality.</p><p>In her work on female masochism, Caplan states that "sometimes it's not even self-esteem that is gained through endurance of pain or misery, it is something even more fundamental -the feeling that one exists" (88). Such a dynamic interplays with Rooney's relational philosophy. Throughout Normal People, Marianne's sensitivity and poor self-esteem, having been bullied and abused in her childhood and youth, manifests in a desire for domination, which she reads as an expression of reciprocity and care: "I just like to know that I would degrade myself for someone if they wanted me to" (Rooney 132). Enacting this with men whom she does not love fosters a sense of alienation from her own body, which she relates to as a dead, used, unwanted thing, a "carcass" (113) or "piece of litter" <ref type="bibr">(191)</ref>. Marianne maps her own desires onto an ethical framework, considering that "maybe [she] want[s] to be treated badly [. . .] sometimes I think I deserve bad things because I'm a bad person" (113) compared to her view of Connell who "probably never [. . .] thought about inflicting pain on someone for sexual purposes" because "he's a good person" (149). When Marianne asks Connell to hit her during sex, he says no (237).</p><p>Under the conquest model, the norms of domination and subordination are not only naturalized, but also eroticized as part of our understanding of heterosexual sexual pleasure (MacKinnon 157). Connell does not eroticize the traditional conquest dynamic or male will to subordination of a female partner. Rather, the connection between his own passivity, a latent violence, and his sexual drive bewilders and terrifies him: "He has a terrible sense all of a sudden that he could hit her face, very hard even, and she would just sit there and let him. The idea frightens him so badly that he pulls his chair back and stands up. His hands are shaking" (106). In her relationships with Jamie and Lukas, Marianne pursues recognition of herself through sexual game-playing under circumstances where she does not feel "visible to other people" or that her life is "real" <ref type="bibr">(191)</ref>. But when she has an embodied sexual experience with Connell coupled with profound, mutual feelings of love, she authentically embodies submissiveness rather than acting out a fake role: "I didn't need to play any games with you [. . .] it was real. With Jamie it's like I'm acting a part, I just pretend to feel that way, like I'm in his power. But with you that really was the dynamic, I actually had those feelings, I would have done anything you wanted me to" (134). Applying Caplan's logic of masochism, Marianne sexually submits to partners that do not truly understand her on an emotional level because her emotional damage becomes exteriorized, enabling her to feel seen. This does not fully account for the gendered nature of female submissiveness, but it does enlighten our understanding of it. In her review of Intermezzo, Chu offers a useful lens for understanding this dynamic. She argues that Rooney is not against kink per se, but that "[kink] makes no attempt to conceal the formal conventions that structure it -unlike vanilla sex, whose tropes tend to be partially submerged in the fantasy of something natural, normal, or true to life." In her explanation to Connell of how she did not need to feign submission with him during so-called "vanilla" sex because he actually did incite those feelings in her, and by drawing a comparison in Marianne's relationship to kink and feelings of degradation with Jamie and Lukas, Rooney illuminates how naturalised/normalized gendered power structures can also similarly structure "vanilla" or healthy sex between men and women. However, the persistence and internalization of gendered norms does not rob sex of its transcendent possibilities when had with the right person in the right way.</p><p>Feminist literary criticism has long been vexed by the question of how and whether women can write about physical intimacy with men in a feminist way in circumstances where the female subject is submerged in patriarchal oppression (see, for example, Felski 12 and Segal 77-79). Across media and politics, expressions of female erotic desire for men suffer criticism in a feminist canon that recasts such desires as a reinstatement of the patriarchy (Nelson 95). For Barry, Rooney exposes "conventional and compulsory heterosexuality itself as a gimmick" by resolving upon "conventional heterosexuality as a saving inoculation from structural oppression." Sianne Ngai explains that "when we say a work of art is gimmicky, we mean we see through it -that there is an uninvited transparency about how it is producing what we take to be its intended effect" (83). In this way, as a commercial product widely popular with young, white, heterosexual women, Rooney's novels can be viewed as transparently selling an illusory version of heterosexuality that simply makes us feel better. However, the portrayal of sex as a site of radical convergence rather than disjuncture between men and womenis no gimmick. There is a difference between being sold a lie and buying into something hopeful, and it is a shallow view of patriarchal oppression that women can simply reprogram their consciousness through mere political and self-awareness. Perhaps, rather, we must be able to work within the pervasive imaginaries that structure our personal, sexual lives <ref type="bibr">(Bartky 331)</ref>.</p><p>Maggie Nelson advocates for a kind of resistance that is entwined with power, arguing that systems of oppression do not foreclose freedom (78-79). It is, according to Nelson, a feminist act to walk this razor's edge and embrace ambivalence and confront one's own vulnerability outside the frame of sin, violation, and trauma (85-86). Rooney implicitly embraces this approach in Normal People, which resolves in a dynamic in which "[Connell] knew how to give <ref type="bibr">[Marianne]</ref> what she wanted, to leave her open, weak, powerless, sometimes crying. He understood it wasn't necessary to hurt her: he could let her submit willingly, without violence. This all seemed to happen on the deepest possible level of her personality" (258). Indeed, Bartky argues that such desires for masochism may be a crucial and necessary aspect of a person's personality, inextricably linked to the way in which they have been formed (333). Hence, by retaining and sanctioning Marianne's feelings of powerlessness in a (heterosexual) sexual dynamic, an explicit distinction is made between inciting feelings of powerlessness and actually inflicting violence. Smith similarly characterizes this resolution as a radical expression of vulnerability and care, "the ecstasy of communion" which is separated by only a fine line from "violent subjugation" (140). Of course, this powerlessness has something to do with being female -a cliff's edge from which Rooney has not yet been able to take flight. But in depicting the complexities of a female sexuality that is self-conscious of how it is mired in gendered structures, she stands at the precipice of a post-feminist literature, "open to the inconvenience of sexual politics" as a way to interrogate the ethics of sexual desire rather than simply reinforce them <ref type="bibr">(Berlant,</ref><ref type="bibr">Inconvenience 32)</ref>.</p><p>In Intermezzo, the characterization of Naomi's desire for submission is woven into a larger tapestry that depicts the embrace of life and how it makes us necessarily dependent on other people. Naomi also adopts a slightly submissive dynamic when having sex with Peter -she enjoys telling him that he can do whatever he wants to her on the basis that she "feel[s] really safe" (Rooney 247). This is in circumstances where trust in others has let her down. Her trust in and surrender to Peter, then, is a kind of resistance: "Men, and even other women, and systems, bureaucracies, laws, intent it seems on breaking her, forcing her to accept misery. And here she is laughing, drinking sugary coffee, begging to be fucked" (148). Given Naomi does feel in Peter's thrall, physically enacting her feelings of submission through the sexual act can also be read as an embrace of lack of pretense or performativity. In this way, Naomi's sexual and emotional selves are deeply entwined, and she has sex in the same way that she gives herself over fully to life: "Hears her dazed voice under him mumbling. Oh, it's so nice. Her irrepressible love of life, he thinks. Pulling fried chicken apart with oily fingers" (147). Peter's memories of Naomi eating intrude into his consciousness during the sexual scene, which betrays how true intimacy makes accessible the fluidity and continuity of the self beneath a separate public and private persona, and tears down the curtain that separates a performed sexuality from a truthful version of oneself.</p><p>The drama of the sexual stage in Normal People and Intermezzo thus owes neither to the tragedy of social convention nor the progression toward happily ever after, but rather to how it makes us vulnerable to each other. In this way, Rooney rejects individualism, the prevailing convention of the neoliberal age (Alférez-Mendía 104). In her own words, her depiction of romantic and sexual relationships "feels wrong" and is "radical" because it "runs counter to all our assumptions about how life should be lived now, that we should always be looking after our own needs and policing our own boundaries" <ref type="bibr">(Cullingham)</ref>. Instead of transcending the difficulties of a life lived under capitalism or patriarchy, Rooney's characters surrender to them -because to want someone is personal, is universal, is to tether yourself to the world in all its complexity. As Merleau-Ponty remarks, arguing that sexuality cannot be transcended insofar as one cannot escape the physical world, "there is no explanation of sexuality that reduces it to something other than itself, for it is already something other than itself; it is already, so to speak, our entire being [. . .] sexuality is dramatic because we engage our whole personal life therein" (174).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Conclusion</head><p>Owing much to Rooney's success, contemporary literary fiction is presently dominated by femaleauthored novels about young women's experiences of a self-destructive sexuality, alienation, and precarity. 5 This, in itself, shows that there is still a long way to go for women in sex, and in love. In part, this is because our intimate fantasies persistently tend toward hegemonic practices -of heterosexuality, permanence, monogamy <ref type="bibr">(Berlant,</ref><ref type="bibr">"Intimacy" 284)</ref>. Further attention can and should be paid to extending the literary and scholarly canon beyond heterosexual relationships and the love plot in order to make a wider range of sexual subjects legible in our society. What kind of future can be imagined if sexuality is not bound to narrative or the stabilization of institutions? Rooney's work is only a small bend toward that path.</p><p>Nevertheless, Rooney does not merely portray the yoke of inner desires and outward conditions but is interested in subverting the force of the latter, with sex as the subversive act. In Intermezzo, Margaret's sexual relationship with Ivan gives her the sensation that life has "slipped free of its netting," and the subsequent realization that "the netting itself had all along been an illusion, nothing real. An idea, which could not contain or describe the borderless all-enveloping reality of life" which, when forced into contact "with her ordinary existence only seems to reveal how constricting, how misshapen her ideas of life had been before" (178-80). Intermezzo concludes with Peter imagining spending Christmas with Ivan and Margaret, amid the "Clatter of saucepans, steam from the kettle. Even to think about it is to live" (437). Is the kettle steaming in his imagination, or in the present? This lack of separation between what is thought, imagined, or fictional, and what is real, intimates that Rooney is not concerned with a clear division between inner and outer worlds but rather how we move between them -in thought, sex, and in life -in order to expand our possibilities for being in the world. This begins and ends with what we are capable of imagining our relationships to look like. </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Notes</head></div><figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_0"><head></head><label></label><figDesc>Scenes of Intimacy: Reading, Writing and Theorizing Contemporary Literature, edited by Jennifer Cooke, strives to fill a broader gap in intimacy studies and addresses the role of contemporary literature in representations of intimacy. It was published three years before the release of Rooney's first novel, Conversations with Friends (2017). 2. For an account of how our romantic lives are informed by the consumption of media and the effects of capitalism and consumer culture, see The End of Love: A Sociology of Negative Relations by Eva Illouz. 3. The post-feminist gender dynamics and alternative masculinities displayed by Connell's vulnerability, including his mental health struggles, have been the subject of more detailed analysis by Kubra Özermiş and Elvira Aguilera García in the Routledge Companion to Sally Rooney. 4. Heteropessimism as a theoretical concept has since been the subject of limited academic application to objects that portray heterosexuality, and women's thrall to male sexual power, as detrimental to their lives. As an example, see Billy Holzberg and Aura Lehtonen's analysis of the comedy television series Fleabag, "The affective life of heterosexuality: heteropessimism and postfeminism in Fleabag." 5. Some examples include Acts of Service by Lillian Fishman, Luster by Raven Leilani, Exciting Times by Naoise Dolan, Milk Fed by Melissa Broder and Acts of Desperation by Megan Nolan.</figDesc><table /><note><p>1.</p></note></figure>
+		</body>
+		<back>
+
+			<div type="acknowledgement">
+<div><head>Acknowledgments</head><p>This research was completed whilst the author was pursuing a <rs type="institution">Master of Arts in Literary Studies (Comparative Literature) in the Faculty of Humanities at the University of Amsterdam</rs>.</p></div>
+			</div>			<div type="annex">
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Disclosure Statement</head><p>No potential conflict of interest was reported by the author(s).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Notes on contributor</head><p>Genevieve Couvret is currently an MPhil candidate at the University of Oxford. She has undertaken postgraduate study across law and literary studies in her research on sex, consent, and feminist theory.</p></div>			</div>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<analytic>
+		<title level="a" type="main">Vulnerability and Female Sexuality in Sally Rooney&apos;s Conversations with Friends (2017) and Normal People (2018): Agent, Doer or Sufferer</title>
+		<author>
+			<persName><forename type="first">Sofia</forename><surname>Alférez-Mendía</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">The Routledge Companion to Sally Rooney</title>
+		<editor>
+			<persName><forename type="first">Angelos</forename><surname>Bollas</surname></persName>
+		</editor>
+		<editor>
+			<persName><surname>Routledge</surname></persName>
+		</editor>
+		<imprint>
+			<date type="published" when="2025">2025</date>
+			<biblScope unit="page" from="104" to="115" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<monogr>
+		<title level="m" type="main">Sally Rooney: &apos;Falling in Love When I Was Very Young Transformed My Life&apos;</title>
+		<author>
+			<persName><forename type="first">Lisa</forename><surname>Allardice</surname></persName>
+		</author>
+		<ptr target="www.theguardian.com/books/2024/sep/14/sally-rooney-intermezzo-interview-normal-people-conversations-friends-love-sex" />
+		<imprint>
+			<date type="published" when="2024-09-14">14 Sep. 2024</date>
+		</imprint>
+	</monogr>
+	<note>The Guardian</note>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<monogr>
+		<title level="m" type="main">Sally Rooney&apos;s Love Plot as Gimmick</title>
+		<author>
+			<persName><forename type="first">Annabel</forename><surname>Barry</surname></persName>
+		</author>
+		<ptr target="45.org/2023/07/sally-rooneys-love-plot-as-gimmick/" />
+		<imprint>
+			<date type="published" when="2023">2023</date>
+		</imprint>
+	</monogr>
+	<note>Post45: The Heteropessimism Cluster</note>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title level="a" type="main">Feminine Masochism and the Politics of Personal Transformation</title>
+		<author>
+			<persName><forename type="first">Sandra</forename><surname>Bartky</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Lee</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/0277-5395(84)90032-3</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Women&apos;s Studies International Forum</title>
+		<imprint>
+			<biblScope unit="volume">7</biblScope>
+			<biblScope unit="issue">5</biblScope>
+			<biblScope unit="page" from="323" to="334" />
+			<date type="published" when="1984">1984</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title level="a" type="main">Intimacy: A Special Issue</title>
+		<author>
+			<persName><forename type="first">Lauren</forename><surname>Berlant</surname></persName>
+		</author>
+		<ptr target="www.jstor.org/stable/1344169" />
+	</analytic>
+	<monogr>
+		<title level="j">Critical Inquiry</title>
+		<imprint>
+			<biblScope unit="volume">24</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="281" to="288" />
+			<date type="published" when="1998">1998</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<monogr>
+		<title level="m" type="main">On the Inconvenience of Other People</title>
+		<imprint>
+			<date type="published" when="2022">2022</date>
+			<publisher>Duke UP</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<monogr>
+		<author>
+			<persName><forename type="first">Lauren</forename><surname>Berlant</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Lee</forename><surname>Edelman</surname></persName>
+		</author>
+		<title level="m">Sex, or the Unbearable</title>
+		<imprint>
+			<publisher>Duke UP</publisher>
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<monogr>
+		<title level="m" type="main">The Myth of Women&apos;s Masochism</title>
+		<author>
+			<persName><forename type="first">Paula</forename><forename type="middle">J</forename><surname>Caplan</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1985">1985</date>
+		</imprint>
+		<respStmt>
+			<orgName>U of Toronto P</orgName>
+		</respStmt>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title level="a" type="main">Making a Scene: Towards an Anatomy of Contemporary Literature</title>
+		<author>
+			<persName><forename type="first">Jennifer</forename><surname>Cooke</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Scenes of Intimacy: Reading, Writing and Theorizing Contemporary Literature</title>
+		<editor>
+			<persName><forename type="first">Jennifer</forename><surname>Cooke</surname></persName>
+		</editor>
+		<editor>
+			<persName><surname>Bloomsbury</surname></persName>
+		</editor>
+		<imprint>
+			<date type="published" when="2013">2013</date>
+			<biblScope unit="page" from="3" to="21" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title level="a" type="main">&apos;I&apos;m Not so Interested in Feelings People Go Through on Their Own&apos;: An Interview with Sally Rooney</title>
+		<author>
+			<persName><forename type="first">Hayley</forename><surname>Cullingham</surname></persName>
+		</author>
+		<ptr target="hazlitt.net/feature/im-not-so-interested-feelings-people-go-through-their-own-interview-sally-rooney" />
+	</analytic>
+	<monogr>
+		<title level="j">Hazlitt</title>
+		<imprint>
+			<date type="published" when="2019-04-30">30 Apr. 2019</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<monogr>
+		<title level="m" type="main">Loving the Limitations of the Novel: A Conversation Between Sally Roney and Merve Emre</title>
+		<author>
+			<persName><forename type="first">Merve</forename><surname>Emre</surname></persName>
+		</author>
+		<ptr target="www.theparisreview.org/blog/2024/10/09/loving-the-limitations-of-the-novel-a-conversation-between-sally-rooney-and-merve-emre/" />
+		<imprint>
+			<date type="published" when="2024-10-09">9 Oct. 2024</date>
+		</imprint>
+	</monogr>
+	<note>The Paris Review</note>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<monogr>
+		<author>
+			<persName><forename type="first">Rita</forename><surname>Felski</surname></persName>
+		</author>
+		<title level="m">Literature After Feminism. The U of Chicago P</title>
+		<imprint>
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<monogr>
+		<author>
+			<persName><forename type="first">Lauren</forename><surname>Fournier</surname></persName>
+		</author>
+		<title level="m">Autotheory as Feminist Practice in Art, Writing and Criticism. The MIT P</title>
+		<imprint>
+			<biblScope unit="page">2021</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<title level="a" type="main">De)Constructing Masculiniites in Sally Rooney&apos;s Novel Normal People and TV Series Adaptation</title>
+		<author>
+			<persName><forename type="first">Elvira</forename><surname>García</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Aguilera</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">The Routledge Companion to Sally Rooney</title>
+		<editor>
+			<persName><forename type="first">Angelos</forename><surname>Bollas</surname></persName>
+		</editor>
+		<editor>
+			<persName><surname>Routledge</surname></persName>
+		</editor>
+		<imprint>
+			<date type="published" when="2025">2025</date>
+			<biblScope unit="page" from="88" to="103" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<title level="a" type="main">Sharing the Same Soil&quot;: The Critique of Post-Feminist Gender Identity and the Materiality of Body in Sally Rooney&apos;s Normal People (2018)</title>
+		<author>
+			<persName><forename type="first">Gege</forename><surname>Yang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Jasmine</forename></persName>
+		</author>
+		<idno type="DOI">10.1080/00111619.2023.2252741</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Critique: Studies in Contemporary Fiction</title>
+		<imprint>
+			<biblScope unit="volume">65</biblScope>
+			<biblScope unit="issue">5</biblScope>
+			<biblScope unit="page" from="838" to="850" />
+			<date type="published" when="2024">2024</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title level="a" type="main">Postfeminist Media Culture: Elements of a Sensibility</title>
+		<author>
+			<persName><forename type="first">Rosalind</forename><surname>Gill</surname></persName>
+		</author>
+		<idno type="DOI">10.1177/1367549407075898</idno>
+	</analytic>
+	<monogr>
+		<title level="j">European Journal of Cultural Studies</title>
+		<imprint>
+			<biblScope unit="volume">10</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="147" to="166" />
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<monogr>
+		<title level="m" type="main">Volatile Bodies: Toward a Corporeal Feminism</title>
+		<author>
+			<persName><forename type="first">Elizabeth</forename><forename type="middle">A</forename><surname>Grosz</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1994">1994</date>
+			<pubPlace>Indiana UP</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<analytic>
+		<title level="a" type="main">The Dark Turn of Chick Lit in Sally Rooney&apos;s Works</title>
+		<author>
+			<persName><forename type="first">Eva</forename><surname>Heimers</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Marie</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">The Routledge Companion to Sally Rooney</title>
+		<editor>
+			<persName><forename type="first">Angelos</forename><surname>Bollas</surname></persName>
+		</editor>
+		<editor>
+			<persName><surname>Routledge</surname></persName>
+		</editor>
+		<imprint>
+			<date type="published" when="2025">2025</date>
+			<biblScope unit="page" from="291" to="311" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<analytic>
+		<title level="a" type="main">The Affective Life of Heterosexuality: Heteropessimism and Postfeminism in Fleabag</title>
+		<author>
+			<persName><forename type="first">Billy</forename><surname>Holzberg</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Aura</forename><surname>Lehtonen</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/14680777.2021.1922485</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Feminist Media Studies</title>
+		<imprint>
+			<biblScope unit="volume">22</biblScope>
+			<biblScope unit="issue">8</biblScope>
+			<biblScope unit="page" from="1902" to="1917" />
+			<date type="published" when="2022">2022</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<analytic>
+		<title level="a" type="main">A Feminist Reading of Sally Rooney&apos;s Novels Conversations with Friends, Normal People and Beautiful World, Where Are You?</title>
+		<author>
+			<persName><forename type="first">Pilar</forename><surname>Iglesias-Aparicio</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">The Routledge Companion to Sally Rooney</title>
+		<editor>
+			<persName><forename type="first">Angelos</forename><surname>Bollas</surname></persName>
+		</editor>
+		<editor>
+			<persName><surname>Routledge</surname></persName>
+		</editor>
+		<imprint>
+			<date type="published" when="2025">2025</date>
+			<biblScope unit="page" from="53" to="65" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<analytic>
+		<title level="a" type="main">The End of Love: A Sociology of Negative Relations</title>
+		<author>
+			<persName><forename type="first">Eva</forename><surname>Illouz</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Polity</title>
+		<imprint>
+			<date type="published" when="2022">2022</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<monogr>
+		<title level="m" type="main">A Lover&apos;s Theory of Marxism</title>
+		<author>
+			<persName><forename type="first">Long</forename><surname>Chu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Andrea</forename></persName>
+		</author>
+		<ptr target="www.vulture.com/article/sally-rooney-intermezzo-new-book-romance-novels-marxism-capitalism.html" />
+		<imprint>
+			<date type="published" when="2024-09-20">20 Sep. 2024</date>
+		</imprint>
+	</monogr>
+	<note>Vulture</note>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<monogr>
+		<title level="m" type="main">Toward a Feminist Theory of the State</title>
+		<author>
+			<persName><forename type="first">Catherine</forename><forename type="middle">A</forename><surname>Mackinnon</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1989">1989</date>
+			<pubPlace>Harvard UP</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<analytic>
+		<title level="a" type="main">Phenomenology of Perception. Translated by Donald A Landes</title>
+		<author>
+			<persName><forename type="first">Maurice</forename><surname>Merleau-Ponty</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Routledge</title>
+		<imprint>
+			<date type="published" when="2012">2012. 2021</date>
+			<pubPlace>Nelson, Maggie On Freedom. Penguin</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<monogr>
+		<title level="m" type="main">Theory of the Gimmick: Aesthetic Judgment and Capitalist Form</title>
+		<author>
+			<persName><forename type="first">Sianne</forename><surname>Ngai</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2020">2020</date>
+			<pubPlace>Harvard UP</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<analytic>
+		<title level="a" type="main">Intimacy in Sally Rooney&apos;s Novels</title>
+		<author>
+			<persName><forename type="first">Danielle</forename><surname>O'sullivan</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">The Routledge Companion to Sally Rooney</title>
+		<editor>
+			<persName><forename type="first">Angelos</forename><surname>Bollas</surname></persName>
+		</editor>
+		<editor>
+			<persName><surname>Routledge</surname></persName>
+		</editor>
+		<imprint>
+			<date type="published" when="2025">2025</date>
+			<biblScope unit="page" from="173" to="184" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<analytic>
+		<title level="a" type="main">Hegemonic and Vulnerable Masculinities in Sally Rooney&apos;s Normal People</title>
+		<author>
+			<persName><forename type="first">Kübra</forename><surname>Özermiş</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">The Routledge Companion to Sally Rooney</title>
+		<editor>
+			<persName><forename type="first">Angelos</forename><surname>Bollas</surname></persName>
+		</editor>
+		<editor>
+			<persName><surname>Routledge</surname></persName>
+		</editor>
+		<imprint>
+			<date type="published" when="2025">2025</date>
+			<biblScope unit="page" from="270" to="283" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b27">
+	<analytic>
+		<title level="a" type="main">Sally Rooney&apos;s Normal People: The Millennial Novel of Formation in Recessionary Ireland</title>
+		<author>
+			<persName><forename type="first">María</forename><surname>Río</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Amor Barros-Del</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/09670882.2022.2080036</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Irish Studies Review</title>
+		<imprint>
+			<biblScope unit="volume">30</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="176" to="192" />
+			<date type="published" when="2022">2022. 2024</date>
+			<publisher>Rooney, Sally. Intermezzo. Faber &amp; Faber</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b28">
+	<monogr>
+		<title level="m" type="main">Misreading Ulysses</title>
+		<ptr target="www.theparisreview.org/blog/2022/12/07/misreading-ulysses/" />
+		<imprint>
+			<date type="published" when="2002-12-07">7 Dec. 2002</date>
+		</imprint>
+	</monogr>
+	<note>The Paris Review</note>
+</biblStruct>
+
+<biblStruct xml:id="b29">
+	<monogr>
+		<title level="m" type="main">Deviations: A Gayle Rubin Reader</title>
+		<author>
+			<persName><forename type="first">Gayle</forename><forename type="middle">S</forename><surname>Rubin</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2011">2011</date>
+			<publisher>Duke UP</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b30">
+	<analytic>
+		<title level="a" type="main">Work: A Research Agenda for Gender and Organization Studies Scholars</title>
+		<author>
+			<persName><forename type="first">Nick</forename><forename type="middle">;</forename><surname>Rumens</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Postfeminism</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Men</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Masculinities</surname></persName>
+		</author>
+		<idno type="DOI">10.1111/gwao.12138</idno>
+	</analytic>
+	<monogr>
+		<title level="j">YouTube, Uploaded by London Review Bookshop</title>
+		<imprint>
+			<biblScope unit="volume">24</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="245" to="259" />
+			<date type="published" when="2017-05-08">2017. 8 May 2019</date>
+		</imprint>
+	</monogr>
+	<note>Sally Rooney on Normal People, with Kishani Widyaratna. www.youtube.com/watch?v=4jH_0rg46Es</note>
+</biblStruct>
+
+<biblStruct xml:id="b31">
+	<monogr>
+		<title level="m">New Sexual Agendas</title>
+		<editor>
+			<persName><forename type="first">Lynne</forename><surname>Segal</surname></persName>
+		</editor>
+		<meeting><address><addrLine>New York UP</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="1997">1997</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b32">
+	<monogr>
+		<title level="m" type="main">On Heteropessimism</title>
+		<author>
+			<persName><forename type="first">Asa</forename><surname>Seresin</surname></persName>
+		</author>
+		<ptr target="https://thenewinquiry.com/on-heteropessimism/" />
+		<imprint>
+			<date type="published" when="2019-10-09">9 Oct. 2019</date>
+		</imprint>
+	</monogr>
+	<note>The New Inquiry</note>
+</biblStruct>
+
+<biblStruct xml:id="b33">
+	<analytic>
+		<title level="a" type="main">Identity, Sociality and Love in Sally Rooney&apos;s Normal People</title>
+		<author>
+			<persName><forename type="first">Felicity</forename><forename type="middle">Jane</forename><surname>Smith</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Octavia</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">The Routledge Companion to Sally Rooney</title>
+		<editor>
+			<persName><forename type="first">Angelos</forename><surname>Bollas</surname></persName>
+		</editor>
+		<editor>
+			<persName><surname>Routledge</surname></persName>
+		</editor>
+		<imprint>
+			<date type="published" when="2025">2025</date>
+			<biblScope unit="page" from="131" to="145" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b34">
+	<monogr>
+		<title level="m" type="main">Amia The Right to Sex</title>
+		<author>
+			<persName><surname>Srinivasan</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2021">2021</date>
+			<pubPlace>Bloomsbury</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

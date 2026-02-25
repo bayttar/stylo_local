@@ -1,0 +1,933 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Reading for the future: İstanbul Ansiklopedisi, a collection without origin</title>
+				<funder ref="#_TSEEmmW">
+					<orgName type="full">Swedish Institute</orgName>
+				</funder>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author role="corresp">
+							<persName><forename type="first">Müge</forename><surname>Özoğlu</surname></persName>
+							<email>m.ozoglu@uu.nl</email>
+							<affiliation key="aff0">
+								<orgName type="department">Comparative Literature</orgName>
+								<orgName type="institution">Utrecht University</orgName>
+								<address>
+									<settlement>Utrecht</settlement>
+									<country key="NL">The Netherlands</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Reading for the future: İstanbul Ansiklopedisi, a collection without origin</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date/>
+						</imprint>
+					</monogr>
+					<idno type="MD5">73E8E05797693E38AF0CED85423C2D92</idno>
+					<idno type="DOI">10.1080/14735784.2024.2366334</idno>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.0" ident="GROBID" when="2026-02-25T19:53+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term>Reşad Ekrem Koçu</term>
+					<term>İstanbul Ansiklopedisi</term>
+					<term>the archival turn</term>
+					<term>nostalgia</term>
+					<term>queer futurity</term>
+				</keywords>
+			</textClass>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>Reşad Ekrem Koçu's İstanbul Ansiklopedisi (the Encyclopaedia of Istanbul) is a remarkable undertaking covering various periods in Istanbul during the Ottoman Empire and in recent Turkish history. The colourful and compelling picture of Istanbul that Koçu presented in the encyclopaedia was imbued with his nostalgia. In this article, which takes its cue from the archival turn in the twentieth century, I provide a rereading of İstanbul Ansiklopedisi by scrutinising the ways in which Koçu's nostalgia functioned as a generative desire in the compilation of the encyclopaedia. I argue that the encyclopaedia entries link various temporalities and spatialities to create a unique, idiosyncratic Istanbul. Due to the organisation of the encyclopaedia, which entails the overlapping of different times and spaces, the encyclopaedia disrupts the linearity of history, opens up possibilities for new contexts for its readers, and generates hope for the future.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Introduction</head><p>İstanbul Ansiklopedisi (the Encyclopaedia of Istanbul), an enormous encyclopaedia project, was created by Reşad Ekrem <ref type="bibr">Koçu (1905</ref><ref type="bibr">Koçu ( -1975))</ref>, a prolific historian and author. While Koçu's compelling works in various genres cover niche subject matter ranging from stories of cross-dressing girls to the dictionary of Turkish apparel and adornment, İstanbul Ansiklopedisi remains his most prominent work. In addition to providing information about a vast number of fountains, bathhouses, streets and other historical monuments in Istanbul, the encyclopaedia provides a tremendous amount of information about male dancers, beautiful boys, eunuchs, lunatics and many other fascinating characters in the city, both in Ottoman and recent Turkish history, often accompanied by hand-drawn illustrations.</p><p>The encyclopaedia was published in eleven volumes between 1944 and 1973, stopping halfway through the letter G. The publication of the encyclopaedia was marked by intermittent pauses. The first three volumes were released between 1944 and 1951, but financial challenges caused the process to come to a halt. In 1958, Koçu revised and reissued the first three volumes, and continued with the remainder of the encyclopaedia until the publication of volume eleven in 1973. Although Koçu was primarily responsible for writing the entries in the encyclopaedia, he received contributions from his friends and colleagues, including Semavi <ref type="bibr">Eyice (1922</ref><ref type="bibr" target="#b21">-2018</ref><ref type="bibr">), Kevork Pamukciyan (1923</ref><ref type="bibr">-1996)</ref> and Hatice Sabiha Rüştü Bozcalı , who helped to shape the content of the encyclopaedia. <ref type="foot" target="#foot_0">1</ref> Koçu also left notes for and drafts of the subsequent volumes that he planned to publish. It has recently been announced that Kadir Has University and SALT, a contemporary art institution in Istanbul, have engaged on a project to digitalise I ̇stanbul Ansiklopedisi, together with its unpublished parts ('İstanbul Ansiklopedisi Arşivi' 2018). <ref type="foot" target="#foot_1">2</ref>İstanbul Ansiklopedisi had already gained scholarly attention prior to this digitalisation project, with works about the encyclopaedia having focused on its queer content and on Koçu's archival practices. <ref type="bibr" target="#b0">Altınay (2015)</ref> investigates how Koçu's archival practice functioned 'as both a form of political resistance and a strategy for queer self-making' (90), while <ref type="bibr" target="#b3">Boone (2014)</ref> considers İstanbul Ansiklopedisi to be 'an archive preserving th[e] queer heritage' (145). More recently, <ref type="bibr" target="#b38">Sarıtaş (2020)</ref> emphasises the 'heteronormative discrepancies' and 'queer imaginations' in <ref type="bibr">Koçu's work (225)</ref>. In these works, the term 'queer' mainly signifies the myriad subjectivities, practices and discourses that deviate from and/or run counter to the normative constructs of gender and sexuality in the Turkish nation-state. The queer content in İstanbul Ansiklopedisi has often been analysed in relation to how Koçu incorporated past practices and subjectivities into the present. However, this article presents a more future-oriented reading of İstanbul Ansiklopedisi by moving beyond the queer content of the encyclopaedia to explore its organisation and to demonstrate what it does as an archive. In particular, I argue that the material in İstanbul Ansiklopedisi is structured as a collection, which affects our reading of the content. To examine the operation of the encyclopaedia, I highlight the nuanced distinction between Koçu's encyclopaedic endeavour and the end result of the encyclopaedia in this article. My reading of Koçu's work suggests a change in direction from the past to queer futurity; thus, I argue that İstanbul Ansiklopedisi contains multiple and simultaneous temporalities and spatialities that create a new textual space that has yet to be realised.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Ghosts in the archive</head><p>Reading İstanbul Ansiklopedisi as a queer archive <ref type="bibr" target="#b4">(Boone 2017</ref>) and considering Koçu to be a queer archivist with regard to his practices in the creation of the encyclopaedia <ref type="bibr" target="#b0">(Altınay 2015)</ref> are not coincidental. The recognition of the encyclopaedia as an archive and Koçu as an archivist is due to the evolving perception of archives over the past century. In the twentieth century, the archival turn changed the perception of archival practice as a mere storage activity. The works of <ref type="bibr" target="#b18">Foucault (1972)</ref> and <ref type="bibr" target="#b12">Derrida (1998)</ref> are important in this regard. Both thinkers consider archives to be a metaphorical construct, an idea that provides opportunities for discussions about human experience, memory and power (Van Alphen 2014). According to <ref type="bibr" target="#b18">Foucault (1972)</ref>, an archive is not a building filled with documents and objects, but is a series of discursive practices or a system that establishes statements as events and things. In Archive Fever: A Freudian Impression, <ref type="bibr" target="#b12">Derrida (1998)</ref> considers an archive as not just a physical place, but also as a place in which knowledge is stored and forms our mental lives. The archive constitutes authority, and functions as a source of social, political and cultural power. As <ref type="bibr">Derrida asserts, '[t]</ref>here is no political power without control of the archive, if not of memory' (4, f.n. 1).</p><p>In his exploration of the relationship between the archive and memory, Van Alphen (2014) states that the archive shaped cultural and social memory as an active agent rather than passively recording physical objects or administrative activities. He further emphasises the idea that memory is not something that already exists in the archive, but is something that is made and repeatedly remade within it. The archive as a metaphor and, more importantly, as a construct, re-enacts the historical experience. As van Alphen states, '[t]his re-enactment is an effect, not a representation; it does something instead of showing it; it is, in the profound sense of that concept, performative' (202).</p><p>Narrowing the focus specifically to queer archives, <ref type="bibr" target="#b8">Cvetkovich (2006)</ref> studies trauma in relation to lesbian cultures by conceptualising of 'an archive of feelings' that becomes 'repositories of feelings and emotions' (7), which are ciphered both in the texts and in the practices surrounding the texts in the process of production and reception. Building on Cvetkovich's work, both <ref type="bibr" target="#b0">Altınay (2015)</ref> and <ref type="bibr" target="#b4">Boone (2017)</ref> argue that İstanbul Ansiklopedisi provides a repository of feelings and emotions, the production and reception of which enable us to read the encyclopaedia as a queer archive. In this regard, <ref type="bibr" target="#b0">Altınay (2015)</ref> specifically indicates that the subjectivities and practices that Koçu included in his encyclopaedia were not always queer with regard to the norms and conventions of the time. What makes them queer is the socio-historical period during which they were included in the encyclopaedia and the anachronistic way in which Koçu brought mid-twentieth-century discourses on gender and sexuality into play when writing specifically about Ottoman sexualities throughout different periods in history <ref type="bibr" target="#b0">(Altınay 2015)</ref>. Altınay provides exemplary entries to illustrate certain categories, such as 'lover[s] of facial beauty', which had already fallen out of use prior to the compilation of the encyclopaedia (94).</p><p>Referencing <ref type="bibr" target="#b8">Cvetkovich (2006)</ref>, <ref type="bibr" target="#b4">Boone (2017)</ref> postulates that Koçu's motivation for creating a queer archive differed from 'the gay archival impulse for Western subjects' (55). In the West, the archival impulse is linked to a traumatic event or a historical wound stemming from the idea that historical records have been lost or destroyed. This idea triggers a sense of lack, which motivates the preservation of 'an almost invisible, sometimes evanescent, often nearly unintelligible past' <ref type="bibr">(Boone 2017, 55)</ref>. According to Boone, Middle Eastern societies did not experience this sense of lack because these societies allowed sexual and romantic expressions of same-sex desire to appear in textual forms until the early twentieth century. These texts, including medical treatises, romantic narratives, shadow puppetry and the oral story-telling tradition, constituted a substantial archive that documented the homoerotic heritage of the Middle East <ref type="bibr" target="#b4">(Boone 2017)</ref>. According to Boone, the 'trauma' that motivated Koçu to produce his archive was not a lack of information, but modernisation and the intrusion of Western morals into Turkish society that endangered the Ottoman homoerotic heritage. Boone argues that, in order to address this threat, Koçu aimed to memorialise 'the lived reality of the city' and recorded it in İstanbul Ansiklopedisi (56-57). <ref type="foot" target="#foot_2">3</ref>Boone's (2017) reading highlights the extent to which specific encyclopaedia entries overlook the nuances within the so-called 'homoerotic heritage' (56), which is often presented as being fixed and unchanging in different historical periods. For Koçu, it was not possible to put the contemporary understandings of gender and sexuality aside when writing about the Ottoman homoerotic heritage and same-sex desire. <ref type="foot" target="#foot_3">4</ref> As Delice (2010) notes, our understanding of gender and sexuality is inevitably shaped by a heteronormative present, which influences how we interpret past experiences. As a historian, regardless of the extent to which Koçu attempted to maintain historical nuances when writing about sexual practices and desires in the Ottoman Empire, his writing inevitably included and was influenced by the norms of his time. For instance, the entry 'Civan' begins with an explanation of the meaning of 'civan', which signifies young boys (Figure <ref type="figure" target="#fig_0">1</ref>). <ref type="bibr">Koçu (1965)</ref> referred to the use of the word in Ottoman poetry, and noted that poets often used 'civan' when describing the beauty of young boys. However, he also cautioned against forgetting that the wish to be with these young boys that the poets expressed in their poems simply indicated a desire for friendly companionship without any ulterior motives. Koçu's comment might suggest that he did not want to delve extensively into the desire for young boys or the specifics that were often expressed in Ottoman poetry.<ref type="foot" target="#foot_4">5</ref> However, to some extent, his ostensible reluctance to explore the sexual desire for young boys and specific same-sex desire in the Ottoman past might be suggestive and written deliberately, contenting himself with simply implying certain practices. Nonetheless, whether he was reluctant or intentionally suggestive, his careful manoeuvring around the sexual desire for young boys in the Ottoman past betrays a lingering influence of modern discourses on gender and sexuality in his interpretation of the past.</p><p>While modern discourses shaped Koçu's writing, the past also exerted an influence. Writing about the past in general, and about an empire that no longer exists in particular, is a haunting experience. <ref type="bibr" target="#b9">Delice (2010)</ref> describes it as a melancholic pursuit in which historians struggle to preserve the disappearing voices of the past and attempt to provide their own writing as a substitute for these voices. <ref type="foot" target="#foot_5">6</ref> Nevertheless, these voices, or ghosts, have a tendency to resurface, affecting the present and disrupting the supposedly secure and stable realms of history. In other words, it was not only Koçu's context, in which he was surrounded by specific heteronormative discourses that precluded writing about previous sexual desires and practices at the time, as the voices of the past were also insinuated into his writing.</p><p>In volume seven <ref type="bibr">(1965)</ref>, there is an entry entitled 'Çıkma', which discusses the use of a specific waistcloth called a peştemal after bathing in hammams (Figure <ref type="figure" target="#fig_1">2</ref>). The entry provides details regarding how and when a bath attendant delivered a waistcloth to clients. It also mentions that younger bath attendants, apprentices who were known as şâkird and yamak, used to accompany older attendants in hammams prior to the establishment of the Turkish Republic. These young apprentices were responsible for bringing the waistcloths, drying the clients, changing the waistcloths and wrapping the clients in dry towels. They were referred to as ortak, meaning 'partner', as they shared the tips that the clients gave with the older attendants. Although the heavier tasks were performed by the older attendants, half of the tip was given to these young attendants, since their youth and charm were influential in receiving a good tip. Although Koçu did not provide specific information about the young bath attendants, the entry sheds light on certain practices and desires concerning young boys in the past. In other words, while the entry revolves around a waistcloth, these young bath attendants insinuated themselves into the entry. This suggests that the boys were perceived as objects of desire in the Ottoman Empire, as evidenced by their influence in receiving tips. However, it is also clear that the discontinuation of younger bath attendants' work after the establishment of the Turkish Republic was related to the state's heteronormative politics in the first half of the twentieth century. In Spectres of <ref type="bibr">Marx (1994)</ref>, Derrida uses the notion of spectrality to convey a mode of being attuned to history in which the living is not physically present yet still emerges as a figure or a voice; that is, something that is no longer with us or has not yet arrived. The spectre exists simultaneously in the past and the future; it is both revenant and arrivant. Such simultaneity interrupts the linearity of history by encompassing the past, the present and the future. Drawing on <ref type="bibr">Derrida, Brown (2000)</ref> states that '[h]istoriography as hauntology is thus not only a new mode of figuring the presence of the past, the ineffable and unconquerable force of the past, it also opens the stage for battling with the past over possibilities of the future' (36). <ref type="bibr" target="#b19">Freccero (2006)</ref> emphasises that we are not left with events that happened, but rather with what remained from that happening. Here, haunting signifies the blend of historical occurrences and their afterlife effects that pertain not only to the present, but also shape our vision of the future. Because the empire is a haunting structure that leaves behind both familiar yet ghostly, spectral intimacies and a legacy of complex histories that affect the present, it continues to have an impact even though it no longer exists <ref type="bibr" target="#b10">(Del Pilar Blanco and Peeren 2013)</ref>. I contend that the compilation of İstanbul Ansiklopedisi is a haunting operation in which the spectres stroll through its pages, compile documents, drafts and intervene in Koçu's writing. As stated previously, spectrality interrupts the linearity of history and, in the case of the encyclopaedia, encompasses different temporalities. There are two distinct temporalities within the encyclopaedia: Ottoman Istanbul, which contains manifold temporalities within itself, and Istanbul during the formation of İstanbul Ansiklopedisi. On one hand, Koçu was not able to record the past as it was; on the other hand, he was not able to escape the spectres of the past in his writing. It is precisely this tension between the past and the present during the compilation of the encyclopaedia that continuously shifts the meanings attributed to sexual practices and desires in his work and constitutes its queer content, as suggested by <ref type="bibr" target="#b0">Altınay (2015)</ref>. In addition, I argue that there is a third distinct temporality within the scope of this article, which is the Istanbul of today, based on which Koçu's work and archival practices are examined and investigated for future possibilities. In other words, as an archive, İstanbul Ansiklopedisi and the spectres within it, brings different histories together, opens up future possibilities, and envisions new contexts for its readers.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>İstanbul Ansiklopedisi: a collection without origin</head><p>Koçu was an avid collector who impulsively gathered stories, photographs, newspaper cuttings, drawings, and rare historical documents. He left behind more than 35,000 documents comprising 902 drawings, 13,987 handwritten or typed texts, and 7,167 newspaper and magazine clippings for the subsequent volumes of İstanbul Ansiklopedisi <ref type="bibr">(Öner 2022)</ref>. Until recently, these documents had been stored in boxes for many years without receiving any attention. This enormous range of material, both previously published volumes and upcoming ones, is reminiscent of mal d'archive, which Derrida (1998) defines as '[having] a compulsive, repetitive, and nostalgic desire for the archive, an irrepressible desire to return to the origin, a homesickness, a nostalgia for the return to the most archaic place of absolute commencement' (91). Koçu was seized by mal d'archive as, for Koçu, 'the Ottoman Empire emerged as a nostalgic object of desire' <ref type="bibr">(Altınay 2015, 99)</ref>. This desire was expressed in Koçu's gathering of Ottoman materials, which were organised both as and in İstanbul Ansiklopedisi. Thus, the encyclopaedia became the embodiment of Koçu's archival impulse regarding this feverish desire for the archive, or archive fever.</p><p>Nevertheless, Koçu's gathering of diverse materials was not arbitrary, but had an end in itself. With regard to collections in an archive, Van Alphen (2014) draws attention to a fine distinction between the archive as storage and the archive as collection; he notes that the archive as collection relies on principles of organisation and categorisation, based on which each element within a collection is regarded as being different and representative, and becomes meaningful in combination with the other elements. I argue that the coexistence of each individual item that Koçu organised and included in İstanbul Ansiklopedisi -as embodied in the encyclopaedia entries -transformed it into an archive; not as storage, but as collection.</p><p>Volume nine of İstanbul Ansiklopedisi (1968) features an entry entitled 'Duvar Yazıları ve Resimleri (Müstehcen ve Çirkin)' that exemplifies how individual encyclopaedia entries can be connected and contribute to the collection as a whole (Figure <ref type="figure" target="#fig_2">3</ref>). The entry concerns obscene inscriptions and drawings in public areas across Istanbul, including mosques, schools, trains, and public restrooms. According to Koçu, the individuals responsible for these obscene creations were most likely to be men who were driven by their desires. These inscriptions and drawings were so extensive in number that no space was left on the walls, doors and courtyard toilets of mosques between 1880 and 1913. The entry includes a drawing from the toilet at Muradpaşa Mosque; it depicts İsmail Ağa from Tokat, who was drawn by Basmacı Ali in 1906. The drawing is surrounded by inscriptions of those whom İsmail Ağa had washed and who wished to express their gratitude. The entry concerning obscene inscriptions and drawings appears to be fundamentally different from the entry about the waistcloth used in the hammam. Nevertheless, both entries contain separate yet relevant information about bath attendants. In particular, the example of the drawing of İsmail Ağa in the entry regarding obscene inscriptions and drawings in public spaces does not actually contain any explicit obscenity or sexual desire, but only implies it. However, when viewed together as part of the same collection, these entries reveal a clear interest in and desire for bath attendants during the late nineteenth and early twentieth centuries. <ref type="bibr">Öner (2022)</ref> mentions that the remaining documents for the subsequent volumes do not have much significance on their own, but become important when presented together. The boxes containing Koçu's materials and drafts remain to be incorporated into the collection, and will only become meaningful when they are combined with the other elements in the encyclopaedia.</p><p>The conceptualisation of İstanbul Ansiklopedisi as a collection has consequences for our understanding of, and interaction with, the encyclopaedia. As <ref type="bibr" target="#b41">Stewart (2007)</ref> comments, in the collection, 'time is not something to be restored to an origin; rather, all time is made simultaneous or synchronous within the collection's world' (151). Since İstanbul Ansiklopedisi, the archive as collection, covers a long time span in the history of Istanbul, the borders of which changed over the centuries, it overlaps multiple states of the city simultaneously. In other words, the encyclopaedia encompasses multiple, simultaneous temporalities, and overturns the concept of history as a linear process and the postulation of 'history as origin' <ref type="bibr">(Brown 2000, 35)</ref>.</p><p>Every temporality creates another spatiality within the encyclopaedia, and they all coexist on a textual level. Nevertheless, due to the overlapping of multiple Istanbuls in different periods of history, the unique Istanbul configured in İstanbul Ansiklopedisi never actually existed. Koçu's 'imaginary affective geography <ref type="bibr">[…]</ref> does not coincide with any scientific maps' <ref type="bibr">(Boym 1995, 285)</ref>. <ref type="foot" target="#foot_6">7</ref> For example, the entry 'Figûran, İstiklâl Caddesinde Figüranların Çıplak Yürüyüşü' in volume eleven <ref type="bibr">(1973)</ref> refers to an İstiklal Street, where Çetin Başaran and Ülkü Tuna walked half-naked and barefoot, disguising themselves as Tarzan and Jane to protest not being cast in leading roles by film makers on January 2, 1966 (Figure <ref type="figure" target="#fig_3">4</ref>). It is different from the İstiklal Street that is mentioned in the entry 'Dervîş Sokağı Cinayeti' in volume eight <ref type="bibr">(1966)</ref>, in which Koçu describes how Claudia Cavalli, an Italian woman aged sixty, was murdered in her guesthouse in 1897<ref type="foot" target="#foot_7">8</ref> by the seventeen-year-old Albanian Ramo, one of her gigolos (Figure <ref type="figure" target="#fig_4">5</ref>). Nevertheless, they exist next to each other on a specific İstiklal Street in the encyclopaedia.</p><p>İstanbul Ansiklopedisi became a means whereby Koçu structured his relationship with the past in general and with Istanbul in particular, which says less about the Ottoman past or Istanbul than it does about his nostalgia and his configuration of the city. As <ref type="bibr" target="#b5">Boym (1995)</ref> expresses it, '[n]ostalgia […] is a longing for home, but often for a home that no longer exists or perhaps never existed' [my emphasis] (284). Nevertheless, although the past in which Koçu was nostalgically immersed does not exist, this does not mean that it is invalid. As <ref type="bibr" target="#b2">Bal (1999)</ref> indicates, '[n]ostalgia, then, is only a structure of relation to the past, not false or inauthentic in essence' (xi).  While nostalgia constructed Koçu's relationship with the past, <ref type="bibr" target="#b41">Stewart (2007)</ref> points out that '[n]ostalgia is a sadness without an object' (23) that only exists as a form of ideological narrative. The past with which nostalgia engages is not in the repertoire of and is absent from the lived experience. Nostalgia replicates itself in the form of a feeling of lack, and the nostalgic seeks the absence that generates desire. In brief, 'nostalgia is the desire for desire' <ref type="bibr">(Stewart 2007, 23)</ref>. As nostalgia refers to a certain sense of lack, the archive aims to compensate for this lack. In this regard, I argue that nostalgia turns into the objet petit à and, by extension, the archive becomes a fetish. The archive as fetish also features in the work of <ref type="bibr" target="#b31">LaCapra (1985)</ref>: in History &amp; Criticism, he writes:</p><p>The archive as fetish is a literal substitute for the "reality" of the past which is "always already" lost for the historian. When it is fetishized, the archive is more than the repository of traces of the past which may be used in its inferential reconstruction. It is a stand-in for the past that brings the mystified experience of the thing itself -an experience that is always open to question when one deals with writings or other inscriptions. (92, f.n. 17)</p><p>To a great extent, Koçu's nostalgia for the Ottoman Empire epitomises the objet petit à that relates to a lack in the lived experience. It generates a desire that is also nostalgic for the archive in the sense of <ref type="bibr" target="#b12">Derrida (1998)</ref>; that is, Koçu's nostalgia is an attempt to restore the symbolic order, or the realm of lack. Accordingly, his effort to disavow the lack via İstanbul Ansiklopedisi transforms the encyclopaedia into a fetish for Koçu. 9  While lack can refer to either loss or absence, LaCapra (1999) emphasises the need to differentiate between loss and absence, which are often conflated with one another. According to LaCapra, 'absence is not an event and does not imply tenses (past, present, or future)' and is transhistorical, whereas 'losses are specific and involve particular events' and are historical (700). 10 If this distinction is not made, and loss is transformed into absence, one is confronted by infinite melancholy or unattainable mourning, which hinders any endeavour to work through the past and the historical losses associated with it (LaCapra 1999). I contend that LaCapra's elucidation of the distinction between absence and loss assists in understanding what Koçu undertook with his encyclopaedia project and how the outcome of that undertaking ultimately operates. Koçu might have dealt with the loss of the Ottoman Empire and the loss of Istanbul's previous states by collecting and organising historical materials in İstanbul Ansiklopedisi. The encyclopaedia might have served as a way for Koçu to work through the city's past and to come to terms with its historical losses. In this regard, scholarly works (Altınay 2015; Boone 2017; Sarıtaş 2020) on Koçu have also often focused on his encyclopaedic endeavour in relation to how he worked through feelings of loss. However, focusing only on the way in which he worked through issues associated with the past might lead us into the trap of conflating loss and absence, against which LaCapra (1999) warned us. In this article, I am more interested in the final outcome of his efforts, and contend that the encyclopaedia reflects an Istanbul that never actually existed and is therefore absent, not lost. Here, I refer to the multiple Istanbuls that overlap in a textual configuration that never existed outside of the 9 Sarıtaş (2021) also highlights the relationship between the archive and fetish in the context of İstanbul Ansiklopedisi.</p><p>Nevertheless, she considers the materials in Koçu's archive to be fetish objects that filled absences and gaps. 10 LaCapra <ref type="bibr">(1999)</ref> notes that the distinction between the two is not binary in any way, and that they were interconnected in complex ways.</p><p>textual space of the encyclopaedia. In other words, while Koçu's collection and organisation of the material are rooted in specific events and are indeed historical, the end result of his work leaves an absence. Considering the Istanbul in the encyclopaedia to be an Istanbul that was lost encourages an attempt to work through the loss and the possibility of a reconfiguration in the present as redemption or salvation, but this road leads to endless melancholy. As <ref type="bibr" target="#b0">Altınay (2015)</ref> notes, Koçu's melancholic attachment included imagining of and investing in a world that differed from the one that was currently available. I agree with Altınay that Koçu's melancholia could have been the generative force behind investing in a new world in the encyclopaedia. However, when investing in this new world, he was not in charge of the outcome of his historical inquiry. I argue that Koçu's undertaking with the encyclopaedia should not be considered to be equal to the work itself. Therefore, without denying Koçu's firmly entwined presence in İstanbul Ansiklopedisi, the next section explores the final result of his inquiry.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Reading about the past, thinking about the future</head><p>Istanbul experienced a series of significant social, cultural, and political changes due to modernisation, wars and occupations, and the transition from the Ottoman Empire to the Turkish nation-state during Koçu's lifetime. Since its establishment in 1923, the Turkish state aimed to create a uniform citizenship by promoting the idea of the ideal citizen who complied with the state's ideology. As part of this ideology, the state focused on fostering ideals of heterosexuality, traditional nuclear families, and emphasised the role of women in raising future generations. <ref type="bibr" target="#b40">Sirman (2005)</ref> describes this citizenship as 'familial citizenship' that stipulates the ideal citizen as being 'a sovereign husband and his dependent wife/mother rather than an individual […]' (148). The invention of the patriarchal nuclear family resulted in a new regulation of desire and a new morality for citizens, and transformed the family into a gendered construction <ref type="bibr" target="#b40">(Sirman 2005)</ref>. Those who did not meet the standards of this ideal were marginalised based on their gender and sexuality. Consequently, the socio-cultural context of Istanbul was also influenced by the state ideology, to the extent that the state made its presence felt in heteronormative formations of gender and sexuality in the city, and 'literally left no queer spaces' <ref type="bibr">(Poole 2014, 174)</ref>. <ref type="bibr" target="#b0">Altınay (2015)</ref> argues that Koçu was one of the 'disoriented citizens' who did not fit into the new governmental order of the Turkish nation-state (92). In İstanbul Ansiklopedisi, he included specific practices and subjectivities that were often marginalised and which deviated from both the state ideology and the concept of ideal citizenship, particularly with regard to subject formation, sexual practices, and desires. According to <ref type="bibr" target="#b0">Altınay (2015)</ref>, the encyclopaedia enabled Koçu, 'a subject whose homoerotic desires had been marginalised in the recent past', to validate his existence vis-à-vis the Ottoman past and allowed the encyclopaedia to function as a genealogy for those citizens who failed to conform to the subject formation of the Turkish nation-state (95).</p><p>On one hand, I have no objection to considering Koçu's motivation for compiling the encyclopaedia as an attempt to create a genealogy for himself and for those who did not match the concept of ideal citizenship. In fact, the idea supports my previous argument that, for Koçu, the encyclopaedia became a tool to cope with the changing societal circumstances, including the loss of the past and the loss of Ottoman Istanbul. On the other hand, I differ from <ref type="bibr" target="#b0">Altınay's (2015)</ref> view that İstanbul Ansiklopedisi serves as a genealogy. If it were to be seen as a genealogy, this would imply that it has a specific origin from which descent can be traced. However, as discussed previously, Koçu's motive for creating the encyclopaedia differed from the outcome of his creation. When addressing the loss of the past, Koçu's encyclopaedia project, overlapping multiple Istanbuls at once and at the same time, results in an absence that does something new with the past. Any origin that may have existed was erased, and a new configuration of the city was created through the encyclopaedia. Every entry in the encyclopaedia gained new meaning within the context of the collection. Therefore, İstanbul Ansiklopedisi, the archive as collection, creates a new textual space without origin which, I argue, can be read as a queer diasporic archive.</p><p>In Impossible Desires: Queer Diaspora and South Asian Public Cultures, Gopinath (2005) discusses a 'queer diasporic archive' that contradicts the established diasporic and national archives, the documents in which produce diasporic and nationalist subjectivities via intentional neglect and forceful exclusion, as well as the subordination and criminalisation of certain memories, practices, and identities (21). By contrast, the queer diasporic archive stores those memories that belong to sexually and racially marginalised communities, and reimagines their connection to both the past and the present <ref type="bibr" target="#b20">(Gopinath 2005)</ref>. Elsewhere, <ref type="bibr" target="#b21">Gopinath (2018)</ref> conceptualises of a 'queer diaspora' by extending the meanings of term diaspora, which is a term that has almost always been formulated in relation to a nation, and brought a new perspective to the diaspora by shifting the focus from the nation to the region (5). According to Gopinath, the narrative of a region is quite different from the developmental narrative of a nation, which is based on patrilineal and heteronormative tropes. Queer diaspora disrupts the intimate relationship between nationalism and heterosexuality, as well as their relationships to diaspora and queerness, respectively <ref type="bibr" target="#b20">(Gopinath 2005)</ref>. According to <ref type="bibr" target="#b21">Gopinath (2018)</ref>, 'a queer regional imaginary' challenges the 'dominant national imaginary', an imaginary that erases non-normative bodies, desires and affiliations (5). A queer diaspora provides a way of looking at various sexual subjectivities, desires and relationalities that are obscured by conventional concepts of diaspora and nation <ref type="bibr" target="#b21">(Gopinath 2018)</ref>. Taking my cue from Gopinath, I maintain that Koçu's encyclopaedia constitutes a queer diasporic archive of Istanbul, and challenges the inherent heteropatriarchy of the Turkish nation-state.</p><p>I ̇stanbul Ansiklopedisi brings non-conforming subjectivities and practices together and transforms them into a diasporic community of and within Istanbul. <ref type="bibr" target="#b37">Safran (1991)</ref> describes the common features of diasporic communities, such as having been dispersed from an original centre to peripheral regions, adhering to a collective memory concerning their homeland and the history thereof, feeling excluded from the host society, and intending to return to their homeland once conditions permit them to do so. Given the fact that Koçu was never forced to leave Istanbul, where he was born and spent most of his life, one might argue that he was not part of a diaspora in the conventional sense. Nevertheless, as <ref type="bibr">Boym (2017) emphasises, '[i]</ref>t is no longer a specific place where one belongs, but rather a social context that one could export into diaspora' (82). In this regard, <ref type="bibr" target="#b21">Gopinath (2018)</ref> reframes the nation-state as a diasporic space within the boundaries of which material and metaphoric displacements and dispersals could occur due to wars and occupations that might cause changes to the borders. Accordingly, diaspora may emerge within as well as across the boundaries of a nation-state <ref type="bibr" target="#b21">(Gopinath 2018)</ref>. <ref type="bibr" target="#b22">Hall (1990)</ref> argues that the 'narrative of displacement' in diaspora creates an 'imaginary plenitude' that reproduces the perpetual desire to return to 'lost origins' (236), to be unified with the mother once more, and to go back to the beginning. The desire to return to the origin connects diaspora and nostalgia, both of which played an important role in the compilation of Koçu's encyclopaedia. Both nostalgia and diaspora are based on the concept of an origin. With regard to nostalgia, the lack of an origin generates a desire for the origin, while diaspora is situated in relation to an origin. However, I contend that İstanbul Ansiklopedisi erases the context of the origin in terms of both nostalgia and diaspora. In Koçu's organisation of his encyclopaedia, there is neither an origin to which one can return, nor any lost origin to be found. <ref type="bibr" target="#b41">Stewart (2007)</ref> analyses the question of origin in relation to a collection. She stated that a collection does not aim to restore the context of origin, but aims to create a new context. She considers Noah's Ark to be the archetypal collection, which is representative but obliterates its context of origin. Although the world is destroyed, the ark contains a definitive collection of animals. When the collection is detached from its origin, a new world is framed and generated. Hence, according to <ref type="bibr">Stewart, '[t]</ref>he world of the ark is a world not of nostalgia but of anticipation' (152). Drawing on <ref type="bibr">Stewart, Van Alphen (2014)</ref> points out the organisation of the ark, which does not aim to create a memory of the previous world, but to 'forget that world and start a new one' (61). When considering the subjectivities, discourses, and practices that Koçu used to organise in his encyclopaedia and how he turned it into an archive as collection, it is possible to argue that İstanbul Ansiklopedisi functions in the same way as Noah's Ark. As mentioned previously, Koçu's nostalgia for the Ottoman past is absent from the lived experience; this absence is the generative desire in the compilation of his encyclopaedia. However, the encyclopaedia does not represent or restore the lived experience as it was, but frames a new world that is detached from the previous one instead.</p><p>As a result of this newly framed world, İstanbul Ansiklopedisi, the archive as collection, remakes the memory of the Ottoman Empire in the present and, in the process, destroys the context of its imagined origin that never actually existed in the past. Furthermore, as a queer diasporic archive, the encyclopaedia presents non-conforming subjects in Istanbul who were metaphorically displaced across time and space, but does not replace their lost origin. Instead, the subjectivities, discourses and practices in Koçu's archive are arranged in a new, unified textual space; that is, a queer diasporic space.</p><p>The implications of this queer diasporic space have a significant impact on our readings of the encyclopaedia. Koçu's nostalgia for the Ottoman Empire, İstanbul Ansiklopedisi and the readings thereof could be juxtaposed with <ref type="bibr" target="#b13">Edelman's (2004)</ref> and <ref type="bibr" target="#b33">Munõz's (2009)</ref> takes on queer futurity. Koçu's nostalgia and the generative desire driven by this nostalgia, which resulted in the creation of the encyclopaedia, resonates with <ref type="bibr" target="#b13">Edelman's (2004)</ref> work, in which he claims that 'the logic of a temporality […] always serves to 'straighten' it out, and thus proclaims the universality of reproductive futurism' (26). It prioritises the figure of the Child, whose future becomes an instrument that is used to legitimise every political decision that is made. In this way, the Child, as the symbol of the normative societal structures envisioned via reproductive futurism, hinders those who do not conform to heteronormative sexuality. Edelman proposes the idea of opting out of such futurity and focusing on the 'here and now' instead. In the context of the twentieth-century Turkish state, the state ideology revolving around the nuclear family and the role of women as being responsible for raising children for the nation and the future aligns with Edelman's description of reproductive futurity. In this regard, Koçu's construction of İstanbul Ansiklopedisi as a queer diasporic archive could be interpreted as an indication that Koçu aimed to move beyond heteronormative temporality by gathering and organising the material that he collected, and ultimately created multiple temporalities in the present. Koçu often included queer subjectivities that deviated from reproductive sexuality and that would not serve the family in the encyclopaedia and, more importantly, the concept of the Child. Thus, one could argue that Koçu's work can be seen as a form of queer resistance, opting out of the future and not being concerned with the future but with the past in the present -the 'here and now' in <ref type="bibr" target="#b13">Edelman's (2004)</ref> sense. 11  Nevertheless, as discussed previously, what Koçu did when creating the encyclopaedia differed from the outcome of his creation. I believe that İstanbul Ansiklopedisi has the potential to inspire hope and a sense of queer futurity, as <ref type="bibr" target="#b33">Munõz (2009)</ref> describes. In Cruising Utopia: The Then and There of Queer Futurity, Muñoz agrees with Edelman's ( <ref type="formula">2004</ref>) take on reproductive futurism to a certain extent, but does not consider abandoning the future a productive form of resistance. 12 He challenges the idea of opting out of the future and focuses on the potential of 'then and there'. According to <ref type="bibr" target="#b33">Munõz (2009)</ref>, <ref type="bibr">'[q]</ref>ueerness is essentially about the rejection of the here and now and an insistence on potentiality or concrete possibility for another world' (1). In other words, he suggests that queerness is always about hope and futurity, and always on the horizon. With reference to Munõz, I maintain that reading İstanbul Ansiklopedisi only for its queer content in relation to the past does not do justice to its potential. The encyclopaedia offers a new textual space, including queer potentials for the future.</p><p>There is no doubt that Koçu's relationship with the past and its inclusion in his work are important in order to explore what a historian like Koçu deemed worth mentioning in an encyclopaedia about Istanbul, particularly with regard to non-normative practices, subjectivities and discourses. The queer content in İstanbul Ansiklopedisi is clearly evident when one reads the encyclopaedia. Nevertheless, the encyclopaedia includes more than what its author found interesting and surpasses his encyclopaedic endeavour. A future-oriented reading of İstanbul Ansiklopedisi reveals different possibilities that are not intrinsically included within the encyclopaedia. Such a reading makes room for novel modes of reading and meaning-making practices that the text may provide with an alternative time frame in mind. In other words, benefiting 11 Sarıtaş (2021) touches briefly on <ref type="bibr" target="#b13">Edelman's (2004)</ref> critique of heteronormative futurity, and supports her argument with exemplary entries about street children who were not situated in heteronormative societal constructions since they did not have families. 12  <ref type="bibr" target="#b13">Edelman's (2004)</ref> discussion of the figure of the Child focuses mainly on the white, middle-class, North American context. <ref type="bibr" target="#b33">Munõz (2009)</ref> criticises Edelman by arguing that queer people of colour have nothing to hold on to but hope. In this discussion, it is important to remember Muñoz's Cuban American background when speaking of queer people of colour. His claim of hope for those who do not have the racial, cultural, and economic privileges is also important when discussing the content of İstanbul Ansiklopedisi.</p><p>from queer futurity, a future-oriented reading of İstanbul Ansiklopedisi does not address what the encyclopaedia represents regarding the past but does something with it -it creates grounds for hope.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Conclusion</head><p>İstanbul Ansiklopedisi is a compelling text that consists of a diverse range of captivating material from both Ottoman and recent Turkish history. The previous research has predominantly focused on its queer content, since the encyclopaedia challenged the subject formation and the dominant ideology of the nation-state by bringing historically contingent and non-conforming practices and subjectivities together. The nostalgia and fondness of its creator, Koçu, for the Ottoman Empire, acted as the generative force for the creation of the encyclopaedia. İstanbul Ansiklopedisi is a haunting operation, with the spectres of the past rambling between its pages and disturbing the linearity of history. It encompasses multiple temporalities and spatialities, thus constructing an Istanbul that never existed and is therefore absent, not lost. It is important to note that Koçu's encyclopaedic endeavour, which could be interpreted as a way to cope with the loss of the Ottoman past, was distinct from the final outcome of his endeavour, the encyclopaedia. In other words, Koçu's compilation of the encyclopaedia differs from the final product itself. Instead of representing or restoring the past as it was, or tracing a genealogy from an origin in the past, the encyclopaedia frames a new world and creates a new context of origin. In this sense, the encyclopaedia moves beyond the concept of being a source of history and a historical source that represents the past and the reception of the past by its creator. Instead, it utilises the past and turns it into a fruitful resource for exploring future potentialities. Adopting a future-oriented approach to İstanbul Ansiklopedisi changes our response to the text and helps us read the encyclopaedia not with a focus on relationships with the past, but with attention to the challenges to dominant social structures that are required to imagine an optimistic future.</p><p>production, and cultural and literary gerontology. Her previous work explored the emergence of modern discourses on gender and sexuality and identity politics vis-à-vis imperial politics in the twentieth-century Ottoman Empire. Her current research project examines culturally specific representations of ageing, old age, and the use of literature in healthcare.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>ORCID</head><p>Müge Özoğlu http://orcid.org/0000-0001-6692-4001</p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head>Figure 1 .</head><label>1</label><figDesc>Figure 1. A young boza seller (illustrated by S. Bozcalı).</figDesc><graphic coords="6,136.52,53.29,216.00,305.07" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_1"><head>Figure 2 .</head><label>2</label><figDesc>Figure 2. A bath attendant bringing waistcloths (illustrated by Hüsnü).</figDesc><graphic coords="7,136.52,53.29,216.00,350.31" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_2"><head>Figure 3 .</head><label>3</label><figDesc>Figure 3. A drawing of İsmail Ağa from the toilet at Muradpaşa Mosque (copied on side by Hüsnü).</figDesc><graphic coords="9,136.52,53.29,216.00,436.82" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_3"><head>Figure 4 .</head><label>4</label><figDesc>Figure 4. Çetin Başaran and Ülkü Tuna walking half-naked and barefoot on İstiklal Street (illustrated by S. Bozcalı from a photograph).</figDesc><graphic coords="11,136.52,53.29,216.00,228.70" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_4"><head>Figure 5 .</head><label>5</label><figDesc>Figure 5. Madam Cavalli and Albanian Remo (composition by Sabiha Bozcalı).</figDesc><graphic coords="11,62.82,352.12,368.39,274.68" type="bitmap" /></figure>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="1" xml:id="foot_0"><p>The majority of the illustrations were drawn by Bozcalı, a painter who is considered to have been the first female illustrator in Turkey. She studied in several important art studios in Berlin, Munich, Paris, Rome and Istanbul. Bozcalı drew hundreds of illustrations for all eleven volumes of İstanbul Ansiklopedisi, as well as for Koçu's other works. Koçu wrote an entry about Bozcalı in his encyclopaedia and described her as the most outstanding illustrator in the Istanbul press of the preceding decade(1963,(3053)(3054)(3055)(3056)(3057)(3058)(3059)(3060).</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="2" xml:id="foot_1"><p>2 For details about the project, see Öner 2022.</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="3" xml:id="foot_2"><p>When Koçu understood that he could not live sufficiently long to finish his massive encyclopaedia project, he entertained the possibility of burning the materials and notes for the subsequent volumes<ref type="bibr" target="#b17">(Eyice 1975)</ref>. This plan to burn his work does not seem to match the assumed intention of a memorialisation of the past.</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="4" xml:id="foot_3"><p>  4  For a further discussion of discourses on gender and sexuality in the Middle East, see<ref type="bibr" target="#b43">Ze'evi (2006)</ref>,<ref type="bibr" target="#b34">Najmabadi (2005), and</ref><ref type="bibr" target="#b16">El-Rouyheb (2005</ref></p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="5" xml:id="foot_4"><p>).5  SeeAndrews and Kalpaklı (</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="6" xml:id="foot_5"><p>2005).6  In his article,<ref type="bibr" target="#b9">Delice (2010)</ref> discusses the works of two prominent historians, Mustafâ Âlî (1541-1600) and Ahmed Cevdet Paşa (1822-1895), and their writing practices.</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="7" xml:id="foot_6"><p><ref type="bibr" target="#b24">K. Mehmet Kentel (2022)</ref> also refers to the imaginary geography of İstanbul Ansiklopedisi with specific emphasis on Galata and Beyoğlu.</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="8" xml:id="foot_7"><p><ref type="bibr" target="#b14">Eldem (2019)</ref> argues that the illustrations in the encyclopaedia blurred the distinctions between a hippie who visited Istanbul during the 1970s and a bath attendant who resided in seventeenth-century Istanbul.</p></note>
+		</body>
+		<back>
+
+			<div type="acknowledgement">
+<div><head>Acknowledgements</head><p>I would like to thank my colleagues in the <rs type="institution">Department of Gender Studies at Lund University</rs>, particularly <rs type="person">Andrés Brink Pinto</rs> and <rs type="person">Jens Rydström</rs>, as well as <rs type="person">Sander Molenaar</rs>, for their valuable comments about the earlier drafts of this article.</p></div>
+			</div>
+			<div type="funding">
+<div><head>Funding</head><p>This research was supported by the <rs type="funder">Swedish Institute</rs> [<rs type="grantNumber">25906/2018</rs>].</p></div>
+<div><head>Notes on contributor</head><p>Müge Özoğlu is an Assistant Professor of Comparative Literature at <rs type="institution">Utrecht University</rs>. Her research interests include identity politics, gender and sexuality, alternative forms of knowledge</p></div>
+			</div>
+			<listOrg type="funding">
+				<org type="funding" xml:id="_TSEEmmW">
+					<idno type="grant-number">25906/2018</idno>
+				</org>
+			</listOrg>
+			<div type="annex">
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Disclosure statement</head><p>No potential conflict of interest was reported by the author(s).</p></div>			</div>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<analytic>
+		<title level="a" type="main">The Queer Archivist as Political Dissident: Rereading the Ottoman Empire in the Works of Reşad Ekrem Koçu</title>
+		<author>
+			<persName><forename type="first">Rüstem</forename><surname>Altınay</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Ertuğ</surname></persName>
+		</author>
+		<idno type="DOI">10.1215/01636545-2849549</idno>
+		<ptr target="https://doi.org/10.1215/01636545-2849549" />
+	</analytic>
+	<monogr>
+		<title level="j">Radical History Review</title>
+		<imprint>
+			<biblScope unit="volume">2015</biblScope>
+			<biblScope unit="issue">122</biblScope>
+			<biblScope unit="page" from="89" to="102" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<monogr>
+		<author>
+			<persName><forename type="first">Walter</forename><forename type="middle">G</forename><surname>Andrews</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Mehmet</forename><surname>Kalpaklı</surname></persName>
+		</author>
+		<title level="m">The Age of Beloveds: Love and the Beloved in Early-Modern Ottoman and European Culture and Society</title>
+		<meeting><address><addrLine>London</addrLine></address></meeting>
+		<imprint>
+			<publisher>Duke University Press</publisher>
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title level="a" type="main">Introduction</title>
+		<author>
+			<persName><forename type="first">Mieke</forename><surname>Bal</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Acts of Memory: Cultural Recall in the Present</title>
+		<editor>
+			<persName><forename type="first">Mieke</forename><surname>Bal</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">Jonathon</forename><surname>Crewe</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">Leon</forename><surname>Spitzer</surname></persName>
+		</editor>
+		<editor>
+			<persName><surname>Vii-Xvii</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Hanover &amp; London; New England</addrLine></address></meeting>
+		<imprint>
+			<publisher>University Press</publisher>
+			<date type="published" when="1999">1999</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<monogr>
+		<title level="m" type="main">The Homoerotics of Orientalism</title>
+		<author>
+			<persName><forename type="first">Joseph</forename><surname>Boone</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Allen</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2014">2014</date>
+			<publisher>Columbia University Press</publisher>
+			<pubPlace>New York</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title level="a" type="main">Creating a Queer Archive in the Public Eye: The Case of Reşad Ekrem Koçu</title>
+		<author>
+			<persName><forename type="first">Joseph</forename><surname>Boone</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Allen</surname></persName>
+		</author>
+		<idno type="DOI">10.1215/10642684-3672303</idno>
+		<ptr target="https://doi.org/10.1215/10642684-3672303" />
+	</analytic>
+	<monogr>
+		<title level="j">GLQ: A Journal of Lesbian and Gay Studies</title>
+		<imprint>
+			<biblScope unit="volume">23</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="51" to="81" />
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<monogr>
+		<title level="m" type="main">Common Places: Mythologies of Everyday Life in Russia</title>
+		<author>
+			<persName><forename type="first">Svetlana</forename><surname>Boym</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1995">1995</date>
+			<publisher>Harvard University Press</publisher>
+			<pubPlace>Cambridge, MA</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">Svetlana</forename><surname>Boym</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2017">2017</date>
+			<publisher>Bloomsbury Academic</publisher>
+			<pubPlace>London</pubPlace>
+		</imprint>
+	</monogr>
+	<note type="report_type">The Off-Modern</note>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title level="a" type="main">Specters and Angels at the End of History</title>
+		<author>
+			<persName><forename type="first">Wendy</forename><surname>Brown</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Vocations of Political Theory</title>
+		<editor>
+			<persName><forename type="first">Jason</forename><forename type="middle">A</forename><surname>Frank</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">John</forename><surname>Tambornino</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Minneapolis</addrLine></address></meeting>
+		<imprint>
+			<publisher>University of Minnesota Press</publisher>
+			<date type="published" when="2000">2000</date>
+			<biblScope unit="page" from="25" to="58" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<monogr>
+		<author>
+			<persName><forename type="first">Ann</forename><surname>Cvetkovich</surname></persName>
+		</author>
+		<title level="m">Archive of Feelings: Trauma Sexuality, and Lesbian Public Cultures</title>
+		<meeting><address><addrLine>Durham &amp; London</addrLine></address></meeting>
+		<imprint>
+			<publisher>Duke University Press</publisher>
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title level="a" type="main">Friendship, Sociability, and Masculinity in the Ottoman Empire: An Essay Confronting the Ghosts of Historicism</title>
+		<author>
+			<persName><forename type="first">Serkan</forename><surname>Delice</surname></persName>
+		</author>
+		<idno type="DOI">10.1017/S0896634600005598</idno>
+		<ptr target="https://doi.org/10.1017/S0896634600005598" />
+	</analytic>
+	<monogr>
+		<title level="j">New Perspectives on Turkey</title>
+		<imprint>
+			<biblScope unit="volume">42</biblScope>
+			<biblScope unit="page" from="103" to="125" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title level="a" type="main">Spectropolitics: Ghosts of the Global Contemporary/Introduction</title>
+		<author>
+			<persName><forename type="first">Pilar</forename><surname>Del</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Maria</forename><surname>Blanco</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Esther</forename><surname>Peeren</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">The Spectralities Reader: Ghosts and Haunting in Contemporary Cultural Theory</title>
+		<editor>
+			<persName><forename type="first">Maria</forename><surname>Del</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">Pilar</forename><surname>Blanco</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">Esther</forename><surname>Peeren</surname></persName>
+		</editor>
+		<meeting><address><addrLine>New York &amp; London</addrLine></address></meeting>
+		<imprint>
+			<publisher>Bloomsbury</publisher>
+			<date type="published" when="2013">2013</date>
+			<biblScope unit="page" from="91" to="101" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<monogr>
+		<title level="m" type="main">The Spectres of Marx: The State of the Debt, the Work of Mourning, and the New International</title>
+		<author>
+			<persName><forename type="first">Jacques</forename><surname>Derrida</surname></persName>
+		</author>
+		<editor>Peggy Kamuf. London</editor>
+		<imprint>
+			<date type="published" when="1994">1994</date>
+			<publisher>Routledge</publisher>
+			<pubPlace>New York</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<monogr>
+		<title level="m" type="main">Archive Fever: A Freudian Impression</title>
+		<author>
+			<persName><forename type="first">Jacques</forename><surname>Derrida</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1998">1998</date>
+			<publisher>Chicago University Press</publisher>
+			<pubPlace>Chicago</pubPlace>
+		</imprint>
+	</monogr>
+	<note>Translated by Eric Prenowitz</note>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<monogr>
+		<author>
+			<persName><forename type="first">Lee</forename><surname>Edelman</surname></persName>
+		</author>
+		<title level="m">No Future: Queer Theory and the Death Drive</title>
+		<meeting><address><addrLine>Durham</addrLine></address></meeting>
+		<imprint>
+			<publisher>Duke University Press</publisher>
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<title level="a" type="main">Tarihçi Gözüyle Reşad Ekrem Koçu&apos;nun İstanbul Ansiklopedisi [Reşad Ekrem Koçu&apos;s Encyclopaedia of Istanbul from a Perspective of a Historian]</title>
+		<author>
+			<persName><forename type="first">Edhem</forename><surname>Eldem</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">SALT Beyoğlu</title>
+		<imprint>
+			<date type="published" when="2019">2019</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<monogr>
+		<title/>
+		<author>
+			<persName><surname>Youtube</surname></persName>
+		</author>
+		<ptr target="https://www.youtube.com/watch?v=BrQc5keYoks&amp;t=3103s" />
+		<imprint>
+			<date type="published" when="2023-08-09">August 9, 2023</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<monogr>
+		<title level="m" type="main">Before Homosexuality in the Arab-Islamic World</title>
+		<author>
+			<persName><forename type="first">Khaled</forename><surname>El-Rouyheb</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2005">2005</date>
+			<publisher>University of Chicago Press</publisher>
+			<biblScope unit="page" from="1500" to="1800" />
+			<pubPlace>Chicago</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<analytic>
+		<title level="a" type="main">Aramızdan Ayrılan Bir İstanbul Tarihçisi Reşat Ekrem Koçu [A Historian of Istanbul Who Left Us]</title>
+		<author>
+			<persName><forename type="first">Semavi</forename><surname>Eyice</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Pirelli</title>
+		<imprint>
+			<biblScope unit="volume">134</biblScope>
+			<biblScope unit="page" from="8" to="9" />
+			<date type="published" when="1975">1975</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<monogr>
+		<title level="m" type="main">The Archaeology of Knowledge</title>
+		<author>
+			<persName><forename type="first">Michel</forename><surname>Foucault</surname></persName>
+		</author>
+		<editor>A. M. Sheridan Smith</editor>
+		<imprint>
+			<date type="published" when="1972">1972</date>
+			<publisher>Routledge</publisher>
+			<pubPlace>London</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<monogr>
+		<author>
+			<persName><forename type="first">Carla</forename><surname>Freccero</surname></persName>
+		</author>
+		<title level="m">Queer/Early/Modern</title>
+		<meeting><address><addrLine>Durham</addrLine></address></meeting>
+		<imprint>
+			<publisher>Duke University Press</publisher>
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<monogr>
+		<title level="m" type="main">Impossible Desires: Queer Diaspora and South Asian Public Cultures</title>
+		<author>
+			<persName><forename type="first">Gayatri</forename><surname>Gopinath</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2005">2005</date>
+			<publisher>Duke University Press</publisher>
+			<pubPlace>Durham &amp; London</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<monogr>
+		<title level="m" type="main">Unruly Visions: The Aesthetic Practices of Queer Diaspora</title>
+		<author>
+			<persName><forename type="first">Gayatri</forename><surname>Gopinath</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2018">2018</date>
+			<publisher>Duke University Press</publisher>
+			<pubPlace>Durham &amp; London</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<analytic>
+		<title level="a" type="main">Cultural Identity and Diaspora</title>
+		<author>
+			<persName><forename type="first">Stuart</forename><surname>Hall</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Identity: Community, Culture, Difference</title>
+		<editor>
+			<persName><forename type="first">Jonathan</forename><surname>Rutherford</surname></persName>
+		</editor>
+		<meeting><address><addrLine>London</addrLine></address></meeting>
+		<imprint>
+			<publisher>Lawrence &amp; Wishart</publisher>
+			<date type="published" when="1990">1990</date>
+			<biblScope unit="page" from="222" to="237" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<monogr>
+		<title level="m" type="main">İstanbul Ansiklopedisi Arşivi Çalışmaları Başlatıldı [Works on the Archive of the Encyclopaedia of Istanbul Has Been Started]</title>
+		<ptr target="https://saltonline.org/tr/1898/istanbul-ansiklopedisi-arsivi-calismalari-baslatildi?tag=70" />
+		<imprint>
+			<date type="published" when="2018-08-09">2018. August 9, 2023</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<analytic>
+		<title level="a" type="main">Reşad Ekrem Koçu&apos;nun Çizdiği/Bozduğu Sınırlarla Galata ve Beyoğlu Tarihi [The History of Galata and Beyoğlu with the Borders Drawn/Deconstructed by Reşad Ekrem Koçu]</title>
+		<author>
+			<persName><forename type="first">K</forename><surname>Kentel</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Mehmet</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Toplumsal Tarih</title>
+		<imprint>
+			<biblScope unit="volume">388</biblScope>
+			<biblScope unit="page" from="44" to="51" />
+			<date type="published" when="2022">2022</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<analytic>
+		<title level="a" type="main">Bozcalı (Hatice Sabiha)</title>
+		<author>
+			<persName><forename type="first">Reşad</forename><surname>Koçu</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Ekrem</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">İstanbul Ansiklopedisi</title>
+		<editor>
+			<persName><forename type="first">Resad</forename><surname>Ekrem</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">Koçu</forename></persName>
+		</editor>
+		<imprint>
+			<date type="published" when="1963">1963</date>
+			<biblScope unit="page" from="3053" to="3060" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<analytic>
+		<title level="a" type="main">Istanbul: Reşad Ekrem Koçu ve Mehmet Ali Akbay İstanbul Ansiklopedisi ve Neşriyat Kollektif Şirketi</title>
+		<author>
+			<persName><forename type="first">Reşad</forename><surname>Koçu</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Ekrem</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">İstanbul Ansiklopedisi</title>
+		<editor>
+			<persName><forename type="first">Resad</forename><surname>Ekrem</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">Koçu</forename></persName>
+		</editor>
+		<imprint>
+			<date type="published" when="1965">1965</date>
+			<biblScope unit="page" from="3586" to="3592" />
+		</imprint>
+	</monogr>
+	<note>Civan</note>
+</biblStruct>
+
+<biblStruct xml:id="b27">
+	<analytic>
+		<title level="a" type="main">Istanbul: Reşad Ekrem Koçu ve Mehmet Ali Akbay İstanbul Ansiklopedisi ve Neşriyat Kollektif Şirketi</title>
+		<author>
+			<persName><forename type="first">Reşad</forename><surname>Koçu</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Ekrem</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">İstanbul Ansiklopedisi</title>
+		<editor>
+			<persName><forename type="first">Resad</forename><surname>Ekrem</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">Koçu</forename></persName>
+		</editor>
+		<imprint>
+			<date type="published" when="1965">1965</date>
+			<biblScope unit="page">3896</biblScope>
+		</imprint>
+	</monogr>
+	<note>Çıkma</note>
+</biblStruct>
+
+<biblStruct xml:id="b28">
+	<analytic>
+		<title level="a" type="main">Dervîş Sokağı Cinayeti</title>
+		<author>
+			<persName><forename type="first">Reşad</forename><surname>Koçu</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Ekrem</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">İstanbul Ansiklopedisi</title>
+		<editor>
+			<persName><forename type="first">Resad</forename><surname>Ekrem</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">Koçu</forename></persName>
+		</editor>
+		<imprint>
+			<date type="published" when="1966">1966</date>
+			<biblScope unit="page" from="4512" to="4514" />
+		</imprint>
+	</monogr>
+	<note>Istanbul: Koçu Yayınları</note>
+</biblStruct>
+
+<biblStruct xml:id="b29">
+	<analytic>
+		<title level="a" type="main">Duvar Yazıları ve Resimleri (Müstehcen ve Çirkin)</title>
+		<author>
+			<persName><forename type="first">Reşad</forename><surname>Koçu</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Ekrem</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">İstanbul Ansiklopedisi</title>
+		<editor>
+			<persName><forename type="first">Resad</forename><surname>Ekrem</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">Koçu</forename></persName>
+		</editor>
+		<meeting><address><addrLine>Istanbul</addrLine></address></meeting>
+		<imprint>
+			<publisher>Koçu Yayınları</publisher>
+			<date type="published" when="1968">1968</date>
+			<biblScope unit="page" from="4795" to="4797" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b30">
+	<analytic>
+		<title level="a" type="main">Figûran, İstiklâl Caddesinde Figüranların Çıplak Yürüyüşü</title>
+		<author>
+			<persName><forename type="first">Reşad</forename><surname>Koçu</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Ekrem</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">İstanbul Ansiklopedisi</title>
+		<editor>
+			<persName><forename type="first">Resad</forename><surname>Ekrem</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">Koçu</forename></persName>
+		</editor>
+		<meeting><address><addrLine>Istanbul</addrLine></address></meeting>
+		<imprint>
+			<publisher>Koçu Yayınları</publisher>
+			<date type="published" when="1973">1973</date>
+			<biblScope unit="page" from="5774" to="5775" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b31">
+	<monogr>
+		<author>
+			<persName><forename type="first">Dominick</forename><surname>Lacapra</surname></persName>
+		</author>
+		<title level="m">History &amp; Criticism</title>
+		<meeting><address><addrLine>Ithaca</addrLine></address></meeting>
+		<imprint>
+			<publisher>Cornell University Press</publisher>
+			<date type="published" when="1985">1985</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b32">
+	<analytic>
+		<title level="a" type="main">Trauma, Absence, Loss</title>
+		<author>
+			<persName><forename type="first">Dominick</forename><surname>Lacapra</surname></persName>
+		</author>
+		<idno type="DOI">10.1086/448943</idno>
+		<ptr target="https://doi.org/10.1086/448943" />
+	</analytic>
+	<monogr>
+		<title level="j">Critical Inquiry</title>
+		<imprint>
+			<biblScope unit="volume">25</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="696" to="727" />
+			<date type="published" when="1999">1999</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b33">
+	<monogr>
+		<title level="m" type="main">Cruising Utopia: The Then and There of Queer Futurity</title>
+		<author>
+			<persName><forename type="first">José</forename><surname>Munõz</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Esteban</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2009">2009</date>
+			<publisher>New York University Press</publisher>
+			<pubPlace>New York</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b34">
+	<monogr>
+		<author>
+			<persName><forename type="first">Afsaneh</forename><surname>Najmabadi</surname></persName>
+		</author>
+		<title level="m">Women with Mustaches and Men Without Beards: Gender and Sexual Anxieties of Iranian Modernity</title>
+		<meeting><address><addrLine>Berkley</addrLine></address></meeting>
+		<imprint>
+			<publisher>University of California</publisher>
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b35">
+	<analytic>
+		<title level="a" type="main">İstanbul Ansiklopedisi&apos;ni Erişime Açmak [Make the Encyclopaedia of Istanbul Accessible]</title>
+		<author>
+			<persName><forename type="first">Meriç</forename><surname>Öner</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Toplumsal Tarih</title>
+		<imprint>
+			<biblScope unit="volume">388</biblScope>
+			<biblScope unit="page" from="19" to="21" />
+			<date type="published" when="2022">2022</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b36">
+	<analytic>
+		<title level="a" type="main">Istanbul: Queer Desires between Muslim Tradition and Global Pop</title>
+		<author>
+			<persName><forename type="first">Ralph</forename><forename type="middle">J</forename><surname>Poole</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Queer Cities, Queer Cultures: Europe Since 1945</title>
+		<editor>
+			<persName><forename type="first">Matt</forename><surname>Cook</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">Jennifer</forename><forename type="middle">V</forename><surname>Evans</surname></persName>
+		</editor>
+		<meeting><address><addrLine>New York</addrLine></address></meeting>
+		<imprint>
+			<publisher>Bloomsbury</publisher>
+			<date type="published" when="2014">2014</date>
+			<biblScope unit="page" from="171" to="190" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b37">
+	<analytic>
+		<author>
+			<persName><forename type="first">William</forename><surname>Safran</surname></persName>
+		</author>
+		<idno type="DOI">10.1353/dsp.1991.0004</idno>
+		<ptr target="https://doi.org/10.1353/dsp.1991.0004" />
+	</analytic>
+	<monogr>
+		<title level="m">Diasporas in Modern Societies: Myths of Homeland and Return</title>
+		<imprint>
+			<date type="published" when="1991">1991</date>
+			<biblScope unit="volume">1</biblScope>
+			<biblScope unit="page" from="83" to="99" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b38">
+	<monogr>
+		<title level="m" type="main">Cinsel Normalliğin Kuruluşu: Osmanlı&apos;dan Cumhuriyet&apos;e Heteronormatiflik ve İstikrarsızlıkları</title>
+		<author>
+			<persName><forename type="first">Ezgi</forename><surname>Sarıtaş</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2020">2020</date>
+			<publisher>Metin Yayınları</publisher>
+			<pubPlace>İstanbul</pubPlace>
+		</imprint>
+	</monogr>
+	<note>The Establishment of Sexual Normality: Heteronormativity and its Instabilities from the Ottoman Empire to the Turkish Republic</note>
+</biblStruct>
+
+<biblStruct xml:id="b39">
+	<analytic>
+		<title level="a" type="main">Kayıp Geçmişin Yetersiz İkameleri: İstanbul Ansiklopedisi&apos;nin Hummalı Queer Arşivi [Insufficient Substitutes of the Lost Past: The Feverish Queer Archive of I ̇stanbul Ansiklopedisi]</title>
+		<author>
+			<persName><forename type="first">Ezgi</forename><surname>Sarıtaş</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Mülkiye Dergisi</title>
+		<imprint>
+			<biblScope unit="volume">45</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="495" to="531" />
+			<date type="published" when="2021">2021</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b40">
+	<analytic>
+		<title level="a" type="main">The Making of Familial Citizenship in Turkey</title>
+		<author>
+			<persName><forename type="first">Nükhet</forename><surname>Sirman</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Citizenship in a Global World: European Questions and Turkish Experiences</title>
+		<editor>
+			<persName><forename type="first">E</forename><surname>Fuat Keyman</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">Ahmet</forename><surname>İçduygu</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Oxfordshire</addrLine></address></meeting>
+		<imprint>
+			<publisher>Routledge</publisher>
+			<date type="published" when="2005">2005</date>
+			<biblScope unit="page" from="148" to="172" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b41">
+	<monogr>
+		<title level="m" type="main">On Longing: Narratives of the Miniature, the Gigantic, the Souvenir, the Collection</title>
+		<author>
+			<persName><forename type="first">Susan</forename><surname>Stewart</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2007">2007</date>
+			<publisher>Duke University Press</publisher>
+			<pubPlace>Durham &amp; London</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b42">
+	<monogr>
+		<title level="m" type="main">Staging the Archive: Art and Photography in the Age of New Media</title>
+		<author>
+			<persName><forename type="first">Ernst</forename><surname>Van Alphen</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2014">2014</date>
+			<publisher>Reaktion Books</publisher>
+			<pubPlace>London</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b43">
+	<monogr>
+		<title level="m" type="main">Producing Desire: Changing Sexual Discourse in the Ottoman Middle East, 1500-1900</title>
+		<author>
+			<persName><forename type="first">Dror</forename><surname>Ze'evi</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2006">2006</date>
+			<publisher>University of California</publisher>
+			<pubPlace>Berkeley</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

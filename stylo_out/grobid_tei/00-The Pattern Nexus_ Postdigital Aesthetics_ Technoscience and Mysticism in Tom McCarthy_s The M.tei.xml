@@ -1,0 +1,1061 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">The Pattern Nexus: Postdigital Aesthetics, Technoscience and Mysticism in Tom McCarthy&apos;s The Making of Incarnation and Beyond</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author role="corresp">
+							<persName><forename type="first">Stephan</forename><surname>Besser</surname></persName>
+							<email>s.besser@uva.nl</email>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Literary Studies &amp; Department of Dutch Studies</orgName>
+								<orgName type="institution">University of Amsterdam</orgName>
+								<address>
+									<settlement>Amsterdam</settlement>
+									<country key="NL">The Netherlands</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff1">
+								<orgName type="department">Department of Literary Studies &amp; Department of Dutch Studies</orgName>
+								<orgName type="institution">University of Amsterdam</orgName>
+								<address>
+									<addrLine>Spuistraat 134</addrLine>
+									<postCode>1012 VB</postCode>
+									<settlement>Amsterdam</settlement>
+									<country key="NL">The Netherlands</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">The Pattern Nexus: Postdigital Aesthetics, Technoscience and Mysticism in Tom McCarthy&apos;s The Making of Incarnation and Beyond</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date/>
+						</imprint>
+					</monogr>
+					<idno type="MD5">A70163C8CB42A6842DBEF60366CFEADB</idno>
+					<idno type="DOI">10.1080/00111619.2026.2630966</idno>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.0" ident="GROBID" when="2026-02-25T19:50+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>According to computational literary scholar Franco Moretti, pattern is a "great keyword of our times." This article analyzes the continuous fascination with pattern as a trope and figure in the novelistic oeuvre of Tom McCarthy. It focuses on the creation of an overdetermined pattern nexus in McCarthy's most recent novel, The Making of Incarnation (2021), showing that this work ambiguously conjoins three different figurations of "pattern": pattern as marker of a late modern and postdigital surface aesthetic that affirmatively pits the formal rigor of geometric arrangements against humanist notions of subjectivity; pattern as a key term of contemporary technoscience that critically reflects the ominous societal impact of automated pattern recognition and algorithmic control; and, finally, pattern as a mystical cipher of order and connection that embodies the longing for a deeper unity behind the inextricable complexity of the phenomenal world. The article tracks the intertextual resonances of this overdetermined nexus with the pattern imagery in McCarthy's previous novels, Satin Island and Remainder, and with historical and contemporary pattern discourses more broadly. It thereby offers a new perspective on the current allure of patterns in postdigital culture, science, and scholarship as well.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Introduction</head><p>The cover illustration of Tom McCarthy's novel The Making of <ref type="bibr">Incarnation (2021)</ref> shows a whirlwind of iridescent lines in a rotating movement against the dark backdrop of a three-dimensional grid pattern. On the left side of the image, the rectangular grid structure is transforming into an undulating wave pattern (Figure <ref type="figure" target="#fig_0">1</ref>). As graphic designer Mario de Meyer explains-and every reader of the novel will soon discover-the pictorial language of this image is inspired by the so-called chronocycle graphs that American industrial engineers Lillian Moller <ref type="bibr">Gilbreth (1878</ref><ref type="bibr" target="#b20">-1972</ref><ref type="bibr">) and Fred Bunker Gilbreth (1868</ref><ref type="bibr">-1924)</ref> produced in the 1910s and 1920s as part of their motion capture research ( <ref type="bibr">de Meyer)</ref>.</p><p>Trying to find the most efficient way for workers to perform their tasks in the factory or on the shop floor, the Gilbreths had equipped seamstresses, meat packers, and factory workers with light rings and captured their movements in film recordings and long exposure photographs (Figure <ref type="figure" target="#fig_1">2</ref>). Within this visual template, the cover illustration also includes pictorial allusions to several other of the novel's many references to kinetic, grid, and wave patterns. The dotted red line at the bottom of the image, for instance, is a reference to Joan Miró's painting Person Throwing a Stone at a Bird <ref type="bibr">(1926)</ref>, which is described in detail in the novel and inspires one of the protagonists to pursue a career in motion capture research. The water drop in the lower right corner of the image and the whirlpool-like shape of the twirling lines allude to a quote by cyberneticist Norbert Wiener that another character has adopted as his life motto: "We are but whirlpools in a river of ever-flowing water; not stuff that abides but patterns that perpetuate themselves . . . " <ref type="bibr">(McCarthy,</ref><ref type="bibr">Incarnation 181)</ref>.</p><p>While The Making of Incarnation arguably is McCarthy's most pattern-saturated novel yet, this author's longstanding fascination with patterns and grids of all kinds has been noted by several critics before. Justus Nieland, for instance, has analyzed the role of grid patterns in McCarthy's 2005 debut novel Remainder <ref type="bibr">(Nieland)</ref>, Frank Richardson has identified a poetics of "image patterns" at work in Satin Island <ref type="bibr">(Richardson)</ref>, and Tom LeClair has pointed to the failing search for "master-patterns" as a common plotline in Satin Island and The Making of Incarnation (Le Clair). Patterns also hold particular significance in McCarthy's own critical and essayistic work, such as his 2010 essay "Stabbing the Olive" on the novels of Belgian writer and photographer Jean-Philippe Toussaint. His own contribution to the volume Holding Pattern, which documents an international art exhibition that McCarthy co-curated with Anne Hilde Neset in Oslo in 2022, is entitled "Holding Pattern (A Deformed Autobiography)." Hence, it is no exaggeration to call pattern a key term and trope in McCarthy's oeuvre. The pervasive allure that patterns hold in McCarthy's novelistic work, however, has not been studied in any greater depth yet.</p><p>In the following, I track this allure and its interdiscursive resonances in The Making of Incarnation and McCarthy's preceding novels, Satin Island and Remainder. I argue that the allure of patterns does not reside in any specific meaning or figurative appeal of this term but results precisely from the dazzling ability of "pattern" to conjoin divergent aesthetic, technological, and epistemic concerns of the present in one overdetermined trop and figure. I will call this unruly cluster of meanings McCarthy's pattern nexus and identify three different figurations of pattern that constitute it: first, pattern as marker of a late modern and postdigital surface aesthetic that affirmatively pits the formal rigor of geometric arrangements against humanist notions of subjectivity; second, pattern as a key term of contemporary technoscience that critically reflects the ominous societal impact of automated pattern recognition and algorithmic control; and, finally, pattern as a mystical cipher of order and connection that embodies the longing for a deeper unity behind the inextricable complexity of the phenomenal world. Although these figurations of pattern interact and reinforce each other in various ways, they do not add up to an overarching meaning. The Making of Incarnation clearly voices concerns about the emergence of a digital "regime of total capture" <ref type="bibr">(193)</ref>, as one of its main characters puts it, but in its more mystical and gnostic moments, the novel also gestures toward a mysterious outside of the totalizing world of pattern technoscience. The captivating power of patterns in Incarnation thus exceeds the disturbing prospect of total capture and control.</p><p>Focusing on The Making of Incarnation as the apex of McCarthy's longstanding engagement with patterns, I will show how this novelistic pattern nexus resonates with an equally ambivalent fascination with patterns in contemporary science, culture, and scholarship. Reflecting on the novel as a genre with a unique potential for immanent critique, Anna Kornbluh states that the "novel's conceptuality is neither linear nor logical but contrastive and accretive," adding that "when novels think they do not iterate evaluative judgments [. . .] but mobilize ideas in sensuous, plastic synthesis" (401). The Making of Incarnation, I argue, is a novel that thinks about pattern in such a contrastive and non-propositional way. If pattern is indeed a "great keyword of our times" (4), as Franco Moretti notes, then McCarthy's novel shows that it is such a keyword in the critical sense that Raymond Williams gave to this term: overdetermined, embattled, and culturally significant precisely because it is saturated with opposing meanings and incompatible interests. Like the mass ornament of Weimar culture that Siegfried Kracauer analyzed in the 1920s, the fascination with patterns in the present reaches across science, technology, arts, and popular culture, without simply being reducible to the immense forces of automation and digital capitalism that drive it.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>"We Want Pattern"</head><p>What exactly are we talking about when we talk about "pattern"? A good starting point for apprehending the exceptional semantic range of this term in English can be to try to translate it into another language, as cognitive scientists Douglas Hofstadter and Emmanuel Sander note. While English speakers may effortlessly use the term pattern to describe "regularities, exact or approximate, that they perceive in the world," they will not find an equivalent word in French that covers this "very clear zone of conceptual space" <ref type="bibr">(Hofstadter and Sanders 80)</ref>. Depending on what exactly they want to say, they would have to choose from a whole list of French words, including the terms "motif," "régularité," "structure," and "dessin," among many others <ref type="bibr">(Hofstadter and Sanders 81)</ref>.</p><p>This observation suggests that the "clearly" defined conceptual space of the term pattern in English is also more heterogenous and fractured than Hofstadter and Sanders assume. Sorting through the etymological documentation provided for the term pattern in the Oxford English Dictionary, computational literary scholar Franco Moretti has identified one of the major fault lines in this semantic terrain. Moretti observes that until around 1900, the word "pattern" was generally used as a normative term, referring to an exemplar or model from which things are made (4). Although still in use todaythink of terms such as "sewing pattern" or machine learning "design pattern" <ref type="bibr">(Lakshmanan et al.)</ref>this meaning now co-exists with a more dominant, descriptive understanding of patterns as something that is found in the world, rather than imposed on it. "Pattern," in this sense, refers to "a regular and intelligible form or sequence in certain actions or situations; esp. one on which the prediction of successive or future events may be based" <ref type="bibr">(Moretti 4)</ref>. Reaching across practically all fields of knowledge and practice, this broad definition includes mathematical patterns <ref type="bibr">(Stewart)</ref> and patterns in the natural world as well as patterns of, for instance, behavior, narrative, and social interaction. In fact, this broad understanding of pattern as an observable regularity is the main reason for the term's appeal for interdisciplinary research <ref type="bibr">(Bod)</ref> and its use as a "metadisciplinary shifter" <ref type="bibr">(Busbea 46</ref>) between various fields of knowledge. The recent turn to pattern across the natural and human sciences and further conceptual fine-tuning have also led to proliferating distinctions between patterns emerging from evolutionary processes and those created through purposeful design , homeostatic and dynamic patterns <ref type="bibr">cultural,</ref><ref type="bibr">social,</ref><ref type="bibr">statistical,</ref>. Patterns are defined in terms of data compressibility, as proposed by philosopher Daniel , and in a more phenomenological manner, as "a regularity-with or without exception-observed in the natural or cultural world" <ref type="bibr">(Bod 1)</ref>. At the same time, Moretti's distinction between normative and descriptive patterns is challenged by machine learning, generative AI, and the amalgamation of technologies of pattern recognition, extraction, and construction <ref type="bibr">(Schabacher 135)</ref>. Literary scholar Berkay Üstün has aptly described the semantic profusion generated by pattern as a traveling concept by stating that "it is easy for the homonym to wreak havoc: nature and culture, machine and human, form and information, repetition and singularity [. . .] all comprehended in one term with messily entangled meanings" <ref type="bibr" target="#b1">(2)</ref>. Patterns are everywhere, and they can be (almost) everything.</p><p>The Making of Incarnation rejoices in this messy multiplicity. Its frame narrative chronicles the creation of the fictitious sci-fi movie "Incarnation" and the involvement of motion capture tech company Pantarey Systems in the production process, in particular. Not coincidentally, the company's name echoes the Heraclitean dictum "panta rhei" (everything flows). Introducing its main theme of patterned fluidity, the novel starts with the detailed description of a series of experiments conducted in a seakeeping basin at the Versuchsanstalt für Wasserbau und Schiffbau (Research Institute for Hydraulic Engineering and Shipbuilding) in Berlin. Cameras register every movement of various scale models of ships and oil rigs, "identifying, within the furious tangle of the lines, some kind of pattern to be viewed both retro-and prospectively, its fuzz transmuted into clean parameters" (5). Pattern recognition thus quickly translates into pattern extraction and circulation. When modeled, these "clean parameters" will be used for "infrasonics and seismocardiography, the study of germ convection around airline cabins and the spread of rumor over social networks" (5), as one of the scientists notes. Evidently, filmmaking is on the list of practical applications as well: the last experiment features the Styrofoam model of a spaceship and is designed to model the breaking up of the spacecraft Sidereal at the dramatic climax of the sci-fi movie in the making.</p><p>The story of the movie's production is interwoven with a second, semi-fictitious plotline that revolves around Lillian and Frank Bunker Gilbreth's time-and-motion studies and links the beginnings of industrialized motion capture research to its current postindustrial and postdigital stage. Both plotlines repeatedly slow down for detailed, jargon-heavy descriptions of various technologies of pattern recognition and production, such as "T-pattern" analysis in behavioral science, geometrical patterns in works of art, the patterned shape of digital grids and screens, and reflections on the ubiquity of patterns itself, as in a character's explanation of the wavering of market prices during the Dutch tulip crisis in the seventeenth century: "With prices fluctuating daily, and these fluctuations having rhythms that, to cannier traders, are discernible [. . .] you're trading in the pattern not of the flower, but of the fluctuation. Same thing: it's still pattern" (Incarnation 159).</p><p>The novel's first deep dive into the captivating allure of patterns takes place in the second chapter and shifts the setting from hydraulic engineering to modern art and from the hydrological research center in Berlin to the Tate Gallery in London. The museum provides the scene for a life-changing encounter that Markie Phocan-then a teenage pupil on a school trip and later a data scientist at Pantarey-has with Joan Miró's painting Person Throwing a Stone at a Bird (1926) (Figure <ref type="figure" target="#fig_2">3</ref>). It takes Markie a while to understand why he is so utterly fascinated by this work of art. It has to do, he realizes, with the kinetic and ballistic urgency of the painting and, more in particular, with the fact that the bird seems to deliberately move toward the stone that is thrown at is as well: "There's even a dotted lined showing the former's trajectory toward the latter, like a cutting dash marked on a dress maker's pattern sheet" (18). In fact, the whole space of the painting seems to be willing the violent collision: "There's an inevitability about it; all the scene's routes and ranges, all its ambits, gradients and courses seem to have been plotted-lines and angles, dots and seams" (19). Mark is so enthralled by the geometric cogency of Miró's painting that he reenacts the scene in the real world just a few moments later. When a classmate enters the room, he throws a glove-ball at him, thereby triggering the museum alarm when the ball bounces from the other boy's face onto the canvas. A museum guard takes Mark to an adjacent surveillance room, where he is shown footage of his action on a video screen. The guard is "replaying the throw again, pausing it just after the release, as though to contrast Markie's action with that of the figure there as a backdrop" (25). Artwork, live action, and video loop blend in a way similar to the superimposition of artificial waves, extracted parameters, and circulated pattern algorithms staged at the Versuchsanstalt in Berlin.</p><p>McCarthy's story about motion capture thus begins with a protagonist who himself is captivated by a visual representation of motion and compulsively repeats it. Significantly, no deeper psychological or emotional motive for Mark's action is given; his urge to reenact the scene is explicitly not triggered by a dislike for his classmate or a desire to break the rules but purely by the geometric coerciveness of the painting. Rather than breaking any rules, Markie feels that he is "obeying rules," namely those "scored in the table of the canvas" (20).</p><p>Within his novelistic oeuvre, this compulsive desire for geometry and imitation echoes the obsessive re-enactments of real-life events that are performed by the unnamed narrator in McCarthy's debut novel Remainder. Emulating the gaze of a surveillance camera, the traumatized protagonist closely studies the movement patterns of homeless people in the street and imaginatively tracks the "master pattern" that his assistants trace across the city from a helicopter-like position above <ref type="bibr">(McCarthy,</ref><ref type="bibr">Remainder 50,</ref><ref type="bibr">86)</ref>. As N. Katherine Hayles has noted, he thus tries to wrest the unpredictable world around him "into familiar patterns he can 'capture' by reproducing them under conditions he controls" (Hayles, Unthought 88). In Remainder, this compulsive urge to capture and repeat patterns is already closely linked to the rejection of any more traditionally psychological motivation of the protagonist's actions. Zadie Smith has influentially described this characteristic of McCarthy's writing as a desire to "flatten selfhood out" (Smith 87), thereby using a conceptual vocabulary of "surface" and "depth" that by now is a common place in the critical literature on McCarthy. Adding to this line of argument, Marc Farrant has recently linked the "theory fiction" of Satin Island to the current academic trends of postcritical and surface reading, stating: "McCarthy's literary enterprise emphasizes surface phenomena and material forms beyond subjective agency, thereby attesting to the exhaustion of the liberal humanist subject (the private individual) of the novel genre itself" (342).</p><p>It was McCarthy himself, however, who explicitly described his literary surface aesthetic as one of patterns. In his essay "Stabbing the Olive" (2010), he praises the work of Belgian writer and photographer Jean-Philippe Toussaint as an intriguing example of a type of literature that repudiates psychological interiority and instead embraces a surface aesthetics of formal patterns, grids, and geometries. The essay culminates in a manifesto-like exclamation in which McCarthy emphatically aligns Toussaint's literary project with his own, declaring: "We don't want plot, depth or content: we want angles, arcs and intervals; we want pattern. Structure is content, geometry is everything" ("Stabbing the Olive"). "Pattern" here signifies an abstract formalism that posits geometry as a source of action, behavior, and narrative itself. McCarthy praises Toussaint's novel The Bathroom (La Salle de bain, 1985) as a literary work that masterfully transforms geometrical figures into narrative forms (the chapter structure of the novel, for instance, is inspired by Pythagoras' theorem on the side length of right-angled triangles). As an admirer of the work of Piet Mondrian and Jasper Johns, Toussaint's narrator celebrates the "quietude of his abstract life" (Toussaint 7). He spends large amounts of time in his bathroom, enthusing about the tub's "parallel sides" (4) and closely observing the "rectangles of foam" (15) on his skin when shaving. "We're being given access not to a fully rounded, self-sufficient character's intimate thoughts and feelings," McCarthy notes approvingly, "but rather to an encounter with structure" ("Stabbing"). This fascination with geometry takes a much more sinister and violent turn when the narrator hurls a dart at his girlfriend Edmondsson's forehead, causing a profusely bleeding but nonfatal wound. Superficially, the action appears to be triggered by Edmondsson's criticism of the narrator's inactivity, yet at a more profound level, it seems to be inspired by another staple of modern art, namely Jasper Johns' dartboard and target paintings. Just after expressing his admiration for Mondrian, the narrator talks about his "rigid, geometrical" nightmares, in which "straight lines are placed in front of my eyes, and I struggle endlessly to alter their structure, replacing one segment with another, performing one rectification after another in order to perfect them" (Toussaint 68). This desire for geometrical perfection seems to inspire the dart throw as a violent displacement activity in the real world, resembling Markie Phocan's less vicious and violent tossing of a glove-ball into a classmate's face.</p><p>Zooming out from this particular constellation and borrowing a phrase from Murray Roston, one might use the term "modernist patterns" for figurations of geometric patterns in works of art and literature that privilege abstract, geometrical, and impersonal types of order over more organic and fluid forms. In fact, McCarthy himself situates both Toussaint's and his own work in the tradition of a geometrical formalism that reaches back to Samuel Beckett and Alain Robbe-Grillet-who famously declared in 1954 that novelists should leave the "old myth of 'depth'" behind and turn to the "surface of things" (Robbe-Grillet 103-104)-and to the nouveau roman's poetics of "pattern and structure" <ref type="bibr">(Goodstein)</ref> in general.</p><p>The Making of Incarnation picks up on this tradition as well, not only referencing modernist art and the violence inherent to anti-humanist geometries but also exploring their absurdist and comedic potential. During a dinner conversation between Anthony Garnett, the founder of Pantarey, and his old college friend and MI6 agent Pilkington, Garnett worries about the emergence of a cybernetic "regime of total capture" that he and his company are complicit with <ref type="bibr">(194)</ref>. Pilkington, on the other hand, is strangely annoyed to find the geometrical arrangement of the food on his plate unbearably disturbed by a scoop of ice cream: "In the final sector of the plate [. . .] sits a scoop of ice cream [. . .]. High-end, in-house-fabricated ice cream within whose spherical mass fragments of ground vanilla are embedded, like small graphite flecks in marble" <ref type="bibr">(Incarnation 194)</ref>. Horrified by this arrangement, Pilkington's fingertips dig into the tablecloth, and he is only able to calm down when the dessert is removed from sight. 1  At the same time, McCarthy's surface geometries not only point back to modernist patterns but also engage with a distinctly postdigital "pattern aesthetic" that, in the words of media scholar David M. Berry, is similarly characterized by an "affective affinity with the surface" (52). To fully appreciate this connection, it is worthwhile to consider Marc Farrant's aforementioned observation about the proximity of McCarthy's work to the recent academic turn toward radical formalism, postcritique, and surface reading. As Farrant notes, key works in this field all advocate a "horizontal approach" (354) and call on literary scholars to engage in the "work of pattern recognition" (Levine 135) instead of hermeneutic deep digging. In their influential article on "Surface Reading," Sharon Best and Stephen Marcus argue against Marxist and other forms of symptomatic reading and instead make a case for attending to the "narrative structures and abstract patterns" at the surface of texts <ref type="bibr">(Best and Marcus 11)</ref>. In a similar but more empirical vein, their colleagues Hoyt Long and Richard Jean So argue for computational forms of literary pattern recognition, while Heather Love emphasizes the virtues of "thin description" (Hoyt Long and Richard Jean So; Love). Within this current critical turn to patterns, Eugenie Brinkema's radical formalism seems particularly close to McCarthy's pattern sensibilities and his surface aesthetics, prioritizing "the geometral over the scenographic, angle over affect, grid over scene" <ref type="bibr">(Brinkema 299)</ref>.</p><p>Importantly, this academic turn to surface patterns is at least in part facilitated by, and coextensive with, the rise of computational approaches and epistemologies in the human sciences in general. Surveying this trend in their field, sociologists Hernan Mondani and Richard Swedberg observe that "the term patterns is becoming increasingly popular today because of its frequent use in AI and the discourse of digital technology" (544). Unlike the traditional social science concept of structure, they note, pattern is mostly conceptualized as a "surface" phenomenon (559), thereby deflecting critical attention from the deeper causes that produce social regularities. Provocatively advocating such an epistemic turn to surface patterns, Chris Anderson, a former editor of tech magazine Wired, infamously claimed that in times of big data, scientific theory itself will become obsolete: "We can throw the numbers into the biggest computing clusters the world has ever seen and let statistical algorithms find patterns where science cannot" <ref type="bibr">(Anderson)</ref>.</p><p>So far, this prediction has proven a blatant misjudgment. Nonetheless, the rise of automated pattern recognition as a technology and epistemic ideology now is clearly transforming the scientific and cultural landscape, arguably establishing a dialectic of "pattern/randomness" as a new cultural dominant <ref type="bibr">(Hayles,</ref>. According to David Berry, we currently witness the emergence of a postdigital "pattern aesthetic," in which computational patterns and modes of pattern recognition figure as dominant forms of cultural expression (52). For Berry, this pattern aesthetic manifests itself in the pervasive dispersion of digital forms and templates-voxels, pixels, bounding boxes, digital curation tools that visualize "patterns that are hidden in sets of data" (53)-in people's life worlds and professional practice. Patterns are now becoming a worldview, in both a figurative and a literal sense: we gain and process knowledge through patterns and expect to find them everywhere, in the digital realm as well as in the analogue world. And it is precisely the increasing blending of these two worlds that, for Berry, constitutes the "postdigital" allure of patterns.</p><p>Explicitly and consistently exploring the relation of analogue bodies and geometries to digital computation and motion capture, The Making of Incarnation is deeply invested in today's postdigital pattern aesthetics and highly attentive to its implications for present-day subjectivities. The novel's object worlds and interiors are stuffed with geometrical patterns, squares, digital and analogue grids, video walls, databases, and boxes of all kinds, but also with more fluid geometries, streaming motions, and wave patterns. In this regard, Incarnation seems like a flawless illustration of Berry's claim that the "postdigital constellation [. . .] figuratively consists of lines and circles, as an Euclidean geometry, but also waves and spirals" (Berry 51). The captivating power that these patterns hold for the formation of the characters' subjectivity and worldview becomes evident, among others, through the example of Pantarey employee Lucy Diamond. After observing the digital modeling of a gymnast's movements on a computer screen, Diamond starts to see digital bounding boxes everywhere: "The thought perplexed her: over the next weeks, it was to cloud her world view; everything she saw, each scene or situation she watched or participated in, she'd start extrapolating, reproducing, root-pinpointing, building boxes for [. . .]" (Incarnation 81).</p><p>I will discuss the novel's engagement with this type of technoscience and grid-shaped control more thoroughly in the next section. For now, it suffices to conclude that in Incarnation, the modernist vocabulary of surface pattern and geometries overlaps and interacts with a postdigital pattern aesthetics of grids and waves, both with profound implications for questions of subjectivity, control, and power. Hence, in McCarthy's novel and beyond, the late modernist battle cry "we want pattern" acquires new and quite ambivalent meanings and urgency.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Pattern Technoscience and Grid-Shaped Control</head><p>The stakes of this constellation light up most clearly in another scene that involves Lucy Diamond, a new employee at Pantarey, and McCarthy's primary narrative device to familiarize the reader with the production technologies of digital motion capture from the perspective of a relative newbie. While working on a pedestrian motion analysis in the city of Bedford for the redesign of a shopping mall, Diamond is fully aware that the patterns that she and her colleagues "extrapolate" (Incarnation 104) from people's movements will be further monetized by Pantarey and serve as algorithms for crowd scenes in movies and background movements in games. What makes her feel most uneasy, though, is not the camera supervision of unsuspecting pedestrians but "the suspicion that some algo's at work here already, molding this space's tempo, orchestrating all its paths and modulations; some sourcecode hiding not, like skeletons, beneath layers of skin and clothing but (quite the opposite) in the transcience of its relay at the surface [. . .]" (105).</p><p>It thus seems as if the urban subjects are already executing an algorithmic script before even becoming subjected to the Pantarey surveillance apparatus. The imagery of the "source-code-at-thesurface" here blends the late modernist flattening-out of selfhood with the imaginary flatness of the digital. Code here is not "deep" (Hayles, "Print") but all on the surface, metaphorically signifying an algorithmic human subjectivity without interiority or depth. Movements in urban space are not the result of human volition but actualizations of pre-scripted, impersonal algorithms. McCarthy's remark about late modern subjectivity being a function of moving in a grid expresses the same thought: "We exist and assume subjectivity to the extent that we occupy a spot on or traverse the grid [. . .]. Geometry is not just an aesthetic: it is, to borrow a term from Deleuze, our 'habitus'" ("Stabbing the Olive"). In the society of control, assuming subjectivity means to actualize and repeat patterns of movement and order in one's own behavior and mental space.</p><p>The trope of the source code-at-the-surface closely resonates with recent social science research on the sociotechnological implications of algorithmically enhanced systems of pattern recognition and pattern discrimination (Apprich et al.; Benjamin) and pattern-based "informational biopolitics" <ref type="bibr">(Steyerl 10)</ref>. According to Matteo Pasquinelli, the time and motion studies of Frank and Gillian Gilbreth mark an important transition point in the transformation of human labor into abstract protocols: "the factory's master became a sort of movie director who filmed workers in order to measure and optimize their productivity" (15). From this perspective, the automation of pattern recognition was in part facilitated by "capturing the patterns" of body movements and turning them into mechanical artifacts (15). Essentially in line with Pasquinelli's "labor theory of the machine" ( <ref type="formula">16</ref>), Lucy Diamond's experiences at the heart of the Pantarey motion capture apparatus expose the inherent complicity of the company with algorithmic governance, labor automation, military research, and drone warfare. Realizing the similarities between the unsuspecting Bedford pedestrians and the equally unsuspecting victims of a drone strike in a Middle-Eastern country, which she is shown disturbing footage of, Diamond becomes aware of the "spectre of destruction" residing within the dream of total capture (Incarnation 107).</p><p>Much of the expansive and disturbing energy of this dream in the novel is metonymically concentrated in the figure of the grid. Like the fascination with surface geometries, this motive is already present in Remainder, where the grid functions as a figure of "total connection and immanent co-presence" (McCarthy, Remainder 589). While offering the narrator a possibility to re-imagine his place in the world as being part of "one smooth, articulated network" (Remainder 35), the calming formalism of the grid is continuously thwarted by the telluric and chaotic forces of base materiality and human finitude, as Justus Nieland has shown <ref type="bibr">(Nieland 588)</ref>. The Making of Incarnation updates McCarthy's media genealogy of "grid-shaped control" (Siegert 97) by linking Lillian Gilberth's industrial era motion capture research to the postdigital and post-industrial present. Plotwise, this connection is established through the research of Monica Dean, an LSE lawyer commissioned by Pantarey to investigate the possibility of copyrighting human motion patterns. In Gilbreth's personal archive, Dean finds prints blown-up film frames of old cyclegraphs, showing workers "performing their task against a grid: in some cases an actual gridded backdrop, in others a penetrating screen imprinted on the film through multiple exposure" (Incarnation 112). Dean discovers that Gilbreth envisioned a kinetic training program for workers, who should learn to think of their movements in terms of "elementary motions," fine-tune them, and eventually perform their tasks with "instinctive accuracy" (116). The captivating powers of efficiency and grace merge in Gilbreth's vision. As Dean finds out, her approach was underpinned by an aesthetic vision of form, which she acquired as an MA student of poetry and school day friend of dancer and choreographer Isadora Duncan (116). "Like a lover," Gilbreth thought, workers would get to intimately know "every curve and bend and twist of their own action" and be brought to "aspiring to the perfect line, desiring it" (116).</p><p>To achieve this goal, Gilbreth and her husband constructed hundreds of shoebox-sized wireframe models of motion sequences for analytical and instructional purposes. As McCarthy explains in an essay, Gilbreth built "cutaway boxes containing three-dimensional wire models of the patterns the cyclegraphs revealed, solidifying the action's path" ("Adventures" 120). Containing "grid squares marked across the box's whole interior" (120), the boxes threw the bended wires that represented the workers' movements into metric relief. One of these boxes, the lost "Box 808," figures as the novel's mysterious narrative McGuffin and supposedly contains Gilbreth's exemplar of a "pure original motion" that "changes everything" (Incarnation 123, 129). It seems that Gilbreth was inspired to create this box by experiences communicated to her by Raivis Vanins, a Latvian physicist with whom she corresponded and collaborated. The search for this lost Holy Grail of motion capture drives the plot of Incarnation until its final chapters, when the so-called "T.T. episode" is revealed as the possible reallife inspiration for Vanis's account and Gilbreth's construction of the model of a transcendent, perfect movement in Box 808 (more on this later).</p><p>As a visual and spatial template, the gridded Gilbreth boxes also inform the design of Pantarey's capture studio, "The Cell," a black, rectangular space that is equipped with the latest motion capture technology (multiple megapixel cameras and massive processing power for 3D animation). In The Cell, the analog grid has been replaced by a digital one: the cameras feed visual data to a phalanx of digital screens that divide a marked target area on the studio floor into "regular white sub-squares that overlay its plain rubber surface with a grid" (Incarnation 45). The light rings worn by workers have been substituted by small physical markers, the so-called "nipples," that are attached to the actors' bodies. "Romance lives, even in the grid" (50), jokes one of the Pantarey technicians when instructing the male and female lead actors of the "Incarnation" movie to perform multiple positions of heterosexual intercourse for digital modeling. The lead actress reacts with hesitation when being told that no team members will be present during the shoot ("you have total privacy"), thinking: "Privacy, sensors: odd coupling [. . .]. The only term that really seems to fit, to have a place here is total . . . " (50).</p><p>The missing word can be guessed by the readers (control, surveillance, capture . . . ?). In any case, The Cell itself is not the last word in the novel's probing of technologies of total capture. As Lucy Diamond learns during her work in Bedford, the next generation of motion capture and pattern extraction technology is already on the way and does not require physical markers or demarcated recording spaces anymore at all. Instead, laser detectors and a new generation of cameras can capture movements everywhere: "Markerless is the holy grail of mo-cap" (101). Grid-shaped control has dissolved and penetrated the life-worlds of its subjects to such a degree that all of social space functions as a motion capture apparatus now. In an interview with 32c Magazine, McCarthy pointed to this development as an inspiration for Incarnation, stating that his novel is "very much about bodies within the grid" (Alderwick). Prefiguring Pasquinelli's reading of Gilbreth's work, he concludes: "This is industrial culture. This is at the heart of industrial capitalism. What she was doing in the early-to mid-20th century is now everywhere. We're living inside a Lillian Gilbreth black box, all of us, now" (Alderwick).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Pattern Mysticism</head><p>Patterns can figuratively flatten out interiority and signify order and control, but they can also suggest profundity, depth, and transcendence. In her 1979 essay "Grids," Rosalind Krauss brilliantly explores this ambiguity with a focus on grid patterns in modern art. On the one hand, Krauss observes, the surface materialism of grids underscores the representational autonomy of modern art. "Flattened, geometricized, ordered," modernist grids reject mimetic resemblance by "crowding out the dimensions of the real and replacing them with the lateral spread of a single surface" (Krauss 51). On the other hand, artists like Mondrian and Malevich precisely used geometrical abstraction to transcend a materialist worldview toward the spiritual and mystical. Unfolding spiritual depth from material surfaces, grids can thus function as a "staircase to the Universal" (55), as Krauss puts it, using a felicitous spatial metaphor.</p><p>Attempts to build such staircases also figure prominently in McCarthy's novels, most notably in Satin Island and The Making of Incarnation. At several moments, the scientist and scholar characters of these works experience instances of a spiritual apprehension of knowledge that I suggest to call pattern mysticism and define as the transrational revelation of a universal order through acts of pattern recognition. In Satin Island, such a moment occurs when the first-person narrator "U.," a social anthropologist who works for an elite global consultancy firm, is given the impossible task to compile a comprehensive "Great Report" on the state of contemporary culture. Brooding over his approach to this assignment, U. hears the voices of his colleagues on the floors in the office building above him through the ventilation system:</p><p>Other, vaguer voices hovered in the general noise-or if not voices, at least patterns, with their ridges and their troughs, their repetition frequencies, their cadences and codas. Sometimes, these patterns took on visual forms, like those that so enchanted eighteenth-century scientists when they scattered salt on Chladni plates and, exposing these to various acoustic stimuli, observed the intricate designs that ensued-geometric and symmetrical and so generally perfect that they seemed to betray a universal structure lurking beneath nature's surface, only now beginning to seep through; and I, too, in my basement sometimes thought I saw, moving in ripples on the surface of a long-cold coffee cup or in the close-up choreography of dusk-flecks jumping on an unwiped tabletop, or even on the fleshy insides of my own drooped eyelids, the plan, formula, solution-not only to the problem with which I was currently grappling, but to it all, the whole caboodle-before, waking with a jolt, I watched it all evaporate, like salt in a quiet breeze. <ref type="bibr">(McCarthy,</ref> Chladni plates are flat pieces of metal that are dusted with thin layers of sand or salt to visualize sound. In 1787, German scientist Ernst Chladni first observed that the vibrating surfaces of such plates bounce the sand grains into symmetrical shapes or "sound figures" (Klangfiguren), as he called them (Figure <ref type="figure" target="#fig_3">4</ref>). 2 Romantic philosophers such as Friedrich Schelling and August W. Schlegel interpreted these figures as evidence of "a pure aesthetics of ideal forms" (Engberg-Pedersen and Simons 332) beyond the turmoil of the material world. The fascination with this phenomenon lives on in the discourse and practice of "cymatics," a term coined by Swiss physician Hans Jenny in the 1960s for the study of vibrational phenomena ranging from subatomic particles to cosmic systems. Similarly, for U., the imagery of the Chladni figures opens the possibility of a wider knowing beyond surface appearances. The sound figures are ciphers of a deeper truth that reveals itself in the perfect symmetry of their shapes, as sensory manifestations of an immaterial order. And there it is, the promise that the "whole caboodle," "it all," can be captured in a single unifying formula.</p><p>Not surprisingly, U. eventually fails to discover the Chladni patterns of contemporary culture. The novel ends with a disillusioned U. standing at the Staten Island Ferry terminal in Manhattan, watching the stern waves of arriving and departing vessels: "There were scores of wakes, crossing each other in irregular and tangled patterns. Networks of kinship: the phrase flashed across my mind; I snorted with derision" (Satin Island 171). Only irregular wave movements remain after the search for the masterpattern of our age (and apparently spilling over into the seakeeping basin at the beginning of McCarthy's next novel).</p><p>Before arriving at this conclusion, however, U. shifts his hope from eighteenth-century acoustics to twentieth-century cultural anthropology and his intellectual "hero" Claude Lévi-Strauss (31). He notes that Lévi-Strauss remade the entire globe into a collage of recurring colours, smells and patterns. Patterns especially: the painted patterning on tribesmen's bodies; the layout, concentric or congruent or concyclic of village huts; the symmetry or asymmetry of caste systems [. . .] -he saw all these as co-related, parts of larger systems lying behind not just a single tribe but also the larger whole of humanity. If we had some kind of grid that we could lay across it, he reasoned, we could establish a grand pattern of equivalences. <ref type="bibr">(McCarthy,</ref><ref type="bibr">Satin Island 29)</ref> As Caroline Levine observes, Lévi-Strauss's structural analysis "moves easily back and forth across scales," linking concrete details to overarching, universal patterns (137). U.'s train of thought traces this zigzagging motion in one direction, moving from small-scale, empirical artifacts ("the painted patterning on tribesmen's bodies") over the larger and in part immaterial structure of "caste systems" to abstract universality ("grand pattern of equivalences"). His musings start with the artistic and pliant metaphor of the collage, but then solidify into the stable order of a grid, implying universal structure and commensurability. The search for a "master-pattern" is now projected onto the field of structural anthropology (Satin Island 31).</p><p>From a history of science perspective, this move can seem conceptually clueless, given that structuralist theorist Lévi-Strauss here appears as a pattern thinker. In fact, in Satin Island, the terms structure, pattern, and system are used almost synonymously, disregarding a common distinction in the social sciences between pattern as a surface phenomenon and structure as a "fixed and hidden juxtaposition" (Mondani and Swedberg 559). It bears noting, however, that this distinction between pattern and structure is both historically and conceptually less stable than it can seem. As Bernard Geoghegan has shown in his study of the exchanges between American cybernetics and French structuralism, Lévi-Strauss himself was thoroughly influenced by the pattern-centered approaches of early cybernetics and contemporary works of cultural anthropology such as Ruth Benedict's Patterns of <ref type="bibr">Culture (1935)</ref> and A. L. Kroeber's approach to "culture patterns" <ref type="bibr">(Kroeber;</ref>. Indeed, in his classical Structural Anthropology (1958), Lévi-Strauss cites both Norbert Wiener and Kroeber favorably, suggesting a close proximity of their approaches to pattern-"an idea which has loomed large in Anglo-Saxon anthropology during recent years" (365)to his own conceptualization of social structures. 3 Hence, rather than simply representing an Anglicized misreading of French structuralism, U.'s fascination with Levi-Strauss' "master-patterns" shows the enormous epistemic and aesthetic allure of a term that in the English language can signify both surface phenomena and underlying structures, the particular and the universal.</p><p>Moving from French structuralism to American cybernetics, McCarthy's two most recent novels trail Geoghegan's historical trajectory, just in reverse order. Correspondingly, in The Making of Incarnation, it is the mathematician and cybernetic philosopher Norbert Wiener who takes the position of the principal pattern thinker of the novel. He appears in this role most luminously during the aforementioned dinner conversation between Garnett and Pilkington, who share their lifelong fascination with Wiener. Pilkington admires the visionary "poetry" of his work, which for him blends science with "a form of mysticism": "Isn't your work-our work-all about accessing and deploying underlying sequences and patterns? Mapping particulars on to great universals?" <ref type="bibr">(Incarnation 181,</ref><ref type="bibr">191)</ref>. Garnett, in turn, has chosen two quotations from Wiener's book The Human Use of Human <ref type="bibr">Beings (1950)</ref> as his life mottos:</p><p>We are (Garnett had this line taped to the wall above his ZX Spectrum's screen) but whirlpools in a river of everflowing water: not stuff that abides, but patterns that perpetuate themselves . . . Or (this one from a passage that was read at his and Amber's wedding): To be alive is to participate in a continuous stream of influences from the outer world and acts on the outer world in which we are merely the transitional stage . . . <ref type="bibr">(McCarthy,</ref><ref type="bibr">Incarnation 181)</ref> These maxims summarize a cybernetic definition of pattern that has been and still is immensely influential in information science, biology, systems theory, and cognitive neuroscience. Pattern here is essentially defined as the persistent element in homeostasis; it represents, as biologist and philosopher Francisco Varela has put it, the "organizational invariance" (77) in dynamic living systems. In The Human Use of Human Beings, Wiener himself uses the human body as an example of such a system: while all its tissues, fibers, and molecules are constantly in flux, the body's "identity" remains intact (86), due to interlocking feedback processes that adjust it to external and internal changes (temperature changes, etc.). The whirlpool metaphor expresses this idea by figuratively combining the selfenclosed spatial coherence of a vortex with the fluid materiality of the water constantly streaming through it.</p><p>Importantly, for Wiener, the examples of the whirlpool and the human body are only the stepping stones for his more abstract and general claim that "a pattern is a message" (86; emphasis SB). This informational definition suggests that patterns need not have a material embodiment or "incarnation" at all. Instead, they can be abstracted from any specific and concrete material substance, thus making sci-fi scenarios of teleportation theoretically possible <ref type="bibr">(Wiener 86)</ref>. It is precisely this disembodied, informational definition of pattern that N. Katherine Hayles has identified as the metaphysical component in cybernetics: when simplified abstractions are seen as the originary forms from which the world's multiplicity derives, then all material instantiations of patterns seem secondary to disembodied information as "the ultimate Platonic Form" (Posthuman 12-13).</p><p>In the novelistic account of The Making of Incarnation, the research of both Wiener and Lillian Gilbreth is animated by the metaphysical and mystical allure of patterns, notwithstanding their very different disciplinary backgrounds and fields of study. Just like Wiener, Gilbreth was a mystic, Pilkington suggests. While her husband is depicted as being narrowly interested in the Taylorist optimization of production processes (work-bench placement, table height, etc.), Lillian believed, with increasing devotion, "that there exists, somewhere, hidden from our view, a perfect shape for every act -essential, almost preordained. And beyond even that, that there might be a kind of absolutely perfect motion-circuit hovering concealed behind even the perfect ones" (Incarnation 190).</p><p>While the quest for a master-pattern evidently fails in Satin Island, the outcome in The Making of Incarnation is far less clear. In his reading of the former novel, Daniel Lea states that McCarthy's literary world is "a universe of things, geometries, patterns, inscriptions, and networks, but [. . .] never a place of transcendence" (116). While one could ask which modern novel ever arrives at a place of transcendence, The Making of Incarnation certainly gets much closer to it in its final chapters than its predecessor. Perhaps most strikingly, this happens in a scene toward the end of the novel in which Raivis Vanins's pregnant wife Jesēnija is seen playing tether-tennis in the garden of their family home. Referred to as the "T.T. episode" in Lillian Gilbreth's writings, this scene is narrated in a puzzling mode of double focalization from the perspective of both Vanins (who witnesses the original event in 1969) and Markie Phocan (who decades later imagines the scene as somehow having been recorded in the molecular structure of a window pane in Vanins's house). For the two beholders, Jesēnija's rhythmic, dancelike movements create a timeless "kinetic symphony" that takes place outside of all purpose and utility (Incarnation 314). The ball, the racquet, and Jesēnija's body appear not as "what they were but rather as objects in a long celestial dance, all acting on each other: racquet attracts ball, which attracts figure, which carves rhomboids, sinusoids and gyres into the air, which in turn draw racquet" (314). This cosmic dance echoes Wiener's maxim-"not stuff that abides, just patterns that perpetuate themselves"-and offers a glimpse of a deeper connection of all things: "At one point it occurred to him that he was watching nothing less than life, in its pure, concentrated form, unhidden by camouflage of purpose" (314). The beholder feels that "he was held by the formation too, gathered and absorbed in its consistency: watching, remembering and anticipating fused together [. . .]" (314).</p><p>The transcendental and mystical tonality of this event also reverberates in the last chapter of the novel, which describes the final rendering (the conversion of code into visual imagery) at the end of the production process of the movie-the visual incarnation of "Incarnation," so to speak. The scene takes place in the dead of night in a massive, subterranean "render farm," where dozens of motherboards flicker and blink "in endless computation" (316). The focus is on a seven-minute sequence of the movie that depicts the breakup of the spaceship Sidereal in the plasma streams of a nearby star, a catastrophic but also transcendental event in which space itself seems to reform and "a countermovement of formation, of emergence" edges its way "through all the chaos, to the threshold of the visible, the comprehensible . . . " (319). Mirroring this double movement of destruction and preservation, the heat and sound waves generated by the underground data processing pass through the render farm's metal doors and vibrate in the decrepit bodies of two junkies on the doorsteps outside, "holding them in place" as if cradling them to sleep (326).</p><p>It would be misleading to suggest that with the immersive and transcendental wave lines of its final chapters, The Making of Incarnation eventually "settles" on a mystical and gnostic approach to pattern. The gender implications of the "T.T. episode," in which two men observe a graciously moving female body, are too obvious not to cast a thick layer of irony on this scene. Moreover, the search for the perfect movement as the novel's main plotline is thoroughly deflated when the missing Box 808 appears to have ended up as a birdhouse in Vanins's garden and to now by covered in bird shit-an image that securely repeats McCarthy's well-rehearsed procedure of contrasting seemingly perfect forms with Bataillean base materiality (Incarnation 295-96; Nieland 573). Yet with its concluding moves, the novel seems to arrive at a compromise formation of these opposing tendencies of form and disorder, which is not simply ironic or deflationary. The living materiality of dancing and withering bodies pushes back against Platonic idealization, yet at the same time, a desire for transcendental order and connection abides.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Conclusion</head><p>I have shown that The Making of Incarnation connects and contrasts a multitude of different figurations of patterns from modernist art to cybernetic theory. In my reading, I have arranged this pattern nexus as a triangulation of aesthetic, technoscientific, and mystical sensitivities and unpacked their various entanglements: the elective affinity of modernist patterns and a postdigital pattern aesthetics; the tension between the captivating aesthetic allure of patterns and their power to shape and control algorithmic subjectivities; and the dazzling ambiguity of patterns as signifying both surface and depth, computational calculability and mystical unity, science and transcendence, analytic dissection and embodied holism. This overdetermined pattern nexus in The Making of Incarnation indeed shows the "dynamic plurivocity of aesthetic thought in motion" (401), to quote Kornbluh's definition of the novel again.</p><p>I hesitate to further reduce this multivalence to a single core tension or dialectic at the heart of McCarthy's pattern nexus. There are very good reasons to read The Making of Incarnation as an expression of a twenty-first-century dialect of enlightenment that turns data technoscience into mysticism. The dancing female body at the end of the novel can then be seen as the present-day equivalent of the "mythological cult" of the body that Siegfried Kracauer saw as the flipside of rationalization and calculability in Weimar Germany <ref type="bibr">(Kracauer 60)</ref>. From a slightly different angle, Incarnation can be seen to articulate the mutually reinforcing dynamics of digital pattern recognition and the mystical desire to find "the beauty of God in patterns" (9), as Moretti has put it. My point is that these dialectics of rationalization and myth, digitization and theology do not have to be integrated into one overarching critical narrative. Pattern indeed is a "keyword of our time" <ref type="bibr">(Moretti)</ref> precisely because of its unruly oversaturation with divergent meanings, ideologies, and affordances that shine through and illuminate McCarthy's novel.</p><p>McCarthy's recent essay "Holding Pattern (A Deformed Autobiography)" extends this nexus further and adds a new strand of auto-commentary to it. In this essay, McCarthy interweaves reflections on artworks by Haron Farocki, Elizabeth Price, David Toop, and others that he and his cocurator Anne Hilde Neset selected for the 2022 exhibition Holding Patterns (Figure <ref type="figure" target="#fig_4">5</ref>), with comments on and allusions to his own novelistic work. The term holding pattern, a word that "air traffic controllers use to describe airplanes circling above a busy airport without crashing" <ref type="bibr">(Neset 4</ref>), provides the central point of connection for this exploration. It points back to the ending of Remainder, when the fugitive narrator instructs his pilot to fly circles in the air-"Just keep on. The same pattern. It will be fine." (Remainder 275)-as well as to the beginning of Satin Island, when U. is holden up at Turino-Caselle airport because a "roque aeroplane" is flying in "idiosyncratic patterns over Southern England" (Satin Island 4). Departing from its aviatory etymology, McCarthy extends the term's meaning to include all the "loops and rhythms" that coax "various moving bodies into some kind of alignment" ("Holding Pattern" 17). Holding patterns thus can refer to "workers performing a section of the same time-and-motion-cycle again and again against a grid" as well as to the typographic patterns in the modernist poems of Swedish writer Åke Hodell <ref type="bibr">(16,</ref><ref type="bibr">(17)</ref><ref type="bibr">(18)</ref><ref type="bibr">(19)</ref><ref type="bibr">(20)</ref><ref type="bibr">(21)</ref><ref type="bibr">(22)</ref><ref type="bibr">(23)</ref><ref type="bibr">(24)</ref><ref type="bibr">(25)</ref><ref type="bibr">(26)</ref><ref type="bibr">(27)</ref><ref type="bibr">(28)</ref><ref type="bibr">(29)</ref><ref type="bibr">(30)</ref><ref type="bibr">(31)</ref><ref type="bibr">(32)</ref>. It can stand for the "decorative patterns" created by mechanical looms in the nineteenth century-an important step in the pre-history of digital computation-as well as for "the form, the held and errant pattern, of flight" that Fred Moten and Stefano Harney describe as an essential element of the black experience <ref type="bibr">(64,</ref><ref type="bibr">195)</ref>.</p><p>This panorama shows why the term pattern lends itself so well to building a conceptual art exhibition around it: it is sufficiently abstract to suggest theoretical ambition but also ambiguous enough to facilitate the associative arrangement of diverse imageries, objects, and discourses. It is not surprising that several critics have compared The Making of Incarnation itself to a "conceptual art installation" <ref type="bibr">(Wrethed 482</ref>) and a "kaleidoscopic installation" that investigates "the broad themes of information, data gathering, and bodies in motion" <ref type="bibr">(Neset 4</ref>). However, these observations alone do not explain why pattern is such an alluring term in contemporary postdigital culture in the first place. In this article, I have made some suggestions for answering this larger question as well.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Notes</head></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head>Figure 1 .</head><label>1</label><figDesc>Figure 1. The Making of Incarnation, Jonathan Cape, 2021 (design by Mario de Meyer).</figDesc><graphic coords="3,137.99,52.15,228.00,342.72" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_1"><head>Figure 2 .</head><label>2</label><figDesc>Figure 2. Cyclegraph of a woman working at a gridded table, Lillian Moller Gilbreth and Frank Bunker Gilbreth, undated (Smithsonian).</figDesc><graphic coords="4,101.99,52.14,300.00,286.20" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_2"><head>Figure 3 .</head><label>3</label><figDesc>Figure 3. Joan Miró, Person Throwing a Stone at a Bird, 1926 (wikiart).</figDesc><graphic coords="6,137.99,461.40,228.00,183.60" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_3"><head>Figure 4 .</head><label>4</label><figDesc>Figure 4. Ernst Chladni, Die Akustik, Breitkopf &amp; Härtel, 1802 (Tab. V).</figDesc><graphic coords="13,49.32,52.11,405.36,506.88" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_4"><head>Figure 5 .</head><label>5</label><figDesc>Figure 5. Holding Pattern, Lenz, 2022 (design by Lorenzo Mason studio).</figDesc><graphic coords="16,180.00,445.92,144.00,199.08" type="bitmap" /></figure>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="6" xml:id="foot_0"><p>S. BESSER</p></note>
+		</body>
+		<back>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<analytic>
+		<title level="a" type="main">This scene can be read as an intertextual nod to Toussaint&apos;s work as well</title>
+	</analytic>
+	<monogr>
+		<title level="m">The Bathroom, the narrator describes a hot fudge sundae as follows: &quot;A Mondrian. Unctuous chocolate on iced vanilla, hot and cold, substance and fluidity. Imbalance and rigor</title>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<title level="a" type="main">He reported on his findings, which caused much public and scientific excitement</title>
+	</analytic>
+	<monogr>
+		<title level="m">his books Entdeckungen über die Theorie des Klanges (1787) and Die Akustik</title>
+		<imprint>
+			<date type="published" when="1802">1802</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<monogr>
+		<title level="m">For the references to Wiener and Kroeber, see Structural Anthropology</title>
+		<imprint>
+			<biblScope unit="page" from="55" to="77" />
+		</imprint>
+	</monogr>
+	<note>and 290</note>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<monogr>
+		<title level="m" type="main">Stephan Besser is Assistant Professor of Modern Dutch Literature and Literary Studies at the University of Amsterdam. His research areas include contemporary literature, intermediality, literature and science, and the poetics of knowledge. Works Cited Alderwick, William</title>
+		<ptr target="https://032c.com/magazine/tom-mccarthy-incarnate" />
+		<imprint>
+			<date type="published" when="2021-11-30">30 Nov. 2021</date>
+		</imprint>
+	</monogr>
+	<note>Tom McCarthy Incarnate</note>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title level="a" type="main">The Pattern That Connects</title>
+		<author>
+			<persName><forename type="first">Paul</forename><surname>Andersen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">David</forename><surname>Salomon</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Life in: Formation</title>
+		<editor>
+			<persName><forename type="first">Aaron</forename><surname>Sprecher</surname></persName>
+		</editor>
+		<imprint>
+			<date type="published" when="2010">2010</date>
+			<biblScope unit="volume">10</biblScope>
+			<biblScope unit="page" from="125" to="133" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<monogr>
+		<title level="m" type="main">The End of Theory: The Data Deluge Makes the Scientific Method Obsolete</title>
+		<author>
+			<persName><forename type="first">Chris</forename><surname>Anderson</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2008-06-23">June, 23 2008. 2018</date>
+			<publisher>U of Minnesota P</publisher>
+		</imprint>
+	</monogr>
+	<note>Apprich, Clemens, et al. Pattern Discrimination</note>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<monogr>
+		<title level="m" type="main">Patterns of Culture</title>
+		<author>
+			<persName><forename type="first">Ruth</forename><surname>Benedict</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1935">1935. 2019</date>
+			<publisher>Albatross Publishers</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<author>
+			<persName><forename type="first">Ruha</forename><surname>Benjamin</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Race After Technology: Abolitionist Tools for the New Jim Code</title>
+		<imprint>
+			<date type="published" when="2019">2019</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title level="a" type="main">The Postdigital Constellation</title>
+		<author>
+			<persName><forename type="first">David</forename><forename type="middle">M</forename><surname>Berry</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Postdigital Aesthetics: Art, Computation and Design</title>
+		<editor>
+			<persName><forename type="first">David</forename><forename type="middle">M</forename><surname>Berry</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">Michael</forename><forename type="middle">Palgrave</forename><surname>Dieter</surname></persName>
+		</editor>
+		<editor>
+			<persName><surname>Macmillan</surname></persName>
+		</editor>
+		<imprint>
+			<date type="published" when="2015">2015</date>
+			<biblScope unit="page" from="44" to="57" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title level="a" type="main">Surface Reading: An Introduction</title>
+		<author>
+			<persName><forename type="first">Stephen</forename><surname>Best</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Sharon</forename><surname>Marcus</surname></persName>
+		</author>
+		<idno type="DOI">10.1525/rep.2009.108.1.1</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Representations</title>
+		<imprint>
+			<biblScope unit="volume">108</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="1" to="21" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title level="a" type="main">How to Open Pandora&apos;s Box: A Tractable Notion of the History of Knowledge</title>
+		<author>
+			<persName><forename type="first">Rens</forename><surname>Bod</surname></persName>
+		</author>
+		<idno type="DOI">10.5334/jhk.28</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Journal for the History of Knowledge</title>
+		<imprint>
+			<biblScope unit="volume">1</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<monogr>
+		<title level="m" type="main">World of Patterns: A Global History of Knowledge</title>
+		<imprint>
+			<date type="published" when="2022">2022</date>
+			<publisher>Johns Hopkins UP</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<monogr>
+		<title level="m" type="main">Life-Destroying Diagrams</title>
+		<author>
+			<persName><forename type="first">Eugenie</forename><surname>Brinkema</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2022">2022</date>
+			<publisher>Duke UP</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<monogr>
+		<author>
+			<persName><forename type="first">Larry</forename><forename type="middle">D</forename><surname>Busbea</surname></persName>
+		</author>
+		<title level="m">The Responsive Environment: Design, Aesthetics, and the Human in the 1970s. Minnesota UP</title>
+		<imprint>
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<title level="a" type="main">The Making of Incarnation/Book Cover Design</title>
+		<author>
+			<persName><forename type="first">De</forename><surname>Meyer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Mario</forename></persName>
+		</author>
+		<ptr target="https://dm2graphics.com/the-making-of-incarnation-book-cover" />
+	</analytic>
+	<monogr>
+		<title level="j">DM</title>
+		<imprint>
+			<biblScope unit="volume">2</biblScope>
+			<date type="published" when="2025-10-29">29 Oct. 2025</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title level="a" type="main">Real Patterns</title>
+		<author>
+			<persName><forename type="first">Daniel</forename><surname>Dennett</surname></persName>
+		</author>
+		<idno type="DOI">10.2307/2027085</idno>
+	</analytic>
+	<monogr>
+		<title level="j">The Journal of Philosophy</title>
+		<imprint>
+			<biblScope unit="volume">88</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="27" to="51" />
+			<date type="published" when="1991">1991</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<monogr>
+		<title level="m" type="main">Analysis Tool or Research Methodology: Is There an Epistemology for Patterns?</title>
+		<author>
+			<persName><forename type="first">Dan</forename><surname>Dixon</surname></persName>
+		</author>
+		<editor>David M. Berry. Palgrave Macmillan</editor>
+		<imprint>
+			<date type="published" when="2012">2012</date>
+			<biblScope unit="page" from="191" to="209" />
+		</imprint>
+	</monogr>
+	<note>Understanding Digital Humanities</note>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<analytic>
+		<title level="a" type="main">Sound Figures: Between Physics and Aesthetics</title>
+		<author>
+			<persName><forename type="first">Oliver</forename><surname>Enberg-Pedersen</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Simons</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">The Germanic Review: Literature, Culture, Theory</title>
+		<imprint>
+			<biblScope unit="volume">93</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="329" to="333" />
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<monogr>
+		<author>
+			<persName><forename type="first">Marc</forename><surname>Farrant</surname></persName>
+		</author>
+		<idno type="DOI">10.1353/mfs.2023.a899930</idno>
+		<title level="m">Neoliberalism, Critique, and the Contemporary Novel: Tom McCarthy and Theory Fiction</title>
+		<imprint>
+			<date type="published" when="2023">2023</date>
+			<biblScope unit="volume">69</biblScope>
+			<biblScope unit="page" from="341" to="364" />
+		</imprint>
+	</monogr>
+	<note>MFS Modern Fiction Studies</note>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<monogr>
+		<title level="m" type="main">Code: From Information Theory to French Theory</title>
+		<author>
+			<persName><forename type="first">Bernhard</forename><surname>Geoghegan</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Dionysius</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2023">2023</date>
+			<publisher>Duke UP</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<analytic>
+		<title level="a" type="main">Pattern and Structure in Robbe-Grillet&apos;s &apos;La Maison de Rendez-Vous</title>
+		<author>
+			<persName><forename type="first">Jack</forename><surname>Goodstein</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/00111619.1972.10690019</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Critique: Studies in Contemporary Fiction</title>
+		<imprint>
+			<biblScope unit="volume">14</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="91" to="97" />
+			<date type="published" when="1972">1972</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<monogr>
+		<title level="m" type="main">How We Became Posthuman: Virtual Bodies in Cybernetics, Literature and Informatics</title>
+		<author>
+			<persName><forename type="first">N</forename><surname>Hayles</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Katherine</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1999">1999</date>
+			<publisher>U of Chicago P</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<analytic>
+		<title level="a" type="main">Code Is Flat: The Importance of Media-Specific Analysis</title>
+		<idno type="DOI">10.1215/03335372-25-1-67</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Poetics Today</title>
+		<imprint>
+			<biblScope unit="volume">25</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="67" to="90" />
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+	<note type="report_type">Print Is Deep</note>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<monogr>
+		<title level="m">Unthought: The Power of the Cognitive Nonconscious. U of Chicago P</title>
+		<imprint>
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<monogr>
+		<title level="m" type="main">Surfaces and Essences: Analogy as the Fuel and Fire of Thinking</title>
+		<author>
+			<persName><forename type="first">Douglas</forename><surname>Hofstadter</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Emmanuel</forename><surname>Sander</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2013">2013</date>
+			<publisher>Basic Books</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<analytic>
+		<title level="a" type="main">Cymatics: A Study of Wave Phenomena and Vibration</title>
+		<author>
+			<persName><forename type="first">Hans</forename><surname>Jenny</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Macromedia</title>
+		<imprint>
+			<date type="published" when="1974">1974</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<analytic>
+		<author>
+			<persName><forename type="first">Anna</forename><surname>Kornbluh</surname></persName>
+		</author>
+		<idno type="DOI">10.1215/00295132-4195016</idno>
+	</analytic>
+	<monogr>
+		<title level="m">We Have Never Been Critical: Toward the Novel as Critique</title>
+		<imprint>
+			<date type="published" when="2017">2017</date>
+			<biblScope unit="volume">50</biblScope>
+			<biblScope unit="page" from="397" to="408" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b27">
+	<analytic>
+		<title level="a" type="main">Das Ornament der Masse</title>
+		<author>
+			<persName><forename type="first">Siegfried</forename><surname>Kracauer</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Das Ornament der Masse: Essays, Suhrkamp, 2021</title>
+		<imprint>
+			<biblScope unit="page" from="50" to="63" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b28">
+	<analytic>
+		<title level="a" type="main">Grids</title>
+		<author>
+			<persName><forename type="first">Rosalind</forename><surname>Krauss</surname></persName>
+		</author>
+		<idno type="DOI">10.2307/778321</idno>
+	</analytic>
+	<monogr>
+		<title level="j">October</title>
+		<imprint>
+			<biblScope unit="volume">9</biblScope>
+			<biblScope unit="page" from="50" to="64" />
+			<date type="published" when="1979">1979</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b29">
+	<analytic>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">L</forename><surname>Kroeber</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Structure, Function and Pattern in Biology and Anthropology</title>
+		<imprint>
+			<date type="published" when="1943">1943</date>
+			<biblScope unit="volume">56</biblScope>
+			<biblScope unit="page" from="105" to="113" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b30">
+	<analytic>
+		<title level="a" type="main">Machine Leaning Design Patterns: Solutions to Common Challenges in Data Preparation</title>
+		<author>
+			<persName><surname>Lakshmanan</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Valliappa</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Model Building, and MLOps. O&apos;Reilly Media</title>
+		<imprint>
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b31">
+	<monogr>
+		<title level="m" type="main">Twenty-First-Century Fiction: Contemporary British Voices</title>
+		<author>
+			<persName><forename type="first">Daniel</forename><surname>Lea</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2017">2017</date>
+			<publisher>Manchester UP</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b32">
+	<analytic>
+		<title level="a" type="main">The Making of Incarnation&apos; by Tom McCarthy</title>
+		<author>
+			<persName><forename type="first">Tom</forename><surname>Leclair</surname></persName>
+		</author>
+		<ptr target="https://openlettersreview.com/posts/the-making-of-incarnation-by-tom-mccarthy" />
+	</analytic>
+	<monogr>
+		<title level="j">Open Letters Review: An Arts and Literature Review</title>
+		<imprint>
+			<date type="published" when="2021">2021</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b33">
+	<analytic>
+		<title level="a" type="main">Structures All the Way Down: Literary Methods and the Detail</title>
+		<author>
+			<persName><forename type="first">Caroline</forename><surname>Levine</surname></persName>
+		</author>
+		<idno type="DOI">10.1215/00267929-10335715</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Modern Language Quarterly</title>
+		<imprint>
+			<biblScope unit="volume">84</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="129" to="146" />
+			<date type="published" when="2023">2023</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b34">
+	<monogr>
+		<author>
+			<persName><forename type="first">Claude</forename><surname>Lévi-Strauss</surname></persName>
+		</author>
+		<title level="m">Structural Anthropology</title>
+		<editor>
+			<persName><forename type="first">C</forename><surname>Jacobson</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">B</forename><forename type="middle">Grundfest</forename><surname>Schoepf</surname></persName>
+		</editor>
+		<imprint>
+			<publisher>Basic Books</publisher>
+			<date type="published" when="1958">1958. 1963</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b35">
+	<analytic>
+		<title level="a" type="main">Literary Pattern Recognition: Modernism Between Close Reading and Machine Learning</title>
+		<author>
+			<persName><forename type="first">Hoyt</forename><surname>Long</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Richard</forename><surname>Jean</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">So</forename></persName>
+		</author>
+		<idno type="DOI">10.1086/684353</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Critical Inquiry</title>
+		<imprint>
+			<biblScope unit="volume">42</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="235" to="267" />
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b36">
+	<monogr>
+		<title level="m" type="main">Close Reading and Thin Description</title>
+		<author>
+			<persName><forename type="first">Heather</forename><surname>Love</surname></persName>
+		</author>
+		<idno type="DOI">10.1215/08992363-2144688</idno>
+		<imprint>
+			<date type="published" when="2013">2013</date>
+			<biblScope unit="volume">25</biblScope>
+			<biblScope unit="page" from="401" to="434" />
+		</imprint>
+	</monogr>
+	<note>Public Culture</note>
+</biblStruct>
+
+<biblStruct xml:id="b37">
+	<analytic>
+		<title level="a" type="main">Adventures of the Black Box</title>
+		<author>
+			<persName><forename type="first">Tom</forename><surname>Mccarthy</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">The Making of Incarnation. Jonathan Cape</title>
+		<imprint>
+			<date type="published" when="2021">Nov, 18 2021</date>
+			<biblScope unit="volume">43</biblScope>
+			<biblScope unit="page">2021</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b38">
+	<analytic>
+		<title level="a" type="main">Satin Island</title>
+	</analytic>
+	<monogr>
+		<title level="j">Jonathan Cape</title>
+		<imprint>
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b39">
+	<analytic>
+		<title level="a" type="main">Stabbing the Olive</title>
+	</analytic>
+	<monogr>
+		<title level="m">London Review of Books</title>
+		<imprint>
+			<date type="published" when="2010-11">Feb, 11 2010</date>
+			<biblScope unit="volume">32</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b40">
+	<monogr>
+		<title level="m" type="main">Holding Pattern (A Deformed Autobiography)</title>
+		<author>
+			<persName><forename type="first">Tom</forename><surname>Mccarthy</surname></persName>
+		</author>
+		<editor>Tom McCarthy</editor>
+		<imprint>
+			<date type="published" when="2022">2022</date>
+			<biblScope unit="page" from="189" to="209" />
+		</imprint>
+	</monogr>
+	<note>Holding Pattern</note>
+</biblStruct>
+
+<biblStruct xml:id="b41">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">Holding</forename><surname>Pattern</surname></persName>
+		</author>
+		<editor>McCarthy, Tom, and Anne Hilde Neset. Lenz</editor>
+		<imprint>
+			<date type="published" when="2022">2022</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b42">
+	<analytic>
+		<title level="a" type="main">What Is a Social Pattern? Rethinking a Central Social Science Term</title>
+		<author>
+			<persName><forename type="first">Hernan</forename><surname>Mondani</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Richard</forename><surname>Swedberg</surname></persName>
+		</author>
+		<idno type="DOI">10.1007/s11186-021-09463-z</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Theory and Society</title>
+		<imprint>
+			<biblScope unit="volume">51</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="543" to="564" />
+			<date type="published" when="2022">2022</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b43">
+	<monogr>
+		<title level="m" type="main">Stanford Literary Lab Pamphlet 15</title>
+		<author>
+			<persName><forename type="first">Franco</forename><surname>Moretti</surname></persName>
+		</author>
+		<ptr target="https://litlab.stanford.edu/LiteraryLabPamphlet15.pdf" />
+		<imprint>
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+	<note>Pattern and Interpretation</note>
+</biblStruct>
+
+<biblStruct xml:id="b44">
+	<monogr>
+		<title level="m" type="main">Holding Pattern</title>
+		<author>
+			<persName><forename type="first">Anne</forename><surname>Neset</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Hilde</surname></persName>
+		</author>
+		<editor>Tom McCarthy and Anne Hilde Neset</editor>
+		<imprint>
+			<date type="published" when="2022">2022</date>
+			<biblScope unit="page" from="4" to="5" />
+		</imprint>
+	</monogr>
+	<note>Foreword</note>
+</biblStruct>
+
+<biblStruct xml:id="b45">
+	<analytic>
+		<title level="a" type="main">Dirty Media: Tom McCarthy and the Afterlife of Modernism</title>
+		<author>
+			<persName><forename type="first">Justus</forename><surname>Nieland</surname></persName>
+		</author>
+		<idno type="DOI">10.1353/mfs.2012.0058</idno>
+	</analytic>
+	<monogr>
+		<title level="m">MFS Modern Fiction Studies</title>
+		<imprint>
+			<date type="published" when="2012">2012</date>
+			<biblScope unit="volume">58</biblScope>
+			<biblScope unit="page" from="569" to="599" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b46">
+	<monogr>
+		<title level="m" type="main">The Eye of the Master: A Social History of Artificial Intelligence</title>
+		<author>
+			<persName><forename type="first">Matteo</forename><surname>Pasquinelli</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2023">2023</date>
+			<publisher>Verso</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b47">
+	<monogr>
+		<title level="m" type="main">Oxford English Dictionary, Revised Edition 2005</title>
+		<author>
+			<persName><forename type="first">N</forename><surname>Pattern</surname></persName>
+		</author>
+		<ptr target="https://www.oed.com/dictionary/pattern_n?tab=meaning_and_use#31803324" />
+		<imprint>
+			<date type="published" when="2021-10-29">2021. 29 Oct. 2025</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b48">
+	<analytic>
+		<title level="a" type="main">A Choir of Pages: Review of Tom McCarthy&apos;s Satin Island</title>
+		<author>
+			<persName><forename type="first">Frank</forename><surname>Richardson</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">NC Magazine</title>
+		<imprint>
+			<biblScope unit="volume">6</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<date type="published" when="2015-03">March, 2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b49">
+	<analytic>
+		<title level="a" type="main">A Fresh Start for Fiction</title>
+		<author>
+			<persName><forename type="first">Alain</forename><surname>Robbe-Grillet</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Richard</forename><surname>Howard</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Evergreen Review</title>
+		<imprint>
+			<biblScope unit="volume">1</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="97" to="104" />
+			<date type="published" when="1954">1954</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b50">
+	<monogr>
+		<title level="m" type="main">Modernist Patterns in Literature and the Visual Arts</title>
+		<author>
+			<persName><forename type="first">Murray</forename><surname>Roston</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2000">2000</date>
+			<publisher>Palgrave Macmillan</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b51">
+	<analytic>
+		<title level="a" type="main">AI and the Work of Patterns: Recognition Technologies, Classification, and Security</title>
+		<author>
+			<persName><forename type="first">Gabriele</forename><surname>Schabacher</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Beyond Quantity: Research with Subsymbolic AI</title>
+		<editor>
+			<persName><forename type="first">Andreas</forename><surname>Sudmann</surname></persName>
+		</editor>
+		<imprint>
+			<biblScope unit="page" from="123" to="154" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b52">
+	<monogr>
+		<title level="m" type="main">Cultural Techniques: Grids, Filters, Doors, and Other Articulations of the Real</title>
+		<author>
+			<persName><forename type="first">Bernhard</forename><surname>Siegert</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2015">2015</date>
+			<pubPlace>Fordham UP</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b53">
+	<analytic>
+		<title level="a" type="main">Two Paths for the Novel</title>
+		<author>
+			<persName><forename type="first">Zadie</forename><surname>Smith</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Changing My Mind: Occasional Essays. Penguin</title>
+		<imprint>
+			<biblScope unit="page" from="77" to="96" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b54">
+	<monogr>
+		<author>
+			<persName><forename type="first">Ian</forename><surname>Stewart</surname></persName>
+		</author>
+		<title level="m">The Beauty of Numbers: Mathematical Patterns and Principles from the Natural World. MIT P</title>
+		<imprint>
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b55">
+	<analytic>
+		<title level="a" type="main">A Sea of Data: Apophenia and Pattern (Mis)Recognition</title>
+		<author>
+			<persName><forename type="first">Hito</forename><surname>Steyerl</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Toussaint, Jean-Philippe. The Bathroom. Translated by Nancy Amphoux and Paul De Angelis</title>
+		<meeting><address><addrLine>Dutton</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="1985">2016. 1985</date>
+			<biblScope unit="volume">72</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b56">
+	<analytic>
+		<title level="a" type="main">Patterns Before Recognition: The Historical Ascendance of an Extractive Empiricism of Forms</title>
+		<author>
+			<persName><forename type="first">Berkay</forename><surname>Üstün</surname></persName>
+		</author>
+		<idno type="DOI">10.1057/s41599-023-02574-1</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Humanities and Social Sciences Communications</title>
+		<imprint>
+			<biblScope unit="volume">11</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page">2024</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b57">
+	<analytic>
+		<title level="a" type="main">Patterns of Life: Intertwining Identity and Cognition</title>
+		<author>
+			<persName><forename type="first">Francisco</forename><forename type="middle">J</forename><surname>Varela</surname></persName>
+		</author>
+		<idno type="DOI">10.1006/brcg.1997.0907</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Brain and Cognition</title>
+		<imprint>
+			<biblScope unit="volume">34</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="72" to="87" />
+			<date type="published" when="1997">1997</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b58">
+	<monogr>
+		<title level="m" type="main">The Human Use of Human Beings: Cybernetics and Society</title>
+		<author>
+			<persName><forename type="first">Norbert</forename><surname>Wiener</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1950">1950</date>
+			<publisher>Sphere Books</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b59">
+	<monogr>
+		<title level="m" type="main">Keywords: A Vocabulary of Culture and Society</title>
+		<author>
+			<persName><forename type="first">Raymond</forename><surname>Williams</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1983">1983</date>
+			<pubPlace>Oxford UP</pubPlace>
+		</imprint>
+	</monogr>
+	<note>Revised ed.</note>
+</biblStruct>
+
+<biblStruct xml:id="b60">
+	<monogr>
+		<title level="m" type="main">Conceptual and Performative Art in Tom McCarthy, Michel Houellebecq, and Don DeLillo</title>
+		<author>
+			<persName><forename type="first">Joakim</forename><surname>Wrethed</surname></persName>
+		</author>
+		<editor>Neil Murphy, et al. Routledge</editor>
+		<imprint>
+			<date type="published" when="2024">2024</date>
+			<biblScope unit="page" from="480" to="491" />
+		</imprint>
+	</monogr>
+	<note>The Routledge Companion to Literature and Art</note>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

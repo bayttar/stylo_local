@@ -1,0 +1,829 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">The Revitalized Tudor and Chiron Myths in the Henriad: Reviewing Shakespeare as a Historiographer and Mythographer</title>
+				<funder ref="#_x2RPBTN">
+					<orgName type="full">Western Literary Theory Course Construction of Beihang University</orgName>
+				</funder>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName><forename type="first">Junwu</forename><surname>Tian</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">School of Foreign Languages</orgName>
+								<orgName type="institution">Beihang University</orgName>
+								<address>
+									<settlement>Beijing</settlement>
+									<country>People&apos;s Republic of China</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Mingyi</forename><surname>Wang</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">School of Foreign Languages</orgName>
+								<orgName type="institution">Beihang University</orgName>
+								<address>
+									<settlement>Beijing</settlement>
+									<country>People&apos;s Republic of China</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">The Revitalized Tudor and Chiron Myths in the Henriad: Reviewing Shakespeare as a Historiographer and Mythographer</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date/>
+						</imprint>
+					</monogr>
+					<idno type="MD5">1404EE3D5CCE3653D6287BC36B848104</idno>
+					<idno type="DOI">10.1080/0013838X.2025.2566695</idno>
+					<note type="submission">Received 22 June 2025 Accepted 19 September 2025</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.0" ident="GROBID" when="2026-02-25T19:54+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term>Shakespeare</term>
+					<term>the Henriad</term>
+					<term>the Tudor myth</term>
+					<term>Ovid</term>
+					<term>the Chiron myth</term>
+				</keywords>
+			</textClass>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>The Tudor myth in Shakespeare's Henriad is neither obsolete nor definitive; rather, it retains enduring literary significance through its intricate interplay with Ovidian mythology. Shakespeare constructs two distinct iterations of the Tudor myth-the Myth of Pedigree and the Myth of Divine Appointment-each revitalized through intertextual engagement with the archetypal figure of Chiron from Ovid's Fasti. This dual mythological framework, mediated through the structural parallel between Chiron and Falstaff, serves to legitimize divine kingship while reinforcing the political messaging embedded in the plays. By weaving together mythic motifs and historical narrative, Shakespeare transforms the figure of Henry V into a "mythistorical" construct-a hybridized product of his imaginative historiographical method. This approach not only underscores Shakespeare's dual identity as a humanist historiographer and a self-aware mythographer, but also invites a critical reexamination of the evolving relationship between myth and history within the context of his history plays.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="1.">Introduction</head><p>E. M. W. Tillyard's Shakespeare's History Plays (1944) inaugurated a new era in the study of Shakespeare's historical drama, establishing an interpretive paradigm that shaped scholarly discourse for several decades. In his Clark Lectures (1959-1960), Tillyard identified two foundational myths underpinning early modern political thought: the Myth of Pedigree and the Myth of Divine Appointment. The former, he argued, stemmed "from the shakiness of Henry VII's title to the English throne," while the latter originated "from the horror of civil war planted in men's minds by the Wars of the Roses." Both myths, he contended, were "solidified during Shakespeare's formative period by the death of Queen Mary and the victory of England over the Spanish Armada," becoming deeply embedded in the sociopolitical consciousness of the Elizabethan era. 1 However, following Tillyard's death in 1962-and increasingly from the 1970s onward-a new critical wave emerged, challenging his vision of a coherent, ideologically unified Tudor order. Though Tillyard's interpretations have long been critiqued for promoting a monolithic affirmation of authority within an artificially stabilized historical narrative, the Tudor myth itself has persisted as a "donnée of scholarship." 2 Frequently described as one of the "old standbys" 3 of Tudor historical thinking, this mythic construct is neither an obsolete artifact nor a definitive historical axiom. Rather, it remains an open and unresolved proposition, inviting renewed critical attention. At the nexus of dynastic legitimacy and political stability, the ideological foundations of the Tudor myth continue to demand interrogation-particularly in their complex entanglement with the interplay between history and myth.</p><p>Although Tillyard briefly addresses the presence of the two foundational myths in the second tetralogy-commonly referred to as the Henriad-he ultimately concludes that Shakespeare offers only vague symbolic allusions to them, asserting that the playwright was "still immature and developing" during the composition of these plays. Tillyard further posits that "as his stature grows, he will need that support less; and when it is complete, he will create myths rather than use existing ones." <ref type="bibr">4</ref> In reality, however, Shakespeare's artistic development proceeds more swiftly and more complexly than Tillyard allows. His engagement with mythology evolves not as a linear progression from dependency to autonomy, but rather as a dynamic reciprocity: Shakespeare not only skillfully integrates the Tudor myth into the Henriad, but also situates it within a broader and more enduring cultural framework-namely, Ovidian mythology-thereby transcending the constraints of any singular narrative, whether historical or mythic. While much of the scholarship on the Tudor myth in Shakespeare's histories has been preoccupied with challenging Tillyard's absolutist and reductive claims, the significance of the myth extends far beyond his framework. Rather than serving as a mere ideological scaffold, the Tudor myth in the Henriad is intricately interwoven with the dramatic fabric of the plays themselves. Beneath its surface lies an even more archetypal narrative structure, one whose vitality is renewed through its interplay with Shakespeare's historiographical imagination. A sustained examination of these revitalized myths-particularly their integration with and modulation by Shakespeare's historical method-yields deeper insight into the mutable and ambivalent nature of his history plays. Such an interpretive approach also underscores Shakespeare's dual function as both historiographer and mythographer.</p><p>The present study does not merely seek to demonstrate the presence of mythic elements in the Henriad, but rather to examine how two markedly divergent mythological currents intertwine in Shakespeare's dramaturgy to produce innovative meanings. Sections 2 and 3 aim to identify the mythic strands embedded in the Henriad that contribute to the construction of the dual mythological framework analyzed in Section 4, where the interplay between corresponding characters generates both narrative dynamism and political resonance. Section 5 offers a bird's-eye overview of Shakespeare's mythopoetic orchestration within the broader context of his historical moment. Crucially, this study proceeds from the premise that, even in Shakespeare's histories, mythological allusion holds interpretive weight equivalent to that of historical fact.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.">The Tudor Myth in the Henriad</head><p>The Tudor myth originates in two historical constructs strategically advanced by Henry VII: the association of King Arthur with the English monarchy and the establishment of a royal genealogy, exemplified by Henry VII's identification with the ancient Welsh ruler Cadwallader. Both of these constructs find meaningful articulation in the Henriad, where Shakespeare weaves subtle mythological resonances into the historical narrative. Notably, Mistress Quickly's conflation of "Abraham" with "Arthur" (Henry V 2.3.9-10) 5 serves to embed Arthurian legend within Hal's heroic arc, mediated through the figure of Falstaff. Falstaff himself implicitly invokes the parallel between Cadwallader and Henry V, thereby reinforcing this mythological framework. As Barbara Hodgdon observes, the comic episode in Henry V in which Fluellen compels Pistol to eat a leek (5.1) operates as a farcical reenactment of Henry V's repudiation of Falstaff. Pistol's reluctant confession echoes Falstaff's introspective monologue in 1 Henry IV (5.1.158-161), <ref type="bibr">6</ref> heightening the symbolic resonance. The scene's mythic valence intensifies when Pistol initially resists Fluellen's demand, swearing, "Not for Cadwallader and all his goats" (Henry V 5.1.28), only to ultimately submit. This episode establishes a compelling analogy: Fluellen embodies the victorious Henry V, while Pistol figures as the humiliated Falstaff. Pistol's initial invocation of Cadwallader as a condition for obedience-refusing to eat the leek "not for Cadwallader" unless he returns from the dead-followed by his capitulation, symbolically suggests Falstaff's posthumous glorification of Henry V as the rightful heir to Cadwallader's legacy. This mythological reinforcement continues in Fluellen's encomium to Henry V (4.7), wherein he extols the king's Welsh heritage, recalling "your grandfather of famous memory" (91), the tradition of "wearing leeks in their Monmouth caps" (99), and proclaiming that "All the water in Wye cannot wash your majesty's Welsh plood out of your pody" (105-106). These calculated references support the construction of Henry V's elevated mythic identity. Through such intricately orchestrated dramatic moments, with Falstaff serving as the essential mediating figure, Shakespeare not only preserves but also reconfigures the Tudor myth within the Henriad's narrative fabric.</p><p>Shakespeare's incandescent creativity is fully realized in his intricate reworking of Tudor mythography throughout the second tetralogy, wherein he transcends the thematic boundaries typically associated with historical drama. His reconstructed Myth of Pedigree functions to legitimize dynastic continuity from Edward III to Henry V, while the reimagined Myth of Divine Appointment is primarily concerned with the restoration of national order and stability, which frames Henry V as the monarch who ultimately quells civil discord and reestablishes England's honor. Particularly in his treatment of royal succession, Shakespeare displays remarkable subtlety, crafting a portrayal of Henry V's dynastic consciousness that is strikingly detached from his immediate predecessors-Richard II and Henry IV-and instead firmly rooted in the grandeur of Edward III's reign. This nuanced understanding of legitimacy emerges through Shakespeare's deft manipulation of familial and symbolic relationships across the tetralogy. In Richard II, Henry IV is initially depicted as a righteous usurper and Hal's natural political and biological forebear. Yet this dynamic undergoes an intense transformation in Henry IV. As the aging usurper increasingly confronts the consequences of his actions, Richard II is symbolically resurrected as Hal's spiritual father-metamorphosed into "the sweet lovely rose," while Henry IV is reduced to "this thorn, this canker" (1 5 All references to the Henriad (Richard II, The First Part of the History of Henry IV, The Second Part of the History of Henry IV, and Henry V) are taken from the Cambridge Dover Wilson Shakespeare. Henry IV 1.3.175-176). This symbolic realignment is further intensified by Henry IV's own tacit admission of illegitimacy: "Opinion, that did help me to the crown, / Had still kept loyal to possession" (1 Henry IV 3.2.42-43). The succession crisis deepens as Henry IV distances himself from Hal, characterizing him as "the shadow of succession" and "my nearest and dearest enemy" (1 Henry IV 3.2.99, 123), while simultaneously, as Douglas J. Stewart has observed, "virtually adopting" Hotspur as his preferred successor. <ref type="bibr">7</ref> According to Stewart, "Percy is just a second Bolingbroke aiming at a second usurpation"; 8 by contrast, Hal emerges as a politically rehabilitated version of Richard II-one who has internalized his predecessor's failures and aspires to restore the sanctity of monarchy rather than undermine it. This complex dynastic recalibration ultimately enables Henry V to offer atonement for what he terms "the fault / My father made in compassing the crown," to "have interred new" Richard's body, and to command his men to "Sing still for Richard's soul" (Henry V 4.1.289-291, 298, 306). Through this sophisticated narrative arc, Shakespeare elevates the Tudor myth beyond mere ideological function, transforming it into a meditation on legitimacy, political memory, and historical continuity.</p><p>The solar imagery that permeates the second tetralogy functions as a prominent symbolic framework through which Shakespeare explores the fraught dynamics of royal succession and legitimacy. This celestial motif undergoes a marked evolution across the four plays, paralleling the unstable transfer of sovereignty from Richard II to Henry V. In Richard II, the deposed king's poignant soliloquy in Act 3 presents the sun as a richly layered symbol-representing not only divine kingship but also political contention and cosmic disarray: when from under this terrestrial ball He fires the proud tops of the eastern pines And darts his light through every guilty hole […]   Stand bare and naked, trembling at themselves. (2.41-43, 46)   This moment resonates intertextually with Prince Hal's revelatory soliloquy in 1 Henry IV, in which he proclaims his intention to "imitate the sun" (1.2.189). In this declaration, Hal aspires to emulate both "the sun of Bolingbroke" (Richard II 4.1.262) and the sun of Richard II, whose "searching eye of heaven is hid" (Richard II 3.2.37) with the ascent of Bolingbroke. The dynastic transition is thus articulated through a sustained solar metaphor, framing the transfer of royal radiance "From Richard's night to Bullingbrooke's fair day" (Richard II 3.2.219). So powerful is this shift that Richard, in a moment of self-mockery, confesses that Bolingbroke's providential brilliance has caused him to "melt myself away in water-drops" (Richard II 4.1.261). Crucially, Shakespeare casts both Richard II and Henry IV as transitional monarchs-celestial bodies whose historical role lies in generating the political momentum that culminates in the legitimate ascendancy of Henry V. Yet this legitimacy, significantly, is not derived from either predecessor, but finds its true source in the uncontested authority and luminous legacy of Edward III.</p><p>From its opening scenes, Henry V systematically foregrounds the king's genealogical connection to Edward III, constructing this ancestral link as the foundational legitimization of Henry's French claim. As the Archbishop of Canterbury authoritatively asserts, "the crown and seat of France / Derived from Edward, his great-grandfather" (1.1.88-89). This Edwardian lineage receives striking validation even from England's adversary when the French King, in a moment of reluctant concession, acknowledges Henry's dynastic privilege: "This is a stem / Of that victorious stock, and let us fear / The native mightiness and fate of him" (2.4.62-64). Shakespeare deliberately contrasts this glorious pedigree with Henry's forebears-Richard II's cursed incompetence and Henry IV's usurpation and troubled reign-thereby elevating Edward III as what the French herald terms "his most famed of famous ancestors" (2.4.92). This strategic ancestral positioning transforms Edward's legacy into the sole unimpeachable source of Henry's sovereign authority. The Agincourt campaign emerges not merely as military conquest but as dynastic theater, with Henry explicitly framing his ambition "To fill King Edward's fame with prisoner kings" (1.2.162). This intergenerational performance achieves dual ideological work: it reconstructs a Myth of Pedigree that authenticates Henry's French claims while simultaneously reinforcing the Myth of Divine Appointment that sanctifies his reign. The play's resolution-with England and France united under harmonious rule-consciously mirrors Edward III's golden age, presenting Henry as the fulfillment of providential design. His famous declaration thus operates as both political statement and theological affirmation, completing Shakespeare's intricate construction of legitimate kingship:</p><p>The tide of blood in me At first glance, one might be tempted to reductively interpret the Tudor myth permeating the Henriad as merely a fervent narrative of royal maturation-the progressive development of a promising monarch. However, historical and textual complexities resist such simplistic reduction. This raises a crucial critical question: What transforms this ostensibly hybrid construct-part political propaganda, part mythical historiography-into a work of substantial literary and theatrical significance? One essential foundation lies in Shakespeare's strategic incorporation of heterogeneous Ovidian mythology, which provides vital imaginative and structural nourishment to the cycle.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.">The Chiron Myth in the Henriad</head><p>By the 1560s, Ovidian mythology had become thoroughly institutionalized within Elizabethan literary culture, 9 prompting Shakespeare and his contemporaries to engage in what we might more precisely characterize as a sustained project of classical cultural appropriation. "The whole character of Shakespeare's mythology is essentially Ovidian." 10 Shakespeare's enthusiasm for Ovid was far from superficial, as his career-9 Maslen, "Myths Exploited", 29. <ref type="bibr">10</ref> Root, Classical Mythology in Shakespeare, 3.  long practice of maintaining "the Ovidian texture and inflection of his writing clear during every phase of his career" 11 reveals his exceptional ability to transmute classical mythological material into vibrant theatrical discourse. Shakespeare's engagement with Ovidian material extended well beyond Arthur Golding's influential 1567 translation of the Metamorphoses. 12 Having received a rigorous classical education at grammar school-where Ovid's texts formed the cornerstone of the curriculum-the playwright would have accessed Ovid's original Latin works directly, including the comparatively less studied Fasti. As Jonathan Bate's authoritative study demonstrates, "Shakespeare knew the Fasti" because he "got a good enough education for him to be able to base his Lucrece on a story in Ovid's Fasti, which was not published in an English translation until well after his death." 13 This early immersion in Ovid's Latin texts provided Shakespeare not merely with conventional rhetorical training in diction and poetic technique, but more significantly, with what Sean Keilen identifies as "a playfulness with words and ideas that could not be reduced to lessons." 14 This formative encounter with Ovid's subversive spirit-both as literary craftsman and cultural rebel-profoundly informed Shakespeare's creative approach, culminating in his innovative adaptation of the Chiron myth within the Henriad.</p><p>Book V of Ovid's Fasti presents the tragic demise of the centaur-mentor Chiron at the hands of his own pupil, a narrative that exemplifies Ovid's nuanced treatment of mythological figures. <ref type="bibr">15</ref> The episode recounts how Hercules, while visiting Chiron's dwelling on Mount Pelion, accidentally wounds the centaur with an arrow poisoned by the Lernaean Hydra's venom. Though Chiron attempts to heal himself using his renowned knowledge of medicinal herbs, the wound proves mortal. His death-witnessed by his devoted, quasi-filial pupil Achilles-culminates in his celestial transformation into the constellation Sagittarius. Ovid's portrayal deliberately attenuates Chiron's hybrid nature through nuanced linguistic strategies, thereby encouraging reader identification with him as a venerable paternal figure. <ref type="bibr">16</ref> The poet employs a semantically fluid lexicon, oscillating between the biologically precise semivir (half-man) (5.380) and more anthropocentric descriptors such as vir and viro (person) (394; 388, 384), complemented by the gerontological terms senen and senex (old man) (384, 397). This deliberate lexical ambiguity constructs Chiron as, in Jonathan Bate's formulation, "the perfect image for humankind's double nature as both beast and rational creature." <ref type="bibr">17</ref> The episode ultimately generates <ref type="bibr">11</ref> Keilen, "Shakespeare and Ovid", 232. <ref type="bibr">12</ref> For more details about Shakespeare's Ovidian education at grammar school, see Lynn Enterline's Shakespeare's Schoolroom Rhetoric, Discipline, Emotion (2012). All the references to the Metamorphoses are taken from the Loeb Classical Library. <ref type="bibr">13</ref> Bate, Shakespeare and Ovid, 13, 24. <ref type="bibr">14</ref> Keilen, "Shakespeare and Ovid", 37. 15 Although Homer's account of Chiron in the Iliad predates Ovid's, the Homeric epics were largely unknown in medieval England and only began circulating widely toward the end of the sixteenth century. While Shakespeare may have encountered Homer indirectly through intermediaries such as Chaucer, there is no definitive evidence that he read the Iliad. Notably, Shakespeare's portrayal of Achilles-as a selfish and morally ambiguous figure-departs sharply from Homer's heroic depiction, proving the playwright's unacquaintance with the Homeric traditions. George Chapman's translation of the Iliad, which includes the Chiron myth in Book XI, was published in 1598 after Henry IV had already been substantially completed. Tillyard even speculates-though without conclusive proof-that Shakespeare's second tetralogy may have been finished but tragically lost before the first (Shakespeare's Historical Plays, 149). In conclusion, Shakespeare's primary familiarity with the Chiron myth likely derived from Ovid's Fasti. All the references to the Fasti are taken from the Bibliotheca Teubneriana. <ref type="bibr">16</ref> Brookes, "The Death of Chiron", 445. 17 Bate, Shakespeare and Ovid, 194.  a profound ontological instability that permeates the mythological narrative: the exceptional centaur fluctuates between human and bestial attributes, Achilles between filial and disciple roles, and Hercules between heroic and antagonistic functions.</p><p>This archetype of magistricide establishes profound intertextual connections with Shakespeare's Henriad. In his examination of the Chiron myth's structural presence in Henry IV, Stewart delineates its fundamental tripartite correspondence: the maturing hero (Hal), the inadequate biological father unable to properly guide his heir (Henry  IV), and the surrogate father-figure who provides genuine mentorship (Falstaff). Stewart's analysis convincingly demonstrates how the Chiron myth operates as a latent narrative framework for the history play. Yet he is also careful to delimit the scope of his claim: he explicitly disavows any suggestion that "Shakespeare consciously modelled the Hal-Falstaff relationship on this aspect of Greek myth." This methodological caution, while ensuring that his reading avoids speculative overreach, has the effect of confining the mythic resonance to an allegorical register. As a result, Stewart interprets the Hal-Falstaff dynamic largely as "a parody of the medieval master-apprentice and knight-squire arrangement." 18 What remains absent from his account is a consideration of the Ovidian dimension and the centaur in the context of Shakespeare's age. It is precisely in this intertextual and specific space, left unexamined by Stewart, that Shakespeare's deeper engagement with classical myth becomes most legible.</p><p>In the early modern period, centauric imagery-especially that of Chiron-was culturally legible and attractive to both the cultured and plebeian in early modern period. <ref type="bibr">19</ref> Accordingly, centaurs recur at impressive sites across Shakespeare's oeuvre. <ref type="bibr">20</ref> Renaissance thinkers tend to trace the centaur's origin from observers' misrecognition of a rider so incorporated with his mount as to appear a single composite being-"when their neighbours saw them riding horses, they believed the upper parts of their bodies were like humans and the lower parts like horses. Thus, poets fabricated the following myth about their origins." 21 Therefore, centauric imagery is often employed to designate those distinguished for their horsemanship-for example, Claudius's praise for a skillful equestrian in Hamlet-"As had he been incorpsed and demi-natured" (4.7.85) <ref type="bibr">22</ref> -echoes this ontological ambiguity. For the most distinguished centaur Chiron, in Thomas Cooper's Thesaurus Linguae Romanae &amp; Britannicae (1565) it appears as an independent entry distinct from "centaur," interpreted with pronounced Ovidian undertones as "the name of a man, who did a feat finds the virtues of herbs: He taught Aesculapius physic, Apollo to harp, to Hercules astronomy. He was master to Achilles, and excelled all other men in his time in virtue and science." <ref type="bibr">23</ref> An explicit indication of Shakespeare's familiarity with Chiron appears in Titus Andronicus, where he employs an ironic subversion of the myth. The play features a character named Chiron who, conspiring with his mother Tamora, disguises himself as "Rape" and declares: "Show me a villain that hath done a rape, / And I am sent to be <ref type="bibr">18</ref> Stewart, "Falstaff the Centaur", 5. <ref type="bibr">19</ref> Pikli, "Hybrid Creatures in Context". <ref type="bibr">20</ref> The centaur is "an idea that fascinated Shakespeare throughout his entire career" (Brown, 175) revenged on him" (5.2.95-96). <ref type="bibr">24</ref> This deliberate casting evokes the centaur's traditional association with violence and lust, inviting the audience to recognize Shakespeare's pointed departure from Chiron's conventional portrayal as a virtuous mentor. By assigning the role of "Rape" to Chiron rather than to Tamora's other son, Shakespeare constructs a calculated contrast-revealing not only his awareness of the myth's noble associations but also his expectation that the audience would discern his subversive inversion. Jim Casey explores how Shakespeare reshapes his Ovidian source material in Titus Andronicus, arguing that Shakespeare, channeling Ovid's voice, sought to stage performances of "'unspeakable,' 'obscene,' and 'irreligious' acts," 25 much like the covert, ambiguous, and pagan dimensions of the Chiron myth in the Henriad. For a deliberate purpose, Shakespeare "takes the dismembered stories of Metamorphoses and reknits them into the tapestry of Titus Andronicus." 26 This same method of reworking classical material recurs in the second tetralogy, where Shakespeare similarly integrates the fragmented narratives of Ovid's Fasti into a coherent storyline within a historical framework. Indeed, in certain respects, Shakespeare's engagement with the Chiron myth in the Henriad is even more thorough, as it underpins the central relationships between key characters.</p><p>The most distinctive link between the centaur-mentor and Falstaff lies in his sustained association with horses. In Falstaff's dramaturgy, the horse is not merely a vehicle but a defining index of his comic persona and of a compromised bestiality. <ref type="bibr">27</ref> Encumbered by corpulence, he relies on mounted travel and is ridiculed as "this horseback-breaker" (1 Henry IV 2.4.240-241); when deprived of his mount, he "frets like a gummed velvet" (1 Henry IV 2.2.2). The prank in which Hal and Poins steal Falstaff's horse exceeds farce: it theatrically exposes his liminal, quasi-hybrid condition. This symbolic removal is juxtaposed with Hotspur's dismounting just before his anticipated "hot horse to horse" (1 Henry IV 4.1.122) encounter with Hal. As Bruce Boehrer observes, "by killing Hotspur, Hal not only suppresses the bestial and childish impulses of a rebellious subject; he also suppresses the bestial and childish impulses within himself." <ref type="bibr">28</ref> Because the horse is repeatedly associated with latent bestiality, Falstaff's dependence on it exceeds utility, blurring the boundary between man and beast and intimating his centauric duplex natura (Metamorphoses 7.504). Taken together, Falstaff's duplex natura, his equine associations, his function as the prince's formative tutor, and his eventual rejection by the pupil jointly anchor his dramatic profile to the mythic paradigm of Chiron.</p><p>A mythic corroboration of this nexus appears in Henry V, where the opening exchange between Canterbury and Ely invokes a pointed classical allusion: "Nor never Hydraheaded willfulness / So soon did lose his seat, and all at once, / As in this king" (1.1.35-37). On one reading, the Hydra figures the unruly influence emanating from Falstaff; on another, it recalls the Hydra's venom that ultimately causes Chiron's death. This dual invocation allows Shakespeare to suggest, without literalizing, that the repressed, semi-bestial aspect of Chiron reemerges in Falstaff's morally ambiguous <ref type="bibr">24</ref> All references to Titus Andronicus are taken from the Oxford Shakespeare. <ref type="bibr">25</ref> Casey, "Worse than Philomel, Worse than Actaeon", 254. <ref type="bibr">26</ref> Ibid., 268. <ref type="bibr">27</ref> For more about the early modern horse culture, see The Culture of the Horse. Status, Discipline, and Identity in the Early Modern World (2005), edited by Karen Raber and Treva J. Tucker, which elucidates the close connection between horse culture and centaur imagery (Boehrer, "Shakespeare and the Social Devaluation of the Horse", 95). <ref type="bibr">28</ref> Boehrer, Shakespeare Among the Animals, 23.</p><p>persona. Historical detail further stabilizes the pattern: The death of Falstaff's historical archetype, John Oldcastle (14 December 1417), falls within the season of Sagittarius, a calendrical echo of Chiron's catasterism into the archer constellation. In these respects, Shakespeare deftly blends historical fact with mythological allusion while deliberately blurring the boundaries between them, providing a symbolic grid through which Chiron's context is naturalized within the English historical imaginary.</p><p>Plot mechanics reinforce the same structure. Although the Chiron episode in Ovid's Fasti is relatively brief, its positioning as a central narrative in Book V gives it thematic leverage. With the tutor removed, both Achilles and Hercules are left without the moral and spiritual guidance their esteemed mentor supplied, a lack that becomes transformative: Achilles is propelled toward the battlefield and emerges as a decisive agent in the Trojan War, ultimately joining Hercules as Troiae duo fata (the two destroyers of Troy) (5.389). A comparable dynamic is dramatized in the evolving relationship between Hal and Falstaff. The mentors' "deaths" likewise precipitate narrative metamorphosis: just as Achilles fully embraces his martial destiny after Chiron's demise, Hal's vanquishing of Hotspur follows directly upon Falstaff's mock death. Shakespeare further intensifies the parallel through mythic reference: the Hal-Hotspur duel consciously mirrors Achilles' climactic confrontation with Hector, and the Fasti explicitly links the martial outcome to Chiron's pedagogy-ille manus olim missuras Hectora leto / creditur in lyricis detinuisse modis (those hands destined to slay Hector were first trained by Chiron in lyrical measures) (5.385-386). Shakespeare's richly developed portrayal of Falstaff is not merely ornamental; rather, it serves as a critical narrative mechanism that foregrounds how Hal's progression into a competent and legitimate ruler is fundamentally shaped by-and in tension with-Falstaff's formative influence.</p><p>Ultimately, Falstaff and Chiron participate in a shared symbolic economy. As Carole E. Newlands has argued, the Chiron episode marks a crucial pivot in Book V of the Fasti, emblematic of the displacement of artistic cultivation and peace by martial disorder. <ref type="bibr">29</ref> Chiron dwells in the pastoral serenity of Pelion's groves, insulated from violence until his fateful encounter with Hercules-himself still bloodied from combat. Shakespeare stages an analogue in Falstaff, whose very presence undermines the solemnity of war: through sardonic battlefield aphorisms-"I never knew yet but rebuke and check was the reward of valour" and the parodic "I came, saw, and overcame" (2 Henry IV 4.3.31-32, 41)-he systematically undercuts the gravitas of military engagement. His calculated evasions-his feigned death in 1 Henry IV and his mustering of "shadows to fill up the muster-book" (2 Henry IV 3.2.138-139)-operate as subtle yet potent forms of resistance to martial ideology. The confrontation between artistic tutelage and martial application in this intertextual pattern amounts to Shakespeare's meta-commentary on pedagogy as a practice that at once civilizes and trains violence, exposing the paradox at the heart of education. These textual moments cast the shadow of Chiron across Falstaff, whose mentorship of Hal and centauric duality position him within a mythic continuum.</p><p>An appreciation of Ovid's narrative of Chiron provides a mythological lens through which to interpret the enigmatic rejection of Falstaff. <ref type="bibr">30</ref> When Chiron receives the <ref type="bibr">29</ref> Newlands, Playing with Time, 122. 30 Harold Bloom also interprets Henry V's rejection of Falstaff in mythological terms: Falstaff refers to the newly crowned Henry V as "my Jove" (5.5.51), thereby "invoking the ancient myth of Old Father Time, or Saturn, being castrated by distant guest Hercules, he admires the hero's arms and lion's skin, remarking: vir […] his armis, armaque digna viro (The armor matches the person, and the person matches the armor) (Fasti V.394). This aphorism is laden with interpretive potential. If a man merits his armor, then one must ask: does the hybrid Chiron-"at best only half-human" 31himself digna (deserve)? The same question reverberates in the case of Falstaff, who contemptuously queries, "What is honor? a word. What is in that word honor?" (1 Henry IV 5.1.133-134). Can Falstaff, the self-proclaimed "Fortune's steward" and bearer of "The laws of England" (2 Henry IV 5.3.134, 139-140), be said to deserve these designations? From the outset, the destinies of Prince Hal and Falstaff seem shaped by a cosmic determinism. Hal is figured as "the rising sun," while Falstaff is disparaged as "the base contagious clouds" and "the foul and ugly mists" (1 Henry IV 1.2.190, 194). The rogueknight's inevitable banishment thus appears not merely an act of statecraft but one of moral inevitability. Moreover, the lion's skin admired by Chiron is no ordinary artifact. Following a brutal struggle with the Nemean lion-a beast reared by Hera-Hercules, unable to pierce its hide by conventional means, must use the lion's own claw to skin it. With Athena's aid, he converts the hide into armor and wears its head as a helmet. This antinomic myth, invoked by Chiron, forecasts the tragic irony of mentorship: the noble tutor ultimately becomes a casualty of his pupil's ascendance. A comparable fate befalls Falstaff, who suffers a merciless rejection at the hands of his former protégé, now King Henry V. Shakespeare underscores the poetic justice of this renunciation through Fluellen's sardonic commentary: "As Alexander killed his friend Cleitus, being in his ales and his cups, so also Harry Monmouth, being in his right wits and his good judgments, turned away the fat knight with the great-belly doublet. He was full of jests, and gipes, and knaveries, and mocks. I have forgot his name" (Henry V 4.7.43-49). The forgetting of Falstaff's name serves as a final erasure, a symbolic effacement of his once-central role. If Henry V's disavowal of Falstaff constitutes a calculated act of political self-fashioning, a precedent might be found in Achilles, whose theatrical displays of grief and apparent sincerity captivated his audience. Both figures, Achilles and Henry, reveal how performance and emotion can be marshaled in the service of power-a dynamic in which the mentor or companion must be discarded to secure the legitimacy of the hero's new identity.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="4.">The Dual Mythological Framework in the Henriad</head><p>The Tudor and Chiron myths within the Henriad do not merely function in parallel but together constitute a dual mythological narrative. Structurally, Shakespeare constructs this dual mythology with what might be described as "fluffy and airy" qualities-an aesthetic Yves Peyré, drawing upon Roland Barthes' conceptual vocabulary, terms "Shakespeare's mythological feuilletage." Peyré contends that Shakespeare's intertextual architecture does not simply amalgamate disparate mythic fragments; rather, it presents each strand as textually distinct while simultaneously integrating them into a cohesive, Jove, the leader of the Olympian gods." Both Chiron and Falstaff, as Bloom argues, "know everything, so knowingly see and darkly accept the end of their manhood at the hands of the only love they have been able to understand" (95). <ref type="bibr">31</ref> Stewart, "Falstaff the Centaur", 7.</p><p>layered whole. This construction results in what Peyré evocatively describes as a "collective textual labyrinth." As he elaborates: When Shakespeare plays host to Ovid, he is not inviting Ovid alone into his text, he is also welcoming in Ovid reading Virgil, himself reading Homer, with all the depth, freedom and delicious lightness this multi-layering engenders, as each text leaves a trace in the others, introducing an enriching leaven that expands the text. <ref type="bibr">32</ref> This "light and delicious" narrative architecture functions as a sophisticated literary strategy, one that draws the audience into discerning discrete mythological resonances through subtle textual "flavors." Yet it is only through closer engagement that readers come to appreciate the deeper "aftertastes" embedded in Shakespeare's intertextual method. In this way, Shakespeare's mythopoetic layering not only enriches the narrative complexity of the Henriad but also invites a continuous process of recognition and reinterpretation, wherein classical and contemporary traditions intersect and mutually illuminate one another.</p><p>One instance of this strategy appears within the Myth of Divine Appointment. Shakespeare concludes the Henriad with Henry V at the height of his power, framing this apotheosis through the Epilogue's metatheatrical reflection: "In little room confining mighty men, / Mangling by starts the full course of their glory" (Henry V Epilogue 3-4). This condensation of epic lives into brief dramatic moments invites the audience to contemplate Henry's meteoric rise and encourages implicit analogies between his fleeting golden age and the relatively stable reign of Elizabeth I. This climactic narrative strategy finds a mythological antecedent in Ovid's account of Chiron: just as the centaur's tutelage of Achilles unfolds offstage, so too are Hal's formative experiences with Falstaff conspicuously absent from Richard II. The audience never fully witnesses the process of heroic mentorship, because, as Stewart observes, for figures like Achilles and Hal, "the past can be a curse" 33 -and, by implication, so can the future. Their stories must culminate in a moment of zenith: Achilles, propelled into autonomous heroism by Chiron's death, becomes both victorious and tragically human, while Henry V achieves his legendary status just before the historical decline foretold by the cycle's concluding lines. This narrative ellipsis may also offer insight into Shakespeare's controversial portrayal of Achilles in Troilus and Cressida. Unfamiliar with Homeric tradition, Shakespeare seems to locate Achilles' defining transformation not in the Iliad's scenes of martial valor, but in Ovid's depiction of the hero's grief-stricken humanity following the loss of his tutor. In a similar fashion, Shakespeare structures the Henriad's grandeur through the same mythic lens, casting Henry V as a providentially anointed monarch who briefly unifies a fractured nation in a fragile, utopian moment. Through this dual mythological framework, Shakespeare's technique of mirroring achieves a dual effect: it recalls the archaic, heroic past while simultaneously resonating with contemporary political anxieties. The Henriad, then, becomes not merely a chronicle of Tudor legitimacy but also a meditation on the transience of greatness and the costs of mythic destiny.</p><p>Furthermore, Shakespeare offers a distinctive resolution to the enduring dilemma of divine right that shadows Henry V's reign by intricately intertwining the Chiron myth <ref type="bibr">32</ref> Peyré, "Shakespeare's Mythological Feuilletage", 25. <ref type="bibr">33</ref> Stewart, "Falstaff the Centaur", 21.</p><p>with the Tudor myth throughout the Henriad. In the wake of his usurpation, Bolingbroke (Henry IV) attempts to legitimize his rule through expedient but ultimately ineffective strategies: he hastily states his genealogical connection to Edward III and orchestrates his coronation through the authority of the Archbishop of the Roman Curia. Yet these gestures fail to secure genuine legitimacy, let alone ease his troubled conscience. His preoccupation with a penitential journey to the Holy Land-intended as expiation for his political and spiritual transgressions-betrays a persistent anxiety about the moral foundations of his kingship. Henry V, while strategically embracing his father's invocation of Edward III's legacy, simultaneously demonstrates a keen awareness of its symbolic and political limitations. His formative myths remain haunted by the original sin of Lancastrian usurpation, a taint he cannot fully eradicate. This anxiety is reflected in his obsessive preoccupation with the notion of the "just":</p><p>Our coronation done, we will accite, As I before remember'd, all our state; And, God consigning to my good intents, No prince nor peer shall have just cause to say, God shorten Harry's happy life one day. (2 Henry IV 5.2.142-146) Shakespeare thus strategically deploys Falstaff as both an instrument and scapegoat in Henry V's project of political consolidation. In the prince's calculated rejection of Falstaff, the play draws upon and simultaneously exploits the symbolic resonance of the disreputable mentor figure, aligning him with the Chiron archetype. This dual characterization confers upon Henry V's ascension not only immediate populist appeal but also the legitimizing gravitas of an inherited cultural mythology. The Lancastrian regime-founded upon the unstable foundations of usurpation and regicideexists in a world, as Hamlet memorably laments, "out of joint" (1.5.188), a temporal and moral dislocation that demands symbolic reparation. By reviving and reconfiguring mythic relationships such as the Chiron-Achilles paradigm, Shakespeare offers a politically expedient and culturally resonant strategy for restoring a sense of continuity and legitimacy to a fractured historical order.</p><p>The relocation effected through the Chiron myth operates according to a foundational logic: the construction of a nationalist mythology must be interwoven with "the large cultural systems that preceded it, out of which-as well as against which-it came into being" before it can attain relevance to "self-consciously held political ideologies." <ref type="bibr">34</ref> The Chiron myth thus introduces a dialectical materialist perspective, wherein human beings are simultaneously products of their circumstances (as exemplified by Achilles' tutelage) and agents capable of transforming them (as seen in Hercules' creation of a space that enables Achilles' autonomous development). This dynamic provides an ideological grounding for the Tudor myth's political aspirations. At the same time, the Chiron narrative embodies affective and ethical principles with broad cultural resonance. Its vehement condemnation of war, its celebration of human heroism, its moral inquiries into pedagogical and filial bonds, and its "sad reflection on the powerlessness of a just man" 35 collectively fulfill the psychological and theatrical appetites of Shakespeare's audience. By first establishing an essential emotional connection with spectators, the Chiron myth facilitates the later assimilation of more overt political ideology. In this sense, the Tudor and Chiron myths function as complementary instruments of ideological persuasion. The Tudor myth operates through a rhetoric of intimidation, implying that resistance to the divinely sanctioned Henry V will incur providential punishment. The Chiron myth, by contrast, cultivates an a priori intimacy, presenting Henry as a monarch marked by divine favor, buoyed by popular affection, and guided by ethical tutelage. Crucially, the persuasive power of the Tudor myth is contingent upon the emotional groundwork laid by the Chiron myth; only after the latter has secured affective allegiance can the former achieve its full rhetorical and ideological impact.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="5.">Shakespeare as a Historiographer and Mythographer</head><p>The resulting construction of Shakespeare's dual mythological framework constitutes a performative historical myth, one that serves to "express and explain the beliefs in the common origins and destinies." 36 Through this theatrical revitalization, Shakespeare reconnects England's collective memory to a mythological continuum-extending from the Trojan War, through Arthurian romance, to the divinely sanctioned exploits of Henry V. The historical mythology developed in the Henriad thus emerges as an enduring cultural resource, one that both informs and is embedded within the ongoing formation of English national identity. In this capacity, Shakespeare may rightly be considered a mythographer. Yet, as Sarah Annes Brown astutely observes, "one barrier to seeing Shakespeare as a creator of myths is his status as an unremarkable historical figure." 37 Nonetheless, Shakespeare's work persistently engages with both historicity and mythicity, making him not only a dramatist but also a historiographer and mythographer-one who skillfully manipulates and interweaves these dual narrative modes to construct enduring, resonant visions of national destiny.</p><p>Myth is conventionally perceived as fictional and history as factual, yet in Shakespeare's era, no rigid boundary separated these two modes of engaging with the past. The philosopher-poet operated within a cultural moment marked by historical ambiguity and transition, a period in which historiography itself was undergoing a significant transformation-shifting toward fragmentation, multiplicity, and polyphony. As Ivo Kamps notes, a wide array of textual forms, including "poems, plays, memorials, biographies, narratives of current events, political narratives, annals, chronicles, surveys, [and] antiquarian accounts-all could bear the name of 'history'." 38 Amid this epistemological flux, historical playwrights emerged as a distinctive category of historiographers. In the public sphere, dramatists effectively began to supplant traditional historical sources such as chronicles, as their plays offered more accessible and affordable modes of engaging with the past-particularly for what Louis B. Wright identifies as "the Elizabethan middle class." 39 This historiographic function is especially apparent in the Chorus to <ref type="bibr">35</ref> Newlands, Playing with Time, 117. <ref type="bibr">36</ref> Mali, Mythistory, 8. <ref type="bibr">37</ref> Brown, "Shakespeare and Myth", 163. <ref type="bibr">38</ref> Kamps, "The Writing of History in Shakespeare's England", 8. <ref type="bibr">39</ref> Wright, Middle Class Culture in Elizabethan England, 1-18.</p><p>Henry V, where Shakespeare self-consciously adopts the mantle of historian, appealing to the audience for their indulgence in his attempt to compress England's heroic past into the limited scope of theatrical performance:</p><p>On this unworthy scaffold to bring forth So great an object […]   Turning th' accomplishment of many years Into an hourglass: for which supply, Admit me chorus to this history. (10-11, 30-33)   Daniel R. Woolf argues that Shakespeare's history plays, like many other historical works of the period, functioned as "the parasite genres" that fed upon traditional chronicles such as Holinshed's, themselves "a genre that was already on its last legs" and in need of revitalization. <ref type="bibr">40</ref> As an innovative historiographer, Shakespeare reshapes these source materials in accordance with evolving contemporary trends, creating what might aptly be termed a "mythistory"-a fusion of historical fact with mythological resonance and imaginative interpretation. The Henriad exemplifies this intentional dissolution of the boundaries between myth and history. Chiron's ultimate sacrifice-eternally memorialized in the constellation Sagittarius-elevates myth to the status of historical symbol, while Falstaff's death, described by Mistress Quickly as his return to "Arthur's bosom" (Henry V 2.3.10), mythologizes recent historical memory through vernacular idiom. In both instances, Shakespeare blends the Chiron and Tudor myths with the historical mythology of Henry V to construct what Giambattista Vico defines as vera narratio (true speech) 41 -that is, authentic narrative forms that express, in Isaiah Berlin's words, "systematic ways of seeing, understanding, and reacting to the world, intelligible fully perhaps only to their creators and users, the early generations of men." 42 Within the Henriad, the playwright attains precisely this equilibrium between mythic and historical consciousness: he avoids excessive fidelity to chronicle sources that would reduce the plays to mere historical transcription, and he resists mythic exaggeration that might overly sanctify Henry V's reign. In these respects, Shakespeare revitalizes myth as a mythographer while concurrently engaging in a sophisticated form of historiography.</p><p>A mythistorical vantage point reveals a fundamental tension between Shakespeare's historiographical practice and the dominant modes of historical thought in late-Elizabethan England. Intellectuals of the period typically recognized three principal historiographic strands-providential, humanist, and antiquarian. The "Tudor mythistory," productively explored by E. M. W. Tillyard, belongs squarely to the providential current. Yet, whereas Tillyard describes this myth as a seamless, universally binding ideology, it constituted only one among several interpretive frameworks available to Shakespeare. As Phyllis Rackin reminds us, providential historiography remained "a discourse of the elite, shaped by the interests of the dominant classes, whose definitive speaker and auditor and ultimate source of authority was always the sovereign." 43 40 Woolf, Reading History in Early Modern England, 12n5. <ref type="bibr">41</ref> Vico, The New Science, 114. <ref type="bibr">42</ref> Berlin, Three Critics of the Enlightenment, 90. <ref type="bibr">43</ref> Rackin, Stages of History, 42.</p><p>Elements of this providential worldview persist residually throughout Shakespeare's histories and tragedies, but their presence does not imply the playwright's endorsement. Shakespeare dutifully reproduces the providential idiom-often through explicit invocation of the Tudor myth-while simultaneously relegating it to the margins of dramatic action. A telling instance appears in Hamlet: as the prince prepares to fence with Laertes, he brushes aside Horatio's ominous forebodings, thereby staging the providential logic of "special providence" only to drain it of decisive dramatic authority:</p><p>We defy augury. There's a special providence in the fall of a sparrow. If it be now, 'tis not to come. If it be not to come, it will be now. If it be not now, yet it will come. The readiness is all. Since no man, of aught he leaves, knows aught, what is't to leave betimes? Let be. (5.2.205-209)   Hamlet's response discloses a stronger confidence in human agency than in divine intervention, a stance emblematic of Shakespeare's characteristically intricate negotiation with providential historiography. Shakespeare's simultaneous use and reconfiguration of the Chiron myth within the broader providential framework of the Tudor myth testify to his fundamentally humanist approach to history. This humanist outlook does not repudiate providential historiography; rather, it complements it. As Antonia Gransden notes, Renaissance humanist historians assumed that history ultimately revealed divine purpose, yet they "frequently attribute[d] causality to secular factors." 44 Neema Parvini likewise characterizes Shakespeare as England's foremost humanist historiographer, insisting that he alone succeeded in portraying "the distinctly human course of history by showing the kings of England as what they were: flawed men who made politically and emotionally motivated decisions." <ref type="bibr">45</ref> This humanist vision saturates the histories: they center on "people and their actions," depicting the past as "a genuinely human affair in which actions have consequences and personalities matter." <ref type="bibr">46</ref> This principle harmonizes strikingly with the implications of the Chiron narrative. Ovid's distinctive wordplay deliberately effaces the centaur's hybrid nature, recasting Chiron as a venerable tutor while diminishing the demigod Achilles to an obedient son-student. Such figurative compression invites an audience to read these mythic figures as recognizably human contemporaries whose relationships and choices resonate beyond the stage. Although Hercules' act of magistricide still carries providential weight, the myth's dramatic focus rests on personal formation, emotional immediacy, and the transformative power of lived experience, ultimately privileging Achilles' visceral humanity over Hercules' divine intervention. Within this intricate configuration, the providential Tudor mythistory operates as luxuriant foliage embellishing Shakespeare's histories, whereas the human-centered Chiron mythistory forms their subterranean rhizome. Rather than diluting the plays' political vigor, this humanist substructure sustains their vitality, securing the Henriad's enduring power and its persistent appeal across centuries. <ref type="bibr">44 Gransden, Historical Writing in England II: c. 1307</ref> to the Early Sixteenth Century, 427. <ref type="bibr">45</ref>  <ref type="bibr">Parvini,</ref><ref type="bibr">Shakespeare's History Plays,</ref><ref type="bibr">99. 46</ref> Ibid., 106.</p><p>Mythistory, Michael Ermarth reminds us, "arises typically in response to a foreboding of collective cultural dissolution or acute sociopolitical crisis, giving rise in turn to a powerful urge to find lasting patterns of orientation or expectancy." 47 The Henriad's distinctive mythistoricity-its recursive dialogue with classical motifs coupled with a rigorous commitment to historical verisimilitude-underscores Shakespeare's twin capacities as historiographer and mythographer. Across these plays, he reflects on the oscillations of individual and national fortune while intimating that societies in crisis may negotiate the future by adopting the stance he elsewhere recommends toward mythic wisdom: exhorting audiences to "piece out our imperfections" with "imaginary forces" (Henry V Prologue 18, 23). In effect, the dramatist's freshly invigorated mythological framework becomes a crucial intellectual resource for recognizing, understanding, and confronting historical transformation.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="6.">Conclusion</head><p>Although contemporary scholarship on Shakespeare and the classical tradition is both extensive and sophisticated, a number of issues remain "hiding in plain sight." 48 Critical fascination with the Metamorphoses has been so intense that Shakespeare's dialogue with Ovid's other poems often lingers in the shadows. A comparable distortion affects the study of the history plays, where the sexagenarian construct of the Tudor myth is frequently eclipsed by the latest theoretical-ism for interpreting the past. Yet if we are to grasp fully the "pagan antiquity" Shakespeare absorbed and refashioned, a critical method that renounces-or restricts itself to-a single perspective can only prove, in the end, counterproductive. The present essay explores the dynamic interplay between the Chiron and Tudor myths in Shakespeare's historical imagination, with special attention to their artistic revitalization in the Henriad. This double inheritance reveals the playwright as both humanist historiographer and conscientious mythographer, articulating insights that speak to his immediate political moment while reviving enduring classical wisdom. More broadly, the composite lens adopted here serves as a methodological reminder: research on Shakespeare's histories must resist Procrustean interpretive scaffolds and acknowledge the formative power of mythology in shaping their historical vision.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Disclosure statement</head><p>No potential conflict of interest was reported by the authors.</p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head>2</head><label></label><figDesc>Ornstein, A Kingdom for a Stage, 16n30. 3 Bishop, "The Tainted Muse", 133. 4 Tillyard, Myth and the English Mind, 52.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_1"><head>7</head><label></label><figDesc>Stewart, "Falstaff the Centaur", 13. 8 Ibid.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_2"><head></head><label></label><figDesc>Hath proudly flow'd in vanity till now: Now doth it turn and ebb back to the sea, Where it shall mingle with the state of floods And flow henceforth in formal majesty. (2 Henry IV 5.2.129-133)</figDesc></figure>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="6" xml:id="foot_0"><p>  Hodgdon, The End Crowns All, 193.   </p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" xml:id="foot_1"><p>J. TIAN AND M. WANG</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="34" xml:id="foot_2"><p>Anderson, Imagined Communities, 12.   </p></note>
+		</body>
+		<back>
+
+			<div type="funding">
+<div><head>Funding</head><p>This work was supported by <rs type="funder">Western Literary Theory Course Construction of Beihang University</rs> [grant number <rs type="grantNumber">1100111</rs>].</p></div>
+			</div>
+			<listOrg type="funding">
+				<org type="funding" xml:id="_x2RPBTN">
+					<idno type="grant-number">1100111</idno>
+				</org>
+			</listOrg>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<monogr>
+		<title level="m" type="main">Imagined Communities: Reflection on the Origin and Spread of Nationalism</title>
+		<author>
+			<persName><forename type="first">Benedict</forename><surname>Anderson</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2006">2006</date>
+			<publisher>Verso</publisher>
+			<pubPlace>London and New York</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">Jonathan</forename><surname>Bate</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Shakespeare</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Ovid</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2001">2001</date>
+			<publisher>Oxford University Press</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<monogr>
+		<title level="m" type="main">How Classics Made Shakespeare</title>
+		<author>
+			<persName><forename type="first">Jonathan</forename><surname>Bate</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2019">2019</date>
+			<publisher>Princeton University Press</publisher>
+			<pubPlace>Princeton</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<monogr>
+		<title level="m" type="main">Three Critics of the Enlightenment</title>
+		<author>
+			<persName><forename type="first">Isaiah</forename><surname>Berlin</surname></persName>
+		</author>
+		<editor>Henry Hardy. Princeton and Oxford</editor>
+		<imprint>
+			<date type="published" when="2013">2013</date>
+			<publisher>Princeton University Press</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title level="a" type="main">The Tainted Muse: Prejudice and Presumption in Shakespeare and His Time</title>
+		<author>
+			<persName><forename type="first">Tom</forename><surname>Bishop</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Shakespeare Quarterly</title>
+		<imprint>
+			<biblScope unit="volume">63</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="133" to="135" />
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<monogr>
+		<title level="m" type="main">Possessed by Memory: The Inward Light of Criticism</title>
+		<author>
+			<persName><forename type="first">Harold</forename><surname>Bloom</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2019">2019</date>
+			<publisher>Alfred A. Knopf</publisher>
+			<pubPlace>New York</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<monogr>
+		<author>
+			<persName><forename type="first">Bruce</forename><surname>Boehrer</surname></persName>
+		</author>
+		<title level="m">Shakespeare Among the Animals: Nature and Society in the Drama of Early Modern England</title>
+		<meeting><address><addrLine>New York</addrLine></address></meeting>
+		<imprint>
+			<publisher>Palgrave</publisher>
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title level="a" type="main">Shakespeare and the Social Devaluation of the Horse</title>
+	</analytic>
+	<monogr>
+		<title level="m">The Culture of the Horse. Status, Discipline, and Identity in the Early Modern World</title>
+		<editor>
+			<persName><forename type="first">Karen</forename><surname>Raber</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">Treva</forename><forename type="middle">J</forename><surname>Tucker</surname></persName>
+		</editor>
+		<meeting><address><addrLine>New York</addrLine></address></meeting>
+		<imprint>
+			<publisher>Palgrave Macmillan</publisher>
+			<date type="published" when="2005">2005</date>
+			<biblScope unit="page" from="91" to="111" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title level="a" type="main">The Death of Chiron: Ovid, Fasti 5. 379-414</title>
+		<author>
+			<persName><forename type="first">Ian</forename><surname>Brookes</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">The Classical Quarterly</title>
+		<imprint>
+			<biblScope unit="volume">44</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="444" to="450" />
+			<date type="published" when="1994">1994</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title level="a" type="main">Many A Civil Monster&apos;: Shakespeare&apos;s Idea of the Centaur</title>
+		<author>
+			<persName><forename type="first">Eric</forename><forename type="middle">C</forename><surname>Brown</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Shakespeare Survey</title>
+		<editor>
+			<persName><forename type="first">Stanley</forename><surname>Wells</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Cambridge</addrLine></address></meeting>
+		<imprint>
+			<publisher>Cambridge University Press</publisher>
+			<date type="published" when="1998">1998</date>
+			<biblScope unit="page" from="175" to="192" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<monogr>
+		<title level="m" type="main">The Routledge Research Companion to Shakespeare and Classical Literature, Sean Keilen and Nick Moschovakis</title>
+		<author>
+			<persName><forename type="first">Sarah</forename><surname>Brown</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Annes</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2017">2017</date>
+			<publisher>Routledge</publisher>
+			<biblScope unit="page" from="156" to="170" />
+			<pubPlace>New York</pubPlace>
+		</imprint>
+	</monogr>
+	<note>Shakespeare and Myth</note>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title level="a" type="main">Worse Than Philomel, Worse Than Actaeon: Hyperreal Ovid in Shakespeare&apos;s Titus Andronicus</title>
+		<author>
+			<persName><forename type="first">Jim</forename><surname>Casey</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Ovid and Adaptation in Early Modern English Theatre</title>
+		<editor>
+			<persName><forename type="first">Lisa</forename><forename type="middle">S</forename><surname>Starks</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Edinburgh</addrLine></address></meeting>
+		<imprint>
+			<publisher>Edinburgh University Press</publisher>
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<monogr>
+		<title level="m" type="main">Thesaurus Linguae Romanae &amp; Britannicae 1565</title>
+		<author>
+			<persName><forename type="first">Thomas</forename><surname>Cooper</surname></persName>
+		</author>
+		<editor>R. C. Arlston. Menston</editor>
+		<imprint>
+			<date type="published" when="1969">1969</date>
+			<publisher>The Scolar Press</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<monogr>
+		<title level="m" type="main">The Philosopher&apos;s English King: Shakespeare&apos;s Henriad as a Political Philosophy</title>
+		<author>
+			<persName><forename type="first">Leon</forename><surname>Craig</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Harold</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2015">2015</date>
+			<publisher>University of Rochester Press</publisher>
+			<pubPlace>New York</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<monogr>
+		<title level="m" type="main">Shakespeare&apos;s Schoolroom Rhetoric, Discipline, Emotion</title>
+		<author>
+			<persName><forename type="first">Lynn</forename><surname>Enterline</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2012">2012</date>
+			<publisher>University of Pennsylvania Press</publisher>
+			<pubPlace>Philadelphia</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title level="a" type="main">Review of Mythistory: The Making of a Modern Historiography by Josephn Mali</title>
+		<author>
+			<persName><forename type="first">Michael</forename><surname>Ermarth</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">The Journal of Modern History</title>
+		<imprint>
+			<biblScope unit="volume">77</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="738" to="741" />
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<monogr>
+		<author>
+			<persName><forename type="first">Antonia</forename><surname>Gransden</surname></persName>
+		</author>
+		<title level="m">Historical Writing in England II: C. 1307 to the Early Sixteenth Century</title>
+		<meeting><address><addrLine>Ithaca, NY</addrLine></address></meeting>
+		<imprint>
+			<publisher>Cornell University Press</publisher>
+			<date type="published" when="1982">1982</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<monogr>
+		<title level="m" type="main">The End Crowns All: Closure and Contradiction in Shakespeare&apos;s History</title>
+		<author>
+			<persName><forename type="first">Barbara</forename><surname>Hodgdon</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1991">1991</date>
+			<publisher>Princeton University Press</publisher>
+			<pubPlace>Princeton</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<analytic>
+		<title level="a" type="main">The Writing of History in Shakespeare&apos;s England</title>
+		<author>
+			<persName><forename type="first">Ivo</forename><surname>Kamps</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">A Companion to Shakespeare&apos;s Works</title>
+		<editor>
+			<persName><forename type="first">Richard</forename><surname>Dutton</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">Jean</forename><forename type="middle">E</forename><surname>Howard</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Malden, MA</addrLine></address></meeting>
+		<imprint>
+			<publisher>Blackwell</publisher>
+			<date type="published" when="2003">2003</date>
+			<biblScope unit="volume">II</biblScope>
+			<biblScope unit="page" from="4" to="25" />
+		</imprint>
+	</monogr>
+	<note>The Histories</note>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<analytic>
+		<title level="a" type="main">Shakespeare and Ovid</title>
+		<author>
+			<persName><forename type="first">Sean</forename><surname>Keilen</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">A Handbook to the Reception of Ovid</title>
+		<editor>
+			<persName><forename type="first">John</forename><forename type="middle">F</forename><surname>Miller</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">Carole</forename><forename type="middle">E</forename><surname>Newlands</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Oxford</addrLine></address></meeting>
+		<imprint>
+			<publisher>Wiley Blackwell</publisher>
+			<date type="published" when="2014">2014</date>
+			<biblScope unit="page" from="232" to="245" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<monogr>
+		<title level="m" type="main">The Making of a Modern Historiography</title>
+		<author>
+			<persName><forename type="first">Joseph</forename><surname>Mali</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Mythistory</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2003">2003</date>
+			<publisher>The University of Chicago Press</publisher>
+			<pubPlace>Chicago and London</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<analytic>
+		<title level="a" type="main">Myths Exploited: The Metamorphoses of Ovid in Early Elizabethan England</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">W</forename><surname>Maslen</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Shakespeare&apos;s Ovid: The Metamorphoses in the Plays and Poems</title>
+		<editor>
+			<persName><forename type="first">A</forename><forename type="middle">B</forename><surname>Taylor</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Cambridge</addrLine></address></meeting>
+		<imprint>
+			<publisher>Cambridge University Press</publisher>
+			<date type="published" when="2000">2000</date>
+			<biblScope unit="page" from="15" to="30" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<monogr>
+		<title level="m" type="main">Playing with Time: Ovid and the Fasti</title>
+		<author>
+			<persName><forename type="first">Carole</forename><forename type="middle">E</forename><surname>Newlands</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1995">1995</date>
+			<publisher>Cornell University Press</publisher>
+			<pubPlace>Ithaca and London</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<monogr>
+		<author>
+			<persName><forename type="first">Robert</forename><surname>Ornstein</surname></persName>
+		</author>
+		<title level="m">A Kingdom for a Stage: The Achievement of Shakespeare&apos;s History Plays</title>
+		<meeting><address><addrLine>Cambridge and London</addrLine></address></meeting>
+		<imprint>
+			<publisher>Harvard University Press</publisher>
+			<date type="published" when="1972">1972</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">The</forename><surname>Ovid</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Metamorphoses</surname></persName>
+		</author>
+		<editor>G. P. Goold</editor>
+		<imprint>
+			<date type="published" when="1984">1984</date>
+			<publisher>Harvard University Press</publisher>
+			<biblScope unit="volume">2</biblScope>
+			<pubPlace>Cambridge</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<monogr>
+		<title level="m" type="main">Ovidi Nasonis Fastorum Libri Sex</title>
+		<author>
+			<persName><forename type="first">P</forename><surname>Ovid</surname></persName>
+		</author>
+		<editor>E. H. Alton et al. Leipzig: Teubner</editor>
+		<imprint>
+			<date type="published" when="1985">1985</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<monogr>
+		<title level="m" type="main">Shakespeare&apos;s History Plays: Rethinking Historicism</title>
+		<author>
+			<persName><forename type="first">Neema</forename><surname>Parvini</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2012">2012</date>
+			<publisher>Edinburgh University Press</publisher>
+			<pubPlace>Edinburgh</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b27">
+	<analytic>
+		<title level="a" type="main">Shakespeare&apos;s Mythological Feuilletage: A Methodological Induction</title>
+		<author>
+			<persName><forename type="first">Yves</forename><surname>Peyré</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Interweaving Myths in Shakespeare and His Contemporaries</title>
+		<meeting><address><addrLine>Manchester</addrLine></address></meeting>
+		<imprint>
+			<publisher>Manchester University Press</publisher>
+			<date type="published" when="2017">2017</date>
+			<biblScope unit="page" from="25" to="40" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b28">
+	<analytic>
+		<title level="a" type="main">Hybrid Creatures in Context: Centaurs, Hobby-Horses and Sexualised Women</title>
+		<author>
+			<persName><forename type="first">Natália</forename><surname>Pikli</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Actes des Congrès de la Société Française Shakespeare</title>
+		<imprint>
+			<biblScope unit="volume">38</biblScope>
+			<biblScope unit="page" from="1" to="18" />
+			<date type="published" when="2020">2020</date>
+			<pubPlace>Hamlet, King Lear</pubPlace>
+		</imprint>
+	</monogr>
+	<note>The Two Noble Kinsmen)</note>
+</biblStruct>
+
+<biblStruct xml:id="b29">
+	<monogr>
+		<title level="m">The Culture of the Horse. Status, Discipline, and Identity in the Early Modern World</title>
+		<editor>
+			<persName><forename type="first">Karen</forename><surname>Raber</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">Treva</forename><forename type="middle">J</forename><surname>Tucker</surname></persName>
+		</editor>
+		<meeting><address><addrLine>New York</addrLine></address></meeting>
+		<imprint>
+			<publisher>Palgrave Macmillan</publisher>
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b30">
+	<monogr>
+		<title level="m" type="main">Stages of History: Shakespeare&apos;s English Chronicles</title>
+		<author>
+			<persName><forename type="first">Phyllis</forename><surname>Rackin</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1990">1990</date>
+			<publisher>Cornell University Press</publisher>
+			<pubPlace>Ithaca, NY</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b31">
+	<analytic>
+		<title level="a" type="main">Classical Mythology in Shakespeare</title>
+		<author>
+			<persName><forename type="first">Robert</forename><surname>Root</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Kilburn</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">INC</title>
+		<imprint>
+			<date type="published" when="1965">1965</date>
+			<publisher>Gordian Press</publisher>
+			<pubPlace>New York</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b32">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">William</forename><surname>Shakespeare</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Hamlet</surname></persName>
+		</author>
+		<editor>Eugene M. Waith</editor>
+		<imprint>
+			<date type="published" when="2003">2003. 2008</date>
+			<publisher>Oxford University Press</publisher>
+			<pubPlace>New Haven; Shakespeare, William. Titus Andronicus; Oxford</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b33">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">King</forename><surname>Henry</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename></persName>
+		</author>
+		<editor>John Dover Wilson</editor>
+		<imprint>
+			<date type="published" when="2009">2009</date>
+			<publisher>Cambridge University Press</publisher>
+			<pubPlace>Cambridge</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b34">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">I</forename><forename type="middle">I</forename><surname>Richard</surname></persName>
+		</author>
+		<editor>John Dover Wilson</editor>
+		<imprint>
+			<date type="published" when="2009">2009</date>
+			<publisher>Cambridge University Press</publisher>
+			<pubPlace>Cambridge</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b35">
+	<monogr>
+		<title level="m">The First Part of the History of Henry IV</title>
+		<editor>
+			<persName><forename type="first">John</forename><surname>Dover</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">Wilson</forename></persName>
+		</editor>
+		<meeting><address><addrLine>Cambridge</addrLine></address></meeting>
+		<imprint>
+			<publisher>Cambridge University Press</publisher>
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b36">
+	<monogr>
+		<title level="m">The Second Part of the History of Henry IV</title>
+		<editor>
+			<persName><forename type="first">John</forename><surname>Dover</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">Wilson</forename></persName>
+		</editor>
+		<meeting><address><addrLine>Cambridge</addrLine></address></meeting>
+		<imprint>
+			<publisher>Cambridge University Press</publisher>
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b37">
+	<analytic>
+		<title level="a" type="main">Falstaff the Centaur</title>
+		<author>
+			<persName><forename type="first">Douglas</forename><forename type="middle">J</forename><surname>Stewart</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Shakespeare Quarterly</title>
+		<imprint>
+			<biblScope unit="volume">28</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="5" to="21" />
+			<date type="published" when="1977">1977</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b38">
+	<monogr>
+		<title level="m" type="main">Shakespeare&apos;s History Plays</title>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">M</forename><surname>Tillyard</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1948">1948</date>
+			<publisher>Chatto &amp; Windus</publisher>
+			<pubPlace>London</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b39">
+	<monogr>
+		<title level="m">Myth and the English Mind: From Piers Plowman to Edward Gibbon</title>
+		<meeting><address><addrLine>New York</addrLine></address></meeting>
+		<imprint>
+			<publisher>Collier Books</publisher>
+			<date type="published" when="1962">1962</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b40">
+	<monogr>
+		<title level="m" type="main">The New Science</title>
+		<author>
+			<persName><forename type="first">Giambattista</forename><surname>Vico</surname></persName>
+		</author>
+		<editor>Thomas Goddard Bergin, Bergin and Max Harold Fisch. Ithaca and New York</editor>
+		<imprint>
+			<date type="published" when="1948">1948</date>
+			<publisher>Cornell University Press</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b41">
+	<monogr>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">R</forename><surname>Woolf</surname></persName>
+		</author>
+		<title level="m">Reading History in Early Modern England</title>
+		<meeting><address><addrLine>Cambridge</addrLine></address></meeting>
+		<imprint>
+			<publisher>Cambridge University Press</publisher>
+			<date type="published" when="2000">2000</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b42">
+	<monogr>
+		<author>
+			<persName><forename type="first">Louis</forename><forename type="middle">B</forename><surname>Wright</surname></persName>
+		</author>
+		<title level="m">Middle Class Culture in Elizabethan England. Ithaca and</title>
+		<meeting><address><addrLine>New York</addrLine></address></meeting>
+		<imprint>
+			<publisher>Cornell University Press</publisher>
+			<date type="published" when="1963">1963</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

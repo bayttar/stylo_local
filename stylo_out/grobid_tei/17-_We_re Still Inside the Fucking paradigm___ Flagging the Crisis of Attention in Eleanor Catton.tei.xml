@@ -1,0 +1,489 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">&apos;We&apos;re Still Inside the Fucking paradigm!&apos;: Flagging the Crisis of Attention in Eleanor Catton&apos;s Birnam Wood</title>
+				<funder ref="#_h6Ah4sX">
+					<orgName type="full">European Regional Development Fund (FEDER, EU)</orgName>
+				</funder>
+				<funder ref="#_grBPjcz">
+					<orgName type="full">European Social Fund</orgName>
+					<orgName type="abbreviated">ESF</orgName>
+				</funder>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author role="corresp">
+							<persName><forename type="first">Bárbara</forename><surname>Arizti</surname></persName>
+							<email>barizti@unizar.es</email>
+							<affiliation key="aff0">
+								<orgName type="department">Department of English and German Philology</orgName>
+								<orgName type="institution">University of Zaragoza</orgName>
+								<address>
+									<settlement>Zaragoza</settlement>
+									<country key="ES">Spain</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff1">
+								<orgName type="department" key="dep1">Departamento de Filología Inglesa y Alemana</orgName>
+								<orgName type="department" key="dep2">Facultad de Filosofía y Letras</orgName>
+								<address>
+									<addrLine>Pedro Cerbuna 12</addrLine>
+									<postCode>50009</postCode>
+									<settlement>Zaragoza</settlement>
+									<country key="ES">Spain</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">&apos;We&apos;re Still Inside the Fucking paradigm!&apos;: Flagging the Crisis of Attention in Eleanor Catton&apos;s Birnam Wood</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date/>
+						</imprint>
+					</monogr>
+					<idno type="MD5">8CAE90E6982EF60FC3D4478FF82F2C60</idno>
+					<idno type="DOI">10.1080/00111619.2026.2619553</idno>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.0" ident="GROBID" when="2026-02-25T19:54+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>This article analyses Birnam Wood as a transmodern narrative of the limit under the lens of attention ethics. It argues that the contemporary permacrisis is rooted in a crisis of attention, manifesting in the novel in two primary forms: the excessive surveillance of US billionaire Robert Lemoine and a deficiency in deploying attention as care among the guerrilla gardeners of Birnam Wood. The novel pivots on the encounter between Lemoinea kleptocrat secretly mining rare-earth elements -and Mira, the head of the environmentalists, exposing the destructive logic of surveillance capitalism. Lemoine instrumentalizes attention as a tool of control, contrasting with an ethics of attention grounded in vulnerability and presence. Birnam Wood, however, resists a simplistic dichotomy: the activists, whose name is borrowed from Shakespeare's Macbeth, share their own measure of ambition, revealing that their ideology, unmoored from care, is insufficient to navigate crises. The novel's tragic denouement warns that the path out of the current succession of crises requires a paradigm shift. By unveiling the failure of the billionaire and the activists to genuinely care, Birnam Wood ultimately resonates with transmodernity's call for a relational ethics of attention as the only viable response to instrumentalization, systemic exploitation and environmental ruin.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Introduction</head><p>A.C. Bradley, in his classic 1904 study of Shakespearean tragedy, presents Macbeth as the epitome of ruthless ambition. Driven by his desire for the Scottish crown and spurred on by Lady Macbeth's even greater determination, he murders King Duncan, precipitating the couple's downfall. The role of Birnam Wood in sealing Macbeth's fate is famously foretold by the Weird Sisters' prophecy: only when the forest moves to Dunsinane Hill will he be vanquished. This key plot device is reimagined in contemporary New Zealand by Eleanor Catton's 2023 novel, which takes its title from the forest in Macbeth. Set in 2017, Catton's "unapologetically political novel," as Sarah Gilmartin describes it <ref type="bibr">(Gilmartin)</ref>, explores themes of misjudgment, moral compromise and the corrupting power of money. The novel stages the encounter between Mira Bunter, founder of the guerrilla gardening collective Birnam Wood, and Robert Lemoine, a US billionaire and former CEO of the drone company Autonomo. Their meeting dramatizes the uneasy alliance between grassroots environmental activism and transnational capital, exposing how ecological concerns are co-opted by financial power. Lemoine's deceitful offer to fund Mira's group functions as a narrative catalyst that foregrounds the entanglement of idealism, opportunism and systemic corruption, culminating in catastrophe. The climax unfolds on a remote farm in Thorndike, where Lemoine -a kleptocrat involved in smuggling rare-earth elements -poses as an eccentric survivalist in the process of burying a luxury bunker. In a clear nod to Shakespeare, it is Birnam Wood's move onto the property to pursue their activities that brings about the billionaire's demise, leaving a trail of destruction and death.</p><p>Birnam Wood works as a literary response to the ethical failures underlying our current global crises. Julian Novitz has aptly described the novel as "a horror story for our time," a phrase that encapsulates its penetrating critique of New Zealand's "complacency about corruption and environmental matters" <ref type="bibr">(Novitz)</ref>. This critique, Catton has stated, is intended as a challenge to the country's "tendency to coast on an increasingly dubious clean and green reputation" <ref type="bibr">(Novitz)</ref>. The term "permacrisis," which Collins Dictionary declared its word of the year a year before Catton's novel appeared <ref type="bibr">(Bushby)</ref>, precisely captures the condition of the 21 st century: a protracted period of profound tension and instability. This diagnosis is echoed by the German-South Korean philosopher Byung-Chul Han, who observes that "we muddle through from crisis to crisis, from one catastrophe to another, from one problem to the next" (Hope 2). Catton's reworking of the Birnam Wood motif becomes a vehicle for articulating the cultural imagination of crisis, linking Shakespearean tragedy to contemporary ecological and geopolitical anxieties. The quick tempo of the work -praised by Ryan Asmussen as "a finely crafted suspense novel" (Asmussen) -mirrors the concatenation of crises that define the twenty-first century: a permacrisis of climate emergency, rampant inequality, algorithmic control, and the corrupting power of techno-capitalism, among others. This turbulent landscape not only frames the plot but also conditions the behavior of the main characters.</p><p>As Jean-Michel Ganteau argues, literature plays a vital role in depicting crisis because "fiction shows, creates and performs frames that allow for the perception, hence the experience of crises, and it does so by privileging singular, incarnated stories, as opposed to abstract discourse" (21). Ganteau further defends that literature "has the power to make us care" (21; original emphasis) and, in line with this article's central thesis, he connects caring with the practice of paying attention. This article examines how Birnam Wood represents contemporary global crises through the dual lens of attention ethics and transmodern theory, highlighting that a failure of attention ultimately underlies every crisis and that a new paradigm is required to find a way forward.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>The Ethics of Attention at Transmodern Times</head><p>Originally hailing from psychology <ref type="bibr">(James 404)</ref>, the study of attention has emerged as a topic of significant interdisciplinary interest among contemporary scholars. For example, Maggie Jackson and Yves Citton have approached attention as a critical remedy for the distractions of the digital age. Jackson considers the current "inattention crisis" as a threat to both individual and collective wellbeing. She argues that a fragmented mind diminishes our ability to "see, hear, and comprehend what's relevant" while also making us less inclined to subordinate ourselves "to a greater good" <ref type="bibr">(22,</ref><ref type="bibr">31)</ref>. For Jackson, a focused form of attention is essential for cultivating "honesty, unhurried presence, and care" in a world marked by growing mistrust (30). Similarly, Citton's concept of an "ecology of attention" foregrounds its twofold purpose: it helps us filter phenomena that interest us while also aligning "our sensibilities and our preferences with those of others" (34). For Citton, this double function enables the construction of "communities of sensibility and action" (34), collectives bound not exclusively by ideology or identity, but by a shared mode of perceiving, feeling, and responding to the world.</p><p>The intimate connection between attention and care has been a central point of discussion among several scholars. Alice Bennett explores this link through the work of Bernard Stiegler and Teresa Brennan, who "have made an overt connection between the act of caring for and the act of attending to" (113). Likewise, Sandra Laugier and Silvia Caprioglio Panizza argue that attention, even in its most basic form of sensory perception, is the basis for ethical responsibility toward others. Laugier concisely puts it: "Attention is part of the meaning of care" (230), suggesting that our actions are guided by what we deem important (222). Her perspective moves beyond abstract, universal principles to prioritize the concrete and the familiar <ref type="bibr">(223,</ref><ref type="bibr">236)</ref>. Caprioglio Panizza further emphasizes this by stating that "attention is concrete . . . and engaged," focusing not on broad categories like "people" or "nature," but on "this person, this animal, this blade of grass" (2). Thus, ethical attention should not neglect the concrete and the familiar in favor of ideologies and abstract principles, no matter how worthy or elevated they may be.</p><p>Laugier and Caprioglio Panizza's ethical framework is particularly relevant to the analysis of fiction in a time of crisis. In Contemporary Fictions of Attention, Alice Bennett studies a growing body of international literature that explores the practice of attention as a response to the challenges digital media pose to traditional forms of reading. While Bennett's approach is remarkably comprehensive, this article will primarily draw on her analysis of fictions that present attention as a form of ethics. These works, Bennett suggests, encourage responsibility in a globalized world by reframing attention as an act of "caring-for or waiting-on" (15). She posits that "the attention that one gives to the other . . . becomes an act of ethical decision-making" (16), a perspective that underpins the core argument of my reading of Birnam Wood in the light of attention ethics. This analysis of Catton's novel suggests that the underlying cause of the current global crises is a distortion of attention that takes two main forms in the work: an excess of surveillance and a failure to deploy attention as care.</p><p>The turn to an ethics of attention is a key element of the emerging transmodern paradigm, which seeks to correct the excesses of modernity as well as the failings of postmodernity. As thinkers such as Marc Luyckx Ghisi, Enrique Dussel and Rosa M. Rodríguez Magda argue, transmodernity reengages with modernity's ethical drive, not to restore universal principles, but to find bedrock values for a world defined by interconnected crises. Luyckx summarizes the transmodern priorities as "respect for Mother Nature, care for communities, for family relations, for internal growth, for other cultures, [together with a] desire for another economic logic" (40). This is where the concept of the narrative of the limit becomes crucial. In "The Crossroads of Transmodernity," Rodríguez Magda distinguishes between two types of narratives. Narratives of celebration are stories that reiterate "the dominant discourse until making it hegemonic" (21), often reflecting "our techno-euphoric society" (26). They celebrate progress and existing systems without critical interrogation. In contrast, narratives of the limit function as an ethical compass for the new era. They are stories of fracture that confront the "subtle mechanisms of exclusion" and the perverse processes of totalization that narratives of celebration ignore (26), forcing a confrontation with uncomfortable realities. Narratives of the limit are tales of resistance that seek to uncover the destructive tendencies within the emerging zeitgeist in order to protect "that fragile life that we are as a planet and as individuals" (28). This article reads Birnam Wood as a quintessential narrative of the limit. The novel's focus on the permacrisis alongside the ethical failures of both the corrupt billionaire and the flawed activists directly challenges the ideals of celebration -namely, the techno-optimism of Lemoine and the ideological purity of the Birnam Wood group. By exposing the destructive consequences of reducing attention to a tool for control and dissociating ideology from care, Catton's novel forces readers to confront the horror and desolation that underlie our global systems, thereby demanding a new, ethically engaged paradigm.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Surveillance and the Breakdown of Ethical Attention</head><p>Birnam Wood is a powerful illustration of what Bennett calls "machine inattention": a form of "watchful but unnoticing gaze" that actively works against the "human care of noticing" (76). By analyzing the novel's pervasive instances of surveillance and monitoring through the lens of attention ethics, I argue that Catton's work sheds light on some of the most pressing contemporary crises, particularly those concerning privacy, accountability, and the erosion of human connection in the digital age. The novel's focus on surveillance and information technologies exposes a profound distortion of attention, revealing how these crises are not just material or political, but also deeply epistemic and affective, rooted in how characters perceive and respond -or fail to respond -to their reality. In particular, Lemoine's drones function as a striking enactment of Bennett's concept, embodying "both the regardless looking of an unnoticing machine and the heightened, threatening and unwelcome attention of stalking and monitoring" (78).</p><p>In this respect, Birnam Wood serves as a literary witness to the transition from the disciplinary societies famously analyzed by Michel Foucault to the societies of control that, as Gilles Deleuze argues, have come to replace them. The "old disciplines operating in the time frame of a closed system" have given way to "ultrarapid forms of free-floating control" (4), which rely on passwords and sophisticated digital technologies. For Deleuze, this technological evolution represents a mutation of capitalism where "corruption gains new power" (6), transforming not only "the system under which we live but also . . . our manner of living and . . . our relations with others" (5). Catton's narrative thus dramatizes how the shift from environments of enclosure to pervasive digital control shapes the world her characters inhabit. The crux of the plot unfolds in the open spaces of Thorndike, a site swarming with the drones Lemoine employs to protect his illegal mining and to monitor Mira and other members of the environmental organization. Besides, he regularly hacks their computers and mobile phones, establishing a regime of digital control.</p><p>However, despite the absence of the enclosed spaces that defined Foucault's model, his theories remain vital for interpreting surveillance in Birnam Wood. As Thomas Allmer notes in his study of Foucault's Panopticon -the architectural figure of modern disciplinary power par excellencecontemporary surveillance is understood in two opposing ways. Non-panoptic definitions, which move beyond Foucault, advocate for a neutral perspective, viewing surveillance as "a plural and technical process" (569). In contrast, panoptic approaches define surveillance negatively, connecting it to "coercion, repression, discipline, power, and domination" (569). It is this latter approach that Catton's novel clearly favors. Notwithstanding references to seemingly benign forms of surveillance, such as the protection of endangered species (8), drones are overwhelmingly associated with the malevolent monitoring of characters. Besides, in reality, even the surveillance of the natural world turns out to be a form of greenwashing for the shady business transactions of Lemoine and Owen Darvish, the owner of the estate where the action takes place, who has just been knighted for his services to the environment (326). This pervasive control, together with the lack of ethics, is further underscored by the allusions Tony Gallo, a founding member of Birnam Wood, makes to the Stasithe secret police and intelligence service of the German Democratic Republic -and to Orwell's totalitarian dystopia. "I forgot I was living in Stasi fucking East Germany in fucking 1984," he retorts to his mother and sister when they interrogate him about his activities in the environmental organization (145).</p><p>Via the figure of Lemoine and the reduction of attention to control, Catton exposes the unbridled power of billionaire elites in perpetuating systems of exploitation that neglect both people and the planet. Throughout the story, Lemoine's illegal surveillance practices reduce attention to a mechanism of control and data extraction. This instrumentalization of attention stands in direct opposition to an ethics of attention grounded in presence, vulnerability and care. Lemoine's behavior reflects the logic of contemporary surveillance capitalism, which treats attention as a quantifiable commodity to be exploited for profit. The practices of Lemoine are best understood through Citton's distinction between an "economy of attention" and an "ecology of attention." He defines the former as a model focused on the allocation of and competition for attention within a market-driven context, where attention is treated as a scarce resource subject to market dynamics. Alternatively, Citton's "ecology of attention" posits that our capacity to focus is influenced by a range of diverse environments. This concept promotes the cultivation of a more mindful and enduring attentiveness. For Citton, the ecological model of attention constitutes a collective invitation "to build together the shared conditions of a life that is more tenable and more desirable, which is more attentive to the quality of what surrounds it than to the quantity of its finances" (x). This vision directly contrasts with the transactional nature of the attention economy by valuing qualitative engagement over financial accumulation. In the service of his spurious ends, Lemoine embodies the destructive logic of the attention economy by reducing attention to a mere economic transaction. The novel thus serves as a powerful call for an ecological approach to attention, one that prioritizes care and ethical engagement over financial gain.</p><p>That Birnam Wood presents a degraded form attention becomes clear when we consider its most fundamental level: the characters' registering of information through their senses. For instance, the soundscape of the novel is dominated by the ubiquitous drone, which replaces the sounds of nature and serves as a constant reminder of Lemoine's pervasive control: "Tony heard the drone before he saw it . . . It was the same sound he'd heard on his first night out in the wilderness, that he'd taken for a waterfall, and it seemed to be growing louder, . . . more like a buzz, . . . a kind of clatter curving up into a whine" (234-235). Furthermore, the threatening, disengaged "birds-eye-view" of technology precludes the possibility of ethical engagement through face-to-face encounters and supplants the sense of human touch. While the novel offers opportunities for tête-à-tête conversation and intimate interaction, often, they reflect an instrumental view of people that excludes caring attention and instead highlights the greedy gaze. This is exemplified in Lemoine's sexual encounters with Mira and her friend Shelley, which are depicted as part of his manipulative strategy to control the Birnam Wood project.</p><p>Despite the charm, the billionaire exerts on Mira and other young people, the novel's extradiegetic, heterodiegetic narrator presents him to the reader, from the very beginning, as an unambiguously evil character. As Gilmartin writes, Catton "deploys the authorial voice with aplomb, allowing the reader to see more than the characters' limited viewpoints, to appreciate their weaknesses, to anticipate how such traits might be exploited." It is also through this external narrator that we learn of Lemoine's emotionally deprived upbringing, which likely explains his total lack of empathy and his failure to attend in a caring, ethical manner. The narrator's role is, thus, twofold: it provides the reader with insights unavailable to characters, encouraging a critique of Lemoine's actions, and simultaneously grounds his lack of an ethical perspective in his neglect during his childhood. This second point is particularly important, for it emphasizes the formative role of attentive caring. The narrator makes it clear: "For there was a key. There was a secret to his nature, a clue that explained everything about him, a single eight-week period in his very early adolescence that had forged, in every way, the man that he'd become" (224). The son of two absent parents who turn out to be spies, Lemoine is raised by his grandmother, who experiences paranoid delusions (225). At twelve, his mother returns home but dies shortly after, and when his father turns up at her funeral, Lemoine shows "no emotion at all" (227). The narrator explicitly connects this emotional void to his adult persona: "His wealth was his revenge," the text explains. "His mystique, his opacity, his protean curiosity and impenetrable charm" were "cultivated acts of vengeance against everyone who had deceived him" (227). Ultimately, the novel suggests that Lemoine's lack of empathy and ethics is not innate but learned. It is presented as a direct consequence of a childhood defined by neglect and an absence of attentive caring that manifest in his adult embrace of surveillance as a tool for control, thereby making him a product of a global attention crisis.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Failed Ideals: Ethical Blindness and Environmentalism without Grounding</head><p>Birnam Wood resists a simplistic opposition between the ruthless, manipulative billionaire and the idealistic young people committed to saving the environment. Catton's novel instead reveals a more complex and disturbing reality: the radical, highly ideological, overthinking members of the Birnam Wood collective share a measure of Macbethian ambition and self-interest with Lemoine. As Nirica Srinivasan asserts, "despite occupying different political positions, the characters of Birnam Wood have more in common than they think." Lemoine's undisguised avarice and obsession with total control are mirrored by a similar self-serving ambition among the environmentalists, which manifests as self-mythologizing, moral righteousness, ideological purity, rivalry, pride, and various forms of betrayal <ref type="bibr">(92,</ref><ref type="bibr">142,</ref><ref type="bibr">367)</ref>. This shared ambition is powerfully illustrated through the novel's recurring motif of sight, which ultimately reveals an underlying ethical blindness.</p><p>The novel's critique begins with a striking visual parallel. Early in the narrative, Mira, sensing she is being watched, looks up and makes eye contact with Lemoine's drone: "it seemed to occur to her that maybe she was being watched. She craned back her head and looked straight upwards, right into the lens, and for a thrilling moment Lemoine felt that they were seeing eye to eye" (86). The figurative meaning of the idiomatic expression "seeing eye to eye," which suggests mutual agreement or understanding, highlights a profound irony. In this context, it equates the characters in their ambition and lack of genuine concern. The novel extends this irony by having Tony Gallo use the exact same idiom in his utopian speech at a Birnam Wood assembly: "between two people, equality is a totally radical idea. I mean, how amazing, that two different people, with different values, and different experiences, and abilities, and needs, that they could see eye to eye, and live in such a way that brings out the best in both of them, right, and allows both of them to flourish" (103). The juxtaposition of his idealistic words with the self-absorbed, egocentric and downright destructive relationships described in the novel uncovers the failure of the Birnam Wood collective to live up to its own principles. Ultimately, the novel suggests that the phrase is never truly fulfilled. Lemoine's relationship with Mira, far from the idealistic, equitable connection Tony describes, becomes the final, tragic fulfillment of the motif. Their interactions are driven not by respect or understanding, but by manipulation, deception, and a lack of ethics. This final irony underscores the fact that in a world of fractured attention, "seeing eye to eye" becomes less about shared values and more about a mutual recognition of self-interest.</p><p>Catton further develops this critique by having Lemoine explicitly link sight, attention, and blindness: "there were none so blind as those who had already decided what it was they saw. Mira had plainly understood this -at least, as far as her own deceptions were concerned; whether she would fall for his was another question" (87; original emphasis). Both characters are masters at directing their own and others' attention for personal gain, yet they remain ethically blind to -or, in Lemoine's case, completely unconcerned about (81) -the wider implications of their actions. In effect, the novel suggests that today's global crises are not just the result of malicious intent, but of a widespread failure of attention -an ethical blindness where individuals only "see" what serves their predetermined agenda. Lemoine's deliberate corruption of attention for personal gain shows one side of this issue; the Birnam Wood collective's own shortcomings reveal that this self-imposed blindness is a widespread condition, not limited to malevolent design. Their ego-driven decision-making, alongside the instrumental alliance with Lemoine promoted by Mira, actually closes the gap between the unscrupulous billionaire and the members of the environmental organization.</p><p>While Lemoine's illegal surveillance practices distort ethical attention through excess, the guerilla gardeners' failure to attend to one another in a caring way signals a profound lack of attention. Mira's fleeting moment of clarity regarding her relationship with Shelley exemplifies this. Fearing Shelly is leaving the collective, Mira reflects: "She wished more than anything that she could reverse her course, convey more gratitude and sympathy, show more interest in Shelley's inner life; . . . in her monumental stupidity and self-absorption, she had only just figured that out" (51-52). This moment of selfawareness is not sustained, since it is not until the novel's final pages, shortly before she is murdered at Lemoine's request, that she unequivocally grasps the importance of caring.</p><p>Moreover, Mira is not the only member of the collective to fall short in terms of caring attention. Birnam Wood's Facebook prolife states: "We are a grassroots community initiative . . . We plant sustainable organic gardens in neglected spaces, and we are committed to the principles of solidarity and mutual aid" (284). Despite these good intentions, the self-centredness of its members prevents them from forming an authentic community. Although they claim to work for the greater good, ethical responsibility exists primarily as an abstract ideal -a matter of speech, not practice anchored in sincere attention. They may constitute a community of action, but their unfocused, self-directed attention hinders the development of what Citton terms a "community of sensibility" (34). In contrast to Citton's recommendations, their sensibilities are not truly attuned to those of others and their attention is definitely not coupled with care. Proof of this is their general disinterest in the concrete or familiar -a dynamic that only begins to shift in the novel's final pages. Setting the spotlight on reality itself, rather than merely on convictions and vague generalities, is germane to the ethics of attention, Laugier and Caprioglio Panizza argue. Likewise, Bennett's contemporary fictions of attention pay "close attention to the fine detail of the ordinary" (22). Instead, with a few exceptions, the environmentalists' concern remains fixated with abstract principles and broad categories, ultimately undermining the very "solidarity and mutual aid" they claim to espouse.</p><p>When analyzed in light of evolving socio-cultural paradigms, the members of Birnam Wood appear to be more the ideological inheritors of modernity's grand narratives than of a transmodern sensibility. Transmodernity aims to transcend the former's stress on individualism and autonomy and alternatively promotes a radically relational ethics of care and attention. The collective is also the product of postmodern thought on three main accounts: first, their environmentalism and avowed feminism -two of the new social movements born under the aegis of postmodernism; second and more significantly, their focus on deconstructing power structures and critiquing established institutions. The members of the collective are highly skilled at this kind of critique, intent on uncovering the hidden agendas of the establishment and, more often than not, each other. However, their critical perspective often lacks a constructive ethical foundation. In the third place, as Tony denounces, they are trapped in an excessive identitarianism that locks them into their differences (106) and encourages competition rather than cooperation, a dynamic that extends beyond their organization to other progressive groups:</p><p>Any conversation on the left these days, it's always so competitive, it's always each person trying to outperform the person before them in terms of their oppressions or their lack of privilege or their personal trauma . . . You can dress it up in the language of sensitivity and social justice and blah blah blah, but the point of intersectionality isn't to learn how to transcend our differences, . . . the point isn't solidarity, it's about shoring up your brand, cornering the market, everyone out for themselves. (105-106; original emphasis)</p><p>Consequently, and in contrast to the contemporary fictions of attention described by Bennett, attention for them is not a form of ethics that promotes responsibility in a globalized world based on the ontological vulnerability of people and nature. This concept of existential vulnerability is central to Judith Butler's argument in Precarious Life, where she suggests that all life is exposed to harm and dependent on others. For Butler, vulnerability and violability are "ineradicable dimensions of human dependency and sociality" (xiv). Rather than aligning with a transmodern stance where ethical attention governs behavior and decision-making and fosters genuine community, the guerrilla gardeners' environmentalism remains a failed ideal, built upon self-centered ambition at the expense of genuine care.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Birnam Wood as a Transmodern Narrative of the Limit</head><p>Birnam Wood invites a reflection on the inherent paradox of crises: their "potential for transformative change" while "simultaneously harbouring elements of destruction" <ref type="bibr">(Kuznetski et al. 2)</ref>. This paradoxical nature is cynically evoked by Lemoine, who regards himself as "the kind of man who saw every crisis as an opportunity" (79). Far from endorsing his self-interested reading of crises, the novel functions as a contemporary form of cautionary tale, a transmodern narrative of the limit that confronts readers with the disastrous consequences of Lemoine's lack of scruples and his corrupt techno-optimism. The billionaire's panegyric on drones -a narrative of celebration in Rodríguez Magda's sense -violently clashes with his unprincipled use of surveillance technology: "It would not be an exaggeration . . . to say that this technology has the power to impact every sector of every economy of every country on the planet," he asserts before highlighting its applications "in agriculture, in law enforcement, in wildlife protection, in traffic management, in supply chain security, in border security, in peacekeeping and humanitarian aid, even just in personal peace of mind" (360). The novel, however, does not focus on this beneficial side of technology but on its pernicious effects when dissociated from ethical concern and paired with ambition. Lemoine appears as the manifest embodiment of a failing economic and ecological model that has no qualms about cashing in on people and the earth. This systemic failure of ethics is what Tony lashes out against, calling the neoliberal system Lemoine represents a "fucking paradigm" even the members of Birnam Wood struggle to escape (99, 106). "And how we've all become so fucking individualistic and consumeristic that we can't even conceive of anything any more except in market terms" (100), he laments. Catton's novel tests the ecological, technological and ethical limits of the neoliberal paradigm that lead to the story's tragic denouement. If crises have the ability to promote either destruction or positive transformation, what the narrative seems to emphasize is that it is the failure -or triumph -of caring attention that determines which outcome prevails. Contemporary society's excessive dependence on technology spurs on Lemoine's ambition and his illegal mining operations for rare-earth elements in the Korowai national park: "so long as there was a phone in everybody's pocket, so long as there was a screen in front of everybody's face, so long as there were batteries and satellites and cameras and GPS, so long as there was avarice, so long as there was loneliness and envy and ambition and boredom and addiction, he, Lemoine, would be untouchable" (399). His cynical self-reflection not only lays bare his lack of ethics and his mistaken belief that he is above good and evil but also exposes the complicity of consumers, underlined by the cumulative effect of his litany of "so longs." In Catton's transmodern narrative of the limit, Lemoine's ruminations force readers to recognize themselves as implicated subjects, in Michael Rothberg's sense of the phrase -participants, however unwilling, in the very structure that Lemoine exploits.</p><p>Moreover, the self-absorbing, addictive attention technology calls for detracts from other-oriented, empathic forms of attention encouraged in contexts of physical, unmediated communication. The novel demonstrates how this technological dependence is exacerbated by the neoliberal regime, which, as Han argues, "isolates people by making them entrepreneurs of themselves" (Han, Hope 9; original emphasis). The preference for isolation over community is powerfully evoked by the name of Lemoine's drone company, Autonomo, and confirmed by his single-handed way of dealing with problems: "It had all become too messy, too multiple. Lemoine didn't like messy. He didn't like multiple. He liked single, he liked swift, and he liked clean" (393). Against the billionaire's backdrop of self-reliance, Han espouses the importance of building "meaningful relations that determine what is good, what is beautiful, what makes sense, what is valuable or desirable" <ref type="bibr">(Han,</ref><ref type="bibr">Rituales 38)</ref>. He also warns that in today's technological societies there is an excess of digital communication that prevents rather than fosters a sense of community (Rituales 18). In Birnam Wood, Tony's speech explicitly acknowledges this: "relationships, the bonds, the connections -they are just as basic to any system" (102). In relationships, he continues, "we do all sorts of things that radically challenge the neoliberal status quo: we make sacrifices, we put the other person first, we learn to compromise, we care, we help, we listen" (102). This suggests that, at the end of the day, it is the transmodern paradigm of relationality -where attention reads as care -that can offer a way out of crises, standing in direct opposition to the alienating, instrumentalizing, navel-gazing paradigm of neoliberalism.</p><p>As a transmodern narrative of the limit, Birnam Wood further exposes the distorted forms of attention that burden contemporary society by staging the dangers of replacing genuine, caring attention with the heightened but utterly alienating focus generated by drug consumption. Lemoine's decision to provide the environmentalists with acid under the guise of creating team bonding is a dark parody of true community that smacks of neoliberalism: "We use it all the time with start-ups, a way of building trust among a group" (253). This harmful form of attention ends in tragedy, when Shelley, under the effect of acid, runs Owen over to death. The fatal consequence brutally manifests the physical exposure that, as Butler argues, is inherent to being a body and vulnerable to the actions and violence of others. The novel subtly contrasts this distorted perception caused by drugs with truly nourishing modes of attending to relatives, friends and even perfect strangers. This significant turn toward relationality and empathic attention in the final pages is revealed through concrete, sensory moments, using the basic senses of hearing and sight as essential gateways.</p><p>The narrative first exemplifies these sensory gateways in the figure of Jill and the sense of hearing. Owen Darwish's funeral helps turn the spotlight on the importance of meaningful relations, as well as the role ritual plays in building and maintaining them. For Han, rituals are instrumental in helping individuals cope with the contingencies of life, since they actively reinforce the communal bond. Rituals, he argues, translate "being in the world" into "being at home" (Rituales 12; my translation). The photographs of Darwish and his family projected on a screen behind the coffin act as a reminder of the paramount significance of essential interpersonal relationships <ref type="bibr">(412)</ref><ref type="bibr">(413)</ref>. The loving attention Jill, his widow, receives from her children and friends further strengthens the idea. More remarkably, the events in the aftermath of the service extend the need for attention from one's beloved to a complete stranger. Immediately after the funeral, Jill presents herself at the Thorndike estate, mistrustful of Lemoine's version of her husband's death. Upon hearing a girl's "terror-stricken cry for help" (419), she takes out a rifle and runs to her aid. The narrative highlights the dramatic shift in her attention: "All her grief had left her. All the confusion and second-guessing doubt that brought her to the farm was gone. Someone was in trouble. Someone needed to be saved" (420). This move away from intimate, private grief to selfless, other-oriented attention is described as a primal, instinctual reaction: "She felt as she had in the last stage of childbirth, animal and yet primordial, emptied-out and yet invincible, unstoppable, incredible, alive" (420). It is Jill's sense of hearing that activates the call to attend, signaling that attention as care is always rooted in primary perception. She arrives at the site of the onslaught caused by Lemoine, whose illegal operation is on the verge of being disclosed. There, she shoots the billionaire dead and successfully frees Tony. However, she turns up too late to save Mira, leaving Tony as the only survivor among the environmentalists. Moreover, Jill's act of attention costs her life when she is killed by Lemoine's bodyguard.</p><p>Mira's character, too, undergoes a marked transformation after Darvish's death, providing key examples of the sight gateway. This shift is subtly foreshadowed through moments of meaningful visual attention and physical proximity, which show great potential. For instance, when Lemoine charges her with looking after Shelley in a secluded hideout while he attempts to cover up the accident, it turns out to be an opportunity to heal a friendship contaminated by ambition, rivalry and neglect: "Shelley looked up from her laptop and smiled, and Mira smiled back, and for a moment their friendship felt the way it used to, easy, affectionate, no doubt or blame, no hidden hurt, no overthinking" (362). The time in the hideout illuminates the relevance of ordinary, embodied tasks, such as preparing meals (311, 312), which help Mira tune into sensation. This attunement is further sharpened by the concentration involved in completing a jigsaw puzzle together, an activity associated with the pleasure of touch. After finishing it, "Mira ran her hand over the completed puzzle one last time, pressing down to feel it flex and shift beneath her finger pads and the bones of her palm" (312). These mundane yet restorative activities begin to displace the abstract, ideological tone that typically characterizes their conversations.</p><p>The initial clarity, forced upon her by the tragic circumstances, confronts Mira with her own complicity and triggers a process of remorse that demands reparation (375). The turning point -her move toward atonement -is prepared by a powerful scene in the vegetable garden, just before her chance, face-to-face encounter with Tony in the surroundings of Owen's state. Their encounter is preceded by a scene in which she looks after the vegetables, rendered special by a sudden quietness and by the appeal of the smell of rain: "She had reached the end of her second row of pumpkins when she felt the air go still and smelled a sudden minerally-earthy-dusty scent that seemed to clarify the leaves and shoots of all the living things around her" (375). The scene anchors Mira in her physical self and heightens her awareness of the environment.</p><p>This heightened attention to the life around her informs her decision to act. Tony, who is being hunted by Lemoine's mercenaries and is wounded and out of food, is perceived by Mira as looking "desperately unwell" (377). The visual evidence of suffering and vulnerability brings about "a rush of benevolence towards him" (381) and prompts her to answer his urgent plea for help. After Lemoine tracks them down, the narrative provides images of Mira's care for Tony through concrete actions described in great detail: "she took down a bottle of water from the dresser and broke open the seal around the cap. She sat down on the bed beside him and tipped a little into his mouth" (408). Lemoine's contempt toward Tony, whom he dismisses as "nothing" and "a punk" (411), angers Mira, granting her the strength "to spite him with the truth." It is Tony -her onetime lover -that makes her "feel like things were possible," like she "was possible," like "there was time" (411).</p><p>Birnam Wood ends with an ambivalent appeal for attention and intervention that, on the one hand, seeks to disclose the secret ecological devastation caused by Lemoine and, on the other, provokes further destruction of the natural environment. Among the cast of main characters, Tony is the only one to remain alive on the very last page. Significantly, he was the sole member of Birnam Wood to oppose the dealings with Lemoine and is engaged in investigative journalism aimed at exposing the corruption of the super-rich. Severely wounded and fearing that he will be framed for the massacre, as Lemoine had planned, his final act is a paradoxical, albeit thematically very rich, pledge to visibility. The concluding paragraph features him setting fire to the nets covering the leaching pits -consequence of the illegal mining -so that "somebody would see it, so that somebody would notice, so that somebody would care" (423; emphasis mine). The narrative finishes with Tony praying "that somebody would come to put it out" (423) after the ancient trees around him catch fire. The thematic resonance of his words is clear, since his desperate plea connects seeing, noticing and caring, thus giving the overarching thesis of the analysis a final emphasis. His arson, simultaneously a gesture of self-preservation and selfimmolation, mobilizes the destructive nature of fire as a necessary step to finally transcend the prevailing systemic blindness, perfectly aligning with the novel's status as a transmodern narrative of the limit.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Conclusion: Toward an Ethics of Attention in Times of Crisis</head><p>Catton's eco-thriller, inspired by Shakespeare's Macbeth, flags the core ethical failure of the contemporary permacrisis: a distortion of attention that manifests as both illegal surveillance and a deficiency in deploying attention as care. The striking conceptual contrast between the ruthless billionaire bent on benefitting from the destruction of the environment and the group of guerrilla gardeners pledged to saving it, is dismantled when the novel is approached from the dual theoretical frames of the ethics of attention and transmodernity. Lemoine's actions explicitly expose the destructive logic of surveillance capitalism and what Citton calls the economy of attention. His reduction of attention to a tool of control -a form of instrumentalisation -is implicitly traced back to neglect in his childhood, underlining the crucial, formative role of attentive child-rearing. Similarly, by unveiling the deep clash between ideals and practices within the environmental organization, the novel demonstrates that ideology, when decoupled from care, is no longer adequate to navigate a world marred by crises. The failure to embody care ends up undermining their own principles of solidarity and mutual aid. The irony of their "seeing eye to eye" graphically highlights the narrow line separating the callous billionaire and the selfproclaimed environmentalists.</p><p>Birnam Wood therefore resonates with transmodernity's call to move toward a relational ethics of care and attention. It does so by critically examining the threats posed by the emerging zeitgeist: namely, the ethical blindness behind both Lemoine's celebration and self-interested use of technology and the activists' equivalent failure to see beyond their own personal agendas. It also lays bare the reader's complicity in Tony's "fucking paradigm," arguing that the universal dependence on technology creates the necessary conditions for Lemoine's shady and environmentally damaging enterprise. As a transmodern narrative of the limit, Catton's novel calls forth an urgent transition toward an ethically engaged paradigm governing our relationship to the planet, to technology and to one another. The tragic outcome of this contemporary cautionary tale appears as the direct consequence of distorted attention. A collective revision of the way we attend to the world is posited as the only way to avoid destruction and achieve positive transformation in the era of the permacrisis.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Disclosure statement</head><p>No potential conflict of interest was reported by the author(s).</p></div>			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="6" xml:id="foot_0"><p>B. ARIZTI</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="10" xml:id="foot_1"><p>B. ARIZTI</p></note>
+		</body>
+		<back>
+
+			<div type="funding">
+<div><head>Funding</head><p>Research for this article was funded by <rs type="grantNumber">MICIU/AEI/10.13039/501100011033</rs> and by the <rs type="funder">European Regional Development Fund (FEDER, EU)</rs> [code <rs type="grantNumber">PID2021-124841NB-I00</rs>] , together with the <rs type="institution">Government of Aragón</rs> and the <rs type="funder">European Social Fund (ESF)</rs> [code H03_23R].</p></div>
+			</div>
+			<listOrg type="funding">
+				<org type="funding" xml:id="_h6Ah4sX">
+					<idno type="grant-number">MICIU/AEI/10.13039/501100011033</idno>
+				</org>
+				<org type="funding" xml:id="_grBPjcz">
+					<idno type="grant-number">PID2021-124841NB-I00</idno>
+				</org>
+			</listOrg>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<analytic>
+		<title level="a" type="main">Her research explores Australian literature and related Anglophone traditions through the lenses of narrative ethics, attention, Trauma and Memory Studies, and Transmodernity</title>
+	</analytic>
+	<monogr>
+		<title level="m">Contemporary Narrative in English&quot; and the</title>
+		<imprint>
+			<publisher>Works Cited</publisher>
+		</imprint>
+		<respStmt>
+			<orgName>University Research Institute for Employment, Digital Society and Sustainability (IEDIS)</orgName>
+		</respStmt>
+	</monogr>
+	<note>Bárbara Arizti is Senior Lecturer in English Literature at the University of Zaragoza and a member of the research groups</note>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<title level="a" type="main">Critical Surveillance Studies in the Information Society</title>
+		<author>
+			<persName><forename type="first">Thomas</forename><surname>Allmer</surname></persName>
+		</author>
+		<idno type="DOI">10.31269/triplec.v9i2.266</idno>
+	</analytic>
+	<monogr>
+		<title level="j">TripleC</title>
+		<imprint>
+			<biblScope unit="volume">9</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="566" to="592" />
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title level="a" type="main">Capital and Morals Collide in Birnam Wood</title>
+		<author>
+			<persName><forename type="first">Ryan</forename><surname>Asmussen</surname></persName>
+		</author>
+		<ptr target="https://chireviewofbooks.com/2023/03/07/capital-and-morals-collide-in-birnam-wood/" />
+	</analytic>
+	<monogr>
+		<title level="m">Chicago Review of Books</title>
+		<imprint>
+			<date type="published" when="2025-09-11">11 Sep. 2025</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<monogr>
+		<title level="m" type="main">Contemporary Fictions of Attention: Reading and Distraction in the Twenty-First Century</title>
+		<author>
+			<persName><forename type="first">Alice</forename><surname>Bennett</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2018">2018. 2020</date>
+			<pubPlace>Bloomsbury</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title level="a" type="main">The Project Gutenberg EBook</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">C</forename><surname>Bradley</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Shakespearean Tragedy</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Lectures on Hamlet</title>
+		<meeting><address><addrLine>Othello, King Lear, Macbeth</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="1904">1904. 2005</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title level="a" type="main">Permacrisis Declared Collins Dictionary Word of the Year</title>
+		<author>
+			<persName><forename type="first">Helen</forename><surname>Bushby</surname></persName>
+		</author>
+		<ptr target="https://www.bbc.com/news/entertainment-arts-63458467" />
+	</analytic>
+	<monogr>
+		<title level="j">BBC</title>
+		<imprint>
+			<date type="published" when="2022-11-01">1 Nov. 2022. 1 Sep. 2025</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<monogr>
+		<title level="m" type="main">Precarious Life: The Powers of Mourning and Violence</title>
+		<author>
+			<persName><forename type="first">Judith</forename><surname>Butler</surname></persName>
+		</author>
+		<editor>Catton, Eleanor. Birnam Wood. Granta</editor>
+		<imprint>
+			<date type="published" when="2004">2004. 2023</date>
+			<publisher>Verso</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title level="a" type="main">The Ecology of Attention</title>
+		<author>
+			<persName><forename type="first">Yves</forename><surname>Citton</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Barnaby Norman Polity P</title>
+		<imprint>
+			<date type="published" when="2014">2014. 2017</date>
+		</imprint>
+	</monogr>
+	<note>Translated by</note>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title level="a" type="main">A New Age in the History of Philosophy. The World Dialogue Between Philosophical Traditions</title>
+		<author>
+			<persName><forename type="first">Enrique</forename><surname>Dussel</surname></persName>
+		</author>
+		<idno type="DOI">10.1177/0191453709103424</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Philosophy &amp; Social Criticism</title>
+		<imprint>
+			<biblScope unit="volume">35</biblScope>
+			<biblScope unit="issue">5</biblScope>
+			<biblScope unit="page" from="499" to="516" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title level="a" type="main">What Matters: Literature&apos;s Importance in Times of Crisis</title>
+		<author>
+			<persName><forename type="first">Jean-Michel</forename><surname>Ganteau</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">The Routledge Companion to Literatures and Crisis</title>
+		<editor>
+			<persName><forename type="first">Silvia</forename><surname>Pellicer-Ortín</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">Julia</forename><surname>Kuznetski</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">Chiara</forename><surname>Battisti</surname></persName>
+		</editor>
+		<editor>
+			<persName><surname>Routledge</surname></persName>
+		</editor>
+		<imprint>
+			<date type="published" when="2024">2024</date>
+			<biblScope unit="page" from="17" to="25" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title level="a" type="main">Towards a Transmodern Transformation of Our Global Society: European Challenges and Opportunities</title>
+		<author>
+			<persName><forename type="first">Marc</forename><surname>Ghisi</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Luyckx</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Futures Studies</title>
+		<imprint>
+			<biblScope unit="volume">15</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="39" to="48" />
+			<date type="published" when="2010-09">Sep, 2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title level="a" type="main">A Big, Brash Cerebral Snapshot of the Modern World</title>
+		<author>
+			<persName><forename type="first">Sarah</forename><surname>Gilmartin</surname></persName>
+		</author>
+		<ptr target="https://www.irishtimes.com/culture/books/review/2023/03/04/birnam-wood-by-eleanor-catton-review-a-big-brash-cerebral-snapshot-of-the-modern-world/" />
+	</analytic>
+	<monogr>
+		<title level="j">The Irish Times</title>
+		<imprint>
+			<date type="published" when="2023-06">Mar. 6 2023</date>
+		</imprint>
+	</monogr>
+	<note>Review of Eleanor Catton&apos;s Birnam Wood</note>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">Byung-Chul</forename><surname>Han</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">La Desaparición de los Rituales. Translated by, Alberto Ciria. Herder</title>
+		<imprint>
+			<date type="published" when="2019">2019. 2020</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<monogr>
+		<title level="m">The Spirit of Hope. Translated by Daniel Steuer Polity P</title>
+		<imprint>
+			<date type="published" when="2023">2023</date>
+			<biblScope unit="page">2024</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<monogr>
+		<title level="m" type="main">Distracted: Reclaiming Our Focus in a World of Lost Attention</title>
+		<author>
+			<persName><forename type="first">Maggie</forename><surname>Jackson</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2008">2008. 2018</date>
+			<publisher>Prometheus Books</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<monogr>
+		<title level="m" type="main">The Principles of Psychology</title>
+		<author>
+			<persName><forename type="first">Williams</forename><surname>James</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1890">1890</date>
+			<publisher>Henry Holt and Company</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<title level="a" type="main">Literature and Crises Across Historical Scales</title>
+		<author>
+			<persName><forename type="first">Julia</forename><surname>Kuznetski</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">The Routledge Companion to Literatures and Crisis</title>
+		<editor>
+			<persName><forename type="first">Silvia</forename><surname>Pellicer-Ortín</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">Julia</forename><surname>Kuznetski</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">Chiara</forename><surname>Battisti</surname></persName>
+		</editor>
+		<editor>
+			<persName><surname>Routledge</surname></persName>
+		</editor>
+		<imprint>
+			<date type="published" when="2024">2024</date>
+			<biblScope unit="page" from="1" to="11" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<analytic>
+		<title level="a" type="main">The Ethics of Care as a Politics of the Ordinary</title>
+		<author>
+			<persName><forename type="first">Sandra</forename><surname>Laugier</surname></persName>
+		</author>
+		<idno type="DOI">10.1353/nlh.2015.0016</idno>
+	</analytic>
+	<monogr>
+		<title level="j">New Literary History</title>
+		<imprint>
+			<biblScope unit="volume">46</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="217" to="240" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<analytic>
+		<title level="a" type="main">The Crossroads of Transmodernity</title>
+		<author>
+			<persName><forename type="first">Rodríguez</forename><surname>Magda</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Rosa</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Transmodern Perspectives on Contemporary Literatures in English</title>
+		<editor>
+			<persName><forename type="first">Jessica</forename><surname>Aliaga-Lavrijsen</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">José</forename><surname>María Yebra-Pertusa</surname></persName>
+		</editor>
+		<editor>
+			<persName><surname>Routledge</surname></persName>
+		</editor>
+		<imprint>
+			<date type="published" when="2019">2019</date>
+			<biblScope unit="page" from="21" to="29" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<monogr>
+		<title level="m" type="main">Ambition, Corruption and Guerilla Gardening: Eleanor Catton&apos;s Birnam Wood Is a Horror Story for Our Time</title>
+		<author>
+			<persName><forename type="first">Julian</forename><surname>Novitz</surname></persName>
+		</author>
+		<ptr target="https://www.swinburne.edu.au/news/2023/03/ambition-corruption-and-guerilla-gardening-eleanor-cattons-birnam-wood-is-a-horror-story" />
+		<imprint>
+			<date type="published" when="2025-09-11">11 Sep. 2025</date>
+			<publisher>Swinburne U of Technology</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<analytic>
+		<title level="a" type="main">Caprioglio The Ethics of Attention: Engaging the Real with Iris Murdoch and Simone Weil. Routledge, 2022. Rothberg, Michael. The Implicated Subject: Beyond Victims and Perpetrators</title>
+		<author>
+			<persName><forename type="first">Silva</forename><surname>Panizza</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">William. Macbeth. The Project Gutenberg EBook</title>
+		<imprint>
+			<biblScope unit="page">2025</biblScope>
+			<date type="published" when="1623">2019. 1623</date>
+			<pubPlace>Stanford UP; Shakespeare</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<monogr>
+		<title level="m" type="main">Modern Ambition &amp; Eleanor Catton&apos;s Birnam Wood</title>
+		<author>
+			<persName><forename type="first">Nirica</forename><surname>Srinivasan</surname></persName>
+		</author>
+		<ptr target="https://interlocutorinterviews.com/new-blog/2023/8/2/eleanor-catton-birnam-wood-review-farrar-straus-and-giroux" />
+		<imprint>
+			<date type="published" when="2025-09-11">11 Sep. 2025</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

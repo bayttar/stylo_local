@@ -1,0 +1,579 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">On tokens and tokenisation, a conjunctural approach to thinking GenAI in the Humanities classroom</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author role="corresp">
+							<persName><forename type="first">Niall</forename><surname>Martin</surname></persName>
+							<email>n.martin@uva.nl</email>
+							<affiliation key="aff0">
+								<orgName type="laboratory">Amsterdam School for Cultural Analysis</orgName>
+								<orgName type="institution">University of Amsterdam</orgName>
+								<address>
+									<settlement>Amsterdam</settlement>
+									<country key="NL">The Netherlands</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff0">
+								<orgName type="laboratory">Amsterdam School for Cultural Analysis</orgName>
+								<orgName type="institution">University of Amsterdam</orgName>
+								<address>
+									<settlement>Amsterdam</settlement>
+									<country key="NL">The Netherlands</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff0">
+								<orgName type="laboratory">Amsterdam School for Cultural Analysis</orgName>
+								<orgName type="institution">University of Amsterdam</orgName>
+								<address>
+									<settlement>Amsterdam</settlement>
+									<country key="NL">The Netherlands</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">On tokens and tokenisation, a conjunctural approach to thinking GenAI in the Humanities classroom</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date/>
+						</imprint>
+					</monogr>
+					<idno type="MD5">AF93AB93A1E9723C5C89C86039D27ECB</idno>
+					<idno type="DOI">10.1080/14735784.2025.2610181</idno>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.0" ident="GROBID" when="2026-02-25T19:50+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>This article proposes a conjunctural approach to thinking about the relation of the Humanities and GenAI. It argues that conversations about LLM technology cannot be separated from conversations about 'positionality' as both involve thinking deeply about textual filiation or the relationship of ownership and utterance. Such a conjunctural approach holds present GenAI's character as a social relation of production wholly reliant on the structures of racial capitalism and forecloses the tendency to resort to Human/ machine binaries. Concentrating on the role of the mimetic in aligning discourses about race and technology, it takes the idea of plagiarism as the locus where these conversations generatively converge. The long tradition of thinking about plagiarism within post-colonial, Africana, and Black studies, it argues, complicates dominant discourse around the pedagogic uses of GenAI. This argument is pursued through a reading of Rebecca F. Kuang's bestselling novel, Yellowface (2024), which focuses on Kuang's distinctive treatment of the unreliable narrator. Kuang's revision of the conceptual figure of the unreliable narrator from a race critical perspective, it concludes, provides one important avenue for thinking a Humanities approach to GenAI that avoids the perils of the mimetic paradigm.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>KEYWORDS</head><p>GenAI and the Humanities; plagiarism and mimesis; racial capitalism and white loss; Rebecca F. Kuang's Yellowface This article takes its cue from a question posed to ChatGPT 3: namely, 'could Chat GPT act as a sensitivity reader and, if so, what parameters would it use?' In its response the chatbot provided a comprehensive list of the aspects of a text that needed to be considered if it was to avoid the unintentional perpetuation of 'harmful stereotypes, offensive language, or misrepresentation of marginalized groups'. It also supplied a clear statement of its limitations in this respect, prefacing its list with the caveat that while it 'can provide useful suggestions, […] it lacks lived experiences and nuanced understanding that a human sensitivity reader from the relevant community would provide'. This insistence on the importance of lived experience was then repeated in the conclusion:</p><p>In conclusion, ChatGPT can serve as an initial tool for sensitivity reading, especially in identifying problematic language or tropes, but should be used as a complement to, rather than a replacement for, human sensitivity readers with lived experience in the relevant communities.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>In what follows, I want to explore the implications of this response, and specifically what this disarming gesture to its limitations might add to our understanding of the imbrication of GenAI technology with the structures of what Cedric Robinson termed 'racial capitalism' <ref type="bibr" target="#b21">(Robinson 2020)</ref> and how this might in turn inform an engagement with a technology whose emergence appears to many people working in the Humanities both inimical and inevitable.</p><p>I take up this response for further consideration, not out of surprise at the faux gesture of self-awareness, but rather, because of what that gesture seems to hide in plain sight. Pointing to the fact that the Large Language Model (LLM) technology that drives ChatGPT3 is based on the statistical probability of one textual element, or 'token', succeeding another, Ted Chiang has memorably described ChatGPT as providing us with a 'blurry jpeg of the web' <ref type="bibr" target="#b4">(Chiang 2023)</ref>. In this reflexive circumscription of its claim to knowledge then we can see that the programme was simply mimicking what Jasmine K. Gani and Rabea M. Khan term 'the reflexive practice' of the <ref type="bibr">'[d]</ref>eclaration of positionality and the confession of privilege' that is characteristic of disciplines across the Humanities <ref type="bibr" target="#b8">(Gani and Rabea 2024)</ref>. <ref type="bibr">ChatGPT was, in other words, simply</ref> describing what an answer to this question looks like.</p><p>However, what does seem remarkable in this particular blurry picture of the web, is the clarity with which it displays the principles of what Neda Atanasoski and Kalindi Vora have termed 'technoliberalism <ref type="bibr">' (2019)</ref>, that is, the techno-political configuration which, on the one hand, avows its commitment to antiracism while, on the other, remains reliant on the '[u]nfree and invisible labor <ref type="bibr">[that]</ref> have been the hidden support propping up the apparent autonomy of the liberal subject through its history' <ref type="bibr">(2019,</ref><ref type="bibr">6)</ref>. This logic is startlingly exemplified in the suggestion that somebody who is vulnerable to harm because they belong to a community to which the chatbot does not 'belong', should then make themselves vulnerable to that harm in order to preserve somebody else's reputation and, usually, the profits of their publisher (as was seen recently in the pulping of an English chef's book of children's stories based on indigenous Australian culture) (Associated Press 2024). In so adroitly stepping aside and deferring to the necessity of human experience at precisely the moment that it is asked to perform what itself describes as the harmful work of 'sensitivity reading', the response suggests not only the limits of technoliberal claims that automation will provide better futures for all, but in so doing, I will argue, invites a closer consideration of the imbrication of Generative AI with more general ideas of textual filiationor who is authorised to speak of whatwithin the operations of racial capitalism. <ref type="foot" target="#foot_0">1</ref>This article, consequently, takes this ChatGPT response as an invitation to a conjunctural approach to GenAI technology: an invitation, that is, to think about it as situated in relation to wider discussions of textual filiation, or assumptions about textual authorityparticularly as they emerge within questions currently animating conversations within the Humanities. Rehearsing the article's argument, I begin by considering the ways that the discourses around race and GenAI are aligned in the notion of mimesis, specifically focusing on discussions of plagiarism. I then turn to Rebecca F. <ref type="bibr" target="#b14">Kuang's (2023)</ref> novel Yellowface, which I read both for its account of the role of mimesis as integral to the operation of racial capitalism in the Anglophone publishing industry but also for the ways in which Kuang's formal engagement with the consequences of racial capitalism in writing literary fiction in turn suggests figures for engaging with GenAI output in relation to broader changes in ideas of text and textuality. In particular, I consider how theorising the familiar literary device of unreliable narration from a race critical perspective provides an optic for thinking about the practices of textual filiation in LLM technology, and more specifically, how Kuang's novel in its treatment of textual filiation invites us to consider what it would mean to think of ChatGPT output as unreliable narration. I conclude by reflecting on how the 'tokens' that form the grammar of LLM output and the practice of 'tokenisation' central to Kuang's novel resonate with philosopher of computation M. Beatrice Fazi's recent call to rethink the meaning of 'synthetic' within 'synthetic intelligence'-a call which provides a further perspective on the conjunctural force of the mimetic.</p><p>In urging a conjunctural approach to GenAI I invoke, of course, Stuart Hall's insistence that we try and understand our worlds not by studying isolated phenomena with reference to preexisting interpretative frameworks, but allow the questions that 'the present conjuncture' throws up to reveal the habits of thought that connect present with past, but which also afford new theoretical possibilities, or 'detours', to break with those habits and produce 'good sense' out of common sense <ref type="bibr" target="#b10">(Hall and Massey 2010)</ref>. But I also invoke a broader sense of conjuncture as shaped by questions that cannot-not-be-asked, whose very importunity demands response, and in this sense this approach is directly motivated by thinking from my place of work in the Humanities classroom where the ethical and epistemological questions of utterance and textual filiation are central to some of our most urgent conversations, but conversations that can too easily be sequestered as topics of 'generative technology' or the ethics of relation bundled under the term 'positionality'. In invoking a conjunctural approach, then I am also remembering the contributions of those scholars whose work on situated knowing, critical race theory, and science and technology studies have made the Humanities classroom a locus for thinking the tension between the aspirational figure of the Human and the human lives that this figure renders unfree, as is refigured in the ChatGPT response to my question. <ref type="foot" target="#foot_1">2</ref>One obvious approach to thinking these conversations conjuncturally is to consider both ideas of positionality and generative computing as expressive of changes in the social relations of production. Postmodernist theorist N. Katherine Hayles suggests one aspect of this change when in an article titled 'Don't ban AI from your writing classroom! Require it!', she argues forcefully for the pedagogic use of GenAI tools to prepare students for a world of 'algorithmic cultures' <ref type="bibr">(Hayles 2024, 260)</ref> in which it is no longer possible nor desirable to distinguish between human and machine. The problem, she argues, is that, to date, our writing classrooms have been too focused on outputthe finished essay or 'college paper'rather than process. To reflect the new conditions of textual production, she urges, we need to focus on process-related skills and practices of collaboration <ref type="bibr">(Hayles 260)</ref>.</p><p>A more explicit focus on the social relations of production provides the point of departure for Matteo Pasquinelli's The Eye of the Master: A Social History of Artificial Intelligence, where he argues that rather than reifying AI as a new technology, we should view it as one more instance of the general process of extracting profit by automating existing divisions of labour <ref type="bibr" target="#b18">(Pasquinelli 2023</ref>). As such, he returns us to the insight formulated by Karl Marx in his discussion of 'the automaton' <ref type="bibr" target="#b16">(Marx and Nicolaus 1981)</ref> in the Grundrisse that the machine is first and foremost an expression of an existing division of labour, which it then replaces through automation. He writes, quoting Marx:</p><p>The introduction of machinery marks a dramatic dialectical turn in the history of labour, whereby the worker ceases to be the subject of the machine and becomes the object of capital: "The hand tool makes the worker independentposits him as proprietor. Machineryas fixed capitalposits him as dependent, posits him as appropriated." (108-109) For Pasquinelli, following Marx, in other words, 'the machine is a social relation not a thing' <ref type="bibr">(Pasquinelli 119)</ref> and consequently the question 'what is ChatGPT?' should be rephrased as 'what are the developments of capital and labour expressed in ChatGPT?' However, even as Pasquinelli emphasises GenAI's existence as 'a social relation' underlining the apparent continuities within this focus on the ongoing division of labour, he also suggests some of the limits to the economics informing Marx's analysis. For one of the immediate implications for thinking about ChatGPT in terms of the evolving social relations of production is that as well as inviting us to think about the economies of data exchange in platform economies (as analysed, for example, by Nick Srnicek <ref type="bibr" target="#b25">(Srnicek 2017</ref>)), it also encourages us to recognise the ways in which a globalised underclass is already incorporated in the machine through the production of what Mary Gray and Siddarth Suri term the 'ghost workers' <ref type="bibr" target="#b9">(Gray and Suri 2019)</ref> whose invisible labour in preparing data sets subtends the 'enchantment' of machine intelligence. He reminds us that the 'intelligence' of LLM technology is itself trained on the sensitivities of real human beings such as the Kenyan workers to whom Microsoft outsourced its data labelling for ChatGPT <ref type="bibr" target="#b23">(Rowe 2023</ref>). Pasquinelli, in other words, allows us to recognise the profound dissimulation within the chatbot's distinction between its competence as a 'tool' and that of a 'human from a relevant community'. <ref type="foot" target="#foot_2">3</ref>To bring this aspect of the social relation into sharper focus I want to consider the discursive resonance between descriptions of machine intelligence and subaltern discourse as mimetic, and to do this specifically by attending to their implication in ideas of plagiarism, a topic, which, in the context of the Humanities classroom, registers the conjunction of these two conversations particularly acutely. The conceptualisation of machine learning as mimetic is foundational to the discourse around GenAI. It is written into the designations artificial intelligence and synthetic computing and becomes the sine qua non of 'intelligence' in the structure of the Turing Test with its criteria of 'passing' as human. The importance of the concept of mimesis as mimicry in delegitimising non-hegemonic and subaltern epistemologies is evident from Homi Bhabha's extensive analysis of its functions within colonial discourse, and it is instructive to invoke, for a moment, a dual optic and consider Bhabha's account of the anxiety of mimicry in relation to machine learning.</p><p>In Bhabha's account, the idea of mimicry arises from the impossibility of the coloniser recognising the legitimacy of the epistemic claims of the colonised, and as such the problem with mimicry is that it confronts the coloniser with the speciousness of the claim to epistemological legitimacy. As Bhabha notes 'the menace of mimicry is its double vision which, in disclosing the ambivalence of colonial discourse also disrupts its authority' <ref type="bibr">(Bhabha 1994, 126)</ref>. One of the practical consequences of this disruption is the need to scrutinise the language of the colonised for the details which will 'reveal' it to be imitative, for evidence of that non-identity upon which the ontological claim of the coloniser's supremacy depends. The doubled menace of mimicry lies in the fact that the coloniser must in the search for the sign of non-identity, become a policer of discourse rather than a reader alive to the play, polysemy, and complexity of language; unable to appreciate literariness, they must take up the role of detective, searching for the signifier that will indicate the text's filiation as legitimate or illegitimate. Bhabha introduces the idea of the 'metonymy of presence' to designate this tell-tale signifier, the minor detail or 'part-object', which even as it identifies the mimic as 'white but not quite' turns reading into a binary selection between the true and the false.</p><p>The menace of mimicry as it informs conversations about GenAI in the classroom is registered most immediately in questions of plagiarism. Thus, according to Hayles, one of the main consequences of the rise of LLM technology, is that it invites a 'philosophical' discussion of the topic of plagiarism <ref type="bibr">(Hayles 262)</ref>. She writes:</p><p>We can begin with critical reflections on the concept of plagiarism. Two basic issues are involved, which sometimes get conflated: intellectual honesty and student learning. A student may cheat when too much emphasis has been placed on the product and not enough on the process. If he receives signals that the output is all that matters, then producing better output is likely to become his goal, rather than increasing his own ability to critically engage important works and reflect on them with insightful and effective arguments. <ref type="bibr">(262)</ref> In this emphasis on the shift from product to process and the validation of collaboration rather than individual achievement, Hayles echoes broader currents in progressive pedagogy emphasising the acquisition of skills rather than output. In her call for a new philosophical discussion of plagiarism, however, Hayles elides the extensive discussion of plagiarism responding to the use of mimesis as a tool of epistemological delegitimisation within subaltern and postcolonial studies, the traditions of scholarship, that is, centring people whose relations to the idea of 'algorithmic cultures' are more critical.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Plagiarism and decolonisation</head><p>If the philosophical discussion about the nature of plagiarism runs deep within the traditions of subaltern studies, Black studies and Africana studies, it is as a response, in part, to the ways accusations of plagiarism are used to delegitimise non-hegemonic voices. Much of this scholarship, accordingly, focuses on prominent instances of such accusations, including the cases of the Harlem Renaissance writer, Nella Larsen, whose literary career was cut short by unproven allegations of plagiarism, the Cameroonian-French writer Calixthe Beyala whose Petit Prince de Belville (1992) was 'exposed' as plagiarising Emile Ajar's (a pseudonym of Romain Gary) La Vie Devant <ref type="bibr">Soi (1975)</ref> and Yambo Ouologuem, the Malian novelist whose unreferenced 'borrowings' (Songolo 146) in Le Devoir de Violence (1968) ranging over the breadth of world literature, were similarly denounced as plagiarism.</p><p>Within this body of scholarship, recurrent themes are the relation of written and oral cultures and their associated political economies of the sign. Hildegaard Hoeller's engagement with Nella Larsen is exemplary in this respect. Defending herself from the accusation of plagiarism, Larsen explained that the resemblance between her short story 'Sanctuary' and the white British writer, Sheila Kaye-Smith's, 'Mrs Adis', was due to the fact that 'Sanctuary' was based on a story that circulated widely within oral culture. This defense, Hoeller argues, points to the role of plagiarism in policing the relations between oral and written cultures more generally. As <ref type="bibr" target="#b12">Hoeller (2006)</ref> points out:</p><p>Her form of plagiarism reveals that race became one way for modernism to resolve its reliance on two contradictory concepts of originality: that of the primitive, and that of the artist's personal creation and literary property. "Sanctuary" "failed"and is worth reconsideringprecisely because it intervened in this racial hypocrisy of modernism's appropriation of "other" texts, voices, and traditions. (421)</p><p>Hoeller goes on to note that the case of Nella Larsen points to much broader questions of plagiarism as a key mode of Modernist aesthetics predicated on the appropriation of communal cultural production as a 'source' for Western cultural renewal.</p><p>If we accept the terms of Larsen's explanation for a moment, then we must conclude that far from Larsen's stealing the story from Kaye-Smith, Kaye-Smith instead appropriated black folklore to her own purposes. While such a scenario seems unprovable in Kaye-Smith's specific case, the dynamics that Larsen's explanation implies were at the very core of much modernist art and writing-as well as immediately relevant to Larsen's own personal context. Larsen thus publicly directs her readers' attention to struggles over ownership of traditions and situates "Sanctuary" within a highly charged modernist context of massive racial borrowing and stealing. <ref type="bibr">(Hoeller 426)</ref> In a review of the emergence of the concept of plagiarism within the developing capitalist print culture of 17th and eighteenth century Europe, Marilyn Randall also makes the point that the fortunes of plagiarism as a concept are inextricably linked to the shift from an aesthetics of imitation to an aesthetics of 'expression' associated with the shift from classicism to Romanticism in European culture. She then turns to consider its very different signification within colonial contexts.</p><p>The theoretical construction of the colonized subject may be seen to justify "plagiarism" as an appropriate revolutionary move in the process of the creation of a new identity, while censure or recuperation can be seen as strategies of self-protection exerted to assure the hegemony of the institution. <ref type="bibr">(Randall 1991, 532)</ref> This emphasis on the dual function of the plagiarism apparatus as simultaneously a tool of repression and of subversion is elaborated by Aliko Songolo in his discussion of Yambo Ouologuem's Le Devoir de violence. Of Ouologuem's technique of unattributed borrowings, Songolo writes:</p><p>This technique, which I will call the technique of subversion, not only does violence to everything the African novel stood for before 1968, but also to the acquired notion of the socio-political role of tradition on the one hand, and the notion of copyright on the other. <ref type="bibr">(Songolo and Cornwell 146)</ref> Songolo, in other words, points to the ways in which Ouologuem's use of plagiarism subverts both the occidental institution of literary property as well as the founding myth of African culture as an origin (that like creativity) sustains that model in its role as a source and origin that predates the institution of fiction and literary property.</p><p>The generative potential of plagiarism as subversion is further elaborated by Reij Rosello in the draft of an unpublished essay which builds on their earlier analysis of Calixthe Beyala's Le Petit Prince de Belleville in Declining the Stereotype (1998). Resisting the imperative to read Beyala's text as plagiarising Romain Gary's La Vie Devant Soi, they note that Beyala's reworkings of Gary's text demonstrates the ways in which the conceptual architecture of 'plagiarism' discourse works to open up attention to the logic of filiation written into Western conceptualisations of authorship, and hence the power of plagiarism to suggest alternative ideas of filiation. Noting that it is always within the reader's power to decline the logic of antecedence and repetition written into the imperative of plagiarism, they 'propose a theory of bastard filiation that is never completely legitimate but which, as a reader, we might not wish to do away with because it is in this kind of literary guerilla warfare that other ethical proposals are made.' (Rosello, forthcoming) 4  From the voices cited here, plagiarism thus emerges as a multivalent nexus for thinking about the modes and apparatuses of epistemic capture, the coloniality of the apparently race neutral concept of creativity, and the conscription of the oral as a source and product of the act of inscription. If, as Hayles suggests, ChatGPT invites us to take up a 'philosophical discussion of plagiarism' this philosophical discussion proposes an idea of plagiarism which can in turn help us think again about the discourse of the mimetic as it is applied to GenAI. In this discussion the correlations of plagiarism with racial capitalism should provide at least two optics on the use of the mimetic to frame discussion of machine learning.</p><p>Firstly, it serves as a reminder that a focus on plagiarism as the primary legal counter to the exploitive practices of GenAI developers works to enshrine the regime of individual property rights and thereby obscures what artist Hito Steyerl points out is the 'cooperative and collective' labour responsible for GenAI output and, consequently, its potential for redistributing benefits (Keen on America 2023, 4.40). In other words, it works to further obscure the labour of the 'ghost workers' described by Gray and Suri in their account of Silicon Valley's new 'underclass'. Secondly it preserves the ideas of textual filiation whose coloniality is evident from the preceding discussion, and in so doing, it obscures the possibilities for rethinking the ways that those lines of textual filiation sustain social relations of production whose foundations in the mimetic GenAI itself brings into sight.</p><p>Focusing instead on plagiarism, or questions of textual filiation, as a topic that is conjuncturally thrown into relief by the rise of GenAI, I argue, can help us better refine the concepts and figures necessary for Humanities work in a world where the perception of the rise of GenAI technology as inevitable and inimical fosters an attachment to uncritical ideas of the Human and its mimetic grounding. It is for this reason that I want now to turn to Rebecca F. Kuang's Yellowface (2024) which I suggest provides a valuable optic on writing in the wake of GenAI, not because it foregrounds the technologyit doesn'tbut because of its sensitivity to the operations of racial capital and their epistemological consequences for positions of enunciation. Reading Kuang's novel in this context, I argue, suggests how we might think about practices of reading in the conjuncture where ChatGPT throws into relief the relations between textual production and racial capitalism as they are organised by questions of the mimetic.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Yellowface and the menace of mimicry</head><p>In Yellowface, her fifth novel, Rebecca Kuang breaks from the fantasy genre in which she has made her name and turns her attention to questions of genre and race in a more realist mode. Questions of genre, however, remain very present, for what might seem initially to be a satire of debates on cancel culture and cultural appropriation, resolves into a mordant critique of the racial politics of the Anglophone publishing industry. For some this bait-and-switch structure seems to produce a disconcerting reading experience with critic Amal El-Mohtar describing the novel as 'enjoyable and uncomfortable in equal measure' (El-Mohtar 2023). The novel's power to discomfort consists largely in the ways it juxtaposes and opposes two very different ideas of what Rosello terms 'textual filiation': namely the question of plagiarism as literary theft, and plagiarism as cultural appropriation, which, in their exposure, involve uncompromising accounts of practices of racial stereotyping.</p><p>The novel is narrated from the perspective of June Hayward, a white American novelist whose career has stalled after the lukewarm reception of her loosely autobiographical debut novel, self-described as 'a richly detailed and subtly magical coming-of-age story about grief, loss, and sisterhood' (3). Yellowface charts how after the accidental death of her friend, the Chinese American novelist Athena Liu, Hayward, steals a manuscript from Liu's desk and publishes it as her own work. The novel then describes how she sets out to conceal this theft and deal with Liu's troubling presence within her psychic and creative life, growing ever more obsessed with uncovering the identity of her online stalker, 'Athena's Ghost'.</p><p>From even this minimal description it is evident that, in the context of the present discussion, one of the most notable aspects of Kuang's novel is that it decisively shifts the terms for thinking about plagiarism as a mode of intercultural relation. In June Hayward's plagiarism of Athena Liu, the scene of plagiarism moves from the Global South to the Global North. Plagiarism is no longer figured as an apparatus of epistemic repression or as a tool with subversive potential, but becomes instead a figure for Western culture's pillage of its exoticised Others, the 'massive racial borrowing and stealing' signalled by Hoeller in her discussion of Nella Larsen. In this relocation of the scene of epistemic theft, plagiarism as taking words that are not yours, thus becomes a central trope within the decolonisation of the global knowledge economy.</p><p>Formally, this turn to plagiarism as a figure of colonial extraction is worked out most strikingly through Kuang's use of the unreliable narrator. The voice of this narrator is captured in Hayward's self-description of her work quoted above: a voice in which irony seems to protect and mark sincerity, and savviness to signify sensitivity. At the outset of the novel, consequently, it seems that Kuang might be using Hayward's narrative focalisation to explore the self-deception involved in plagiarism and the many modes of disavowal intrinsic to the idea of originality once it encounters the machinery of textual production that is the publishing industry.</p><p>By the end of the novel, however, it is clear that Hayward's unreliability is not a mode for the exploration of the anxiety of influence but is mapped onto that structural mode of epistemological unreliability arising from the ressentiment that a racialised Other should lay claim to a placethat of the writerthat they perceive as their own:</p><p>Athenaa beautiful, Yale-educated, international, ambiguously queer woman of colorhas been chosen by the Powers That Be. Meanwhile I'm just brown-eyed, brown-haired June Hayward from Phillyand no matter how hard I work or how well I write, I'll never be Athena Liu. ( <ref type="formula">6</ref>)</p><p>Yellowface, in other words, offers a study of plagiarism as an expression of the more general cultural pathology that Atanasoski and Vora term 'white loss' (2018). Thus, June Hayward's ultimate justification for her act of literary theft is that her right to tell her story as 'brown-eyed, brown-haired June Hayward from Philly' has been taken from her.</p><p>"Can't you understand what it was like?" I beg. "Even a little bit? Athena had fucking everything. It wasn't fair-" "Is that how you justify it" "But it's true, isn't it? Athena had it made. You people -I mean, diverse peopleyou're all they want -" (306-307)</p><p>It is in Kuang's presentation of a character (and, I will argue, a textual figure) as expressing the ressentiment of 'white loss' that we should register the fully conjunctural force of her novel. Atanasoski and Vora coin the term 'white loss' in relation to the threat that AI and automatisation pose to traditionally 'white' occupations and identities in the Global North, pointing out that this 'loss' to automation is also conflated with a loss of employment to workers in and from the Global South. As Ilios Willemars and I have argued elsewhere, this conflation of race and technology gives a conjunctural force to ideas of 'replacement', turning the idea of replacement itself into a primary figure for thinking the operation of racial capitalism <ref type="bibr" target="#b15">(Martin and Willemars 2024)</ref>.</p><p>In the novel the operation of racial capitalism in terms of replacement is worked out most explicitly in the ghost story teased in the search for the identity of 'Athena's Ghost'. Instead of a ghost story in the form of a story about the anxiety of influence, or the impossibility of authorship in an economy where every sign bears the trace of its antecedence (the Modernist, or poststructuralist story of plagiarism), Kuang's denouement takes the ghost story away from the spectral to a confrontation with the mundane realities of racial capitalism. With the revelation that 'Athena's ghost' is, in fact, Candice, a young Korean-American intern that June had had removed from her post after she suggested the need for a sensitivity reading, the suggestion of an interest in the anxiety of influence resolves into the disclosure of the publishing industry's reliance upon 'ghost workers' such as Candice. Thus, Candice counters Hayward's ressentiment of Athena with a simple lesson in the operation of tokenisation, explaining how writers labelled 'Asian' are condemned to the production of cartoons of themselves by the structure of the Anglophone publishing industry:</p><p>"Do you know how much shit Athena got from this industry?" Candice demands. "They marked her as their token exotic Asian girl. Every time she tried to branch out to new projects, they kept insisting that Asian, was what her audience expected […] (307) June's obsession with the threat of being replaced by Athena is grounded, Candice explains, in processes of reification where tokenised figures function to ensure that other racialised writers will remain 'ghost workers'editorial assistants, interns and, of course, sensitivity readers.</p><p>Candice's demystification of the spectral theme thus identifies two forms of replacement. For, if June and Candice both seem to stand in the shadow of Athena, they represent radically different forms of occlusion. June's sense of occlusion is, as we have seen, expressive of the ressentiment arising out of the language of replacement as white loss. June, it is clear, experiences her failure to succeed within the US publishing industry, as a comment upon the unworthiness of her story, and because of the association of self-narrative with an idea of the self within the Western autofictional tradition, of a wounded ego, and the consequent defensive formation of self-ironisation. Candice, however, recognises that she has been subalternised by the logic of tokenisation. Her exclusion from the market, her inability to find a publisher for her story is due to a different calculus, a calculus organised around the 'token'. Athena is not simplyor merelya token 'Asian' in that she ensures the diversity of the publisher's catalogue, she also tokenises the experience of what it means to be labelled 'Asian' around a single story and is in turn tokenised by that storybecoming not a writer, but a function of a need for a particular story. Her identity as a writer in the Western Romantic model is subordinated to the need of a certain kind of story and she is effectively forced to serve a genre, to conform to an expectation which is ultimately algorithmic in its form.</p><p>Before thinking further about the homological function of tokenisation and the tokens operationalised in LLM output, I want to consider more closely the ways in which Kuang's use of June Hayward as narrator works as a textual figure that itself provides a figure for thinking the textuality of ChatGPT. One of the most powerful consequences of aligning the unreliability of the novel's narrator with the endemic racist structure of feeling registered in replacement rhetoric, I suggest, is to force readers habituated to the textual pleasure of unreliability to reflect on the aesthetic function and value of 'unreliability' more generally, and specifically to consider how, and for whom, unreliability functions as a source of textual pleasure. Brian McHale's influential account of unreliable narration as indicative of literary Modernism's obsession with the knowability of the world, its 'epistemological dominant' <ref type="bibr">(McHale 1987, 10)</ref>, is a useful starting point in this respect. The unreliable narrator who points continually to their misapprehension of the world interpellates a reader who finds themself and their community in the shared appreciation of the unreliability of representation, and thus opens up the space for the pleasures of irony and the awareness of language as a means of speaking otherwise. For this Modernist consciousness, cut off from nineteenth-century certitudes, unreliability itself offers the solace of closure, of a world which is at least certain in its uncertainty. In making the unreliability of her narrator so directly consonant with the hegemonic racial discourse of the Anglophone publishing industry, Kuang effectively confronts that deracinated consciousness with the racial reckoning of such solace, and, as noted above, earns herself criticism for her 'cartoonish' or 'heavy handed' handling of race. <ref type="foot" target="#foot_4">5</ref>In making explicit the terms of this racial reckoning, Yellowface is, as such, not only a novel about racial capitalism, but also a novel about the formal and narratological consequences of racial capitalism for reading in general. I have turned to it as an aid in thinking about reading in the presence of GenAI, that is reading conjuncturally, because in mapping the role of racial capitalism in the politics of narration as the politics of voice, it invites us to think together the operation of tokenisation and the central role of the token as the distinctive conceptual element within LLM engineering. It is to the generative potential of this homology in suggesting figures for reading in the wake of GenAI that I turn in the remainder of this essay.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Tokens and tokenisation</head><p>The relation of this homology between tokens and tokenisation to the discourse of mimesis that I have argued aligns the framing of subaltern and machine epistemologies is addressed in a recent essay by M. Beatrice Fazi where she questions the dominant characterisation of GenAI computing as imitative and flips the idea of 'synthetic' intelligence from meaning 'manmade', and hence artificial, to synthetic in the Kantian sense of composed or compositional. She notes that historically, there is a significant change in the understanding of AI with the shift from models of machine intelligence utilising 'symbolic logic' to the triumph of LLM models utilising neural network technology and based on the statistical analysis of probabilities (Fazi n.p. 9-10/26).</p><p>Whereas symbolic logic in which language elements are assigned a symbolic value, preserves the idea of a referent insofar as a symbol refers to a linguistic element, within LLM computing there is an assumption that reference has been subsumed by mathesis as words become pure expressions of probability, so that a probability is presented in the 'guise of word configurations' [my emphasis] (Fazi n.p. 14/26) Against this imitative model of language, Fazi argues that what is significant within GenAI technology is not its referential status but its need for structure or 'unity'. Rather than assessing the presence or absence of a model of the world in terms of the mechanics of representation, we should attend instead to the primacy of 'unity' itself, the desire to synthesise or compose a recognizable world: 'synthesis in GenAI should be understood as a search for the unity that is fundamental to making a representational reality.' <ref type="bibr">(Fazi n.p. 1/ 26)</ref>  <ref type="bibr" target="#b7">(Fazi 2024)</ref>.</p><p>The focus on the mimetic, in other words, obscures the ways in which GenAI reproduces the structures or patterns present in training sets, and, more importantly the imperative to reproduce a coherent world which is knowable because it is synthetic, whose parts are shaped by, and in conformance with, preceding ideas of unity. Thinking with Fazi we might conclude that what was significant in ChatGPT's response to my question was not the substancet of its reply, but rather my anticipation that the chatbot would inevitably have something to say, that it could not admit to an inability to respond to my question. Such a response would imply beyond the failure of the bot, the failure of an entire social relations of production.</p><p>Thinking conjuncturally about this synthetic imperative to produce a knowable world, and knowing that this desire to synthesise is reliant upon the operation of ideas of tokenisation, I want to consider how the focus on unreliable narration I have emphasised in Kuang's novel might inform an understanding of GenAI which provides alternatives to a denunciation or despairing acceptance of this alteration in the social relations of production.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>GenAI as unreliable narrator</head><p>In one respect thinking of GenAI as an unreliable narrator amplifies the existing discourse around GenAI insofar as this discourse focuses precisely on its unreliability as an authority, or tool of textual generation, that is, in relation to its 'representation of the world'. The emphasis on 'inaccurate responses', and, more generally, on GenAI 'hallucinations' suggests local imperfections within a technology whose (cybernetic) epistemology is considered sound in principle because it is trainable. That is, the errors and instances of evident unreliability become a guarantee that better data produces better knowledge and the equation of better data with better knowledge becomes paradigmatic captured in the doxa, 'GenAI can only get better'.</p><p>This sense of GenAI's unreliability as a failure of mimesis, its lack of a 'model of world' and reliance on a model of language, as Hayles puts it (Hayles 260), should, after reading Yellowface, alert us to the operation of the paradigm as a synthetic force in Fazi's sense. If we approach GenAI with the expectation that it will answer in the mode of mimesisas passing as humanits unreliability is figured in terms of hallucinations. Reading with Fazi, however, we can see that this figuration is a product of the paradigm that figures GenAI output as mimetic. Reading with Rosello and Songolo, we might then ask, what if we were to emphasise the paradigm's synthetic or compositional force and consider it as the hallucination? Turning to Kuang's novel and its emphasis on the role of tokenisation in determining the positionality involved in speaking 'otherwise'of being recognised as a narrator whose unreliability expresses the play of signification rather than a failure of mimesiswe might say that the problem with GenAI is not that it only has a model of language, and not of the world <ref type="bibr">(Hayles 260)</ref>, but that its model of language reveals too much about how models of language are already informed by models of the world.</p><p>To illustrate this point I want to conclude by turning to a story by journalist Max Read published in 2024 in the New York magazine titled 'Drowning in Slop' <ref type="bibr" target="#b20">(Read 2024)</ref>. The story describes how Clarkesworld, a small literary magazine devoted to publishing new science fiction writing, had to temporarily suspend its activities because it was being inundated with ChatGPT generated submissions, or 'slop'. Investigating the source of these submissions took Read to Kenya where he met Stephen Mwangi who moderated 'five YouTube channels and about '170 Facebook pages' that deal heavily in AI-generated images, the largest of which has 4 million followers.' (32) Read is astute in his analysis of the macroeconomics involved in the social relations of slop reflected in this encounter when he writes:</p><p>Billions of dollars are flowing among the many companies on either side of this dynamic [AI developers and platform capitalists], and the question for any would-be AI hustler is how to get in the middle, find an angle, and take a cut. The simplest most effective way is to be a "slopper": someone who generates content at scale using AI and manipulates or leverages a platform to make money from it. <ref type="bibr">(31)</ref> We might recognise in this depiction of the 'slopper' (and the general framing of slop as the noise disturbing the information economy) the features of Michel Serres' figure of the parasite. For Serres, the parasite is always a relational figure in that who gets called parasite depends on their position within a system of power relations <ref type="bibr" target="#b24">(Serres 2007)</ref>. Within the framing of Read's story where literary creation is threatened by AI mimicry, the identification of the slopper with the parasite clearly links a model of language to a model of world. The 'white loss' of a small literary magazine's ability to serve aspiring writers from the threat of GenAI produced in the Global South, is a narrative that masks the 'white gain' of the tech companies involved. Thinking with Serres' parasite, we might consequently be tempted to name big techwhether as platform or AI developeras the real 'parasite' in this relation. To do so, however, would leave the original (Human/writer) and mimetic (machine/ slopper) binary intact along with its racialised structure. So too, in a visceral reaction to AI slop and the despair at what Cory Doctrow terms the 'enshittification' (Doctrow 2025) of everything, there is a danger of forgetting the economics of GenAI output as a social relation. As Read observes, in Kenya, where minimum monthly wages are between USD $ 120-270, a magazine offering USD 15 cents per word inevitably represents an economic rather than literary opportunity. As the article points out, it is not even necessary to be published in Clarkesworld, 'influencers' can simply point to the possibility as part of their own sales pitch on how to get rich with ChatGPT. There is, in other words, a need to hold in focus how GenAI, as a social relation, is also a relation of racialised inequality worked out in terms of textual filiation divided between the authorised and the mimetic.</p><p>To hold this imbrication of social relation with textual filiation in focus, I want to invoke in parting Sylvia Wynter's idea of homo narrans and the idea that ideas of the Human always encode a story about what it is to be Human which is also a story about what it is to be 'dysselected' as human <ref type="bibr" target="#b26">(Wynter and McKittrick 2015)</ref>. In this reminder that the Human is always a narrative project, Wynter alerts us to the dangers of mimetic thinking with its structuring binaries. It is a reminder that is especially urgent when mimesis becomes the default response to technologies that accentuate the existing divisions between the fully and less than fully Human. Wynter's figure of Homo narrans serves, then, as a final reminder to pay attention to what features of the human are generated in the spaces created between the valences of reliable and unreliable narration.</p></div>			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="1" xml:id="foot_0"><p>Here and throughout, I understand racial capitalism in its broadest sense as the ways in which economic value is created through the systematic discrimination between the value of life and labour on racial grounds.</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="2" xml:id="foot_1"><p>Those very present but unnamed in this text include Alison Adams, Ramon Amaro, Ruha Benjamin, Wendy Hui Kyong Chun, Katherine McKittrick, Jennifer Rhee and, with thanks to an anonymous reviewer, Michelle Elam.</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="3" xml:id="foot_2"><p>It also holds present the catastrophic environmental impact of AI while insisting on its place within the wider catastrophe of our current social relations of production.</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="4" xml:id="foot_3"><p>'je voudrais essayer de proposer une théorie de la filiation bâtarde qui n'est jamais ni complètement légitime mais qu'en tant que lecteur, on ne souhaiterait peut-être pas faire disparaître parce que c'est dans cette sorte de guérilla littéraire, que d'autres propositions éthiques.' MS quoted with permission.</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="5" xml:id="foot_4"><p>E.g. a reader writes of the 'Racial stereotyping and cartoonish presentation of microagressions.' In Babel. https://www. goodreads.com/book/show/57945316/reviews?reviewFilters={%22workId%22:%22kca://work/amzn1.gr.work.v3.if0P_ NVAiWA5sNTi%22,%22after%22:%22NjAwMDYsMTY0MDUyODkxMTQxNA%22}</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="14" xml:id="foot_5"><p>N. MARTIN</p></note>
+		</body>
+		<back>
+
+			<div type="acknowledgement">
+<div><head>Acknowledgements</head><p>I thank <rs type="person">Alessandra Benedicty-Kokken</rs>, <rs type="person">Sarah Budasz</rs>, <rs type="person">Eliane Fleury</rs>, <rs type="person">Quinsy Gario</rs>, <rs type="person">Nosa Imaghodo</rs>, <rs type="person">Alana Osbourne</rs>, <rs type="person">Michael Thomas</rs>, <rs type="person">Reij Rosello</rs>, <rs type="person">Shengyu Wang</rs>, and the two anonymous reviewers of its first draft for their insight and generosity in helping me think through the implications of the question with which this article opens.</p></div>
+			</div>			<div type="annex">
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Disclosure statement</head><p>No potential conflict of interest was reported by the author(s).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Notes on contributor</head><p>Niall Martin is an assistant professor at the University of Amsterdam. His most recent publication, co-edited with Ilios Willemars is The Replaceability Paradigm: From Dante to DeepDream (De Gruyter 2024) and together with Reij Rosello, he has previously edited a special edition on 'Disorientation' for Culture, Theory and Critique.</p></div>			</div>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<analytic>
+		<title level="a" type="main">Children&apos;s Book by British Chef Jamie Oliver Is Withdrawn After Criticism from Indigenous Australians</title>
+		<ptr target="https://www.cnn.com/2024/11/10/uk/jamie-oliver-book-withdrawn-indigenous-australians-intl-latam" />
+	</analytic>
+	<monogr>
+		<title level="j">CNN</title>
+		<imprint>
+			<date type="published" when="2024-11-11">2024. Nov 11, 2024</date>
+			<publisher>Associated Press</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<title level="a" type="main">The Surrogate Effect: Technoliberalism and Whiteness in a &apos;Post&apos; Labor Era</title>
+		<author>
+			<persName><forename type="first">Neda</forename><surname>Atanasoski</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Kalindi</forename><surname>Vora</surname></persName>
+		</author>
+		<idno type="DOI">10.28968/cftt.v4i1.29637</idno>
+		<ptr target="https://doi.org/10.28968/cftt" />
+	</analytic>
+	<monogr>
+		<title level="j">Catalyst: Feminism, Theory, Technoscience</title>
+		<imprint>
+			<biblScope unit="volume">4</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="1" to="13" />
+			<date type="published" when="2018">2018. 4i1.29637</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<monogr>
+		<author>
+			<persName><forename type="first">Neda</forename><surname>Atanasoski</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Kalindi</forename><surname>Vora</surname></persName>
+		</author>
+		<title level="m">Surrogate Humanity</title>
+		<meeting><address><addrLine>Durham</addrLine></address></meeting>
+		<imprint>
+			<publisher>Duke University Press</publisher>
+			<date type="published" when="2019">2019</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<monogr>
+		<title level="m" type="main">The Location of Culture</title>
+		<author>
+			<persName><forename type="first">Homi</forename><forename type="middle">K</forename><surname>Bhabha</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1994">1994</date>
+			<publisher>Routledge</publisher>
+			<pubPlace>Oxford</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title level="a" type="main">ChatGPT Is a Blurry JPEG of the Web</title>
+		<author>
+			<persName><forename type="first">Ted</forename><surname>Chiang</surname></persName>
+		</author>
+		<ptr target="https://www.newyorker.com/tech/annals-of-technology/chatgpt-Is-a-blurry-jpeg-of-the-web" />
+	</analytic>
+	<monogr>
+		<title level="j">The New Yorker</title>
+		<imprint>
+			<date type="published" when="2023-02-09">2023. February 9, 2023</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<monogr>
+		<title level="m" type="main">Enshittification: Why Everything Suddenly Got Worse and What to Do About It</title>
+		<author>
+			<persName><forename type="first">Cory</forename><surname>Doctrow</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2025">2025</date>
+			<publisher>MCD</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title level="a" type="main">Her Novel Became a Best Seller. The Trouble: She Didn&apos;t Write It</title>
+		<author>
+			<persName><forename type="first">Amal</forename><surname>El-Mohtar</surname></persName>
+		</author>
+		<ptr target="https://www.nytimes.com/2023/05/16/books/review/yellowface-rf-kuang.html" />
+	</analytic>
+	<monogr>
+		<title level="j">The New York Times</title>
+		<imprint>
+			<biblScope unit="page" from="18" to="30" />
+			<date type="published" when="2023-05-16">2023. May 16 2023</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title level="a" type="main">The Computational Search for Unity</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Fazi</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Beatrice</surname></persName>
+		</author>
+		<idno type="DOI">10.5840/jcp202411652</idno>
+		<ptr target="https://doi.org/10.5840/jcp202411652" />
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Continental Philosophy</title>
+		<imprint>
+			<biblScope unit="volume">5</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="31" to="56" />
+			<date type="published" when="2024">2024</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title level="a" type="main">Positionality Statements as a Function of Coloniality: Interrogating Reflexive Methodologies</title>
+		<author>
+			<persName><forename type="first">Jasmine</forename><forename type="middle">K</forename><surname>Gani</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Khan Rabea</surname></persName>
+		</author>
+		<idno type="DOI">10.1093/isq/sqae038</idno>
+		<ptr target="https://doi.org/10.1093/isq/sqae038" />
+	</analytic>
+	<monogr>
+		<title level="j">International Studies Quarterly</title>
+		<imprint>
+			<biblScope unit="volume">68</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="1" to="13" />
+			<date type="published" when="2024-06">June 2024</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<monogr>
+		<author>
+			<persName><forename type="first">Mary</forename><forename type="middle">L</forename><surname>Gray</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Siddharth</forename><surname>Suri</surname></persName>
+		</author>
+		<title level="m">Ghost Work: How to Stop Silicon Valley from Building a New Global Underclass</title>
+		<meeting><address><addrLine>Boston; Mifflin Harcourt</addrLine></address></meeting>
+		<imprint>
+			<publisher>Houghton</publisher>
+			<date type="published" when="2019">2019</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title level="a" type="main">Interpreting the Crisis</title>
+		<author>
+			<persName><forename type="first">Stuart</forename><surname>Hall</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Doreen</forename><surname>Massey</surname></persName>
+		</author>
+		<idno type="DOI">10.3898/136266210791036791</idno>
+		<ptr target="https://doi.org/10.3898/136266210791036791" />
+	</analytic>
+	<monogr>
+		<title level="j">Soundings</title>
+		<imprint>
+			<biblScope unit="volume">44</biblScope>
+			<biblScope unit="issue">44</biblScope>
+			<biblScope unit="page" from="57" to="71" />
+			<date type="published" when="2010">2010</date>
+			<pubPlace>London, England</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title level="a" type="main">Don&apos;t Ban AI from Your Writing Classroom; Require It!</title>
+		<author>
+			<persName><forename type="first">N</forename><surname>Hayles</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Katherine</surname></persName>
+		</author>
+		<idno type="DOI">10.1215/03335372-11092870</idno>
+		<ptr target="https://doi.org/10.1215/03335372-11092870" />
+	</analytic>
+	<monogr>
+		<title level="j">Poetics Today</title>
+		<imprint>
+			<biblScope unit="volume">45</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="259" to="265" />
+			<date type="published" when="2024">2024</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<title level="a" type="main">Race, Modernism, and Plagiarism: The Case of Nella Larsen&apos;s &quot;Sanctuary</title>
+		<author>
+			<persName><forename type="first">Hildegard</forename><surname>Hoeller</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">African American Review</title>
+		<imprint>
+			<biblScope unit="volume">40</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="421" to="437" />
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">America</forename><surname>Keen On</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Podcast. Episode</title>
+		<imprint>
+			<biblScope unit="volume">1827</biblScope>
+			<biblScope unit="page" from="4" to="40" />
+			<date type="published" when="2023-10-28">2023. 28 October</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">Rebecca</forename><forename type="middle">F</forename><surname>Kuang</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Yellowface</title>
+		<imprint>
+			<date type="published" when="2023">2023</date>
+			<publisher>The Borough Press</publisher>
+			<pubPlace>London</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title level="a" type="main">Introduction: Replaceability and the Politics of the Paradigm</title>
+		<author>
+			<persName><forename type="first">Niall</forename><surname>Martin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Ilios</forename><surname>Willemars</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">The Replaceability Paradigm</title>
+		<editor>
+			<persName><forename type="first">N</forename><surname>Martin</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">Ilios</forename><surname>Willemars</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Berlin</addrLine></address></meeting>
+		<imprint>
+			<publisher>De Gruyter</publisher>
+			<date type="published" when="2024">2024</date>
+			<biblScope unit="page" from="13" to="27" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">Karl</forename><surname>Marx</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Martin</forename><surname>Nicolaus</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1981">1981</date>
+			<publisher>Grundrisse. Harmondsworth: Penguin Books</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<monogr>
+		<title level="m" type="main">Postmodernist Fiction</title>
+		<author>
+			<persName><forename type="first">Brian</forename><surname>Mchale</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1987">1987</date>
+			<publisher>Methuen</publisher>
+			<pubPlace>New York</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<monogr>
+		<title level="m" type="main">The Eye of the Master: A Social History of Artificial Intelligence</title>
+		<author>
+			<persName><forename type="first">Matteo</forename><surname>Pasquinelli</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2023">2023</date>
+			<publisher>Verso</publisher>
+			<pubPlace>London</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<analytic>
+		<title level="a" type="main">Approriate(D) Discourse: Plagiarism and Decolonization</title>
+		<author>
+			<persName><forename type="first">Marilyn</forename><surname>Randall</surname></persName>
+		</author>
+		<idno type="DOI">10.2307/469202</idno>
+		<ptr target="https://doi.org/10.2307/469202" />
+	</analytic>
+	<monogr>
+		<title level="j">New Literary History</title>
+		<imprint>
+			<biblScope unit="volume">22</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="525" to="541" />
+			<date type="published" when="1991">1991</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<monogr>
+		<title level="m" type="main">Drowning in Slop</title>
+		<author>
+			<persName><forename type="first">Max</forename><surname>Read</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2024-10-23">2024. 23 Sept -Oct 06</date>
+			<biblScope unit="volume">2024</biblScope>
+			<biblScope unit="page" from="28" to="33" />
+			<pubPlace>New York</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">Cedric</forename><surname>Robinson</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+	<note>rd ed. Harmondsworth: Penguin</note>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<monogr>
+		<title level="m" type="main">Forthcoming. Beyala Ajar Pour Niall</title>
+		<author>
+			<persName><forename type="first">Reij</forename><surname>Rosello</surname></persName>
+		</author>
+		<imprint/>
+	</monogr>
+	<note>MS in the possession of the author</note>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<monogr>
+		<title level="m" type="main">It&apos;s Destroyed Me Completely&apos;: Kenyan Moderators Decry Toll of Training of AI Models</title>
+		<author>
+			<persName><forename type="first">Niamh</forename><surname>Rowe</surname></persName>
+		</author>
+		<ptr target="https://www.theguardian.com/technology/2023/aug/02/ai-chatbot-training-human-toll-content-moderator-meta-openai" />
+		<imprint>
+			<date type="published" when="2023-08-02">2023. August 2 2023</date>
+		</imprint>
+	</monogr>
+	<note>The Guardian</note>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<monogr>
+		<title level="m" type="main">The Parasite</title>
+		<author>
+			<persName><forename type="first">Michel</forename><forename type="middle">;</forename><surname>Serres</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">R</forename><surname>Schehr</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2007">2007</date>
+			<publisher>University of Minnesota Press</publisher>
+			<pubPlace>Minneapolis</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">Nick</forename><surname>Srnicek</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Platform Capitalism. Cambridge</title>
+		<imprint>
+			<date type="published" when="2017">2017</date>
+			<publisher>Polity</publisher>
+			<pubPlace>Malden</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<analytic>
+		<title level="a" type="main">Unparalleled Catastrophe for Our Species? Or, to Give Humanness a Different Future: Conversations</title>
+		<author>
+			<persName><forename type="first">Sylvia</forename><surname>Wynter</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Katherine</forename><surname>Mckittrick</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Sylvia Wynter: On Being Human as Prax.is</title>
+		<editor>
+			<persName><forename type="first">Katherine</forename><surname>Mckittrick</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Durham, NC</addrLine></address></meeting>
+		<imprint>
+			<publisher>Duke University Press</publisher>
+			<date type="published" when="2015">2015</date>
+			<biblScope unit="page" from="9" to="89" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

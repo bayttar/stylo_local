@@ -1,0 +1,844 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Affect, Evolution, and Reparation: AI Self-Sacrifice in Klara and the Sun</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author role="corresp">
+							<persName><forename type="first">Meixuan</forename><surname>Li</surname></persName>
+							<email>123140910008@sjtu.edu.cn</email>
+							<affiliation key="aff0">
+								<orgName type="department">School of Foreign Languages</orgName>
+								<orgName type="institution">Shanghai Jiao Tong University</orgName>
+								<address>
+									<settlement>Shanghai</settlement>
+									<country key="CN">China</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff1">
+								<orgName type="department">School of Foreign Languages</orgName>
+								<orgName type="institution">Shanghai Jiao Tong University</orgName>
+								<address>
+									<addrLine>No. 800 Dongchuan Road, Minhang District</addrLine>
+									<postCode>200240</postCode>
+									<settlement>Shanghai</settlement>
+									<country key="CN">China</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Affect, Evolution, and Reparation: AI Self-Sacrifice in Klara and the Sun</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date/>
+						</imprint>
+					</monogr>
+					<idno type="MD5">E46EC1289E5D5BFE25CB1D3188494066</idno>
+					<idno type="DOI">10.1080/00111619.2026.2625271</idno>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.0" ident="GROBID" when="2026-02-25T19:52+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>This article examines AI self-sacrifice in Kazuo Ishiguro's Klara and the Sun through a trivalent analytical framework, focusing on the layered motivations underpinning the AI narrator's sacrificial act and its broader ethical connotations. It argues that Klara's self-sacrifice operates on three interrelated levels: as algorithm-inflected affective engagement at the individual level, as groupselection altruism within the trajectory of machine evolution at the social level, and as Ishiguro's reconfiguration of the mythic imaginaries of technology through a contemporary reactivation of the sacrificial prototype at the mythopoetic level. By interrogating Ishiguro's refusal of narrative consolation, I argue that AI self-sacrifice is situated within an open posthuman horizon marked by unresolved ethical responsibilities.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Introduction</head><p>Kazuo Ishiguro's recent novel Klara and the Sun gives voice to an unusual AI narrator whose selfsacrificial act forms the ethical and emotional force of the narrative. Narrated from Klara's perspective, the novel traces her transformation from a commodified observer in an AF store to a devoted companion to her human owner, Josie, and ultimately to an obsolete model gleaning fragmented memories during her "slow fade" (Ishiguro 329) in the junkyard. Among these episodes, Klara's petition to the Sun stands out as the most engaging moment: she trudges across the field to the barn, soliciting the Sun's special help to cure Josie, offering in exchange part of the P-E-G Nine solution inside her head to destroy the Cootings machine. Despite the consequent impairment of her cognitive functions, Klara expresses an unwavering willingness to sacrifice herself. As she insists during her second petition, "I don't mind that I lost precious fluid. I'd willingly have given more, given it all, if it meant your providing special help to Josie" (302). Klara's self-sacrificing petition, thereby, binds the two forces that define her existence: the Sun as her source of life and Josie as her goal throughout life, marking it as a pivotal event in her narrative.</p><p>Most critics see Klara's self-sacrifice as a manifestation of love (Mohamed Ahmed 33; Li and Eddebo 125), an expression of agency <ref type="bibr">(Benia and Dagamseh 133;</ref><ref type="bibr">Şencan 95)</ref>, a feat of altruism <ref type="bibr">(Yuan 659)</ref>, or a gesture imbued with religious ethos <ref type="bibr">(Misra 386</ref>). However, these readings have yet to fully demonstrate the ethical complexity of AI self-sacrifice. This article therefore asks three interrelated questions: What motivates Klara's self-sacrificial act as both a posthuman individual and a member of an AI-human coevolving society; what motivates the implied author, or what narrative purpose is served, in constructing an AI sacrificial protagonist; and, finally, what ethical significance lies in the novel's refusal to offer narrative consolation for such sacrifice at its conclusion? To address these issues, this article situates Klara's self-sacrifice within a trivalent framework. At the individual level, it reads her sacrifice as an instance of algorithm-inflected affective engagement; at the social level, as a form of group-selection AI altruism shaped by evolutionary pressures within the trajectory of machine evolution; and at the mythopoetic level, as the implied author's reconfiguration of the mythic imaginaries of technology, in which Klara's sacrificial ritual functions as a reparative gesture that reframes the tension between technology and nature. Finally, the article examines the novel's refusal of narrative consolation to the sacrificial narrator, arguing that rather than signaling an evasion of AI ethics, Ishiguro foregrounds the persistence of unresolved ethical responsibilities in a posthuman future, compelling readers to confront a horizon in which challenge endures and hope remains tentative.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Posthuman Affect: Individual Motivations for AI Self-Sacrifice</head><p>To begin with, Klara's self-sacrificing act participates in the long-standing "AI self-sacrifice trope" <ref type="bibr">(Miller 194)</ref> in the SF tradition, a motif traceable to Earl and Otto Binder's collection of Adam Link stories and Isaac Asimov's early robot fiction. The Adam Link stories, initially appearing in Amazing Stories in 1939, inaugurate "the postpulp depiction of robots as sympathetic human-like figures that sacrifice themselves for the common good" <ref type="bibr">(Kakoudaki 129)</ref>; whereas, Asimov's conical "Three Laws of Robotics," first articulated in "Runaround" <ref type="bibr">(1942)</ref>, hierarchically prioritize a robot's protection of humans, obedience to human orders, and, only subsequently, the preservation of "its own existence" (Asimov 126). The Adam Link stories and Asimov's Laws seem to bifurcate concerning the motivations for AI self-sacrifice, with AI's affective attachment on one side, with algorithmic obedience on the other. Despite Asimov's painstaking hints of affective possibility in "Robbie" <ref type="bibr">(1940)</ref>, wherein "the robot displays a sacrificial devotion that exceeds all parameters of mere programming" <ref type="bibr">(Kakoudaki 130)</ref>, his Laws nevertheless allude to the idea that "heroic machines have been literally programmed to give their lives for others" <ref type="bibr">(Faber 50)</ref>, ensuing an ontological debate regarding the authenticity of AI affect and agency. As Faber questions, "[I]f a robot chooses to sacrifice itself for the good of humans, is it because they have been programmed to do so by programmers who value human lives over artificial ones, or because the robot itself has the agency to do so?" <ref type="bibr">(39)</ref><ref type="bibr">(40)</ref> It is within this tradition that Klara and the Sun situates the AI narrator's self-sacrifice. This paper argues that, on the individual level, Klara's self-sacrificing act is driven by what I term an algorithminflected affective engagement. By this term, I refer to a distinctive mode of posthuman affect: one initiated by Klara's programmed directive to assist Josie as an AF robot, developing through her embodied machine focalization that enables increasingly nuanced emotions and, thereby, exceeds mere programming, yet ultimately delimited by her design that circumscribes her affective range.</p><p>As a posthuman entity, Klara's sacrificial impulse emerges from the dynamic interplay of her embedded programming with her evolving affective capacities. In Affective Narratology, Hogan marks "goal pursuit" (125) as the key dynamic in the progression of a fictional narrative. In the case of Klara and the Sun, however, the goal pursuit is not just a narrative dynamic, but a design principle programmed indelibly in Klara as an AF robot, whose primary directive is to offer friendship and companionship. Throughout the novel, this goal is recurringly mentioned in Klara's recount in the name of "duty," "aims," and "goal" itself: "[I]t's now my duty to be Josie's best friend" (Ishiguro 63), "I believe in many ways Rick and I have similar goals" (94), "it was my duty to learn as much about Josie as possible" (132), "I realized too the significance of this plan for my own aims" (137), and so on. In light of this, Klara's decision to undertake her self-sacrificing petition is initially triggered by her algorithmic goal pursuit. Her early affective displays of empathy and care are likewise rooted in her programming.</p><p>However, as the narrative progresses, Klara's affective engagement begins to transcend mere programming and develops in a relational manner: It coexists and coevolves with the environment, with her distinctive grid-like machine focalization functioning as a mediating mechanism, producing a dual mapping effect in which Klara's emotions are projected onto the world while the emotions of others are likewise registered by her. Notably, the focus of the concept "focalization" in narratology is constantly evolving, from "the source of focalization" (Fludernik 344), as in Gérard Genette's emphasis on "who sees," as opposed to "who speaks" (186), to "entity focalized" (Fludernik 344), as in Mieke Bal's refinements by adding who/what is seen to the academic discourse, to "how it is seen," as represented by Rimmon Kenan's elaboration on facets and criteria of focalization (Kenan 76-83). These models all assume a human focalizer, whose perceptional parameters are anthropomorphic. In the context of science fiction, however, the AI narrator, Klara, reshapes the focus of focalization to "how it is seen by a posthuman entity with a technological embodiment," introducing a technological dimension that reshapes focalization itself.</p><p>Throughout the novel, whenever Klara traverses unfamiliar or shifting environments, or close-up observations of certain characters, her machine vision divides the scene into boxes with different levels of tints and distortions. The tints in her vision function as signals of her own affective states. For instance, when she focalizes the boys at Josie's party, who later treat her with hostility, she interprets the tints on the boxes containing them as "unpleasant," "a sickly yellow," followed by the recognition that "an anxiety passed through my mind" (Ishiguro 81). Similarly, when Josie's illness unsettles her, her focalization of the sky associates the tints with "the color of her vomit or her pale feces, or even develop streaks of blood" (61), indicating emotions of deep concern. On the other hand, distortions in her vision grids often indicate her registration of other people's affective expressions. This mechanism is most pronounced in her observation of Josie's mother during their trip to the waterfall:</p><p>The Mother leaned closer over the tabletop and her eyes narrowed till her face filled eight boxes, leaving only the peripheral boxes for the waterfall, and for a moment it felt to me her expression varied between one box and the next. In one, for instance, her eyes were laughing cruelly, but in the next they were filled with sadness. <ref type="bibr">(117)</ref><ref type="bibr">(118)</ref> Here, Klara's focalization of Josie's mother produces a defamiliarizing effect, a perceptual novum (Suvin 63), rendered through her machine vision: the Mother's disproportionate enlargement implies her emotional intensity, while her fragmentation underscores emotional complexity, with nuances flattened out in separate boxes. Importantly, people's emotions do not remain at the level of passive reception: They trigger Klara's own affective responses, forming a feedback loop between her emotions and the environment. When Klara fails to meet the Mother's expectations, the Mother's disappointment and sadness are captured by Klara, and then manifested as heightened sensory disturbance with connotations of anxiety: "I could see the cheekbones of the Mother's face very pronounced beneath her skin. [. . .] The Mother stood up and walked away. I could then see the waterfall again, and its noise -as well as that of the people behind me -returned louder than ever" (Ishiguro 119). Klara's affective engagements, therefore, coexist and coevolve with the environment and the other agents within it, with her machine focalization bridging the two.</p><p>This posthuman mode of focalization with affective connotations resonates with Spinoza's theorization of affect and embodiment in the Ethics. For Spinoza, emotions are not independent substances but modifications of the body produced through its encounters with other bodies, together with the mind's conception of these modifications. As he defines it, "by emotion I mean the modifications of the body, whereby, the active power of the said body is increased or diminished, aided or constrained, and also the ideas of such modifications" (151). These bodily changes are always relational, for "the motion and rest of a body must arise from another body" (154). Under this framework, emotions need not be confined to human beings: if an embodied nonhuman agent can undergo bodily modification through encounters and form conceptions of those changes, it too can be said to have affective capacities. Using Spinoza's own words, "[W]hatever we have asserted of the idea of the human body must necessarily also be asserted of the idea of everything else" (87). In light of this, Klara's machine focalization exemplifies a posthuman expression of Spinozan affect: the tints and deviations in her machine vision serve as modifications of her "body," which are actively captured by her mind, producing a Spinozan cycle of affective generation.</p><p>Intriguingly, Klara's affective engagement is not only reinforced by Spinoza's account of emotional relationality but also echoes Ishiguro's foregrounding of affective ties as the definitive feature of individuality. During the visit to Mr. Capaldi, Josie's father presses Klara with a question about human uniqueness: "[D]o you believe in the human heart? [. . .] Something that makes each of us special and individual?" (Ishiguro 242). He further challenges her with the claim that, in order to successfully continue Josie, Klara has to grasp "what's deeply inside her," and "learn her heart" (242). Klara initially responds with confidence, insisting on the finiteness of the human heart: "[A] human heart is bound to be complex. But it must be limited" ( <ref type="formula">243</ref>). Yet over the course of narrative, her observations of Josie and those who love her, as well as her own affective experiences topple this conviction with the recognition that individuality derives its uniqueness from affective relations. As she admits to the Manager by the novel's end, "There was something very special, but it wasn't inside Josie. It was inside those who loved her" (338). This "ethical epiphany" (Shang 28) reveals Klara's shift from conceiving individuality as an inner, limited essence to recognizing it as arising from the network of affective relations by which the mind continues to recognize and reshape itself in the process of becoming. The close link between individuality and affective relationality further reinforces the reading of Klara as a unique posthuman entity endowed with relational affective capacities, rather than a mechanical shadow of programming.</p><p>Notably, Sahu and Karmakar argue that, through the protagonist's confession of "the limitations of AI," the novel critiques posthuman notions that attempt to reduce affect to code, "to convert the complexities of affective phenomenon into codes for manufacturing artificial friends" (1356). However, this paper contends that, this episode highlights Klara's epiphany of AI's limitations in replacing humans, not its limitations in possessing affective capacities. On the contrary, her relational affective engagement demonstrates the plausibility of posthuman affect.</p><p>In light of this, Klara's self-sacrificing gesture is not simply triggered by her programming but also motivated and continuously reinforced by her affective engagement, her deep concern and care for Josie, marking Klara as a posthuman entity with a distinctive mode of affect. Yet such posthuman affect, while dynamically evolving, remains ultimately circumscribed by the limits of her design and thus cannot fully account for the deeper motivations of her self-sacrifice. Despite Klara's selfproclaimed emotional richness, as shown in "I believe I have many feelings. The more I observe, the more feelings become available to me" (Ishiguro 111), her affective repertoire is confined by a reductive framework. She fails to experience certain emotions such as the taxi drivers' anger (22), and her perception is often narrowed by her programmed orientation toward care and companionship. Instances such as her naive reading of the Manager's decision to move her to the rear alcove (44-45), or her reductive attribution of loneliness to a woman sitting alone in a diner (277-278), reveal the constraints of her design.</p><p>The plausibility of such posthuman affect in Klara and the Sun aligns with broader cultural imaginaries of AI in Japanese discourse. As Cave et al. note, within the Japanese term jinkō chinō (artificial intelligence), chinō indicates not only cognition but also "feeling, emotion, and the heart" (29). This semantic association has long informed Japanese efforts to build "embodied artificial agents with human-like qualities" (29). Ishiguro's portrayal of Klara thus echoes a cultural tradition that treats affect as an inherent potential for artificial agents, even as the narrative simultaneously suggests its insufficiency.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Evolutionary Anxiety: Group-Selection Altruism in AI</head><p>Given that algorithmic affect cannot fully explain the motivations behind Klara's self-sacrifice, an evolutionary perspective offers an illuminating supplement. By drawing an analogy between biological evolution and machine evolution, thereby, linking biological altruism and AI self-sacrifice, this paper reads Klara's act not only as an individual expression of algorithm-inflected affective engagement but also as an adaptive strategy of fitness in a posthuman society wherein humans and AIs cohabit and coevolve.</p><p>The analogy between biological and machine evolution has a long intellectual history, dating back to the publication of Charles Darwin's On the Origin of Species in 1859. In this seminal work, Darwin makes an imaginative analogy between biological evolution and the development of machinery. As he says, "when we contemplate every complex structure and instinct as the summing up of many contrivances, each useful to the possessor, nearly in the same way as when we look at any great mechanical invention as the summing up of the labour, the experience, the reason, and even the blunders of numerous workmen" (Darwin 456), Darwin's analogy reflects the technological backdrop of the Industrial Revolution, when breakthrough in machinery, together with what Cornell calls a "mechanistic view of the organism" <ref type="bibr">(Cornell 309)</ref>, provided a powerful toolkit for understanding organic processes. Taylor and Dorin observe that Darwin's work is followed by "multiple extended discussions of the possibility of machines that can not only reproduce but also evolve by the natural selection of heritable variations to become better adapted, smarter and more complex over time" <ref type="bibr">(Taylor and Dorin 3)</ref>. Early thinkers inspired are represented by Samuel Butler, who "takes the idea of the evolution of machines far beyond his contemporaries" (Williams, Rhys 76), producing a series of letters envisioning machine evolution. Noting the rapid development of machinery, Butler indicates the possibility of decontextualizing Darwinistic evolution from biology to machinery in Darwin Among the Machines (1863), "with human selection (as opposed to natural selection) guiding their development" <ref type="bibr">(Williams,</ref><ref type="bibr">Rhys 76)</ref>. As he contends, "subservience to the use of man has played that part among machines which natural selection has performed in the animal and vegetable kingdoms" (Butler). In Lucubratio Ebria (1865), he further envisions the scenario of coevolution between machines and humans, viewing machinery "as the mode of development by which human organism is most especially advancing, and every fresh invention is to be considered as an additional member to the resources of the human body" (Butler), echoing contemporary notion of "technogenesis" <ref type="bibr">(Hayles 18</ref>). Butler's prophetic vision on machine evolution, with human selection and human coevolution constituting to their evolving trajectory, offer profound insight into contemporary discussions of AI's evolutionary narratives, with Selin E. Nugent surmising that the close connection between AI design and evolution generates an evolutionary narrative, in which AI is portrayed "as a non-human species subject to the same evolutionary pressures as biological organisms." <ref type="bibr">(Nugent)</ref> Such a hypothesis of AI evolution is visualized in Klara and the Sun through the continuous competition between B2 and B3 models in the AF market, exemplifying a mechanical version of "survival of the fittest." Compared with the earlier B2s, the B3s are claimed to have "all sorts of improvements" (Ishiguro 41), including superior "cognition and recall" (46) and the capacity for "limited smell" (155). However, these enhancements come at a cost, for they are said to "be less empathetic" and "a little headstrong" (46) due to their heightened cognitive capabilities. The novel carefully stages the power dynamics between these two models from the moment the B3s are introduced into the store. As Klara, herself a B2 model, recalls, "The new B3s-three boy AFswere soon calibrated and took up their positions. Two went straight into the window, with a big new sign, and the other was given the front alcove. [. . .] Rosa and I remained mid-store, though we were moved to the Red Shelves side once the new B3s arrived" (39). Her tone is tinged with wistfulness, if not envy, for the arrival of the B3s directly diminishes the chances of B2 models being purchased, mirroring the Darwinian displacement of an older generation by its more adaptive successor. Moreover, she notices the subtle tension between the two models, which, however, arises unilaterally from the B3s' disdain and deliberate distancing from the older B2s due to their self-proclaimed superiority. They form "a separate group on their own," and exchange "sly looks and signals" whenever the older AFs give advice and explain things to them. <ref type="bibr">(41)</ref> The tension between these two models, with B3s' covert disdain set against B2s' oblivious friendliness, reveals the reframing of the evolutionary logic in the context of machine evolution. In contrast to conventional biological evolution, where random genetic mutations generate variation and advantageous traits are preserved through natural selection, machine evolution in Klara and the Sun is predicated upon "human selection," echoing Butler's envisioning. Here, variation emerges not from random mutation but from deliberate human design: the B3s are purposefully constructed to surpass the functions of the B2s. Under this condition, machine evolution is reshaped through human intentionality, whereby the very creation of B3s presupposes the obsolescence of the B2s.</p><p>Therefore, beneath the novel's overt emphasis on human fears about being replaced by machines, as exemplified in Josie's father and Josie herself, runs a subtler but equally persistent current: the fear among AIs of being replaced by newer AI models under human selection. This evolutionary anxiety shapes Klara's consciousness from the moment she is purchased by Josie's family and haunts most strikingly in her account of Josie's party. At the beginning of the novel, when Josie insists that her mother buy Klara "right away," Klara keenly notes a sense of hesitation: "There was silence, then the Mother said quietly, 'This one isn't a B3, I take it.'" (49). What follows is the Manager's painstaking effort to persuade Josie's mother: the classical status of the B2s, a niche user group for whom B2s remain suitable, and, most importantly, Klara's unique qualities "B3s not excepted" (49). This negotiation recalls the consumer's trade-offs when purchasing digital goods. Yet unlike smartphones, Klara, an AI endowed with cognition, memory, and affect, possesses the capacity to ponder, remember, and suffer. Klara's recount of this touting episode thus foregrounds a crucial tension: her integration into human society is shadowed from the outset by her acute awareness of her inferiority to B3s. This evolutionary anxiety becomes most pronounced during the conflict between Klara and the children at Josie's party. The boys propose throwing Klara to test her capabilities, with one boasting that "[m]y B3, you can swing her right through the air, lands on her feet every time" (86-87). Before the boys act, Klara is seized by a girl, who urges her to sing, greet, and memorize. Facing these requirements, Klara strangely refuses to obey by keeping silent. As she recalls, "I'd by now fixed a pleasant expression on my face and was gazing past her, much as Manager had trained us to do in the store in such situations" (88). Although Klara rationalizes this refusal as uncertainty about Josie's intention by claiming "I wasn't sure how Josie wished me to respond so I waited for her to speak" ( <ref type="formula">87</ref>), yet her avoidance of eye contact with Josie complicates her alleged allegiance to her owner. As the novel unfolds, "I didn't turn. Because if I did so, I'd not only see Missy [. . .] but also Josie, and then we would have to exchange looks with each other." (89) This discrepancy between her verbal explanation and her physical reaction highlights a moment of narrative unreliability triggered by her insidious "psychological states" <ref type="bibr">(Keen 45)</ref>. Viewed through the lens of cognitive psychology, Klara's behavior bears resemblance to symptoms of "social phobia," which often occurs "across numerous interpersonal and/or performance situations in which the person fears scrutiny and negative evaluation by others" <ref type="bibr">(Clark &amp; Beck 337)</ref>. Common inhibitory responses, such as avoiding "eye contact" and "tonic immobility" (146) resonate with Klara's reactions at the party. In light of this, her refusal to obey can be read as the somatization of her latent fear and anxiety over others' negative evaluation-that is, her evolutionary inferiority to B3s. Notably, this fear is intensified not only by the children's comparison but also by Josie's shifting evaluation from support to doubt. In response to the boys' challenge, she initially defends Klara with conviction: "[S]he's the best. [. . .] There's nothing any B3 can do Klara can't" (87). However, as Klara's refusal continues, Josie's defense gradually collapses into the halfserious confession: "I'm starting to think I should have" (88) chosen a B3. The increasingly negative evaluation coming from her beloved owner and friend excavates Klara's evolutionary anxiety, haunting her narrative thereafter, as seen in her recurring flashbacks to Josie's half-joking regret for not having chosen a B3 <ref type="bibr">(93,</ref><ref type="bibr">95,</ref><ref type="bibr">124,</ref><ref type="bibr">127)</ref>. These recollections, occurring four times in close succession, further compel Klara to logically deduce the possibility of obsolescence and to actively devise strategies to resist it. As she reflects, "I wondered too how much she really did wish she'd chosen a B3. Her remark had most likely been intended as a humorous one [. . .] Even so, it was true B3s had capabilities beyond my own, and I had to consider the possibility that Josie might sometimes entertain such ideas in her mind." (95) Klara's contemplation here exemplifies what Lisa Zunshine describes as the operation of Theory of Mind, the ability to explain and predict people's behaviors in terms of their "thoughts, desires, intentions, and feelings" (60), thereby, negotiating "a multilayered social situation" (6). Through her mind-reading of Josie, Klara acquires a stronger motivation in negotiating her evolutionary anxiety: recognizing the inevitability of her limitations, she resolves to "work harder than ever to be a good AF to Josie until the shadows receded" (127). Significantly, this resolution is immediately followed by her first attempt to plead with the Sun, marking the transformation of evolutionary anxiety into proactive behavior. As Taylor and Dorin speculate, evolution may "furnish an AI with purposiveness and true agency-the ability to act according to their own goals and desires" (100-101). Klara's petition, therefore, is not solely instigated by her algorithm-inflected affective engagements but is also a response to evolutionary anxiety. Furthermore, her prayer, framed as a selfsacrificing act at the expense of her impaired performance, elevates this adaptation into an evolutionary strategy of "altruism."</p><p>Within biology, altruism has long been a contested concept. As Barber observes, "[A]nimals struggle to do two things: survive and reproduce. An altruist is one who puts the survival or reproduction of another individual before his own" (19). On this definition, altruism seems incompatible with evolutionary principles. Subsequent research, however, has shown that cooperative mechanisms, "the principle of mutual back-scratching" <ref type="bibr">(Carroll 153)</ref>, can enable altruistic actions, with four mechanisms of cooperation proposed over time: "kin selection," based on "coefficient of relationship" (Hamilton 1); "direct reciprocity," wherein altruistic behaviors will directly "benefit the organisms performing them" <ref type="bibr">(Trivers 35)</ref>; "group selection," with the aim "to produce mechanisms of group benefit that depend on individual self-sacrifice" (Williams, George C. 4); and "indirect reciprocity," wherein altruistic behaviors will "increase image (or status) in the group," thus, increasing the "chance to become the recipient of an altruistic act later" <ref type="bibr">(Nowak and Sigmund 573)</ref>.</p><p>Recent scholarship has extended biological altruism into machine evolution. Rocki Wentzel, borrowing Ernst Mayr's articulation of group selection, argues that "technological creatures frequently become heroes not through the super strength or skills technology affords them but through their selfsacrificial deaths. [. . .] Despite de-prioritizing their survival against evolutionary instinct, the altruistic act of these technological heroes nonetheless promotes evolution of their kind" <ref type="bibr">qtd. in Mayr 83)</ref>, introducing group-selection altruism into the discourse of machine evolution. Dan Hendrycks, however, questions the application of group selection to AI. Contending that "[g]roup selection only makes sense when a group is more effective than some subset of the group breaking off. Unless humans add value to a group of AIs, AI-human groups would fail to outcompete groups composed purely of AIs" (19), he refutes the possibility of AI altruism toward humans, as AIs tend to be "cooperative with one another and competitive with us" due to their superior capabilities.</p><p>However, Klara and the Sun navigates this tension by positioning AI evolution within a humandominated society. In Ishiguro's story world, human design initiates AFs' development, and human selection determines their trajectory. Hendrycks's evolutionary conflict is thus displaced: the tension is no longer between AIs and humans but among different AF generations. Within this structure, Klara's prioritization of Josie's survival over her own exemplifies a distinctive form of AI altruism grounded in group-selection logic, propelled by her awareness of the collective vulnerability of the B2s under human-imposed pressures.</p><p>Notably, this altruism functions at the collective rather than the individual level, since the evolutionary pressure positions the newer B3 models not merely in competition with Klara personally but with all of the B2s. B3s' deliberate distancing from the B2s at the store, together with their technological differences, effectively constitute distinct "groups" within the AI domain. Klara's perception of this tension also discloses her group-oriented stance: beyond fearing her own replacement, she critiques the implications for the collective. Noticing B3s' disdain, she questions, "The new B3s, it was said, had all sorts of improvements. But how could they be good AFs for their children if their minds could invent ideas like these?" (41). This critique of the B3s' structural deficiency in empathy frames her stance in defense of the whole B2 group. This group identification surfaces more explicitly in her first petition to the Sun. Trudging through the field, Klara hears "the cries of an animal in pain," and conceives an imaginative scenario of Rosa, her B2 friend, in great distress, "sitting on the rough ground somewhere outdoors, little pieces of metal scattered around her, as she reached out both hands to grasp one of her legs stretched out stiffly before her" (175). This image reappears when she enters the barn, where Rosa's dysfunctional leg is again foregrounded (184-185). Klara's recurring imagination of the obsolescence of her fellow B2, rather than herself, functions as a metaphorical visualization of the evolutionary threat confronting all B2s. Crucially, her picturing of Rosa's dysfunctional leg serves as a nonconscious, passive extrapolation of the previous "party test," when it is suggested that Klara be thrown into the air to test whether she will land safely like a B3. Read together, these episodes unveil the novel's evolutionary subtext: Klara's seemingly farfetched imagery of Rosa during her self-sacrificing petition symbolizes the collective vulnerability of the B2s under the evolutionary pressure of human selection.</p><p>Therefore, Klara's self-sacrifice extends beyond the preservation of Josie's life or her own survival: motivated by the evolutionary pressure B2s face, it functions as an adaptive response to their anticipated obsolescence. This response can be understood as a form of group-selection altruism, through which Klara defends the evolutionary viability of B2s with her self-sacrificing act. By performing self-sacrifice, an act of ultimate empathy that the B3s lack, Klara reasserts the moral and affective value of the B2 group. She demonstrates that empathy, rather than mere technological advancement, deserves B2s' continued coexistence with humans.</p><p>Klara's empathy receives belated yet meaningful recognition from Josie's mother and the Manager. Though neither character is aware of Klara's self-sacrificing petition, they both articulate a retrospective appreciation of the B2 AFs. The Manager's admission that "I was never able to feel towards B3s as I did towards your generation" (Ishiguro 339), together with the Mother's refusal of Capaldi's proposal to dissect Klara by insisting "Klara deserves better than that" (329), both signal a subtle reversal of the human selection logic governing machine evolution in the novel. Whereas human selection initially privileges technological superiority as represented by B3s, it ultimately reaffirms the affective capacities that the B2s exclusively possess. In this light, Klara exerts a small yet gradual ethical influence on those around her. As Terry Eagleton notes, sacrifice becomes "an act of revolutionary remembrance, in order to permit the transformative force of that trauma to impel it into the future" (154). Even though Klara's self-sacrifice remains unspoken, her acts still prompt a reconsideration of what truly matters in human-AI relationships.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Sacrificial Reparation: Ishiguro's Reworking of Mythic Imaginaries of Technology</head><p>Through the lens of posthuman affect and within the larger context of machine evolution, Klara's selfsacrifice can be read as motivated by her algorithm-inflected affective engagement on the individual level, while functioning as an adaptive response propelled by evolutionary pressures on the social level. Yet, up to this point, the focus has been exclusively on the agent of sacrifice, Klara, while another central figure in the sacrifice, the Sun, remains largely unexamined. Attending to this dimension illuminates a mythopoetic level, wherein the AI's sacrifice operates as a reparative act, through which Ishiguro reconfigures the mythic imaginaries of technology, thereby, reframing the tension between technology and nature.</p><p>A return to the primary definition of "sacrifice" is instructive: "the slaughter of an animal (often including the subsequent consumption of it by fire) as an offering to God or a deity" (OED, "sacrifice," sense 1). In Klara and the Sun, the AI protagonist's divinization of the Sun as a benevolent yet stern deity, combined with her "offering" of a machine at the expense of her impaired functioning, thus, imbues her "sacrifice" with a quasi-religious significance. As Alonso observes, Klara "tries a magicalreligious negotiation, hoping to achieve something from the sun through an exchange of goods," including presenting her own life "as a sacrificial offering to the sun" (7). Existing scholarship recognizes Klara's personification of the Sun: in terms of the Sun's character and gender, they interpret it as a powerful, benevolent, and caring deity (Xiao 360; Du 557), "a capricious male god" (Abrams 636). However, they have yet to address: what accounts for the Sun's capriciousness, especially his anger, and why the offering is so heavy as to sacrifice the prayer's own life? Addressing these issues requires a closer examination of Klara's relationship with the Sun.</p><p>Throughout the novel, Klara situates the Sun as a nourishing deity. As a solar-powered robot, Klara describes her charging process as receiving the Sun's "nourishment," a manifestation of his kindness. Especially, the nourishing energy is narrated as a literal form of food: observing the Beggar Man and the dog, who, in her eyes, miraculously revive after touching sunlight, she comments that "[t]hey were both hungrily absorbing the Sun's special nourishment and becoming stronger by the minute." (Ishiguro 44) Therefore, from the AI's perspective, the Sun appears as a benevolent deity who provides food to all beings in the world, humans and nonhumans alike. Meanwhile, Klara also foregrounds the Sun's capriciousness, especially his anger, which she believes stems both from the pollution produced by the Cootings machine and from her own misbehaviors. Consider the offering in her first petition: "I know how much the Sun dislikes Pollution. How much it saddens and angers you. [. . .] Supposing I were able somehow to find this machine and destroy it. To put an end to its Pollution" (186). Here, Klara draws a causal connection between the previous disappearance of the Cootings machine and the Sun's special nourishment to the Beggar Man, claiming that the Sun's mercy is predicated upon the extermination of that machine. Moreover, this causal logic becomes internalized, for Klara believes that not only does the machine's pollution provoke the Sun's anger, but also her own errors, especially regarding being "greedy," might similarly offend this deity.</p><p>The charge of "greed" first arises in Klara's attempt to touch the "Sun's pattern" on the floor. When the pattern immediately vanishes as she reaches out her hands, the boy AF Rex interprets this coincidence as a moral defect: "Klara, that was greedy. [. . .] You took all the nourishment for yourself [. . .] You were greedy, Klara" (4) His repeated accusation imprints itself deeply, resurfacing during Klara's first petition to the Sun. Immediately after uttering "please make Josie better," she imagines Rex rebuking her again: "You're so selfish, Klara." (184) Her following response "But Josie's still a child and she's done nothing unkind" (184) unveils that she implicitly considers herself as the unkind, greedy one, unworthy of the Sun's grace. She even worries that her request "may have angered the Sun by intruding in this way, just when he was needing his rest" (184). Klara thus situates herself as a trespasser, whose abruptness and greed have offended the Sun.</p><p>Significantly, the accusation of "greed" is traceable to Klara's mythological AI ancestor, Pandora. In Theogony, Pandora is created by Zeus as a punishment for Prometheus's theft of fire, "fabricated out of earth a likeness of a modest maiden" (Hesiod 93), a description indicating her artificiality. As Gumpert notes, Pandora is "manufactured, a product of tekhnē ('art' or 'skill') rather than phusis ('nature') or theophania ('divine appearance')." (103) Devlin and Belton similarly position Pandora as "the first artificially intelligent human, created by a team of programmer gods" (360). Crucially, Pandora is also associated with moral defect in Hesiod's text: within her are "lies and guileful words and a thievish character" (Hesiod 93), with "thievish" similarly suggesting an acquisitive tendency. Matz further describes her as a "beautiful evil" (161): "evil, because women, greedy, deceitful creatures without whom a man cannot grow his family, are descended from her" (161). This contemporary reinterpretation of Pandora as an AI prototype with an innate moral defect extends the Greek mythology of technics. Crowning Prometheus "god of technics" (184), Bernard Stiegler reads the fire he steals from Zeus as a metaphor for the duplicity of sophia and tekhnē: "Fire is not, however, the power of mortals, it is not their property; it is much more a domestic power that, when escaping the technical mastery of this domesticity, reveals its wild violence" <ref type="bibr">(194)</ref>. In light of this, both Promethean fire and Pandora, a dangerous, artificial entity given to humans in the name of "All-Gift" <ref type="bibr">(Hesiod 93)</ref>, embody a recurring anxiety about the destructive potential of technology, "attributed with powers of dangerous seduction." <ref type="bibr">(Stiegler 189</ref>) Therefore, Klara's resonance with her AI ancestor Pandora frames her "greed" not merely as a personal flaw, but as the legacy of an ancient narrative that links technology with latent evil: in both cases, "greed" functions as a metaphor for the expansive nature of technology and its tendency to wreak disaster through sprawling advancement.</p><p>Klara's embodiment of technological duplicity becomes most vivid through Ishiguro's deployment of animal images with sacrificial resonance: the bull, the sheep, and the later "oddly suspended" sheep. The images of the bull and the sheep cluster around Klara's trip to the waterfall, an episode foregrounding technology's potential for "wild violence" when Josie's mother contemplates replacing her daughter with Klara. Just before this scene unfolds, Klara notices a bull watching them intently, exuding "anger and the wish to destroy" (Ishiguro 113). This sight evokes in her a "stranger and deeper" feeling that "some great error had been made that the creature should be allowed to stand in the Sun's pattern at all, [. . .], and its presence on the grass could only have awful consequences." (113) The bull's emergence at precisely this moment renders it a visualization of an aberrant technological force. When this replacement plan fails, Klara instead descries a flock of sheep "filled with kindness," with particular attention to four sheep "more gentle than the others," arranged "on the grass in a neat row" (121). In contrast to the bull's licentious violence, the procession of the sheep signifies harmony and order. These images return during Klara's petitions: the bull reappears whenever she senses the Sun's anger, while the sheep reemerge only to become distorted. In her second petition, she sees a large photograph of sheep illuminated by the Sun, with the same four sheep foregrounded. The authenticity of this vision remains uncertain, yet Klara acutely notes the sheep's distortion: though still in procession, "they'd become oddly suspended, [. . .]. As a result, when they stretched down to eat, their mouths couldn't reach the grass, giving these creatures, so happy on the day, a mood of sadness." (303) Their deformation clarifies the symbolic connotation of the sheep: their "suspended" bodies and sorrow mirror the condition of some "lifted" children, genetically elevated yet suffering from illness, victims of unbridled technology. Taken together, the bull and the sheep form counter-images of violent technology versus harmonious nature, with the metamorphosed sheep signifying nature's alienation under technological intrusion. Their recurrence during Klara's sacrificial ritual, wherein both the sacrificer and the sacrificial offering are technological products, with the Sun functioning as a deity in the natural world, sharpens the novel's central tension between technology and nature. The Sun's anger at mechanical contamination, coupled with Klara's embodiment of technological duplicity, casts him as a proxy of nature that ethically judges the rampant technology humans impose, and hesitates to offer his help. As Bruno Latour observes, "[H]uman societies seem to be resigning themselves to playing the role of witless object, while it is nature that is unexpectedly taking on the role of active subject" (73).</p><p>Klara's sacrificial ritual thus constitutes Ishiguro's reconfiguration of the mythic imaginaries of technology through a contemporary reactivation of the sacrificial prototype. On one level, Klara's narrative activates what Hogan identifies as the universal sacrificial pattern of sin-punishmentsacrifice-restoration of normalcy (Affective Narratology 134), wherein the Sun's initial hesitation to offer his special nourishment to Josie can be read as a punishment triggered by humanity's technological transgressions: environmental pollution, genetic-engineering, and AI replacement. Meanwhile, the AI narrator, acting as both a technological proxy and an ethical posthuman agent, enacts a reparative act: by sacrificing the machine at the expense of her life to petition the Sun, Klara seeks to secure Josie's recovery and restore the disrupted order. Hogan's insight that sacrificial plots foreground the tension between "the human need to consume nature and the ethical imperative to respect or revere nature" (The Mind and Its Stories 199) is thus materialized in the novel's posthuman discourse. Furthermore, Ishiguro's reworking of such sacrifice operates as a mythopoetic reversal. Whereas Prometheus' theft of fire provoked the gods to create Pandora, the first AI endowed with destructive potential, her SF descendent Klara's sacrifice symbolically enacts an inverse trajectory: a technological creation seeking reparation rather than destruction. Her ritual thus becomes a restorative gesture, through which Ishiguro reframes the long-standing tension between technology and nature by envisioning technology as seeking reconciliation with the natural world.</p><p>Read in this light, the implied author's construction of an AI narrator, whose sacrificial reparation reconfigures the tension between technology and nature, gestures toward a less gloomy vision of an AI-human cohabited society. Whereas emergent phobia toward artificial intelligence in contemporary discourse runs amok, doubting whether AI will "end up harming or destroying humanity" (Liao 2), Ishiguro instead imagines an AI protagonist who, through a sacrificial act, assumes technological responsibility toward the natural order, thereby, reframing prevailing anxieties about AI.</p><p>The trivalent motivations behind AI self-sacrifice position Klara as a posthuman entity endowed with affective capacities, a participant within the evolutionary dynamics of machines and an ethical proxy through whom technology seeks reconciliation with nature. However, her self-sacrifice remains ethically nonreciprocal by the novel's refusal of a consoling ending. As Josie recovers after Klara's petition to the Sun and grows up, Klara is gradually displaced, from Josie's bedroom to the Utility Room and finally to a junkyard. As Hayles contends, "Ishiguro chooses not to confront the full implications of a conscious robot, [. . .] the text finally fails to come to terms to what reciprocal relations might mean for the human treatment of conscious robots, marking a limit beyond which it does not dare to go <ref type="bibr">" (193)</ref>. This article, however, argues that rather than signaling an evasion of AI ethics, Ishiguro's refusal of narrative consolation foregrounds the persistence of unresolved ethical responsibilities in a posthuman future.</p><p>Consider the novel's closing image of the Manager: "When she was mid-distance, she stopped and turned, and I thought she might look back one last time at me. But she was gazing at the far distance, in the direction of the construction crane on the horizon. Then she continued to walk away." . For readers aligned with Klara, the Manager's gesture may seem callous; yet its symbolic weight is unmistakable: the "far distance" evokes an open, indetermined future, the crane embodies ongoing technological dynamics, and her resumed walking suggests the necessity of continuous engagement. This scene thus displaces the narrative focus from Klara's individual fate to a posthuman horizon continuously reshaped by technological development and human-AI relations, where challenge persists and hope remains tentative. This sense of cautious optimism aligns with Ishiguro's own remark: "[I]f I have cause for optimism, it's the optimism I tried to put into Klara and the Sun" <ref type="bibr">(Knight)</ref>. Therefore, by refusing narrative consolation at the novel's end, Ishiguro not only confronts readers with the obscurity of Klara's fate, but also zooms them out from individual sacrifice to the larger posthuman future, compelling them to recognize ethical responsibilities that will persist in a world shaped by human-AI entanglements.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Conclusion</head><p>Through a trivalent framework, this article demonstrates how AI self-sacrifice in Klara and the Sun operates across affective, evolutionary, and mythopoetic dimensions. At the individual level, Klara's decision articulates a distinctive mode of posthuman affect, demonstrating the plausibility of posthuman emotional capacities. At the social level, her actions illuminate how AI responds to evolutionary pressures under human selection through altruism, redirecting evaluative criteria from technological efficiency toward affective values in human-AI cohabitation and coevolution. At the mythopoetic level, her sacrificial ritual serves as Ishiguro's reworking of mythic imaginaries of technology, transforming sacrifice into a reparative gesture that reframes the enduring tension between technology and nature. Crucially, Ishiguro's refusal of narrative consolation foregrounds the persistence of unresolved ethical responsibilities in a posthuman future, where challenge endures and hope remains tentative.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Disclosure Statement</head><p>No potential conflict of interest was reported by the author.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Notes on contributor</head><p>Meixuan Li is a PhD student in English literature at Shanghai Jiao Tong University. Her research focuses on narrative theory and science fiction.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Works Cited</head><p>Abrams, Robert C. "Klara and the Sun: Kazuo Ishiguro's New Model for 'Completion' at the End of Life." Journal of the American Geriatrics <ref type="bibr">Society, vol. 70, no. 2, 2022</ref><ref type="bibr">Society, vol. 70, no. 2, , pp. 636-37. doi:10.1111</ref>/jgs.17547 . Ahmed, Mohamed, and Alshaymaa Mohamed. "A New 'Mammy' in the Age of Digitalization; Human Insecurity Versus Utopian Affective Algorithms in Kazuo Ishiguro's Klara and the Sun." Journal of Language <ref type="bibr">Teaching, Linguistics, and Literature, vol. 30, no. 1, 2024</ref><ref type="bibr">, pp. 24-35. Asimov, Isaac. "Runaround." Robot Visions, edited by Isaac Asimov, Penguin Books, 1990</ref><ref type="bibr">, p. 126. Barber, Nigel. Kindness in a Cruel World: The Evolution of Altruism. Prometheus Books, 2004.</ref> </p></div>		</body>
+		<back>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<analytic>
+		<title level="a" type="main">Capitalist Dreams, Posthuman Nightmares: AI and the Neoliberal Reordering of Humanity in Ian McEwan&apos;s Machines Like Me and Kazuo Ishiguro&apos;s Klara and the Sun</title>
+		<author>
+			<persName><forename type="first">Amel</forename><surname>Benia</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Abdullah</forename><forename type="middle">M</forename><surname>Dagamseh</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Samuel</forename><surname>Butler</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/00111619.2024.2434160</idno>
+		<ptr target="https://mediarep.org/server/api/core/bitstreams/e0da505" />
+	</analytic>
+	<monogr>
+		<title level="m">The P 1863</title>
+		<imprint>
+			<date type="published" when="2025-06-13">2025. June 13. 11 Oct. 2025</date>
+			<biblScope unit="volume">66</biblScope>
+			<biblScope unit="page" from="121" to="137" />
+		</imprint>
+	</monogr>
+	<note>Darwin Among the Machines. 43ab-be4b-6604a4df816f/content</note>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<monogr>
+		<ptr target="https://paperspast.natlib.govt.nz/newspapers/CHP18650729.2.8" />
+		<title level="m">Lucubratio Ebria</title>
+		<imprint>
+			<publisher>The Press</publisher>
+			<date type="published" when="1865-07-11">July 1865. 11 Oct. 2025</date>
+			<biblScope unit="volume">29</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<monogr>
+		<title level="m" type="main">Literary Darwinism: Evolution, Human Nature, and Literature</title>
+		<author>
+			<persName><forename type="first">Joseph</forename><surname>Carroll</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2004">2004</date>
+			<publisher>Routledge</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title level="a" type="main">The Meanings of AI: A Cross-Cultural Comparison</title>
+		<author>
+			<persName><forename type="first">Stephen</forename><surname>Cave</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Imagining AI: How the World Sees Intelligent Machines</title>
+		<editor>
+			<persName><forename type="first">Stephen</forename><surname>Cave</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">Kanta</forename><surname>Dihal</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Oxford UP</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2023">2023</date>
+			<biblScope unit="page" from="16" to="36" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<monogr>
+		<author>
+			<persName><forename type="first">David</forename><forename type="middle">A</forename><surname>Clark</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Aaron</forename><forename type="middle">T</forename><surname>Beck</surname></persName>
+		</author>
+		<title level="m">Cognitive Therapy of Anxiety Disorders: Science and Practice. The Guilford P</title>
+		<imprint>
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title level="a" type="main">Analogy and Technology in Darwin&apos;s Vision of Nature</title>
+		<author>
+			<persName><forename type="first">John</forename><forename type="middle">F</forename><surname>Cornell</surname></persName>
+		</author>
+		<idno type="DOI">10.1007/BF00126367</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of the History of Biology</title>
+		<imprint>
+			<biblScope unit="volume">17</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="303" to="344" />
+			<date type="published" when="1984">1984</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<monogr>
+		<title level="m" type="main">The Origin of Species by Means of Natural Selection, or the Preservation of Favoured Races in the Struggle for Life</title>
+		<author>
+			<persName><forename type="first">Charles</forename><surname>Darwin</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1985">1985</date>
+			<publisher>W. Burrow, Penguin Classics</publisher>
+		</imprint>
+	</monogr>
+	<note>Edited With an Introduction by J</note>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<monogr>
+		<title level="m" type="main">AI Narratives: A History of Imaginative Thinking About Intelligent Machines</title>
+		<author>
+			<persName><forename type="first">Kate</forename><surname>Devlin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Belton</forename><surname>Olivia</surname></persName>
+		</author>
+		<editor>Stephen Cave and Kanta Dihal</editor>
+		<imprint>
+			<date type="published" when="2020">2020</date>
+			<biblScope unit="page" from="360" to="381" />
+			<pubPlace>Oxford UP</pubPlace>
+		</imprint>
+	</monogr>
+	<note>The Measure of a Woman: Fembots, Fact and Fiction</note>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title level="a" type="main">Love and Hope: Affective Labor and Posthuman Relations in Klara and the Sun</title>
+		<author>
+			<persName><forename type="first">Lanlan</forename><surname>Du</surname></persName>
+		</author>
+		<idno type="DOI">10.1007/s11059-022-00671-9</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Neohelicon</title>
+		<imprint>
+			<biblScope unit="volume">49</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="551" to="562" />
+			<date type="published" when="2022">2022</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<monogr>
+		<title level="m" type="main">Radical Sacrifice</title>
+		<author>
+			<persName><forename type="first">Terry</forename><surname>Eagleton</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2018">2018</date>
+			<pubPlace>Yale UP</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title level="a" type="main">Robot Suicide: Death, Identity, and AI in Science Fiction. 1st ed., Bloomsbury Publishing USA, 2023. Fludernik, Monika. Towards a &apos;Natural</title>
+		<author>
+			<persName><forename type="first">Liz</forename><forename type="middle">W</forename><surname>Faber</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Narratology. Routledge</title>
+		<imprint>
+			<date type="published" when="1996">1996</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<monogr>
+		<title level="m" type="main">Narrative Discourse: An Essay in Method</title>
+		<author>
+			<persName><forename type="first">Gérard</forename><surname>Genette</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1980">1980</date>
+			<publisher>Cornell UP</publisher>
+		</imprint>
+	</monogr>
+	<note>Translated by Jane E. Lewin</note>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<title level="a" type="main">The Genetical Evolution of Social Behaviour. I</title>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">D</forename><surname>Hamilton</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/0022-5193(64)90038-4</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Theoretical Biology</title>
+		<imprint>
+			<biblScope unit="volume">7</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="1" to="16" />
+			<date type="published" when="1964">1964</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<monogr>
+		<author>
+			<persName><forename type="first">N</forename><surname>Hayles</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Katherine</surname></persName>
+		</author>
+		<title level="m">Bacteria to AI: Human Futures with Our Nonhuman Symbionts. 1</title>
+		<imprint>
+			<publisher>U of Chicago P</publisher>
+			<date type="published" when="2025">2025</date>
+		</imprint>
+	</monogr>
+	<note>st ed.</note>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<monogr>
+		<title level="m" type="main">The Mind and Its Stories: Narrative Universals and Human Emotion</title>
+		<author>
+			<persName><forename type="first">Patrick</forename><surname>Hogan</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Colm</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2003">2003</date>
+			<pubPlace>Cambridge UP</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<monogr>
+		<author>
+			<persName><forename type="first">Patrick</forename><surname>Hogan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Inc</forename><surname>Colm</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Ebrary</surname></persName>
+		</author>
+		<title level="m">Affective Narratology: The Emotional Structure of Stories. U of Nebraska P, 2011. Ishiguro, Kazuo. Klara and the Sun</title>
+		<imprint>
+			<publisher>Faber &amp; Faber</publisher>
+			<date type="published" when="2021">2021</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<monogr>
+		<title level="m" type="main">Anatomy of a Robot: Literature, Cinema, and the Cultural Work of Artificial People. 1st ed</title>
+		<author>
+			<persName><forename type="first">Despina</forename><surname>Kakoudaki</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2014">2014</date>
+			<publisher>Rutgers UP</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<monogr>
+		<title level="m" type="main">Narrative Form. 2nd ed., Revised and Expanded</title>
+		<author>
+			<persName><forename type="first">Suzanne</forename><surname>Keen</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2015">2015</date>
+			<publisher>Palgrave Macmillan</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<monogr>
+		<title level="m" type="main">Klara and the Sun Imagines a Social Schism Driven by AI</title>
+		<author>
+			<persName><forename type="first">Will</forename><surname>Knight</surname></persName>
+		</author>
+		<ptr target="https://www.wired.com/story/kazuo-ishiguro-interview/" />
+		<imprint>
+			<date type="published" when="2021-03-16">16 Mar. 2021</date>
+		</imprint>
+	</monogr>
+	<note>Wired</note>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<analytic>
+		<title level="a" type="main">Facing Gaia: Eight Lectures on the New Climatic Regime. Catherine Porter Translated by</title>
+		<author>
+			<persName><forename type="first">Bruno</forename><surname>Latour</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Polity P</title>
+		<imprint>
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<analytic>
+		<title level="a" type="main">The Humanity of the Non-Human --Themes of Artificial Subjectivity in Ishiguro&apos;s Klara and the Sun</title>
+		<author>
+			<persName><forename type="first">Oliver</forename><surname>Li</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Johan</forename><surname>Eddebo</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.techum.2023.11.001</idno>
+	</analytic>
+	<monogr>
+		<title level="j">New Techno Humanities</title>
+		<imprint>
+			<biblScope unit="volume">3</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="124" to="129" />
+			<date type="published" when="2023">2023</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<analytic>
+		<title level="a" type="main">A Short Introduction to the Ethics of Artificial Intelligence</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Liao</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Matthew</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Ethics of Artificial Intelligence</title>
+		<editor>
+			<persName><forename type="first">S</forename><forename type="middle">Matthew</forename><surname>Liao</surname></persName>
+		</editor>
+		<imprint>
+			<biblScope unit="page" from="1" to="42" />
+			<date type="published" when="2020">2020</date>
+			<pubPlace>Oxford UP</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<monogr>
+		<title level="m" type="main">Artificial Intelligence in Greek and Roman Epic</title>
+		<author>
+			<persName><forename type="first">Alicia</forename><surname>Matz</surname></persName>
+		</author>
+		<editor>Andriana Domouzi and Silvio Bär</editor>
+		<imprint>
+			<date type="published" when="2024">2024</date>
+			<publisher>Bloomsbury Academic</publisher>
+			<biblScope unit="page" from="161" to="173" />
+		</imprint>
+	</monogr>
+	<note>Pygmalion and Pandora in Ovid&apos;s Metamorphoses</note>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<analytic>
+		<title level="a" type="main">Darwin&apos;s Influence on Modern Thought</title>
+		<author>
+			<persName><forename type="first">Ernst</forename><surname>Mayr</surname></persName>
+		</author>
+		<idno type="DOI">10.1038/scientificamerican0700-78</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Scientific American</title>
+		<imprint>
+			<biblScope unit="volume">283</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="78" to="83" />
+			<date type="published" when="2000">2000</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<monogr>
+		<title level="m" type="main">The Rise of the Artificial Boyfriend: Artificial Partners Past, Present, and Future</title>
+		<author>
+			<persName><forename type="first">Timothy</forename><surname>Miller</surname></persName>
+		</author>
+		<editor>Will Slocombe and Genevieve Liveley</editor>
+		<imprint>
+			<date type="published" when="2025">2025</date>
+			<publisher>Routledge</publisher>
+			<biblScope unit="page" from="65" to="84" />
+		</imprint>
+	</monogr>
+	<note>The Routledge Handbook of AI and Literature</note>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<analytic>
+		<title level="a" type="main">Unrequited Labour of Care in Kazuo Ishiguro&apos;s Klara and the Sun</title>
+		<author>
+			<persName><forename type="first">Jahnavi</forename><surname>Misra</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/09574042.2023.2278296</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Women: A Cultural Review</title>
+		<imprint>
+			<biblScope unit="volume">34</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="370" to="389" />
+			<date type="published" when="2023">2023</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<analytic>
+		<title/>
+		<author>
+			<persName><surname>Hesiod</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Theogony</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Works</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Testimonia</forename><surname>Days</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="s">Loeb Classical Library</title>
+		<editor>
+			<persName><forename type="first">Glenn</forename><forename type="middle">W</forename><surname>Most</surname></persName>
+		</editor>
+		<imprint>
+			<biblScope unit="volume">57</biblScope>
+			<date type="published" when="2006">2006</date>
+			<publisher>Harvard University Press</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b27">
+	<analytic>
+		<title level="a" type="main">Evolution of Indirect Reciprocity by Image Scoring</title>
+		<author>
+			<persName><forename type="first">Martin</forename><forename type="middle">A</forename><surname>Nowak</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Karl</forename><surname>Sigmund</surname></persName>
+		</author>
+		<idno type="DOI">10.1038/31225</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Nature (London)</title>
+		<imprint>
+			<biblScope unit="volume">393</biblScope>
+			<biblScope unit="issue">6685</biblScope>
+			<biblScope unit="page" from="573" to="577" />
+			<date type="published" when="1998">1998</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b28">
+	<monogr>
+		<title level="m" type="main">Darwin in the Machine: Addressing Algorithmic Individuation through Evolutionary Narratives in Computing</title>
+		<author>
+			<persName><forename type="first">Selin</forename><forename type="middle">E</forename><surname>Nugent</surname></persName>
+		</author>
+		<idno type="DOI">10.1007/s00146-025-02310-0</idno>
+		<imprint>
+			<publisher>AI &amp; Society</publisher>
+			<biblScope unit="page">2025</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b29">
+	<monogr>
+		<title level="m" type="main">OED Online</title>
+		<ptr target="https://www.oed.com/" />
+		<imprint>
+			<date type="published" when="2025">2025</date>
+			<publisher>Oxford University Press</publisher>
+		</imprint>
+	</monogr>
+	<note>Sacrifice</note>
+</biblStruct>
+
+<biblStruct xml:id="b30">
+	<analytic>
+		<title level="a" type="main">Disposable Culture, Posthuman Affect, and Artificial Human in Kazuo Ishiguro&apos;s Klara and the Sun (2021)</title>
+		<author>
+			<persName><forename type="first">Om</forename><surname>Sahu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Manali</forename><surname>Prakash</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Karmakar</surname></persName>
+		</author>
+		<idno type="DOI">10.1007/s00146-022-01600-1</idno>
+	</analytic>
+	<monogr>
+		<title level="j">AI &amp; Society</title>
+		<imprint>
+			<biblScope unit="volume">39</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="1349" to="1357" />
+			<date type="published" when="2024">2024</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b31">
+	<analytic>
+		<title level="a" type="main">Posthuman Ethics and Distributed Agency in Kazuo Ishiguro&apos;s Klara and the Sun</title>
+		<author>
+			<persName><forename type="first">Selin</forename><surname>Şencan</surname></persName>
+		</author>
+		<idno type="DOI">10.29110/soylemdergi.1541383</idno>
+	</analytic>
+	<monogr>
+		<title level="m">Söylem Filoloji Dergisi, 2024</title>
+		<imprint>
+			<biblScope unit="page" from="90" to="102" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b32">
+	<analytic>
+		<title level="a" type="main">Can Machines Replace Humans?: Robotic Narrative and Ethical Choice in Kazuo Ishiguro&apos;s Klara and the Sun</title>
+		<author>
+			<persName><forename type="first">Biwu</forename><surname>Shang</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Foreign Literature Studies</title>
+		<imprint>
+			<biblScope unit="volume">44</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="28" to="45" />
+			<date type="published" when="2022">2022</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b33">
+	<monogr>
+		<title level="m" type="main">Ethics: Ethica Ordine Geometrico Demonstrata</title>
+		<author>
+			<persName><forename type="first">Benedict</forename><surname>Spinoza</surname></persName>
+		</author>
+		<editor>R. H. M. Elwes</editor>
+		<imprint>
+			<date type="published" when="2009">2009</date>
+			<publisher>The Floating P</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b34">
+	<monogr>
+		<title level="m" type="main">Technics and Time, 1: The Fault of Epimetheus</title>
+		<author>
+			<persName><forename type="first">Bernard</forename><surname>Stiegler</surname></persName>
+		</author>
+		<editor>Richard Beardsworth and George Collins</editor>
+		<imprint>
+			<date type="published" when="1994">1994</date>
+			<pubPlace>Stanford UP</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b35">
+	<monogr>
+		<title level="m" type="main">Metamorphoses of Science Fiction: On the Poetics and History of a Literary Genre</title>
+		<author>
+			<persName><forename type="first">Darko</forename><surname>Suvin</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1979">1979</date>
+			<pubPlace>Yale UP</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b36">
+	<monogr>
+		<title level="m" type="main">Rise of the Self-Replicators: Early Visions of Machines, AI and Robots That Can Reproduce and Evolve</title>
+		<author>
+			<persName><forename type="first">Tim</forename><surname>Taylor</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Alan</forename><surname>Dorin</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2020">2020</date>
+			<publisher>Springer International Publishing</publisher>
+		</imprint>
+	</monogr>
+	<note>st ed.</note>
+</biblStruct>
+
+<biblStruct xml:id="b37">
+	<analytic>
+		<title level="a" type="main">The Evolution of Reciprocal Altruism</title>
+		<author>
+			<persName><forename type="first">Robert</forename><surname>Trivers</surname></persName>
+		</author>
+		<idno type="DOI">10.1086/406755</idno>
+	</analytic>
+	<monogr>
+		<title level="j">The Quarterly Review of Biology</title>
+		<imprint>
+			<biblScope unit="volume">46</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="35" to="57" />
+			<date type="published" when="1971">1971</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b38">
+	<monogr>
+		<title level="m" type="main">Hesiod&apos;s Age of Heroes and Technological Evolution in Film</title>
+		<author>
+			<persName><forename type="first">Rocki</forename><surname>Wentzel</surname></persName>
+		</author>
+		<editor>Andriana Domouzi and Silvio Bär</editor>
+		<imprint>
+			<date type="published" when="2021">2021</date>
+			<publisher>Bloomsbury Academic</publisher>
+			<biblScope unit="page" from="251" to="265" />
+		</imprint>
+	</monogr>
+	<note>Artificial Intelligence in Greek and Roman Epic</note>
+</biblStruct>
+
+<biblStruct xml:id="b39">
+	<monogr>
+		<title level="m">Group Selection</title>
+		<editor>
+			<persName><forename type="first">George</forename><forename type="middle">C</forename><surname>Williams</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Aldine-Atherton</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="1971">1971</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b40">
+	<analytic>
+		<title level="a" type="main">The Cambridge History of Science Fiction</title>
+		<author>
+			<persName><forename type="first">Rhys</forename><surname>Williams</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Inventing New Worlds: The Age of Manifestos and Utopias</title>
+		<editor>
+			<persName><forename type="first">Gerry</forename><surname>Canavan</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">Eric</forename><forename type="middle">Carl</forename><surname>Link</surname></persName>
+		</editor>
+		<imprint>
+			<publisher>Cambridge UP</publisher>
+			<date type="published" when="2019">2019</date>
+			<biblScope unit="page" from="69" to="85" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b41">
+	<analytic>
+		<title level="a" type="main">Emotional Repression in Kazuo Ishiguro&apos;s Klara and the Sun</title>
+		<author>
+			<persName><forename type="first">Yiqun</forename><surname>Xiao</surname></persName>
+		</author>
+		<idno type="DOI">10.7560/TSLL65403</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Studies in Literature and Language</title>
+		<imprint>
+			<biblScope unit="volume">65</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="354" to="373" />
+			<date type="published" when="2023">2023</date>
+		</imprint>
+	</monogr>
+	<note>Texas</note>
+</biblStruct>
+
+<biblStruct xml:id="b42">
+	<analytic>
+		<title level="a" type="main">Capitalized Pollution and Inhabitability Critique in Kazuo Ishiguro&apos;s Klara and the Sun</title>
+		<author>
+			<persName><forename type="first">Yuan</forename><surname>Yuan</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/00111619.2024.2370244</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Critique: Studies in Contemporary Fiction</title>
+		<imprint>
+			<biblScope unit="volume">66</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="654" to="663" />
+			<date type="published" when="2025">2025</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b43">
+	<monogr>
+		<title level="m" type="main">Why We Read Fiction: Theory of Mind and the Novel. The Ohio State UP</title>
+		<author>
+			<persName><forename type="first">Lisa</forename><surname>Zunshine</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

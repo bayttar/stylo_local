@@ -1,0 +1,543 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">The hopeful possibilities of &quot;sideways&quot; time: Louise Erdrich&apos;s Future Home of the Living God</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author role="corresp">
+							<persName><forename type="first">Amanda</forename><surname>Lagji</surname></persName>
+							<email>alagji@pitzer.edu</email>
+							<idno type="ORCID">0000-0002-4246-4028</idno>
+						</author>
+						<author>
+							<affiliation key="aff0">
+								<orgName type="department">Department of English and World Literature</orgName>
+								<orgName type="institution">Pitzer College</orgName>
+								<address>
+									<settlement>Claremont</settlement>
+									<region>CA</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff1">
+								<orgName type="department">Department of English and World Literature</orgName>
+								<orgName type="institution">Pitzer College</orgName>
+								<address>
+									<addrLine>1050 N Mills Ave</addrLine>
+									<settlement>Claremont</settlement>
+									<region>CA</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">The hopeful possibilities of &quot;sideways&quot; time: Louise Erdrich&apos;s Future Home of the Living God</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date/>
+						</imprint>
+					</monogr>
+					<idno type="MD5">B777ED08D04E30257728E3A8B2DAAE55</idno>
+					<idno type="DOI">10.1080/17449855.2025.2576247</idno>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.0" ident="GROBID" when="2026-02-25T19:54+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term>Kinship time</term>
+					<term>queer time</term>
+					<term>evolutionary time</term>
+					<term>Louise Erdrich</term>
+					<term>indigenous futurity</term>
+					<term>dystopia</term>
+				</keywords>
+			</textClass>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>Drawing on formulations of time described by Native philosopher Kyle Powys Whyte and queer theorist Elizabeth Grosz, this article argues that the decolonial hope depicted in Louise Erdrich's (2017) novel Future Home of the Living God shifts away from humancentred futures towards interdependence and kinship relations. Moreover, the novel's engagement with the possibilities of decolonial hope emerges not from investment in hope for a particular future, but from an active way of being in time that unsettles colonial futurity. Borrowing from the novel's protagonist Cedar, who muses that time might be moving "sideways", the article shows that "sideways time" revises popular conceptions of evolutionary time, reproductive time, and their shared entanglement with linear time, the dominant mode through which climate change is narrated. In this way, evolutionary time is recuperated as open-ended and transformative; the future portended in the dystopian novel is one paradoxically imbued with hope and enriched with decolonial promise.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Introduction: The temporal landscape of "sideways" time</head><p>To the extent that common understandings of "hope" -feelings of desire for or expectation of a particular outcome in the future -rest on a progressive linear temporality, one risks being disappointed, as well as tempted to linger in the not yet, waiting. In colonial settings, occupying powers could exploit hope by presenting independence as something that was possible, eventually, but always deferred. Colonial futurity mobilizes hope to coerce submission. A further danger is that hope might be expressed passively, as hope for a better future or specific object but without a commitment to actions that might realize it. "Critical hope", as Goutam <ref type="bibr" target="#b13">Karmakar (2025)</ref> recently defined it, intervenes by positing a hope of transformation that "can only be actualized when non-western and non-hegemonic knowledge formations are taken into consideration" <ref type="bibr">(314)</ref>. "Hope for a decolonial future", he argues, might emerge through "the revitalization of Indigenous knowledge systems as a means to forge a future, denouncing western modernization paradigms that homogenize culture, devalue nature, disengage humans from other life forms and each other" among other violations (321), to which I would explicitly add patriarchal oppression and label the disparaging view of nature and non-human life as anthropocentric domination. Colonial futurity is additionally constituted by these various dominations, a violent binary ordering of the world that includes man over woman and human over animal. Extending Karmakar's analysis, the argument in this article continues in this spirit but with a focus on the importance of time and temporality in conceptualizing what might be meant by a decolonial future. Using Ojibwe writer Louise <ref type="bibr" target="#b6">Erdrich's (2017)</ref> Future Home of the Living God as a case study, this article shows that the novel's engagement with the possibilities of decolonial hope emerges not from an investment in hope for a particular future, but from an active way of being in time that unsettles colonial futurity.</p><p>There is no better testing ground for the possibilities of "decolonial hope" than Erdrich's dystopian epistolary novel, which is set in a near future and dramatizes the acceleration of climate change in the Anthropocene. In the novel, evolution appears to be reversing, with broccoli and cauliflower transforming into a kind of cabbage, massive insects terrorizing the landscape, and babies born with vaguely described mutations. The speed of this "devolution" is matched by an acceleration of climate change occurring between our present and the novel's setting, with casual references to the threat of bacteria remerging "from the permafrost" and "our first winter without snow" <ref type="bibr">(Erdrich 2017, 8-9)</ref>. The novel opens with the protagonist Cedar writing that she is four months pregnant and plans to meet her biological Ojibwe family for the first time. She has been raised by white liberal Minnesotans -Cedar later learns that her "adoptive" white father is also her biological one -and feels the urgency to make these genetic and cultural connections. The USA is also rapidly transforming into an authoritarian, white Christian nationalist country that detains pregnant women to research their foetuses' development with the hope of finding a cure for the babies' mutations. Cedar evades capture at first but is eventually imprisoned in a hospital for pregnant women. She escapes with the help of her adoptive mother, Sera, seeks refuge with her Ojibwe family, but then is recaptured and detained until she gives birth. All the while, Cedar addresses her diary to the unborn child and tries to make sense of the rapid changes around her. She is initially unsure of how to characterize the movements of time, wondering if the "world is running backward. Or forward. Or maybe sideways" <ref type="bibr">(Erdrich 2017, 3)</ref>.</p><p>Most in the story-world assume that the world is moving backward, and many critics of the novel appear to agree <ref type="bibr">(Martínez-Falquina 2019, 16;</ref><ref type="bibr">McAvan 2022, 94;</ref><ref type="bibr">Shaw 2022, 321)</ref>. 1 Cedar's characterization of "sideways" time prompts this article's exploration of how kinship, queerness, reproductive, and evolutionary time are reframed through Erdrich's novel as hopeful foundations for intuiting decolonial futures. Eddie, the husband of Cedar's birth mother and a prominent tribal leader, describes how the ostensible devolution of the world has enabled significant gains for tribal sovereignty and territorial reclamation, and these decolonial processes intersect with climate crises in the novel. The kind of hope Eddie subscribes to and that Cedar also begins to articulate is legible and imaginable, this article shows, when we take seriously the forms of time embedded in and voiced by Cedar and reflected in Native philosophies of time and environment (the "nonwestern"), alongside (the "non-hegemonic") critiques of evolutionary and reproductive time described by scholars of queer theory from Lee <ref type="bibr" target="#b5">Edelman (2004)</ref> to Jack <ref type="bibr" target="#b11">Halberstam (2011)</ref> to Elizabeth <ref type="bibr" target="#b9">Grosz (2004</ref><ref type="bibr" target="#b8">Grosz ( , 2005</ref><ref type="bibr" target="#b10">Grosz ( , 2011) )</ref> and Elizabeth <ref type="bibr" target="#b7">Freeman (2010)</ref>. While the notion of futurity might evoke linear forward movements that progress seamlessly from past to present to future, decolonial futures can embed other ways of marking, imagining, and experiencing being in time. To that end, sideways time is an especially provocative suggestion, interrupting unidirectional or linear assumptions about time and futurity. Given how urgency and acceleration dominate popular understandings of the threat of climate change, sideways time is powerfully disruptive, and this article demonstrates how -in tandem with forward and backward movements in time -the novel evokes sideways time to centre interdependence and kinship, qualities that Native philosopher and climate scholar Kyle Powys <ref type="bibr" target="#b20">Whyte (2018</ref><ref type="bibr">Whyte ( , 2021) )</ref> argues are crucial for future planetary solidarity and sustainability. Sideways time emerges as a lens to make sense of the biological changes Cedar witnesses and it exists in tension with the epistolary form of the novel and Cedar's own pregnancy that proceeds inexorably forward. This distinction is important; sideways time is not offered to supplant other ways of marking time but rather as another mode that engenders a branching horizontality consonant with the values of interdependence and kinship. Being-in-time sideways widens the novel's -and Cedar's -imaginative horizon of the future that allows for glimpses of hopeful, decolonial possibilities.</p><p>Lingering in the possibility of time moving sideways -attentive to unexpected branching and transformation -prompts Cedar to relinquish ideas of origin and destination, which in turn challenges both evolutionary and reproductive times and their entanglement with linear time, the dominant mode through which climate change and a dystopian climate future are narrated. Cedar observes that seasonal winters ceased a generation ago; the altered climate suggests that Cedar's world is always-already a dystopia when the rapid changes to life on earth commence. In this way, Erdrich joins Grace Dillon and other Indigenous writers of science fiction, who argue that "the present is already postapocalyptic" given "violent settler colonial histories" <ref type="bibr">(Bladow 2021, 132)</ref>. <ref type="bibr">Whyte agrees, noting that this view of "inhabit[ing]</ref> what our ancestors would have understood as a dystopian future" in the present produces a sense of time and temporality in excess of the strictly linear mode of narrating time and history <ref type="bibr">(2018,</ref><ref type="bibr">227)</ref>. Whyte offers both "spiraling time" and "kinship time" as important Indigenous interventions to reframe the temporal dimensions of crisis and urgency associated with climate crisis and responses, and this article suggests that these concepts also animate Erdrich's novel and resonate with "sideways" time.</p><p>Sideways time promises to reject the forward-backward binary of time's movement, unshackling the "future" from normative values of progress, civilization, development, and improvement. To appreciate the radical hope that this decoupling might produce, I then draw on Elizabeth Grosz's oeuvre concerning queer philosophies of time; throughout her scholarship Grosz insists on recuperating a view of evolutionary time as openended and transformative, entailing neither progress nor improvement. Many in Cedar's world describe global developments as evolution going backwards, a temporal orientation that posits an "origin" to which life will eventually return; but this appears at odds with the branching, unpredictable transformations depicted in the novel, which are better captured by the idea of time moving "sideways". Finally, sideways time dramatizes what Elizabeth <ref type="bibr" target="#b7">Freeman (2010)</ref> calls "temporal drag" as a "productive obstacle to progress, a usefully distorting pull backward, and a necessary pressure on the present tense" (64; emphasis in original). In mobilizing this rich temporal framework, indebted to Indigenous and queer critical temporalities, I conclude that transformative, decolonial hope of the sort that Erdrich's novel models is made possible only by a shift away from a human-centred future and by viewing time askance.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Kinship time: Decentring humans and recentring interdependence</head><p>Time is figured in mainstream climate crisis discourses as running out or almost upscarcity itself is a crisis that can generate hopelessness and futility. But linearity is, Whyte finds, "not the only way to narrate climate change" (2021, 39). Whyte likens the linear time model to a timed chess game, where the ticking of a stopwatch encourages one to "fall back on taken-for-granted strategies without time to question how I got to them or whether they are even the best ones" (43). The imaginative horizon for thinking possible solutions to climate change is limited, and, moreover, this "sense of imperilment and urgency" de-prioritizes relationships and responsibilities to others, especially those "who risk being harmed by the solutions" themselves (43, 39). Whyte offers kinship time as an Indigenous temporal model, which stresses that "kinship relationships are in peril, and we must take urgent action to establish and repair kinship relationships; otherwise, we will not have the interdependence required for responsiveness that prevents harm and violence" (53).</p><p>Kinship time accommodates urgency but, unlike linear time, does not lose sight of the interdependent relationships that were harmed both prior to and because of climate change. Interdependence is a description of life's complex and intertwined systems, a value to be protected and, Whyte suggests, also a key component to global solidarity and more sustainable environmental futures. Kinship values include "reciprocity, consent, trust, transparency, and confidentiality among others", qualities that are often sacrificed in western, hegemonic, and capitalistic approaches to combatting climate change <ref type="bibr">(Whyte 2021, 48)</ref>. Both Whyte and Erdrich share Anishinaabe heritage, and there is evidence that conceptions of kinship time are influential in Erdrich's other works. Though it emerges out of a specific Anishinaabe world view, kinship time's compatibility with other Indigenous ecologies across the Global South suggests that kinship could be the foundation of a global solidarity against climate violence; Cajetan <ref type="bibr" target="#b12">Iheka's (2017)</ref> Naturalizing Africa: Ecological Violence, Agency, and Postcolonial Resistance, for example, theorizes a model of "distributed agency -the idea that humans possess and share agency with the landscape and animals, among others" that "challenges the dominant anthropocentric version" (4). 2  Foregrounding interdependence and not limited to biological connections, kinship time has a special resonance for Erdrich's Cedar, whose notion of "kin" is more expansive than merely genetic descent and who recognizes the time that relationality requires. Cedar's relationship with her stepfather Eddy is one of her most impactful relationships with her Ojibwe family, because Eddy helpfully recasts the present dystopia in terms of an Indigenous world view consistent with Whyte's assessment of relational kinship time and the violence of settler colonialism. Reflecting on his long experience of depression, he admits to Cedar:</p><p>It's just that I knew it all along. [ ... ] All my life I've sensed an unseen deterioration, Cedar, I've always known that this was happening. It has colored my mental processes and been the reason for all that I have written. I have waited for it and known that it, or something like it would come. I just feel an enormous sense of calm. Perhaps relief. <ref type="bibr">(Erdrich 2017, 27)</ref> While others describe the biological transformations as sudden, for Eddy, the changes have been slowly occurring and are unnoticed by most; he is relieved, in part, that everyone can now see the damage to interdependent relationships. Perhaps instead of an acceleration or intensification of changes, Cedar's "dystopian" future can be seen as increasing only in obviousness. This view of the dystopian present/future is consistent with the Indigenous world view that the apocalypse -the end of the world as they know it -has already happened. Eddy and Cedar's conversation ends with the often quoted line from Eddy that affirms Indigenous survivance: "Indians have been adapting since before 1492 so I guess we'll keep adapting" <ref type="bibr">(Erdrich 2017, 28)</ref>. As politicians and scientists race to save the current world (and in the process maintain its embedded inequalities), Eddy's perspective resonates with Whyte's larger points, in another context, about the use of geoengineering to combat climate change: "Members of the dominant populations are trying to avoid their dystopia by preserving our dystopia" <ref type="bibr">(Whyte and Buck 2021, 79)</ref>. The "unseen deterioration" Eddy describes is now apparent to all, as it enjoins everyone to recognize the present as dystopian and unexpectedly engenders hope for the tribal community: for the first time since the violence of colonization, inhabitants of the globe acknowledge a shared, dystopian world. Though unrealized within Cedar's narrative, this shared perspective might be a potential, yet fragile, foundation for building solidarity.</p><p>To this end, Eddy's instructive letter "Cured by the Apocalypse" is received by Cedar at the beginning of part 2. At this point, Cedar is transitioning shortly towards her third trimester, and she has been imprisoned by the state to monitor the development of her foetus. In the letter, Eddy first remarks on the "massive biological reversal" as well as the "great unknowns in the area of reverse evolution" that have him feeling "exhilarated" <ref type="bibr">(Erdrich 2017, 138)</ref>. But his language then shifts from "reversal" to other characterizations of time, not limited to backward movement; Eddy is excited to "witness the working of the design unraveling", which prompts Cedar to reflect: "The meek shall inherit the earth, the undone shall take it over, the backward shall take it back, the unformed and ancient shall form it new" (2017, 139, 144; my emphasis). Unravelling is not necessarily the same as reversal; like the blankets that Cedar and Tia unravel and then braid into rope, the material is indelibly marked by the forms it has taken. Moreover, in Cedar's and Eddy's reflections on time, the seemingly backward movement can coexist with impulses to accelerate and create newness. Time, perhaps, is best understood here as multidirectional, upending not only the sense of linear unfolding underscored by the epistolary form and Cedar's pregnancy itself, but also concomitant senses of development and progress appended to it.</p><p>While several critics have addressed how Future Home of the Living God reflects Ojibwe notions of Native apocalypse <ref type="bibr" target="#b18">(Shaw 2022;</ref><ref type="bibr" target="#b19">Sparks 2022)</ref>, fewer elaborate on the Indigenous temporalities that inform the narrative. One exception is Anna Kembell's (2022) article that cites Whyte's notion of "spiraling time" as not only "integral" to Indigenous cultures but also critical for connecting time with "Indigenous science and knowledge" and "Indigenous dystopian fiction in relation to climate crises" (164). To expand from Kemball further, spiralling time resonates with Whyte's "kinship time" through a shared implicit critique of linear temporalities' dominance in climate change discourses. As Whyte describes it, spiralling time "is a dialogical unfolding that also has, in a sense, forward motion that can be both predictable and irregular" <ref type="bibr">(2018,</ref><ref type="bibr">229)</ref>. Narratives that we might characterize as "spiraling" will "unfold through our interacting with, responding to and reflecting on the actual or potential actions and viewpoints of our ancestors and descendants" (229). Erdrich's simultaneous address to ancestors and descendants is an embodiment of a kinship ethics of interdependence and relationality and it also offers a way to appreciate the advantages of her use of the epistolary form. Cedar's diary to her unborn child serves as a hopeful gesture, encouraging both mother and child to see themselves as part of a continuous chain of ancestors and descendants that extends both backward and forward in time. Additionally, it allows Cedar to make herself "present" to her descendants, regardless of the uncertain political and environmental future facing families and society at large.</p><p>Even if the novel is not definitive about how time is moving, Erdrich consistently reminds the reader that there are many ways that time can move, and Cedar hears and articulates this multiple times. Before leaving her biological mother Sweetie's home, Cedar overhears DNA experts on television "who say on the molecular level [genetics] is like skipping around in time, and that small-celled creatures and plants have been shuffling through random adaptations for months now" <ref type="bibr">(Erdrich 2017, 44)</ref>. The visual of genetics "skipping around" evokes a playful kind of sideways unpredictability that would, one might expect, produce "random adaptations". Later, after escaping from the gravid female detention centre, Cedar and her mother, Sera, revisit the problem of time. Sera describes the present as "hell", and when Cedar asks her if she means "politically or otherwise", Sera responds: "By otherwise, you mean everything going backward?" <ref type="bibr">(2017,</ref><ref type="bibr">208)</ref>. But Cedar challenges Sera's temporal characterization and instead offers: "Turning around to the beginning. Maybe that's not the same as going backward" (208). If time moves as a spiral, embedding both a dynamic linear and cyclical impulse alike, Cedar can be understood as saying that turning around is not always the same as going backward. Despite Sera's despair, Cedar maintains an optimistic commitment that "things aren't really going backward. Things aren't really falling apart. All that is happening, even the purest chaos, physical and personal, even political, is basically all right" (208). The gene mutations that are skipping around in time do appear as pure chaos to the human scientists and politicians commenting on them; Cedar's hopeful observation that it is "basically all right" follows Whyte and Indigenous ecological thinking more broadly, releasing the human-centred fierce hold onto the progressive linear time of colonial futurity. To understand Cedar's articulation of decolonial hope further, we should similarly let go of the popular understandings of both evolutionary time and humanity's position in the world, which, as the following section argues, Elizabeth Grosz's work on Darwin and evolutionary time could enable us to do.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>An evolving view of evolutionary time</head><p>The previous section demonstrated that "sideways time" is a viable temporal mode in the novel and has resonant overlaps with the spiralling and kinship times described by Whyte. By skipping around, unfolding irregularly, unravelling and undoing, these temporalities always-already challenge the anthropocentric evolutionary time that undergirds not only western philosophies of human development and change and dominant ways of narrating climate change, but they also traffic in the racist imperialist logic that leads to settler colonial violence and genocide, as can be seen in the novel's American context. As noted above, through Eddy, Erdrich marks the importance of Columbus's arrival in 1492 as the moment that inaugurates Native adaptation in the face of European colonialism; elsewhere, the legacies of settler colonialism are contextualized and evoked through Cedar's personal and family history: the Indian Child Welfare Act that should have made it "almost impossible" for Cedar's white parents to adopt her <ref type="bibr">(Erdrich 2017, 4)</ref>, the fact that the reservation is not mappable by GPS but locatable by physical landmarks (11), and Eddy's early September letter to Cedar while she is in hiding at home, saying that "the governmental collapse" might provide an opportunity to "make our move and take back the land" (95). The fascist American government's widespread removal of babies in the name of defending humanity's genetic future, too, expands the horror of child removal experienced by Indigenous families to all women and families. The effect of the plot is not to diminish but rather to underscore the violence by applying it indiscriminately. Attempts to rehabilitate or theorize evolutionary time contend with this history of scientific racism; Erdrich's Eddy and the feminist theorist Elizabeth Grosz reframe apocalypse and adaptation and evolution and time in the domains of fiction and philosophy, respectively. This section aims to show not just that "sideways", spiralling, or kinship time challenges evolutionary time, but that the revisions of evolutionary time emanating from queer theory intersect with the principles of kinship time and ecology in promising and useful ways that can amplify their shared critique of dominant linear time models. This critique is crucial for the novel's formulation of decolonial hope in an otherwise dire environment.</p><p>Over the course of her career, Grosz has revised understandings of evolutionary time through her close and faithful readings of Charles Darwin's scholarship. Though often assumed to be teleological, linear, and developmentalist, Darwin's evolutionary timeand with it, the notion of "origin" and the "human" as a species apart from other animals -is in fact far more disruptive as it "opens up life to other forms of development beyond, outside, and after the human" <ref type="bibr">(Grosz 2011, 16)</ref>. In language that is reflected in Cedar's views of sideways time, Grosz finds that evolution contains both unpredictable and historical elements, "in the sense that the nature of species in the past prefigures and provides the raw material for present and future species but in no way contains, limits, or directs them to any particular goal or destination" <ref type="bibr">(2005,</ref><ref type="bibr">38)</ref>. She clarifies that the "past is not the causal element of which the present and future are given effects but an index of the resources that the future has to develop itself differently" (38).</p><p>If we have come to assume a teleological element to evolutionary change, it is only through a "retrospective" approach, by "piecing together fragments to provide a narrative or story that is already over". In other words, we can retrospectively determine the forces and pressures, adaptations and mutations that yield present life forms, but these developments are not inevitable. Likewise, the future is similarly unconstrained because "it is impossible to predict what will follow <ref type="bibr">[ . . . ]</ref> what will emerge from a particular encounter, how natural selection will effect individual variation, and how individual variation will respond to and transform natural selection" <ref type="bibr">(Grosz 2005, 39)</ref>. I do not intend this refashioning of evolutionary time to supplant either sideways, kinship, or spiralling time. But each of these different temporal modes -separately as well as working together -has implications for identifying openings for plotting futures at odds with hegemonic, linear time that can serve as the foundation for decolonial futures and critical hope. Time unfolds (or, in Grosz's preferred term, "becomes") in a forward fashion, but Darwin "refuses to assume that the temporal movement forward can be equated with development or progress" <ref type="bibr">(Grosz 2005, 17-18)</ref>. Instead, life evolves "without plan, direction, or purpose", and what we might at first blush see as "the apparently perfect adaptation of species to the specificities of their environment and for long-term survival, is the result of both serendipity or chance of individual variation" (24). Grosz insists on the chaotic randomness of chance in evolutionary unfolding; it makes then very little sense to describe what is occurring in Future Home of the Living God as evolution going backward or reversing, since it would seem to lose the sense of open-ended futurity that "evolutionary time" posits. The novel makes this same point through providing the perspective of a palaeontologist (and author of the book Deep Time) on television, whom Cedar hears alongside her parents:</p><p>So if evolution has actually stopped, which is by no means fact, it is only speculation, and if evolution is going backward, which is still only an improbable idea, then we would not see the orderly backward progression of human types that evolutionary charts are so fond of preserving. Life might skip forward, sideways, in unforeseen directions. We wouldn't see the narrative we think we know. Why? Because there was never a story moving forward and there wouldn't be one moving backward <ref type="bibr">[ ... ]</ref>. We might actually see chaos. <ref type="bibr">(Erdrich 2017, 55)</ref> With fidelity to Darwinian evolutionary thought, the palaeontologist reminds viewers that "backward" evolution -a kind of temporal, developmental paradox -would work surprisingly differently from what might be assumed. The irrepressibility of newness in the palaeontologist's account is noteworthy; this is not simply a resurgence of what was assumed to have been surpassed, but a multidirectional, branching chaos of transformation that, from various points of view, could be understood as variably forward, backward, or sideways. The result, Emily McAvan (2022) summarizes, is that Erdrich "complicate[s] the orderly narrative of evolution that circulates popularly, suggesting that we need to see humanity as the product of a wild and complicated history" (96).</p><p>This theory of life and transformation has serious implications for notions of both origin and species. Origin, as Grosz describes it, drawing on Darwin, is "neither a divinely ordained beginning ex nihilo [ . . . ] nor is it the result of an infinite, unbroken material and historical change of organisms through descent" but instead "a consequence of human, or rather, scientific taxonomy, a function of language" (2004, 23). When we separate the human species from others, what we are in fact doing is "decid[ing] to draw the line between one group and another that resembles it, preexists it, or abides in close proximity to it" (23). Strict distinctions between the human and the animal are loosened -both Grosz and Cedar in different contexts settle on the word "undone" -because, Darwin argues, "the differences between man and other animal species are differences of degree, not differences in kind" <ref type="bibr">(Grosz 2011, 16)</ref>. Though McAvan surprisingly does not reference Grosz, she does observe that Future Home of the Living God "raises the question of whether a human will give birth to an animal and what that might mean in the age of climate change" <ref type="bibr">(2022,</ref><ref type="bibr">95)</ref>. This article argues by way of response that it is a very Darwinian challenge to what some have erroneously taken evolutionary time to imply: that is, the prospect of a "human" giving birth to an "animal" dramatizes that the two species are in fact separated by differences of degree, not in kind. If we do adopt a retrospective view, we would see that "the qualities that have been variously used to characterise man's specific uniqueness are already developed in some perhaps more elementary or less elaborated form in animal species" <ref type="bibr">(Grosz 2011, 18</ref>). Grosz's recuperation of Darwinian evolutionary temporality and ontology intersects with the anti-hierarchical kinship ecology found in Erdrich's works and in Ojibwe cosmology more generally, engendering a relationship to the past, present, and future that, as Cedar articulates, is unabashedly hopeful <ref type="bibr" target="#b19">(Sparks 2022)</ref>.</p><p>While others around her fetishize "the originals" -foetuses that appear not to exhibit the genetic changes that have come to dominate -Cedar stresses her love for her unborn child regardless of its abilities and appears to affirm a more flexible understanding of what constitutes the human in the first place. She writes, "I hope that you will someday read" the diary entries, but continues to write regardless of the possibility that the child will not <ref type="bibr">(Erdrich 2017, 31;</ref><ref type="bibr">my emphasis)</ref>. In Kristen <ref type="bibr" target="#b18">Shaw's (2022)</ref> convincing reading of the novel, Cedar "does not lament the loss of the human in the same way" that others around her do and therefore she "rejects the narratives of progress that are reproduced by both reproductive futurism and colonial narratives of Western expansion and progress" (337). Building from Shaw's points, one can see that the novel does not so much depict the "loss" of the human as radically decentre the exceptionality of the human. Man, for Darwin and in Grosz's words, is a "temporary species", and life is "not a rational strategy for survival [ . . . ] but the infinite elaboration of excess [ . . . ] into both new forms of body and also new forms of culture, new modes of social organization, new arts, new species" <ref type="bibr">(Grosz 2011, 119)</ref>. In this spirit, I challenge McAvan's conclusion that in the novel, "the creation model in which human and animal constitute radically different domains is becoming undone by climate change" (2022, 103), because the objective undesirability of human-caused climate change would suggest that the distinction between human and animal is inherently valuable. What is ultimately "undone" is the epistemic violence that insists on a hierarchical distinction between the two. This scenario in turn would permit a slightly different reading of an exchange between Sera and Cedar about Phil -the baby's father -who turned Cedar in to the authorities after he was tortured. Sera pleads, "Don't blame him", and Cedar responds: "Well, duh. [ . . . ] He's a human being" <ref type="bibr">(Erdrich 2017, 191)</ref>. This exchange straightforwardly asserts that Phil is human, and by nature unable to withstand the state's violence. But it could also be read philosophically, that he consciously occupies the position of "human being" in an anthropocentric view of the world, one where he might privilege his survival, his lineage, and his future. Support for this interpretation emerges later, when Phil presses Cedar: "if our baby is normal. We could be in charge of things. Rich. Super rich! We'd be safe. If we somehow worked out genetically, I mean, to have a normal child the sky's the limit for us" <ref type="bibr">(Erdrich 2017, 246)</ref>. This is the last encounter between the two that Cedar documents, as Phil and his anthropocentrism are dismissed. Building from Cedar's perspective and referring to Grosz's Darwinian thought, I argue that the children in Future Home of the Living God can be appreciated as different from current humans -and animals -only in degree, not in kind.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Adapting evolutionary and kinship time: Challenging reproductive futurity</head><p>Up to this point, this article has tracked the various instantiations of time and temporality evoked in Future Home of the Living God, from kinship and spiralling time to a model of evolutionary time that is faithful to Darwin's original radical thought. Each of these temporal modes or world views challenges aspects of dominant linear time as "progressive" and "developmental" or "teleological", and resituates the human in interconnected, interdependent relations with other life forms. These revisions represent oblique assaults on hegemonic, western conceptions of time that underpin colonial violence, and, in that sense, they lend themselves indirectly to fashioning "decolonial hope". But, in this final section, I show that queer theory's critique of reproductive futurity, when viewed through the prism of this article's earlier discussion of Indigenous temporalities and evolutionary time, addresses itself to decolonial hope explicitly.</p><p>The following analysis is indebted to Kristen Shaw's (2022) recent study, which draws its critique of reproductive futurity from Lee <ref type="bibr" target="#b5">Edelman (2004)</ref> and Lindsay Nixon (2020), though notably not Elizabeth Freeman, who is referenced below. Queerness emerges for Shaw with reference to Edelman "in opposition to the logic of reproductive futurism as it disrupts the social order and society's investment in the way that the social and political are organized" <ref type="bibr">(Shaw 2022, 324)</ref>. Reproductive futurism, as Shaw describes, "is not only concerned with managing reproduction to invest in the child (as representative of the future), but also about ensuring the reproduction of the 'right' kind of children, and therefore, the 'right' kind of citizen of the future" (324). While the mechanisms of "The Church of the New Constitution" -the successor to the USA -do exhibit the hallmarks of a maniacal commitment to reproductive futurism, from drafting "womb volunteers" to raiding IVF (in vitro fertilization) clinics for "leftover" embryos that might be "original" humans, to surveilling and detaining pregnant women, I contend that the novel by contrast foregrounds a crisis of reproductive futurism. The resultant babies continue stubbornly to transform, adapt, and mutate in ways that thwart the state's efforts, regardless of its policies and propaganda extolling the values of surviving the country's literal reproductive project.</p><p>The child is an overdetermined symbol of futurity and hope in speculative fictions, and it is especially so in Future Home of the Living God. Cedar's baby is due on Christmas Day, and she calls him "the light of the world", a clear alignment of the child with Christ <ref type="bibr">(Erdrich 2017, 6, 209)</ref>. Reproductive futurism figures the child as the "perpetual horizon of every acknowledged politics" <ref type="bibr" target="#b5">(Edelman 2004;</ref><ref type="bibr">quoted in Shaw 2022, 324)</ref>, but Erdrich quite literally refuses to engage the child as the horizon of the text's politics, as the baby is born but missing. Cedar's belief in the value of its life regardless of where it falls on a human-animal continuum is unshaken. "The figure of the Child", Edelman writes, "enact[s] a logic of repetition that fixes identity through identification with the future of the social order" (25), but each repetition can introduce the possibility of an imperfect copy. This is particularly true for Future Home of the Living God, whose biological chaos underscores the potential difference initiated with every attempt at replication.</p><p>Working against the homogeneous, empty time of reproductive futurism, Freeman argues that resistive queer temporalities might take the form of "asynchrony, anachronism, anastrophe, belatedness, compression, delay, ellipsis, flashback, hysteron-proteron, pause, prolepsis, repetition, reversal, surprise" among others <ref type="bibr">(2010, xxii)</ref>. Several of these qualities are apparent in Future Home of the Living God, though for the purposes of this article I emphasize and explore the impact of "reversal" specifically. To start with the obvious, the premise of the novel is that the "reversal" of life to so-called "earlier" forms is inexplicable, although, as demonstrated above, the assumption that mutations and other biological changes are indicative of life or time moving backward is contested. Kemball's reading of reversals within the novel's plot is both instructive and persuasive; she identifies several moments where Cedar reverses her account of events. According to Kemball, these "narrative reversals" are opportunities of empowerment, to which I would add hope; Kemball argues that this mode of narration "textually reproduces the mode of unravelling and weaving" that "draw[s] on Indigenous spiral temporalities and Ojibwe artistic practices" <ref type="bibr">(2022,</ref><ref type="bibr">165)</ref>. Though it is beyond the scope of the present article to reproduce each nuance of Kemball's rich argument, she points to how reversal appears in the novel not just thematically but also formally, shaping and transforming its engagement with the past, present, and future. Reversal is consistent with the novel's use of "undoing", which, again, is not the same as linear movement backward in time.</p><p>This difference is important in appreciating how the novel configures decolonial hope in "undoing" aspects of settler colonialism. Eddy, in whose letters are recorded discussions of reversals and unravelling, is again the centre for this hope. The biological chaos that throws reproductive futurity into crisis is an opportunity for Eddy and his tribe; though the Dawes Act of 1887 transformed communally held tribal lands into private property and diminished the tribe's overall holdings by offering undistributed parcels of land to white settlers, Eddy's militia has started to reclaim land "within the original boundaries of our original treaty" <ref type="bibr">(Erdrich 2017, 214)</ref>. The new map that reflects these gains -these reversals -moves many of the tribal community assembled to tears as they consider the decolonial implications of reclaiming land and expanding their sovereignty. Geographer Danika <ref type="bibr" target="#b3">Cooper (2023)</ref> affirms the importance of mapping histories of dispossession; by "redrawing the United States landscape as literal ground for Indigenous sovereignty by mapping boundaries of dispossession", we might then "propose new boundaries for the return of lands to Indigenous peoples". Though also a tool of settler colonial expansion, mapping can be retooled to serve the goal of "mapping reparative futures" (66).</p><p>Reversals in time, as well as in space, are integral to the decolonial hope imagined in Erdrich's novel. For Freeman, queer temporalities like reversals are "visible" as "forms of interruption" and "are points of resistance to this temporal order that, in turn, propose other possibilities for living in relation to indeterminately past, present, and future others" <ref type="bibr">(2010, xxii)</ref>. The spatial reclaiming of land to re-establish tribal sovereignty is one reversal that interrupts the prevailing dominant temporal order; another interruptive reversal concludes the novel as Cedar reflects on her childhood. She relates to her child how the deep cold used to feel, as well as her parents' stories of how winter gradually ended. Cedar remembers one last snow when she was eight, which is what she meditates on in the interminable meanwhile between her first birth and the impending impregnation she assumes will come <ref type="bibr">(Erdrich 2017, 266)</ref>. The dominant past tense of the entry -"We ran outside and stood on the dull green lawn, transfixed" (266-267) -gives way to the present tense under the power of this memory:</p><p>And I can feel it now, so heavy. <ref type="bibr">[ ... ]</ref> And I am in it, falling down in it, shoveling snow into my mouth and throwing snow up in the air, pelting snow at my mother and my father. Whiteness fills the air and whiteness is all there is. I am here, and I was there. (267)</p><p>The conclusion reverses Cedar's time back to an earlier moment of snow, and since the end of snow has not (yet) happened in our lifetimes, readers are placed in a future we might avert if we are, as Whyte argues, attentive to kinship time and not seduced by linear time. The memory interrupts Cedar's narrative of her present imprisonment and impinges on the present with such force that the snow and its whiteness are all there is, now and then.</p><p>I understand this pull of the past on the present as a specific kind of temporal interruption that Freeman calls temporal drag, characterized by "retrogression, delay, and the pull of the past on the present" <ref type="bibr">(2010,</ref><ref type="bibr">62)</ref>. Drag is a "productive obstacle to progress, a usefully distorting pull backward, and a necessary pressure on the present tense" that can also illuminate the "temporal and structural norms" of "chrononormativity" (64; emphasis in original). In Freeman's work, Lisa <ref type="bibr" target="#b0">Baraitser (2014)</ref> summarizes, "time 'binds' us [ . . . ] into specifically patterned lives, intimately linked to national narratives, capitalist economic logics, and timelines of birth, development, marriage, reproduction, the accumulation and passing on of wealth, and death" (2). In addition to these chrononormative patterns aligned with reproductive futurity, the temporal dimensions to chrononormativity entail "causality, sequence, forward-moving agency, and so on" <ref type="bibr">(Freeman 2010, 64)</ref>. Chrononormativity is formidable because it is obscured; Freeman writes that it is "a technique by which institutional forces come to seem like somatic facts", such that "historically specific regimes of asymmetrical power" are converted "into seemingly ordinary bodily tempos and routines, which in turn organize the value and meaning of time" (3). Through its interruptive pressure on the present, temporal drag repudiates the power of chrononormativity's temporalizing order. Part of the novel's work -mobilizing reversal and unravelling -is an undoing of these very binds.</p><p>The first step, of course, is to make those binds visible, and that is part of speculative fiction's power in Future Home of the Living God. Phil is enmeshed in the same heteropatriarchal, white society that has intensified into the dystopian State of the New Constitution. He admits to Cedar in their last conversation: "After all, it's a global crisis, it's the future of humanity, so you can see why they need to keep an eye on women" <ref type="bibr">(Erdrich 2017, 246)</ref>. We might agree that what the novel depicts is very much an ontological crisis of what humanity is in relation to other forms of life on earth; such an interpretation is consistent with my reading of the novel's critique of evolutionary time, origins, and taxonomizing species. But the novel also condemns the implicit assumptions of Phil's passion for the "future" of humanity: that to sustain the distinction and hierarchical positioning of "human" at the top to dominate all others, we must as a matter of course subordinate Native life and women. Decolonial hope faces the challenge of undoing not only the binds of settler colonial violence and white supremacy, but also the concomitant oppression of women.</p><p>Decolonial hope and futurity are not possible unless the violence of settler colonialism is acknowledged and addressed; this is the already-occurred apocalypse that Eddy has identified as happening "all along" <ref type="bibr">(Erdrich 2017, 27)</ref>. In the spirit of evolutionary time, Erdrich takes the resources of the present and presciently identifies how the world might develop in the future if the way society is organized continues. Whether the novel's critique of temporality is approached from the vantage of kinship time or evolutionary time, both result in decentring humans and an openness to other temporalities beyond a linear mode. From Whyte, we appreciate the solidarity that inheres when we affirm interdependence and that all life, from humans to animals to plants, is undergoing a kind of biological crisis in the novel; from Grosz, we understand evolutionary time as unfolding in ways that are neither teleological nor limited by anthropocentric ideas about progress and improvement. By revealing the enmeshment of colonial and reproductive futurity and the reckless disregard for interdependence, sideways time enables insights consonant with the temporalities of kinship and evolutionary time, which in turn allows us to see the oppressive temporal orderings of Cedar's world as an image of our own.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Conclusion: Contemplating "beginnings"</head><p>Acknowledging that I am a white settler living and working on unceded land, I intentionally centre and begin this conclusion with Cedar's description of a moment of transformative time, which offers a glimpse of a tentative, hopeful future despite the otherwise dystopian world: Today I see something I have never seen before. A bird about the size of a hawk swoops off the oak. [ ... ] I glimpse its head-beakless, featherless, lizardlike, rosy red. [ ... ] The bird, or whatever it is, seems to be eating both fruit and the insects ... A graceful thing with fluid, darting movements, it behaves exactly like a lizard-bird. It is captivating. <ref type="bibr">[ ... ]</ref> In spite of what this tells me about the fate of living creatures and the world in general, I am lost in contemplation. I have that sense of time folding in on itself, the same tranced awareness I experienced in the ultrasound room. I realize this: I am not at the end of things, but the beginning. <ref type="bibr">(Erdrich 2017, 92)</ref> Cedar's sense of time "folding" evokes the multidirectionality of what this article has called "sideways" time, which in turn reorients her away from the apocalyptic sense of living in an "end time" and instead yields an epiphany about beginnings and, strangely, given the ostensibly dystopian world she otherwise describes, momentary beauty. Moreover, with an attitude that finds fuller expression later as she accepts and anticipates the birth of her child, whatever its abilities or its relation to the concept of the human, Cedar opts not to dwell on "whatever it is", instead praising its captivating, graceful movements.</p><p>This article has introduced various ways of visualizing time "sideways", which, despite their different provenances, are united by challenging the dominance of linear time to narrate the evolution of life and the climate crisis. Rather than depicting a hoped-for, fully realized decolonial future founded on solidarity and planetary sustainability, the theoretical/temporal framework developed in this article outlines the shifts in perception and valuation founded on kinship and interdependence needed to live in and through decolonial hope: hope as ontology and not simply directed towards a specific object. From Whyte's Indigenous temporalities scholarship, "sideways" can be envisioned as taking the form of relation, of network, of honouring horizontal and not just vertical relationships. Undoing can be appreciated as not a simple reversal, and, in Cedar's words, going back to the beginning is not the same as going backward -instead, we might start to see time as Whyte's spiral. From Grosz's radical evolutionary time, sideways time evokes unpredictable branching and transformation of life that resists anthropocentric teleology as well as a simplistic notion of "origins". And from Freeman's work, we can imagine "sideways" as taking the form of a delay, an interruption, a stalling, a pause, or a drag on the present. The pressure on the present tense can come from the past, such as the hauntings and eruptions of the legacies of settler colonial violence and environmental devastation, but also from the pressure originating from a future posited through decolonial hope, dramatized in the novel through the suggestive map of tribal land reclamation. In these moments, time resists a forward-backward binary and elongates, allowing new possibilities to be intuited.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Notes</head><p>1. See, for example, declarations that Cedar's world is "running backwards" <ref type="bibr">(Martínez-Falquina 2019, 163)</ref>, "the very process of evolution has reversed" (McAvan 2022, 94), or at most, "evolution has stopped" <ref type="bibr">(Shaw 2022, 321)</ref>. 2. See also Byron <ref type="bibr" target="#b2">Caminero-Santangelo (2014), and</ref><ref type="bibr" target="#b4">Elizabeth M. DeLoughrey, Jill Didur, and</ref><ref type="bibr" target="#b4">Anthony Carrigan (2015)</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Disclosure statement</head><p>No potential conflict of interest was reported by the author. </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Notes on contributor</head></div><figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_0"><head></head><label></label><figDesc>Amanda Lagji is an associate professor of English and world literature at Pitzer College in Claremont, California where she teaches courses on postcolonial and global anglophone literatures. She is the author of Postcolonial Fiction and Colonial Time: Waiting for Now (2022). Her articles and book chapters have appeared in Companion to Migration Literature (2025), Temporalities in/of Crises in Anglophone Literatures (2024), Studies in the Novel, and Mobilities, among others.</figDesc><table /></figure>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="14" xml:id="foot_0"><p>A. LAGJI</p></note>
+		</body>
+		<back>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<analytic>
+		<title level="a" type="main">Time and Again: Repetition: Maternity, and the Non-Reproductive</title>
+		<author>
+			<persName><forename type="first">Lisa</forename><surname>Baraitser</surname></persName>
+		</author>
+		<idno type="DOI">10.16995/sim.3</idno>
+		<ptr target="https://doi.org/10.16995/sim.3" />
+	</analytic>
+	<monogr>
+		<title level="j">Studies in the Maternal</title>
+		<imprint>
+			<biblScope unit="volume">6</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="1" to="7" />
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<title level="a" type="main">The Future that Haunts Us Now&apos;: Oblique Cli-Fi and Indigenous Futurity</title>
+		<author>
+			<persName><forename type="first">Kyle</forename><surname>Bladow</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Transmotion</title>
+		<imprint>
+			<biblScope unit="volume">7</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="130" to="150" />
+			<date type="published" when="2021">2021</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<monogr>
+		<title level="m" type="main">Different Shades of Green: African Literature, Environmental Justice, and Political Ecology</title>
+		<author>
+			<persName><forename type="first">Byron</forename><surname>Caminero-Santangelo</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2014">2014</date>
+			<publisher>University of Virginia Press</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title level="a" type="main">Spatializing Reparations: Mapping Reparative Futures</title>
+		<author>
+			<persName><forename type="first">Danika</forename><surname>Cooper</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Architectural Education</title>
+		<imprint>
+			<biblScope unit="volume">77</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="66" to="86" />
+			<date type="published" when="2023">2023</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title level="a" type="main">Introduction: A Postcolonial Environmental Humanities</title>
+		<author>
+			<persName><forename type="first">Elizabeth</forename><forename type="middle">M</forename><surname>Deloughrey</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Jill</forename><surname>Didur</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Anthony</forename><surname>Carrigan</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Global Ecologies and the Environmental Humanities: Postcolonial Approaches</title>
+		<editor>
+			<persName><forename type="first">Elizabeth</forename><forename type="middle">M</forename><surname>Deloughrey</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">Jill</forename><surname>Didur</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">Anthony</forename><surname>Carrigan</surname></persName>
+		</editor>
+		<imprint>
+			<publisher>Routledge</publisher>
+			<date type="published" when="2015">2015</date>
+			<biblScope unit="page" from="1" to="25" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<monogr>
+		<author>
+			<persName><forename type="first">Lee</forename><surname>Edelman</surname></persName>
+		</author>
+		<title level="m">No Future: Queer Theory and the Death Drive</title>
+		<imprint>
+			<publisher>Duke University Press</publisher>
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<monogr>
+		<title level="m" type="main">Future Home of the Living God</title>
+		<author>
+			<persName><forename type="first">Louise</forename><surname>Erdrich</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2017">2017</date>
+			<publisher>Harper</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<monogr>
+		<author>
+			<persName><forename type="first">Elizabeth</forename><surname>Freeman</surname></persName>
+		</author>
+		<title level="m">Time Binds: Queer Temporalities, Queer Histories. Perverse Modernities</title>
+		<imprint>
+			<publisher>Duke University Press</publisher>
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title level="a" type="main">Time Travels: Feminism, Nature, Power</title>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">A</forename><surname>Grosz</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Next Wave: New Directions in Women&apos;s Studies</title>
+		<imprint>
+			<publisher>Duke University Press</publisher>
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<monogr>
+		<author>
+			<persName><forename type="first">Elizabeth</forename><surname>Grosz</surname></persName>
+		</author>
+		<title level="m">The Nick of Time: Politics, Evolution, and the Untimely</title>
+		<imprint>
+			<publisher>Duke University Press</publisher>
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<monogr>
+		<author>
+			<persName><forename type="first">Elizabeth</forename><surname>Grosz</surname></persName>
+		</author>
+		<title level="m">Becoming Undone: Darwinian Reflections on Life, Politics, and Art</title>
+		<imprint>
+			<publisher>Duke University Press</publisher>
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<monogr>
+		<title level="m" type="main">The Queer Art of Failure</title>
+		<author>
+			<persName><forename type="first">Jack</forename><surname>Halberstam</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2011">2011</date>
+			<publisher>Duke University Press</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<monogr>
+		<title level="m" type="main">Naturalizing Africa: Ecological Violence, Agency, and Postcolonial Resistance in African Literature</title>
+		<author>
+			<persName><forename type="first">Cajetan</forename><surname>Iheka</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Nwabueze</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2017">2017</date>
+			<publisher>Cambridge University Press</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<title level="a" type="main">Decolonial Hope and Planetary Solidarity: Fostering Sustainability through African Life Narratives</title>
+		<author>
+			<persName><forename type="first">Goutam</forename><surname>Karmakar</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Postcolonial Writing</title>
+		<imprint>
+			<biblScope unit="volume">61</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="313" to="330" />
+			<date type="published" when="2025">2025</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<title level="a" type="main">Biocolonial Pregnancies: Louise Erdrich&apos;s Future Home of the Living God</title>
+		<author>
+			<persName><forename type="first">Anna</forename><surname>Kemball</surname></persName>
+		</author>
+		<idno type="DOI">10.1136/medhum-2021-012250</idno>
+		<ptr target="https://doi.org/10.1136/medhum-2021-012250" />
+	</analytic>
+	<monogr>
+		<title level="j">Medical Humanities</title>
+		<imprint>
+			<biblScope unit="volume">48</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="159" to="168" />
+			<date type="published" when="2017">2022. 2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title level="a" type="main">Louise Erdrich&apos;s Future Home of the Living God: Uncertainty, Proleptic Mourning and Relationality in Native Dystopia</title>
+		<author>
+			<persName><forename type="first">Silvia</forename><surname>Martínez-Falquina</surname></persName>
+		</author>
+		<idno type="DOI">10.28914/Atlantis-2019-41.2.08</idno>
+		<ptr target="https://doi.org/10.28914/Atlantis-2019-41.2.08" />
+	</analytic>
+	<monogr>
+		<title level="j">Atlantis: Journal of the Spanish Association for Anglo-American Studies</title>
+		<imprint>
+			<biblScope unit="volume">41</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="161" to="178" />
+			<date type="published" when="2019">2019</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<title level="a" type="main">Undoing Creation in the Climate Change Apocalypse: Animality and Evolution in Louise Erdrich&apos;s Future Home of the Living God</title>
+		<author>
+			<persName><forename type="first">Emily</forename><surname>Mcavan</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Literary Animal Studies and the Climate Crisis</title>
+		<editor>
+			<persName><forename type="first">Sune</forename><surname>Borkfelt</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">Matthias</forename><surname>Stephan</surname></persName>
+		</editor>
+		<imprint>
+			<publisher>Palgrave Macmillan</publisher>
+			<date type="published" when="2022">2022</date>
+			<biblScope unit="page" from="93" to="106" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<analytic>
+		<title level="a" type="main">Visual Cultures of Indigenous Futurism</title>
+		<author>
+			<persName><forename type="first">Lindsay</forename><surname>Nixon</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Otherwise Worlds: Against Settler Colonialism and Anti-Blackness</title>
+		<editor>
+			<persName><forename type="first">Tiffany Lethabo</forename><surname>King</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">Jenell</forename><surname>Navarro</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">Andrea</forename><surname>Smith</surname></persName>
+		</editor>
+		<imprint>
+			<publisher>Duke University Press</publisher>
+			<date type="published" when="2020">2020</date>
+			<biblScope unit="page" from="332" to="342" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<analytic>
+		<title level="a" type="main">Reproductive Futurism, Indigenous Futurism, and the (Non)human to Come in Louise Erdrich&apos;s Future Home of the Living God</title>
+		<author>
+			<persName><forename type="first">Kristen</forename><surname>Shaw</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Technologies of Feminist Speculative Fiction: Gender, Artificial Life, and the Politics of Reproduction</title>
+		<editor>
+			<persName><forename type="first">Sherryl</forename><surname>Vint</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">Sümeyra</forename><surname>Buran</surname></persName>
+		</editor>
+		<imprint>
+			<publisher>Springer International Publishing</publisher>
+			<date type="published" when="2022">2022</date>
+			<biblScope unit="page" from="321" to="324" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<analytic>
+		<title level="a" type="main">Kinship Ecology and the Bildungsroman: The Child-Animal Relationship in Louise Erdrich&apos;s the Birchbark House Series</title>
+		<author>
+			<persName><forename type="first">Angela</forename><surname>Sparks</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/0950236X.2022.2030117</idno>
+		<ptr target="https://doi.org/10.1080/0950236X.2022.2030117" />
+	</analytic>
+	<monogr>
+		<title level="j">Textual Practice</title>
+		<imprint>
+			<biblScope unit="volume">36</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="404" to="421" />
+			<date type="published" when="2022">2022</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<analytic>
+		<title level="a" type="main">Indigenous Science (Fiction) for the Anthropocene: Ancestral Dystopias and Fantasies of Climate Change Crises</title>
+		<author>
+			<persName><forename type="first">Kyle</forename><surname>Whyte</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Powys</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Environment and Planning E: Nature and Space</title>
+		<imprint>
+			<biblScope unit="volume">1</biblScope>
+			<biblScope unit="issue">1-2</biblScope>
+			<biblScope unit="page" from="224" to="242" />
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<analytic>
+		<title level="a" type="main">Geoengineering and Indigenous Climate Justice: A Conversation with Kyle Powys Whyte</title>
+		<author>
+			<persName><forename type="first">Kyle</forename><surname>Whyte</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Holly</forename><forename type="middle">Jean</forename><surname>Powys</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Buck</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Has It Come to This? The Promises and Perils of Geoengineering on the Brink</title>
+		<editor>
+			<persName><forename type="first">J</forename><forename type="middle">P</forename><surname>Sapinski</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">Holly</forename><forename type="middle">Jean</forename><surname>Buck</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">Andreas</forename><surname>Malm</surname></persName>
+		</editor>
+		<imprint>
+			<publisher>Rutgers University Press</publisher>
+			<date type="published" when="2021">2021</date>
+			<biblScope unit="page" from="69" to="81" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<analytic>
+		<title level="a" type="main">Time as Kinship</title>
+		<author>
+			<persName><forename type="first">Kyle</forename><surname>Whyte</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Powys</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">The Cambridge Companion to Environmental Humanities</title>
+		<editor>
+			<persName><forename type="first">J</forename><surname>Cohen</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">S</forename><surname>Foote</surname></persName>
+		</editor>
+		<imprint>
+			<publisher>Cambridge University Press</publisher>
+			<date type="published" when="2021">2021</date>
+			<biblScope unit="page" from="39" to="55" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

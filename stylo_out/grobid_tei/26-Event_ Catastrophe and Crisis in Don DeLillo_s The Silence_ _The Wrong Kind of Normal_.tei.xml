@@ -1,0 +1,676 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Event, Catastrophe and Crisis in Don DeLillo&apos;s The Silence: &quot;The Wrong Kind of Normal&quot;</title>
+				<funder ref="#_PYECS5d">
+					<orgName type="full">Spanish Ministry of Science and Innovation</orgName>
+				</funder>
+				<funder ref="#_dhKT74Z">
+					<orgName type="full">Ministerio de Ciencia, Innovación y Universidades</orgName>
+				</funder>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author role="corresp">
+							<persName><forename type="first">Paula</forename><surname>Martín-Salván</surname></persName>
+							<email>ff2masap@uco.es</email>
+							<affiliation key="aff0">
+								<orgName type="department">Department of English and German Studies</orgName>
+								<orgName type="institution">University of Córdoba</orgName>
+								<address>
+									<settlement>Córdoba</settlement>
+									<country key="ES">Spain</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff1">
+								<orgName type="department">Facultad de Filosofía y Letras</orgName>
+								<orgName type="institution">University of Córdoba</orgName>
+								<address>
+									<addrLine>Plaza del Cardenal Salazar 3</addrLine>
+									<postCode>14071</postCode>
+									<settlement>Córdoba</settlement>
+									<country key="ES">Spain</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Event, Catastrophe and Crisis in Don DeLillo&apos;s The Silence: &quot;The Wrong Kind of Normal&quot;</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date/>
+						</imprint>
+					</monogr>
+					<idno type="MD5">E8DEDCE6BBB9131DBA03BC504FE06E3B</idno>
+					<idno type="DOI">10.1080/00111619.2025.2602725</idno>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.0" ident="GROBID" when="2026-02-25T19:55+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>Don DeLillo's The Silence (2020) was completed just before the COVID-19 pandemic broke out. The text resonates with the idea of crisis, as it narrates a world-wide technological catastrophe produced when digital communication systems collapse on the day of the 2022 Super Bowl. Rather than explaining its causes and consequences, the narrative focuses on a reduced set of characters secluded in an NYC apartment. I argue that DeLillo's strategy of retreat to the domestic responds to his recurrently expressed convictions about the ineffable nature of catastrophe. In his consideration of the catastrophic event as inexpressible, DeLillo's creative sensibility is tuned in with contemporary philosophical conceptualizations of the "event" by Laurent Berlant, Jacques Derrida, and Alain Badiou. Finally, I contend that the text's use of paratextual and typographic elements creatively contributes to its discourse on catastrophe, projecting an optimistic outlook.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Introduction</head><p>Don DeLillo's latest novel to date, The Silence, was published in October 2020. The text had been finished just before the Covid-19 pandemic broke out, as the publishers mentioned in promotion materials about the novel: "Don DeLillo completed this novel just weeks before the advent of Covid-19. The Silence is the story of a different catastrophic event. Its resonances offer a mysterious solace." 1 Among its credentials as a text produced in the context of crisis and depicting it, we may mention its epigraph, attributed to Albert Einstein-"I do not know with what weapons World War III will be fought, but World War IV will be fought with sticks and stones"-and the uncannily prescient line near its end-"But remaining fresh in every memory, virus, plague, the march through airport terminals, the face masks, the city streets emptied out" (TS 88). <ref type="bibr">2</ref> The novel is thus framed within a context in which the extraordinary and the catastrophic loom large on the horizon and readers may feel tempted to recognize, retrospectively, as prophetic. This perception aligns with a recurrent mode in the reception of DeLillo's work for the past four decades, which frequently underscores the author's ability to analyze current events and anticipate the future course of history. The critical reading of The Silence needs to be framed within such reception context more generally, and understanding the role that catastrophic, extraordinary events play in DeLillo's oeuvre may illuminate our appreciation of this novel.</p><p>More specifically, the novel's plot recounts a worldwide technological catastrophe, as all digital communication systems suddenly collapse on the day of the 2022 Super Bowl game. This event, which as one of the characters states "marks the fall of world civilization" (TS 35), happens without previous notice or apparent cause. Yet, rather than explaining its causes and consequences, the narrative focuses on a reduced set of characters isolated from the outside, who end up secluded in an NYC apartment. The event itself remains undetermined, fuzzy in the characters' and readers' imaginations, as the difficulties to communicate and access information about the outside world are precisely its most noticeable consequence.</p><p>Unable to know exactly what has happened, the characters in the novel-and by extension the readers, whose perspective is confined to what the characters themselves know-go through different stages as they realize that whatever has happened is having permanent, long-lasting effects on their lives. They speculate on potential causes, engage in trivial conversations, turn to obsessive behavior, in their attempts to recover a sense of normality, and slowly give up to the idea that their world has changed forever. DeLillo's focus, in this story about worldwide catastrophe, remains conspicuously on the domestic, small-scale effects of the event rather than on the large-scale analysis of its causes and consequences. This affects, as I will argue, the generic adscription of the novel to the extent that it touches upon tropes that are typical of the apocalyptic mode, or science-fiction, but does not follow the standard narrative conventions of such genres.</p><p>In this essay, I propose a reading of The Silence that examines the narrative affordances of the ideas of crisis, catastrophe, and event as conceptualizations of life-changing situations. I begin by contextualizing DeLillo's depiction of crisis and catastrophe in his previous work and the critical reception of his perceived tendency to identify ongoing and even future crises. I consider that DeLillo's management of the idea of crisis in his novels tends to repeat a pattern, a narrative strategy, which I describe as a retreat to the domestic. The recurrence of such narrative pattern is crucial for the understanding of the critical reception of his work in terms of genre, since novels like The Silence, which borrows a typical trope from apocalyptic fiction-total technological collapse-deviates from standard narratives of this kind. Thus, I would argue that such narrative outline, in which the story focuses on the retreat to the domestic rather than offering a wide canvas of a global crisis, responds to DeLillo's convictions about the ineffable nature of the catastrophic. Furthermore, in his consideration of the catastrophic event as inexpressible, impossible to be directly narrated, DeLillo's creative sensibility seems to be in tune with philosophical approaches to the concept of "event" elaborated by Laurent Berlant, Jacques Derrida, and Alain Badiou. My reading of The Silence, thus, perceives DeLillo's rendering of the catastrophe narrated as an "emerging event" (Berlant 5): "a state of animated and animating suspension that forces itself on consciousness, that produces a sense of the emergence of something in the present that may become an event" (4). The novel, by focusing on how ordinary individuals cope with the emergence of a life-changing situation, allows readers to examine our own cognitive and social processes when confronted with the catastrophic. It is in this regard that we may appreciate the novel's "mysterious solace."</p><p>The Silence is one of DeLillo's shortest novels, with an extremely narrow narrative scope that invites a consideration of its style as minimalistic. In terms of plot, it focuses on the few hours before and after the central event that marks its narrative arc. This means the text itself refuses to envision, at plot level, what the future may hold for its characters or for humankind in general. Such narrative uncertainty may be read along the lines of the provisional, emerging nature of the event itself and adds to the impression produced by this brief, urgent novel. However, we may observe how other elements deployed in the book, such as its management of paratexts and typography, may performatively inform us about what the text does not make explicit. Both the Einstein epigraph and the font used in the printed editions of the novel suggest that, while the event may have caused a considerable technological regression for humankind, civilization may have survived. I contend, therefore, that the text's use of paratextual and typographic elements creatively contributes to its discourse on catastrophe and, perhaps most significantly, projects a hopeful, relatively optimistic outlook.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>DeLillo's Credentials as Chronicler of Contemporary Crises</head><p>The association of The Silence with real-life crises is, as already mentioned, part of the context in which the novel was published. The references to plague, contagion, masks at key moments in the text inevitably connect it with the Covid-19 pandemic, even if this text narrates a different kind of crisis. The connection was fed, in part, by a story registered in an interview between DeLillo and David Marchese from the New York Times Magazine, upon the novel's publication in October 2020:</p><p>Marchese: In the first galley copy I read, there's a scene in which a character is reciting disastrous events and mentions Covid-19. Then I was told there were changes to the book and was sent a second galley. Covid-19 was gone. Why did you take it out? DeLillo: I didn't put Covid-19 in there. Somebody else had. Somebody else could have decided that it made it more contemporary. But I said, "There's no reason for that."</p><p>Marchese: I'm shocked that an editor or whoever had the chutzpah to jam anything, let alone a Covid-19 mention, into one of your books.</p><p>DeLillo: It wasn't going to stay, that's for sure. (Marchese 2020, n.p.)   The sentence in question was, allegedly, this: "Cyberattacks, digital intrusions, biological aggressions. Anthrax, smallpox, pathogens. The dead and disabled. Starvation, plague and what else?" 3 The anecdote triggered, if only momentarily, the decades-long conversation about DeLillo's ability to anticipate, in his books, future events and crises. Rachel Cooke, for instance, wrote for the Irish Times: "Don DeLillo's fans have come to feel that he is able to tune into vibrations far beyond the perceptions of other writers-and thus that his unnerving prescience is all part of the very spooky deal. But even by his standards, the timing of his new book, The Silence, is extraordinary" (2020, n.p.). Isavella Vouza, for the Oxonian Review, began her review in a similar vein: "Eerily prescient, uncannily prophetic, literary clairvoyant: these are some of the epithets that are frequently attributed to Don DeLillo as a writer whose dystopian literary realities materialise in real life" (2021, n.p.).</p><p>Joyce Carol Oates once said about DeLillo that he is "a man of frightening perception." 4 His alleged ability to foresee catastrophe and crises in contemporary America has become a cliché, routinely mentioned by interviewers like Robert McCrum-"In the process of exploring America, DeLillo has become credited with extraordinary powers of literary clairvoyance" (2010, n.p.)-and in profiles -"Now he is being embraced as clairvoyant" (Brockes, n.p.). The author himself, however, has repeatedly shown his discomfort at being regarded as prophetic. When asked in 2005 about whether his fiction may contain some kind of future warning, DeLillo's response was: "I have absolutely no desire to be seen as a prophet" (Bou and Thoret, n.p.). Later, in 2010, when asked about this by Alexandra Alter for an interview in the Wall Street Journal, DeLillo replied: I don't think it's prescience. Writers, some of us, may tend to see things before other people do, things that are right there but aren't noticed in the way that a writer might notice-that's all. Certainly I've never tried to imagine what the future will hold. It's a hopeless endeavor to try to do such a thing . . . There are certain things that people don't pay a deep attention to as they happen. (2010, n.p.) <ref type="bibr">5</ref> Clairvoyant or not, the fact remains that his fictions seem extraordinarily attuned to the American national crises of the last century and their global resonance. These include his reflections about the JFK assassination in Libra (1988) and the 9/11 attacks in Falling Man (2007) and his depictions of a toxic spillage in White Noise (1985), the rise of Islamic fundamentalism in Mao II (1991) and the potential financial crisis anticipated in Cosmopolis (2003). <ref type="bibr">6</ref> In The Silence, one of the characters, Martin Dekker, high school teacher of physics, says about Albert Einstein: "He said it and then we saw it [. . .] His universe became ours" (TS 30). This could perhaps apply to DeLillo himself, as evinced precisely in the title of the already mentioned Marchese interview: "We All Live in Don DeLillo's World. He's Confused by It Too." In this regard, Martin Amis's appreciation of DeLillo may be the best in capturing the impression of his sensitive attention to the ongoing: "I would nevertheless submit that it is his general receptivity to the rhythms and atmospheres of the future that we should value, rather than the slightly carny business of confirmable outcomes" (2011, n.p.). It is precisely such receptivity, I suggest, that may prove illuminating for the understanding of his undertaking in The Silence, a novel that concentrates on capturing, precisely, the imminent.</p><p>Near-Future Realism in The Silence: The Mundane Versus the Extraordinary Despite the previously quoted statement-"I've never tried to imagine what the future will hold"-The Silence is set in its near future (2022) regarding the moment of its writing (2019-2020) and technically speaking it does try to imagine precisely what the future might hold. Simultaneously, however, everything about the catastrophic event portrayed by DeLillo seems so familiar as to cancel the "futuristic" potential of the novel.</p><p>Because the novel is set in 2022, it belongs to a strange category of "future-now-past" novels, not very different from how we read Orwell's 1984 since 1984. Like DeLillo's previous novel Zero K (2016), on cryogenics-and other contemporary cultural representations such as Ted Chiang's and Charles Yu's science fiction works, Charlie Brooker's Black Mirror (2011-) or Russell T. Davies's Years and Years (2019)-one is tempted to classify The Silence as at the crossroads of near-future realism and "mundane science fiction." This concept originates in the "Mundane Manifesto" by Geoff Ryman et al., signed at the 2004 Clarion West workshop, which rejects popular tropes in science fictionaliens, flying saucers, time travel or teleportation, interstellar travel-and claims instead "[t]hat the most likely future is one in which we only have ourselves and this planet." Thus, the signatories of the Manifesto advocate "[a] new focus on human beings: their science, technology, culture, politics, religions, individual characters, needs, dreams, hopes and failings." 7 This dogma-like approach to science fiction involves embracing realism as primary expressive mode with a clear ethical and social purpose to explore the continuities between our present and our potential futures. <ref type="bibr" target="#b0">8</ref> In The Silence, Martin Dekker, one of the characters, describes their predicament as "a future that isn't supposed to take form just yet" (67). In this regard, DeLillo's text may be said to constitute an exploration of precisely such a paradigm.</p><p>Against the grain of future-oriented narratives in the fields of dystopian, postapocalyptic, or science fiction, which typically establish a noticeable temporal gap between the readers' present and the diegetic present, The Silence stresses the continuities between our present and the near-future portrayed. Rather than establishing a discontinuity, a breaking point between present and future that creates a cognitive estrangement and affords our sense of wonder at the unknown world depicted (Stockwell 6), DeLillo works by inserting such an unthinkable breaking point into his narrative, emphasizing the continuity between present and future.</p><p>The catastrophic event envisioned in The Silence is first described as a "systems failure" (TS 34), apparently encompassing the interruption of all digital communications systems worldwide. It is depicted in the first part of the novel in two settings, a plane on a flight from Paris to New York that starts to "bounce side to side" (TS 15) until crash landing and a NYC apartment, where three people are getting ready to watch the Super Bowl until the screen goes blank (TS 26) and the characters realize that phones, laptops, tablets, and other domestic electronic devices are not working. In both settings, the failure is described in terms that underscore the extraordinary nature of an occurrence affecting people's ordinary lives. It seems to match Alain Badiou's definition of "event": "An event is a rupture in the normal order of things. It is something that happens unexpectedly and is not reducible to the circumstances that gave rise to it. An event is always singular and exceptional, interrupting the flow of the known and the predictable" (Badiou Being 178).</p><p>What is perhaps most extraordinary about DeLillo's narration, however, is how verisimilar everything is. The sense of cognitive estrangement is minimal. Even if such an event has never actually occurred in our world, what happens in the novel seems not surprising at all. In this sense, the actual meaning of the term mundane should be recalled in order to underscore precisely the emphasis on the ordinary as central to the concept. While the Mundane Manifesto itself, and most discussions about it, focuses on the verisimilitude or likelihood of specific science fiction tropes such as time travel, <ref type="bibr" target="#b1">9</ref> authors tend to obviate that the mundane is a matter of perspective as well. Mundane science fiction works such as Ted Chiang's "Story of Your Life" (1998) or Charles Yu's "Standard Loneliness Package" (2010) fit into the category because they are narrated from the perspective of ordinary characters whose daily lives are set in worlds containing (for us) extraordinary elements such as alien arrivals and the outsourcing of human emotions via technological devices. Similarly, The Silence is written in such a way as to focus exclusively on its ordinary characters' reactions to an extraordinary event.</p><p>I would argue, moreover, such lack of wonder-which is also expressed by characters as "the sense of having experienced this before" (TS 65)-may be connected to a sense of constantly anticipated catastrophe in the context of theorizations on crisis as the permanent condition of modernity, or "permacrisis." Presciently or not, DeLillo chose to set his novel in 2022, the same year the Collins Dictionary chose "permacrisis" as "word of the year." This portmanteau term was defined as "an extended period of instability and insecurity, especially one resulting from a series of catastrophic events." <ref type="bibr" target="#b2">10</ref> The keywords "extended" and "series" evoke permanence and iteration, which in turn run counter to the very notion of "event" as a singular and exceptional interruption of normality. Such apparent contradiction was anticipated by Ulrich Beck in the seminal book Risk Society (1986) in which crisis is defined as the permanent condition of advanced modernity, characterized by the social production of risks and hazards (Risk Society, 19). Part of The Silence's familiar uncanniness derives from the feeling that "the longer the world teeters on the brink, the greater the likelihood for even bigger problems" (Brown et al.). Beck, who claims modernity is characterized by a sense of crisis without event, has termed this "the subjunctive as a permanent condition. We live in the constant expectation of catastrophes that might occur tomorrow" (Beck German Europe, 8). Thus, while the actual collapse of the electronic systems as such has not taken place in our present, the accumulation of singular events in the recent past contributes to the perception of its plausibility in the context of permacrisis, in which the extraordinary has become "the new normal." 11</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Stylistic Minimalism and the Retreat to the Domestic</head><p>The Silence, thus, navigates the contradictory condition of permacrisis, exploring the effects of worldwide catastrophe in the mundane lives of a few individuals. In DeLillo's writing, the response to the catastrophic is shaped at both stylistic and thematic levels. Most elements of the novel, including its length, discursive and syntactic organization, character system, plot development and setting, work toward a style we may call minimalistic-one that, I contend, affords him to narrow the scope of his narrative perspective in a way that, as argued earlier, runs opposite to the large-scale canvas that seems to characterize narratives of crisis.</p><p>The Silence can be identified with what critics call DeLillo's "late style," <ref type="bibr" target="#b4">12</ref> characterized by a stylistic minimalism and concentration that started with The Body Artist (2001) but that can also be traced back to his plays, The Engineer of Moonlight (1979) and Love-Lies-Bleeding (2005). <ref type="bibr" target="#b5">13</ref> With its 116 pages and large typography, The Silence is DeLillo's shortest novel to date. The language tends to short, fragmented sentences, one-sentence paragraphs, simple syntax, lists of items or actions. The discursive style, therefore, oscillates between the epigrammatic form and the Joycean catalog. <ref type="bibr" target="#b6">14</ref> Kevin Power, discussing the peculiar style of DeLillo's phrasing, claims that "DeLillo has always been a diligent epigrammatist" (2018, n.p.). Yet, as both Power and other critics such as Stephen J. Burn have argued, the most recognizable feature of his writing is perhaps his management of aural and visual patterns in sentences like: "Lost systems in the crux of everyday life" (TS 55). This is a feature critics have frequently connected to DeLillo's deployment of Joycean diction (Nel 13-14). <ref type="bibr" target="#b7">15</ref> Burn, moreover, relates his "crisp formulations" and their "crystalline quality of smaller narrative particles" to DeLillo's ability "to render the looming dangers hidden in ordinary life with a kind of prophetic glow" (181--182). This stylistic precision works in combination with DeLillo's tendency to focus on the mundane: "DeLillo's remarkable intelligence works across the surface of these lives, looking for gaps in the matrix of ordinary moments where his sentences can probe deeper" (Burn 182). Such gaps, as perceived by Burn, afford "a flicker of danger eating away at the edges of the narrative's frame" (182). Significantly, Burn identifies the extraordinary-a flicker of danger-as situated on the margins of the narrative frame (at the edges), thus implicitly identifying DeLillo's tendency to adopt a skewed perspective on the catastrophic.</p><p>There is a minimalistic quality to the novel at the thematic level too, almost a theatricality, that derives also from its management of reduced narrative resources. There are only five characters in the novel (Jim, Tessa, Diane, Max, Martin) and one main setting (Max and Diane's Manhattan apartment) in which all the characters gather. In this regard, as already mentioned, The Silence follows what has become a tendency in DeLillo's drama and his late fiction. <ref type="bibr" target="#b8">16</ref> Even the first, prefatory section following Jim and Tessa as they survive the crash landing and walk toward Max and Diane's apartment seems to be moving toward the gathering of all characters in one single setting. For most of the novel, characters remain inside the apartment, dominated by the gigantic black screen of the TV set. The plot itself is nearly devoid of peripetia, of events regarded as significant changes of state, and rather follows what we could identify as the different stages in the characters' reaction and adaptation to the event that, in Burn's words, flickers at the edges of the narrative (182). To DeLillo's readers, such perspective on the catastrophic surely seems familiar. One of the most salient aspects of DeLillo's portrayal of crisis, here as in his previous catastrophe-ridden novels like White Noise (1985) and Falling Man (2007), is what I would call the retreat to domesticity. Most famously, White Noise has become a classic portraying the postmodern relation between the domestic, technology, and the catastrophic. <ref type="bibr" target="#b9">17</ref> In White Noise, of course, the (always on) TV set dominates the domestic setting, as a reminder of the mediated, indirect access to the catastrophe itself. The narrative focuses on the protagonist family's difficulties in coping with an actual large-scale catastrophe-an airborne toxic spillage-of the kind they are used to watching on TV. The text deliberately avoids focusing on the institutional and technical management of the crisis itself and rather keeps its perspective focused on the Gladney family and their mundane, often hilarious, reactions to it. Similarly, DeLillo's Falling Man has its main character, Keith Neudecker, return to his ex-wife's apartment immediately upon escaping the North Tower of the World Trade Center minutes before its collapse on 9/11. This first gesture of return to the domestic sphere signals the novel's narrowing of its scope-in a narrative progression meant to probe the aftermath of national catastrophe-to the domestic realm. <ref type="bibr" target="#b10">18</ref> Like its predecessors, The Silence focuses with suffocating intensity on what goes on inside the apartment, relinquishing any attempt to provide large-scale depictions of the event itself, or how the subsequent crisis is being managed by international institutions. Rather, these are speculated upon by the characters themselves, as discussed below.</p><p>Readers may legitimately ask: Why does DeLillo create such a narrative arch-the worldwide catastrophic event-to adopt a deliberately slanted perspective on it? A potential answer to that question comes, as already anticipated in the preceding section, from considering how his focus is, not so much on the descriptive world-building mechanisms of conventional sci-fi or apocalyptic fiction, but on the affective and communal continuities that the event apparently interrupts. The novel, I would argue, is built as a fictional rendering of the process of identifying an occurrence as an event, as theorized by Lauren Berlant and Alain Badiou in terms of its embedding into ordinary life. DeLillo treats the catastrophe as an "emerging event" (Berlant 5): "a state of animated and animating suspension that forces itself on consciousness, that produces a sense of the emergence of something in the present that may become an event" (4). Moreover, as Badiou claims, "[T]he event is not the mere occurrence of something new but the creation of a new possibility that redefines the structure of the situation. An event establishes a new truth and requires the subjects to recognize and incorporate this new truth into their understanding of the world" (Logics 56). What we witness, in the novel, is characters' attempts to make sense of their present, through their sustained "attention to the becoming event" (Berlant 6). Thus, the novel may be read in parallel to Berlant's concept of "crisis ordinariness" (10), which points to an understanding of crisis not as exceptionality but "a process embedded in the ordinary that unfolds in stories about navigating what's overwhelming" (10).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>The Ineffable Event and the Affective Present</head><p>In The Silence, characters struggle to make sense of their present, constantly wondering about the event and theorizing about its causes, thus enacting Lauren Berlant's observation that the present is "a process of emergence" (7). Such emerging quality attributed to the event is also noted by Alain Badiou, who describes it as "incalculable novelty" and stresses its rupture of epistemological consensus, "the hole that it bores in established knowledges" (Ethics 32).</p><p>For Berlant, this undecidability of the event-the impossibility to think it within the frame of existing forms of knowledge-is best depicted through the form of the "impasse," described as "temporary housing" (Berlant 5) or a precarious state of living characterized by "both a wandering absorptive awareness and a hypervigilance that collects material that might help to clarify things" (4). This understanding that the early perception of crisis may be described as "an impasse" throws light on DeLillo's representation of the catastrophic: "[T]he impasse is a stretch of time in which one moves around with the sense that the world is at once intensely present and enigmatic" (Berlant 4). Berlant's approach to the "impasse" as "temporary housing" could be said to find an echo in the shape of DeLillo's novel itself, as it literally contains the whole of the worldwide crisis within the confined space of the apartment temporarily offering shelter to all characters. We should note that Diane and Max, whose apartment serves as the main setting for the novel, are introduced as hosts to a dinner party-a Super Bowl party for their friends Jim, Tessa, and Martin-which turns into a longer act of hospitality of unforeseeable duration when communications and, by extension, the transportation systems, collapse. The characters' gathering in the apartment is, therefore, the perfect image of such "temporary housing" forced by the emergence of an event.</p><p>The impasse, moreover, is connected to our need to cope with what is happening and understand it, a process demanded by the undecidable nature of an event itself, as argued by Badiou: "[S]ince the event was excluded by all the regular laws of the situation-[it] compels the subject to invent a new way of being and acting in the situation" (Badiou Ethics 41-42). This leads us "to manag[e] simultaneous, incoherent narratives of what is going on" (Berlant 4). The process is rendered, in The Silence, as a surprising number of nonconfirmed potential explanations of the event. In the absence of external confirmation on the causes and nature of the event by any institutions or official instances, the characters speculate on what may have happened. Among the theories they come up with, we find the following:</p><p>"What we have here is a communication screwup that affects this building and maybe this area and nowhere else and nobody else." (Max; TS 30) "A sunspot. A strong magnetic field." (Max &amp; Diane's neighbor; TS 35) "It could be algorhythmic governance. The Chinese [. . .] They've initiated a selective internet apocalypse." (Martin; TS 26-27) "Some kind of natural breakdown or foreign intrusion." (Martin; TS 65) "A power station that failed." (Diane; TS 68) <ref type="bibr" target="#b11">19</ref> In the second part of the novel, Martin begins to recite a list of potential catastrophic events, including "Mass surveillance software that makes its own decisions" (80) and "Bioweapons" (81) among others. The weirdest explanation, though, is the one offered by Max in the last part of the novel: "We're being zombified [. . .] We're being bird-brained" (Max; 84). The most interesting diagnosis of the catastrophe is, perhaps, the one offered by Diane early in the text: "All the people watching intently or sitting as we are, puzzled, abandoned by science, technology, common sense" (TS 29). Diane's observation points to the confusion produced by the event but also the absence of anchorage points-provided by entities normally assigned the role of offering certainties in the public sphere: science, technology, common sense-that should be communicated precisely through the media that have collapsed as a consequence of the event itself. In the absence of such a process of codification in the public sphere, the present-"what makes itself present to us before it becomes anything else" (Berlant 4)-imposes itself as an affect under constant revision.</p><p>As characters digest what is happening, they express the difficulties of naming the catastrophic, thus, signaling a shift in their concern from the problem of knowing to the problem of naming: "What is the current situation? [. . .] Whatever is going on, it has crushed our technology" (TS 59). <ref type="bibr" target="#b12">20</ref> Later, the narrator argues, "A sense also of fear-in-waiting because it wasn't clear yet what this might mean, how radical, how permanent an aberration in what was already a drastic shift of events" (TS 61). This is a characteristic DeLilloesque concern, expressed recurrently in this work, perhaps most famously in White Noise. Recalling the evolution of the nomenclature applied to the identification of the catastrophic event in that novel is pertinent here, since it constitutes an early fictional representation that most readers may find retrospectively recognizable as a commentary on the politics of naming the catastrophic. Just as we went from "Wuhan virus" to "coronavirus" to "COVID-19" in the early months of 2020, <ref type="bibr" target="#b13">21</ref> characters in White Noise go from "feathery plume" to "billowing cloud" to "airborne toxic event" in naming the toxic spillage that affects their town (DeLillo White Noise, 111,  114). Underlying such efforts to find the proper name is the impossibility to approach the event directly, something DeLillo himself wrote about in his essay on 9/11, "In the Ruins of the Future" (2001): "In its desertion of every basis for comparison, the event asserts its singularity. There is something empty in the sky. The writer tries to give memory, tenderness and meaning to all that howling space" (39).</p><p>Jacques Derrida's reflections on 9/11 illuminate the simultaneous compulsion to describe the event and its ineffable nature, in terms that DeLillo's own writing illustrates: "Something" took place, we have the feeling of not having seen it coming, and certain consequences undeniably follow upon the "thing." But this very thing, the place and meaning of this "event," remains ineffable like an intuition without concept, like a unicity with no generality on the horizon or with no horizon at all, out of range for a language that admits its powerlessness. (Derrida 86)</p><p>In the face of such ineffability, characters in The Silence struggle to describe "the situation that surrounds [them]" (TS 88), yet they remain keenly aware of the futility of their efforts: "[T]he current situation tells us that there is nothing else to say except what comes into our heads, which none of us will remember anyway" (TS 111). As Jiena Sun has argued, characters in the novel oscillate between the compulsion to describe and the admission of the untellable (Sun 975-976).</p><p>The novel, we should note, is conspicuously entitled The Silence, yet characters are never silent regarding the catastrophic event. Their ruminations about what is happening constitute most of the textual material, in a story characterized by its limited chronotope and its nearly total absence of peripetia (with the evident exception of the event itself). Whose silence does the title of the novel indicate then? The blank screens, which DeLillo has identified as the image that inspired the novel (Marchese, n.p.), may be said to symbolize technological silence and, through it, the silence of institutions and media. It is, we may conclude, the state's silence that the title actually designates. Against such silence the characters' overflowing of speculative talk aims to "coordinate the standard melodramatic crises with those processes that have not yet found their genre of event" (Berlant 4). A closer look at the text allows us to identify several communicative strategies deployed by characters and narrator to palliate the effects of institutional silence. Among the textual mechanisms deployed by DeLillo to underscore this we may find:</p><p>(a) The comparison with previous situations/events: "It is clear by now that the launch codes are being manipulated remotely by unknown groups or agencies. All nuclear weapons, worldwide, have become dysfunctional. Missiles are not soaring over oceans, bombs are not being dropped from supersonic aircraft" (TS 77). While the text seems to identify the current crisis with escalating conflict -"the war rolls on and the terms accumulate" (TS 77)-the use of the negative betrays a mechanism of failed comparison: "Do people experience memories of earlier conflicts?" (TS 77). (b) Expressions of unreality and ineffability: "This inconceivable time" (TS 78); "This astonishing time" (TS 91); "it wasn't clear yet what this might mean, how radical, how permanent an aberration in what was already a drastic shift of events" (TS 60); "What if all this is some kind of living breathing fantasy?" (TS 87); "Are we witnessing a deviation in nature itself? A kind of virtual reality?" (TS 113). (c) The use of the interrogative: "Is this the casual embrace that marks the fall of world civilization?" (TS 35); "From the one blank screen in this apartment to the situation that surrounds us. What is happening? Who is doing this to us? Have our minds been digitally remastered? . . ." (TS 88); "What is the current situation?" (TS 59). (d) Resort to the language of paranoia and conspiracy: ""Hidden networks [. . .] Changing by the minute, the microsecond, in ways beyond our imagining. Look at the blank screen. What is it hiding from us?" (TS 28); "something secret, covert, intimate" (TS 86); "It was always at the edges of our perception" (TS 88); "Are we an experiment that happens to be falling apart, a scheme set in motion by forces outside our reckoning?" (TS 88-89). (e) The calls for silence: "This time he said nothing" (TS 42); "Shouldn't I be home, alone, in my room? Isn't this what the circumstances warrant? No word from anyone, anywhere" (TS 103).</p><p>Most fragments in the second part of the novel include calls for silence on characters' part, as in, "This leads me to say that it's time to shut up, Tessa" (TS 113). These bits emphasize the paradoxical impulse expressed by Max: "the current situation tells us that there's nothing else to say except what comes into our heads" (TS 111).</p><p>In the "impasse" brought about by the event, the present imposes its singularity against common communicative strategies we may deploy. As noted by Berlant, and also by Derrida in connection to 9/ 11, the bewilderment provoked by the event is temporary, as language soon masters the "incalculable novelty of a truth" (Badiou Ethics 32). What The Silence registers is, I argue, the affective present in the aftermath of a "becoming event." This is the term used by Lauren Berlant in Cruel Optimism to refer to how "the present is what makes itself present to us before it becomes anything else, such as an orchestrated collective event or an epoch on which to look back" (4). This is described in the text as follows: "The state of things, the world outside, this would require another kind of look whenever it became appropriate" (TS 57). Yet, while DeLillo's characters gesture toward overarching explanations of the event, they need to constantly bring themselves back to this affective present, to raw, unfiltered perceptions of what is happening that cannot be reduced to categorization and is thus "under constant revision" (Berlant 4). Thus, Max reminds them: "Let's return to the here and now" (TS 30), a thought echoed later by Diane: "Our food. Here and now" (TS 72). And Jim and Tessa hold on to basic human interaction: "To touch, embrace, speak nonstop" (TS 38). By the end of the novel, Tessa has reduced existence to the bare minimum here and now: "Tend to the simplest physical things. Touch, feel, bite, chew. The body has a mind of its own" (TS 113). In Berlant's words: "Knowing how to assess what's unraveling there is one way to measure the impasse of living in the overwhelmingly present moment" (Berlant 49). The unraveling, in DeLillo's rendering, is expressed through the shift from the technologically mediated to the affective-material experience of reality, stressed through his insistence on verbs referring to tactile, taste and other sensory perceptions.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Paratextual Optimism</head><p>DeLillo's words in connection to the lasting effects of 9/11 may be applied to the fictional situation envisioned in The Silence: "This catastrophic event changes the way we think and act, moment to moment, week to week, for unknown weeks and months to come, and steely years" ("In the Ruins" 33).</p><p>Rather than isolating the event itself as absolutely exceptional in an otherwise continuous flow of "normality," DeLilllo underscores the lasting transformation effected by it. Yet, the text itself refuses to look beyond its immediate present, thus sticking to Diane's maxim to concentrate on "[h]ere and now" (TS 72). We may note that while the first part of the novel is divided into numbered sections and narrated in the past tense, the second part shifts into present tense and is much less systematically arranged, indicating perhaps the surrender to the affective present. This has been described by Justin Taylor: "[N]umbered chapters are abandoned in favor of short scenes separated by page breaks, as though the text itself has responded to the increasing entropy of the world outside of the apartment" (Taylor 164). The sense of urgency and simultaneity produced by the present tense narration has the additional effect of bringing the readers' experience closer to the characters,' depicted by Jiena Sun as suggesting "the timelessness, in addition to the immediacy, of this apocalyptic shutdown. Martin's trepidation of the worst is confirmed and communicated by an all-knowing narrator in a way that is more accessible and therefore more relatable" (Sun 971). Such effect reinforces the sense of continuity from the fictional to the real world, blurring the borders that keep it contained within the confines of the diegetic.</p><p>I would argue, moreover, that the text finds indirect ways to indicate continuities toward its diegetic future, which are not registered thematically but rather through paratextual and typographic devices. In this sense, the catastrophic event may be said to appear as framed within what we may call "paratextual optimism." Among the mechanisms DeLillo uses to point to such continuities beyond the storyworld itself are the text's use of paratextual and typographic elements, which creatively contribute to its discourse on catastrophe and, perhaps most significantly, project a hopeful, relatively optimistic outlook. Gerard Genette's classic study of paratexts first defined such textual material as "thresholds" rather than "boundaries" (2) and claimed that they constitute a "fringe" area, "always the conveyor of a commentary that is authorial or more or less legitimated by the author, [. . .] a zone between text and off-text, a zone not only of transition but of transaction" (2; emphasis in the original). Drawing on J. Hillis Miller's seminal essay "The Critic as Host" (1979), Genette observed that the prefix "para" points precisely to the permeable membrane connecting an outside and inside, the fictional and our world, we may add. It is from such fringes, below what is rendered thematically explicit in the text, that a sense of optimism may be said to emerge in the text.</p><p>The first of these mechanisms is the aforementioned Einstein quote used as epigraph for the novel. <ref type="bibr">22</ref> Einstein features prominently in the text, since his work is the subject of Diane and Martin's research in physics. The epigraph is mainly evoked in the main text when Martin states: "Nobody wants to call it World War III but this is what it is" (TS 79). The Einstein quote apparently originates in the context of warnings on the use of nuclear weapons during World War II and its immediate aftermath, signaling the annihilating potential of nuclear warfare for human civilization condensed in the idea of the sticks and stones signifying a regression to prehistoric technologies. Yet, we may point out how it simultaneously indicates the survival of the human species, and it creates an effect in the novel that works in combination with the use of typography as a meaningful device.</p><p>The second mechanism is the text's peculiar use of typography. The Silence is printed in a typewriter-style serif font mimicking the look of a text written on a manual typewriter. This is something that may go unnoticed if we read it in ebook format, <ref type="bibr" target="#b14">23</ref> but that is quite noticeable in printed book editions of the novel. This, of course, suits DeLillo's practice of writing the first draft of his novels on his Olympia typewriter, a preference he has frequently discussed in interviews. <ref type="bibr" target="#b15">24</ref> Additionally, though, the typography used may signify a technological regression to mechanical forms of writing, which may in turn be interpreted as a material sign of the irreversibility of the collapse of digital technologies depicted in the novel. As with the Einstein quotation, the typewriter is an ambivalent sign, in pointing to technological regression while simultaneously confirming survival. The "silence" alluded to in the title is attributed to contemporary communication technologies but not to human beings and their mechanical abilities and tools. In this regard, DeLillo's novel joins tendencies in the field of speculative fiction like deindustrial fiction (New Maps) or postdigital aesthetics (Bell 33-34), which depict a world in which the impact of digital technologies and its potential disappearance is creatively interrogated. These fictions, like DeLillo's The Silence, are set in what the editors of New Maps call "an age of consequences," chronicling "the long decline of industrial civilization" resulting from the imminent scarcity of fossil fuels and the ecological destruction wrought in the process (n.p.). What DeLillo's text glimpses are precisely some of those immediate consequences.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Conclusion</head><p>The Silence moves away from considerations of the event as exceptional rupture in the ordinary and rather focusses on the depiction of its present as impasse: "a stretch of time in which one moves around with a sense that the world is at once intensely present and enigmatic" (Berlant 4). Characters in the novel wonder whether the blackout has rendered human beings "completely unmoored from all the habits and patterns" (TS 86) and they speculate about apocalyptic scenes of crowds "running wild, breaking and entering" (TS 86). However, the text emphasizes precisely the process of adjustment to the impasse, by pointing to how characters cling to what, in Zero K, another character calls "the soporifics of normalcy" (209). In the impasse represented in the novel, we observe how characters gesture toward past experience, in the attempt to reconstruct lines of continuity with what is known, and toward the immediate future, in the attempt to work out a new sense of normality. This "new normal" is identified in the text as derived from the construction of an affective present: "Be serious. Be here" (TS 91). As the focus on present experience occupies the text's and the characters' full attention, we see them embody what the narrator of Zero K experienced as an aspiration: "Things people do, ordinarily, forgettably, things that breathe just under the surface of what we acknowledge having in common. I want these gestures, these moments to have meaning, check the wallet, check the keys, something that draws us together . . . " (ZK 209). In the absence of any further communication, such moments and gestures become all that is left for characters to make sense of themselves.</p><p>A further conclusion to be drawn from the analysis of DeLillo's portrayal of the event as impasse comes from the recurrent comments on the novel's prescient quality that, I would argue, betray an uncanny recognition on readers' part. Like Max, many readers experience a sort of déjà vu when reading the novel -"the sense of having experienced this before" (TS 65) The extraordinary, I believe both DeLillo and Berlant would agree, "always turns out to be an amplification of something in the works" (Berlant 10). Perhaps that is why, like Diane in the novel, we feel that the event depicted is somehow already familiar: "But didn't this have to happen? Isn't that what some of us are thinking? We were headed in this direction. No more wonder, no more curiosity" (TS 105). In the same way as characters perceive the event as something they had somehow foreseen ("All my life I've been waiting for this without knowing it," Max claims; TS 103), so do readers recognize what the novel depicts with a sense of normality. The sense of permanent crisis is indeed our "new normal"-what Tessa in the novel states is "beginning to feel like the wrong kind of normal" (TS 67).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Notes</head><p>1. https://www.simonandschuster.net/books/The-Silence/Don-DeLillo/9781982164553 2. The Silence will be hereafter cited as TS for notational purposes. 3. See Winik (2020). 4. The sentence is frequently quoted and included in book blurbs, though the original reference is hard to trace.</p><p>Joyce Carol Oates apparently wrote this in a review of Americana appearing in the Detroit Sunday News, according to Emma Brockes (2003, n.p.). 5. In the 2005 interview he develops a very similar argument: "It's always nice for a writer to hear it said that he predicted the direction a culture or society was taking but it's not something I feel. It's already hard enough to understand what's actually happening, let alone what will happen . . . Perhaps the novelist is able to see in a clearer, sharper manner what's already there. But that doesn't make the writer a prophet" (Bou and Thoret, n.p.). 6. A more sensationalist version of this perception would have DeLillo anticipate the Bhopal disaster in White Noise and even the 9/11 attacks in the cover art for Underworld (1999), which features a plane looming near the Twin Towers.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Disclosure Statement</head><p>No potential conflict of interest was reported by the author.</p></div>			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" xml:id="foot_0"><p>P. MARTIN-SALVAN</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="10" xml:id="foot_1"><p>P. MARTIN-SALVAN</p></note>
+		</body>
+		<back>
+
+			<div type="acknowledgement">
+<div><head>Acknowledgments</head><p>This work was supported by the project "<rs type="projectName">Democracy, Secrecy and Dissidence in Contemporary Literatures in English</rs>," funded by the <rs type="funder">Spanish Ministry of Science and Innovation</rs> under Grant <rs type="grantNumber">PID2019-104526GB-I00</rs>.</p></div>
+			</div>
+			<div type="funding">
+<div><head>Funding</head><p>The work was supported by the <rs type="funder">Ministerio de Ciencia, Innovación y Universidades</rs> [<rs type="grantNumber">PID2019-104526GB-I00</rs>].</p></div>
+<div><head>Notes on contributor</head><p><rs type="person">Paula Martín-Salván</rs> is a professor of English at the <rs type="institution">University of Córdoba</rs>. Her research focuses on the representations of community, secrecy, and transparency in contemporary fiction.</p></div>
+			</div>
+			<listOrg type="funding">
+				<org type="funded-project" xml:id="_PYECS5d">
+					<idno type="grant-number">PID2019-104526GB-I00</idno>
+					<orgName type="project" subtype="full">Democracy, Secrecy and Dissidence in Contemporary Literatures in English</orgName>
+				</org>
+				<org type="funding" xml:id="_dhKT74Z">
+					<idno type="grant-number">PID2019-104526GB-I00</idno>
+				</org>
+			</listOrg>
+			<div type="annex">
+<div xmlns="http://www.tei-c.org/ns/1.0"> Review, vol. 100, no. 3, 2012, pp. 181-88. doi:10.1353/tyr.2012 " Cornell Review, no. 5, 1979, pp. 21-47, Winter.  ---Falling Man. Scribner, 2007.  ---"</div>			</div>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<analytic>
+		<title level="a" type="main">Mundane Manifesto&quot; do not specify a definition of realism in aesthetic terms but seem to be rather concerned about the issue of plausibility. Underlying such an approach, I would argue, we may identify an Aristotelian understanding of mimesis as verosimilitude, &quot;to describe, not the thing that has happened, but a kind of thing that might happen, i.e. what is possible as being probable or necessary</title>
+	</analytic>
+	<monogr>
+		<title level="j">Poetics</title>
+		<imprint>
+			<biblScope unit="volume">9</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<date>1451a36-1451b11</date>
+		</imprint>
+	</monogr>
+	<note>Recent, more theoretically aware scholarly work on realism like Emilie Walezak&apos;s Rethinking Contemporary British Women&apos;s Writing: Realism, Feminism, Materialism (2021) has precisely tried to reassess the value of realism as a mode of representation-&quot;particularly attuned to depicting the ordinary lives of common people. 1)-in a context in which &quot;the daily texture of life as we knew it is being impacted by global upheavals</note>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">See</forename><surname>Rucker</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+	<note>for instance</note>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title level="a" type="main">However, I would claim that Morin&apos;s term does not capture the idea that the accumulation of discrete but interlocked crises eventually produces a sense of permanent crisis</title>
+		<ptr target="https://theconversation.com/permacrisis-what-it-" />
+	</analytic>
+	<monogr>
+		<title level="m">The Conversation</title>
+		<imprint>
+			<date type="published" when="2008">11 Nov. 2022. 2008</date>
+		</imprint>
+	</monogr>
+	<note>means-and-why-its-word-of-the-year-for-2022-194306. An equivalent term might be polycrisis</note>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<monogr>
+		<title level="m" type="main">The very concept of &quot;the new normal&quot; registers the contradictory nature of the idea of permacrisis, by emphasizing the adaptation to new circumstances after a major disruption or crisis. The term was coined in 1918 by Henry A. Wise Wood in a discussion of the impact of World War I</title>
+		<imprint/>
+	</monogr>
+	<note>published in the National Electric Light Association Bulletin</note>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<monogr>
+		<title level="m" type="main">DeLillo&apos;s minimalistic late style can be clearly identified in the sequence starting with The Body Artist and continuing in Point Omega, Zero K, and The Silence. On DeLillo&apos;s late style see Boxall</title>
+		<imprint>
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+	<note>see also Zubeck (1) or Beckman (1386) on the periodization of DeLillo&apos;s fiction</note>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<monogr>
+		<title level="m" type="main">See Kathleen Fitzpatrick&apos;s assessment of The Body Artist for an analysis of the continuities between DeLillo&apos;s late minimalism and his theatrical production</title>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<monogr>
+		<title level="m" type="main">On Joyce&apos;s use of lists and catalogs, Hugh Kenner&apos;s The Stoic Comedians (1962) remains a staple of Joycean stylistics</title>
+		<author>
+			<persName><forename type="first">Joyce</forename><surname>Delillo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">See</forename><surname>Nel</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2008">2008. 2023</date>
+			<biblScope unit="page" from="52" to="54" />
+		</imprint>
+	</monogr>
+	<note>On the stylistic connections between</note>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<monogr>
+		<title level="m" type="main">Before I shut up I will quote a stray line from Finnegans Wake, a book I&apos;ve been reading on and off, here and there, for what seems like forever. The line has stayed secure in the proper mind slot, the word preserve. Ere the sockson locked at the dure. Just one more thing to say</title>
+		<imprint/>
+	</monogr>
+	<note>Joyce&apos;s Finnegans Wake is actually quoted by one of the characters, Diane, near the end of the novel. To myself this time. Shut up, Diane.&quot; (TS 105</note>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<monogr>
+		<title level="m" type="main">There are noticeable parallels between the character structure, setting and narrative progression of The Silence and those of his early play The Engineer of Moonlight</title>
+		<imprint>
+			<date type="published" when="1979">1979. 2025</date>
+		</imprint>
+	</monogr>
+	<note>For a discussion of The Engineer of Moonlight that accounts for such parameters. see Martín-Salván</note>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<monogr>
+		<title level="m" type="main">It has become nearly imposible to list all scholarly works discussing such dimension of the text, from Baudrillardian to ecocritical perspectives. A relatively recent take on the issue that may work as review of earlier literature on it is Maffey and Teo&apos;s</title>
+		<imprint>
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<monogr>
+		<title level="m" type="main">for an analysis of such narrative strategy in the context of 9/11 fiction, which identifies &quot;the insertion of these novels in a tradition of conventional domestic fictions systemically programmed to cushion the blows of historical t/error</title>
+		<author>
+			<persName><forename type="first">See</forename><surname>Heffernan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Martín-Salván</forename></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<monogr>
+		<title level="m">I have included</title>
+		<imprint/>
+	</monogr>
+	<note>in parenthetical form, the character who proposes each of the theories mentioned in the text</note>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<title level="a" type="main">The idea finds an echo in the words uttered in The Silence by a member of emergency services</title>
+	</analytic>
+	<monogr>
+		<title level="m">There are 100,000 stories crisscrossing New York, Washington, and the world</title>
+		<imprint>
+			<biblScope unit="volume">34</biblScope>
+		</imprint>
+	</monogr>
+	<note>Everyone I&apos;ve seen today has a story</note>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<monogr>
+		<title level="m" type="main">for an analysis of media and institutional naming processes of the COVID-19 pandemic</title>
+		<author>
+			<persName><forename type="first">See</forename><surname>Prieto-Ramos</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<monogr>
+		<title level="m" type="main">Although some ebook versions in formats like Epub do incorporate this visual feature</title>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">See</forename><surname>Marchese</surname></persName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<monogr>
+		<title level="m" type="main">Paratexts: Thresholds of Interpretation</title>
+		<author>
+			<persName><forename type="first">Gérard</forename><surname>Genette</surname></persName>
+		</author>
+		<editor>Richard Macksey</editor>
+		<imprint>
+			<date type="published" when="1997">1997</date>
+			<pubPlace>Cambridge UP</pubPlace>
+		</imprint>
+	</monogr>
+	<note>Translated by Jane E. Lewin</note>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<analytic>
+		<title level="a" type="main">The Stricken community&apos;: Recidivism and Restoration in American 9/11 Fiction</title>
+		<author>
+			<persName><forename type="first">Jiménez</forename><surname>Heffernan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Julián</forename></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Paula</forename><surname>Martín-Salván</surname></persName>
+		</author>
+		<idno type="DOI">10.1353/arq.2013.0008</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Arizona Quarterly: A Journal of American Literature, Culture, and Theory</title>
+		<imprint>
+			<biblScope unit="volume">69</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="145" to="169" />
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<analytic>
+		<title level="a" type="main">Changing Channels of Technology: Disaster and (Im)Mortality in Don DeLillo&apos;s White Noise, Cosmopolis and Zero K</title>
+		<author>
+			<persName><forename type="first">Hugh</forename><forename type="middle">;</forename><surname>Kenner</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Beacon</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Maffey</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Yugin</forename><surname>Ross</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Teo</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">C21 Literature: Journal of 21st Century Writings</title>
+		<imprint>
+			<biblScope unit="volume">6</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="1" to="23" />
+			<date type="published" when="1962">1962. 2018</date>
+		</imprint>
+	</monogr>
+	<note>Flaubert, Joyce and Beckett: The Stoic Comedians</note>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<analytic>
+		<title level="a" type="main">We All Live in Don DeLillo&apos;s World. He&apos;s Confused by It Too</title>
+		<author>
+			<persName><forename type="first">David</forename><surname>Marchese</surname></persName>
+		</author>
+		<ptr target="https://www.nytimes.com/interactive/2020/10/12/magazine/don-delillo-interview.html" />
+	</analytic>
+	<monogr>
+		<title level="j">The New York Times Magazine</title>
+		<imprint>
+			<date type="published" when="2020-10-11">11 Oct. 2020</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<analytic>
+		<title level="a" type="main">Emplacement, Embodiment and Prosthetic Consciousness in Don DeLillo&apos;s The Engineer of Moonlight</title>
+		<author>
+			<persName><forename type="first">Paula</forename><surname>Martín-Salván</surname></persName>
+		</author>
+		<idno type="DOI">10.1353/tsl.00020</idno>
+	</analytic>
+	<monogr>
+		<title level="m">Texas Studies in Literature and Language</title>
+		<imprint>
+			<date type="published" when="2025">2025</date>
+			<biblScope unit="volume">67</biblScope>
+			<biblScope unit="page" from="366" to="387" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<analytic>
+		<title level="a" type="main">Interview With Don DeLillo: &apos;I&apos;m Not Trying to Manipulate Reality-This Is What I See and Hear&apos;</title>
+		<author>
+			<persName><forename type="first">Robert</forename><surname>Mccrum</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Don</forename><surname>Delillo</surname></persName>
+		</author>
+		<ptr target="https://www.theguardian.com/books/2010/aug/08/don-delillo-mccrum-interview" />
+	</analytic>
+	<monogr>
+		<title level="s">The Guardian</title>
+		<imprint>
+			<date type="published" when="2010-08-08">8 Aug. 2010. 8 July 2024</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">Edgar</forename><surname>Morin</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">On Complexity. Translated byRobin Postel. Hampton P</title>
+		<imprint>
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<analytic>
+		<title level="a" type="main">The Cambridge Companion to Don DeLillo</title>
+		<author>
+			<persName><forename type="first">Philip</forename><surname>Nel</surname></persName>
+		</author>
+		<ptr target="https://new-maps.com/about/" />
+	</analytic>
+	<monogr>
+		<title level="m">New Maps. &quot;About.&quot; New Maps -Deindustrial Fiction</title>
+		<editor>
+			<persName><forename type="first">Nathanael</forename><surname>Bonnell</surname></persName>
+		</editor>
+		<imprint>
+			<date type="published" when="2008">2008. 2020</date>
+			<biblScope unit="page" from="13" to="26" />
+		</imprint>
+	</monogr>
+	<note>DeLillo and Modernism</note>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<monogr>
+		<title level="m" type="main">DeLillo, Lethem, and the Seductive Sentence</title>
+		<author>
+			<persName><forename type="first">Kevin</forename><surname>Power</surname></persName>
+		</author>
+		<ptr target="https://themillions.com/2018/04/delillo-lethem-seductive-sentence.html" />
+		<imprint>
+			<date type="published" when="2018-04-11">11 Apr. 2018</date>
+		</imprint>
+	</monogr>
+	<note>The Millions</note>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<analytic>
+		<title level="a" type="main">Institutional and News Media Denominations of COVID-19 and Its Causative Virus: Between Naming Policies and Naming Politics</title>
+		<author>
+			<persName><surname>Prieto-Ramos</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Fernando</surname></persName>
+		</author>
+		<idno type="DOI">10.1177/1750481320938467</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Discourse &amp; Communication</title>
+		<imprint>
+			<biblScope unit="volume">14</biblScope>
+			<biblScope unit="issue">6</biblScope>
+			<biblScope unit="page" from="635" to="652" />
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<analytic>
+		<title level="a" type="main">To Be or Not to Be: Mundane SF</title>
+		<author>
+			<persName><forename type="first">Rudy</forename><surname>Rucker</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">The New York Review of Science Fiction</title>
+		<imprint>
+			<biblScope unit="issue">230</biblScope>
+			<biblScope unit="page" from="18" to="19" />
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b27">
+	<analytic>
+		<title level="a" type="main">The Mundane Manifesto</title>
+		<author>
+			<persName><forename type="first">Geoff</forename><surname>Ryman</surname></persName>
+		</author>
+		<ptr target="https://sfgenics.wordpress.com/2013/07/04/geoff-ryman-et-al-the-mundane-manifesto/" />
+	</analytic>
+	<monogr>
+		<title level="m">SFGenics: Notes on Science, Fiction, and Science Fiction</title>
+		<imprint>
+			<date type="published" when="2013-07-04">4 July 2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b28">
+	<analytic>
+		<author>
+			<persName><forename type="first">Peter</forename><surname>Stockwell</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">The Poetics of Science Fiction</title>
+		<imprint>
+			<date type="published" when="2000">2014. 2000</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b29">
+	<monogr>
+		<title level="m" type="main">The Human Slivers of a Civilization&apos;: Language Events in Don DeLillo&apos;s The Silence</title>
+		<author>
+			<persName><forename type="first">Jiena</forename><surname>Sun</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/0013838X.2022.2108650</idno>
+		<imprint>
+			<date type="published" when="2022">2022</date>
+			<biblScope unit="volume">103</biblScope>
+			<biblScope unit="page" from="961" to="982" />
+		</imprint>
+	</monogr>
+	<note>English Studies</note>
+</biblStruct>
+
+<biblStruct xml:id="b30">
+	<analytic>
+		<title level="a" type="main">Almost Nothing Left of Nowhere: On Don DeLillo&apos;s The Silence</title>
+		<author>
+			<persName><forename type="first">Justin</forename><surname>Taylor</surname></persName>
+		</author>
+		<idno type="DOI">10.1353/sew.2021.0006</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Sewanee Review</title>
+		<imprint>
+			<biblScope unit="volume">129</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="159" to="182" />
+			<date type="published" when="2021">2021</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b31">
+	<monogr>
+		<title level="m" type="main">Permacrisis: What It Means and Why It&apos;s Word of the Year for 2022</title>
+		<author>
+			<persName><forename type="first">Neil</forename><surname>Turnbull</surname></persName>
+		</author>
+		<ptr target="https://theconversation.com/permacrisis-what-it-means-and-why-its-word-of-the-year-for-2022-194306" />
+		<imprint>
+			<date type="published" when="2022-11-11">11 Nov. 2022</date>
+		</imprint>
+	</monogr>
+	<note>The Conversation</note>
+</biblStruct>
+
+<biblStruct xml:id="b32">
+	<analytic>
+		<title level="a" type="main">The Harrowing Silence of Lost Systems</title>
+		<author>
+			<persName><forename type="first">Isavella</forename><surname>Vouza</surname></persName>
+		</author>
+		<ptr target="www.oxonianreview.com/articles/the-harrowing-silence-of-lost-systems" />
+	</analytic>
+	<monogr>
+		<title level="j">The Oxonian Review</title>
+		<imprint>
+			<date type="published" when="2021-03-14">14 Mar. 2021</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b33">
+	<monogr>
+		<author>
+			<persName><forename type="first">Emilie</forename><surname>Walezak</surname></persName>
+		</author>
+		<title level="m">Rethinking Contemporary British Women&apos;s Writing: Realism, Feminism, Materialism. Bloomsbury</title>
+		<imprint>
+			<date type="published" when="2023">2023</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b34">
+	<analytic>
+		<title level="a" type="main">Joycean DeLillo</title>
+		<author>
+			<persName><forename type="first">Kiron</forename><surname>Ward</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">The Edinburgh Companion to Don Delillo and the Arts</title>
+		<editor>
+			<persName><forename type="first">Catherine</forename><surname>Gander</surname></persName>
+		</editor>
+		<imprint>
+			<publisher>Edinburgh UP</publisher>
+			<date type="published" when="2023">2023</date>
+			<biblScope unit="page" from="222" to="234" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b35">
+	<analytic>
+		<title level="a" type="main">DeLillo Cut Mention of COVID-19 from New Novel</title>
+		<author>
+			<persName><forename type="first">Marion</forename><surname>Winik</surname></persName>
+		</author>
+		<ptr target="https://www.kirkusreviews.com/news-and-features/articles/delillo-cut-mention-of-covid-19-from-new-novel/" />
+	</analytic>
+	<monogr>
+		<title level="j">Kirkus Reviews</title>
+		<imprint>
+			<date type="published" when="2020-12">Oct, 12 2020</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b36">
+	<analytic>
+		<author>
+			<persName><forename type="first">Henry</forename><forename type="middle">A</forename><surname>Wood</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Wise</surname></persName>
+		</author>
+		<ptr target="https://books.google.es/books" />
+	</analytic>
+	<monogr>
+		<title level="m">Beware!&quot; Digitalized by the U of Minnesota</title>
+		<imprint>
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+	<note>id=DOxBAQAAMAAJ&amp;dq=%22the+new+normal%22&amp;pg=PA604&amp;redir_esc=y</note>
+</biblStruct>
+
+<biblStruct xml:id="b37">
+	<monogr>
+		<title level="m" type="main">Don DeLillo After the Millennium</title>
+		<author>
+			<persName><forename type="first">Jacqueline</forename><forename type="middle">A</forename><surname>Zubeck</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2017">2017</date>
+			<publisher>Lexington Books</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

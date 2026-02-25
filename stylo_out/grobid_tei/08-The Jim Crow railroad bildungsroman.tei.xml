@@ -1,0 +1,1193 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">The Jim Crow railroad bildungsroman</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author role="corresp">
+							<persName><forename type="first">Henry</forename><surname>Ivry</surname></persName>
+							<email>henry.ivry@glasgow.ac.uk</email>
+							<affiliation key="aff0">
+								<orgName type="department">School of Critical Studies</orgName>
+								<orgName type="institution">University of Glasgow</orgName>
+								<address>
+									<settlement>Glasgow</settlement>
+									<country key="GB">UK</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff1">
+								<orgName type="institution">CONTACT Henry Ivry</orgName>
+							</affiliation>
+						</author>
+						<title level="a" type="main">The Jim Crow railroad bildungsroman</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date/>
+						</imprint>
+					</monogr>
+					<idno type="MD5">324EE2358CFED33A78E8F80870C7486D</idno>
+					<idno type="DOI">10.1080/0950236X.2025.2608848</idno>
+					<note type="submission">Received 6 May 2025; Accepted 24 October 2025</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.0" ident="GROBID" when="2026-02-25T19:52+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term>Black studies</term>
+					<term>African American literature</term>
+					<term>infrastructure humanities</term>
+				</keywords>
+			</textClass>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>In this article I explore the interrelationship between the Jim Crow railroad car and the bildungsroman in early twentieth-century African American fiction. My article pairs James Weldon Johnson's The Autobiography of an Ex-Coloured Man with Langston Hughes's Not Without Laughter to make the argument that both authors understand anti-Black racism as infrastructural, a circulation system that is maintained through infrastructures such as the railroad. I argue that these novels understand the bildungsroman as a narrative infrastructure that is involved in the twinned projects of nationalist consolidation and anti-Black violence. In taking this line of critique, I position both Johnson and Hughes as anticipating and reorganising much of the contemporary literary theory that has coalesced around critical infrastructure studies, while also providing an account of an understudied aspect of the modern African American novel more generally.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>Cabin knockoffs, or the proliferation of plantation romances tapped out by white supremacists like Harry Stilley Edwards. The narrator links this aesthetic problem -the challenge of reorienting the 'reading public' -to the political by citing the pervasive afterlife of the plantation. The narrator, to put this differently, attaches literary form to infrastructural form. If the plantation was responsible for mediating literary depictions of Blackness from the antebellum period to the start of the twentieth century, Johnson is asking: are there infrastructures that can produce new literary representations of Blackness?</p><p>My essay reads The Autobiography of the Ex-Coloured Man alongside Langston Hughes's 1930 novel, Not Without Laughter to argue that these novels take up this question by turning to the railroad. Following the failure of Reconstruction, the railroad becomes one of the key infrastructures through which aesthetic accounts of Blackness are mediated in the early twentieth century. The railroad signifies new possibilities enabled by mobility, but it also is a continuation of plantation logics. Both authors, I argue, understand the railroad as producing new modes of racialisation by concretising, maintaining, and perpetuating anti-Black violence through the railroad's fantasy of continuous circulation and extractive racial capitalism. But the railroad is also responsible for new economic, political, and aesthetic possibilities. Manu Karuka reminds us that alongside its continual history of dispossession, the railroad has also been responsible for fomenting 'some of the earliest and most significant forms of struggle over wages, technology and the working day'. <ref type="bibr" target="#b2">3</ref> The railroad, in other words, becomes a space where both authors locate new possibilities of Black life in the post-Reconstruction US, but also, as, my Du Bois epigraph suggests, encounters the material violence of anti-Blackness.</p><p>In what follows, I argue that Johnson and Hughes register this dialectic of mobility and containment, possibility and violence, through their adaptation of the bildungsroman, creating what I call the Jim Crow railroad bildungsroman. The Jim Crow railroad bildungsroman has two defining features. First, the form charts the literary and literal cartographies of white supremacy. The Jim Crow railroad bildungsroman take the central premises of the bildungsroman -individual self-development through education and vocation, focalisation of interiority -and routes it through the Jim Crow railroad car. The protagonists of the novels imagine themselves as taking part in the moral education of bildung, but ultimately find this impossible thanks to the continuation of anti-Blackness materialised through the railroad. Second, the Jim Crow railroad bildungsroman is not just invested in identifying the continuation of plantation logics via the railroad; Johnson and Hughes also see the railroad as offering new forms of mobility, identity, and aesthetic possibility that the plantation does not. Said differently, there is a generative horizon of the Jim Crow railroad bildungsroman that seeks to remould the bildungsroman and the railroad to combat anti-Blackness. <ref type="bibr" target="#b3">4</ref> To make this argument, I start by diagramming the twinned histories of the railroad and the bildungsroman in African American literature from the late nineteenth century to the present. I then turn my attention to readings of Johnson and Hughes. In both novels I look at how they modify the bildungsroman through the railroad and the railroad through the bildungsroman. I argue that the bildungsroman makes legible the often-invisible infrastructural violence of the railroad while the railroad simultaneously points to the limits of the bildungsroman as a form capable of representing Black subjectivity at the dawn of American modernity. I then look at how both authors move from the individual moral and subjective development of the historical bildungsroman to an alternate horizon of collectivity that is imported and exported through the transportation of music on the railroad. Both novels depict how music circulates on the rails to create an alternative network that disrupts the teleological narratives of nationhood and selfhood so foundational to European bildungsromane. I finish by tracing the Jim Crow railroad bildungsroman into the contemporary, thinking about how as rail travel has faded as a dominant form of transport, the afterlife of the Jim Crow railroad bildungsroman has exerted an unexpected staying power within our cultural imaginary.</p><p>There is a question begged in focusing a generic reading on just two authors: are there other examples of Jim Crow railroad bildungsroman? Or, less generously, do two bildungsromane that feature railroads really constitute a distinct sub-genre? My suggestion is that reading Hughes and Johnson through this framework allows us a different way to approach twentieth century and twenty-first-century African American literature. I argue that the approach I model in this reading allows us an alternative way to approach African American literary in the aftermath of Reconstruction by turning to the imbrication of literature within the infrastructural and infrastructure within the literary. And, as I trace in my conclusion, the Jim Crow railroad bildungsroman is viscous, popping up in unexpected places across the 20th and 21st centuries. My goal here is not to offer an exhaustive generic taxonomy, but instead to provide travel notes, or a timetable, for other types of readings that underscore how African American literature thinks about the material and literary systems that reproduce anti-Black violence. I argue that Johnson and Hughes think about railroads in the same way that Pullman Porters do. They think with and through the rules of circulation and coordination of Jim Crow to, as Debora Cowen would describe it, create a strategy of building 'infrastructure otherwise'. <ref type="bibr" target="#b4">5</ref> And, in doing so, they also create a bildungsroman otherwise.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>I. Reading infrastructurally</head><p>Before I turn to Johnson and Hughes, it's worth emphasising that my argument intervenes in contemporary scholarship that has taken up the aesthetic, cultural, and political life of infrastructure in contemporary literary criticism. Michael Degani describes the contemporary as a moment of 'infrastructure mania'. <ref type="bibr" target="#b5">6</ref> In a present defined by pandemics, the threat of environmental collapse, and ongoing genocides from Sudan to Palestine, Degani is describing how a global breakdown of infrastructure dominates our political, technical, and cultural imaginary. Joseph Masco diagnoses this infrastructural collapse as a function of the decreasing role of the nation-state within contemporary politics. He argues that the 'neoliberal experiment in the privatisation of infrastructure' has ended up destroying everything from data clouds to highways. <ref type="bibr" target="#b6">7</ref> The narrative that emerges from this infrastructural mania typically goes something like this: the ascendancy of neoliberalism (and whatever our current variant is) has meant that infrastructures-once the remit of the state -have been offshored and privatised, accelerating their breakdown. This, in turn, has led to a contemporary defined by increasing theorizations of infrastructure as politics. Judith Butler drives this point home: 'In effect, the demand for infrastructure is a demand for a certain kind of inhabitable ground, and its meaning and force arise precisely when that ground gives way'. <ref type="bibr" target="#b7">8</ref> Butler's point is that politics is only able to constitute itself when made legible on 'inhabitable ground'.</p><p>One intervention of this article is to put pressure on this narrative of contemporary infrastructural crisis. This isn't to deny that politics is increasingly infrastructural -even a cursory scroll through the headlines or an RSS feed will tell you otherwise. Instead, I want to underline that infrastructural crisis isn't all that contemporary. A crisis of infrastructure has a much longer, and much Blacker, history. This is readily available in the history of the railroad across the 19th and 20th centuries. While the railroad was hailed as a signal achievement of American modernity, it was also the site of an equally violent history. This ambiguity was particularly acute for many Black people during the Great Migration. Michael Ra-Shon Hall offers a useful historical summary to this point:</p><p>[Trains] and railroads served as the very antithesis to the ownership, confinement to land, and shackles to place that defined the experience of enslavement in the antebellum US South. These conceptions of freedom, however, are complicated by historical experiences of confinement, including enslavement, Jim Crow segregation and racial discrimination, and gendered restrictions on women's mobility. <ref type="bibr" target="#b8">9</ref> The railroad was a very literal path out of the postbellum South for Black people. But Hall also underscores how the railroad continued to reproduce the restrictive, racialized logics and economics of the plantation. My gambit in reading Johnson and Hughes alongside the railroad is that we can pull out a salient aspect of their writing that anticipates this contemporary fixation on the politics of infrastructure. I argue that understanding their work as infrastructural is a methodological orientation, a way of tapping into the circuitry and relations that underpin their work. Reading these texts through an infrastructural lens becomes a historical and methodological intervention into the larger conversations around critical accounts of infrastructure. Anticipating and reorganising contemporary infrastructural studies, my goal in naming these two novels as emblematic of the Jim Crow railroad bildungsroman indicates how infrastructure has been an object and method of critique in African American literature from at least the start of the twentieth century.</p><p>When a contributor to a recent volume titled Rethinking the Infrastructures Across the Humanities makes the claim that '[programmatic] endeavours such as the 'infrastructural turn' or 'infrastructuralism' are not restricted to a new interest in technical systems but propose an entirely new axiom for the study of culture and society propose an entirely new axiom for the study of culture and society', 10 they are missing an equally 'programmatic' whitewashing at play across much of this scholarship. To think that understanding the social, political, and cultural life of infrastructure is 'an entirely new axiom' obfuscates the fact that infrastructures have always been central aspects of critique for Black authors and, indeed, Black folks. It's for this reason that the Jim Crow railroad bildungsroman can be taken as a heuristic for tracking how and why infrastructure has been -and remains -a crucial axis to approach Black literature.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>II. Literary nations</head><p>Equally important, though often overlooked in the history of Black literature, is the bildungsroman. When the genre first emerged in nineteenth-century Germany, bildungsromane sought to create a narrative of nationhood by producing narratives of refined individuality. The goal of early European bildungsromane was metonymical, providing a literary form for mediating a nascent understanding of nationhood. To follow the history of the bildungsroman is to follow the development of a literary infrastructure that was conscripted as a technology of Western European nationalism invested in the development of individual protagonists to create 'new possibilities of bourgeois society'. 11 Jed Etsy, for example, argues that 'the genre's roots in a burgeoning nationalism based on an ideal organic culture whose temporality and harmony could be reflected in the developing personality at the core of the Bildungsroman'. <ref type="bibr" target="#b11">12</ref> But like physical infrastructures that slowly begin to age and crumble, the bildungsroman eventually was replaced by new literary forms better suited for a changing modernity. At the start of the twentieth century, so this story goes, the bildungsroman moves from the aesthetic vanguard to a literary anachronism as dreams of nationhood begin to collapse against the backdrop of a fracturing colonial world order. Franco Moretti, amongst others, offers a eulogy: 'In the end nothing was left of the form of the Bildungsroman, a phase of Western socialisation had come to an end, a phase that the Bildungsroman had both represented and contributed to'. <ref type="bibr" target="#b12">13</ref> We can take Moretti's account as infrastructural: the bildungsroman not only 'represented' nations, but also 'contributed to' the actual creation and circulation of those very nations. And with the changing of the political guard in the twentieth century, the homological relationship between nation and the novel figured through the bildungsroman begins to fail.</p><p>But that oft-repeated historical trajectory of the bildungsroman -as transitioning from emergent literary form in the hands of German authors to conservative swansong for bourgeois nationalism at the end of the nineteenth century -glosses over how varied and resilient the bildungsroman was and is. This is a point that Tobias Boes develops in his reading of the genre. He argues that it isn't the bildungsroman that enacts this conservative trajectory but rather the critical reception of the genre: '[Any] attempts to give a national form to the life of a protagonist will always resist fulfilment in institutional structures, thereby violating the demands for finality and normative closure that are constitutive of traditional Bildungrsoman criticism'. <ref type="bibr" target="#b13">14</ref> Boes is pointing to a categorial error between what novels do and what we do with them. We can trace this in the fact, as Etsy argues, that no protagonist ever actually fully achieves Platonic bildung. Etsy argues that this is amplified when questions of race and colonialism enter the genre and exert pressure on a European modernity that is being exported outside of the metropole: 'The imagined harmony between culture and the state, taken as a way to manage and to narrate the uneven development of capitalism, came under pressure as a new phase of empire-building revealed modernisation to be unpredictable and unending'. <ref type="bibr" target="#b14">15</ref> What occurs, then, isn't a wholesale rejection of the bildungsroman at the start of the twentieth century -whatever that might mean -but rather an expansion of the form, a reimagining of the bildungsroman as a literary infrastructure mediating questions of race and colonialism across a globalising world.</p><p>This global expansion is taken up in a 2020 special issue of this very journal dedicated to the 'form and transformation' of the genre. Throughout, the contributors continually return to how questions of Blackness complicate the trajectory of the bildungsroman. Michel Ormsbee, for example, thinks about how the one constant of bildungsromane is 'the development of an individual whose 'protagonicity' never seems to be in question' where protagonicity 'refers to the right to occupy a dominant position within a hierarchical network of characters'. <ref type="bibr" target="#b15">16</ref> This 'right to occupy a dominant position' may be a given for the likes of Wilhelm Meister and Pip, but for African American writers, in particular, these texts are often defined by the contested and hierarchical struggle for who gets to be the protagonist. But it's this complication that makes the genre an appealing form to experiment with. In Pardis Dabashi's reading of Nella Larsen's Quicksand, for example, she underlines how Bildungsromane rely on white, liberal subjecthood: 'Yet the [bildungsroman's] labour is also to reconcile the protagonist's personal trajectory to the moral, political, and socio-economic exigencies of the modern liberal state […] In the novel, to be an individual is also to have the right to own things'. <ref type="bibr" target="#b16">17</ref> There is a structural tension that emerges between the 'exigencies of the modern liberal state' and how that same state is sustained through anti-Black violence.</p><p>The point, however, isn't to throw the baby out with the bathwater. Instead, the bildungsroman is a constant of 20th and 21th-century African American literature. From Jessie Redmon Fauset's Plum Bun to Paule Marshall's Brown Girl, Brownstone; from Toni Morrison's The Bluest Eye to Kiley Reid's Such a Fun Age, there is a long literary lineage of African American bildungsromane. <ref type="bibr" target="#b17">18</ref> These texts also interrogate the strictures of the Bildungsroman. As Spencer Morrison's reading of Marshall argues, African American Bildungsromane 'subvert the genre's nation-soul allegory by decoupling individuals from national progress'. <ref type="bibr" target="#b18">19</ref> We can see this in The Autobiography of an Ex-Coloured Man and Not Without Laugher as both authors attempt to transform the genre. Readings of Johnson's debut novel have historically emphasised the novel's generic promiscuity, highlighting how the book 'passes as an autobiography and borrows key tropes from slave narratives', 'turns the autobiography from the mother's romance to gothic terror', and blends 'fictive autobiographical narrative, cultural essay, historical allegory, and signifying parody'. <ref type="bibr" target="#b19">20</ref> Conspicuously absent from this list, however, is the bildungsroman. <ref type="bibr" target="#b20">21</ref> This is an oversight as the novel is awash in classic tropes of the nineteenth-century European genre from the outset. The narrator moves from 'a little town of Georgia a few years after the close of the Civil War' seeking education and moral cultivation. He then moves from the country to the city, first D.C., and later New York City in search of vocation. <ref type="bibr" target="#b21">22</ref> We follow the narrator's self-development as he explores various careers, cities, and countries all while attempting to find his place in a quickly changing world.</p><p>Crucially though, Johnson's reimagining of the European genre is staged through the failure of the protagonist to cultivate a moral and ethical sense of self. Nowhere is this dramatisation more pronounced than in the novel's famous concluding passage where the narrator '[sells] my birthright for a mess of pottage' by passing as white. <ref type="bibr" target="#b22">23</ref> The fantasy of moral development -one that is as much a critical endeavour as it is a literary one -isn't available to Johnson's narrator who 'is forced to take his outlook on all things, not from a viewpoint of a citizen, or a man, or even a human being, but from the viewpoint of a coloured man'. <ref type="bibr" target="#b23">24</ref> Johnson, then, is asking what it would mean for the bildungsroman to take the 'viewpoint' of a Black protagonist. This creates a split in the novel: the epiphany demanded by the bildungsroman isn't something that Black folks are able to achieve. As the narrator's insidious white benefactor puts it: 'Now, why do you want to throw your life away amidst the poverty and ignorance, in the hopeless struggle of the black people of the United States? […] This idea you have of making a Negro out of yourself is nothing more than a sentiment'. <ref type="bibr" target="#b24">25</ref> Blackness divides the bildungsroman between the maintenance of a bourgeoise liberal subjectivity and the lived experience of race; at stake is the possibility that the narrator might, in fact, decide to become a 'Negro out of [himself]'. The Autobiography of an Ex-Coloured Man circles around the text's failure to reconcile this tension. Instead of taking up the mantle of combating white supremacy, the narrator succumbs to bourgeoise aspirations by becoming a real estate speculator.</p><p>Hughes's Not Without Laugher turns on a similar axis. Although far less canonised and read than The Autobiography of an Ex-Coloured Man, Not Without Laughter has been hailed as an example of an early twentiethcentury African American bildungsroman. <ref type="bibr" target="#b25">26</ref> Hughes's novel points to the limits of the genre as a vessel for mediating Black subjectivity. Not Without Laughter follows Sandy Rodgers's coming-of-age story in Stanton, Kansas, a somewhat fictionalised version of Hughes's own Midwest childhood. At the novel's start, Sandy lives with his grandmother Hager, his mother Anjee, and his aunt, Harriet. The novel follows his development from his first romances, escapades hanging around circuses, his school experiences, and Sandy's pubescent coming of age with various matriarchs and his on-again, off-again relationship with his father, Jimboy. We can see very clearly how Hughes borrows some of the key characteristics of the European model. Ultimately though, Sandy continually comes up against the impossibility of self-actualisation in a world that 'belonged to the white folks'. <ref type="bibr" target="#b26">27</ref> And, in turn, Sandy fails to achieve the bildung of moral development as the reality of Jim Crow sets in.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>III. Railroad selfhood</head><p>Both Johnson and Hughes turn to the bildungsroman as a way to think about questions of selfhood in the aftermath of Reconstruction. Just as important to this literary understanding of selfhood was the railroad. Like the bildungsroman, the railroad was also tasked with consolidation of nationhood across the 19th and early 20th centuries. The railroad, Karuka writes, became both the actual and symbolic medium of 'the industrial infrastructure of a continental empire where none had existed before'. <ref type="bibr" target="#b27">28</ref> This was true in Europe and the U.S. where the railroad provided spatial unity to expanding nations. This was vital to the economic rebirth of the South in the wake of the Civil War. As Du Bois's history of the failure of Reconstruction documents with painstaking detail, it was through the railroad that the South was able to maintain the economic and political systems of white supremacy in the postbellum period. <ref type="bibr" target="#b28">29</ref> 'At the turn of the century', Karuka writes, 'the United States deployed railroads as key infrastructures of continental imperialism, splitting populations along the lines of race and tribe'. <ref type="bibr" target="#b29">30</ref> As physical infrastructure, then, the railroad consolidates national identity by producing racialized violence while the very creation and maintenance of that railroad was materially dependent upon Black people building the railroad. Miriam Thaggert rightfully describes the railroad as 'the first mass form of technology actively policed in an effort to assert and maintain white political, social, and economic dominance'. <ref type="bibr" target="#b30">31</ref> It shouldn't be much of a surprise, then, that African American literature is filled with railroads. Anna Julia Cooper's Voices from the South stages protest via segregated railroad cars. The eponymous 'Boy on a Train', from Ralph Ellison's short story comes into racialized consciousness riding the rails. And Paul D can only imagine (a sort of) freedom in Beloved by singing, 'Lay my head on the railroad line / Train come along, pacify my mind'. <ref type="bibr" target="#b31">32</ref> As the railroad emerges as one of the dominant infrastructures of American modernity, it also produces new narrative forms, one of which is the Jim Crow railroad bildungsroman. The Jim Crow railroad bildungsroman uses the railroad as the literary site at which to stage the tension between the fact that Black people are at once mobile and constrained by Jim Crow laws. We can see this in the locomotive force that underpins The Autobiography of an Ex-Coloured Man. Throughout the novel the formal logics of the bildungsroman are continually graphed onto the railroad. Central to the bildungsroman is the education of the narrator as they learn to navigate morality and the world-at-large. We see this in an early moment of the novel:</p><p>The effort is sometimes made to convey the impression that the better class of colored people fight against riding in 'Jim Crow' cars because they want to ride with white people or object to being with humbler members of their own race. The truth is that they object to the humiliation of being forced to ride in a particular car, aside from the fact that that car is distinctly inferior, and they are required to pay full first-class fare. <ref type="bibr" target="#b32">33</ref> This is a scene of moral development. But the pedagogical takeaway is the narrator coming to grips with the abstract concept named by race and the concrete actualities of what being Black means. This is facilitated through physical infrastructure. The narrator understands that the Jim Crow car is not merely reflective but constitutive of the circulation of white supremacy. Robert Stepto describes how the novel models 'the heroic proportions of the canonical types and tropes [of heroism] by offering what is, in effect, a negative example of them'. <ref type="bibr" target="#b33">34</ref> But in this moment, the narrator achieves something close to real bildung through the physical space of infrastructure. This intimacy with the Jim Crow railroad positions our anti-hero, fleetingly, as a hero.</p><p>To put this another way, The Autobiography of an Ex-Coloured Man maps an inextricable linkage between moral development of the narrator and the expansion of the American railroad. As Julia Lee argues, 'The train not only drives the plot, it is also the space within which the narrator constructs his identity, first as a Black man, and then as an ex-Black man. The train, in other words, highlights the notion that Black identity and space are mutually constitutive'. <ref type="bibr" target="#b34">35</ref> We see this in other moments where bildung emerges in conjunction with the railroad. After getting robbed in Atlanta, a Pullman Porter lets the narrator spend the night in one of the notorious sleeper closets that housed Black workers on the trains. We are quickly immersed into a tableau that uses the railroad to articulate the phenomenology of racialisation: I may live to be a hundred years old, but I shall never forget the agonies I suffered that night. I spent twelve hours doubled up in the porter's basket for soiled linen, not being able to sit straight up on account of the shelves for clean linen just over my head. The air was hot and suffocating and the smell of damp towels and used linen was sickening. At each lurch of the car over the none-too-smooth track I was bumped and bruised against the narrow walls of my narrow compartment. <ref type="bibr" target="#b35">36</ref> In a book filled with ambient violence, this passage sticks out for its granular detailing. It is corporeally rich, filled with tactile and sensual detail, attempting to capture the physiology and affect of Blackness. It's a moment that shifts our attention to the fact that the conditions of Blackness are maintained through the interlocking operations of infrastructure. Johnson's suggestion is that any critique of racialisation must take race as a concrete (or, rather, iron) materiality. Eric Sundquist makes a similar argument: 'In the wake of Plessy v. Ferguson, the train was an epitome of segregation's extensive destruction of safe public space and a virtual embodiment of racial incoherence'. <ref type="bibr" target="#b36">37</ref> The narrator articulates this pervasive sense of 'racial incoherence' towards the end of the book: 'Northern white people love the Negro in a sort of abstract way, as a race'. <ref type="bibr" target="#b37">38</ref> This dematerialisation of the lived reality of Blackness allows Jim Crow to travel unchallenged at the same as the Jim Crow railroad car moves from the abstract and conceptual into the material and corporeal.</p><p>This reaches a boiling point in the novel's lynching scene. The lynching takes place at a train station highlighting how increased mobility does not necessarily lead to an increase of Black rights. <ref type="bibr" target="#b38">39</ref> The railroad, in fact, becomes instrumentalized in the murder: 'A railroad tie was sunk into the ground, the rope was removed, the chain brought and securely coiled around the victim and the stake'. <ref type="bibr" target="#b39">40</ref> In the semantic shift that renames the railroad 'tie' a 'stake' we see the railroad weaponized against Black people -an infrastructure literally turned into the means of disenfranchisement, dispossession, and death. This reading of Johnson reframes our understanding of how Blackness operates as a function of infrastructure. If part of the goal of bildungsromane is the facilitation of moral development, this is the scene that should usher in moral epiphany. As Jacqueline Goldsby suggests, the lynching should force the narrator to become a race man by '[shocking] him into declaring allegiance to the cause of civil rights'. <ref type="bibr" target="#b40">41</ref> And, at first pass, it seems like it might do exactly that. But as the novel unfolds, this marks the moment when the narrator decides to pass as white. Framing this in generic terms, individual bildung fails in a world where anti-Black violence is both spectacular and quotidian.</p><p>There is an analogous trajectory to Sandy's development as it is mapped onto the moral economy of the railroad. On the one hand, we have the morally dubious Jimboy who is constantly getting jobs on the railroad only long enough to make a buck before getting fired or absconding with his wages. He comes to metonymically figure a railroad modernity that elides capture by bourgeoise sensibilities as part of a cadre of '[adventurers] and vagabonds' who entertain Stanton with 'tales of the road […] and of faroff cities where things were easy and women were generous'. <ref type="bibr" target="#b41">42</ref> On the other hand, we have Mr. Siles, the wife of Sandy's aunt, Tempy who is 'a mail-clerk on the railroad -a position that coloured people considered a high one because you were working for "Uncle Sam"'. <ref type="bibr" target="#b42">43</ref> At one point, Mr. Siles and Tempy temporarily take Sandy in for a period of Great Expectations parody. Operating between these two poles, Sandy comes to imagine that the easiest path to selfhood emanates from the rails: 'When he got to be a man, he was going to be a railroad engineer'. <ref type="bibr" target="#b43">44</ref> The ambivalence of the railroad -as enabling both middle class respectability and salacious itinerancyis reflective of the railroad's status as one of the dominant infrastructures of American modernity.</p><p>What we see in germinal form in Johnson then is furthered by Hughes as the railroad becomes one of the dominant economic and cultural forces for Black folks in the early twentieth century. At the same time, the railroad is also responsible for the construction, maintenance, and expansion of anti-Black violence across the country, extending and retrenching many of the circulatory patterns of the plantations. '[The railroad] became a battleground between new scenarios made possible by the end of slavery and old, institutionalised habits that emancipation did not remove', Thaggert writes. 'As such, it is an evocative symbol of the contradictory progress and disappointments of the post-Reconstruction era for African Americans'. <ref type="bibr" target="#b44">45</ref> This 'contradictory progress' unfolds through Sandy's narrative of bildung. If Johnson had foregrounded the impossibility of self-actualisation, Hughes goes even further, complicating the narrative framing between Sandy and the railroad. After Annjee moves to Chicago with Jimboy, Sandy eagerly awaits her letters. When they finally arrive, we read: 'With a tremendous creaking and grinding and steady clacking of wheels the long train went roaring through the night towards Chicago as Sandy, in a day coach, took from his pocket Annjee's two letters and re-read them for the tenth time since leaving Stanton'. <ref type="bibr" target="#b45">46</ref> This passage -and others like it throughout the novel -invert the coordinates between narrative background and foreground as transport infrastructure becomes a character. The syntax is digressive and confused: the train is the subject of the extended first half of the sentence before the doubled subordinate clauses reveal Sandy as the actual subject.</p><p>Sandy's narrative of self-development, in other words, is inseparable (and occasionally semantically indistinguishable) from the railroad. What also comes into focus is that Sandy doesn't need to actually ride the rails. Etsy describes how the early twentieth-century bildungsroman became increasingly globalised through 'the thematic of uneven development attached increasingly to metropole-colony relations within the global frame rather than to urban-rural relations within the national frame'. <ref type="bibr" target="#b46">47</ref> Hughes points to how this dynamic operates domestically across the colour line, bringing attention to new tensions in Black communities enabled via the increased mobility of the railroad. The railroad brings the city to the country, and vice versa. Sandy thinks as much one listless afternoon:</p><p>But when he got big, he would go to Detroit. And maybe New York, too, where his geography said they had the tallest buildings in the world, and trains that ran under the river [… ] He wondered if there were any colored people in New York […] How ugly African colored folks looked in the geography -with bushy heads and wild eyes. <ref type="bibr" target="#b47">48</ref> Sandy's imagined future is marked by the mobility enabled by the railroad. The railroad compresses time and space in a way that Sandy's narrative and subjective horizons become increasingly claustrophobic and agoraphobic simultaneously. His narrative of bildung becomes stretched across expanding latitudinal and longitudinal coordinates that criss-cross the Atlantic while never leaving Stanton. Tamlyn Avery argues that this means Stanton plays a dual role in the novel, allowing Hughes to allegorise the larger structural shifts in American topography by complicating the country-metropole of the European bildungsroman: 'Sandy learns the way of the world, as it is symbolically regulated by the fixed railroad timetables that suture Stanton into a regional and interregional framework. But Sandy must also learn […] the effects of the racial logic driving capitalism's uneven development that will contour his destiny'. <ref type="bibr" target="#b48">49</ref> The railroad not only connects Hughes's fictional Stanton to the wider world but also suggests that an expanded and capacious bildungsroman is needed to represent modern Black life.</p><p>Hughes, however, doesn't see the railroad as a de facto liberatory infrastructure, but is weary of how it continues the plantation's anti-Blackness via the relentless drive of expanding racial capitalism that continues to dispossess Black folks. We see this in the pervasive violence that emerges across Not Without Laughter: whether that is characters conscripted to work on railroad chain-gangs or the proto-redlining of Stanton's Black neighbourhoods. <ref type="bibr" target="#b49">50</ref> The railroad is a marked site of violence for Sandy and everyone else in his rural Midwestern town. In keeping with the Jim Crow railroad bildungsroman's dual structure, Hughes doesn't shy away from the omnipresent violence that circulates through the rails, what Andy Oler calls 'the railroad's raucous industrial modernity', <ref type="bibr" target="#b50">51</ref> that defines the Jim Crow South. Instead, he uses the bildungsroman form to make that raucousness legible.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>IV. Blues imaginaries</head><p>To return to my earlier definition, what we see in these readings is the first condition of the Jim Crow railroad bildungsroman: both authors use the railroad to demonstrate how the bourgeoise selfhood of the bildungsroman is constricted by Jim Crow. In this way, Johnson and Hughes use the bildungsroman to make legible the often-invisible violence of the railroad. Genre, under these terms, becomes a strategy to make infrastructural violence readable. But this isn't where either author stops. Instead, there is a shift in the scale of the bildungsroman from that of individual moral growth to collective change. What occurs, I argue, is the emergence of a modified bildungsroman that interrogates the underlying circuitry of white supremacy by expanding who we think of as the subject of the novel more generally. Individual bildung is impossible against the backdrop of Jim Crow. The narrator of The Autobiography of an Ex-Coulored Man highlights this early on: 'I had formulated a theory of what it was like to be coloured; now I was getting the practice'. <ref type="bibr" target="#b51">52</ref> Johnson, in other words, is interested in the actual practices of resistance that can emerge from the inescapability of theories of anti-Blackness. And this is where we start to see a more fluid bildungsroman emerge. What happens in the novel is a way of thinking about how the mobility enabled by the railroad might be able to dilate and expand, remaking the literal and literary topography that enmeshes representations of Black life. In The Autobiography of an Ex-Coloured Man, this takes the shape of a formal slipperiness staged through Black music.</p><p>Johnson's novel is, as Cristina Ruotolo argues, organised by the narrator's musical interests: from the underbelly of New York's ragtime scene to spirituals in Georgia. <ref type="bibr" target="#b52">53</ref> The narrator, in other words, is acutely aware of the possibilities of music. When the narrator is exposed to ragtime for the first time, we read: 'It was originated in the questionable resorts about Memphis and St. Louis by Negro piano players who knew no more of the theory of music than they did of the theory of the universe, but were guided by natural musical instinct and talent. It made its way to Chicago, where it was popular some time before it reached New York'. <ref type="bibr" target="#b53">54</ref> What Johnson limns is an alternative network of transportation and circulation. As opposed to the violence of the railroads and their sleeper closets, music thrives within the crevices of that same system. Crucially, the narrator's suspicion of 'theory' returns via his emphasis on 'instinct and talent', but music becomes a site of embodied cultural transmission. Unlike the traditional bildungsroman's reification of individual subjectivity, these moments of musical self-cultivation are collective. Brent Hayes Edwards describes Johnson's literary belief that 'black musical forms […] [provide] a model for black communal production that goes beyond call-and-response'. <ref type="bibr" target="#b54">55</ref> And through music the narrator reaches for an alternative form of communion. In this way, the bildungsroman becomes refigured and reformed through a collective sonic enterprise rather than limited by the failed horizon of the narrator's own inability to achieve moral development.</p><p>What I am arguing is that music is a counterforce against the determinant logic of the inherited European model of bildung Under these terms, the formal innovation of the Jim Crow railroad bildungsroman lies in how it embeds alternate and competing strategies for mediating Black life. To put this another way, if the railroad and the bildungsroman name the dominant circulatory logics of the novel, music in the Jim Crow railroad bildungsroman rewrites the path dependency of those systems. In a slightly different context Neferti X.M. Taidar offers a meditation on how infrastructures facilitate the ongoing dispossession of global capitalism. Her account is useful for the way she also turns to the musical: '[Infrastructures] which are centrally comprised of distributed, coordinated, rhythmic human capacities and social routines that have to be continually generated, repeatedly performed, endlessly negotiated and modified (in a word, improvised) and occasionally, often periodically, revamped'. <ref type="bibr" target="#b55">56</ref> This is where Johnson intervenes, thinking about how music might have the capacity to 'occasionally' and 'periodically' revamp the railroad and the bildungsroman. Throughout The Autobiography of an Ex-Coloured Man, from the narrator's earliest experiences of his mother '[opening] the little piano [that] were the happiest hours of my childhood' to his European sojourn with 'classic music [turned] into ragtime' to the final Sophie's choice between real estate and music, the sonic offsets the teleology of the bildungsroman. <ref type="bibr" target="#b56">57</ref> We read: 'But I must own that I also felt stirred by an unselfish desire to voice all the joys and sorrows, the hopes and ambitions, of the American Negro, in classic musical form'. <ref type="bibr" target="#b57">58</ref> Coming into consciousness for the narrator is a collective endeavour, one that requires abandoning his distanced and privileged position 'to voice all the joys and sorrows'.</p><p>These moments are, frustratingly, momentary. As the rest of the novel goes on to detail, the narrator isn't able to inhabit any collectivity and continually '[veers] off into self-aggrandisement or ironic denouementt'. <ref type="bibr" target="#b58">59</ref> He ultimately turns his back on music and is unable to establish a reciprocal relationship with Black music traditions: 'I would avail myself of every possible opportunity to make a white man's success; and that, if it can be summed up in any one word, means "money."' <ref type="bibr" target="#b59">60</ref> The narrator's relationship to music, in moments like this, is extractive, replicating the insidious fetishised paternalism of his white patron. <ref type="bibr" target="#b60">61</ref> But it is precisely because the novel can't realise this provisional alternative in a fuller form that the novel is such an effective example of the Jim Crow railroad bildungsroman. <ref type="bibr" target="#b61">62</ref> Failure is not an exception, but a rule. Marlon B. Ross describes how much of the challenge of reading the novel is the fact that 'the ex-coloured man does not have the equanimity to withstand the violence of being African American'. <ref type="bibr" target="#b62">63</ref> I agree with Ross, but I see this failure as indicative of the limited possibilities of the infrastructures that underpin the Postbellum US, both literary and literal. The type of nationality envisaged by the railroad and the bildungsroman reproduce and sustain Jim Crow. The music that travels the country on the railroad, on the other hand, produces moments of dissonance between the scales of the individual novel and the larger logics that they circulate within. Johnson gestures towards a music that moves beyond the infrastructures that continue to devalue and debase Black people and Black life.</p><p>If Johnson lays the first track for thinking through an alternative horizon within the Jim Crow railroad bildungsroman, Hughes's Not Without Laughter is even more explicitly invested in thinking through the bildungsroman and the railroad as paradoxical interfaces for producing representations of Blackness. Johnson was part of the generation born at 'the hopeful apex of 'radical' Reconstruction and coming of age under the horrifying backlash of punitive Jim Crow'. <ref type="bibr" target="#b63">64</ref> Hughes, on the other hand, was a writer firmly entrenched within the 'punitive Jim Crow' era and its subtending post-plantation infrastructures. But he also continually emphasises music as a site of possibility. In Not Without Laughter (and across his oeuvre, more generally) Hughes's writing is as musical as it is discursive. This is true both substantively -entire chapters in the book are dedicated to descriptions of music or diatribes on dancing -but also formally as the novel replicates the improvisatory structure of Black musical traditions. <ref type="bibr" target="#b64">65</ref> The blues, as opposed to the jazz that preoccupies Hughes's later career, is particularly important to Not Without Laughter. In his history of the Mississippi Delta, Clyde Woods describes how the blues names a musical form that is inseparable from its social and material practices and, thus, constitutes a counter-imaginary to the plantation. 'The blues emerged immediately after the overthrow of Reconstruction', Woods writes, 'During this period, unmediated African American voices were routinely silenced through the imposition of a new regime of censorship based on exile, assassination and massacre. The blues became an alternative form of communication, analysis, moral intervention, observation, celebration for a new generation that had witnessed slavery, freedom, and unfreedom'. <ref type="bibr" target="#b65">66</ref> Crucially, though, and as hinted at by Johnson via ragtime, the blues themselves are enabled through increased mobility and circulation, partially enabled by the railroad as travelling musicians begin to move across the country. We can see this in Hughes's depiction of Jimboy. an early chapter, 'Guitar', Jimboy plays the blues on Hager's front porch. As the chapter progresses, the narrative begins to crumble: 'Long, lazy length resting on the kitchen-doorsill, back against the jamb, feet in the yard, fingers picking his sweet guitar, left hand holding against its finger-board the back of an old pocket-knife, sliding the knife upward, downward, getting thus weird croons and sighs from the vibrating strings'. <ref type="bibr" target="#b66">67</ref> The associative drift of the sentence mirrors Jimboy's fretwork as the prose slides in and out of harmony via its aphoristic impressionism. As the chapter continues, Jimboy's playing reaches a crescendo: 'In the starry blackness the singing notes of the guitar became a plaintive hum, like a breeze in a grove of palmettos; become a low moan, like the wind in a forest of live oaks strung with long strands of hanging moss'. <ref type="bibr" target="#b67">68</ref> Hughes presents a series of competing and contrasting metaphors and similes. Rather than reduce one to the other, Hughes foregrounds the dissonance that occurs by harnessing together a series of vaguely associated images.</p><p>This type of imagery get even more outlandish later in the novel when Sandy attends his first dance: 'Then the music whipped itself into a slow fury, an awkward, elemental, foot-stamping fury, with the banjo running terrifiedly away in a windy moan and then coming back again, with the cornet wailing like a woman who don't know what it's all about'. <ref type="bibr" target="#b68">69</ref> We move in this passage from the 'elemental' to the corporeal (wailing 'like woman') all the way into the celestial as he throws us to the wind. What we see is another process of bildung -one that does not come into focus through novelistic forms but rather through acoustic ones, proffering a new model of self that is created through the collective practice that music engenders. Although Hughes finds this alternate rhythm, he knows it is a momentary interruption. At the end of 'Guitar', for example, Hughes finishes with a perspectival shift from the loose playful blues playing into the detached space of authorial distance: 'But at midnight, when the owl that nested in a tree near the corner began to hoot, they were all asleep -Annjee and Jimboy in one room, Harriett and Hager in another, with Sandy on the floor at the foot of his grandmother's bed. Far away on the railroad line a whistle blew, lonesome and long'. <ref type="bibr" target="#b69">70</ref> If music had momentarily shaken the realism of the novel, here it returns as the train whistle punctures the night sky. There is another type of sound herethe railroad's whistle -that reintroduces a regularised modernity.</p><p>In Johnson, music is fugitive, smuggling itself into the cracks of the railroad's coordinated geometry. But for Hughes there are two different registers of music figured in and through the railroad: one that allows for the transport of fugitive forms like the blues; the other that operates according to the Jim Crow logics of a railroad modernity. This is compounded when Sandy moves to Chicago. While in Stanton, the railroad had been a site of romance and allure. But in the North, the railroad becomes visible for what it always was: a materialisation of racial abjection. Instead of the 'thrilling visions of grandeur he had held', he can't sleep in their Chicago kitchenette apartment because of the 'frequent roar of the L trains'. <ref type="bibr" target="#b70">71</ref> The railroad alerts Sandy to his ongoing conditions of material deprivation. Even the apartment's garden is bisected by the track 'giving an extremely near view of the elevated structure on which a downtown train suddenly rushed past with an ear-splitting roar that made the entire house tremble and the window-sashes rattle'. <ref type="bibr" target="#b71">72</ref> Indeed, this climaxes with a final transmogrification. 'Each time the train came, he started and trembled as though a sudden dragon were rushing at the bed', we read. <ref type="bibr" target="#b72">73</ref> If the train had once been a site of promise, it is now hinged to a regularised rhythm of dispossession.</p><p>That sense of acoustic claustrophobia, however, doesn't fully contain the music of the novel. At the very end of Not Without Laughter, Sandy thinks about the Black folks in Chicago who navigate a hostile urban environment. Surveying a street scene, he begins to hear a contrapuntal rhythm:</p><p>But that was why Negroes were poor, because they were dancers, jazzers, clowns? […] The other way round would be better: dancers because of their poverty; singers because they suffered; laughing all the time because they must forget … It's more like that, thought Sandy. […] A band of dancers … Black dancers -captured in a white world. <ref type="bibr" target="#b73">74</ref> This ending image is another glimmer of the counter-logistics of the Jim Crow railroad bildungsroman. It is a snapshot of what might be possible through and with new forms. Crucially, this scene is also about coming into a collective consciousness. Saidiya Hartman describes a similar moment captured through dance: 'On the dance floor it was clear that existence was not a struggle, but a beautiful experiment too. It was an inquiry about how to live when the future was foreclosed'. <ref type="bibr" target="#b74">75</ref> This is what Sandy reaches for. Music doesn't produce reified individuality but produces a collectivity that can rewrite form.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>V. Railroad afterlives</head><p>I finish here by stepping away from Hughes and Johnson and returning to my opening gambit about the centrality of the railroad in the African American literary imaginary more generally. Consider briefly Jessie Redmon Fauset's 1928 novel Plum Bun. Like Johnson's and Hughes's novels, Fauset traces the bildung of a protagonist as she navigates early twentieth-century modernity while often riding the rails. We follow Angela Murray as she moves from her Black community in Philadelphia to New York and, like Johnson's narrator, begins to pass in the white world. The novel attempts to market itself as an anti-bildungsroman in its subtitle. It is, as we see spelled out on its cover, a 'novel without a moral' after all. But it also maps onto many of the generic features of the Jim Crow railroad bildungsroman that I've traced thus far: Angela begins life in a smaller city before moving to New York; we follow her aesthetic and moral education; she hunts for a vocation; we trace her various trials of love and self-cultivation in a post-Reconstruction U.S. And, like the other two texts I've read here, the railroad continues to be a contested site where the possibility of selfhood comes into conflict with the realities of being Black. In an early scene after Angela's move to New York, she goes to wait for her sister, Jinny, at Penn Station. Just as she is waiting for her sister, Angela runs into her racist lover, Roger, with whom she has been passing. This leads to an awkward situation where she must ignore her sister and pretend she doesn't know her. Up until this point, Angela has had an unfaltering confidence that passing was the right thing to do. But in this moment that resolve is chiselled away: 'For the first time in the pursuit of her chosen ends, she begins to waver. Surely no ambition, no pinnacle of safety was supposed to call for the sacrifice of her sister'. <ref type="bibr" target="#b75">76</ref> In miniature, this scene rehearses the paradox at the heart of the Jim Crow railroad bildungsroman: how can Angela cultivate an authentic self against the backdrop of Jim Crow? In stark and dramatic relief, we see how the train enables mobility -Jinny is attempting to start a new life -but it's also the moment where Angela's morality is revealed as bankrupt. Like Johnson's narrator, she succumbs to the vicissitudes of a white world that she'll never be integrated into. In generic terms, the horizon of bildung is shortcircuited by the railroad. Angela cannot stand in metonymic relationship to a nation that continues to force her to choose between race or morality. While the novel doesn't feature the railroad as centrally as either The Autobiography of an Ex-Coloured Man or Not Without Laughter, its appearance in this key moment suggests how transport infrastructures permeate the African American literary archive. This isn't to say that Plum Bun is a Jim Crow railroad bilundgsroman, per se, but my generic framework is meant to suggest alternate ways that we can read Plum Bun and other texts like it -whether that is Claude McKay's Home to Harlem or Dorothy West's The Living is Easy -over the course of the 20th and 21st centuries.</p><p>And, indeed, we can even see some of these features in one of most widely celebrated novels of the last decade, Colson Whitehead's 2016 The Underground Railroad. Whitehead's novel follows intersecting infrastructures from the nineteenth century to the present, including agricultural technology, medical care, roadworks, and city planning, providing a bricolage of anti-Black and racialized infrastructures from the Trail of Tears to the Tuskegee Experiments. But even with all these competing infrastructures at work, Whitehead still underlines the centrality of the railroad as an infrastructural form that follows the plantation in violently mediating Black life. More than anything, that is, Whitehead's book is a novel about the railroad and the violence and possibility enabled through those rails. The Underground Railroad and its titular steam-and-iron railroad that courses beneath the Southern topography have become been a critical and commercial darling, capturing the current infrastructural zeitgeist I outlined earlier. But Whitehead also gestures back in time towards a larger a subterranean literary genealogy that started in the early twentieth century and continues into the present.</p><p>I finish by suggesting that my reading of Johnson and Hughes is meant, in part, to respond to a change in the larger literary headwinds. Scroll through the titles of any university press or recent back issues of literary journals and you are bound to see titles exploring the cultural, aesthetic, and political lives of the systems of circulation that we group under the umbrella, infrastructure. The railroad, the system of circulation that first birthed the very term infrastructure in French engineering in the late nineteenth century, remains central to these conversations. <ref type="bibr" target="#b76">77</ref> Even as the railroad has lost its dominance as a primary mode of long-distance transportation, it has retained a substantial (some might say, disproportionate) amount of cultural cache. '[The railroads] simultaneous absence in our daily lives and omnipresence representationally suggests that it serves a purpose that goes beyond transportation', writes Lee. 'Its importance lies not in its convenience or its physical pervasiveness, but in its status as an ideal and its ability to tell a story'. <ref type="bibr">78</ref> The railroad's staying power, she argues, is down to its form, a form, as we've traced in Johnson and Hughes, that has been instrumental in the construction and maintenance of race and nation.</p><p>In tuning to these alternate accounts of infrastructure that exist across the twentieth-century African American novel, my hope is that there are ways that we can appropriate and imagine those infrastructures otherwise. My readings are meant to suggest that the Jim Crow railroad bildungsroman is part of an alternative infrastructural archive of literature that starts in African American novels in the early twentieth century, but whose afterlife continues into the contemporary. These texts don't reconcile their narrator with the broader society for the very reason that reconciliation (whatever that might mean) itself isn't imaginable or, for that matter, desirable. But it's precisely this limit that makes these work effective by alerting us to the potentiality that inhere within the infrastructures of the railroad, and, in turn, the bildungsroman, too.</p></div>			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="2" xml:id="foot_0"><p>H. IVRY</p></note>
+		</body>
+		<back>
+			<div type="annex">
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Disclosure statement</head><p>No potential conflict of interest was reported by the author(s).</p></div>			</div>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<monogr>
+		<title level="m" type="main">Autobiography of an Ex-Coloured Man</title>
+		<author>
+			<persName><forename type="first">James</forename><surname>Weldon</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Johnson</forename></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1990">1990</date>
+			<biblScope unit="page">142</biblScope>
+			<pubPlace>Penguin</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">Autobiography</forename><surname>Johnson</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="page">142</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title level="a" type="main">Empire&apos;s Tracks: Indigenous Nations</title>
+		<author>
+			<persName><forename type="first">Manu</forename><surname>Karuka</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Chinese Workers, and the Transcontinental Railroad</title>
+		<imprint>
+			<publisher>University of California Press</publisher>
+			<date type="published" when="2019">2019</date>
+			<biblScope unit="page">42</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title level="a" type="main">This reading is meant to both echo and extend Robert Stepto&apos;s canonical reading of Johnson where he describes the novel as turning on a tension that &apos;binds expressions of mobility to multiple expressions of confinement</title>
+	</analytic>
+	<monogr>
+		<title level="m">From Behind the Veil: A Study of Afro-American Narrative</title>
+		<imprint>
+			<publisher>University of Illinois Press</publisher>
+			<date type="published" when="1979">1979</date>
+			<biblScope unit="page">97</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title level="a" type="main">Following the Infrastructures of Empire: Notes on Cities, Settler Colonialism, and Method</title>
+		<author>
+			<persName><forename type="first">Debora</forename><surname>Cowen</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Urban Geography</title>
+		<imprint>
+			<biblScope unit="volume">41</biblScope>
+			<biblScope unit="page">480</biblScope>
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<monogr>
+		<author>
+			<persName><forename type="first">Michael</forename><surname>Degani</surname></persName>
+		</author>
+		<title level="m">The City Electric: Infrastructure and Ingenuity in Postsocialist Tanzania</title>
+		<imprint>
+			<date type="published" when="2022">Duke, 2022</date>
+			<biblScope unit="page">204</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title level="a" type="main">The Crisis in Crisis</title>
+		<author>
+			<persName><forename type="first">Joseph</forename><surname>Masco</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Current Anthropology</title>
+		<imprint>
+			<biblScope unit="volume">58</biblScope>
+			<biblScope unit="page">254</biblScope>
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<monogr>
+		<title level="m" type="main">Rethinking Vulnerability and Resistance&apos;, Vulnerability in Resistance</title>
+		<author>
+			<persName><forename type="first">Judith</forename><surname>Butler</surname></persName>
+		</author>
+		<editor>Judith Butler, Zeynep Gambetti, Leticia Sabsay</editor>
+		<imprint>
+			<date type="published" when="2016">2016</date>
+			<biblScope unit="page">14</biblScope>
+			<pubPlace>Duke</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<monogr>
+		<author>
+			<persName><forename type="first">Michael Ra-Shon</forename><surname>Hall</surname></persName>
+		</author>
+		<title level="m">Freedom Beyond Confinement: Travel and Imagination in African-American Cultural History and Letters</title>
+		<imprint>
+			<publisher>Liverpool University Press</publisher>
+			<date type="published" when="2021">2021</date>
+			<biblScope unit="page">82</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<monogr>
+		<title level="m" type="main">From Structure to Infrastructure: Some Glimpses on a Theoretical Movement in the Social Sciences and Humanities</title>
+		<author>
+			<persName><forename type="first">Christian</forename><surname>Meyer</surname></persName>
+		</author>
+		<editor>Aaron Pinnix, Axel Volmar, Fernando Esposito, and Nora Binder</editor>
+		<imprint>
+			<biblScope unit="page">31</biblScope>
+		</imprint>
+	</monogr>
+	<note>Rethinking Infrastructure Across the Humanities. Transcript, 2024</note>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<monogr>
+		<author>
+			<persName><forename type="first">Frederic</forename><surname>Jameson</surname></persName>
+		</author>
+		<title level="m">Antinomies of Realism</title>
+		<imprint>
+			<publisher>Verso</publisher>
+			<date type="published" when="2013">2013</date>
+			<biblScope unit="page">145</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<monogr>
+		<author>
+			<persName><forename type="first">Jed</forename><surname>Etsy</surname></persName>
+		</author>
+		<title level="m">Unseasonable Youth: Modernism, Colonialism, and the Fiction of Development</title>
+		<imprint>
+			<publisher>Oxford University Press</publisher>
+			<date type="published" when="2012">2012</date>
+			<biblScope unit="page">5</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<monogr>
+		<author>
+			<persName><forename type="first">Franco</forename><surname>Moretti</surname></persName>
+		</author>
+		<title level="m">The Way of the World: The Bildungsroman in European Culture. Trans. Albert Sbragia (Verso, 2000)</title>
+		<imprint>
+			<biblScope unit="page">244</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<monogr>
+		<author>
+			<persName><forename type="first">Tobias</forename><surname>Boes</surname></persName>
+		</author>
+		<title level="m">Formative Fictions: Nationalism, Cosmopolitanism, and the Bildungsroman</title>
+		<imprint>
+			<publisher>Cornell University Press</publisher>
+			<date type="published" when="2012">2012</date>
+			<biblScope unit="page">7</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<monogr>
+		<title/>
+		<author>
+			<persName><surname>Etsy</surname></persName>
+		</author>
+		<imprint>
+			<pubPlace>Unseasonable Youth, 6</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title level="a" type="main">Battle for the Bildungsroman: &quot;Protagonicity&quot; and national allegory</title>
+		<author>
+			<persName><forename type="first">Michael</forename><surname>Ormsbee</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Textual Practice</title>
+		<imprint>
+			<biblScope unit="volume">34</biblScope>
+			<biblScope unit="page">1959</biblScope>
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<title level="a" type="main">Helga Crane&apos;s Camera Obscura: Nella Larsen, Garbo&apos;s Face, and the Modernist Longing for Plot</title>
+		<author>
+			<persName><forename type="first">Pardis</forename><surname>Dabashi</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Textual Practice</title>
+		<imprint>
+			<biblScope unit="volume">34</biblScope>
+			<biblScope unit="page">2073</biblScope>
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<analytic>
+		<title level="a" type="main">Martin Japtok goes even further in his study of African American alongside Jewish bildungsroman in the pre-WWI period writing, &apos;[One] may say that the Bildungsroman, by the early decade of the twentieth century, had been firmly established as an ethnic genre</title>
+	</analytic>
+	<monogr>
+		<title level="m">Growing Up Ethnic: Nationalism &amp; the Bildungsroman in African American and Jewish American Fiction</title>
+		<imprint>
+			<publisher>University of Iowa Press</publisher>
+			<date type="published" when="2005">2005</date>
+			<biblScope unit="page">28</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<analytic>
+		<title level="a" type="main">Paule Marshall, Urban Crisis, and the Bildungsroman in a Totalitarian Age</title>
+		<author>
+			<persName><forename type="first">Spencer</forename><surname>Morrison</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Genre</title>
+		<imprint>
+			<biblScope unit="volume">57</biblScope>
+			<biblScope unit="page">207</biblScope>
+			<date type="published" when="2024">2024</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<analytic>
+		<title level="a" type="main">Jim Crow&apos;s Disabilities: Racial Injury, Immobility, and the &apos;Terrible Handicap&apos; in the Literature of James Weldon Johnson</title>
+		<author>
+			<persName><forename type="first">Dennis</forename><surname>Tyler</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Eric Sundquist, The Hammers of Creation: Folk Culture in Modern African-American Fiction</title>
+		<imprint>
+			<publisher>University of Georgia Press</publisher>
+			<date type="published" when="1992">2017. Duke, 2022. 1992</date>
+			<biblScope unit="volume">50</biblScope>
+			<biblScope unit="page">4</biblScope>
+		</imprint>
+	</monogr>
+	<note>Marlon B. Ross, Sissy Insurgencies: A Racial Anatomy of Unfit Manliness</note>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<monogr>
+		<title level="m" type="main">Robert Stepto reads The Autobiography of an Ex-Coloured Man as a water shed moment for African American literature more generally, at once adapting the autobiography and slave narrative forms that had defined early African American literature at the same time that Johnson was seeking &apos;a fresh narrative out of the shards of a narrative tradition&apos;. From Behind the Veil: A Study of Afro-American Narrative</title>
+		<imprint>
+			<date type="published" when="1979">1979</date>
+			<publisher>University of Illinois Press</publisher>
+			<biblScope unit="page">119</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">Autobiography</forename><surname>Johnson</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="page">33</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">Autobiography</forename><surname>Johnson</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="page">184</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">Autobiography</forename><surname>Johnson</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="page">146</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">Autobiography</forename><surname>Johnson</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="page">126</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<analytic>
+		<title level="a" type="main">Rural Black Masculinity and the Blues in Not Without Laughter</title>
+		<author>
+			<persName><surname>See</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Oler</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">The Regional Development of the American Bildungsroman</title>
+		<imprint>
+			<publisher>Edinburgh University Press</publisher>
+			<date type="published" when="2022">2022. 2023</date>
+		</imprint>
+	</monogr>
+	<note>Hughes in Context</note>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<monogr>
+		<title level="m" type="main">Not Without Laughter</title>
+		<author>
+			<persName><forename type="first">Langston</forename><surname>Hughes</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2018">2018</date>
+			<biblScope unit="page">182</biblScope>
+			<pubPlace>Penguin</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b27">
+	<monogr>
+		<title level="m" type="main">Empire&apos;s Tracks, xiv</title>
+		<author>
+			<persName><surname>Karuka</surname></persName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b28">
+	<monogr>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">E B</forename><surname>Bois</surname></persName>
+		</author>
+		<title level="m">Black Reconstruction in America</title>
+		<imprint>
+			<publisher>Free Press</publisher>
+			<date type="published" when="1999">1999</date>
+			<biblScope unit="page">211</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b29">
+	<monogr>
+		<title level="m" type="main">Empire&apos;s Tracks</title>
+		<author>
+			<persName><surname>Karuka</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="page">54</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b30">
+	<monogr>
+		<author>
+			<persName><forename type="first">Miriam</forename><surname>Thaggert</surname></persName>
+		</author>
+		<title level="m">Riding Jane Crow: African American Women on the American Railroad</title>
+		<imprint>
+			<publisher>University of Illinois Press</publisher>
+			<date type="published" when="2022">2022</date>
+			<biblScope unit="page">14</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b31">
+	<monogr>
+		<title level="m" type="main">This inventory is meant to echo Julia Lee&apos;s work where she makes the argument that &apos;[it] is not exaggeration to state that the train is a central trope in the African American imagination, showing up in songs, fiction, film, and art. It acted as a metaphor for Black movement and dance (the Underground Railroad in the nineteenth century; Soul Train in the twentieth)</title>
+		<author>
+			<persName><forename type="first">Toni</forename><surname>Morrison</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">(</forename><surname>Beloved</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Vintage</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1987">1987</date>
+			<biblScope unit="page">137</biblScope>
+		</imprint>
+	</monogr>
+	<note>It enabled the rise of the blues in the American South as well as its dissemination throughout the country&apos;, Racial Railroad</note>
+</biblStruct>
+
+<biblStruct xml:id="b32">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">Autobiography</forename><surname>Johnson</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="page">89</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b33">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">From</forename><surname>Stepto</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Behind</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="volume">104</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b34">
+	<monogr>
+		<author>
+			<persName><forename type="first">Julia</forename><surname>Lee</surname></persName>
+		</author>
+		<title level="m">The Racial Railroad</title>
+		<imprint>
+			<publisher>New York University Press</publisher>
+			<date type="published" when="2020">2020</date>
+			<biblScope unit="page">147</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b35">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">Autobiography</forename><surname>Johnson</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="page">78</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b36">
+	<monogr>
+		<title level="m" type="main">The Hammers</title>
+		<author>
+			<persName><surname>Sundquist</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="volume">11</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b37">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">Autobiography</forename><surname>Johnson</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="page">144</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b38">
+	<analytic>
+		<title level="a" type="main">As Daniel Henry reads the scene: &apos;The crowd&apos;s location by the train station indicates the regimentation of time, the crowd waiting for the victim&apos;s scheduled arrival</title>
+	</analytic>
+	<monogr>
+		<title level="j">James Weldon Johnson&apos;s Democracy Rag&apos;. Theory and Event</title>
+		<imprint>
+			<biblScope unit="volume">25</biblScope>
+			<biblScope unit="page">915</biblScope>
+			<date type="published" when="2022">2022</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b39">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">Autobiography</forename><surname>Johnson</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="page">166</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b40">
+	<monogr>
+		<author>
+			<persName><forename type="first">Jacqueline</forename><surname>Goldsby</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Spectacular</forename><surname>Secret</surname></persName>
+		</author>
+		<title level="m">Lynching in American Life and Literature</title>
+		<imprint>
+			<publisher>University of Chicago Press</publisher>
+			<date type="published" when="2006">2006</date>
+			<biblScope unit="page">199</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b41">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">Not</forename><surname>Hughes</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Without</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="page">174</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b42">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">Not</forename><surname>Hughes</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Without</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="page">166</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b43">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">Not</forename><surname>Hughes</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Without</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="page">88</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b44">
+	<analytic>
+		<title level="a" type="main">This is a contradiction that Eric Arnesen describes in his seminal history of the Pullman Porters: &apos;Not only were the histories of the</title>
+		<author>
+			<persName><forename type="first">Riding</forename><surname>Thaggert</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Jane</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Negro in America&quot; and railroading inseparable, but so too was the history of railroading predicated upon racial divisions of labor&apos; Brotherhoods of Color: Black Railroad Workers and the Struggle for Equality</title>
+		<imprint>
+			<publisher>Harvard University Press</publisher>
+			<date type="published" when="2002">2002</date>
+			<biblScope unit="page">5</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b45">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">Not</forename><surname>Hughes</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Without</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="page" from="191" to="192" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b46">
+	<monogr>
+		<title/>
+		<author>
+			<persName><surname>Esty</surname></persName>
+		</author>
+		<imprint>
+			<pubPlace>Unseasonable Youth, 7</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b47">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">Not</forename><surname>Hughes</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Without</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="page" from="126" to="127" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b48">
+	<monogr>
+		<author>
+			<persName><forename type="first">Tamlyn</forename><surname>Avery</surname></persName>
+		</author>
+		<title level="m">The Regional Development of the American Bildungsroman</title>
+		<imprint>
+			<publisher>Edinburgh University Press</publisher>
+			<date type="published" when="2023">2023</date>
+			<biblScope unit="page">65</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b49">
+	<monogr>
+		<title level="m" type="main">The first time we hear any mention of the railroad the novel, for example, is when Jimboy injures himself laying down railroad ties with &apos;a section gang of coloreds and Greeks</title>
+		<imprint>
+			<biblScope unit="page">37</biblScope>
+			<pubPlace>Not Without</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b50">
+	<monogr>
+		<author>
+			<persName><forename type="first">Andy</forename><surname>Oler</surname></persName>
+		</author>
+		<title level="m">Rural Black Masculinity and the Blues in Not Without Laughter&apos;. Hughes in Context</title>
+		<imprint>
+			<publisher>Cambridge University Press</publisher>
+			<date type="published" when="2022">2022</date>
+			<biblScope unit="page">104</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b51">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">Autobiography</forename><surname>Johnson</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="page">85</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b52">
+	<analytic>
+		<title level="a" type="main">Bruce Barnhart sees this play out internally for the narrator through musical encounters that his &apos;temporal and subjective shaping&apos; comes into being</title>
+		<author>
+			<persName><forename type="first">Cristina</forename><surname>Ruotolo</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Chronopolitics and Race, Rag-Time and Symphonic Time in The Autobiography of an Ex-Colored Man</title>
+		<imprint>
+			<date type="published" when="2000">2000. 2006</date>
+			<biblScope unit="volume">72</biblScope>
+			<biblScope unit="page">553</biblScope>
+		</imprint>
+	</monogr>
+	<note>American Literature</note>
+</biblStruct>
+
+<biblStruct xml:id="b53">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">Autobiography</forename><surname>Johnson</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="page">103</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b54">
+	<monogr>
+		<author>
+			<persName><forename type="first">Brent</forename><surname>Hayes</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Edwards</forename></persName>
+		</author>
+		<title level="m">Epistrophies: Jazz and the Literary Imagination</title>
+		<imprint>
+			<publisher>Harvard University Press</publisher>
+			<date type="published" when="2017">2017</date>
+			<biblScope unit="page">85</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b55">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">X</forename><forename type="middle">M</forename><surname>Neferti</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Taidar</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="page">161</biblScope>
+		</imprint>
+	</monogr>
+	<note>Remaindered Life (Duke, 2022</note>
+</biblStruct>
+
+<biblStruct xml:id="b56">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">Autobiography</forename><surname>Johnson</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="volume">36</biblScope>
+			<biblScope unit="page">124</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b57">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">Autobiography</forename><surname>Johnson</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="page">128</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b58">
+	<monogr>
+		<title level="m" type="main">The Hammers</title>
+		<author>
+			<persName><surname>Sundquist</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="volume">34</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b59">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">Autobiography</forename><surname>Johnson</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="page">171</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b60">
+	<monogr>
+		<title level="m" type="main">Siobhan Sommerville&apos;s reading of the text highlights how there is &apos;an implicit analogy between the narrator&apos;s relationship with the patron and his mother&apos;s relationship with his father: both echo the figure of the slave mistress, who is given a minimal amount of financial and material security in exchange for her sexual service to the white master</title>
+		<imprint>
+			<biblScope unit="page">119</biblScope>
+		</imprint>
+	</monogr>
+	<note>A relationship that also creates complex renderings of gender and sexuality for the narrator. Queering the Color Line: Race and the Invention of Homosexuality in American Culture (Duke, 2000</note>
+</biblStruct>
+
+<biblStruct xml:id="b61">
+	<analytic>
+		<title level="a" type="main">This is also what Edwards describes as Johnson&apos;s recurring &apos;problem of transcription: that is, with the problem of how to write music</title>
+	</analytic>
+	<monogr>
+		<title level="j">Epistrophies</title>
+		<imprint>
+			<biblScope unit="page">62</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b62">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">Sissy</forename><surname>Ross</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Insurgencies</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="page">159</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b63">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">Sissy</forename><surname>Ross</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Insurgencies</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="page">113</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b64">
+	<analytic>
+		<title level="a" type="main">Hughes foregrounds his sense of the cultural significance of the blues by italicizing them and inserting them unadulterated into his narrative […] thereby assuring that the energy and poetry of these African-American lyrics are recognized and experienced directly by his readers</title>
+	</analytic>
+	<monogr>
+		<title level="j">Not Without Laughter</title>
+		<imprint>
+			<biblScope unit="volume">4</biblScope>
+			<biblScope unit="page">1183</biblScope>
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+	<note>Natural and Unnatural Circumstances in Langston Hughes</note>
+</biblStruct>
+
+<biblStruct xml:id="b65">
+	<monogr>
+		<author>
+			<persName><forename type="first">Clyde</forename><surname>Woods</surname></persName>
+		</author>
+		<title level="m">Development Arrested: The Blues and Plantation Power in the Mississippi Delta</title>
+		<imprint>
+			<publisher>Verso</publisher>
+			<date type="published" when="1998">1998</date>
+			<biblScope unit="page">78</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b66">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">Not</forename><surname>Hughes</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Without</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="page">47</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b67">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">Not</forename><surname>Hughes</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Without</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="page">50</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b68">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">Not</forename><surname>Hughes</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Without</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="page">79</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b69">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">Not</forename><surname>Hughes</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Without</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="page">54</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b70">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">Not</forename><surname>Hughes</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Without</surname></persName>
+		</author>
+		<imprint>
+			<date>196</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b71">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">Not</forename><surname>Hughes</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Without</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="page">195</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b72">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">Not</forename><surname>Hughes</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Without</surname></persName>
+		</author>
+		<imprint>
+			<date>199</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b73">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">Not</forename><surname>Hughes</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Without</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="page">202</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b74">
+	<monogr>
+		<title level="m" type="main">Beautiful Experiments: Intimate Histories of Riotous Black Girls, Troublesome Women, and Queer Radicals (Serpent&apos;s Tail</title>
+		<author>
+			<persName><forename type="first">Saidiya</forename><surname>Hartman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Wayward</forename><surname>Lives</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2019">2019</date>
+			<biblScope unit="page">251</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b75">
+	<monogr>
+		<author>
+			<persName><forename type="first">Redmon</forename><surname>Fauset</surname></persName>
+		</author>
+		<title level="m">Plum Bun: A Story Without a Morale</title>
+		<imprint>
+			<publisher>Beacon Press</publisher>
+			<date type="published" when="2022">2022</date>
+			<biblScope unit="page">75</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b76">
+	<analytic>
+		<title level="a" type="main">When it was adopted in English in the early twentieth century, infrastructure referred primarily to the organizational work required before railroad tracks could be laid: either establishing a roadbed of substrate material (literally beneath the tracks) or other work functionally prior to laying tracks like building bridges</title>
+	</analytic>
+	<monogr>
+		<title level="j">Keyword: Infrastructure&apos;. Infrastructure and Social Complexity: A Companion</title>
+		<editor>
+			<persName><forename type="first">Penelope</forename><surname>Harvey</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">Casper</forename><surname>Jensen</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">Ashley</forename><surname>Carse</surname></persName>
+		</editor>
+		<imprint>
+			<biblScope unit="page">27</biblScope>
+			<date type="published" when="2017">2017</date>
+			<publisher>Routledge</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

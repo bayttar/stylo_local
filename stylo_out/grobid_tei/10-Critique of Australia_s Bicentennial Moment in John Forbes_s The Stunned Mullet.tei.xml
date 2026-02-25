@@ -1,0 +1,807 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Critique of Australia&apos;s Bicentennial Moment in John Forbes&apos;s The Stunned Mullet</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author role="corresp">
+							<persName><forename type="first">Simon</forename><surname>Eales</surname></persName>
+							<email>simonpet@buffalo.edu</email>
+							<affiliation key="aff0">
+								<orgName type="department">English Department</orgName>
+								<orgName type="institution" key="instit1">University at Buffalo</orgName>
+								<orgName type="institution" key="instit2">SUNY</orgName>
+								<address>
+									<settlement>Buffalo</settlement>
+									<region>NY</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff1">
+								<orgName type="department">English Department</orgName>
+								<orgName type="institution" key="instit1">University at Buffalo</orgName>
+								<orgName type="institution" key="instit2">SUNY</orgName>
+								<address>
+									<settlement>Buffalo</settlement>
+									<region>NY</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Critique of Australia&apos;s Bicentennial Moment in John Forbes&apos;s The Stunned Mullet</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date/>
+						</imprint>
+					</monogr>
+					<idno type="MD5">C4F5917F7234864A94FB6DBFAE709C78</idno>
+					<idno type="DOI">10.1080/17449855.2025.2555985</idno>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.0" ident="GROBID" when="2026-02-25T19:52+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term>Australia</term>
+					<term>poetry</term>
+					<term>Forbes</term>
+					<term>satire</term>
+					<term>Bicentenary</term>
+					<term>rhizome</term>
+				</keywords>
+			</textClass>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>To celebrate Australia's 1988 Bicentenary, the federal government commissioned a series of literary works, among them John Forbes's poetry collection, The Stunned Mullet. This article argues that, in this collection, Forbes satirizes the very notion of a national celebration. It places the "Bicentennial Moment" as the object of Forbes's satirical critique and explains how this critique functions in the poems. The article reveals three active, verbal processes in Forbes's poetics -beginning, memorializing, and viewing -which serve to draw the objectivity of the Bicentennial Moment into a state of emergence. It argues that Forbes contests claims of identity, which were everywhere at the Bicentenary, by drawing his use of language back to these actions. The article uses the concept of haecceity, from Gilles Deleuze and Félix Guattari, to theorize the temporal moment of the Bicentenary, and concludes by affirming that Forbes's acutely materialist poetics is clearly evident in The Stunned Mullet.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>I want to believe the beautiful lies the past spreads out like a feast. <ref type="bibr">(Forbes 1998a, 122)</ref> In his collection of poems, The Stunned Mullet <ref type="bibr" target="#b15">(Forbes 1988)</ref>, the Australian poet John <ref type="bibr">Forbes (1950</ref><ref type="bibr">Forbes ( -1998) )</ref> satirizes what critic Meaghan <ref type="bibr" target="#b26">Morris (1992)</ref> calls the "Bicentenary of the British invasion of Kamay (Botany Bay)" (88). By 1988, the year of the Australian Bicentenary, Forbes was an established figure in Sydney's and Melbourne's literary scenes, known for his epideictic wit and experimentalism. He had published three earlier collections and was a proactive participant in the so-called "generation of '68", a loosely formed group of poets featured in John <ref type="bibr" target="#b35">Tranter's (1979)</ref> anthology, The New Australian Poetry. Peter Craven (1998) called Forbes "probably the most intellectually formidable" of that cohort (41), while Gig Ryan (2010) highlights his penchant for satirizing "pomposity, irrelevance, <ref type="bibr">[and]</ref> conformity" (106). The Stunned Mullet exemplifies this tendency, playfully yet pointedly interrogating nationalism and the rhetorical architecture of Australian identity. What gives The Stunned Mullet its particular charge, however, is that it was commissioned by the Australian Bicentennial Authority (ABA) -the very institution responsible for managing the Australian Bicentenary's narrative, events, and image. Forbes acknowledges the ABA in The Stunned Mullet's dedication, and the organization's logo is cheekily incorporated into its cover design. The collection thus can be taken not merely as a critique by an outside observer but as an artefact of ironic complicity: a volume of commemorative poetry that turns satire inward -towards both Forbes himself as national poet and the ABA as ideological sponsor.</p><p>This article approaches The Stunned Mullet as a response to what I will call the Bicentennial "Moment", framing this moment using Gilles <ref type="bibr" target="#b14">Deleuze and Félix Guattari's ([1980]</ref> 2008) concept of the rhizome. While a moment is usually considered a crosssection, or a subordinate component, of linear and progressive time, to conceptualize a moment in rhizomatic terms is to recognize the multiplicity, upturned hierarchy, and potentially haywire logic internal to it. I capitalize the "M" of "Moment" throughout this article to denote the ABA's attempt to trademark and commercialize the time surrounding the 1988 Bicentenary. For example, the ABA attempted to make it illegal for anyone but the Bicentennial Authority to use the words "Australia 1988", "Australian Bicentenary", "The Australian Achievement", "Australia 200", "Sail", "Sail Australia", "Opsail", "Operation Sail", "Tall Ships", and "Tall Ships Australia" <ref type="bibr" target="#b0">(Davis v. Commonwealth 1988)</ref>. Further, the article explores how Forbes's poems challenge the discursive roots of nationhood. It does so by tracking three recurring, action-oriented themes -beginning, memorializing, and viewing -each tied to the structure of the Bicentennial as an event. These verbs signal that Forbes is mocking not simply specific Australian identities, but the rhetorical processes by which identity is manufactured and celebrated. His satire, then, is aimed less at national character than at the confused spectacle of identity-making itself.</p><p>The Stunned Mullet's most direct engagement with the Bicentenary appears in "On the Beach: A Bicentenary Poem" <ref type="bibr">(Forbes 1988, 15-20)</ref>, which Alan <ref type="bibr" target="#b38">Urquhart (1997)</ref> describes as "demystifying [ . . . ] national mythologies" (20). The poem's six sections each "attempt" to describe Australian identity -though Forbes's language makes clear that such efforts are undermined by contradiction and dissonance. The first section begins with the pastoral image of a "billabong", evoking Banjo <ref type="bibr" target="#b30">Paterson's (1903)</ref> ballad, "Waltzing Matilda". But this antipodean idyll is shadowedliterally -in the poem by a spreading darkness and the mechanical drone of a pump. Such inclusions disturb the romantic vision, recalling the fatal outcome of Paterson's ballad: the swagman's death. Even more disorienting is a line in "On the Beach", "Milled day-glo ephemera / sell you this image of Australia" <ref type="bibr">(Forbes 1988, 15)</ref>, which parodies the mass-produced kitsch used to commodify national identity. The lurid, disposable souvenirs evoke the aesthetic of Ken Done, and here they are not only the merchandise of national myth but are somehow doing the selling too. The poem's remaining sections extend this critique through similarly jarring juxtapositions: a headless chook in a city plaza (16), First Nations "religious imagery" reduced to a tea-towel (17), a family snapshot beside a Navy vessel (18), and an "explorer, / blowing on a conch shell" (20). These images combine the banal and the mythic, evoking both familiarity and estrangement. Forbes positions them against the idea of "your vocation" -the question of what the reader, or the nation, is to become. Such a vocation is portrayed as elusive, fragmented: "you notice each feature [of your face] as it emerges, empty as you imagined but expectant with a blank, cut-up sense of what your vocation is going to be" (20). The poem's closing lines seem to encapsulate Forbes's critique: identity, like vocation, is not preordained or coherent, but cobbled together -"cut-up", provisional, and haunted by absence.</p><p>While Forbes has often been seen as a general satirist of contemporary culture, this article argues that, in The Stunned Mullet, he targets the Bicentennial Moment in particular, exposing its contradictions by undermining the kind of epistemic certainty typical of nation-building. Indeed, the collection seems to propose that such national celebrations threaten to make us all "stunned mullets", to refer to the Australian idiom Forbes uses as his title. That is to say, "Dazed, stupefied; uncomprehending; <ref type="bibr">[and]</ref> unconscious" (Australian National Dictionary Centre n.d.).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>"All that speech"</head><p>If the Bicentennial Moment was woven from strands of history, identity, memory, and commemoration -each vying to define the national story -then The Stunned Mullet might seem to be just another thread: a muffled aside in a noisy debate. But the Moment can also be seen as reflecting a belated surge in postcolonial cultural theory. In a review, for example, Helen <ref type="bibr" target="#b34">Tiffin (1978)</ref> praises Kenneth Ramchand's linking of Australian and Caribbean literatures via shared postcolonial themes: self-assertion, localism, imperial hierarchies, language as resistance, and communal values like the Caribbean "yard" and Australian "mateship" (87). Her comment that these similarities remained, at that time, underexplored, suggests that Australian literature was on the cusp of a deeper integration of postcolonial critique -an impulse that would take hold in much of the discourse emerging during the Bicentennial Moment.</p><p>The ABA, launched in 1980, entered this portentous atmosphere aiming to commission works of literature and art that illustrated Australia's cultural diversity <ref type="bibr">(ABA 1980)</ref>. Its initiatives coincided with a chaotic array of other events -World Expo 88, the First Fleet re-enactment, Beltana's "Opera in the Outback", for example -that, as Pat Buckridge observes, combined "cultural antinomies" in a "Bakhtinian duality" <ref type="bibr">(1992,</ref><ref type="bibr">82)</ref>. These spectacles varied in how they acknowledged the violence and contradictions of European settlement, often wavering between celebration and criticism. This ambiguity might have been tolerated had the Bicentenary not marked, as Tony <ref type="bibr" target="#b6">Bennett (1992)</ref> puts it, the first time Australia was "rhetorically present" at its own celebration (xvi). Unlike during Australia's centenary and sesqui-centenary celebrations, the 1988 Moment offered platforms for dissent -especially around the historical treatment of Indigenous Australians. This gave rise to the tension between the conservative "three cheers" view of history, and the so-called "black armband" view <ref type="bibr" target="#b7">(Blainey 1993;</ref><ref type="bibr" target="#b24">MacIntyre and Clark 2004)</ref>. Some critics of the ABA accused it of capitulating to the latter, framing the ABA's commemorative efforts as historical self-flagellation <ref type="bibr" target="#b21">(Hirst 1989)</ref>.</p><p>Indeed, themes of darkness, mourning, and erasure in literature centring Indigenous experience challenged the Moment's celebratory narrative, exposing the violence and dispossession involved in colonial occupation. <ref type="bibr" target="#b18">Kevin Gilbert's (1988)</ref> anthology of Aboriginal poetry, Inside Black Australia, including his own poem "Celebrators '88", stages this critique with irony: how many thousand million shall they give to celebrate the Bicentenary and cloak the murders in hilarity and sing above the rumble of the hearse. <ref type="bibr">(198)</ref> Many non-white groups expressed frustration at their marginalization during the Bicentennial, though some used the Moment to mobilize in solidarity. The largest recorded gathering of Indigenous people occurred in Sydney's Belmore Park on Australia Day <ref type="bibr">(Bacon 1988, 28)</ref>, for example, and many Aboriginal organizations applied for ABA funds to promote cultural preservation <ref type="bibr">(Morrisey 1988, n.p.)</ref>. Yet the contradiction between national promotion and grassroots empowerment was ever-present. Major international Indigenous art exhibitions -"Dreamings" <ref type="bibr">(New York, 1988)</ref>, "Magiciens de la Terre" <ref type="bibr">(Paris, 1989)</ref>, "Aratjara" (Europe, 1993-94) -were often politicized or commodified, even as curators sought to contextualize the work of Indigenous artists without a solely ethnographic framing <ref type="bibr" target="#b39">(Wall 2014)</ref>.</p><p>For <ref type="bibr" target="#b9">Buckridge (1992)</ref>, the most stable value emerging from the ABA's contradictory "integrating strategies" was the paradoxical emergence of a nationalized critical discourse (86). Analysing literary histories commissioned by the ABA, he identifies a clash between nationalist "rhetorical" and Romantic "expressive" ideologies. The fantasy of consensus, such as that imagined in <ref type="bibr" target="#b36">Tranter's (1989)</ref> anthology The Tin Wash Dish: Poems from Today's Australians, was undercut by the very contradictions such a fantasy aimed to reconcile. Buckridge writes:</p><p>The feat of intellectual legerdemain by which a whole history of institutional cultural hierarchy is thus whisked away by the power of the cultural historian's egalitarian sentiments fits neatly into the wider Bicentennial pattern of celebrating democratic consensus as a fait accompli while in the very act of displaying its practical absence. <ref type="bibr">(1992,</ref><ref type="bibr">81)</ref> Within this fraught context, Forbes's poetic language -which Phillip <ref type="bibr">Mead (1998, n.p.)</ref> likens to "the bloated and sutured body of private and public discourse" -offers a satirical counter. His poems deflate nationalistic spectacle to produce, in their very resistance to coherence, fleeting glimpses of meaning amid the clamour.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Forbes's active targets</head><p>I focus on the Bicentenary as satire's extramural target here, taking the term "extramural target" to mean the object in the world outside the poem -a political or social event, movement, person, or people -at whom, or at which, the poet's satire is directed. We must observe, however, that the Moment's identity as such a target slackens upon inspection. Forbes does not merely view the Bicentennial Moment as a discrete object from a critical distance. His poetic voice is bound in the Moment as target, and the Moment is bound in his poetic voice. We can consider this an extension of Duncan Hose's (2010) account of Forbes's poetics as "a form of epistemology" that "takes itself as its object, turning on itself in a humorous and fearsomely aerobatic attempt to turn itself inside out and describe the conditions and capabilities of human knowledge" (173). Applying Hose's view to Forbes vis-à-vis the Moment, we can say that Forbes's epistemology is also densely woven with a phenomenology of the event.</p><p>Forbes often names targets as the subject of his verse. Although easy to spot, these targets attain a complex phenomenological status. In his early poem, "Ars Poetica", for instance, the poetic voice renders targets as objects of vitriol, but spectre-like in constitution <ref type="bibr">(Forbes 1998a, 82)</ref>:</p><p>Raving against the space where the poem sounds like a revolving door that makes the noise a car makes bumping into the dolethat's the target [ . . . ] Put a brick through a real-estate agent's window and it bounces back and cuts you. That's what I mean about targets Targets here are paranoid projections of the self that do not collide with the poetic subject but expose the subject's rage against itself. By making "Ars Poetica" a manifesto for poetic practice -where a manifesto is an additional kind of target -and summarizing this target as the very notion of "Raving against the space", Forbes neutralizes any preloaded conceptual meaning the word "target" may have. He demonstrates that the target is constantly in the process of being created.</p><p>In their development, Forbesian targets acquire the capacity to act back on their shooter. In The Stunned Mullet's "The Corrosive Littoral", for example, targets are lined with razor blades and teeming with screaming parasites carrying diseased culture <ref type="bibr">(Forbes 1988, 45)</ref>. The poem's epigraph, "If someone has to suffer for art, why not the listener" -a quotation from John <ref type="bibr" target="#b29">Nash's (1981)</ref> Ode to Iggy Pop (John Nash is the pseudonym of Sydney poet Mark O'Connor) -flips art's conventional artist-to-recipient direction of communication on its head and emblematizes the inverted authority belonging to satire's object. This object (the "listener", the target of satire, or the viewed object) is not passive in Forbes's work, but imbued with "the nerve to operate" <ref type="bibr">(Forbes 1988, 45)</ref>. Consequently, weapons like "scalpel[s]" and "hammer[s]" are peppered throughout the poem. However, Forbes places them alongside seemingly innocuous objects like "academic tones", "excla[mation] against repose", and a "dawn chorus of grunts", making these latter objects weapon-like by association <ref type="bibr">(Forbes 1988, 45)</ref>. These objects are not only instruments for assault but are also shielded by their inability to be possessed in the way a physical object might be. In the following passage, for example, Forbes emphasizes the uselessness of more conventional rhetorical and physical weapons ("your nastier attitudes" and "baseball bats") by revealing that the jungle hunting ground to which they are carried is actually a barren desert, a place where there's nothing to aim at: Ignore, for instance the impressive panel of buttons connected to your nastier attitudes. Imagine instead you're basking in an ad for Perrier, practicing an idiodextalect by running your fingers along her back. Then my child, you make the first cut, the way Marjorie first thrills then enervates, like a bottle of Bristol Cream Sherry drained at one go (Hommage à Ted Berrigan, poète américain et mort -History's autographed baseball bats fan out above his head. They are the doxa you take to the jungle, deft as a lizard but sure you'll return, because it's a desert out there, not a jungle &amp; you will never possess A Child's Treasury of Curses, translated into Pitjanjatjara). ( <ref type="formula">45</ref>)</p><p>Despite their object status, weapons are only defined as such within the delimited terrain of each subject (the words "idiodextalect" 1 and "doxa" indicate such privacy of meaning). Their status, therefore, is contradictory. By being weapons only privately, not generally, they are ineffectual as weapons and therefore difficult to call weapons at all. It is, counter-intuitively, the seduction involved in "practicing an idiodextalect", draining a bottle of "Bristol Cream Sherry", or delighting a child with a book full of curses that facilitates injury (the "first cut"); you have to "thrill" to "enervate". But is enervation the most profound effect one can have on the target? Forbes here suggests that even if "you", the childlike subject, possessed a full glossary of literary weapons, like Hugh <ref type="bibr" target="#b31">Rawson's (1989)</ref> delightful collection of insults and put-downs, Wicked Words, you would always be missing some part required to effectively and specifically translate it (into Pitjanjatjara, for example) and put it to use.</p><p>So, Forbesian targets are forged and enforced, and Forbesian weapons are ineffectual. Forbes interrogates target-ness and weapon-ness to the point that each -targets and weapons -ceases to be itself. It is the kind of poetic rigour involved in this interrogation, where every moment, word, argument, and image gets run through the wringer, that triggers <ref type="bibr" target="#b11">Craven's (1988)</ref> suggestion that, in Forbes, there is "no wastage at all" (10). Developing a similar view, Urquhart observes that the "textuality" of the poems in The Stunned Mullet not only creates "surface tension" but generates a "conceptual analysis" from that tension <ref type="bibr">(1997,</ref><ref type="bibr">24)</ref>. By this he means that although Forbes's poems can seem to be heady dances of unanchored signifiers, the meaning they convey in The Stunned Mullet is that the "beauty" we meet in images of Australia "is a lie" <ref type="bibr">(Urquhart 1997, 25)</ref>. Urquhart emphasizes the significance of the figure of the "missing person" in The Stunned Mullet. It is a paradoxical figure (i.e., one who is not there but should be) and its naming verifies the idea that the Moment is a strange (i.e., Forbesian) kind of target: you can become a missing person in the Moment; you can disappear. If you are going to target it, you have to do so in the tensely textual, poetically interrogative way that Forbes does, so as not to get lost. As a result, there is no takehome left for The Stunned Mullet's reader, only a persistently ameliorative incitement to discourse that exposes the futility of isolating and investing energy into affecting such an object as the Moment.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>The Moment's haecceity</head><p>The Stunned Mullet glamorizes -in the ironic, "damaged" sense that <ref type="bibr">Forbes (1998b)</ref> himself evokes in Damaged Glamour -accounts of European settlement in Australia, resisting what Paul Carter <ref type="bibr">([1987]</ref> 2010, xviii) calls the "desire to 're-think' Australia's beginnings" -a move he sees as simply a new nationalism replacing the old British one. Satirizing this settlement, Forbes enacts not a "confusion of routes with roots", but a collusion <ref type="bibr" target="#b10">(Carter [1987</ref><ref type="bibr">(Carter [ ] 2010, xviii), xviii)</ref>. He stretches and destabilizes the national narrative, flattening hierarchies, and undoing the imperial language that sustains them. In doing so, his satire maintains the Moment's deterritorialized state and reveals the "haecceity" of its composition. Deleuze and Guattari define haecceity as an individuation made of "relations of movement and rest", not a subject or thing <ref type="bibr">(2008,</ref><ref type="bibr">304)</ref>. Temporally, haecceity exists between two planes: Aeon -the boundless time of events, ever-dividing and indeterminate -and Chronos -the measurable time that fixes form and identity (305). A haecceity is an assemblage comprising both Aeon and Chronos -a rhizomatic, continuous middle (307). <ref type="bibr" target="#b26">Morris (1992)</ref> notes that Forbes engages the complexity of relational networks rather than traditional context. She reads his poems as shaped by, and participating in, "the complex networks of living" (10), and proposes this approach as a critique of the aestheticization and depoliticization tied to cultural studies' imperial turn in Australia. Forbes, she argues, reflects a "double <ref type="bibr">[intellectual]</ref> understanding" of the interplay between cultural theory and daily life (12), while resisting the sanctification of that interplay.</p><p>Thus, The Stunned Mullet becomes, for Morris, a collection of "puzzling little scenes" across domains -domestic, political, historical -unified by their commentary on the public discourse of the Bicentenary. She suggests that the collection serves as "a survival guide for living in the midst of all that speech" <ref type="bibr">(Morris 1992, 88)</ref>. This "speech"historicizing and nationalizing -aligns not with Chronos but with the Aeon's indefinite time, the mythic temporality of nation-building. In contrast, The Stunned Mullet plays the role of Chronos: a lived, individuated guide to the Moment's haecceity. Ironically structured, it does not prescribe but disorients -offering an alternative use of language. In "Europe: A Guide for Ken Searle", for example, similes dislocate meaning: "Scotland is old-fashioned like a dowry / but unusual, like nice police" <ref type="bibr">(Forbes 1988, 49)</ref>. The tourist is invited to get lost in the gaps. Forbes offers no apologies: "many guides to Australia include / New Zealand or leave out Tasmania" (51). This embrace of error becomes a satirical logic -one that encourages a deterritorialized mode of reading.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Beginnings in The Stunned Mullet</head><p>With The Stunned Mullet, Forbes joins sceptical voices of the Moment that articulate an anxiety of origins: the deep feeling of uncertainty regarding where, when, and how Australia began. In demonstrating this scepticism, Forbes's poetic voice paradoxically professes certainty about points of origin; certainty he then undercuts. For example, beginning to read a poem from The Stunned Mullet is easy, usually because the subject is identified in the first line: "You want to write a baby-language Rilke" ("The Sublime According to Quine"; <ref type="bibr">Forbes 1988, 35)</ref>. In this example, Forbes affirms the reader's orientation: "you", his reader, belong where you are, reading his poem. This direct address to "you" is a significant Forbesian satirical device, allowing him to manhandle his addressee -positioning and describing (objectifying) "you" in detail -before bathetically removing that support. In the rest of "The Sublime According to Quine", after jamming "you" with "a blue pacifier", a "dry martini", and "a principled view of life", Forbes throws a derailing riddle into the works: "Is knowing where / you're not the same as wishing to be someplace / where you weren't[?]" <ref type="bibr">(1988,</ref><ref type="bibr">35)</ref>. After the certainty regarding who we (as the addressed "you") are, this question is unanswerable. Yet it burrows to the question of the Moment for Forbes: as Australians, who are we? And also, how can we ask that question?</p><p>Problems with beginning accumulate when Forbes teases points of origin into lines (see <ref type="bibr" target="#b10">Carter [1987]</ref> 2010). How do you locate one point of origin, from which you can mark an anniversary, on a line? Perhaps it is the shore-point, as the Australian Government and the ABA easily decided; the land boundary beyond which flags are mounted and stumps implanted. The absurdity of the line of origin -back along which historicists attempt to fly -is articulated in The Stunned Mullet's titular poem, where <ref type="bibr" target="#b15">Forbes (1988)</ref> stages a mockingly thwarted imperial landing: "lips bruised blue / from the impact of the shore / form words you applaud / because, after all, a fish is speaking." (32)</p><p>As I have shown, contact with the target in Mullet causes bruising. The colonial mullet bruises its lips trying to settle Australia. The fish running against the shore is framed as a moment of heroism in which it takes courage to flirt with the borders of its own epistemology and beyond which the imperialist would indeed be a fish out of water. The characterizations here -imperialist as fish; colonial land as essentially unliveable (not because of its unliveability but because of the unnatural fit between the land and its colonizer) -predict the reception that follows, and that alludes to the satirical drive of Forbes's poetic voice: the applause is perfunctory, "like the scattered clapping / a bronze medal at the Olympics gets" <ref type="bibr">(1988,</ref><ref type="bibr">32)</ref>. This is just one dubious line of origin to which Forbes attaches the celebratory sentiment of the Moment. He pulls out others, too. From the land in "The Corrosive Littoral"; from a drug-haze in "Speed, a pastoral"; from literature, Europe, Hanoi, philosophy, dreams, ancient Egypt, military history; and from a "steamer trunk" in "Colonial Aubade" <ref type="bibr">(Forbes 1988, 45, 28, 31)</ref>. Also, in frustration towards the Australian tendency of "reaching for a quip or a flagon" in its defence against "Fate ['s . . . ] chisel", Forbes imports a uniquely American "industrious[ness]" ("Antipodean Heads"; 1988, 23): in "On the Beach", "Your vocation calls / &amp; you answer it" <ref type="bibr">(1988,</ref><ref type="bibr">15)</ref>. Ken <ref type="bibr" target="#b8">Bolton (2002)</ref> proposes that the binary carried over from the Australian poetry scene of the 1970s was "that of a new, more with-it, urban, American-derived poetic opposed to a more traditional range of forms and diction much attuned to 'rural' Australia and Anglo-Australian values" (7). The influence of Frank O'Hara's New York School poetics upon <ref type="bibr">Forbes -evident in what Ivor Indyk (2002)</ref> calls Forbes's "pratfall and recovery, awkwardness and grace" (87) -substantiates Bolton's claim. One aspect of this poetic is its close stylistic and conceptual relationship to the visual arts <ref type="bibr" target="#b28">(Myers 1969)</ref>. We may find an apt example in reading Australian painter Albert Tucker's parodic style, not to mention his focus on the form of the human head, into Forbes's fevered mindscapes (see <ref type="bibr" target="#b19">Gleeson 1971;</ref><ref type="bibr" target="#b37">Tucker and Mora 1982)</ref>. Like America, Forbes's Australia has profligate influences and is constantly and exhaustingly referential. It meets every effort to trace an origin with the necessity of beginning a new tracing.</p><p>In laying them out and refusing to offer a resolution regarding which origin he authorizes, Forbes leads his textual subject, "you", into the kind of reading strategy that Bill <ref type="bibr" target="#b1">Ashcroft, Gareth Griffiths, and Helen Tiffin (1989)</ref> argue "capitalises on the creative potential of the centre/margin distinction but refuses the gravitational pull towards the construction of a new essence" (152). Each creation from the coupling of centre and margin is a Forbesian beginning without an end. Indeed, once the beginning is begun, he begins a new beginning. Despite this, Forbes does suggest a fate for the creations generated by colonial Australia: they become passive targets at which other objects are directed. In "Baby" -the title symbolizes the young body, the identity just beginning -targets are wooed, not hit <ref type="bibr">(Forbes 1988, 33)</ref>. The subjectagent softens the weapons it uses against these targets, like the biscuit against the baby: "you pick up a biscuit, soak / it in milk &amp; try to lull the baby". It describes TV advertising -another weapon -as a "pastel-shot canopy" (33); that is, easy on the eye. The man who begins its jingle, armed with a pencil, only benignly "doodles". The softness of these object-weapons contrasts with the hard, "bright tangle of toys" which overhangs the baby's bed. The baby "blinks" at this complex of overstimulation while it does not blink at the TV. In fact, the TV has anthropomorphized and "agree[s]" (33) with the poem's parent figure. Forbes here emphasizes that the beginning subject, with no culture of its own, is perpetually at risk of absorbing dangerous objects.</p><p>In a similar way, Forbes exacerbates the emptiness of 1788 through his representation of dispersed, violent, inexact, soft, and perpetual beginnings. This considered, we are compelled to ask: what is a hard celebration of a soft beginning but a fallacy?</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Memorializing in The Stunned Mullet</head><p>With beginning compromised, Forbes's commemoration of beginning comes freighted with error. And yet there is a further, multilayered memorialization at play in The Stunned Mullet that manifests as a process attuned to each fugacious mythology of the Moment; a process that connects these mythologies to each other to form a monstrouslooking rhizome. Forbes memorializes the act of memorialization itself, an act which objectifies history. This mock-memorialization constitutes his satirical poetics.</p><p>For example, through his poetic subject in "Je ne regrette rien", Forbes lays out the documentary style in which he records history: "I just note down these details, / so clever as usual / that nothing at all in this / looks like it needs to be there" <ref type="bibr">(1988,</ref><ref type="bibr">29)</ref>. The description, "these details", refers to a number of things, one of which seems to be the "photo" of "her" "stuck / to the side of my bookcase" (29). However, the fact that "The blutack can't hold down / the corners" of this photo hints at the compromises forced on all historiographical voices: there are pieces of the scene obscured from view (29). Not just pieces, in fact, but the entire periphery; the edges; the framework housing the photo's subject. Such is the obscuration, the photo could have been taken "in the tropics" (29), or, if the scene wasn't obscured, the poetic voice would have been "able to read so much more / into Tranter's portrait of her" (29). The poetic subject cannot even read the photo comparatively. Instead, "hands on hips, face turned up / &amp; slightly smiling, with sunglasses / hanging around her neck" ( <ref type="formula">29</ref>) is all the detail the poetic subject can glean. The subject of the photo is sectioned from her context, so the memorializing voice must rely on imagination.</p><p>"[T]hese details" can also be taken to refer to the other photos surrounding "her photo" on the side of the bookcase; ones of "nephew Louie", "Sharon O'Neill", Dad with me &amp; Mick in a billycart / &amp; Mum pregnant with Chris -/ it must be in New Guinea, / about May or June 1954." (29) Where "detail" marks certainty, and where information surrounding the subject in the photo is obscured, the world surrounding the photo is all that the poetic voice can rely upon. And yet the poetic voice imbues these details with ambiguity; saps them of necessity through "clever[ness]" (29) of representation. The transmutation of forms (from picture to outside-the-picture) and having them represent the same thing (the "details") constitutes this "clever[ness]". All this description -all this speech -works as a distraction from the poetic voice's own presence, a fact which may have been lost on us if the poetic voice did not gracefully offer its coordinates and appearance in the poem's last lines:</p><p>&amp; what escapes your attention is how I appeareach image getting less &amp; less attractive, like the beginning of a slander on the one that went before. <ref type="bibr">(Forbes 1988, 29)</ref> At the mouth of all this detail is an ugly speaker who only gets less attractive with each mimetic regression it takes, as in "The Promissory Note", where "Each day bears the imprint of the one that went / before, rejected the way stance &amp; posture mar" <ref type="bibr">(Forbes 1988, 42)</ref>. Each detailed description, figured as a memorialization, can only be further away from the one before and therefore less beautiful, where beauty is ironically figured as identity. That Forbes returns at the poem's end to remind his reader of a speaker's presence sends a subtle signal regarding the Moment: don't be distracted by the Moment's collection of pretty re-enactments. Don't be distracted by its contents. Look, instead, to the process of, and those entities performing, the air-brushing and contextual obscuration.</p><p>The melancholic "The Age of Plastic" <ref type="bibr">(Forbes 1988, 13)</ref>, in which the poetic subject contemplates suicide and equates its exile with death, seems to constitute Forbes's most sincere effort to say something about memorializing. As in "Death, an Ode" <ref type="bibr">(Forbes 1988, 43)</ref>, on the other side of suicide lies a changeless world. The poem's subtitle, " -after Ovid", references the Augustan poet's exilic works, Tristia and Epistulae ex Ponto, in which he bewails his separation from family, friends, and society, and his banishment to the edge of the Roman Empire. There are allusions, too, to Shakespeare's Ophelia staring into the pond, her arbour literally snapping from beneath her as the State of Denmark falls apart (Hamlet IV.7). Here, famously, Ophelia sees her reflection then enters it to kill herself. Where "what seems, is &amp; what your words describe / you know exists", suicide is the only escape ("Watching the Treasurer"; <ref type="bibr">Forbes 1988, 10)</ref>. On joining, and metaphorically becoming, your reflection "down there", "in the water" ("The Age of Plastic"; <ref type="bibr">Forbes 1988, 13</ref>), Forbes's poetic subject hypothesizes that, although "you'd feel at home" in death, you know you'd miss a particular cassette idle tears or a glass of gin &amp; be irked by the serious options a changeless life presents e.g. 'Minor poet, conspicuously dishonest' would look funny on a plaque screwed to a tree while the blue trace of your former life suggests an exception (13) Forbes glosses over this "blue trace", which plausibly refers to the carbon copy -the exact circumstances and events -of the poet's existence. 2 He replaces it with a brief epitaph, "screwed to a tree": "Minor poet, conspicuously dishonest" (13). The poetic subject proleptically mourns posterity while leaving only inadequate summaries of actual experience:</p><p>for them the parts of speech will need explaining not lakes or sleep or sex, or the dumb poets of the past who, being lyrical, missed out on this. ( <ref type="formula">13</ref>)</p><p>The cults of individualism and literary celebrity, perpetuated by lyric poets, distract from the experience that Forbes wants poetry to really be about: "lakes [and] sleep <ref type="bibr">[and]</ref> sex"; the immersive experiences which are incompatible with language, and to which poetry can only refer in the negative. The littoral zone in which exile takes place is simultaneously petrifying and creative, depending on the subject's perspective: dialogically petrifying, or rhizomatically creative.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Viewing in The Stunned Mullet</head><p>Pictorial images and themes densely populate The Stunned Mullet. They stand as appropriations of pop-advertising culture, examples of Forbes's preoccupation with the quotidian and mundane, and are ironic encapsulations of identity and time. But they also play an affective role in The Stunned Mullet's satire. Pictures in The Stunned Mullet are objects that trigger action and speech. As such, Forbes's use of, and attitude towards, them resembles his disposition towards the Moment. In contrast to memorializingwhich, for Forbes, involves manifold restatements of history -viewing is a rigorously contemporary action. By describing his unique view, Forbes can avoid overt critical judgement and resist historiographical seductions.</p><p>For example, Forbes's poetic voice speaks from a sense of divided subjectivity. We can perceive that this is in order for it to be able to observe any part of itself, as when it says to itself, "your feelings / follow your career down the drain" in "Speed, a Pastoral" <ref type="bibr">(Forbes 1988, 28)</ref>, or when it views its own mind in "Egyptian Reggae" (41):</p><p>I am Cleopatra's dog &amp; my head is a balloon of marsh gas rising from the Nile where the rest of me sleeps, my only pleasure a fizzing spoon, each bubble like another balloon</p><p>The drug-induced detachment in these poems further suggests Forbes's concentration on alternative kinds of vision. The expression of these could be understood as the lyrical impetus to bridle some Wordsworthian "spontaneous [ . . . ] feeling" <ref type="bibr" target="#b41">(Wordsworth ([1802</ref><ref type="bibr">(Wordsworth ([ ] 2013, 98), 98)</ref>. However, it would be more accurately described as a calculated hyperloading of stimuli into a notional One. That is to say, Forbes posits a singular receptive subject, lyric voice, or viewing position and then dissects its body -as in his muchanthologized "Four Heads and How to Do Them" <ref type="bibr">(Forbes 1998a, 45</ref>) -and has it spew forth a multitude of perspectives and directions: Sydney Central Business District (CBD) Martin Place in section 2 of "On the Beach: A Bicentennial Poem" <ref type="bibr">(Forbes 1988, 16)</ref>, for example. Forbes subtitles this section " -after Juan <ref type="bibr">Davila" (1988, 16)</ref>, the Chilean Australian painter whose "attack upon the 'sacred cows' of the national art history, and the Nation more broadly" heavily influenced Forbes <ref type="bibr">(Benjamin 2006, 43)</ref>. This section evokes a similar mélange of physicalized transgression to, for example, <ref type="bibr" target="#b13">Davila's (1982)</ref> painting, A Sentimental History of Australian Art, while retaining Forbes's irony: astonished trade union delegates watch a man behead a chicken in Martin Place -isn't there a poem about this &amp; the shimmering ideal of just walking down the street?</p><p>not being religious we bet on how many circles the headless chook will complete &amp; won't this do for a formal model of Australia, not too far-fetched, not too cute? <ref type="bibr">(Forbes 1988, 16)</ref> Here we see a renegotiation of movement through a Euclidean cityscape. The poem traces the city's grid pattern, but its observers predict, then map, a transgressive (i.e., circular and uncalculated) route. Following the brutal beheading of the colonial from empire, or the event from its temporal context, the viscera of once-whole bodies move haphazardly through space (like a chicken with its head cut off): unpredictably; as a psychotic dance of death. Just like the "block cut", the "trace", and the "image" in the poem's first section <ref type="bibr">(Forbes 1988, 15)</ref>, here, striating notions of the "ideal", "religio[n]", and the "model" mark the boundaries of order ( <ref type="formula">16</ref>). The objects that Forbes views "shimmer" and "circle" beyond these striations ( <ref type="formula">16</ref>).</p><p>But what is the "model of Australia" that might, Forbes's poetic voice facetiously implies, be "too far-fetched [ . . . ] too cute"? It is a bunch of observers standing around, betting their welfare cheques on the movements of an otherwise entirely unpredictable, doomed, and unconscious -indeed, brainless -machine. The supposed contemporaneity of direct observation does not save that observation from satirical critique. Indeed, poetic description of viewing is not viewing itself. Once described, viewing has already become historical, and Forbes is acutely aware of this dilemma. He negotiates it by deferring to the seemingly iron-clad relationship between viewing and its description to the sensation of touch, causing the nauseating undulations of an ontological transition. For example, in "Poem on Style 1", <ref type="bibr">Forbes (1988, 36)</ref> figures the acme of pleasure ("the pink") using the similitude-inducing id est, and the capacity to inspire visual reminiscence through touch:</p><p>You're in the pink i.e. I admire the metal flecked duco your touch reminds me of &amp; even though a jar contains your feelings, before a new style arrives by sledge you invent the wheel.</p><p>Forbes's deployed simultaneity, flagged by the ampersand and the phrase "even though", here suggests that the tactile ("your touch") exists at the same time as the visual ("I admire [etc.]"). But viewing, touch, and description can more accurately be described as occurring in strange succession here. "Your touch" is the external, historical event that is remembered; the "admire[d]" view triggers this memory in the poetic voice; and then a self-reflexive description of this process occurs, which we read in the poem, as well as a metaphorized premonition ("a new style arrives by sledge"). As in haecceity, there are fragments of chronological order here, as well as fragments of simultaneity. Each sensation, whether tactile or visual, is registered as simultaneously existing in the present moment, a past moment, and an open future.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Conclusion: No space</head><p>If the process of synthesizing mythologization -the remedy to "all that speech" -strings out a line of fabricated history and cultural cohesion, such an "unravel[ling]" as Forbes induces with this bringing-close of viewable objects, injects and re-injects momentousness into the Moment. With such grace -that is, with the contemporary moment being "enough" -he encourages heterogeneity, mobility, and surfeit, and enacts the repeated failure of mythologies. Forbes's poetic subject in The Stunned Mullet is not a polarizing one. Rather, in demonstrating the rhizomic characteristics of the Moment, Forbes shows that the suitable tense in which to commemorate the founding of Australia is a paradoxical one that subjects past, present, and future tenses to the process of becoming. This is not at all what the ABA would have wanted from their attempt to express some true, if myriad, identity of Australia. As Forbes states in an interview:</p><p>We're massively deluded about ourselves most of the time and I don't just mean about things like nationalism. I mean about how we see ourselves. My poetry points out that there are no free spaces -there is no unoccupied territory. Les Murray talks about Australians living in one quarter of Australia and keeping the rest empty for poetry, which is an example of how people like to see things. Actually, what the three quarters of Australia is kept empty for is mineral exploration. My poetry doesn't pretend. <ref type="bibr">(Redford 1989, 40)</ref> In "telling it how it is" -where "it" is the Moment -Forbes turns the Moment, as it reflects Australia more broadly, into the object of his satire. The vital part of this objectification, however, is Forbes's paradoxical de-objectification of, and intensive contact with, the Moment; his insistence that the Moment never stops producing shoots. Notes 1. "Idiodextalect" is a Forbesian neologism that combines the words "idiolect" (speech habits particular to one person) and "dextrous" (skilful use of the hands). 2. In G.A. <ref type="bibr" target="#b40">Wilkes (1985)</ref>, "blue" has four distinct definitions, including "A quarrel, brawl" and "A blunder, mistake" (45). Forbes's usage here suggests both -as in, the "former life" was a quarrelsome mistake the colonial mullet is a kind of reanimated, or puppet-like, carcase. In Navy slang, "blue" also means "unmentionable" <ref type="bibr">(Granville 1949, 37)</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Disclosure statement</head><p>No potential conflict of interest was reported by the author. </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Notes on contributor</head></div><figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_0"><head></head><label></label><figDesc>SimonEales has a PhD from the Poetics Program at the University at Buffalo, SUNY. His work focuses on poetry and poetics, ecological theory, and psychoanalysis. He is the co-founder of the Ecopoetics Workshop residency programme and Buried Text podcast. His chapter on the Australian long poem since 1980 was published in the Cambridge History of Australian Poetry (2025).</figDesc><table /></figure>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="4" xml:id="foot_0"><p>S. EALES</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="8" xml:id="foot_1"><p>S. EALES</p></note>
+		</body>
+		<back>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<analytic>
+		<title/>
+		<author>
+			<persName><surname>Davis V Commonwealth</surname></persName>
+		</author>
+		<ptr target="http://www.austlii.edu.au/au/cases/cth/HCA/1988/63.html" />
+	</analytic>
+	<monogr>
+		<title level="j">HCA</title>
+		<imprint>
+			<biblScope unit="volume">63</biblScope>
+			<date type="published" when="1988-12-06">1988. 1988. December 6, 1988</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<monogr>
+		<title level="m" type="main">The Empire Writes Back: Theory and Practice in Postcolonial Literatures</title>
+		<author>
+			<persName><forename type="first">Bill</forename><surname>Ashcroft</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Gareth</forename><surname>Griffiths</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Helen</forename><surname>Tiffin</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1989">1989</date>
+			<publisher>Routledge</publisher>
+			<pubPlace>London</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<monogr>
+		<title level="m">Bicentenary &apos;88: Newsletter of the Australian Bicentennial Authority 1.1. Sydney: Australian Bicentennial Authority</title>
+		<imprint>
+			<publisher>Australian Bicentennial Authority</publisher>
+			<date type="published" when="1980">1980</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<monogr>
+		<title level="m" type="main">Meanings and Origins of Australian Words and Idioms</title>
+		<ptr target="https://slll.cass.anu.edu.au/centres/andc/meanings-origins/all" />
+		<imprint>
+			<date type="published" when="2025-08-04">August 4, 2025</date>
+			<publisher>Australian National Dictionary Centre</publisher>
+		</imprint>
+	</monogr>
+	<note>Australian National University</note>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title level="a" type="main">Voices of Dissent around Sydney Harbour</title>
+		<author>
+			<persName><forename type="first">Wendy</forename><surname>Bacon</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Aboriginal Perspectives of the Bicentenary: A Collection of Papers</title>
+		<meeting><address><addrLine>Canberra, ACT</addrLine></address></meeting>
+		<imprint>
+			<publisher>ACT Schools Authority</publisher>
+			<date type="published" when="1988">1988</date>
+			<biblScope unit="page" from="27" to="31" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<monogr>
+		<title level="m" type="main">Haranguing the Nation</title>
+		<author>
+			<persName><forename type="first">Roger</forename><surname>Benjamin</surname></persName>
+		</author>
+		<editor>Guy Brett, Roger Benjamin, and Juan Davila</editor>
+		<imprint>
+			<date type="published" when="2006">2006</date>
+			<publisher>Miegunyah Press</publisher>
+			<biblScope unit="volume">43</biblScope>
+			<pubPlace>Carlton, Victoria</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title level="a" type="main">Introduction: National Times</title>
+		<author>
+			<persName><forename type="first">Tony</forename><surname>Bennett</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Celebrating the Nation: A Critical Study of Australia&apos;s Bicentenary</title>
+		<editor>
+			<persName><forename type="first">Tony</forename><surname>Bennett</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">Pat</forename><surname>Buckridge</surname></persName>
+		</editor>
+		<meeting><address><addrLine>St Leonards</addrLine></address></meeting>
+		<imprint>
+			<publisher>Allen &amp; Unwin</publisher>
+			<date type="published" when="1992">1992</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title level="a" type="main">Drawing up a Balance Sheet of Our History</title>
+		<author>
+			<persName><forename type="first">Geoffrey</forename><surname>Blainey</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Quadrant</title>
+		<imprint>
+			<biblScope unit="volume">37</biblScope>
+			<biblScope unit="page" from="10" to="15" />
+			<date type="published" when="1993-07">1993. July-August</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title level="a" type="main">Introduction</title>
+		<author>
+			<persName><forename type="first">Ken</forename><surname>Bolton</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Homage to John Forbes</title>
+		<editor>
+			<persName><forename type="first">Ken</forename><surname>Bolton</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Rose Bay, NSW</addrLine></address></meeting>
+		<imprint>
+			<publisher>Brandl &amp; Schlesinger</publisher>
+			<date type="published" when="2002">2002</date>
+			<biblScope unit="page" from="7" to="11" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title level="a" type="main">Canon, Culture, and Consensus: Australian Literature and the Bicentenary</title>
+		<author>
+			<persName><forename type="first">Pat</forename><surname>Buckridge</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Celebrating the Nation: A Critical Study of Australia&apos;s Bicentenary</title>
+		<editor>
+			<persName><forename type="first">Tony</forename><surname>Bennett</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">Pat</forename><surname>Buckridge</surname></persName>
+		</editor>
+		<meeting><address><addrLine>St Leonards, NSW</addrLine></address></meeting>
+		<imprint>
+			<publisher>Allen &amp; Unwin</publisher>
+			<date type="published" when="1992">1992</date>
+			<biblScope unit="page" from="69" to="86" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<monogr>
+		<title level="m" type="main">The Road to Botany Bay: An Exploration of Landscape and History</title>
+		<author>
+			<persName><forename type="first">Paul</forename><surname>Carter</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1987">1987. 2010</date>
+			<publisher>University of Minneapolis Press</publisher>
+			<pubPlace>Minneapolis, MN</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title level="a" type="main">Poetry&apos;s Court Jester Has a Wizard Way with Words</title>
+		<author>
+			<persName><forename type="first">Peter</forename><surname>Craven</surname></persName>
+		</author>
+		<idno>18: 10</idno>
+	</analytic>
+	<monogr>
+		<title level="m">Weekend Australian</title>
+		<imprint>
+			<date type="published" when="1988-12-17">1988. December 17</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<title level="a" type="main">Luminous Poet Blessed with the Touch of Humour</title>
+		<author>
+			<persName><forename type="first">Peter</forename><surname>Craven</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">The Australian</title>
+		<imprint>
+			<date type="published" when="1998-01-28">1998. January 28</date>
+			<biblScope unit="page">41</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<monogr>
+		<author>
+			<persName><forename type="first">Juan</forename><surname>Davila</surname></persName>
+		</author>
+		<ptr target="https://www.mca.com.au/collection/artworks/1995.153/" />
+		<title level="m">A Sentimental History of Australian Art. Sydney: Museum of Contemporary Art Australia</title>
+		<imprint>
+			<date type="published" when="1982">1982</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<monogr>
+		<author>
+			<persName><forename type="first">Gilles</forename><surname>Deleuze</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Félix</forename><surname>Guattari</surname></persName>
+		</author>
+		<title level="m">A Thousand Plateaus: Capitalism and Schizophrenia</title>
+		<editor>
+			<persName><forename type="first">Brian</forename><surname>Massumi</surname></persName>
+		</editor>
+		<meeting><address><addrLine>London</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="1980">1980. 2008</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<monogr>
+		<title level="m" type="main">The Stunned Mullet &amp; Other Poems</title>
+		<author>
+			<persName><forename type="first">John</forename><surname>Forbes</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1988">1988</date>
+			<publisher>Hale &amp; Iremonger</publisher>
+			<pubPlace>Sydney</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">John</forename><surname>Forbes</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1998">1998</date>
+			<publisher>Brandl &amp; Schlesinger</publisher>
+			<pubPlace>Rose Bay, NSW</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">John</forename><surname>Forbes</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1998">1998</date>
+			<publisher>Brandl &amp; Schlesinger</publisher>
+			<pubPlace>Rose Bay, NSW</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<monogr>
+		<author>
+			<persName><forename type="first">Kevin</forename><surname>Gilbert</surname></persName>
+		</author>
+		<title level="m">Inside Black Australia: An Anthology of Aboriginal Poetry</title>
+		<meeting><address><addrLine>Ringwood, VIC</addrLine></address></meeting>
+		<imprint>
+			<publisher>Penguin</publisher>
+			<date type="published" when="1988">1988</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<monogr>
+		<title level="m" type="main">Modern Painters 1931-1970</title>
+		<author>
+			<persName><forename type="first">James</forename><surname>Gleeson</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1971">1971</date>
+			<publisher>Lansdowne</publisher>
+			<pubPlace>Dee Why West, NSW</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<monogr>
+		<title level="m" type="main">Sea Slang of the 20th century</title>
+		<author>
+			<persName><forename type="first">Wilfred</forename><surname>Granville</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1949">1949</date>
+			<publisher>Winchester Publications</publisher>
+			<pubPlace>London</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<analytic>
+		<title level="a" type="main">The Blackening of Our Past</title>
+		<author>
+			<persName><forename type="first">John</forename><surname>Hirst</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">The Rewriting of Australian History</title>
+		<imprint>
+			<date type="published" when="1989-12">1989. December-February</date>
+			<biblScope unit="page" from="49" to="54" />
+		</imprint>
+	</monogr>
+	<note>Special section</note>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<analytic>
+		<title level="a" type="main">Instruction for an Ideal Australian: John Forbes&apos; Poetry of Metaphysical Etiquette</title>
+		<author>
+			<persName><forename type="first">Duncan</forename><surname>Hose</surname></persName>
+		</author>
+		<ptr target="https://openjournals.library.sydney.edu.au/JASAL/article/view/9617" />
+	</analytic>
+	<monogr>
+		<title level="m">Common Readers</title>
+		<editor>
+			<persName><forename type="first">Russell</forename><surname>Smith</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">Monique</forename><surname>Rooney</surname></persName>
+		</editor>
+		<imprint>
+			<date type="published" when="2010">2010</date>
+			<biblScope unit="page" from="1" to="12" />
+		</imprint>
+	</monogr>
+	<note>special issue of JASAL</note>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<analytic>
+		<title level="a" type="main">The Awkward Grace of John Forbes</title>
+		<author>
+			<persName><forename type="first">Ivor</forename><surname>Indyk</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Homage to John Forbes</title>
+		<editor>
+			<persName><forename type="first">Ken</forename><surname>Bolton</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Rose Bay, NSW</addrLine></address></meeting>
+		<imprint>
+			<publisher>Brandl &amp; Schlesinger</publisher>
+			<date type="published" when="2002">2002</date>
+			<biblScope unit="page" from="87" to="101" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<monogr>
+		<author>
+			<persName><forename type="first">Stuart</forename><surname>Macintyre</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Anna</forename><surname>Clark</surname></persName>
+		</author>
+		<title level="m">The History Wars</title>
+		<meeting><address><addrLine>Carlton, Victoria</addrLine></address></meeting>
+		<imprint>
+			<publisher>Melbourne University Press</publisher>
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<analytic>
+		<title level="a" type="main">John Forbes: 1950-1998</title>
+		<author>
+			<persName><forename type="first">Phillip</forename><surname>Mead</surname></persName>
+		</author>
+		<ptr target="http://www.australianhumanitiesreview.org/archive/Issue-February-1998/mead.html" />
+	</analytic>
+	<monogr>
+		<title level="m">Australian Humanities Review 9</title>
+		<imprint>
+			<date type="published" when="1998">1998</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<monogr>
+		<author>
+			<persName><forename type="first">Meaghan</forename><surname>Morris</surname></persName>
+		</author>
+		<title level="m">Ecstasy and Economics: American Essays for John Forbes</title>
+		<meeting><address><addrLine>Sydney</addrLine></address></meeting>
+		<imprint>
+			<publisher>EMPress</publisher>
+			<date type="published" when="1992">1992</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b27">
+	<analytic>
+		<title level="a" type="main">The View from the Authority</title>
+		<author>
+			<persName><forename type="first">Phillip</forename><surname>Morrisey</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Aboriginal Perspectives of the Bicentenary: A Collection of Papers</title>
+		<meeting><address><addrLine>Canberra, ACT</addrLine></address></meeting>
+		<imprint>
+			<publisher>ACT Schools Authority</publisher>
+			<date type="published" when="1988">1988</date>
+			<biblScope unit="page" from="23" to="26" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b28">
+	<monogr>
+		<title level="m" type="main">The Poets of the New York School</title>
+		<author>
+			<persName><forename type="first">John</forename><surname>Myers</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Bernard</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1969">1969</date>
+			<publisher>University of Pennsylvania Press</publisher>
+			<pubPlace>Philadelphia, Pennsylvania</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b29">
+	<monogr>
+		<title level="m" type="main">Ode to Iggy Pop</title>
+		<author>
+			<persName><forename type="first">John</forename><surname>Nash</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1981">1981</date>
+			<publisher>Black Glamb Press</publisher>
+			<pubPlace>Rose Park, SA</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b30">
+	<monogr>
+		<title level="m" type="main">Waltzing Matilda. Arranged by Marie Cowan</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">B</forename><surname>Paterson</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1903">1903</date>
+			<publisher>Turner &amp; Henderson Litho</publisher>
+			<pubPlace>Sydney, NSW</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b31">
+	<monogr>
+		<title level="m" type="main">Wicked Words: A Treasury of Curses, Insults, Put-Downs, and Other Formerly Unprintable Terms from Anglo-Saxon Times to the Present</title>
+		<author>
+			<persName><forename type="first">Hugh</forename><surname>Rawson</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1989">1989</date>
+			<publisher>Crown Publishers</publisher>
+			<pubPlace>New York</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b32">
+	<analytic>
+		<title level="a" type="main">The Poet as His Worst Enemy</title>
+		<author>
+			<persName><forename type="first">Jennifer</forename><surname>Redford</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Sydney Morning Herald</title>
+		<imprint>
+			<date type="published" when="1989-03-25">1989. March 25</date>
+			<biblScope unit="page">40</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b33">
+	<analytic>
+		<title level="a" type="main">Foreword</title>
+		<author>
+			<persName><forename type="first">Gig</forename><surname>Ryan</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Collected Poems</title>
+		<editor>
+			<persName><forename type="first">John</forename><surname>Forbes</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Rose Bay</addrLine></address></meeting>
+		<imprint>
+			<publisher>Brandl &amp; Schlesinger</publisher>
+			<date type="published" when="2010">2010</date>
+			<biblScope unit="page" from="11" to="16" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b34">
+	<analytic>
+		<title level="a" type="main">Reviews of Books by</title>
+		<author>
+			<persName><forename type="first">Helen</forename><forename type="middle">;</forename><surname>Tiffin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">William</forename><surname>Walsh</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Bruce</forename><surname>King</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">William</forename><forename type="middle">H</forename><surname>New</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Alastair</forename><surname>Niven</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Australian Literary Studies</title>
+		<imprint>
+			<biblScope unit="volume">8</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="512" to="517" />
+			<date type="published" when="1978">1978</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b35">
+	<monogr>
+		<author>
+			<persName><forename type="first">John</forename><surname>Tranter</surname></persName>
+		</author>
+		<title level="m">The New Australian Poetry</title>
+		<meeting><address><addrLine>St. Lucia, Queensland</addrLine></address></meeting>
+		<imprint>
+			<publisher>Makar Press</publisher>
+			<date type="published" when="1979">1979</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b36">
+	<monogr>
+		<author>
+			<persName><forename type="first">John</forename><surname>Tranter</surname></persName>
+		</author>
+		<title level="m">The Tin Wash Dish: Poems from Today&apos;s Australians. Crow&apos;s Nest: ABC Enterprises</title>
+		<imprint>
+			<date type="published" when="1989">1989</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b37">
+	<monogr>
+		<title level="m" type="main">Albert Tucker: Paintings 1945-1960</title>
+		<author>
+			<persName><forename type="first">Albert</forename><surname>Tucker</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">William</forename><surname>Mora</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1982">1982</date>
+			<publisher>Tolarno Galleries</publisher>
+			<pubPlace>South Yarra, Victoria</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b38">
+	<analytic>
+		<title level="a" type="main">Seeking the Missing Person, or Reading the Poetry of John Forbes</title>
+		<author>
+			<persName><forename type="first">Alan</forename><surname>Urquhart</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Westerly</title>
+		<imprint>
+			<biblScope unit="volume">42</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="9" to="25" />
+			<date type="published" when="1997">1997</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b39">
+	<monogr>
+		<title level="m" type="main">A Critical History of Exhibitions of Aboriginal Art in Europe: Their Development, Display and Reception, 1980s-Present</title>
+		<author>
+			<persName><forename type="first">Sarah</forename><surname>Wall</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2014">2014</date>
+		</imprint>
+		<respStmt>
+			<orgName>University of Melbourne</orgName>
+		</respStmt>
+	</monogr>
+	<note type="report_type">PhD diss</note>
+</biblStruct>
+
+<biblStruct xml:id="b40">
+	<monogr>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">A</forename><surname>Wilkes</surname></persName>
+		</author>
+		<title level="m">A Dictionary of Australian Colloquialisms. 2nd ed</title>
+		<meeting><address><addrLine>Sydney</addrLine></address></meeting>
+		<imprint>
+			<publisher>Sydney University Press</publisher>
+			<date type="published" when="1985">1985</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b41">
+	<analytic>
+		<title level="a" type="main">Preface</title>
+		<author>
+			<persName><forename type="first">William</forename><surname>Wordsworth</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Lyrical Ballads: 1798 and 1802</title>
+		<editor>
+			<persName><forename type="first">Fiona</forename><surname>Stafford</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Oxford</addrLine></address></meeting>
+		<imprint>
+			<publisher>Oxford University Press</publisher>
+			<date type="published" when="1802">1802. 2013</date>
+			<biblScope unit="page" from="94" to="115" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

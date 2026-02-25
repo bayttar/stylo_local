@@ -1,0 +1,861 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">&apos;Verbi-voco-visual explorations&apos;: information and the object of poetry between McLuhan and Bense</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author role="corresp">
+							<persName><forename type="first">Tobias</forename><surname>Wilke</surname></persName>
+							<email>twilke@unc.edu</email>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Germanic and Slavic Languages and Literatures</orgName>
+								<orgName type="institution">The University of North Carolina at Chapel Hill</orgName>
+								<address>
+									<addrLine>Chapel Hill</addrLine>
+									<region>NC</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Germanic and Slavic Languages and Literatures</orgName>
+								<orgName type="institution">The University of North Carolina at Chapel Hill</orgName>
+								<address>
+									<addrLine>Chapel Hill</addrLine>
+									<region>NC</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Germanic and Slavic Languages and Literatures</orgName>
+								<orgName type="institution">The University of North Carolina at Chapel Hill</orgName>
+								<address>
+									<addrLine>Chapel Hill</addrLine>
+									<region>NC</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">&apos;Verbi-voco-visual explorations&apos;: information and the object of poetry between McLuhan and Bense</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date/>
+						</imprint>
+					</monogr>
+					<idno type="MD5">12C153FBFB2429E837FC95F2E2CC6B05</idno>
+					<idno type="DOI">10.1080/14735784.2025.2506993</idno>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.0" ident="GROBID" when="2026-02-25T19:52+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term>Information aesthetics</term>
+					<term>poetic theory</term>
+					<term>neo-avantgarde</term>
+					<term>experimental poetry</term>
+					<term>information age</term>
+					<term>linguistic materiality</term>
+				</keywords>
+			</textClass>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>The paper explores intersections between information aesthetics and poetic theory in the late 1950s and early 1960s, via a thenemerging understanding of poetry as a 'verbi-voco-visual' form of art. This hybrid designation -coined by James Joyce in his novel Finnegans Wake -was prominently adopted in Marshall McLuhan's 1957 journal issue Verbi-Voco-Visual Explorations, a publication that pronounces the rise of a new 'culture of orality' in the 'age of information.' Contemporaneously, the Brazilian group of neo-avant-garde poets, Noigandres, began to appropriate the notion of the 'verbi-voco-visual' in their theoretical writings, positing a model of poetic communication according to which the (Concrete) poem utilises the acoustic and optical properties of its lexical elements to convey non-verbal information about its linguistic structure. This model, in turn, was further developed by German information theorist Max Bense who championed Concrete Poetry as a radical means of separating 'aesthetic information' from 'linguistic (semantic) information'. Tracing the notion of the 'verbi-voco-visual' across these simultaneously evolving projects, the paper shows how the conceptual focus on particular linguistic materialities facilitated in each case the development of generalising claims about the formal structures of aesthetic communication.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>1.</head><p>In October 1957, a scholarly working group at the University of Toronto -later to be widely known as the 'Toronto School of Communication Theory' -issued the eighth volume of their collaborative journal, Explorations: Studies in Culture and Communications. Edited by the group's two leading figures, anthropologist Edmund Carpenter and English professor Marshall McLuhan, the issue appeared with an additional, distinctive title on its cover that announced a common theme for the contributions it gathered: 'Verbi-Voco-Visual' (Figure <ref type="figure" target="#fig_0">1</ref>). 1 A peculiar -and indeed, somewhat idiosyncratic -designation, this alliterative compound had first surfaced in McLuhan's writings two years before, in the context of a discussion of James Joyce's experimental novel Finnegans Wake <ref type="bibr">(1939)</ref> and its concern with 'the very media of communication as both form and vehicle of the flux of human cultures' <ref type="bibr">(McLuhan 1954, 40)</ref>. Specifically, McLuhan seised on the fact that Joyce had introduced the expression 'verbi-voco-visual' in his narrative portrayal of a television broadcast and its perceptual economy, and therefore as part of a literary agenda aimed at devoting 'the most careful attention to the impact on language and art of all technological development in the means of communication <ref type="bibr">' (1955, 8</ref>). <ref type="foot" target="#foot_0">2</ref>And it was in this same context and thus in close connection with his view of Joyce as a avant-gardist 'technician <ref type="bibr">' (1954, 42)</ref> of the word that McLuhan began to establish his own outlook on the formation of a new 'age of information <ref type="bibr">' (1969, 33)</ref> during the midtwentieth century, which would bring about the advent of a 'global village' as well as the proclaimed 'end' of the Gutenberg Galaxy. <ref type="foot" target="#foot_2">3</ref> What the dominant electronic media of the period such as telephone, radio, and television produced, according to McLuhan's evolving diagnosis, was a 'total', i.e. virtually unbounded environment and 'instant coherence' across the globe, 'made possible by moving information at electric speeds <ref type="bibr">' (1969, 36)</ref>. Information here came to be synonymous with increasing temporal synchronisation and the corresponding levelling of spatial distances, with the creation of simultaneity, and hence with 'orality' in a broader sense, one defined very much in contrast to the linear-sequential organisation of writing and print. (McLuhan saw one paradigmatic example of this nexus between orality, information, and electronic media in the research on telephone circuits conducted at AT&amp;T's Bell Telephone Laboratories, which had also been the birth place of Claude Shannon's theory of communication just a few years before. 4 )</p><p>Using the expression 'verbi-voco-visual' as conceptual anchor and starting point, McLuhan thus derived from Joyce's work the direction of a project that he and his collaborators at the University of Toronto would pursue over the following decades, and to which the Explorations issue from 1957 testifies by virtue of its thematic focus on the changing relationship between word ('verbi-'), sound ('voco-'), and image ('visual') in a postwar media landscape. Yet this theoretical appropriation of the Joycean notion remained by no means the only context in which the 'verbi-voco-visual' came to play a pivotal role during those years. Nearly simultaneously with -though initially independently of -McLuhan's endeavours, the Brazilian group of Concrete Poets, Noigandres started to adopt Joyce's compound for their own programmatic agenda of literary renewal, an undertaking that aimed at reenvisioning the genre of poetry on a par with contemporaneous developments in domains like information theory and cybernetics. And by way of their works, in turn, the notion of the 'verbi-voco-visual' also acquired significance during the 1950s and 1960s for the writings of another theorist -the German philosopher of technology and cybernetician Max Bense -who became increasingly invested in exploring the relation between information and aesthetic matters within the framework of his so-called 'information aesthetics'. 5 Tracking the Joycean expression across these different projects, as this paper aims to do in the following, can therefore serve to cast some spotlights onto a wider constellation of the postwar era in which reflections on the emerging information age provided a novel context for the reconsideration of (poetic) language and its various medial registers. In each case, this reconsideration included a particular emphasis on linguistic materiality -and more specifically, on a certain interplay between the graphic, acoustic, and semantic dimensions of words -that was articulated, examined, and staged against the backdrop of wide-ranging technological changes. Constellating McLuhan, the Noigandres, and Bense in this manner, however, does not mean that this paper seeks to provide a full historical account of the interconnectedness of their projects. Nor is the goal, conversely, to explore the significant theoretical discontinuity that separates the latter from the former. Instead, the purpose here is to demonstrate via a few examples how the interest in the physicality of language and its information-aesthetic relevance took shape in each of these projects in the form of particular verbal compositions and typographic designs. These compositions and designs demand to be spelled out, quite literally, in order to yield insight into their conceptual underpinnings -and hence, into precisely those more general assumptions and claims for which the notion of the 'verbi-voco-visual' came to serve as a unifying catchphrase.</p><p>Designed by Toronto artist and typographer Harley Parker, with whom McLuhan collaborated on a number of publication projects throughout the 1960s,<ref type="foot" target="#foot_4">6</ref> the cover of Explorations 8 is dominated by several circular shapes, placed partly inside and partly across one another, with the two red elements at the centre forming the number 8. An explanatory note that precedes the issue's front matter states: 'The basic design of the cover derives from the spherical nature of the oral world. Verbi-Voco-Visual standing for the word as sound (πειρω) and as sight (hieroglyphs). The hieroglyphs are placed on a curve, the lower curve, reading from left to right means "looking for the ways" and the top curve reading from right to left means "speech." EXPLORING THE WORD!' <ref type="bibr">(McLuhan 1957, n.p.)</ref> What is at stake in this arrangement is thus a subject matter that would dominate McLuhan's work over the years to come: the relationship between orality and writing, between auditory and visual cultures, between 'acoustic' and 'linear' space. Juxtaposing two different writing systems -one pictographic, one phonetic -the cover montage of Explorations 8 invokes the invention of the Greek alphabet as the first decisive event in the development towards the linear-visual regime of Western culture. The verb πειρω (to pierce through, to run through), which McLuhan and Parker chose to illustrate this critical shift, is doubly pertinent in this context: It embodies the ancient translation of sound/speech into phonetic letters -a process McLuhan refers to as 'metaphoric <ref type="bibr">' (1955, 11)</ref> -but functions also, at a semantic level, as a metonymic reference to the very idea of exploration. For πειρω is closely related to πόρος (meaning 'opening', 'journey', 'passage', 'waterways'), and hence to the cultural technique of seafaring -to the voyages of ancient men like Homer's epic hero Odysseus, whose story in turn inhabits the historical threshold between φωνή (phonē) and γραφή (graphē), between an earlier oral tradition and its incipient codification in the form of written texts.</p><p>Not incidentally, therefore, does the journal's own name graphically 'pierce through' the spherical shapes onto which it is mounted, in a move that links McLuhan's mid-twentieth century project of 'exploring the word' to a transformative epoch in history that saw the emergence of phonetic script and the beginnings of 'literature' in the West. The point of this arrangement, however, is not only to visualise a certain archeology of origins; it simultaneously serves to suggest that the explorations of McLuhan and his collaborators take place during a period of similarly far-reaching transformations. Indeed, the journal issue treats the subject matter of the 'oral world' precisely not as a bygone phenomenon but as something that has started to reemerge in new form under the technological conditions of the postwar era. What characterises this era, in McLuhan's view, is another fundamental shift in the perceptual economy of Western culture. If the main effect of the phonetic alphabet once had been that '[m]an was given an eye for an ear' <ref type="bibr">(McLuhan 1967a, 44)</ref>, the cover of Explorations 8 contends that a reversal of this process -a reorientation towards the 'oral' and a rediscovery of auditory/acoustic space -is underway. It is this contemporaneous context in which the eponymous notion of the 'verbi-vocovisual' finds its programmatic place, as the hybrid designation for a field of changing relations -between sound and sight, speech and writing, multidimensional and linear space -that the journal issue sets out to investigate.</p><p>Critically, however, McLuhan here and elsewhere set out to explore the transformative character of the information age precisely in and through the medium of alphabetic writing. For all his devotion to other, non-or post-literate media, the trained literary scholar McLuhan remained a man of letters and books, a fact that renders the Joycean expression of the 'verbi-voco-visual' all the more germane to his project. For McLuhan's theoretical diagnosis went hand in hand with an ambition to transform the visual space of the book from within, by breaking up the uniform pattern of alphabetic and typographic lineality, in order to achieve an 'acoustification' <ref type="bibr">(Genosko 2018, 156)</ref> or perhaps even 'oralization', of the printed page. <ref type="foot" target="#foot_5">7</ref> The centre piece of Explorations 8 -a section titled 'Manifestoes' -is especially noteworthy in this regard: McLuhan here juxtaposes brief samples of his own writings with excerpts from the founding declarations of movements like Futurism and Vorticism, in an arrangement that demonstrates both conceptually and visually his indebtedness to the early twentieth century avant-garde with their declared ambition of releasing poetic expression from established lexical and typographic constraints. Building on these principles of an earlier avant-garde poetics, McLuhan thus conceived his own publications as a means for exposing (yet also bridging) the discrepancy between the traditional organization of the book and its underlying perceptual regime, on the one hand, and the quite different emerging realities of an 'electric information environment' <ref type="bibr">(McLuhan 1969, 5)</ref>, on the other hand. As the incipient shift from lineality towards simultaneity was taking shape, for him, via the 'translation of varied visual and auditory media into one another's modalities' <ref type="bibr">(Carpenter and McLuhan 1960, 70)</ref>, he sought to foster a corresponding fusion of both registers in and through his work, by exploring the material medium of language as a 'verbi-voco-visual' field of relations. Working through the possibilities of alphabetic writing and its aesthetic (i.e. sensorially pertinent) properties remained the dominant concern that shaped the textual-graphic composition of his books -an ambition that the hybrid, hyphenated character of the Joycean expression served to capture in a verbal nutshell.<ref type="foot" target="#foot_6">8</ref> </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>2.</head><p>In the mid-to-late 1950's, McLuhan and his collaborators on the Explorations project were not alone in their effort to turn the notion of the 'verbi-voco-visual' into a programmatic concept. Concurrently with their efforts, the expression was also taken up, around 1955, by a group of young Brazilian poets who would become known under the name of their collectively edited journal, Noigandres <ref type="bibr">(1952)</ref><ref type="bibr">(1953)</ref><ref type="bibr">(1954)</ref><ref type="bibr">(1955)</ref><ref type="bibr">(1956)</ref><ref type="bibr">(1957)</ref><ref type="bibr">(1958)</ref><ref type="bibr">(1959)</ref><ref type="bibr">(1960)</ref><ref type="bibr">(1961)</ref><ref type="bibr">(1962)</ref>. <ref type="foot" target="#foot_7">9</ref> The works of this group played a pivotal role in the incipient development of Concrete Poetry, arguably the most prominent form of avant-garde literature in the postwar era. And while the Noigandres started to take note of McLuhan's related ideas only later, during the 1960's, when his works were being more widely disseminated and discussed, they appropriated the Joycean compound in ways that exhibited from the start some striking parallels to the Explorations project.<ref type="foot" target="#foot_8">10</ref> Just as Explorations 8 -issued in October 1957 -contains McLuhan's most pronounced treatment of the concept, so does Noigandres 4 -from March 1958 -include the seminal manifesto 'Pilot Plan for Concrete Poetry', which places the 'verbi-voco-visual' at the very center of the Brazilian group's poetic theory. And what McLuhan was starting to proclaim at the time as a general media historical fact -the dawning end of the book's linear universe -the 'Pilot Plan' sought to establish within the specific domain of poetics, by postulating that 'the historical cycle of verse (as formal-rhythmical unit) is closed' <ref type="bibr">(Campos, de Campos, and Pignatari 2007, 217)</ref>. 'Verse', in this context, is taken to be synonymous with a traditional -and ostensibly outdated -idea of poetic discourse as sequence. 'Concrete poetry', by contrast, is conceived as a new form of writing that suspends this traditional notion by transforming the continuum of the poetic line in the direction of 'graphic space as structural agent' (217). For the Noigandres, it is chiefly this shift -from a merely linear arrangement of words towards a different, multi-directional textual order -through which the concrete poem attains the status of 'an object in and by itself' (218). The suspension of mere linearity coincides, according to this logic, with a cancelling-out of conventional communicative functions, such that the poem no longer serves as an interpreter of anything external like 'exterior objects' or 'subjective feelings' (218), but conveys instead information about its own material structure. Speaking in terms of a spatial metaphor, the poem is effectively 'folded back' onto itself in this model, and thereby cut off from any direct referential outward connection; it no longer operates as a vehicle in the sense of the 'usual message-communication' (218) but becomes chiefly concerned with internal relations between its constituent parts.</p><p>The poem's material structure, however, is conceived neither as devoid of semantic aspects, nor as a matter of purely graphic reorganisation. Rather, it is defined precisely by, or as, the interplay between three different functions of its verbal elements: (1) the visible shape and arrangement of words, i.e. their spatial distribution as typographic material across the page; (2) their phonetic-acoustic properties as material for possible acts of vocalisation; and (3) their signifying potential as lexically determined material, which has been selected from a given linguistic repertoire. In the succinct phrasing of the manifesto: The concrete poem's material is the 'word (sound, visual form, semantic charge)' <ref type="bibr">(Campos, de Campos, and Pignatari 2007, 218)</ref>. And this designation of the word's tripartite structure is precisely the point where the Noigandres coopt the Joycean notion of the 'verbi-voco-visual' for their proclamation of radical poetic renewal. The concrete poem, according to them, 'creates a specific linguistic area -"verbivocovisual" -which shares the advantages of nonverbal communication, without giving up the word's virtualities' ( <ref type="formula">218</ref>). Paradoxical as it may first appear, this intended effect of a 'coincidence … of verbal and non-verbal communication' ( <ref type="formula">218</ref>) can be translated quite unequivocally into more common semiotic terms. What is at stake here, for the Noigandres, is a process of textual composition that transcends the symbolic character of words in the direction of other semiotic functions, endowing the poem with certain iconic features that materialise not only in a visual, but also in an acoustic (or vocal) way. 11 The symbolic function is thus by no means obliterated -after all, any attempt to erase it entirely would contradict the very definition of the poem as an entity composed of words -but it now appears reinscribed textually in a different way, in a shift that foregrounds the interrelation between 'verbal' and other registers of signification.</p><p>A brief consideration of two concrete examples may help to elucidate this crucial dynamic. Noigandres 4, in which the 'Pilot Plan' was included, is a portfolio edition of 12 poster poems printed on large-size sheets of cardboard and set in sans serif futura, a font first created by German designer Paul Renner during the Weimar period with the goal of fashioning a unified, elementary language of form. Among the texts is a poem by Décio Pignatari that reconfigures the word 'terra' ('earth', or 'ground') along various vertical, horizontal, and diagonal axes (Figure <ref type="figure" target="#fig_1">2</ref>). On the one hand, these permutations and shifts yield new verbal entities, or parts thereof, like the verb 'errar' ('to roam, to wander about') that appears at the beginning of the second-to-last line, or the expression 'arar a terra' ('to plow the land') that can be detected in the two lines right before. On the other hand, these lexical-semantic effects are inscribed within a visual space that can be seen as resembling -iconically -a field or piece of land that has been traversed or 'plowed,' with the typographic arrangement of spaces creating the impression of furrows or tracks, and with the top section -a letter-by-letter decomposition of 'terra' -cutting like a wedge or blade into the literal 'ground' of the poem itself. In this manner, the text effectively becomes an 'earth' marked by traces of inscription -it plays on a likeness between the acts of writing and plowing, insofar as both are ways of drawing lines -and the material surface of the page with its imprinted letters turns into the surface of the 'land' to which the poem (also) refers.</p><p>Another example that illustrates this textual interplay between different semiotic dimensions is a poem by Ronaldo Azeredo, a composition in which the word 'velocidade' ('velocity') gradually emerges across a field of letters, thus becoming readable in both horizontal and vertical directions (Figure <ref type="figure" target="#fig_2">3</ref>). In this case, too, the word's 'semantic charge' is unmistakably at play, as is the related meaning of 'cidade' ('city') which is likewise rendered legible within the textual space. Yet once again these verbal elements signify precisely inasmuch as they function concurrently as part of the poem's thoroughly 11 For a theoretical distinction of these semiotic categories, see the classic account in <ref type="bibr" target="#b29">Peirce 1955.</ref> iconic structure, an iconic structure that materialises both visually and acoustically at once. Firstly, the poem visualises movement through its typographic arrangement of letters: The word 'velocidade' literally traverses the textual field (like a vehicle passing through a street), such that the text can be said to 'picture' the phenomenon to which it refers in and by means of writing. Secondly, Azeredo's composition also entails a distinctly phonetic iconicity, as the accumulation of 'V's' (that make up more than half of the poem) evokes various acoustic effects associated with rapid physical motion -like the sound of airflow around moving cars, for instance, or the faint steady noise of urban traffic <ref type="bibr">(Botha 2017, 23)</ref>. Perhaps most critically, however, the text performs, through this dual iconicity, a graphic-sonic play on the very notion of the 'verbi-voco-visual.' This notion can be seen -and heard -throughout the poem's unfolding (V-V-V). Put differently, the poem draws attention to the fact that the programmatic catchword derived from Joyce's novel possesses in itself a certain 'verbal-vocal-visual' quality. Through this meta-poetic reflection, Azeredo's text affirms the idea that Concrete Poetry could be a training ground for the perception of certain 'functional' relations among signs. Concrete Poetry, in other words, is meant to foster the reader's adaptation to an age in which the material structure of semiotic processes -the 'medium', in McLuhan's terms -matters more than message, and in which 'new aesthetic information' <ref type="bibr">(Campos, Pignatari, and de Campos 1971, 31)</ref> emerges as a meta-communicative phenomenon that pertains not (only) to what words (can) say but to the way in which they interrelate in dynamic spatial constellations. When Haroldo de Campos, in an essay from 1957, stated 'that the concrete poem does not communicate an outer message and content, but rather uses these resources to communicate forms, to create and corroborate, verbivocovisually, a content-structure' <ref type="bibr">(Campos 2007a, 245)</ref>, his phrasing therefore captures quite precisely the way in which the Brazilian group reenvisioned, through the lens of Joyce's expression, a novel approach to engage with language as material, one in which meaning could be shown to emerge from, and remain inseparably tied to, the physicality of processes of inscription.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>3.</head><p>Around the same time when the 'Pilot Plan' and poems like 'terra' and 'VELOCIDADE' first appeared in print, the Noigandres were about to enter into a close dialogue with a theoretical interlocutor whose writings would further inspire them in their efforts to reconceive poetic creation as a calculated and rigidly controlled material process. This interlocutor was the German philosopher and information theorist Max Bense, who taught at the Technische Hochschule Stuttgart from 1950 onwards, and who became a prominent figure in the public intellectual debates of 1960s and 1970s Germany with his demand for radical aesthetic innovation by technological means. 12 Bense, for instance, was among the earliest initiators of attempts to 'simulate' the process of literary creation with the help of computer programs, which resulted in so-called 'stochastic texts'. 13 And from the mid-1960s onwards, he also promoted the first examples of machine-based visual art that had started to emerge within the context of his 'Stuttgart group', a lose affiliation of scientists, artists, and writers that included programmers and graphic designers like Georg Nees and Frieder Nake. More generally, Bense developed during this time an information theoretical model for the analysis -and the systematic generation -of 'aesthetic conditions (ästhetische Zustände)' <ref type="bibr">(Bense 1969, 257)</ref>. This model was intended to counter the 'general speculative babble of art criticism' (258), as he polemically remarked, with an objective, material, and exact approach to the organisation of visual and textual artefacts. The claims of Bense's information aesthetics are as fundamental and grand as its conceptual framework is technical and complex. Here, however, the focus will be placed exclusively on those aspects of his intervention that pertain specifically to his notion of poetic experimentation, and to the particular role of the <ref type="bibr">'verbi-voco-visual' in</ref>  The production of aesthetic objects occurs no longer out of emotional compulsion … but on the basis of conscious theories and intellectual (Cartesian) integrity. The realization of aesthetic objects involves the author and the printer … and the technician and programmer. We are referring here to a material kind of poetry or art. The poet-seer, who juggles with content and mood, has been supplanted by the artisan <ref type="bibr">[Handwerker]</ref> who makes use of the material, and who initiates and maintains material processes. Today, the artist implements conditions on the basis of conscious theory and conscious experiments. We are referring here to an experimental kind of poetry … we are referring again to a poietike techne. We are referring once more to a progressive kind of aesthetics or poetics, whose conscious practice demonstrates the progress of literature, just like there has always been a progress of science. <ref type="bibr">(Bense and Döhl 1965, 2)</ref>  <ref type="foot" target="#foot_10">15</ref>The passage abounds with established tropes of avant-gardism at the same time as it locates the specificity of 'progressive' literature 'today' -that is, within the cultural constellation of the postwar decades -in its strictly 'experimental' character. This experimental character of avant-garde literature post-1945 corresponds, as Bense claims, more closely to scientific standards than in previous times, insofar as it turns on a systematic, rule-governed, and rationally controlled exploration of the linguistic material at hand (hence also the parenthetical reference to Descartes). The methodical interest in language as material, in turn, has primarily two implications: first, a focus on the experimental procedure of its realisation in textual arrangements; and second, an investigative agenda that extends purposefully beyond the symbolic-communicative dimension of words. It was precisely due to this two-fold, simultaneous emphasis on materiality and systematicity that Bense's writings appealed to the Noigandres poets who championed his theory for offering them 'precise tools, free of visceral emotional appeals' <ref type="bibr">(Campos 2007b, 223)</ref>. And Bense, in turn, would take great interest in the literary production of the Brazilian group, whose writings quickly made their way to Germany in the mid-to-late 1950s. <ref type="foot" target="#foot_11">16</ref> From 1961 to 1964, Bense embarked on four lecture tours to Brazil and promoted the works of the Noigandres at home in Germany, exhibiting their poetry on multiple occasions and reissuing a selection of their works as number 7 of his edited series rot <ref type="bibr">(Bense and Walther 1962)</ref>. In 1965, finally, Bense published his own, book-length essay Brasilianische Intelligenz in which he placed the Noigandres at the forefront of literary innovation on an international scale, and introduced their core achievement as follows:</p><p>The aforementioned 'Pilot Plan for Concrete Poetry' of the 'Noigandres' … acknowledges the verbal, vocal, and visual materiality of language. … The point is to create ensembles of words that represent, in their entirety, a verbal, vocal, and visual space of communication [Mitteilungsraum], the three-dimensional body of language <ref type="bibr">[Sprachkörper]</ref>. And this threedimensional body of language carries a specific and concrete aesthetic message. For the word and for the ensemble of words on the plane, the consideration of graphic place values [Stellenwerte] is as evidently relevant as the utilization of phonetic facts on the margins of speech and its acoustic phenomena. <ref type="bibr">(62)</ref><ref type="bibr">(63)</ref> What makes the texts of the Noigandres so paradigmatic, in Bense's view, is the way in which they exemplify (and verify) one of his central theoretical claims -namely, the idea that texts communicate 'aesthetic information' about themselves precisely where they realise something other than 'linguistic information' <ref type="bibr">(Bense 1962, 143-147)</ref>. While linguistic or semantic information is by definition something that can be abstracted from any particular verbal materiality -whether one says 'tree', 'Baum', or 'arbre', for instance, is irrelevant in terms of semantic information value -any kind of 'specifically aesthetic message' remains, by contrast, inseparably tied to its 'carrier', to the material 'body' of language <ref type="bibr">(Bense 1965a, 63)</ref>. Concrete poems like the ones discussed earlier reflect this crucial difference through the way in which they exhibit processes of internal semiotic self-regulation, such that 'any word in the ensemble visually or vocally points to <ref type="bibr">[verweist]</ref> the surrounding words' <ref type="bibr">(Bense and Walter 1965, 65)</ref>. The relationship between the verbal elements of texts like 'terra' and 'velocidade' is thus conceived, quite literally, in an indexical sense -and hence, according to Charles Sanders <ref type="bibr" target="#b29">Peirce (1955)</ref>, as a relationship of 'dynamical (including spatial) connection' (107) <ref type="foot" target="#foot_12">17</ref> -which further underscores the fact that poetic experimentation proceeds, for Bense, chiefly through the creation of physical correspondences among a set of material signs. And these physical connections that organise the poem become apparent precisely insofar as the conventional lexical function of wordstheir association with the 'ordinary linguistic space of communication' <ref type="bibr">(Bense 1965a, 62)</ref> -gradually recedes into the background, though it does, importantly, remain present and recognisable even in the process of its gradual withdrawal.</p><p>Concurrently with his reflections on the experiments of the Noigandres, Bense also proceeded to compose his own poems in order to 'realize' the information aesthetic principles in question. One pertinent example of this literary production is a text that was part of the First International Exhibit of Concrete Poetry held in Stuttgart in 1965, and which appeared as the concluding piece in the exhibition catalogue, konkrete poesie international (Figure <ref type="figure" target="#fig_3">4</ref>). In this composition, Bense combines three words -chosen from a multi-lingual lexicon -that serve to designate quite explicitly the Brazilian origins of his own investment in experimental poetic practice. (The 'word key' appended to the catalogue further helps to articulate this gesture of reverence by spelling out the conventional meaning of the verbal material used: 'rio: rio de janeiro' 'roi: könig [king],' and 'orior: sich erheben [to arise, to emerge]' <ref type="bibr">[Bense and Walter 1965, n.p.]</ref>. <ref type="foot" target="#foot_13">18</ref> ) At the same time, however, Bense's text operates via a highly regulated process of selecting elements from a verbal 'repertoire', a process that follows material rather than semantic criteria. Not coincidentally, the poem's three words consist of the same three letters of the alphabet: 'r', 'i', and 'o'. Juxtaposed in this spatial constellation, they become readable as 'digital' permutations of each other, with the individual characters (digits) changing positions and creating various mirroring or echo effects along horizontal, vertical, and diagonal vectors. When viewed more extensively the poem indeed evokes the visual impression of a quasi-numerical order, with the 'i's' and 'o's' being iconically reminiscent of ones and zeros; it plays quite clearly on the idea of having been 'programmed' in a kind of code -or more precisely, it presents itself as informational basis for the experimental 'realization' of a(nother) poetic text. Yet Bense's poem operates not only in a visual register, but produces simultaneously certain oral/aural effects, as is the case with the letter combination 'oor' that becomes readable twice, in diagonal directions, across the textual field: once from top right to bottom left, and once from bottom right to top left. This doubled letter sequence -which spells out the German word Ohr ('ear') phonetically, i.e. in the way it would be heard during its vocalisation -calls to mind the realm of speech and auditory perception. What is more, both manifestations of 'oor'/ear intersect in the letter 'o' that inhabits the spatial centre of the poem as a whole, and which can be taken to evoke, both visually and vocally, the opening of a soundproducing mouth. Not incidentally, in this context, 'o' is the only letter of the Latin alphabet whose graphic shape resembles the position of the lips during the act of its articulation; viewed in its iconic dimension, the poem thus turns out to be also 'about' a transmission process from mouth to ear. Bense's highly reduced, minimalist text can accordingly be understood as a 'verbi-voco-visual' composition in its own right: It embodies the notion of the three-dimensional Sprachkörper at the same time as it alludes to the incipient introduction of algorithmic principles into the sphere of literary production. And while linguistic or semantic information is by no means absent from the poem -the space of conventional verbal communication affords here, after all, the lexical material through which the combinatory play of letters unfolds -the text suggests that its aesthetic information value emerges elsewhere: namely, in the graphic and sonic effects encoded at the level of its 'alphanumerical' characters.<ref type="foot" target="#foot_14">19</ref> While Bense's minimalist composition can thus be said to turn on a certain digitisation of poetic writing -a tendency that was by no means confined for him to the literary use of computing technologies -it does so by exploiting the specific sensorial features of linguistic signs. The 'coding' of poetry, in other words, is here a matter of explicating those inherent properties and exposing them as part and parcel of the systemic-structural functioning of language.</p><p>From the mid-1950s when McLuhan and the Noigandres adopted the expression simultaneously from Joyce's Finnegans Wake, to Bense's literary experiments in the mid-60's, the notion of the 'verbi-voco-visual' functioned as a nodal point in various theoretical and poetic projects in which information began to assume the status of an aesthetically pertinent concept. In McLuhan's case, the endeavour of 'verbi-voco-visual explorations' amounted to an analysis of the changing perceptual economies that characterised, in his view, the new historical age brought about by the increasing prevalence of electronic media in the postwar decades. In this context, the 'verbi-voco-visual' designated for him an entire media theoretical agenda, as well as the particular writing strategies associated with it. And as a notion that served to both address and stage the shifting status of 'the word' between sight and hearing, script and sound, linear and acoustic space, it prepared the ground for his later, more widely known catchphrases regarding the formative impact of media technologies on the organisation of the human sensorium: 'The medium is the message' <ref type="bibr">(McLuhan 2003, 20)</ref>. To the Noigandres, meanwhile, the Joycean compound word offered a means for delineating the particular kind of linguistic space they aimed to create through their poetry. To render language in the form of 'concrete' objects meant, for them, to lay bare the visual and vocal dimensions of the verbal material in such a way as to endow it with a different, non-symbolic information value. In so doing, they posited the poem as a self-contained, self-regulating entity, while placing this model of textual autonomy in the service of an avant-garde idea(l) of fostering perceptual change via aesthetic means. For Bense, finally, the 'verbi-voco-visual' designated likewise a strictly material notion of words, a notion that could render (poetic) language accessible to methods of calculation and even computerisation, as it was precisely the material aspects of words, in his view, that constitute their quantifiable dimensions. To be sure, the very idea of quantifiability also implies that it would ultimately be possible to abstract 'aesthetic information' from any particular kind of linguistic materiality and to encode it -as Bense in his own work on 'textual statistics' during the 1960s repeatedly did -in purely numerical laws of distribution <ref type="bibr">(1962,</ref><ref type="bibr">(70)</ref><ref type="bibr">(71)</ref><ref type="bibr">(72)</ref><ref type="bibr">(73)</ref><ref type="bibr">(74)</ref><ref type="bibr">(75)</ref><ref type="bibr">(76)</ref><ref type="bibr">(77)</ref><ref type="bibr">(78)</ref><ref type="bibr">(79)</ref><ref type="bibr">(80)</ref>). Yet all three examples or case studies explored here testify to a transitional, liminal, and ultimately ambiguous moment in the rethinking of language and its aesthetic, sensorial, and poetic valences under the conditions of the dawning information age. The shared insistence on an irreducible signifying potential of the 'verbi-voco-visual' makeup of linguistic structures attests to a discursive situation in which the severing of information from the 'body' of language -the Sprachkörper in Bense's diction -had not yet occurred.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Disclosure statement</head><p>No potential conflict of interest was reported by the author(s). </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Notes on contributor</head></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head>Figure 1 .</head><label>1</label><figDesc>Figure 1. Harley Parker/Marshall McLuhan, Cover Design for Explorations: Studies in Culture and Communications 8 (October 1957).</figDesc><graphic coords="3,96.83,53.29,298.94,413.75" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_1"><head>Figure 2 .</head><label>2</label><figDesc>Figure 2. Décio Pignatari, 'terra', Noigandres 4 (1958): n.p.</figDesc><graphic coords="9,65.65,53.29,358.70,492.27" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_2"><head>Figure 3 .</head><label>3</label><figDesc>Figure 3. Ronaldo Azeredo, 'VELOCIDADE', Noigandres 4 (1958): n.p.</figDesc><graphic coords="10,67.29,53.29,358.70,512.79" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_3"><head>Figure 4 .</head><label>4</label><figDesc>Figure 4. Max Bense, 'Untitled', rot 21: konkrete poesie international, edited by Max Bense and Elisabeth Walther, n.p. Stuttgart: hansjörg mayer.</figDesc><graphic coords="14,65.65,53.29,358.70,384.27" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_4"><head>Tobias Wilke ,</head><label>Wilke</label><figDesc>Ph.D. and Dr. Phil., teaches in the Department of Germanic and Slavic Languages and Literatures at The University of North Carolina Chapel Hill and is a Fellow at the Leibniz Center for Literary and Cultural Research Berlin. His research focuses on European Modernism and the Historical Avant-gardes, Media History from the 19th through the 21th Century, Sound Studies, Digital Theory, and Literature and the History of Science. He is the author of three books including Sound Writing: Experimental Modernism and the Poetics of Articulation (The University of Chicago Press, 2022). Currently, he is concluding a new book manuscript on the history of digital 'language models' in the twentieth century. From 2025 to 2028 he will also serve as a Member and Peer Researcher of the Network 'The Knowledge of Digital Literature' funded by the German Research Foundation (DFG).</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_0"><head></head><label></label><figDesc>12 Bense and Pignatari first met personally in 1955, in the institutional context of the Hochschule für Gestaltung in Ulm where Bense was lecturing on aesthetics and where another pioneering figure of Concrete Poetry, the Swiss writer</figDesc><table /><note><p><p><p><p><p><p><p><p><p>Eugen Gomringer, was working at the time as secretary for the school's director, Max Bill. In 1959, Haroldo de Campos visited Bense in Stuttgart, which marked the beginning of a phase of intense exchange and collaboration</p><ref type="bibr" target="#b35">(Wrobel 2019</ref></p>).</p>13 </p>One of Bense's students, the mathematician Theo Lutz, is often credited with having conceived the first examples of machine-generated-in his terms, 'stochastic</p>'-texts (1959)</p>. For an English translation of Lutz's explanatory essay on these experiments see</p><ref type="bibr" target="#b20">Lutz 2005</ref></p>. For a discussion of Lutz's experimental practice in the larger context of automatised writing processes, see Schäfer 2017.</p></note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_1"><head></head><label></label><figDesc>this literary-theoretical context. Like McLuhan, who celebrated Joyce as a pioneering 'technician' of the word, Bense maintained time and again a historical transformation of literary authorship in the 'technical age'. A passage from a short programmatic text, titled 'Zur Lage' 14 and published in 1965, illustrates this point:</figDesc><table /></figure>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="2" xml:id="foot_0"><p>Emphasis mine. One of the countless neologisms, portmanteau words, and multilingual puns that permeate Finnegans Wake, the compound 'verbi-voco-visual' appears (only) once in Book II of the novel(Joyce 1966,  </p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" xml:id="foot_1"><p>340).</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="3" xml:id="foot_2"><p>These concepts became widely popular in the 1960's and 1970's, owing primarily to the publication of Marshall<ref type="bibr" target="#b24">McLuhan (1962)</ref>, The Gutenberg Galaxy: The Making of Typographic Man. But many of McLuhan's most significant claims were first sketched out in his essays from the mid-1950's, including the earliest version of his later-to-be-famous catchphrase, 'The medium is the message,' which initially read 'Each medium of expression profoundly modifies human sensibility in mainly unconscious and unpredictable ways'<ref type="bibr" target="#b21">(McLuhan 1954,</ref> </p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" xml:id="foot_3"><p>4).4  The seminal paper in this context is, of course, Claude E.<ref type="bibr" target="#b32">Shannon (1948)</ref>, 'A Mathematical Theory of Communication.' Though direct references to Shannon's work remain relatively scarce in McLuhan's writings, he understood the research at Bell Labs as another indication that the distribution of information was in the process of becoming the 'largest business' (McLuhan 1969, 37) of the postwar period. 5 For his earliest elaborations on the concept, see Bense 1956. A summary of his model of 'information aesthetics' can be found in Bense 1969.</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="6" xml:id="foot_4"><p>These collaborative books included the volumes Through the Vanishing Point: Space in Poetry and Painting (1968) and Counterblast (1969).</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="7" xml:id="foot_5"><p>On the importance of layout, typography, and other material features in McLuhan's 'artist books,' see alsoCavell 2002,  101-135.   </p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="8" xml:id="foot_6"><p>McLuhan chose to hyphenate the compound, which in Joyce's novel had appeared as one continuous, hyphen-less verbal element. Spacing the word in this manner allowed him to introduce into Joyce's neologism the notion that the links between the spheres of the 'vocal' and the 'visual' needed first to be forged across an existing divide. For a more extensive discussion of McLuhan's project vis-à-vis a longer trajectory of avant-garde experimentation, see alsoWilke 2022, 202-212.   </p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="9" xml:id="foot_7"><p>For passages that document the incipient use of the term by these writers, seeCampos 2007c and Campos 1975, 34. In an interview from 2008, Augusto de Campos later contended that the Noigandres had appropriated the Joycean neologism even 'before McLuhan would refer to it'(Corrêa 2008, n.p.), though this claim of temporal priority is hard to substantiate.</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="10" xml:id="foot_8"><p>10 Importantly in this context, Décio Pignatari translated McLuhan's Understanding Media into Portuguese, in 1969, and discussed McLuhan's writings in his own book-length essay Information, Language, Communication that appeared one year before, in 1968.</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="14" xml:id="foot_9"><p>The title of this manifesto eludes any (short) direct translation. Christoph<ref type="bibr" target="#b18">Klütsch (2012)</ref> proposes to render it as 'Toward An Experimental Condition or State of Affairs' (66) which reflects Bense's emphasis on the exclusive contemporary relevance of certain neo-avant-garde writing techniques.</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="15" xml:id="foot_10"><p>  15  All translations from Bense's German texts are my</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="16" xml:id="foot_11"><p>own.16  A German translation of the 'Pilot Plan' appeared just one year after the original Portuguese-English edition<ref type="bibr" target="#b10">(Campos, Pignatari, and Campos 1959</ref>).</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="17" xml:id="foot_12"><p>Building on Peirce's definition, Roman<ref type="bibr" target="#b16">Jakobson (1971)</ref> would slightly later rephrase the indexical function of (verbal) signs as one of 'factual, existential contiguity' (700).</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="18" xml:id="foot_13"><p>In fact, the Latin verb form 'orior,' which Bense employs in his poem, is the first person singular indicative of Latin oriri, meaning 'I arise', or 'I emerge', which renders the autobiographical significance of his text even more overt.</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="19" xml:id="foot_14"><p>In a second version published the same year,Bense (1965b)  reworked his programmatic poem into an even more complex arrangement, adding a fourth letter from the digital repertoire of the alphabet ('n') and expanding the text's vocabulary accordingly. For a detailed discussion of this expanded version in the context of digital writing practices that developed during the 1960's see</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="2023" xml:id="foot_15"><p><ref type="bibr" target="#b34">Wilke 2023.</ref> </p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="16" xml:id="foot_16"><p>T. WILKE</p></note>
+		</body>
+		<back>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<monogr>
+		<author>
+			<persName><forename type="first">Max</forename><surname>Bense</surname></persName>
+		</author>
+		<title level="m">Aesthetische Information: Aesthetica II. Krefeld and</title>
+		<meeting><address><addrLine>Baden-Baden</addrLine></address></meeting>
+		<imprint>
+			<publisher>Agis</publisher>
+			<date type="published" when="1956">1956</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<monogr>
+		<title level="m" type="main">Theorie der Texte: Eine Einführung in neuere Auffassungen und Methoden</title>
+		<author>
+			<persName><forename type="first">Max</forename><surname>Bense</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1962">1962</date>
+			<publisher>Kiepenheuer &amp; Witsch</publisher>
+			<pubPlace>Cologne</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title level="a" type="main">Brasilianische Intelligenz: Eine cartesianische Reflexion. Wiesbaden: Limes. Bense, Max. 1965b. &quot;tallose berge</title>
+		<author>
+			<persName><forename type="first">Max</forename><surname>Bense</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Einführung in die informationstheoretische Ästhetik</title>
+		<editor>
+			<persName><surname>Rowohlt</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">Max</forename><surname>Bense</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">Reinhard</forename><surname>Döhl</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Bense, Max; Reinbek</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="1965">1965. 1969. 1965</date>
+			<biblScope unit="volume">3</biblScope>
+			<biblScope unit="page">2</biblScope>
+		</imprint>
+	</monogr>
+	<note>zur lage</note>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<monogr>
+		<title level="m" type="main">rot 21: konkrete poesie international</title>
+		<author>
+			<persName><forename type="first">Max</forename><surname>Bense</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Elisabeth</forename><surname>Walter</surname></persName>
+		</author>
+		<editor>hansjörg mayer. Bense, Max, and Elisabeth Walther</editor>
+		<imprint>
+			<date type="published" when="1962">1965. 1962</date>
+			<pubPlace>Stuttgart</pubPlace>
+		</imprint>
+	</monogr>
+	<note>rot 7: noigandres/konkrete texte. Cannstadt: Cantz</note>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<monogr>
+		<title level="m" type="main">A Theory of Minimalism</title>
+		<author>
+			<persName><forename type="first">Marc</forename><surname>Botha</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2017">2017</date>
+			<publisher>Bloomsbury</publisher>
+			<pubPlace>New York</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title level="a" type="main">Translated by Jon Tolman</title>
+		<author>
+			<persName><forename type="first">Haroldo</forename><surname>Campos</surname></persName>
+		</author>
+		<author>
+			<persName><surname>De</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Novas: Selected Writings by Haroldo de Campos</title>
+		<editor>
+			<persName><forename type="first">Antonio</forename><surname>Sergio</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">Bessa</forename></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">Odile</forename><surname>Cisneros</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Evanston</addrLine></address></meeting>
+		<imprint>
+			<publisher>Northwestern University Press</publisher>
+			<date type="published" when="1955">1955. 2007</date>
+			<biblScope unit="page" from="220" to="222" />
+		</imprint>
+	</monogr>
+	<note>The Open Work of Art</note>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title level="a" type="main">Concrete Poetry -Language -Communication</title>
+		<author>
+			<persName><forename type="first">Haroldo</forename><surname>Campos</surname></persName>
+		</author>
+		<author>
+			<persName><surname>De</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Novas: Selected Writings by Haroldo de Campos</title>
+		<editor>
+			<persName><forename type="first">Antonio</forename><surname>Sergio</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">Bessa</forename></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">Odile</forename><surname>Cisneros</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Evanston</addrLine></address></meeting>
+		<imprint>
+			<publisher>Northwestern University Press</publisher>
+			<date type="published" when="1957">1957. 2007</date>
+			<biblScope unit="page" from="235" to="245" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title level="a" type="main">The Informational Temperature of the Text</title>
+		<author>
+			<persName><forename type="first">Haroldo</forename><surname>Campos</surname></persName>
+		</author>
+		<author>
+			<persName><surname>De</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Novas: Selected Writings by Haroldo de Campos</title>
+		<editor>
+			<persName><forename type="first">Antonio</forename><surname>Sergio</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">Bessa</forename></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">Odile</forename><surname>Cisneros</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Evanston</addrLine></address></meeting>
+		<imprint>
+			<publisher>Northwestern University Press</publisher>
+			<date type="published" when="1960">1960. 2007</date>
+			<biblScope unit="page" from="223" to="234" />
+		</imprint>
+	</monogr>
+	<note>Translated by Jon Tolman</note>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title level="a" type="main">Poesia Concreta</title>
+		<author>
+			<persName><forename type="first">Augusto</forename><surname>Campos</surname></persName>
+		</author>
+		<author>
+			<persName><surname>De</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Teoria da Poesia Concreta: Textos Críticos e Manifestos 1950-1960</title>
+		<editor>
+			<persName><forename type="first">Augusto</forename><surname>De</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">Campos</forename></persName>
+		</editor>
+		<meeting><address><addrLine>São Pauo</addrLine></address></meeting>
+		<imprint>
+			<publisher>Livraria Duas Cidades</publisher>
+			<date type="published" when="1975">1975</date>
+			<biblScope unit="page" from="34" to="35" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title level="a" type="main">Pilot Plan for Concrete Poetry</title>
+		<author>
+			<persName><forename type="first">Augusto</forename><surname>Campos</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Haroldo</forename><surname>De</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Décio</forename><surname>De Campos</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Pignatari</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Novas: Selected Writings by Haroldo de Campos</title>
+		<editor>
+			<persName><forename type="first">Antonio</forename><surname>Sergio</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">Bessa</forename></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">Odile</forename><surname>Cisneros</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Evanston</addrLine></address></meeting>
+		<imprint>
+			<publisher>Northwestern University Press</publisher>
+			<date type="published" when="1958">1958. 2007</date>
+			<biblScope unit="page" from="217" to="219" />
+		</imprint>
+	</monogr>
+	<note>Translated by Jon Tolman</note>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<monogr>
+		<title level="m" type="main">führungsplan für konkrete dichtung</title>
+		<author>
+			<persName><forename type="first">Augusto</forename><surname>Campos</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Décio</forename><surname>De</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Haroldo</forename><surname>Pignatari</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Campos</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1959">1959</date>
+			<biblScope unit="volume">2</biblScope>
+			<biblScope unit="page" from="13" to="14" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title level="a" type="main">Theory of Concrete Poetry: Introduction</title>
+		<author>
+			<persName><forename type="first">Augusto</forename><surname>Campos</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Décio</forename><surname>De</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Haroldo</forename><surname>Pignatari</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Jon</forename><forename type="middle">M</forename><surname>De Campos ;</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Tolman</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Studies in the 20th Century</title>
+		<imprint>
+			<biblScope unit="volume">7</biblScope>
+			<biblScope unit="page" from="31" to="33" />
+			<date type="published" when="1965">1965. 1971</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<title level="a" type="main">Acoustic Space</title>
+		<author>
+			<persName><forename type="first">Edmund</forename><surname>Carpenter</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Marshall</forename><surname>Mcluhan</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Explorations in Communication: An Anthology</title>
+		<editor>
+			<persName><forename type="first">Edmund</forename><surname>Carpenter</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">Marshall</forename><surname>Mcluhan</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Boston</addrLine></address></meeting>
+		<imprint>
+			<publisher>Beacon Press</publisher>
+			<date type="published" when="1960">1960</date>
+			<biblScope unit="page" from="65" to="70" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<monogr>
+		<author>
+			<persName><forename type="first">Richard</forename><surname>Cavell</surname></persName>
+		</author>
+		<title level="m">McLuhan in Space: A Cultural Geography</title>
+		<meeting><address><addrLine>Toronto</addrLine></address></meeting>
+		<imprint>
+			<publisher>University of Toronto Press</publisher>
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<monogr>
+		<title level="m" type="main">Concrete Poetry as an International Movement viewed by Augusto de Campos: An Interview</title>
+		<author>
+			<persName><forename type="first">Marina</forename><surname>Corrêa</surname></persName>
+		</author>
+		<ptr target="http://www.ubu.com/papers/correa-decampos/index.html" />
+		<imprint>
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title level="a" type="main">The Designscapes of Harley Parker: Print and Built Environments</title>
+		<author>
+			<persName><forename type="first">Gary</forename><surname>Genosko</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Cross-Cultural Image Studies</title>
+		<imprint>
+			<biblScope unit="volume">8</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="153" to="164" />
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<title level="a" type="main">Language in Relation to Other Communication Systems</title>
+		<author>
+			<persName><forename type="first">Roman</forename><surname>Jakobson</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Selected Writings</title>
+		<meeting><address><addrLine>The Hague</addrLine></address></meeting>
+		<imprint>
+			<publisher>Mouton</publisher>
+			<date type="published" when="1971">1971</date>
+			<biblScope unit="volume">2</biblScope>
+			<biblScope unit="page" from="697" to="708" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<monogr>
+		<author>
+			<persName><forename type="first">James</forename><surname>Joyce</surname></persName>
+		</author>
+		<title level="m">Finnegans Wake</title>
+		<meeting><address><addrLine>New York</addrLine></address></meeting>
+		<imprint>
+			<publisher>The Viking Press</publisher>
+			<date type="published" when="1939">1939</date>
+			<biblScope unit="page">1966</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<analytic>
+		<title level="a" type="main">Information Aesthetics and the Stuttgart School</title>
+		<author>
+			<persName><forename type="first">Christoph</forename><surname>Klütsch</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Mainframe Experimentalism: Early Computing and the Foundations of the Digital Arts</title>
+		<editor>
+			<persName><forename type="first">Hannah</forename><forename type="middle">B</forename><surname>Higgins</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">Douglas</forename><surname>Kahn</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Berkeley</addrLine></address></meeting>
+		<imprint>
+			<publisher>University of California Press</publisher>
+			<date type="published" when="2012">2012</date>
+			<biblScope unit="page" from="65" to="89" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<analytic>
+		<title level="a" type="main">Stochastische Texte</title>
+		<author>
+			<persName><forename type="first">Theo</forename><surname>Lutz</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Augenblick</title>
+		<imprint>
+			<biblScope unit="volume">4</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="3" to="9" />
+			<date type="published" when="1959">1959</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<monogr>
+		<title level="m" type="main">Stochastic Texts</title>
+		<author>
+			<persName><forename type="first">Theo</forename><surname>Lutz</surname></persName>
+		</author>
+		<ptr target="http://www.stuttgarter-schule.de/lutz_schule_en.htm" />
+		<editor>Helen MacCormack. Stuttgarter Schule</editor>
+		<imprint>
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<analytic>
+		<title level="a" type="main">Joyce, Mallarmé, and the Press</title>
+		<author>
+			<persName><forename type="first">Marshall</forename><surname>Mcluhan</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">The Sewanee Review</title>
+		<imprint>
+			<biblScope unit="volume">62</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="38" to="55" />
+			<date type="published" when="1954">1954</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<analytic>
+		<title level="a" type="main">Radio and TV vs. the ABCED-Minded</title>
+		<author>
+			<persName><forename type="first">Marshall</forename><surname>Mcluhan</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Explorations</title>
+		<imprint>
+			<biblScope unit="volume">5</biblScope>
+			<biblScope unit="page" from="12" to="18" />
+			<date type="published" when="1955">1955</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<analytic>
+		<title level="a" type="main">About the Cover</title>
+		<author>
+			<persName><forename type="first">Marshall</forename><surname>Mcluhan</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Explorations: Studies in Culture and Communications</title>
+		<imprint>
+			<biblScope unit="volume">8</biblScope>
+			<date type="published" when="1957">1957</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<monogr>
+		<author>
+			<persName><forename type="first">Marshall</forename><surname>Mcluhan</surname></persName>
+		</author>
+		<title level="m">The Gutenberg Galaxy: The Making of Typographic Man</title>
+		<meeting><address><addrLine>Toronto</addrLine></address></meeting>
+		<imprint>
+			<publisher>Toronto University Press</publisher>
+			<date type="published" when="1962">1962</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<monogr>
+		<title level="m" type="main">Understanding Media: The Extensions of Man</title>
+		<author>
+			<persName><forename type="first">Marshall</forename><surname>Mcluhan</surname></persName>
+		</author>
+		<editor>W. Terrence Gordon</editor>
+		<imprint>
+			<date type="published" when="1964">1964. 2003</date>
+			<publisher>Gingko Press</publisher>
+			<pubPlace>Corte Madera, CA</pubPlace>
+		</imprint>
+	</monogr>
+	<note>Critical Edition</note>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<monogr>
+		<author>
+			<persName><forename type="first">Marshall</forename><surname>Mcluhan</surname></persName>
+		</author>
+		<title level="m">The Medium is the Massage: An Inventory of Effects</title>
+		<meeting><address><addrLine>New York</addrLine></address></meeting>
+		<imprint>
+			<publisher>Bantam Books</publisher>
+			<date type="published" when="1967">1967</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b27">
+	<monogr>
+		<title level="m" type="main">1967b. Verbi-Voco-Visual Explorations</title>
+		<author>
+			<persName><forename type="first">Marshall</forename><surname>Mcluhan</surname></persName>
+		</author>
+		<imprint>
+			<publisher>Something Else Press</publisher>
+			<pubPlace>New York</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b28">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">Marshall</forename><surname>Mcluhan</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1969">1969</date>
+			<publisher>Harcourt, Brace &amp; World</publisher>
+			<pubPlace>New York</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b29">
+	<analytic>
+		<title level="a" type="main">Logic as Semiotic: The Theory of Signs</title>
+		<author>
+			<persName><forename type="first">Charles</forename><surname>Peirce</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Sanders</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">The Philosophical Writings of Peirce</title>
+		<editor>
+			<persName><forename type="first">Justus</forename><surname>Buchler</surname></persName>
+		</editor>
+		<meeting><address><addrLine>New York</addrLine></address></meeting>
+		<imprint>
+			<publisher>Dover</publisher>
+			<date type="published" when="1955">1955</date>
+			<biblScope unit="page" from="98" to="119" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b30">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">Décio</forename><forename type="middle">;</forename><surname>Pignatari</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Informaçao</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Comunicaçao</forename><surname>Linguagem</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Paulo</forename><surname>São</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1968">1968</date>
+			<publisher>Editora Perspectiva</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b31">
+	<analytic>
+		<title level="a" type="main">Passing the Calvino Test? Writing Machines and Literary Ghosts</title>
+		<author>
+			<persName><forename type="first">Jörgen</forename><surname>Schäfer</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Digital Media and Textuality: From Creation to Archiving</title>
+		<editor>
+			<persName><forename type="first">Daniela</forename><surname>Côrtes</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">Maduro</forename></persName>
+		</editor>
+		<meeting><address><addrLine>Bielefeld</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2017">2017</date>
+			<biblScope unit="page" from="23" to="46" />
+		</imprint>
+	</monogr>
+	<note>transcript</note>
+</biblStruct>
+
+<biblStruct xml:id="b32">
+	<analytic>
+		<title level="a" type="main">A Mathematical Theory of Communication</title>
+		<author>
+			<persName><forename type="first">Claude</forename><forename type="middle">E</forename><surname>Shannon</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">The Bell System Technical Journal</title>
+		<imprint>
+			<biblScope unit="volume">27</biblScope>
+			<biblScope unit="issue">3-4</biblScope>
+			<biblScope unit="page" from="623" to="656" />
+			<date type="published" when="1948">1948</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b33">
+	<monogr>
+		<title level="m" type="main">Sound Writing: Experimental Modernism and the Poetics of Articulation</title>
+		<author>
+			<persName><forename type="first">Tobias</forename><surname>Wilke</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2022">2022</date>
+			<publisher>The University of Chicago Press</publisher>
+			<pubPlace>Chicago</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b34">
+	<analytic>
+		<title level="a" type="main">Konkrete Texte/diskrete Zeichen: Poetische Einsätze digitaler Schreibverfahren in den 1960er Jahren</title>
+		<author>
+			<persName><forename type="first">Tobias</forename><surname>Wilke</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Wie postdigital schreiben? Neue Verfahren der Gegenwartsliteratur</title>
+		<editor>
+			<persName><forename type="first">Hanna</forename><surname>Hamel</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">Eva</forename><surname>Stubenrauch</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Bielefeld</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2023">2023</date>
+			<biblScope unit="page" from="95" to="125" />
+		</imprint>
+	</monogr>
+	<note>transcript</note>
+</biblStruct>
+
+<biblStruct xml:id="b35">
+	<analytic>
+		<title level="a" type="main">Benses Brasilien: Reflexionen zur konkreten Poesie, Brasília und dem Entwurf einer Rheinlandschaft</title>
+		<author>
+			<persName><forename type="first">Jasmin</forename><surname>Wrobel</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Max Bense: Werk -Kontext -Wirkung</title>
+		<editor>
+			<persName><forename type="first">Andrea</forename><surname>Albrecht</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">Massetto</forename><surname>Bonitz</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">Alexandra</forename><surname>Skowronski</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">Claus</forename><surname>Zittel</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Stuttgart</addrLine></address></meeting>
+		<imprint>
+			<publisher>Metzler</publisher>
+			<date type="published" when="2019">2019</date>
+			<biblScope unit="page" from="297" to="322" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

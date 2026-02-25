@@ -1,0 +1,1140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Metaphorical Traits of the Language of the COVID-19 Pandemic: A Short-Term Diachronic Study</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author role="corresp">
+							<persName><forename type="first">Ljubica</forename><surname>Leone</surname></persName>
+							<email>ljubica.leone@unicampania.it</email>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Political Sciences</orgName>
+								<orgName type="institution">University of Campania Luigi Vanvitelli</orgName>
+								<address>
+									<settlement>Caserta</settlement>
+									<country key="IT">Italy</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Metaphorical Traits of the Language of the COVID-19 Pandemic: A Short-Term Diachronic Study</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date/>
+						</imprint>
+					</monogr>
+					<idno type="MD5">37C181563A768547F880352A8B9EC095</idno>
+					<idno type="DOI">10.1080/0013838X.2026.2615904</idno>
+					<note type="submission">Received 3 December 2024 Accepted 31 December 2025</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.0" ident="GROBID" when="2026-02-25T19:49+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term>Metaphor</term>
+					<term>COVID-19</term>
+					<term>diachronic</term>
+					<term>moving entity</term>
+					<term>stable entity</term>
+				</keywords>
+			</textClass>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>Studies examining the language of the pandemic include those focused on address terms and of stance-taking (Yingnian Tao, "Address Term and of Stance-Taking in the Discussion of Wuhan Diary in Weibo." #cads2020. Corpora &amp; Discourse. Book of Abstracts [2020]: 116), also the use of Twitter for administering advice in response to the Covid-19 pandemic, or how Covid-19 has been addressed in research articles (Luke Collins and Veronica Koller, Viral Language: Analysing the Covid-19 Pandemic Public Discourse. London: Routledge, 2024). Metaphor research includes the description of metaphors used on Twitter (Philip Wicke and Marianna M. Bolognesi, "Framing COVID-19: How We Conceptualize and Discuss the Pandemic on Twitter." PLoS One 15, no. 9 [2020]: e0240010) or chosen by politicians from different countries to discuss COVID-related issues (Collins and Koller, Viral Language). Diachronically, there are no studies examining the metaphorical traits of words denoting COVID-19 in the political setting of the UK Parliament. The present research aims to fill this gap. It is a corpus-based investigation undertaken on the Parliament Covid corpus (PCov), including parliamentary debates dating from March 2020 to September 2020. Words denoting COVID-19 have been retrieved with the concordancer WordSmithTools 6.0, and their metaphorical traits examined using the Metaphor Identification Procedure (Pragglejaz Group, "A Method for Identifying Metaphorically Used Words in Discourse." Metaphor and Symbol 22, no. 1 [2007]: 1-39). The analysis reveals that COVID-19 is depicted as a Stable entity over time, reflecting a sense of immobility, but also as a Moving entity due to the danger experienced as a consequence of the pandemic.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="1.">Introduction</head><p>COVID-19 was first identified in December 2019 in Wuhan, China, and soon spread all around the world, causing an unprecedented pandemic that affected lifestyles, economic and sociopolitical settings. Governments started to discuss the dangers and threats stemming from the spread of this new disease, and the World Health Organisation (WHO) established collaborative talks with all nations to prevent new cases and try to control the sanitary emergency. Doctors, virologists, and politicians were involved in informative sessions to disseminate knowledge on an unknown disease with flu-like symptoms and update their populations on measures to manage hospital overcrowding. With no vaccine to prevent infections, there was a need for alternative policies that could have limited transmission rates and the numbers of confirmed cases and deaths. This led most countries to adopt lockdowns, home isolation and quarantine, mobility restrictions and travel bans, the closure of non-essential activities, and the cancellation of public events and meetings. These measures impacted the economies of nations and their tourism and caused psychological afflictions for many. <ref type="bibr">1</ref> At the same time, all this inevitably affected language use.</p><p>In adopting a social conceptualisation of language, this is "one of the most fundamental tools we have to make sense of our social reality, including its foundational role in constructing and communicating our understandings and experiences of all matters relating to health and illness". <ref type="bibr">2</ref> The way people talk about a specific topic like COVID-19 reflects the lived experience of the disease and is contingent upon the risk perception at a specific moment of time. The social reality of the pandemic is reflected in the evaluation of experiences in public contexts and risk communication in media and political debates, and it is filtered through the lens of language and metaphorical uses of words.</p><p>There is a "complex relation between metaphors and people's lives", since mental reasoning is reflected in the metaphors people use and contributes to constructing the social dimension of events, happenings, and illnesses like COVID-19. <ref type="bibr">3</ref> "The study of metaphor offers a window into the human mind", 4 but also gives access to strategies in public speech "for framing and representing the challenges to be faced". <ref type="bibr">5</ref> This also applies to studies focused on the metaphors used during the pandemic, which have proved that social background can influence the perception of the social reality and may stimulate metaphorical framings. <ref type="bibr">6</ref> At the same time, it works as a factor determining the strategies that should be adopted in risk communication to guarantee trust and commitment within the population. <ref type="bibr">7</ref> Starting from these considerations, the present research aims to examine whether and to what extent the spread of the new disease has influenced the use of metaphors for COVID-19 as a consequence of the pressure exerted by societal factors. Specifically, it is a corpus-based investigation that describes the metaphors used by UK politicians in the UK Parliament, and their transformation in the opening months of the pandemic, that is, from March to September 2020.</p><p>The study may be contextualised within recent corpus-based approaches to the study of metaphor based on considerations of the appropriateness of the application of corpus methods to metaphor theory: "metaphors are frequent in language and (…) systematic conventional patterns of linguistic metaphors reflect conventional patterns of metaphoric thinking". <ref type="bibr">8</ref> The political discourse may be considered as being heavily dependent on the societal factors orienting topics of interaction and reflecting the common perception of   Gök and Kara, "Individuals' Conceptions of COVID-19." See also Mahlberg and Brookes, "Language and Covid-19."  COVID-19, which is linked to the effects of the pandemic on society. Indeed, this kind of discourse is based on the frames that are used to engage the public in aspects of common concern, and it is characterised by narratives of ideas and contemporary events, 9 including sanitary issues like COVID-19. Similarly, the narratives used in the specific area of Parliamentary discourse feature a sociocultural component, since debates involve politicians discussing problems of the nation and possible solutions, contributing to public engagement in national policies and awareness of states of emergency linked to sanitary actions.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.">Previous Studies and Research Aims</head><p>The impact the outbreak of COVID-19 has had since the first case was reported in 2019 has promoted increasing interest in the language of the pandemic. There are two major research strands: (1) studies with a focus on the linguistic features of the language of COVID-19; (2) studies devoted to the description of metaphors of COVID-19.</p><p>The first strand includes works on terminology, discourse analysis of the language of the pandemic in specific settings, and risk communication.</p><p>Studies with a focus on terminology include that of <ref type="bibr">Dong et al.,</ref><ref type="bibr">10</ref> who undertook a corpus-based study exploring the terminology used for COVID-19 in academia and the media, or Kania's 11 account, which discusses naming choices in UK newspaper coverage. They proved that the use of terminology evolves in tandem with social change and varies among academic and non-academic communities. 12 At the same time, they found that naming is often inappropriate because there are also terms inciting undue fear. <ref type="bibr">13</ref> On other occasions, the focus has been on the use of Twitter for administering advice in response to the COVID-19 pandemic, or on how COVID-19 has been addressed in research articles. <ref type="bibr">14</ref> Studies with a diachronic orientation have, instead, described lexical change that is observable in the news. <ref type="bibr">15</ref> In addition to these, there are works on quality risk communication on a little-known threat like COVID-19 disease, which has been investigated since the beginning of the sanitary crisis, with studies set within Critical Discourse Analysis of pandemic discourse, <ref type="bibr">16</ref> or examining COVID-19 risk perception, 17 addressing terms and stance-taking. <ref type="bibr">18</ref> The second strand mentioned above includes works devoted to the examination of the ways in which COVID-19 is metaphorically described, such as the study undertaken by <ref type="bibr">Semino,</ref><ref type="bibr">19</ref> which is a comprehensive analysis of different metaphors used during the pandemic. The study is contextualised within a larger project developed at Lancaster University named #ReframeCovid, which is a crowd-sourced multilingual collection of metaphors for COVID-19 covering diverse languages, including English. The project allows the evaluation of uses and functions of metaphors for COVID-19 used by governments, health agencies, public institutions, and the media, and collected from Twitter (now X). <ref type="bibr">20</ref> At the same time, the study makes use of the Coronavirus Corpus, 21 an online collection of news articles in English from around the world from January 2020 onwards. The results highlight the importance of metaphors in communication about COVID-19: metaphors "are not neutral ways of perceiving and representing reality", as the source domain can unlock aspects of the target while hiding other components that may favour inferences and influence evaluation. <ref type="bibr" target="#b1">22</ref> The virus is variously conceptualised and occurs as an "enemy" to be "beaten", a "tsunami" on health services, and even as "glitter" that "gets everywhere". <ref type="bibr" target="#b2">23</ref> Many metaphors have been found in discourses around COVID-19 like the WAR metaphor, and the FIRE metaphor that is discussed by Semino and Pérez-Sobrino et al. <ref type="bibr" target="#b3">24</ref> as an alternative frame to the former in the context of the pandemic. The WAR metaphor has been proven to be particularly frequent at the beginning of the pandemic. <ref type="bibr" target="#b4">25</ref> This may be because the pandemic caused "the greatest crisis since the Second World War and metaphor was crucial in creating acknowledgment of this reality and exhorting a concerted public response". <ref type="bibr" target="#b5">26</ref> The WAR metaphor is also found in other investigations on metaphorical frames of COVID-19, such as Seixas' study and Charteris-Black's 27 work.</p><p>Specifically, Seixas <ref type="bibr" target="#b7">28</ref> draws on Critical Discourse Analysis (CDA) to examine crisis communication and the communicative practices of political representatives and spokespersons at the beginning of the pandemic. He investigates a sample of speeches given in March 2020 by political representatives including Marcelo Rebelo de Sousa, the President of Portugal, Emmanuel Macron, the President of France, Boris Johnson, the Prime Minister of the UK, Pedro Sánchez, the Prime Minister of Spain, Ursula von der Leyen, the President of the European Commission, Donald Trump, the President of the US, and António Guterres, the Secretary-General of the United Nations. The results prove that the WAR metaphor "tends to be the main organizing theme of the text, forming the backbone of its argumentative and rhetorical strategies" while aiding aspects like "persuading citizens to change their behavior; fostering national unity, mobilization". <ref type="bibr">29</ref> A different area of investigation characterises the work undertaken by Charteris-Black, <ref type="bibr" target="#b8">30</ref> who examined metaphors and allegories of the pandemic in the UK press and their evolution from March 2020 to February 2021. Specifically, the study queries media discourse and press on the Nexis database, proving that the virus becomes an "invisible enemy" with "frontline troops that are running out of protective gear (PPE), ammunition (beds) and heavy equipment (ventilators)". <ref type="bibr" target="#b9">31</ref> More recently, Collins and Koller 32 have examined metaphors used in diverse contexts, including news discourse, key features of scientific writing on COVID-19, language change in news on the web, and health promotion and public engagement on Twitter by politicians from different countries to discuss COVID-19. The analysis of Twitter, which was used to disseminate health information during the pandemic, reveals the occurrence of expressions like "Stay Home, Save Lives" used by health ministers in various English-speaking countries, but also WAR metaphors that work functionally in support of government actions to engage the public. <ref type="bibr">33</ref> Moreover, they identify a set of alternative metaphors, like the JOURNEY metaphor, highlighting their importance in discourses on public health.</p><p>These considerations prove that broad knowledge has been collected on the language of the COVID-19 pandemic and on the metaphorical traits of COVID-19. There are, though, no diachronic studies on the metaphors of COVID-19 in the specific political institutional setting of the UK Parliament.</p><p>When examining political discourse, diachronic investigations on metaphors are limited to research examining flu-like pandemics before COVID-19, including the study undertaken by Taylor and Kidgell 34 with a focus on metaphors for words denoting flu-like diseases such as pandemic grippe, flu, influenza, and SARS. These scholars queried the Times Online corpus, which contains c.10.5 billion words, including articles published in the UK in 1785-2011 and freely available on the CQPweb interface. <ref type="bibr">35</ref> At the same time, they made use of the Hansard corpus, with UK parliamentary debates from 1803 to 2005, containing c.1.6 billion words, to have access to public discourse. <ref type="bibr">36</ref> This study offers a comprehensive account of the ways in which metaphors are used over time and highlights the importance of the WAR and ENEMY metaphors, in addition to others like WATER, CONTAINER, FIRE, TRAVELLER/VISITOR and WEIGHT. <ref type="bibr">37</ref> Nonetheless, the area of investigation excludes metaphors used to describe COVID-19, which thus warrants further examination in light of the effects of the pandemic on contemporary society.</p><p>The present study aims to contribute to the understanding of metaphorical uses of the new disease and changing representations. Specifically, its objectives are:</p><p>-To study the metaphorical traits of words denoting COVID-19, that is, Covid / Covid-19, coronavirus, Corona, nCoV, 2019-nCoV, SARS-CoV-2; -To examine metaphorical realisations of the new disease over the short period from March 2020 to early September 2020, which are the months from the beginning of the pandemic to the easing of restrictive measures after the first lockdown.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.">Materials and Method</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.1.">The Corpus: Architecture and Criteria for Its Compilation</head><p>The present study is based on the Parliament Covid Corpus (PCov), a self-compiled corpus including transcripts of debates occurring in the UK Parliament, which were <ref type="bibr">32</ref> Collins and Koller, Viral Language. <ref type="bibr">33</ref> Ibid.; Rumadan et al., "Review of Viral Language." <ref type="bibr">34</ref> Taylor and Kidgell, "Flu-Like Pandemics and Metaphor Pre-Covid." <ref type="bibr">35</ref> Hardie, "CQPweb -Combining Power, Flexibility." <ref type="bibr">36</ref> Taylor and Kidgell, "Flu-Like Pandemics and Metaphor Pre-Covid'. <ref type="bibr">37</ref> Ibid.</p><p>retrieved from the Hansard web page. <ref type="bibr">38</ref> Overall, PCov includes 518,255 tokens and is composed of three sub-corpora of around 170,000 words that cover the periods March-April 2020, May-June 2020, and June-August/early September 2020, as shown in Table <ref type="table" target="#tab_0">1</ref>.</p><p>The corpus includes a total of 217 transcripts of speeches, randomly selected from both the House of Lords and the House of Commons. Specifically, each section was set to include around 170,000 tokens to obtain a corpus that was balanced in terms of the total number of tokens, which can facilitate comparisons between the sub-corpora. This was possible because the Hansard website includes a search window allowing retrieval based on specific keywords, which is the word Covid in the present study. The selection of transcripts by date permitted the downloading of transcripts dated from 1 March to 3 September 2020.</p><p>The choice concerning the temporal window from the beginning of March to the beginning of September is uneven, but it was necessary for practical reasons: there are no speeches in the UK Parliament in August, which revealed the need for the inclusion of some speeches held in the first few days of September. As for the reason beyond the selection of this specific temporal window, it lies in the need to trace and track the evolution of the language of the pandemic and of the metaphorical traits of words denoting the new disease since the moment when the UK Government published the coronavirus action plan back in March 2020, as shown in Table <ref type="table" target="#tab_1">2</ref>.</p><p>The months March-June 2020 are characterised by impactful events, and they signal increasing rates of COVID-19 infections and deaths threatening the whole population. <ref type="bibr">39</ref> These were followed by additional measures, such as the lockdown from 23 March onwards, which was the response to the spread of the disease and the declaration of the pandemic by the WHO on 11 March. The months from July onwards are, instead, particularly important when examining potential changes in the metaphors used to describe COVID-related aspects, because these months were characterised by the easing of sanitary restrictions and people had the impression of getting back to a normal life. The shift from a society characterised by fear of the new disease and mobility restrictions to increasing normality are two aspects that may have influenced people's perceptions of COVID-19 and determined new metaphorical frames.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.2.">Data Analysis</head><p>The study adopts a triangulated method combining metaphor research and corpus linguistics. The present study has been undertaken with the support of the concordancer WordSmithTools 6.0. Specifically, three steps were followed in the analysis.</p><p>Phase 1 was devoted to the identification of words denoting the COVID-19 disease, which is variously referred to, that is, Covid / COVID-19, coronavirus, Corona, nCoV, 2019-nCoV, SARS-CoV-2. The various names were obtained by searching scientific literature describing the novel disease and news published immediately after the identification of the first case in Wuhan, in December 2019. This phase was followed by phase 2, devoted to a concordance-based analysis supported by the software WordSmithTools 6.0, and its tool Concord. Concordance analysis of all selected words was the basis for metaphor identification, since an examination of the context of use helps in the identification of the way COVID-19 was framed in the UK Parliament after the outbreak of the pandemic. Results have been treated mathematically in terms of Raw Frequency (Rf), Normalised Frequency (Nf) based on 10,000 words, Diff% and Log-Likelihood (LL) calculated with the UCREL Log-likelihood calculator. <ref type="bibr">40</ref> The use of normalised rates emerges from the need for comparability between the sub-corpora: the calculation of a common base of normalisation is a guarantee of precision, since the sample size may affect evaluation of the results. <ref type="bibr">41</ref> Phase 2 involved the identification of metaphorical uses of words denoting COVID-19, which is informed by the methodological foundations of the "metaphor identification procedure" known as MIP. <ref type="bibr">42</ref> This is considered a reliable method for the identification of words used metaphorically and is employed in both disciplinary and interdisciplinary studies of metaphor. <ref type="bibr">43</ref> Specifically, words referring to the novel coronavirus have been examined, accounting for their basic meaning, that is, their literal meaning, and their contextual meaning, which is the meaning of an item within its immediate context. When the contextual meaningemerging from the use of a word in linguistic contexts that can add further semantic nuancescontrasts with the basic meaning, that instance is categorised as being used metaphorically.</p><p>Once metaphorical and non-metaphorical uses had been identified, the next phase, that is, phase 3, concerned the evaluation of ongoing changes affecting the metaphorical traits of words denoting COVID-19. All instances have been interpreted in light of the societal and contextual factors that can influence words' uses and stimulate metaphorical thinking.  </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="4.">Results and Discussion</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="4.1.">Political Discourse and COVID-19: Terminology</head><p>Examination of the words denoting the new disease has revealed a preference for COVID-19 (intended as a cover term including both COVID-19 and COVID) in all temporal windows, reaching, overall, a frequency of 1,520 hits (29.32 Nf). The names 2019nCov, Corona, nCov, and SAR-CoV-2 are absent, whereas coronavirus is used in a more limited way than COVID-19, and it occurs with a frequency of 442 hits (8.52 Nf). The absence of technical terms is an expected result, given that speakers are politicians who may not have knowlendge of medicine, which determined the preference for the less specific terms COVID-19 and coronavirus.</p><p>As for the preference for COVID-19 at the expense of coronavirus, it may be due to the corpus compilation process, which was characterised by the selection of texts including the keyword COVID. However, this does not explain why the word coronavirus shows such a limited frequency, given that it too refers to the disease known as COVID-19. There could be other aspects determining these results linked to the principle of economy, in that coronavirus is a longer and less informative term than COVID-19: in medicine, coronavirus is a term referring to a family of viruses that cause respiratory diseases, like SARS and MERS, and the new coronavirus is structurally related to these diseases. <ref type="bibr">44</ref> The use of these terms and the absence of significant variation over the months, as shown in Table <ref type="table" target="#tab_2">3</ref>, proves that, in lexical terms, members of the UK Parliament familiarised themselves with both COVID-19 and coronavirus, which is a prerequisite for metaphorical thinking.</p><p>The awareness of possible uses and the ability to manage the basic meaning of specific words may favour processes of metaphorisation and stimulate shifts towards diverse target domains, which is the essence of metaphor framing. <ref type="bibr">45</ref> Metaphor "involves communicating and thinking about one thing in terms of another" and derives from subjective experiences, <ref type="bibr">46</ref> which implies that knowledge of the source domain may favour conventional patterns of metaphorical thought and help to conceptualise similarity in terms of direction, time, or any other social target. The use of metaphors to talk about COVID-related issues in the UK Parliament should be seen as a way "to uncover evaluative stances and ideological meanings that may not be overtly expressed in discourse". <ref type="bibr">47</ref> At the same time, these representations of the new disease may intertwine with literal uses, and the contrast between the two spheresliteral and metaphoricalmay unlock aspects concerning the lived experience of the outbreak of the pandemic, and personal and social ideologies around COVID-19.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="4.2.">Literal and Metaphorical Uses</head><p>Comparison of literal and metaphorical uses has revealed a preference for metaphors in all temporal windows, with metaphorical representations of COVID-19 scoring Rf 1,403 hits (Nf 27.07) and literal uses scoring Rf 559 (Nf 10.78). However, beyond this trend, it is possible to note that there are some divergences in the use of the two words COVID and coronavirus over time, as reported in Tables <ref type="table" target="#tab_3">4</ref> and<ref type="table" target="#tab_4">5</ref>. <ref type="bibr">44</ref> Fauci, Lane and Redfield, "Covid-19 -Navigating the Uncharted." <ref type="bibr">45</ref> Thibodeau, "The Function of Metaphor Framing." <ref type="bibr">46</ref> Anderson and Semino, "Metaphor," 125. <ref type="bibr">47</ref> Bogetić, "Discursive Metaphorical Frames in Newspaper Texts."</p><p>Observation of Tables 4 and 5 reveals that, while metaphorical uses of COVID in the PCov-1 show lower rates than other windows, coronavirus shows the opposite tendency, that is, its metaphorical use decreases in PCov-2 and PCov-3. As for literal uses, instead, COVID is rather stable, whereas coronavirus exhibits variation in the rates, further confirming the divergence between the two words.</p><p>Calculating the rates of the literal and metaphorical uses of the two words COVID and coronavirus together reveals that, overall, the frequency of metaphors increases over time at the expense of literal uses, as shown in Table <ref type="table" target="#tab_5">6</ref>.</p><p>Specifically, as for literal uses, the rate moves from an Nf of 12.17 (PCov-1) and an Nf of 10.19 (PCov-2) to an Nf of 9.91 (PCov-3), that is, there is a Diff of -18.55% when comparing PCov-3 with PCov-1 (LL 3.96, significant at p &lt; 0.05). The frequency of metaphorical uses, instead, exhibits variability, and the rate of Nf 24.01 observed in PCov-1 at the beginning of the pandemic goes up to an Nf of 29.94 in PCov-2, and down again to an Nf of 27.33 in PCov-3. However, a comparison of PCov-3 and PCov-1 proves that there is, overall, a Diff of +13.81% (LL 3.68), which is not statistically significant at p &lt; 0.05, but it is a sign of ongoing innovation promoting increasing use. The rates suggest the existence of a more pervasive role of metaphor over the months, which may be related to contextual factors emerging during the pandemic that stimulated metaphorical thinking and potentially promoted metaphor reconceptualisation as the reflex of a changing society.</p><p>To evaluate these aspects, there is a need to go beyond frequency rates and to identify the various metaphors used for COVID-19 and observe their transformation over the short term. This is the point where metaphor analysis meets sociology and anthropological studies, and intertwines with language change: metaphorical uses are construed in discourse and shape the language with an opaque connotation linked to other source domains. 48 </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="4.3.">Metaphorical Representations of COVID-19</head><p>Following the MIP procedure, I queried PCov to identify the literal and metaphorical conceptualisations of COVID-19 used by members of the UK parliament. Specifically, I identified two basic meanings, that is, COVID-19 intended as a Disease and its use with the meaning of Virus, in addition to various contextual meanings signalling metaphoric uses, as represented in Table <ref type="table" target="#tab_6">7</ref>.</p><p>There are many designations of COVID-19 in PCov, which also differ somewhat from those already identified in the literature. On the one hand, COVID-19 is framed with WAR or ENEMY metaphors, which portray the present results in line with existing research on the language of the COVID-19 pandemic, 49 but also with other healthrelated studies with a focus on other flu-like pandemics. <ref type="bibr">50</ref> On the other hand, there are metaphors that concern representations of COVID-19 as a person, or an animal, but also as a temporal entity or a stable/moving entity, which are innovative uses.</p><p>First, members of the UK Parliament tend to use a medical perspective when talking about COVID-19, with the consequence that COVID-19 is conceptualised as a virus causing symptoms (1), requiring isolation (2), or as a disease that threatens public life due to its contagiousness (3). At the same time, they choose the WAR metaphor to highlight the importance of Government policies and restrictive sanitary measures to prevent further spread of the virus. Indeed, COVID-19 is associated with words like battle and frontline (4), fight (5), and combat (6), but also challenge (7), in contexts dominated by a sense of threat and risk.  The use of the WAR metaphor reveals that members of Parliament and the public they represent are experiencing COVID-19 as a danger that should only be faced with the collaboration of all people working together to overcome the spread of the pandemic, and then limit its consequences on society.</p><p>When these results are contextualised within the literature on the pandemic, they acquire value, since the WAR metaphor is attested in various linguistic contexts and diverse genres, including the language used in news and political discourse.</p><p>First, the WAR metaphor has been observed by Charteris-Black 51 in his work examining news discourse over the months from February 2020 to February 2021. This scholar highlights that the lexical field of war is characterised by words like to combat, to defend, and to wage, and that these words became very popular. Similar considerations apply to the case of Taylor and Kidgell's work on flu-like pandemics, that is, SARS and Spanish flu, examining media and political discourse in the UK in the period 1890-2009. <ref type="bibr">52</ref> At that time, they highlight the fact that this type of metaphor occurs in both The Times and Hansard, but its frequency declines over time. Moreover, they observe that there are signs of innovations and "increased diversification", which is attributed to the outbreak of the First World War. <ref type="bibr">53</ref> The DISEASE IS WAR metaphor is also considered to be particularly prominent by <ref type="bibr">Sontag,</ref><ref type="bibr">54</ref> who examines the metaphors used to describe AIDS and highlights that this kind of metaphor commonly characterises people's conceptualisation of the disease. Indeed, it is used "where disease is regularly described as invading the society, and efforts to reduce mortality from a given disease are called a fight, a struggle, a war": WAR creates a sense of urgency for action and stimulates common action against the disease, while there is "stigmatizing of certain illnesses and, by extension, of those who are ill". <ref type="bibr">55</ref> These considerations also apply to the WAR metaphor found in PCov, and the consequent framing effects increase public awareness of the need for action so as to limit the spread of the virus. As noted by Semino in her work undertaken within the #Refra-meCovid initiative, 56 "War metaphors can increase people's perceptions of problems as serious and urgent and their willingness to modify their behaviours accordingly", while generating "a sense of collective responsibility and sacrifice for a common purpose". The fact that the WAR metaphor is rather limited in PCov reveals that people had an awareness of the danger deriving from COVID-19 disease, but also that society could have overcome the sanitary crisis, even in the long term.</p><p>Other metaphors used in PCov relate to other spheres, allowing representations of COVID-19 as a PERSON (8) or as an ANIMAL ( <ref type="formula">9</ref>), and as a defining aspect of RACE (10). On other occasions, COVID-19 is depicted as TIME, which entails a durative aspectual connotation with a beginning and an end ( <ref type="formula">11</ref>). A novel use of metaphors for COVID-19, which has not been discussed in the literature to date, concerns COVID-19 being denoted as a Stable entity, as in ( <ref type="formula">12</ref>)-( <ref type="formula">16</ref>), which occurs often in UK parliamentary discourse. These examples shape COVID-19 as a status ( <ref type="formula">12</ref>) and an immobile situation ( <ref type="formula">13</ref>)-( <ref type="formula">14</ref>), which determines the course of events in society while signalling challenging aspects of the pandemic (15). In example (15), COVID-19 is treated as a defining property of recovery strategy, and it contributes to rendering COVID-19 as a defining property of aspects of everyday life, including the lockdowns, which recall a sense of lack of movement, as in ( <ref type="formula">16</ref>).</p><p>Movement is another defining feature of COVID-19 when represented as an entity. Indeed, on many occasions, this disease is shaped as a MOVING ENTITY that can go away (17), or can arrive (18). At the same time, when combined with wave (19), there is a direct reference to movement to and from a specific place, with a swaying motion contributing to triggering it as an entity that can also spread rapidly. COVID-19 and <ref type="bibr">55</ref> Ibid., 98-9. <ref type="bibr">56</ref> Semino, "Not Soldiers but Fire-Fighters," 51.</p><p>coronavirus are also used with an adjectival function followed by the word outbreak, as in (20), signalling a sudden occurrence of a disease that can neither be stopped nor controlled. The representation of COVID-19 linked to movement is a novel metaphor for this disease and inspires new considerations of metaphors after the COVID-19 outbreak. This is an important aspect to understand the lived experience of COVID-19, since new words' senses and their metaphorical traits derive from pragmatic-contextual factors and emerge as the reflex of a changing society. <ref type="bibr">57</ref> In this view, examination of the diachronic transformation of metaphors used to refer to COVID-related issues may reveal hidden aspects of people's lives and help in the recodification of the lived experience of the pandemic. If "the socio-cultural and ideological aspects of metaphor usage" signal the "view of the world held by speakers using the metaphor", 58 then the spread of COVID-19 is supposed to have had an influential effect on the use of words denoting this disease as a consequence of the pressure exerted by societal factors. These aspects are discussed in Section 4.4, next.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="4.4.">Change over Time</head><p>The identification and study of metaphors used to discuss COVID-19 has followed two steps:</p><p>(1) an examination of the frequency of use of various metaphors taken singularly (2) and the identification of processes of change affecting the metaphorical traits of COVID-19.</p><p>As for the first aspect, I calculated all the rates for each of the metaphors used to refer to COVID-19 and prepared Figure <ref type="figure" target="#fig_3">1</ref>. To obtain a reliable representation of metaphor use for COVID-related words, and identify their function in a sentence, I set aside some of the instances displayed in WordSmith Tools. Specifically, all cases that were used as titles of the transcribed versions of the debates held in Parliament were treated as literal uses, whereas instances like COVID-related and COVID-free were counted and analysed in terms of metaphor. Based on these considerations, I prepared Figure <ref type="figure" target="#fig_3">1</ref>, which only includes various frequent metaphors, that is, COVID-19 as a STABLE ENTITY, a MOVING ENTITY and a WAR-ENEMY. The metaphors RACE (Rf 1 -Nf 0.01), TIME (Rf 3 -Nf 0.05), PERSON (Rf 4 -Nf 0.07) and ANIMAL (Rf 2 -Nf 0.03) are not included in Figure <ref type="figure" target="#fig_3">1</ref> because of the limited number of instances displayed for each of them.</p><p>Examination of the rates represented in Figure <ref type="figure" target="#fig_3">1</ref> suggests the existence of ongoing change in metaphor use during the period March-September 2020, which is an expected result, given the close link between metaphor and the social world 59 and the development <ref type="bibr">57</ref> Murphy, Semantic Relations and the Lexicon, 20. <ref type="bibr">58</ref> Koller, "Of Critical Importance," 238-40. <ref type="bibr">59</ref> Cameron and Low, "Metaphor and the Social World."</p><p>of the COVID-19 pandemic attested exactly in the months included in PCov. Specifically, three major aspects emerge from the analysis: (1) representations of COVID-19 as a STABLE ENTITY significantly increase in PCov-2, including data from May-June 2020 and decline slightly afterwards; (2) representations of COVID-19 as a MOVING ENTITY increase in May-June and then decline afterwards; (3) metaphors for WAR-ENEMY are not very frequent in the whole corpus but increase in PCov-3.</p><p>First, it is possible to note that the metaphor STABLE ENTITY is prominent in all subcorpora and that there are significant increases over time: the rate is Nf 16.21 in PCov-1 but reaches Nf 21.35 in PCov-2, which means that from April-May the rate is +31.71%, which is a significant rate at p &lt; 0.01 (LL 12.46). Examining the frequency of use, it is also possible to note that there is a slight decline from Nf 21.35 to Nf 20.31 in PCov-2 and PCov-3, which is a Diff of -5.12% (LL 0.44). The fact that these rates are not statistically significant, however, does not affect their relevance to examining trends in diachronic approaches. Indeed, there is a close link between corpus size and the statistical significance of results, and "with very small sample sizes, there may not be a significant relationship between the variables even when the actual relationship between the variables in the population is quite strong". <ref type="bibr">60</ref> The size of PCov, a small corpus, suggests that tests for statistical significance should be interpreted with caution, and the rates should be seen as being indicative of trends.</p><p>The fact that COVID-19 is represented as a STABLE ENTITY, and this metaphor increases in frequency, acquires relevance when reading the results and considering the timeline of the pandemic and its official recognition from the WHO back in March 2020. Indeed, it is possible to suppose that members of the UK Parliament, and by extension the UK population they represent, perceived increasing uncertainty concerning the consequences of the declaration of the pandemic on the whole of society. The outbreak of an unknown disease significantly affected society and prompted the deterioration of mental conditions and the emergence of psychopathologies like depression and anxiety. <ref type="bibr">61</ref> There is a link between the metaphors used and the perception of the danger deriving from COVID-19, and the increasing use of the representation of COVID-19 as a STABLE ENTITY may be due to the awareness of threats deriving from the pandemic. The fact that there is a preference for this kind of metaphor, and that this 60 Jennifer Groscup, "Statistical Principles in Forensic Linguistics," 84. <ref type="bibr">61</ref> Pfefferbaum and North, "Mental Health and the COVID-19 Pandemic."</p><p>increases immediately after the outbreak of the pandemic, may depend on the difficulties faced in controlling the spread of the virus. The whole world showed trust in and commitment towards the advances of medicine and government policies, but populations also experienced the pejoration of health conditions, death and economic immobility stemming from lockdowns. The lockdowns and the experience of mobility restrictions, travel bans, and sanitary measures may have favoured the predominant use of COVID-19 as a STABLE ENTITY, which reflects the sense of immobility generated by the pandemic. At the same time, changing perceptions of the disease favoured a revisitation of this metaphor, acquiring new properties over time.</p><p>COVID-19 depicted as a STABLE ENTITY is characterised by change over time: these instances move from a meaning associated with that of an emergency affecting nations and society, which entails risks and threats ( <ref type="formula">21</ref>), to that linked to a sociopolitical setting that may also combine with Brexit (22). From July 2020, COVID-19 becomes the cause of a threat to society ( <ref type="formula">23</ref>) endorsing increasing uncertainty. (23) … one of the saddest and most challenging aspects of COVID is that it hits society where it is weakest. (PCov-3) COVID-19 has been an immediate risk to citizens' health 62 and is considered "the most severe global health challenge since the Spanish Flu one century ago". <ref type="bibr">63</ref> Linguistically, from July onwards, the COVID-19 pandemic is even depicted as a chapter in a story (24). (24) We must not let the chapter that COVID-19 represents in that story … (PCov-3)</p><p>The use of the word chapter entails the metaphor of COVID-19 as a STABLE ENTITY, possibly being further coloured with other metaphorical traits, and establishes a complex stable entity that is one of the many components of society. Starting from the idea whereby "the selection of the metaphor promotes particular readings of a situation, or, in discourse terms, it may activate a particular frame", 64 the representation of COVID-19 as a chapter suggests that people have an awareness that they should live with a virus pervading society. Further corroborating the idea of immobility is the fact that a chapter has a beginning and an end, but it also has many paragraphs within it, metaphorically concerning all aspects of society that have been affected by the pandemic.</p><p>In light of these considerations, it is possible to suppose that the increasing rate of use of the metaphor STABLE ENTITY may be due to a renewed awareness of the COVID-19 pandemic, which was experienced as an entity touching individuals and the public, provoking deaths and difficult to manage. These considerations find support from studies undertaken within the area of risk communication, like Schneider et al.'s work 65 on <ref type="bibr">62</ref> Finlayson, Jarvis and Lister, "COVID-19 and 'the Public'." <ref type="bibr">63 Cori et al.,</ref>." <ref type="bibr">64</ref> Taylor and Kidgell, "Flu-Like Pandemics and Metaphor Pre-Covid." <ref type="bibr">65 Schneider et al.,</ref><ref type="bibr">" 304.</ref> the relationship between "people's reported health protective behaviours and their levels of risk perception", which partly covers the period selected in the present study. Specifically, they survey UK residents over 10 months, that is, March 2020 -September 2020, and then again in January 2021, and question the temporal-spatial dimensions of risk perception and people's response to COVID-19. <ref type="bibr">Schneider et al. 66</ref> prove that there is a significant positive association between risk perception and behaviour and that "higher levels of risk perception were associated with higher amounts of protective behaviours". This entails the increasing use of the metaphor STABLE ENTITY, possibly being an effect of the changing perception of COVID-19 and the derived risks: the higher the perception of risk, the higher the sense of uncertainty and thus immobility. The use of COVID-19 with the word recovery in PCov-3 (25) further corroborates this aspect and proves the increased perception of risk, while inspiring new approaches to the disease based on resilience. The changing perception of risk also motivated the shift of this metaphor from ENEMY, or also a challenge in PCov-1 and PCov-2 (26), to the cause of that challenge in PCov-3 (27). During the months June-September 2020, the STABLE ENTITY metaphor arises as an uncontrolled side of life after the declaration of a pandemic by the WHO Director. These considerations relate to the second point above concerning the use of the metaphor MOVING ENTITY. The increasing perception of threat derived from COVID-19 may also explain the increasing use of the metaphor of COVID-19 as a MOVING ENTITY: it moves from an Nf of 5.83 in PCov-1 to an Nf of 6.81 in PCov-2, which means an increase of +16.77% in PCov-2 (LL 1.34), and it reduces to an Nf of 5.74 in PCov-3, which means -15.69% in PCov-3 (LL 1.55). These divergences are not all statistically significant, but they have value in the understanding of tendencies of time and the link between metaphor and the pandemic. In this respect, it is possible to suppose that the variation is linked to the increasing awareness of the risks deriving from the pandemic and the perception of COVID-19 as an uncontrolled entity. The association of movement to COVID-19 contributes to shaping this virus as an entity encompassing outbreak (28) and spread (29) and especially in July-September, it is characterised by waves (30) and spikes (31). Moreover, from July onwards, the MOVING ENTITY metaphor shows signs of innovation: COVID-19 starts to be used in figurative contexts dominated by words reminding of its uncontrolled nature. For example, in PCov-3, COVID-19 is used in patterns such as a wave of COVID outbreak (32), or with verbs in the progressive form (33) and recession (34). Moving to the third aspect mentioned above concerning the WAR-ENEMY metaphor, it is possible to note that there is a slight increase in PCov-3, but also that the rates attested for the WAR-ENEMY metaphor are very low in all sub-corpora. Indeed, the rate is Nf 1.79 in PCov-1 and goes up to an Nf of 3.08 in PCov-3, which is +71.76% (LL 5.93, significant at p &lt; 0.05). Different from other metaphors, the WAR-ENEMY metaphor does not undergo significant innovation over time, it being associated with verbs like battle (35) and fight (36) and treated as a challenge (37) in all temporal windows. Similar to other works on the metaphorical representation of COVID-19 undertaken by <ref type="bibr">Semino,</ref><ref type="bibr">67</ref> the data examined reveal that the new disease is depicted as a virus that has "an opponent and [notes] the contrast between winning and losing". Agency is, in fact, expressed in examples like (35)-(36), which contribute to characterising COVID-19 as a disease behaving as an entity to be beaten, and a war that should involve the whole community. The data under examination also reveal metaphors like those observed by <ref type="bibr">Taylor and Kidgell,</ref><ref type="bibr">68</ref> with the occurrence of words such as fight, against, and combat supporting the idea that there are common tendencies when conceptualising the COVID-19 pandemic and other pandemics, and similar framings that may also influence people's thoughts. A peculiar feature of the data included in PCov is that there are no instances of the CANCER metaphor, which is often associated with health in other studies, including the pioneering work on metaphor and illness conducted by Sontag, and Potts and Semino's work 69 on cancer as a metaphor in contemporary American English.</p><p>With the available data, it is difficult to identify factors that, overall, limited the frequency of use of WAR-ENEMY metaphors in parliamentary discourse in the UK. Nonetheless, it is possible to hypothesise that the lower rates observed in PCov-1 and PCov-2 may be a sign of resilience in the UK population and of hope to face the challenges deriving from COVID-19 in the immediate future. At the same time, the higher rate shown in PCov-3 may be due to the increasing numbers of infections and deaths, which stimulated more negative approaches to the pandemic. This has contributed to shaping metaphorical representations of COVID-19 with features that are common to other flu-like diseases that are mostly associated with WAR-ENEMY frames.<ref type="foot" target="#foot_4">70</ref> </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="5.">Conclusions</head><p>The analysis has revealed that, from March 2020 to September 2020, COVID-19 is especially represented metaphorically by members of the UK Parliament.</p><p>From a terminological perspective, COVID-19 is more frequent than coronavirus, whereas other more technical terms are absent in the data. Comparisons of literal and metaphorical uses prove that metaphors are increasingly used over the months at the expense of literal uses, and this may be due to a reconceptualisation of COVID-19 as a disease that is increasingly pervading society, generating a threat and fear.</p><p>Examination of metaphors has revealed that there are uses linked to WAR-ENEMY, which is a feature shared by COVID-19 with other flu-like diseases, as proven in other studies. A novel use is, instead, that derived from the representation of the disease as an entity, both STABLE and a MOVING ENTITY, showing variation in rates over time. The metaphor STABLE ENTITY contributes to depicting COVID-19 as a disease that cannot be controlled easily, thus endorsing immobility, which is the reflex of restrictive measures. At the same time, the use of the metaphor MOVING ENTITY may have been stimulated by the increasing awareness of the uncontrolled nature of the virus and its spread.</p><p>The results corroborate the status of political discourse used in the UK Parliament as a reflex of the changing perceptions around the new disease and provide further support for the close link between language, metaphor, and historical matters. <ref type="bibr">71</ref> Metaphors do not simply have a cognitive dimension that is linked to individuals; rather, they have a complex essence that is characterised by the interaction between diverse spheres, also including social and cultural aspects. <ref type="bibr">72</ref> This means that understanding metaphor use for COVID-related words may unlock personal perceptions, but also social and cultural matters that are linked to a specific historical context, like that of the pandemic. The subjective experience that is reflected in the types of metaphor used by members of the UK Parliament may give access to common perspectives and to the lived experience of an unknown disease. </p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head>1Gössling,</head><label></label><figDesc>Scott and Hall, "Pandemics, Tourism and Global Change"; Dong and Bouey, "Public Mental Health Crisis." 2 Mahlberg and Brookes, "Language and Covid-19"; Fairclough, Critical Discourse Analysis.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_1"><head>3</head><label></label><figDesc>Cameron and Low, "Metaphor and the Social World." 4 Thibodeau, "The Function of Metaphor Framing," 270. 5 Panzeri, Di Paola and Domaneschi, "Does the COVID-19 War," 2.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_2"><head></head><label></label><figDesc>6</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_3"><head>( 1 )</head><label>1</label><figDesc>… when someone develops the symptoms of coronavirus. (PCov-1) (2) … or self-isolation due to COVID-19. (PCov-2)(3) … both the symptoms and contagiousness of COVID in the days ahead.(PCov-3)   </figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_4"><head>( 4 )</head><label>4</label><figDesc>… significant numbers of overseas staff are working on the frontline to battle COVID. (PCov-1) (5) In the fight against this virus, our world-renowned universities, researchers and scientists are indispensable … (PCov-3) (6) … so timing is essential when we are delivering measures to combat the spread of COVID-19. (PCov-1) (7) Of course, COVID has posed huge challenges for us all. (PCov-3)</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_5"><head>( 8 )</head><label>8</label><figDesc>… is it the case that Covid is mutating at such speed that … (PCov-3) (9) … about inadvertently creating a monster in our efforts to slay the dragon of Covid. (PCov-1) (10) Can we have a COVID-19 race equality strategy to ensure that … (PCov-1) (11) … children have been disadvantaged in their education during COVID … (PCov-2)</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_6"><head>( 12 )</head><label>12</label><figDesc>In the age of COVID-19 … (PCov-1) (13) Very little good will come out of COVID-19. (PCov-2) (14) Likewise, as we rebuild after COVID … (PCov-2)(15) … to assess the impact of all COVID-19 recovery strategies as a mechanism for contributing to a fairer, cleaner and more sustainable economy? (PCov-2) (16) … young people have been badly affected by the COVID-19 lockdown.(PCov-3)   </figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_7"><head>( 17 )</head><label>17</label><figDesc>… Covid is not going to go away. (PCov-1) (18) … the arrival of COVID-19 has impacted … (PCov-1) (19) … to prepare for a second wave of COVID this winter. (PCov-3) (20) … on support for the further and higher education sectors during the COVID-19 outbreak. (PCov-2)</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_8"><head>Figure 1 .</head><label>1</label><figDesc>Figure 1. COVID-19 and metaphor in PCov (Nf).</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_9"><head>( 21 )</head><label>21</label><figDesc>… to update travel advice on travelling to areas and countries affected by COVID-19. (PCov-1) (22) With Brexit and then coronavirus, it has become very difficult to get helpers. (PCov-1)</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_10"><head>( 25 )</head><label>25</label><figDesc>… COVID recovery is of course a cross-government priority.(PCov-3)   </figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_11"><head>( 26 )</head><label>26</label><figDesc>… COVID-19 is the major challenge of our generation. (PCov-1) (27) … raises a significant challenge that has emerged from COVID … (PCov-3)</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_12"><head>( 28 )</head><label>28</label><figDesc>… affected by the COVID-19 outbreak. (PCov-1) (29) … COVID-19 has spread rapidly in the social care sector. (PCov-1) (30) … will not be sufficient to prevent a second national wave of COVID-19. (PCov-3) (31) … on the worst-case scenario for a second spike of coronavirus … (PCov-3) 66 Ibid., 304.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_13"><head>( 32 )</head><label>32</label><figDesc>… planning for a potential second wave of the COVID-19 outbreak. (PCov-3) (33) … where COVID is now spiking, will [it] keep the rest of us in lockdown for longer? (PCov-3) (34) … to the uphill challenge of surviving the COVID recession. (PCov-3)</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_14"><head>( 35 )</head><label>35</label><figDesc>… staff are working on the front line to battle COVID. (PCov-1) (36) … doctors and nurses should be urgently deployed to fight COVID-19 … (PCov-1) (37) … to tackling the global challenge presented by COVID-19. (PCov-1)</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_15"><head></head><label></label><figDesc>van Dijk, Teun A. "Politics. Ideology and Discourse." In Encyclopedia of Language &amp; Linguistics, edited by Keith Brown, 728-40. Boston: Elsevier, 2006. Wicke, Philip, and Marianna M. Bolognesi. "Framing COVID-19: How We Conceptualize and Discuss the Pandemic on Twitter." PLoS One 15, no. 9 (2020): e0240010.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_0"><head>Table 1 .</head><label>1</label><figDesc>PCov corpus architecture and size.</figDesc><table><row><cell>Sub-corpus</cell><cell>Time span</cell><cell>Number of texts</cell><cell>No. of tokens</cell></row><row><cell>PCov-1</cell><cell>1 March 2020-30 April 2020</cell><cell>68</cell><cell>178,228</cell></row><row><cell>PCov-2</cell><cell>1 May 2020-30 June 2020</cell><cell>79</cell><cell>174,649</cell></row><row><cell>PCov-3</cell><cell>1 July 2020-3 September 2020</cell><cell>70</cell><cell>165,378</cell></row><row><cell>Total no. of tokens</cell><cell></cell><cell></cell><cell>518,255</cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_1"><head>Table 2 .</head><label>2</label><figDesc>Timeline of the outbreak of COVID-19 in the UK (March-July 2020).</figDesc><table><row><cell>3 March</cell><cell>COVID action plan published</cell></row><row><cell>5 March</cell><cell>First person in the UK dies of COVID-19</cell></row><row><cell>11 March</cell><cell>The pandemic begins</cell></row><row><cell>23 March</cell><cell>First lockdown begins in the UK</cell></row><row><cell>16 April</cell><cell>The lockdown is extended in the UK</cell></row><row><cell>22 April</cell><cell>Peak of COVID-19 cases</cell></row><row><cell>11 May</cell><cell>UK Government's COVID-19 recovery strategy</cell></row><row><cell>1 June</cell><cell>Lockdown measures are eased</cell></row><row><cell>4 July</cell><cell>Social distancing is relaxed</cell></row></table><note><p><p><p><p><p>40  </p>Rayson and Garside, "Comparing Corpora Using Frequency Profiling"; Rayson, "Log-Likelihood Calculator."</p>41  </p>McEnery and Hardie, Corpus Linguistics: Methods, Theory and Practice. 42 Pragglejaz Group, "A Method for Identifying Metaphorically."</p>43 Ibid.   </p></note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_2"><head>Table 3 .</head><label>3</label><figDesc>COVID-related words in the PCov corpus (Rf and Nf per 10,000 words).</figDesc><table><row><cell></cell><cell>COVID-19</cell><cell></cell><cell></cell><cell>Coronavirus</cell><cell>Total</cell><cell></cell></row><row><cell>Sub-corpus</cell><cell>Rf</cell><cell>Nf</cell><cell>Rf</cell><cell>Nf</cell><cell>Rf</cell><cell>Nf</cell></row><row><cell>PCov-1</cell><cell>441</cell><cell>24.74</cell><cell>204</cell><cell>11.44</cell><cell>645</cell><cell>36.18</cell></row><row><cell>PCov-2</cell><cell>563</cell><cell>32.23</cell><cell>138</cell><cell>7.90</cell><cell>701</cell><cell>40.13</cell></row><row><cell>PCov-3</cell><cell>516</cell><cell>31.20</cell><cell>100</cell><cell>6.04</cell><cell>616</cell><cell>37.24</cell></row><row><cell>Total</cell><cell>1,520</cell><cell>29.32</cell><cell>442</cell><cell>8.52</cell><cell>1,962</cell><cell>37.85</cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_3"><head>Table 4 .</head><label>4</label><figDesc>Literal uses of COVID-related words in PCov (Rf and Nf).</figDesc><table><row><cell></cell><cell>COVID</cell><cell></cell><cell>Coronavirus</cell><cell></cell></row><row><cell>Sub-corpus</cell><cell>Rf</cell><cell>Nf</cell><cell>Rf</cell><cell>Nf</cell></row><row><cell>PCov-1</cell><cell>158</cell><cell>8.86</cell><cell>59</cell><cell>3.31</cell></row><row><cell>PCov-2</cell><cell>153</cell><cell>8.76</cell><cell>25</cell><cell>1.43</cell></row><row><cell>PCov-3</cell><cell>145</cell><cell>8.76</cell><cell>19</cell><cell>1.14</cell></row><row><cell>Total</cell><cell>456</cell><cell>8.79</cell><cell>103</cell><cell>1.98</cell></row></table><note><p><p>48  </p>Lakoff and Johnson, Metaphors We Live By; Cameron and Low, "Metaphor and the Social World."</p></note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_4"><head>Table 5 .</head><label>5</label><figDesc>Metaphorical uses of COVID-related words in PCov (Rf and Nf).</figDesc><table><row><cell></cell><cell>COVID</cell><cell></cell><cell>Coronavirus</cell><cell></cell></row><row><cell>Sub-corpus</cell><cell>Rf</cell><cell>Nf</cell><cell>Rf</cell><cell>Nf</cell></row><row><cell>PCov-1</cell><cell>283</cell><cell>15.87</cell><cell>145</cell><cell>8.13</cell></row><row><cell>PCov-2</cell><cell>410</cell><cell>23.47</cell><cell>113</cell><cell>6.47</cell></row><row><cell>PCov-3</cell><cell>371</cell><cell>22.43</cell><cell>81</cell><cell>4.89</cell></row><row><cell>Total</cell><cell>1,064</cell><cell>20.53</cell><cell>339</cell><cell>6.54</cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_5"><head>Table 6 .</head><label>6</label><figDesc>Literal and metaphorical uses of COVID-related words in PCov (Rf and Nf).</figDesc><table><row><cell></cell><cell>Literal uses</cell><cell></cell><cell>Metaphorical uses</cell><cell></cell></row><row><cell>Sub-corpus</cell><cell>Rf</cell><cell>Nf</cell><cell>Rf</cell><cell>Nf</cell></row><row><cell>PCov-1</cell><cell>217</cell><cell>12.17</cell><cell>428</cell><cell>24.01</cell></row><row><cell>PCov-2</cell><cell>178</cell><cell>10.19</cell><cell>523</cell><cell>29.94</cell></row><row><cell>PCov-3</cell><cell>164</cell><cell>9.91</cell><cell>452</cell><cell>27.33</cell></row><row><cell>Total</cell><cell>559</cell><cell>10.78</cell><cell>1,403</cell><cell>27.07</cell></row></table><note><p><p><p><p>49  </p>Semino, "Not Soldiers but Fire-fighters"; Seixas, "War Metaphors in Political Communication on Covid-19."</p>50  </p>Taylor and Kidgell, "Flu-Like Pandemics and Metaphor Pre-Covid"; Taylor, "Pandemics and Metaphor."</p></note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_6"><head>Table 7 .</head><label>7</label><figDesc>Categories for the literal and metaphorical uses of COVID-19 and coronavirus.</figDesc><table><row><cell>Basic meaning</cell><cell>Contextual meaning</cell><cell>Metaphorical use</cell></row><row><cell>COVID-19 as a DISEASE</cell><cell>Coronavirus or disease</cell><cell>No</cell></row><row><cell>COVID-19 as a VIRUS</cell><cell>WAR -ENEMY</cell><cell>Yes</cell></row><row><cell></cell><cell>PERSON</cell><cell>Yes</cell></row><row><cell></cell><cell>ANIMAL</cell><cell>Yes</cell></row><row><cell></cell><cell>TIME</cell><cell>Yes</cell></row><row><cell></cell><cell>RACE</cell><cell>Yes</cell></row><row><cell></cell><cell>STABLE ENTITY</cell><cell>Yes</cell></row><row><cell></cell><cell>MOVING ENTITY</cell><cell>Yes</cell></row></table><note><p><p><p><p><p><p><p><p>51  </p>Charteris-Black, Metaphors of Coronavirus, 43.</p>52  </p>Taylor and Kidgell, "Flu-Like Pandemics and Metaphor Pre-Covid."</p>53  </p>Ibid., 7.</p>54  </p>Sontag, Illness as Metaphor.</p></note></figure>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="7" xml:id="foot_0"><p>Panzeri et al., "Does the COVID-19 War"; Schneider et al., "COVID-19 Risk Perception."</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="8" xml:id="foot_1"><p>Anderson and Semino, "Metaphor," 127; Deignan, Metaphor and Corpus Linguistics. 2 L. LEONE</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="38" xml:id="foot_2"><p>Hansard -UK Parliament Website. https://hansard.parliament.uk/.</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="39" xml:id="foot_3"><p>Ibid.   6   L. LEONE</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="70" xml:id="foot_4"><p>Chiang and Duann, "Conceptual Metaphors for SARS"; Taylor and Kidgell, "Flu-Like Pandemics and Metaphor Pre-Covid';Collins and Koller, Viral Language.   </p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="71" xml:id="foot_5"><p>Labov, Principles of Linguistic Change.   </p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="72" xml:id="foot_6"><p>Cameron and Low, "Metaphor and the Social World." 18 L. LEONE</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="20" xml:id="foot_7"><p>L. LEONE</p></note>
+		</body>
+		<back>
+
+			<div type="acknowledgement">
+<div><head>Acknowledgements</head><p>I am grateful to the anonymous reviewers and to the editors of English Studies for their advice and suggestions for improvements. I would like to thank the audience of the RaAM 14 -Metaphor and <rs type="person">Space Conference</rs> (<rs type="affiliation">Vilnius University, Lithuania</rs> for their discussion and suggestions for improvement of the research included in the present article. The paper is based on a study presented as a poster at the RaAM14 conference, which was awarded the Poster Prize.</p></div>
+			</div>			<div type="annex">
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Disclosure Statement</head><p>No potential conflict of interest was reported by the author(s).</p></div>			</div>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<monogr>
+		<title level="m" type="main">The #ReframeCovid Initiative</title>
+		<author>
+			<persName><surname>Olza</surname></persName>
+		</author>
+		<ptr target="https://www.english-corpora.org/corona/" />
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<monogr>
+		<title level="m" type="main">Not Soldiers but Fire-Fighters</title>
+		<author>
+			<persName><surname>Semino</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="page">51</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<monogr>
+		<title/>
+		<author>
+			<persName><surname>Ibid</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="volume">50</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<monogr>
+		<title level="m" type="main">Acting Like a Hedgehog in Times of Pandemic</title>
+		<author>
+			<persName><surname>Ibid</surname></persName>
+		</author>
+		<author>
+			<persName><surname>See</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Pérez-Sobrino</surname></persName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<monogr>
+		<title level="m" type="main">Not Soldiers but Fire-fighters&quot;; See also Wicke and Bolognesi</title>
+		<author>
+			<persName><surname>Semino</surname></persName>
+		</author>
+		<idno>COVID-19</idno>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<monogr>
+		<author>
+			<persName><forename type="first">Charteris-Black</forename></persName>
+		</author>
+		<title level="m">Metaphors of Coronavirus</title>
+		<imprint>
+			<biblScope unit="page">32</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<monogr>
+		<title level="m" type="main">War Metaphors in Political Communication&quot;; see Charteris-Black</title>
+		<author>
+			<persName><surname>Seixas</surname></persName>
+		</author>
+		<imprint>
+			<publisher>Metaphors of Coronavirus</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title level="a" type="main">War Metaphors in Political Communication on Covid-19</title>
+		<author>
+			<persName><surname>Seixas</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">29 Ibid</title>
+		<imprint>
+			<biblScope unit="volume">4</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">Charteris-Black</forename></persName>
+		</author>
+		<imprint>
+			<publisher>Metaphors of Coronavirus</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<monogr>
+		<title/>
+		<author>
+			<persName><surname>Ibid</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="page">36</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title level="a" type="main">Metaphor</title>
+		<author>
+			<persName><forename type="first">Wendy</forename><surname>Anderson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Elena</forename><surname>Semino</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">The Routledge Handbook of English Language and Digital Humanities</title>
+		<editor>
+			<persName><forename type="first">Svenja</forename><surname>Adolphs</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">Dawn</forename><surname>Knight</surname></persName>
+		</editor>
+		<meeting><address><addrLine>London</addrLine></address></meeting>
+		<imprint>
+			<publisher>Routledge</publisher>
+			<date type="published" when="2020">2020</date>
+			<biblScope unit="page" from="125" to="142" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title level="a" type="main">Discursive Metaphorical Frames in Newspaper Texts on Language Change. Analyzing Social Meanings of Metaphor in Public Discourse</title>
+		<author>
+			<persName><forename type="first">Ksenija</forename><surname>Bogetić</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Metaphor and the Social World</title>
+		<imprint>
+			<biblScope unit="volume">9</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="1" to="31" />
+			<date type="published" when="2019">2019</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<title level="a" type="main">Metaphor and the Social World. Introduction to the First Issue</title>
+		<author>
+			<persName><forename type="first">Lynne</forename><surname>Cameron</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Graham</forename><surname>Low</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Metaphor and the Social World</title>
+		<imprint>
+			<biblScope unit="volume">1</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="1" to="5" />
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<monogr>
+		<author>
+			<persName><forename type="first">Jonathan</forename><surname>Charteris-Black</surname></persName>
+		</author>
+		<title level="m">Metaphors of Coronavirus. Invisible Enemy or Zombie Apocalypse? Cham: Palgrave Macmillan</title>
+		<imprint>
+			<date type="published" when="2021">2021</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<title level="a" type="main">Conceptual Metaphors for SARS: &apos;War&apos; Between Whom?</title>
+		<author>
+			<persName><forename type="first">Wenyu</forename><surname>Chiang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Ren-Feng</forename><surname>Duann</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Discourse &amp; Society</title>
+		<imprint>
+			<biblScope unit="volume">18</biblScope>
+			<biblScope unit="issue">5</biblScope>
+			<biblScope unit="page" from="579" to="602" />
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<monogr>
+		<title level="m" type="main">Viral Language: Analysing the COVID-19 Pandemic Public Discourse</title>
+		<author>
+			<persName><forename type="first">Luke</forename><surname>Collins</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Veronica</forename><surname>Koller</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2024">2024</date>
+			<publisher>Routledge</publisher>
+			<pubPlace>London</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<title level="a" type="main">Risk Perception and COVID-19</title>
+		<author>
+			<persName><forename type="first">Liliana</forename><surname>Cori</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Fabrizio</forename><surname>Bianchi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Ennio</forename><surname>Cadum</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Carmen</forename><surname>Anthonj</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">International Journal of Environmental Research and Public Health</title>
+		<imprint>
+			<biblScope unit="volume">17</biblScope>
+			<biblScope unit="issue">9</biblScope>
+			<biblScope unit="page">3114</biblScope>
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<monogr>
+		<author>
+			<persName><forename type="first">Alice</forename><surname>Deignan</surname></persName>
+		</author>
+		<title level="m">Metaphor and Corpus Linguistics. Amsterdam: John Benjamins</title>
+		<imprint>
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<analytic>
+		<title level="a" type="main">Public Mental Health Crisis during COVID-19 Pandemic, China</title>
+		<author>
+			<persName><forename type="first">Lu</forename><surname>Dong</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Jennifer</forename><surname>Bouey</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Emerging Infectious Diseases</title>
+		<imprint>
+			<biblScope unit="volume">26</biblScope>
+			<biblScope unit="issue">7</biblScope>
+			<biblScope unit="page" from="1616" to="1618" />
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<analytic>
+		<title level="a" type="main">A Discourse Dynamics Exploration of Terminology for Covid-19 in Professional and Public Discourse. A Frame-Based Approach. Terminology</title>
+		<author>
+			<persName><forename type="first">Jihua</forename><surname>Dong</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Shuai</forename><surname>Dong</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Louisa</forename><surname>Dong</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Buckingham</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">International Journal of Theoretical and Applied Issues in Specialized Communication</title>
+		<imprint>
+			<biblScope unit="volume">29</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="224" to="251" />
+			<date type="published" when="2023">2023</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<monogr>
+		<author>
+			<persName><forename type="first">Norman</forename><surname>Fairclough</surname></persName>
+		</author>
+		<title level="m">Critical Discourse Analysis</title>
+		<meeting><address><addrLine>London</addrLine></address></meeting>
+		<imprint>
+			<publisher>Longman</publisher>
+			<date type="published" when="1995">1995</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<analytic>
+		<title level="a" type="main">Covid-19 -Navigating the Uncharted</title>
+		<author>
+			<persName><forename type="first">Anthony</forename><forename type="middle">S</forename><surname>Fauci</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">Clifford</forename><surname>Lane</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Robert</forename><forename type="middle">R</forename><surname>Redfield</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">New England Journal of Medicine</title>
+		<imprint>
+			<biblScope unit="volume">382</biblScope>
+			<biblScope unit="issue">13</biblScope>
+			<biblScope unit="page" from="1268" to="1269" />
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<analytic>
+		<title level="a" type="main">COVID-19 and &apos;the Public&apos;: U.K. Government, Discourse and the British Political Tradition</title>
+		<author>
+			<persName><forename type="first">Alan</forename><surname>Finlayson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Lee</forename><surname>Jarvis</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Michael</forename><surname>Lister</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Contemporary Politics</title>
+		<imprint>
+			<biblScope unit="volume">29</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="339" to="356" />
+			<date type="published" when="2023">2023</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<analytic>
+		<title level="a" type="main">Individuals&apos; Conceptions of COVID-19 Pandemic through Metaphor Analysis</title>
+		<author>
+			<persName><forename type="first">Ayşe</forename><surname>Gök</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Ahmet</forename><surname>Kara</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Current Psychology</title>
+		<imprint>
+			<biblScope unit="volume">41</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="449" to="458" />
+			<date type="published" when="2022">2022</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<analytic>
+		<title level="a" type="main">Pandemics, Tourism and Global Change: A Rapid Assessment of COVID-19</title>
+		<author>
+			<persName><forename type="first">Stefan</forename><surname>Gössling</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Daniel</forename><surname>Scott</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Michael</forename><forename type="middle">C</forename><surname>Hall</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Sustainable Tourism</title>
+		<imprint>
+			<biblScope unit="volume">29</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="1" to="20" />
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<analytic>
+		<title level="a" type="main">Statistical Principles in Forensic Linguistics</title>
+		<author>
+			<persName><forename type="first">Jennifer</forename><surname>Groscup</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Research Methods in Forensic Psychology</title>
+		<editor>
+			<persName><forename type="first">Barry</forename><surname>Rosenfeld</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">Steven</forename><forename type="middle">S D</forename><surname>Penrod</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Hoboken, NJ</addrLine></address></meeting>
+		<imprint>
+			<publisher>John Wiley and Sons</publisher>
+			<date type="published" when="2011">2011</date>
+			<biblScope unit="page" from="78" to="101" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">Hansard -Uk Parliament</forename><surname>Website</surname></persName>
+		</author>
+		<ptr target="https://hansard.parliament.uk/" />
+		<imprint>
+			<date type="published" when="2025-09-26">26 September 2025</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b27">
+	<analytic>
+		<title level="a" type="main">CQPweb -Combining Power, Flexibility and Usability in a Corpus Analysis Tool</title>
+		<author>
+			<persName><forename type="first">Andrew</forename><surname>Hardie</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">International Journal of Corpus Linguistics</title>
+		<imprint>
+			<biblScope unit="volume">17</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="380" to="409" />
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b28">
+	<analytic>
+		<title level="a" type="main">Killer Bug&apos;, and &apos;Chinese Virus&apos;: A Corpus-Assisted Discourse Analysis of Lexical Choices in Early UK Press Coverage of the COVID-19 Pandemic</title>
+		<author>
+			<persName><forename type="first">Ursula</forename><surname>Kania</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Frontiers in Artificial Intelligence</title>
+		<imprint>
+			<biblScope unit="volume">5</biblScope>
+			<biblScope unit="page">970972</biblScope>
+			<date type="published" when="2022">2022</date>
+		</imprint>
+	</monogr>
+	<note>Snake Flu</note>
+</biblStruct>
+
+<biblStruct xml:id="b29">
+	<analytic>
+		<title level="a" type="main">Corpus-Based Critical Discourse Analysis of the Covid-19 Pandemic Discourse in the World Health Organization Director-General&apos;s Speeches</title>
+		<author>
+			<persName><forename type="first">Baramee</forename><surname>Kheovichai</surname></persName>
+		</author>
+		<ptr target="https://corporadiscourse.com/book-of-abstracts/" />
+	</analytic>
+	<monogr>
+		<title level="m">#cads2020. Corpora &amp; Discourse. Book of Abstracts</title>
+		<imprint>
+			<date type="published" when="2020-07">2020. July 2020</date>
+			<biblScope unit="page">89</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b30">
+	<analytic>
+		<title level="a" type="main">Of Critical Importance: Using Electronic Text Corpora to Study Metaphor in Business Media Discourse</title>
+		<author>
+			<persName><forename type="first">Veronika</forename><surname>Koller</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Corpus-Based Approaches to Metaphor and Metonymy</title>
+		<editor>
+			<persName><forename type="first">Anatol</forename><surname>Stefanowitsch</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">Stefan</forename><surname>Th</surname></persName>
+		</editor>
+		<editor>
+			<persName><surname>Gries</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Berlin</addrLine></address></meeting>
+		<imprint>
+			<publisher>De Gruyter</publisher>
+			<date type="published" when="2006">2006</date>
+			<biblScope unit="page" from="237" to="267" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b31">
+	<monogr>
+		<title level="m" type="main">Principles of Linguistic Change: Cognitive and Cultural Factors</title>
+		<author>
+			<persName><forename type="first">William</forename><surname>Labov</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2010">2010</date>
+			<publisher>Wiley-Blackwell</publisher>
+			<biblScope unit="volume">3</biblScope>
+			<pubPlace>Malden</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b32">
+	<monogr>
+		<title level="m" type="main">Metaphors We Live By</title>
+		<author>
+			<persName><forename type="first">George</forename><surname>Lakoff</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Mark</forename><surname>Johnson</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1980">1980</date>
+			<publisher>The University of Chicago Press</publisher>
+			<pubPlace>Chicago</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b33">
+	<analytic>
+		<title level="a" type="main">Language and Covid-19. Corpus Linguistics and the Social Reality of the Pandemic</title>
+		<author>
+			<persName><forename type="first">Michaela</forename><surname>Mahlberg</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Gavin</forename><surname>Brookes</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">International Journal of Corpus Linguistics</title>
+		<imprint>
+			<biblScope unit="volume">26</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="441" to="443" />
+			<date type="published" when="2021">2021</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b34">
+	<monogr>
+		<author>
+			<persName><forename type="first">Tony</forename><surname>Mcenery</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Andrew</forename><surname>Hardie</surname></persName>
+		</author>
+		<title level="m">Corpus Linguistics: Methods, Theory and Practice</title>
+		<meeting><address><addrLine>Cambridge</addrLine></address></meeting>
+		<imprint>
+			<publisher>Cambridge University Press</publisher>
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b35">
+	<monogr>
+		<title level="m" type="main">Semantic Relations and the Lexicon. Antonymy, Synonymy, and Other Paradigms</title>
+		<author>
+			<persName><forename type="first">Lynne</forename><forename type="middle">M</forename><surname>Murphy</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2003">2003</date>
+			<publisher>Cambridge University Press</publisher>
+			<pubPlace>Cambridge</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b36">
+	<analytic>
+		<title level="a" type="main">The #ReframeCovid Initiative. From Twitter to Society via Metaphor</title>
+		<author>
+			<persName><forename type="first">Inés</forename><surname>Olza</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Veronika</forename><surname>Koller</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Iraide</forename><surname>Ibarretxe-Antuñano</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Paula</forename><surname>Perez-Sobrino</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Elena</forename><surname>Semino</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Metaphor and the Social World</title>
+		<imprint>
+			<biblScope unit="volume">11</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="98" to="120" />
+			<date type="published" when="2021">2021</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b37">
+	<analytic>
+		<title level="a" type="main">Does the COVID-19 War Metaphor Influence Reasoning?</title>
+		<author>
+			<persName><forename type="first">Francesca</forename><surname>Panzeri</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Simone</forename><surname>Di</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Paola</forename></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Filippo</forename><surname>Domaneschi</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">PLoSONE</title>
+		<imprint>
+			<biblScope unit="volume">16</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page">250651</biblScope>
+			<date type="published" when="2021">2021</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b38">
+	<analytic>
+		<title level="a" type="main">Acting Like a Hedgehog in Times of Pandemic: Metaphorical Creativity in the #ReframeCovid Collection</title>
+		<author>
+			<persName><forename type="first">Paula</forename><surname>Pérez-Sobrino</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Elena</forename><surname>Semino</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Metaphor and Symbol</title>
+		<imprint>
+			<biblScope unit="volume">37</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="127" to="139" />
+			<date type="published" when="2022">2022</date>
+		</imprint>
+	</monogr>
+	<note>Iraide Ibarretxe-Antuñano, Veronika Koller, and Inés Olza</note>
+</biblStruct>
+
+<biblStruct xml:id="b39">
+	<analytic>
+		<title level="a" type="main">Mental Health and the COVID-19 Pandemic</title>
+		<author>
+			<persName><forename type="first">Betty</forename><surname>Pfefferbaum</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Carol</forename><forename type="middle">S</forename><surname>North</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">New England Journal of Medicine</title>
+		<imprint>
+			<biblScope unit="volume">383</biblScope>
+			<biblScope unit="page" from="510" to="512" />
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b40">
+	<analytic>
+		<title level="a" type="main">Cancer as a Metaphor</title>
+		<author>
+			<persName><forename type="first">Amanda</forename><surname>Potts</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Elena</forename><surname>Semino</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Metaphor &amp; Symbol</title>
+		<imprint>
+			<biblScope unit="volume">34</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="81" to="95" />
+			<date type="published" when="2019">2019</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b41">
+	<analytic>
+		<title level="a" type="main">MIP: A Method for Identifying Metaphorically Used Words in Discourse</title>
+		<author>
+			<persName><forename type="first">Pragglejaz</forename><surname>Group</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Metaphor and Symbol</title>
+		<imprint>
+			<biblScope unit="volume">22</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="1" to="39" />
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b42">
+	<analytic>
+		<title level="a" type="main">Comparing Corpora Using Frequency Profiling</title>
+		<author>
+			<persName><forename type="first">Paul</forename><surname>Rayson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Roger</forename><surname>Garside</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Hong</forename><surname>Kong</surname></persName>
+		</author>
+		<ptr target="https://eprints.lancs.ac.uk/id/eprint/11882/1/rg_acl2000.pdf" />
+	</analytic>
+	<monogr>
+		<title level="m">Proceedings of the Workshop on Comparing Corpora, Held in Conjunction with the 38th Annual Meeting of the Association for Computational Linguistics (ACL 2000)</title>
+		<meeting>the Workshop on Comparing Corpora, Held in Conjunction with the 38th Annual Meeting of the Association for Computational Linguistics (ACL 2000)</meeting>
+		<imprint>
+			<date type="published" when="2000-09">1-8 October 2000. 2000. September 2024</date>
+			<biblScope unit="page">21</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b43">
+	<analytic>
+		<title level="a" type="main">Log-Likelihood Calculator</title>
+		<author>
+			<persName><forename type="first">Paul</forename><surname>Rayson</surname></persName>
+		</author>
+		<ptr target="https://ucrel.lancs.ac.uk/llwizard.html" />
+	</analytic>
+	<monogr>
+		<title level="m">UCREL Web Server</title>
+		<imprint>
+			<date type="published" when="2008-09">2008. September 2024</date>
+			<biblScope unit="volume">21</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b44">
+	<analytic>
+		<title level="a" type="main">Book Review: Viral Language: Analysing the Covid-19 Pandemic in Public Discourse by Luke C. Collins and Veronika Koller</title>
+		<author>
+			<persName><forename type="first">Alawia</forename><surname>Rumadan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Patty</forename><forename type="middle">Iha</forename><surname>Tuti</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Immanuela</forename><surname>Hasan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Hardianto</forename><surname>Marthen</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Hitimala</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">European Journal of Communication</title>
+		<imprint>
+			<biblScope unit="volume">40</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="90" to="91" />
+			<date type="published" when="2025">2025</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b45">
+	<analytic>
+		<title level="a" type="main">COVID-19 Risk Perception: A Longitudinal Analysis of its Predictors and Associations with Health Protective Behaviours in the United Kingdom</title>
+		<author>
+			<persName><forename type="first">Claudia</forename><forename type="middle">R</forename><surname>Schneider</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Sarah</forename><surname>Dryhurst</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">John</forename><surname>Kerr</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Alexandra</forename><forename type="middle">L J</forename><surname>Freeman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Gabriel</forename><surname>Recchia</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">David</forename><surname>Spiegelhalter</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Sander</forename><surname>Van Der Linden</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Risk Research</title>
+		<imprint>
+			<biblScope unit="volume">24</biblScope>
+			<biblScope unit="issue">3-4</biblScope>
+			<biblScope unit="page" from="294" to="313" />
+			<date type="published" when="2021">2021</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b46">
+	<analytic>
+		<title level="a" type="main">War Metaphors in Political Communication on Covid-19</title>
+		<author>
+			<persName><forename type="first">Castro</forename><forename type="middle">E</forename><surname>Seixas</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Frontiers in Sociology</title>
+		<imprint>
+			<biblScope unit="volume">5</biblScope>
+			<biblScope unit="page" from="1" to="11" />
+			<date type="published" when="2021">2021</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b47">
+	<analytic>
+		<title level="a" type="main">Not Soldiers but Fire-Fighters&apos; -Metaphors and Covid-19</title>
+		<author>
+			<persName><forename type="first">Elena</forename><surname>Semino</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Health Communication</title>
+		<imprint>
+			<biblScope unit="volume">36</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="50" to="58" />
+			<date type="published" when="2021">2021</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b48">
+	<monogr>
+		<author>
+			<persName><forename type="first">Susan</forename><surname>Sontag</surname></persName>
+		</author>
+		<title level="m">Illness as Metaphor</title>
+		<meeting><address><addrLine>New York</addrLine></address></meeting>
+		<imprint>
+			<publisher>Farrar, Straus and Giroux</publisher>
+			<date type="published" when="1978">1978</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b49">
+	<analytic>
+		<title level="a" type="main">Address Term and of Stance-Taking in the Discussion of Wuhan Diary in Weibo</title>
+		<author>
+			<persName><forename type="first">Yingnian</forename><surname>Tao</surname></persName>
+		</author>
+		<ptr target="https://corporadiscourse.com/book-of-abstracts/" />
+	</analytic>
+	<monogr>
+		<title level="m">#cads2020. Corpora &amp; Discourse. Book of Abstracts</title>
+		<imprint>
+			<date type="published" when="2020-07">2020. July 2020</date>
+			<biblScope unit="page">116</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b50">
+	<analytic>
+		<title level="a" type="main">Pandemics and Metaphor: A Historical Perspective</title>
+		<author>
+			<persName><forename type="first">Charlotte</forename><surname>Taylor</surname></persName>
+		</author>
+		<ptr target="https://corporadiscourse.com/book-of-abstracts/" />
+	</analytic>
+	<monogr>
+		<title level="m">#cads2020. Corpora &amp; Discourse. Book of Abstracts</title>
+		<imprint>
+			<date type="published" when="2020-07">2020. July 2020</date>
+			<biblScope unit="volume">26</biblScope>
+			<biblScope unit="page">118</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b51">
+	<analytic>
+		<title level="a" type="main">Flu-Like Pandemics and Metaphor Pre-Covid: A Corpus Investigation</title>
+		<author>
+			<persName><forename type="first">Charlotte</forename><surname>Taylor</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Jasmin</forename><surname>Kidgell</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Discourse, Context &amp; Media</title>
+		<imprint>
+			<biblScope unit="volume">41</biblScope>
+			<biblScope unit="page">100503</biblScope>
+			<date type="published" when="2021">2021</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b52">
+	<analytic>
+		<title level="a" type="main">The Function of Metaphor Framing, Deliberate or Otherwise, in a Social World</title>
+		<author>
+			<persName><forename type="first">Paul</forename><surname>Thibodeau</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Metaphor and the Social World</title>
+		<imprint>
+			<biblScope unit="volume">7</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="270" to="290" />
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b53">
+	<monogr>
+		<title/>
+		<author>
+			<persName><surname>Uk Parliament</surname></persName>
+		</author>
+		<ptr target="https://hansard.parliament.uk/" />
+		<imprint>
+			<date type="published" when="2024-10">October 2024</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

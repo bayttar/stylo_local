@@ -1,0 +1,975 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Relational Time, Female Transgenerational Bonds and Herstory in Linda Grant&apos;s The Story of the Forest (2023)</title>
+				<funder>
+					<orgName type="full">European Regional Development Fund</orgName>
+					<orgName type="abbreviated">ERDF</orgName>
+				</funder>
+				<funder ref="#_EpG9H6F">
+					<orgName type="full">Spanish Ministry of Science and Innovation</orgName>
+				</funder>
+				<funder>
+					<orgName type="full">Government of Aragón</orgName>
+				</funder>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author role="corresp">
+							<persName><forename type="first">Silvia</forename><surname>Pellicer-Ortín</surname></persName>
+							<email>spellice@unizar.es</email>
+							<affiliation key="aff0">
+								<orgName type="department">Department of English and German Philology</orgName>
+								<orgName type="institution">Universidad de Zaragoza</orgName>
+								<address>
+									<country key="ES">Spain</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff1">
+								<orgName type="department">Facultad de Educación</orgName>
+								<orgName type="institution">Universidad de Zaragoza</orgName>
+								<address>
+									<addrLine>C7 Pedro Cerbuna 12 50009</addrLine>
+									<settlement>Zaragoza</settlement>
+									<country key="ES">Spain</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Relational Time, Female Transgenerational Bonds and Herstory in Linda Grant&apos;s The Story of the Forest (2023)</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date/>
+						</imprint>
+					</monogr>
+					<idno type="MD5">CD6DF7DBA1CFB5E25D76A6D8616A39A8</idno>
+					<idno type="DOI">10.1080/00111619.2026.2623962</idno>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.0" ident="GROBID" when="2026-02-25T19:53+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>Focusing on Grant's 2023 novel The Story of the Forest, this article explores how British-Jewish writer Linda Grant revitalizes the Jewish-British family saga by following four generations of Jewish women from a 1913 encounter in a Baltic forest to their eventual settlement in Liverpool. Drawing on theories of transgenerational and relational memory, Jewish feminist criticism, and contemporary feminist conceptions of generational and relational time, the analysis reveals how the novel constructs Jewish memory as transmitted through women's stories. Grant transforms the traditional male-centered hero's journey into a feminist, female-driven quest, positioning women as key agents in preserving memory and reshaping historical narratives. The article argues that this relational and feminist approach addresses the absence of female role models in Jewish historiography, reimagining fragmented Jewish female identity as interconnected across generations. Moreover, it offers a lens to understand the experiences of other women whose histories reveal the transformative power of female relationality in times of crisis.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Introduction: Identity and Diasporic Crises in Contemporary Fiction</head><p>In line with Julia Kuznetski, Chiara Battisti and Silvia Pellicer-Ortín, "the third decade of the twenty-first century is being marked by a polycrisis, which appears unprecedented" (1) due to the still-felt effects of the Covid-19 pandemic, the armed conflicts in Ukraine and the Middle East, global economic, energy, and security crises, shifting geopolitical changes, and the continuing climate emergency. Yet Lauren Berlant's argument that "crisis is not exceptional to history or consciousness but a process embedded in the ordinary that unfolds in stories about navigating what is overwhelming" (10) should also be borne in mind. To contextualize this discussion more clearly, it is useful to note that the twentieth and the first quarter of the twentyfirst century was dominated by multiple crises that generated "an array of individually and collectively experienced stressors of varying degrees of intensity that interact with multiple characteristics of the person and environment to produce diverse outcomes that evolve over time" <ref type="bibr">(Norris 173)</ref>. Thus, crises should be understood as phenomena that "resonate differently at different times and may only be grasped when viewed across the scales of both history and culture" <ref type="bibr">(Kuznetski et al. 2</ref>). Drawing on notions of "scalar literacy" or "scale critique" <ref type="bibr">(Clark, Value of Ecocriticism; Heise; Woods)</ref> to understand the intersection of local and global processes in relation to memory, migration and ecology, crises should be perceived on multiple scales because of intricate, multidirectional and entangled historical processes <ref type="bibr">(Kuznetski et al. 3</ref>). In keeping with these ideas, cultural and literary representations of crises can give "sensuous representation to scales in space or time that greatly exceed immediate perception" <ref type="bibr">(Clark,</ref><ref type="bibr">Value of Ecocriticism 39)</ref>. This means that literary narratives make it possible to operate on multiple scales at once and thus grasp the relationality of crises across space and time <ref type="bibr">(Kuznetski and Pellicer-Ortín)</ref>. Literature provides a space to confront trauma and/or episodes of crisis, giving voice to ostracized groups and inviting readers to empathize with their experiences <ref type="bibr">(Hartman, "</ref>Trauma within the Limits of Literature"; Henke; Rothberg). In this sense, literary texts become interpretive frameworks through which readers can engage affectively and critically with historical ruptures. Just as, in Berlant's view, crises are not new to humanity, their representation through cultural artifacts should be understood as a coping mechanism that has accompanied societies over time <ref type="bibr">(Bloom)</ref>.</p><p>In Merve Sarikaya's words, "among various forms of crisis and limits producing global impacts in the early twenty-first century, migration flows have determined both the physical and metaphorical boundaries between the privileged and underprivileged groups" (45). Sarikaya sees migration as displacement and relocation, arguing that migration is not only a movement from one place to another but also a way of being in the world <ref type="bibr">(48)</ref>. It becomes evident that, "since the early 1990s, the political and cultural realities of global migration have led to a growing interest in the different forms of 'diasporic' existence and identity" <ref type="bibr">(Baronian et al. 9)</ref>, which has made it difficult to decide on a universal meaning of diaspora. Following Marianne Hirsch and Nancy K. Miller's theories, diaspora should be understood as something "performative, multidimensional, plural, fluid and in constant production" (3). Accordingly, and within the context of the crisis in the Anglosphere examined in this Special Issue, many contemporary narratives seem to have absorbed, reproduced and even deconstructed those contemporary discourses that reflect on the critical relationship between individual and collective constructions of memory and identity in the diasporic context. This is especially the case for those communities that have endured personal or inherited experiences of exile and migration. As Sue Vice has explained, "while the notion of exile makes for a 'compelling' literary representation <ref type="bibr">[. . .]</ref>, not least in its intercultural and often multilingual form, these works also convey the terrible cost of displacement and the events occasioning it" (53).</p><p>By relying on the relational and transgenerational component of Jewish memory and identity along with Jewish feminist scholarship, as well as contemporary feminist views on generational/relational time, the aim of this study is to examine the narrative mechanisms displayed in The Story of the Forest to construct a conception of Jewish memory and history as something that is not rooted in a specific place but transmitted generationally by women through stories and myths. I will try to demonstrate that this nonlinear and relational approach to time and the promotion of female transgenerational bonds helps Grant display a relevant feminist message by transforming the traditional hero's quest into a heroine's journey and depicting female characters who are the active makers of Jewish memory and "herstory" in times of crisis.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>British-Jewish Women Writers, with a Focus on Linda Grant</head><p>Focusing on the representations of crises related to diasporic and fragmented identities, contemporary British-Jewish writers tend to struggle with their alien identities as part of their liminal role as successive generations of Jewish immigrants and Holocaust survivors. They often trace the memories of their ancestors in their literary creations and thus produce works infused with a deep sense of fragmentation and dislocation <ref type="bibr">(Brauner, Contemporary British and Irish Fiction; Gilbert; Stähler)</ref>. When Jewish immigrants attempted to adapt to their new post-Holocaust life in Britain, the inclusion of their own culture into British culture was not easy. While British identity has often been perceived as quite monolithic and intensely attached to the past of the Empire and the British territory, Jewishness has been characterized by its "extraterritorial" (Cheyette 21) and diasporic nature (Stähler 139). As Ruth Gilbert puts it, This lack of rootedness [. . .] is a recurring theme in other second and third generation Jewish writing. [. . .] for many British Jews of Eastern European heritage, this is further complicated by the fact that places of Jewish history were brutally annihilated in the Holocaust. The rupture from the past is, in this respect, unnaturally abrupt and deeply traumatic and many diasporic Jews have to rely on memory rather than place in order to make and renew identities. (5) British-Jewish women writers in particular, including Linda Grant, Anne Karpf, Zina Rohan, and Lisa Appignanesi, have employed a variety of liminal literary practices to confront their and their families' troubled experiences and reclaim their identities, memories and visibility as women, Jewish, migrants and artists in the post-Holocaust world. In Nadia Valman's words, these women writers "have returned again and again to the experience of alienation, of living between worlds, as a source of critique and creativity" (2). While seeking to engage with broader globalized society, Jewish women often face tension between the traditional roles imposed by a male-dominated Jewish culture and a matriarchal tradition that places the family at the heart of Jewish values <ref type="bibr">(Baskin; Hartman, Feminism Encounters Traditional Judaism; Ross)</ref>. Building on this perspective, Adrienne Baker highlights the paradoxical position of Jewish women, stating that, in spite of their exclusion, they have created a parallel culture and emerged as "strong and capable" (215). Hence, it is my contention that the artistic creations of many of these women indicate the capacity of art to negotiate their diasporic identities and demand changes within Jewish tradition. As early as the turn of the twentieth century, novelist Tamar Yellin claimed that being a British-Jewish woman "means to live in a vortex of contradictory forces: loss, longing, pride, guilt. Exile and alienation. Only by writing is it possible to harness these forces and make [her] contradictions whole" (57). It follows that twenty-first-century writings by British-Jewish women may act as powerful sites to look for the unreported versions of "herstory," identity, memory and the sense of femininity of a group of authors who have not received the attention they fully deserve.</p><p>These questions permeate the works of the third-generation British-Jewish writer Linda Grant, born in Liverpool in 1951 as a child of Russian and Polish Jewish immigrants and grandchild of Holocaust survivors. Since her first publication in 1993, her creations have addressed the role of place in the construction of Jewish identities, the burden of Holocaust memories in subsequent generations, and the journey of rebellious female characters in search of personhood. According to David Brauner, for Grant, "memory is intrinsically, inescapably imaginative, [. . .] (re)created, (re)invented, and (re) constructed; and therefore identity itself is neither stable nor fixed" (The Edinburgh Companion, 211). In fact, Grant acknowledged the relevance of memory and storytelling to her writing when she declared in an interview that "memory is absolutely, totally essential to everything that I write. <ref type="bibr">[. . .]</ref> Any community that has migrated really has to be dependent on memory and create a mythology around memory, [. . .] If you suppress this, the memories will not reach the next generation" (Pellicer-Ortín, "Linda . Therefore, Grant can be considered an active agent in the making of "herstory" (Andermahr and Pellicer-Ortín; Morgan), reclaiming women's voices and experiences within Jewish diasporic narratives. Through her portrayals of female protagonists and their intergenerational struggles with episodes of identity crisis, memory, trauma, and belonging, she challenges dominant historical discourses and insists on a gendered re-inscription of cultural memory. Likewise, she has contributed to redefining the "contemporary Jewish-British family saga" -a sub-genre that traces a Jewish family in Britain through several generations and where the Jewish family is not taken "for granted as a secure background" <ref type="bibr">(Tylee 17</ref>). These families are depicted living in a state of anxiety in the post-Holocaust world, and they are bound to traditional values, which usually become a burden for Jewish women. Since the 1990s, the family seems to have become a battlefield for many Jewish women, who, influenced by the echoes of the different women's movements, have started to question their family roles. This literary reimagining resonates strongly with the current global crisis of identities, particularly among women and displaced individuals. In a world marked by ongoing exilesdue to war, persecution, environmental disasters or economic instability -and an insistent questioning of gender models, such narratives can speak to broader experiences of the dislocation, negotiation and redefinition of the female self in contexts of identity and value crises.</p><p>Even though it seemed that Grant had left the family saga genre behind in her two previous works -The Dark Circle (2016) and A Stranger's City (2019) -, her latest novel, The Story of the Forest (2023), shortlisted for the Orwell Prize for Political Fiction, takes up the Jewish family saga with renewed vigor. The narrative starts in 1913 when the female heroine, Mina Mendel, a teenager coming from a prosperous Jewish family settled in Riga, ventures into a forest near the Baltic Sea to search for mushrooms. There, she encounters a group of young men who assert themselves as Bolsheviks and who teach her that the old world order is disappearing. This incident not only becomes the main reason for her and her brother to leave Latvia in search of the Promised Land in America, even if this journey ends up anchoring them in Liverpool, but also acts as the foundational family myth. Clare Clark has described the novel in the following terms: "Tracing the arc of Mina's life over the full span of the 20th century, The Story of the Forest defies expectation. It is a sprawling family epic elegantly contained in fewer than 300 pages, a story of Jewish assimilation from the margins of Jewish history. The horrors of persecution and pogroms, of gas and genocide, take place off stage and to other people." Filled with metafictional allusions, this book contains the entangled stories of four Jewish generations, of those who survived the Holocaust and those who did not, and displays multifarious voices bearing witness to different political crises in the twentieth century. As Alex Clark claims in his review of this novel, "Linda Grant's ninth novel continues her exploration of how chance, contingency and unintended consequences intersect with history's larger movements; how personal narratives are shaped not merely by what we think of as inescapable forces and events, but by moments of randomness and whimsy."</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>The Mythical Construction of Jewish Memory: Foreigners in Britain</head><p>The Story of the Forest starts with an incident that establishes an elaborately layered narrative voice combining fairy-tale conventions with metafictional commentary:</p><p>In the olden times, in the old country of Latvia, a girl walks out of the city into the forest to gather mushrooms in a basket, like a child in a fairy tale. Her name is Mina Mendel, just turned fourteen years old. She's on the brink of something but doesn't know it. Folk tales begin when a person sets out on a journey; then a story is in the making, with a beginning, a middle and a satisfactory conclusion ending in a marriage and the defeat of all your enemies. Peace reigns, fortunes are restored, wrongs are righted. Granted, these tales of myth and legend generally concern young men embarking on heroic deeds and quests, but on this occasion it's a curly-haired Jewish girl who picks up her basket, steps from the house and walks with purpose along the streets until the city runs out. 1 (Grant 3, my emphasis)</p><p>The book begins with the archetypal expression "In the olden times, in the old country," evoking the timeless dimension of old-style folk tales. However, this is problematized by the narrator's reflective and metafictional comments on narrative form and structure, which draw attention to the constructedness of storytelling and its ideological implications. The narrator's voice, omniscient but self-aware, connects the fairy tale's symbolic tone to the realities of twentieth-century European Jewish history that will be recounted in the narrative.</p><p>Throughout the novel, Grant even inserts explanatory ideas about Vladimir Propp's Morphology of the Folktale (1928), 2 such as when Mina's daughter, Paula, attends a literary lecture in post-WWII London (116). Definitions of the folk tale, "with its origins deep in the oral histories of the peasantry, contain[ing] elements of magic and talking animals" (117), are offered throughout the narrative, and their formulaic structure, also echoing Joseph Campbell's monomythic theory <ref type="bibr">(1949)</ref>, is articulated in its pages (118). It can be argued that The Story of the Forest selfconsciously echoes Propp's formalist mode of the folktale, emphasizing that the forest incident becomes a generational myth, whose meaning is reproduced through formulaic retellings. Moreover, we find plenty of metafictional comments on the way the incident in the forest became the foundational myth transmitted across generations. This episode becomes the reason why Mina and her brother Jossel leave Latvia for America, and thus it performs another traditional Jewish quest: the search for the Promised Land, as their mother reflects with some sense of humor: "His son has got himself up as Moses, thought he was leading his people out of bondage to the Promised Land, when he was just some light-headed luftmench with clouds instead of brains" (26). Throughout the novel, we can read America as the Promised Land on many occasions, a Holy Land that the Mendels do not reach as they end up settling down in Liverpool due to the outbreak of WWI. This echoes the myth of the "Wandering Jew." The Jews have themselves fostered their otherness with the creation of their own mythical past as the people chosen to be tormented with homelessness until the end of history, when they will be rewarded with access to the Promised Land. This tendency to interpret the events of diaspora and exile mythically has been read by critics as an attempt to create a collective sense of Jewish identity out of the exclusion that societies have frequently exerted upon them <ref type="bibr">(Sicher,</ref><ref type="bibr">Holocaust Novel 186)</ref>. 3  In fact, the mythical nature of this story is addressed with irony and hyperbole when Mina's adventure in the forest becomes a movie, produced by the studio her daughter Paula works for. The movie is dismissed by the British press as "a romantic fantasy," but in America, it "acquired an audience of young Jewish intellectuals hungry for stories of the old world, its superstitions and symbolism" <ref type="bibr">(Grant 178)</ref>. The main symbols used in this fictional creation are represented as follows: "her temporary metamorphosis first into a snowbird, her adventures in the sky, then the return to the forest floor and her second, vulpine transformation, before being restored to human form, setting forth on the ship to the New World, as if it had been a dream" (179). This symbolic sequence of metamorphoses functions as an allegorical interpretation of the processes of liberation, identity reformation, and exodus experienced by the Jewish protagonist throughout the novel. The snowbird represents a liminal state that echoes the initial escape from oppression and entrapment endured in Latvia, whereas the subsequent transformation into a vulpine figure suggests a deeper involvement with the survival and wild instincts developed in Britain. Both animal figures allow for a transitory suspension of social rules and human vulnerability, as usually happens during periods of crisis , permitting the confrontation with forces of exile, alienation, and transformation. The final restoration to human form and the journey to "the New World" -the Promised Landmight invoke a redemptive closure characteristic of fairy tales, yet Grant's narrative suggests this is as much "a dream" as a reality.</p><p>The "New World" does not offer redemption since the narrative depicts the Mendels as foreigners in England who desire to be included in the new social order but encounter several difficulties in doing so. As mentioned in the introduction, British people saw the new Jewish population in very negative terms, as may be read in Grant's text: an "invasion, the beginning of the hordes, implanted themselves in suburbia. Fund-raising began to build a synagogue out in Childwall where they could all cram in on Saturday mornings and probably carry out stunts against Jesus" (Grant 70). Members of the Mendel family suffer from antisemitic actions at different points in the narrative. For example, Mina and Louis' sons, Benny and Harry, experience bullying at school: "In the playground the other kids got up to their usual tricks of punching, kicking, biting, humiliating. From the Catholics, in particular, the perpetual cry of You murdered our Lord!" (83). According to Stanley Waterman and Marlena Schmool, the feelings of strangeness and alienation experienced by Jewish migrants in the 1930s stemmed from the hostility with which the British contemplated the integration of Jewish immigrants (183-5). Adrienne Baker claims that British society "was much more homogeneous and the immigrant frequently felt an alien" (27). She also illustrates the fact that most members of the "Anglo-Jewish community were aware of the need to be as little different as possible from the English; their Jewishness must not in any way make them seem like foreigners" (10). Despite their attempts to assimilate either by fighting for Britain in the World Wars (as both Mina's husband and her sons do), by copying the female British style -"She came out of the salon hours later resembling all the other suburban matrons popping into Boots [. . .]. For if you resemble what you aspire to be, she asked herself, why shouldn't you be taken for it, and ultimately be that Englishwoman [. . .]?" (Grant 66) -, or by trying to be part of such Catholic traditions as Christmas <ref type="bibr">(Grant 167)</ref>, they are always reminded of their foreign status: "They don't want us here, they don't want us to be Englishmen" <ref type="bibr">(Grant 105)</ref>. Axel Stähler defines this phenomenon as the "surrender of Jewish identity to constructions of Englishness or Britishness" (13), while Bryan Cheyette observes that British-Jewish authors have encountered a sense of Englishness, "rooted in the past, that they are meant to absorb uncritically" (21).</p><p>As Russell King et al. suggest, the foreigner lives in a world of dialectical tensions: "To feel a stranger and yet at home, to live simultaneously inside and outside one's immediate situation, to be permanently on the run, to think of returning but to realize at the same time the impossibility of doing so" (xv). Yet the Mendels' case is more complicated since they also had to assimilate the role of the "historic Other of the West, the diasporic Jew" <ref type="bibr">(Golan et al. 104)</ref>. The narrative shows that the general attitude toward Jewishness in the Christian West combined rejection and fascination <ref type="bibr">(Lyotard)</ref>. This aspect is very well depicted in Roland's relationship with Paula when, even before learning she is a Jew, Roland, who represents the values associated with typical British masculinity, sees her in an exoticised manner: "you're an exotic, like a cheetah at the zoo" <ref type="bibr">(Grant 159)</ref>. When examining the construction of British-Jewish identity in this novel, the character of Paula becomes extremely important since she learns to speak like a BBC broadcaster and is seen by her family as "an experiment: how far could a Brownlow Hill-born Jewish girl go with the right clothes, hair, accent and name? [. . .] [S]he could marry a knight of the realm as far as he was concerned, didn't even have to be Jewish [. . .]. She became Paula Phillips" (106). Paula, a member of the second female generation, embodies the opportunity to be included in the British system, and she accepts this role by rejecting all traces of her Jewishness in her new life in London ( <ref type="formula">113</ref>). Yet, in the end, Paula also feels this unbelonging as she is described as performing a role she feels uncomfortable with: "She could pass as one of them, but knew she wasn't, not really [. . .]. She had always felt like an actress and was attractive enough to have become one <ref type="bibr">[. . .]</ref>. That seemed to be what she was acting here in London" (137).</p><p>All these aspects seem to explain that, in opposition to the monolithic British identity and memory, the Jewish urge to construct and transmit foundational memories needs to emerge. At the beginning of the narrative, Jossel argues: "Trees have roots, they stand in one spot but Jews dwell in time, not space. We were slaves in the land of Egypt, then we were free. A sea parted for us, we returned to a land flowing with milk and honey, then lost that. We have, and are, a story, not a plot of territory" <ref type="bibr">(Grant 27</ref>). This aligns with the fact that Jewishness and Judaism have been grounded in the commemoration of memories <ref type="bibr">(Federman)</ref>, responding to a need rooted in the Jewish diasporic history and their perception of homeland as based on displacement. Anne Whitehead draws attention to the role of memory in Jewish culture when she describes the Jews as the "archetypal people of memory" (136). As Annette Kuhn has explained, "memory is shaped by secondary revision: it is always already a text, a signifying system. [. . .]. Memory is an account, always discursive, always already textual" (189). Accordingly, the textual nature of memory increases for those Jewish communities whose diasporic memory may not be attached to a specific place or time but to the compilation of stories and myths that serve as the repository of their identities, as The Story of the Forest clearly reflects.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Transgenerational, Generational and Relational Time: A Feminist Approach</head><p>The aspects analyzed above make evident the fact that the transgenerational transmission of memories is extremely relevant in The Story of the Forest, as a representative of the Jewish family saga genre. According to Efraim Sicher, subsequent Jewish generations are more driven to pursue meaning and understanding (Breaking Crystal 27) because they need to understand as well as maintain the "burden" (35) inherited from their predecessors. As Pellicer-Ortín has explained elsewhere, "the children and grandchildren of Holocaust survivors frequently deal with the struggle between leaving behind their families' past in order to continue with their present lives and their moral obligation to bear witness to the atrocities of the Holocaust" ("Ghost Language"). Memory researchers such as Efraim Sicher, Ernst van Alphen, Marianne Hirsch, Dorota Glowacka, and Stephen Frosh have explained that the descendants act as the recipients of both their ancestors' traumatic memories, either through their silences or through repetitive stories <ref type="bibr">(Frosh 157)</ref>, and the collective memory of the Holocaust. In this case, the notion of "postmemory," coined by Hirsch in 2008, highlights the disconnection between survivors and their progeny. According to her, this term "reflects an uneasy oscillation between continuity and rupture. And yet postmemory is not a movement, method, or idea; I see it, rather, as a structure of inter-and trans-generational transmission of traumatic knowledge and experience. It is a consequence of traumatic recall but (unlike posttraumatic stress disorder) at a generational remove" (106). This complex relational dimension of Jewish memory becomes especially evident in British-Jewish writings. As Ruth Gilbert has argued, there is a "wider cultural anxiety about disconnection among British Jews" (33) because "the history of Jews in Britain is a story that has not yet been fully told. [. . .] [T]hese British-Jewish writers, who are often two generations away from the Holocaust, are arguably well placed to articulate difficult issues in British as well as in Jewish histories. [. . .] [T]hey are able to confront a painful past, despite, or perhaps even because, that past is not directly theirs" (51). This aspect has become even more prominent in the works of female authors owing to their liminal role within Jewish culture (Pellicer-Ortín, "Ghost Language").</p><p>By the end of the novel, Mina is suffering from severe depression and PTSD symptoms ("withdrawal symptoms," "hallucinating," 224), which she interprets as follows: "This is a punishment. But for what? For leaving my mother and father and my little brother and sister? Could be" <ref type="bibr">(Grant 223</ref>). These words imply the survivor's guilt frequently experienced by those who, unlike so many of their relatives, escaped the terrible consequences of Nazism (LaCapra; Langer). By this point, the narrative has already revealed the terrible destinies of some members of the Mendel family: Mina's father had been shot in the street and her mother died of breast cancer, and readers find out that Itzik's wife 4 and daughters died because of the harsh conditions of WWII and that Rivka (Mina's sister) and her family died in a camp in 1943. Accordingly, the last part of the novel shows that the transmission of the mythical story was not enough for Mina to deal with the haunting ghosts of the past and that it is the following generations' task to put all the pieces of the past together to give sense to the family history and memory: Mina "had not been able to mourn the deaths of her own mother and father. It was years before she learned the fate of her little sister in that terrible camp. Nobody had known graves and she must have been sublimating all the sadness and uncertainty for decades. What she needed was closure" <ref type="bibr">(Grant 221)</ref>.</p><p>The urgency of this closure increases when Mina starts losing her memory -a common topic in Linda Grant's narratives and in those of other British-Jewish women writers such as Lisa Appignanesi, Eva Figes, Deborah Levy, and Julia Pascal. 5 Having lived for more than 100 years, and now in the contemporary context of the Iraq War crisis, Mina is very ill and her children have to decide whether to conduct euthanasia, which they finally do, despite realizing that a great part of their (hi)story will be lost when she is gone. This is observed in Benny's remark: "And all we have left of that generation is our Mummy" (Grant 252), or in Harry's comment: "You want us to end our mother's life? Well, with that, everything is over. The Liverpool we grew up is finished, Brownlow Hill has nothing left <ref type="bibr">[. . .]</ref>. You give her this so-called injection and what's left?" (254). Mina's death represents "the dying world of the old community" (259), but it also acquires a quintessential dimension due to the fact that, as explained in the introduction, Jewish culture may be male-designed, but it is also a matriarchal religion that turns the family into the center of Jewish values. This is clearly exemplified when Paula's husband, Ringo, tells her: "A mother's love is everything, it is how the world begins, and a Jewish mother's price is beyond rubies. But it is not for themselves that they are condemning their mother to continue to suffer -their own souls they are afraid of losing?" (255). Baker summarizes this significant female Jewish role as follows: "[W]omen in Judaism have always had a pivotal role: not only as the idealised wife-mother, central to all religions, but as the one who holds things together, whether this is during times of upheaval, with the threat of anti-Semitism, or during times of comparative calm, with the paradoxical threat of assimilation" (2).</p><p>In The Story of the Forest, this important task of Jewish women constructing and preserving their "herstory" and memory is represented through the interconnection of the four female generations since, in the last part of the narrative (entitled "Postscript"), Paula's granddaughter discovers the complete family (hi)story of loss, exile and trauma. The final section is focalized by Zoë, who receives a letter from a female cousin (Rosita Schifrin) revealing the story of the survival of Solly, Mina's youngest brother. She visits the place where Mina and her family used to live in Liverpool and embodies, once again, the role of the quester, as she thinks: "I felt like someone on a quest into the deep past I had only recently become curious about and in which my mother had little interest. History isn't her thing" <ref type="bibr">(Grant 267)</ref>. The fourth generation appears to be interested in the past, while the previous generations had been somehow avoiding it, performing Hirsch's complex notion of "postmemory" and the difficulties experienced by subsequent generations of Holocaust survivors in connecting with the traumatic past of their relatives. When the two distant cousins meet, they acknowledge that "we have so little of the past except of course memories and fairy stories because we came from a regime where you couldn't trust what was inside your head" (271). They realize that their ancestors' stories were vital in their own making of their "herstory" and decide to accept that role as the link between different generations of Jewish survivors in the diaspora.</p><p>Following in the footsteps of those many feminist scholars who have claimed that diverse histories cannot be reduced to universal categories or overarching temporal frameworks (Firestone; Kristeva), Victoria Browne argues that "historical time should be understood as polytemporal. It is an internally complex, 'composite' time, generated through the interweaving of different temporal layers and strands. As such there is no 'one' historical time or temporal structure within which diverse histories are all embroided" (2). Against what Julia Kristeva defined as "the time of history" -the time of "project, teleology, linear and prospective unfolding" (192) -, the gender approach to history "is premised upon the principle that differently positioned subjects experience and make sense of historical shifts and events in different ways" <ref type="bibr">(Browne 10)</ref>. This framework can be applied to the female Jewish construction of time, history and memory exposed in The Story of the Forest. For many Jewish women, their memories do not comply with dominant historical narratives based on linear progress or national teleology. Grant makes this evident in a novel where memory and "herstory" emerge through disjointed recollections, myth-making and storytelling practices, reflecting a polytemporal and nonlinear engagement with the past.</p><p>Furthermore, Browne develops the notion of "generational time" as "a relational time, enabling sociocultural and political transmission between people of different ages and eras. It is manifest not only in the quantitative charting of births, ageing, and deaths, but also in the construction of symbolic generational orders and metaphors" (119). As she explains, "female-to-female inheritance has always been problematic within patriarchal societies" (119) because it is naturally assumed in such societies that it is the man who must pass on the legacy to the woman. If we understand generational time as relational from a feminist perspective, we can meet the complex temporal logics of negotiation, repetition, appropriation, and reinvention depicted in Grant's novel. The female transgenerational bonds represented in this text reflect the polytemporal nature of Jewish memory practices, in which personal, collective and mythical time interact. This is depicted, for example, when Paula takes care of her ill mother: the female interconnection is emphasized by evoking the reunion of the four female Jewish generations and challenging linear perceptions of time:</p><p>To try to narrow the gap between them, Paula had brought her mother a lipstick a scarf . . . and Mina had started to enjoy the vanity <ref type="bibr">[. . .]</ref>. She had also brought news of her own daughter Shelley who is mother to Zoë Fletcher, this uninterrupted line of daughters, each less Jewish than the last. Paula, who speaks like a BBC announcer . . . is still a recognisable suburban Jewish type. <ref type="bibr">(Grant 250,</ref><ref type="bibr">my emphasis)</ref> Browne applies generational thinking to analyze the interconnections among feminist movements throughout history -even questioning the validity of the trope of the wave to refer to feminist trends across time -and tries to avoid a linear logic in favor of ambiguity and malleability (124). Just as different generations of feminists cannot be viewed as a continuum in which one generation simply adopts the ancestors' ideals or as totally separate currents without an influence on each other, the different generations of women represented in this novel show how the traits of their Jewish identity are diluted with the passing of time, while new qualities are constructed that change what Jewish identity itself means over time.</p><p>Likewise, when Mina dies, the four Jewish female generations physically come together under Jewish rituals, to which Shelley and Zoë find difficulties in relating. As Zoë herself wonders, all seems "so ritualized and theatrical, what are these traditions and what do they mean and what's their purpose?" <ref type="bibr">(Grant 266</ref>). When Zoë reflects on her great-grandmother's death, the gap across the generations is highlighted, whereas the transmission of "herstory" in the forest -that is, the myth at the heart of this family's history -is still present: "She had met her great-grandmother but only in extreme old age. She has been a distant fixture in family life [. . .]. [T]he old woman was just that, an unpredictable presence who talked on and off about the forest, and Zoë, of course, has heard the old story but assumes it's just a kind of fairy tale" (264). This demonstrates that, as Browne notes, generational time means more than biological progression; it is entangled with cultural meanings and influenced by the dynamics of inheritance, repetition, estrangement, and reinvention. In the context of the transgenerational transmission of memories connected to the trauma of the Holocaust and the displacement it brought about to many families like the Mendels, female-to-female transmission becomes particularly complex, echoing Irigaray's and Browne's recognition of how patriarchal kinship structures often suppress female genealogical continuity. At the same time, by juxtaposing continuity and discontinuity, the relational dimension depicted by Grant echoes the way postmemory works for Jewish women.</p><p>Grant draws on the Jewish female duty to keep family memories alive through a narrative constructed on the myth of the female matriarch, and it provides this role with a vital feminist message. Several criticisms toward Jewish patriarchal rules are overtly spread throughout the narrative. For instance, while "it is the responsibility of her father to protect his family" (Grant 4) and her family consider that "education was not for little girls" ( <ref type="formula">14</ref>), Mina experiences freedom and learns about communism in the forest as she discovers other roles: "She breathed a new kind of oxygen, the potential chemical mix of freedom. Frei, frei! Though the girl who was a good Jewish daughter, destined to become a good Jewish wife and a good Jewish mother" (6). In keeping with this, the institution of marriage is depicted as suffocating. When Louis asks Mina to marry her, she feels that "the bedroom has a suffocating flower wallpaper" (57) and that the female role is one of "being and becoming, fulfilling her destiny: a housewife and mother" (61). The narrative emphasizes the role of women as natural carers and nurturers to the detriment of men, who are unable to care for others, as Jossel's mother tells him: "Men are the cause of all misery, Jossel. Men boast they love their mothers, a mother indulges her children, she gives them everything, she gives them life itself, no wonder they love her -but not so much boasting about how much they love their wives" (16). 6  Nevertheless, Mina and her female descendants try to transgress these passive roles in different ways. Early in the novel, Mina develops ideas of rebelling, mainly after working in the factory during the war, which she cannot voice publically -"big ideas grew like mushrooms in the dark insider her, stunted, needing more light, never emerging into speech" <ref type="bibr">(Grant 62)</ref>. Alternatively, when she does voice them, her husband criticizes her for not being "ladylike," to which she replies: "But what do you want? A living doll?" (74). Nevertheless, this transgression becomes more effective when women foster bonds between each other. After learning about the story of those millions of Jews in the Soviet Union who could not practise their religion or their culture, Bernice, Paula's cousin, becomes very active within the Women in Black protest group in the 1970s, as this gives her a life purpose: "To save the world, one Soviet Jew at a time" (229).</p><p>Mina decides to follow Bernice's path, and this becomes a transformative experience: "Mina had found a cause, an activity, when as a seventy-five-year-old widow, she was part of a coach party bound for London to take part in a protest against the Bolshoi Ballet at the Albert Hall" (230), which acquires a full generational and relational dimension. After her daughter Shelley has goaded her to participate (232), Paula also decides to join them in some of these demonstrations, where "women felt brave and free. They thought they could teach their daughters a thing or two about getting off their actual backsides and going out protesting, getting into trouble, even facing a night in the cells for the cause" (232). This time, instead of presenting memory as patriarchally and biologically transmitted, Grant emphasizes how Jewish women foster generational continuity through political bonds. Browne's feminist temporality becomes obviously generational and relational when Mina, Bernice and Paula participate in activism together, connecting private memory with public protest. These episodes accomplish a form of memory transmission, which is both affectively and politically engaged, where Jewish women reshape their legacy through intergenerational dialogue and shared action.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Conclusion: Relational Female Voices and Herstory</head><p>The analysis will now circle back to the novel's initial pages where, drawing on Propp's morphological framework, Grant reclaimed the fairy tale as a narrative form traditionally reserved for male protagonists by inserting a female subject into the role of the questing hero. Grant recognizes the artificial constructedness of this reversal of roles, as she articulated in an interview published in 2015, "it is always men that leave the home to make the journey and not women, women are static" (209), and as she makes clear in the novel in the initial episode analyzed or when the narrator says: "Once, Mina had left home to make a journey like a hero in a folk tale" (69). Also, referring to Paula's life story, she writes: "A young girl sets out on a journey, the story begins. The adventurer will confront many hardships and difficulties. She will reclaim her lost inheritance. She will recapture the castle. But this is not true. In folk tales, young girls never set out on a journey or a quest, they are passive, they are waiting" (116, my emphasis). This may not be generally true for Jewish women, yet Grant effectively reimagines the traditional hero's journey as a quest led by a heroine. The women in her novel are active agents not just by being protagonists of these quests but also by reinterpreting their meanings. Zoë takes on the role of actively confronting and understanding the family narrative when she admits that: "These distant Jewish relations of more than a century ago have begun to reach out to me <ref type="bibr">[. . .]</ref>. No wonder the ancients saw fish and twins and ploughs in the constellations -the urge to impose human meaning on random patterns is overwhelming" (276). When Zoë and her cousin meet, once again echoing Browne's notions about a feminist generational and relational temporality, they do not passively inherit the family myth but question their veracity and add new meanings to it from refreshed feminist perspectives: "Something happened to her in that forest <ref type="bibr">[. . .]</ref>. Maybe she was pregnant and miscarried <ref type="bibr">[. . .]</ref>. Why do you think she was discontented? Why are all women discontented?" (275). Zoë even thinks of returning to Riga to check the truth of these stories, acknowledging that, in the end, "there seems to be no escape from telling our stories, true or not" (275). Moreover, she assumes the role of the next female quester, as we read in the final lines of the novel: "Mina went into the forest. The story begins. I am the inheritor of that girl, those boys, the rushing windy trees, the ship, the landing, the thwarted arrival in the New World, the settling for less while wanting the whole world" (276). Just as Paula saw herself as "the January god of the Romans who faces in both directions. Each way she looks there are difficult women" (251), it is time for the new generations of Jewish women to build their own "herstory," made from the past but also looking toward a future with new challenges.</p><p>In The Story of the Forest, Jewish women perform the temporal negotiation that Browne identifies as central to feminist historical consciousness. By highlighting the fragmented (Janus-like) yet persistent threads that connect Jewish women across generations, the novel not only challenges the limitations imposed on female subjectivity within traditional familial structures but also celebrates the transformative potential of relational and generational approaches to the construction of Jewish memory and history. It is the relational and feminist approach to time, memory and "herstory" that allows Grant to address the gap identified by many Jewish feminist thinkers regarding the lack of recognized female role models in Jewish history, as they claim that many Jewish women have often felt that they "have few role models from the past; our achievements and contributions as Jewish women have rarely been acknowledged. [. . .] [W]e find ourselves redefining what it means to be a Jew" (Silberstein Swartz and Wolfe 14). If it has been agreed that Jewish stories have been placed in the margins by Western hegemonic forces (Wirth-Nesher), even though Jewish writers have created new sites to offer their versions of history over the last three decades, it would be contradictory not to include female voices with other alternative Jewish, or even non-Jewish, narratives located at the edges of representation. These concerns have been transposed to the literary sphere thanks to a good number of Jewish women creating works "infused with a forceful sense of independence and marked by strong personal voices that go to the heart of the writers' own lives" <ref type="bibr">(Berkman and Starkman 5)</ref>. As Marla Brettschneider claims:</p><p>If we keep doing Jewish life, history, and community building as if only Jewish men exist and existed, then we are missing approximately one half of the Jewish world. [. . .] Jewish feminists have said it is not only (though crucially) about adding one-half of the Jewish people to our collective living, but we also claim that in a feminist adding, we will fundamentally transform what we know to be Jewish. <ref type="bibr">(139)</ref> This is what Grant achieves in this text by creating a literary work filled with strong personal women's voices that redefine fragmented Jewish female identities as essentially relational, demonstrating that Jewish memory, far from being a fixed legacy, is a fluid and evolving practice shaped by the relational dynamics of women across time.</p><p>Grant's achievement echoes the possible ways in which many writers who belong to marginalized and/or vulnerable groups could approach the reconstruction of their lived or inherited traumatic memories after such periods of crisis caused by war, genocide, diaspora and exile. The relational and polytemporal approach to time offered in the reading of this novel runs parallel to the notion of "scalar literacy." The individual and collective identity crisis experienced after diasporic episodes, such as those endured by the Mendels in this novel, can be better understood by considering its multifarious dimensions due to the intertwined and multidirectional nature of historical and even mythical developments. Likewise, and endorsing Browne's ideas, "as critical feminist attention turns toward the use of generational or familial metaphors within feminist discourse, we need to consider the variety of histories and contexts that yield different problematics and potentialities for different groups and individuals" (138). In a world shaped by continual displacement, overlapping episodes of crisis and ongoing challenges to traditional gender roles, Browne's call for a more plural and holistic understanding of generationality makes her work particularly apt for understanding how Jewish female subjectivities engage with inherited feelings of alienation, fragmentation and cultural rupture while also affirming alternative, relational modes of historical continuity. Moreover, this approach can shed light on other similar narratives and experiences lived by other groups of women, such as those analyzed in other articles within this Special Issue, who have traditionally been silenced and/or subjected to views of history that do not take into account the great power of female relationality when it comes to understanding the crises of the past, the present, and even the future.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Notes</head><p>1. It must also be considered that in Latvian and Baltic culture the forest is often seen not as the threatening wilderness but as a space of refuge and cultural continuity, where marginal communities can be sheltered from external domination. Also, such practices as mushroom-picking are closely tied to national Latvian identity, which turns Mina's forbidden entry into the forest into a symbolic exclusion from a site of possible communal belonging and resistance to oppressive regimes. This aspect could be related to the novel's exploration of themes related to displacement, exile, and the fragmentation of identity. 2. The reference to Propp's ideas is not made just as a general theoretical framework, Grant echoes Propp's formalist model to highlight how her narrative is built around a sequence of conventions that feature traditional folktalesone of the main ones being the representation of the different stages of the heroine's journey. In his classical text, Propp explains that the plot of folk tales is often based on a limited number of recurrent actions (such as the introduction, departure, tests, return) as well as the characters tend to be defined by their functions in the narrative instead of their psychological depth (hero, villain, helper) -aspects that are clearly mirrored in Grant's text. 3. This phenomenon is further understood if we consider that, in the Christian West, Jewishness often repels and fascinates. In stereotypical and often racist western depictions, which have a long tradition since the unfair expulsion of Jews from Spain and other European countries in the Middle Ages, Jews represent the Other, the foreigner that threatens the status quo. Westerners have often despised Jews but have been simultaneously frightened by them because they represent the unknown. According to <ref type="bibr">Surin (1999 276)</ref>, the special situation of Jewish migrants has had to do with the uniqueness of the Jewish exile. For Lyotard, Western societies have long assigned Jews an outsider status, but Jews have also internalized this view, nurturing their own "original myth" in which they see themselves as a people uniquely destined to endure perpetual displacement until history's end, when they will finally receive the Promised Land (1997 47). Sicher contends that many literary works dealing with the Holocaust recount this type og mythological origins because, according to him, the horrible nature of the events survivors endured has forced them to think that what happened to them has to do with their destiny as a race of "Wandering Jews" (2005 34), a quintessential symbol of foreignness across centuries. 4. Itizk was one of Mina's brothers, who disappeared shortly after she and Jossef left their native country, and of whom no one in the family had heard anything until Paula and he met in London. 5. Linda <ref type="bibr">Grant's Remind Me Who I Am, Again (1998)</ref> 6. Even though it is true that this relegation of women to the domestic and nurturing sphere at the beginning of the twentieth century was not specific to the Jewish community alone and that women experienced it in all kinds of societies, it acquires special significance in the construction of Jewish female identity due to the ambiguous role it plays in their culture and religion, as explained above.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Disclosure Statement</head><p>No potential conflict of interest was reported by the author(s).</p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head></head><label></label><figDesc>, Lisa Appignagnesi's Losing the Dead (1999), Eva Figes' Journey to Nowhere (2008), Deborah Levy's Things I Don't Want to Know (2013), and Julia Pascal's Theresa (2001) are some relevant examples.</figDesc></figure>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" xml:id="foot_0"><p>CRITIQUE: STUDIES IN CONTEMPORARY FICTION</p></note>
+		</body>
+		<back>
+
+			<div type="funding">
+<div><head>Funding</head><p>The research for this article was supported by the <rs type="funder">Spanish Ministry of Science and Innovation</rs> [<rs type="grantNumber">PID2021-124841NB-I00</rs>] in collaboration with the <rs type="funder">European Regional Development Fund (DGI/ERDF)</rs> and the <rs type="funder">Government of Aragón</rs></p></div>
+			</div>
+			<listOrg type="funding">
+				<org type="funding" xml:id="_EpG9H6F">
+					<idno type="grant-number">PID2021-124841NB-I00</idno>
+				</org>
+			</listOrg>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<monogr>
+		<title level="m" type="main">Notes on Contributor Silvia Pellicer-Ortín is Associate Professor at the Department of English and German Philology in the Faculty of Education of the University of Zaragoza. Her main research interests are related to contemporary narratives in English, focusing on Diaspora studies, British-Jewish women writers, and feminism. Works Cited Andermahr, Sonya, and Silvia Pellicer-Ortín. Trauma Narratives and Herstory</title>
+		<imprint>
+			<date type="published" when="2013">2013</date>
+			<publisher>Palgrave Macmillan</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<title level="a" type="main">The Jewish Woman in Contemporary Society: Transitions and Traditions</title>
+		<author>
+			<persName><forename type="first">Adrienne</forename><surname>Baker</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">The Macmillan P</title>
+		<imprint>
+			<date type="published" when="1993">1993</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title level="a" type="main">Diaspora and Memory: Fi Gures of Displacement in Contemporary Literature</title>
+		<author>
+			<persName><forename type="first">Marie-Aude</forename><surname>Baronian</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Arts and Politics</title>
+		<imprint>
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<monogr>
+		<title level="m" type="main">Women of the Word: Jewish Women and Jewish Writing</title>
+		<author>
+			<persName><forename type="first">Judith</forename><forename type="middle">R</forename><surname>Baskin</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1994">1994</date>
+			<publisher>Wayne State UP</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<monogr>
+		<title level="m" type="main">Contemporary Jewish Stories: Here I Am from Around the World</title>
+		<author>
+			<persName><forename type="first">Marsha</forename><forename type="middle">L</forename><surname>Berkman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Elaine</forename><forename type="middle">M</forename><surname>Starkman</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1998">1998</date>
+			<publisher>The Jewish Publication Society</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">Lauren</forename><surname>Berlant</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2011">2011</date>
+			<publisher>Cruel Optimism. Duke UP</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title level="a" type="main">Bridging the Black Hole of Trauma: The Evolutionary Significance of the Arts</title>
+		<author>
+			<persName><forename type="first">Sandra</forename><forename type="middle">L</forename><surname>Bloom</surname></persName>
+		</author>
+		<idno type="DOI">10.1002/ppi.223</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Psychotherapy and Politics International</title>
+		<imprint>
+			<biblScope unit="volume">8</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="198" to="212" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title level="a" type="main">Contemporary British and Irish Fiction: An Introduction</title>
+		<author>
+			<persName><forename type="first">David</forename><surname>Brauner</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">The Edinburgh Companion to Modern Jewish Fiction</title>
+		<meeting><address><addrLine>Edinburgh UP</addrLine></address></meeting>
+		<imprint>
+			<publisher>Edinburgh UP</publisher>
+			<date type="published" when="2014">2014. 2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">Marla</forename><surname>Brettschneider</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Jewish Feminism and Intersectionality. SUNY P</title>
+		<imprint>
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<monogr>
+		<title level="m" type="main">Time and Nonlinear History</title>
+		<author>
+			<persName><forename type="first">Victoria</forename><surname>Browne</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Feminism</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2014">2014</date>
+			<publisher>Palgrave Macmillan</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title level="a" type="main">Englishness and Extraterritoriality: British-Jewish Writing and Diaspora Culture</title>
+		<author>
+			<persName><forename type="first">Bryan</forename><surname>Cheyette</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Literary Strategies</title>
+		<imprint>
+			<biblScope unit="volume">12</biblScope>
+			<biblScope unit="page" from="21" to="39" />
+			<date type="published" when="1996">1996</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<monogr>
+		<title level="m" type="main">The Story of the Forest by Linda Grant Review -A Many-Stranded Generational Saga</title>
+		<author>
+			<persName><forename type="first">Alex</forename><surname>Clark</surname></persName>
+		</author>
+		<ptr target="https://www.theguardian.com/books/2023/apr/30/the-story-of-the-forest-by-linda-grant-review-a-many-stranded-generational-saga" />
+		<imprint>
+			<date type="published" when="2023-04-30">30 Apr. 2023. 28 Jul. 2023</date>
+		</imprint>
+	</monogr>
+	<note>The Guardian</note>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<monogr>
+		<title level="m" type="main">The Story of the Forest by Linda Grant Review -20th-Century Journeys</title>
+		<author>
+			<persName><forename type="first">Clare</forename><surname>Clark</surname></persName>
+		</author>
+		<ptr target="https://www.theguardian.com/books/2023/may/25/the-story-of-the-forest-by-linda-grant-review-20th-century-journeys" />
+		<imprint>
+			<date type="published" when="2023-05-25">25 May 2023. 28 Jul. 2023</date>
+		</imprint>
+	</monogr>
+	<note>The Guardian</note>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<monogr>
+		<title level="m" type="main">The Value of Ecocriticism</title>
+		<author>
+			<persName><forename type="first">Timothy</forename><surname>Clark</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2019">2019</date>
+			<publisher>Cambridge UP</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<monogr>
+		<title level="m" type="main">The Necessity and Impossibility of Being a Jewish Writer</title>
+		<author>
+			<persName><forename type="first">Raymond</forename><surname>Federman</surname></persName>
+		</author>
+		<ptr target="http://www.federman.com/rfsrcr5.htm" />
+		<imprint>
+			<date type="published" when="2001-01-22">22 Jan. 2001. 28 Jul. 2013</date>
+		</imprint>
+	</monogr>
+	<note>Federman</note>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<monogr>
+		<title level="m" type="main">The Dialectic of Sex: The Case for Feminist Revolution</title>
+		<author>
+			<persName><forename type="first">Shulamith</forename><surname>Firestone</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1970">1970</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<title level="a" type="main">Postmemory</title>
+		<author>
+			<persName><forename type="first">Stephen</forename><surname>Frosh</surname></persName>
+		</author>
+		<idno type="DOI">10.1057/s11231-019-09185-3</idno>
+	</analytic>
+	<monogr>
+		<title level="j">The American Journal of Psychoanalysis</title>
+		<imprint>
+			<biblScope unit="volume">79</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="156" to="173" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<monogr>
+		<title level="m" type="main">Writing Jewish: Contemporary British Jewish Literature</title>
+		<author>
+			<persName><forename type="first">Ruth</forename><surname>Gilbert</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2013">2013</date>
+			<publisher>Palgrave Macmillan</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<monogr>
+		<title level="m" type="main">Disappearing Traces: Holocaust Testimonials, Ethics, and Aesthetics</title>
+		<author>
+			<persName><forename type="first">Dorota</forename><surname>Glowacka</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2012">2012</date>
+			<publisher>U of Washington P</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<analytic>
+		<title level="a" type="main">The Jewish Diaspora, Israel, and Jewish Identities: A Dialogue</title>
+		<author>
+			<persName><forename type="first">Daphna</forename><surname>Golan</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diaspora and Immigration, Special Issue of South Atlantic Quarterly</title>
+		<imprint>
+			<biblScope unit="volume">98</biblScope>
+			<biblScope unit="issue">1-2</biblScope>
+			<biblScope unit="page" from="95" to="116" />
+			<date type="published" when="1999">1999</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<monogr>
+		<title level="m" type="main">The Story of the Forest</title>
+		<author>
+			<persName><forename type="first">Linda</forename><surname>Grant</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2003">2003</date>
+			<publisher>Virago</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<analytic>
+		<title level="a" type="main">Trauma Within the Limits of Literature</title>
+		<author>
+			<persName><forename type="first">Geoffrey</forename><surname>Hartman</surname></persName>
+		</author>
+		<idno type="DOI">10.1076/ejes.7.3.257.27984</idno>
+	</analytic>
+	<monogr>
+		<title level="j">European Journal of English Studies</title>
+		<imprint>
+			<biblScope unit="volume">7</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="257" to="274" />
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<monogr>
+		<title level="m" type="main">Feminism Encounters Traditional Judaism: Resistance and Accommodation. Brandeis UP</title>
+		<author>
+			<persName><forename type="first">Tova</forename><surname>Hartman</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2007">2007. 2008</date>
+			<pubPlace>Heise, Ursula; Oxford UP</pubPlace>
+		</imprint>
+	</monogr>
+	<note>Sense of Place and Sense of Planet</note>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<monogr>
+		<title level="m" type="main">Shattered Subjects: Trauma and Testimony in Women&apos;s Life-Writing</title>
+		<author>
+			<persName><forename type="first">Suzette</forename><forename type="middle">A</forename><surname>Henke</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1998">1998</date>
+			<publisher>Macmillan</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<analytic>
+		<title level="a" type="main">The Generation of Postmemory</title>
+		<author>
+			<persName><forename type="first">Marianne</forename><surname>Hirsch</surname></persName>
+		</author>
+		<idno type="DOI">10.1215/03335372-2007-019</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Poetics Today</title>
+		<imprint>
+			<biblScope unit="volume">29</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="103" to="128" />
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<monogr>
+		<title level="m" type="main">Rites of Return: Diaspora Poetics and the Politics of Memory. Columbia UP, 2011. Irigaray, Luce. An Ethics of Sexual Difference</title>
+		<author>
+			<persName><forename type="first">Marianne</forename><surname>Hirsch</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Nancy</forename><forename type="middle">K</forename><surname>Miller</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1984">1993. 1984</date>
+			<publisher>Cornell UP</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<monogr>
+		<title level="m" type="main">Writing Across Worlds: Literature and Migration</title>
+		<author>
+			<persName><forename type="first">Russell</forename><surname>King</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1995">1995</date>
+			<publisher>Routledge</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b27">
+	<monogr>
+		<title level="m" type="main">The Kristeva Reader</title>
+		<author>
+			<persName><forename type="first">Julia</forename><surname>Kristeva</surname></persName>
+		</author>
+		<editor>Toril Moi and Basil Blackwell</editor>
+		<imprint>
+			<date type="published" when="1986">1986</date>
+			<biblScope unit="page" from="187" to="213" />
+		</imprint>
+	</monogr>
+	<note>Women&apos;s Time</note>
+</biblStruct>
+
+<biblStruct xml:id="b28">
+	<monogr>
+		<title level="m" type="main">Acts of Memory and Imagination</title>
+		<author>
+			<persName><forename type="first">Annette</forename><surname>Kuhn</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1995">1995</date>
+			<publisher>Verso</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b29">
+	<analytic>
+		<title level="a" type="main">Introduction: Literature and Crises Across Historical Scales</title>
+		<author>
+			<persName><forename type="first">Julia</forename><surname>Kuznetski</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">The Routledge Companion to Literatures and Crisis</title>
+		<editor>
+			<persName><forename type="first">Silvia</forename><surname>Pellicer-Ortín</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">Julia</forename><surname>Kuznetski</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">Chiara</forename><surname>Battisti</surname></persName>
+		</editor>
+		<editor>
+			<persName><surname>Routledge</surname></persName>
+		</editor>
+		<imprint>
+			<date type="published" when="2025">2025</date>
+			<biblScope unit="page" from="1" to="11" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b30">
+	<analytic>
+		<title level="a" type="main">Pandemic and Climate Change, Special Issue of Women: A Cultural Review</title>
+		<author>
+			<persName><forename type="first">Julia</forename><surname>Kuznetski</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Silvia</forename><surname>Pellicer-Ortín</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">We Too&quot;: Female Voices in the Transnational Era of Crises, Migration</title>
+		<imprint>
+			<date type="published" when="2023">2023</date>
+			<biblScope unit="volume">34</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b31">
+	<monogr>
+		<title level="m" type="main">Writing History, Writing Trauma</title>
+		<author>
+			<persName><forename type="first">Dominick</forename><surname>Lacapra</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2001">2001</date>
+			<publisher>Johns Hopkins UP</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b32">
+	<monogr>
+		<title level="m" type="main">Holocaust Testimonies: The Ruins of Memory</title>
+		<author>
+			<persName><forename type="first">Lawrence</forename><forename type="middle">L</forename><surname>Langer</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1991">1991</date>
+			<pubPlace>Yale UP</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b33">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">Jean-François</forename><surname>Lyotard</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Heidegger</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Jews</forename><surname>The</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">U of Minnesota P</title>
+		<imprint>
+			<date type="published" when="1988">1997. 1988</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b34">
+	<monogr>
+		<title level="m" type="main">Sisterhood Is Powerful: An Anthology of Writings from the Women&apos;s Liberation Movement</title>
+		<author>
+			<persName><forename type="first">Robin</forename><surname>Morgan</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1970">1970</date>
+			<publisher>Vintage Books</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b35">
+	<analytic>
+		<title level="a" type="main">Disaster Research Methods: Past Progress and Future Directions</title>
+		<author>
+			<persName><forename type="first">Fran</forename><forename type="middle">H</forename><surname>Norris</surname></persName>
+		</author>
+		<idno type="DOI">10.1002/jts.20109</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Traumatic Stress</title>
+		<imprint>
+			<biblScope unit="volume">19</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="173" to="184" />
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b36">
+	<analytic>
+		<title level="a" type="main">The Ghost Language Which Passes Between the Generations&apos;: Transgenerational Memories and Limit-Case Narratives in Lisa Appignanesi&apos;s Losing the Dead and The Memory Man</title>
+		<author>
+			<persName><forename type="first">Silvia</forename><surname>Pellicer-Ortín</surname></persName>
+		</author>
+		<idno type="DOI">10.3390/h9040132</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Humanities</title>
+		<imprint>
+			<biblScope unit="volume">9</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page">132</biblScope>
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b37">
+	<analytic>
+		<title level="a" type="main">Linda Grant: An Interview</title>
+	</analytic>
+	<monogr>
+		<title level="j">Atlantis: Journal of the Spanish Association of Anglo-American Studies</title>
+		<imprint>
+			<biblScope unit="volume">37</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="201" to="215" />
+			<date type="published" when="2015">2015b</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b38">
+	<monogr>
+		<title level="m" type="main">Expanding the Palace of Torah: Orthodoxy and Feminism</title>
+		<author>
+			<persName><forename type="first">Tamar</forename><surname>Ross</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2021">2021</date>
+			<publisher>Brandeis UP</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b39">
+	<analytic>
+		<title level="a" type="main">Preface: Beyond Tancred and Clorinda-Trauma Studies for Subjects</title>
+		<author>
+			<persName><forename type="first">Michael</forename><surname>Rothberg</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">The Future of Trauma Theory: Contemporary Literary and Cultural Criticism</title>
+		<editor>
+			<persName><forename type="first">Gert</forename><surname>Buelens</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">Samuel</forename><surname>Durrant</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">Robert</forename><surname>Eaglestone</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">Routledge</forename></persName>
+		</editor>
+		<imprint>
+			<date type="published" when="2013">2013</date>
+			<biblScope unit="page" from="xi" to="xviii" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b40">
+	<monogr>
+		<title level="m" type="main">Migration Crisis in Contemporary Literature: A Complicated Journey Through Loss and Hope</title>
+		<author>
+			<persName><forename type="first">Merve</forename><surname>Sarikaya</surname></persName>
+		</author>
+		<editor>Silvia Pellicer-Ortín, Julia Kuznetski, and Chiara Battisti. Routledge</editor>
+		<imprint>
+			<date type="published" when="2025">2025</date>
+			<biblScope unit="page" from="45" to="52" />
+		</imprint>
+	</monogr>
+	<note>The Routledge Companion to Literatures and Crisis</note>
+</biblStruct>
+
+<biblStruct xml:id="b41">
+	<monogr>
+		<author>
+			<persName><forename type="first">Efraim</forename><surname>Sicher</surname></persName>
+		</author>
+		<title level="m">Breaking Crystal: Writing and Memory After Auschwitz. U of Illinois P</title>
+		<imprint>
+			<publisher>Routledge</publisher>
+			<date type="published" when="1998">1998. 2005</date>
+		</imprint>
+	</monogr>
+	<note>The Holocaust Novel</note>
+</biblStruct>
+
+<biblStruct xml:id="b42">
+	<analytic>
+		<title level="a" type="main">From Memory to Transformation: Jewish Women&apos;s Voices. Second Story P, 1998. Stähler</title>
+		<author>
+			<persName><forename type="first">Silberstein</forename><surname>Swartz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Sarah</forename></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Margie</forename><surname>Wolfe</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Anglophone Jewish Literature. Routledge</title>
+		<imprint>
+			<date type="published" when="2007">2007</date>
+			<pubPlace>Axel</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b43">
+	<analytic>
+		<title level="a" type="main">Afterthoughts on &apos;Diaspora&apos;</title>
+		<author>
+			<persName><forename type="first">Kennet</forename><surname>Surin</surname></persName>
+		</author>
+		<idno type="DOI">10.1215/00382876-98-1/2-275</idno>
+	</analytic>
+	<monogr>
+		<title level="j">South Atlantic Quarterly</title>
+		<imprint>
+			<biblScope unit="volume">98</biblScope>
+			<biblScope unit="issue">1-2</biblScope>
+			<biblScope unit="page" from="275" to="325" />
+			<date type="published" when="1999">1999</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b44">
+	<monogr>
+		<author>
+			<persName><forename type="first">Claire</forename><forename type="middle">M</forename><surname>Tylee</surname></persName>
+		</author>
+		<title level="m">the Open&quot;: Jewish Women Writers and British Culture. U of Delaware P</title>
+		<imprint>
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b45">
+	<monogr>
+		<title level="m" type="main">Jewish Women Writers in Britain</title>
+		<author>
+			<persName><forename type="first">Nadia</forename><surname>Valman</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2014">2014</date>
+			<publisher>Wayne State UP</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b46">
+	<analytic>
+		<title level="a" type="main">Second-Generation Testimony, Transmission of Trauma, and Postmemory</title>
+		<author>
+			<persName><forename type="first">Ernst</forename><surname>Van Alphen</surname></persName>
+		</author>
+		<idno type="DOI">10.1215/03335372-2005-015</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Poetics Today</title>
+		<imprint>
+			<biblScope unit="volume">27</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="473" to="488" />
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b47">
+	<analytic>
+		<title level="a" type="main">War, Migration and Human Rights: Strategies of Voicing in Contemporary Fiction</title>
+		<author>
+			<persName><forename type="first">Sue</forename><surname>Vice</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">The Routledge Companion to Literatures and Crisis</title>
+		<editor>
+			<persName><forename type="first">Silvia</forename><surname>Pellicer-Ortín</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">Julia</forename><surname>Kuznetski</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">Chiara</forename><surname>Battisti</surname></persName>
+		</editor>
+		<editor>
+			<persName><surname>Routledge</surname></persName>
+		</editor>
+		<imprint>
+			<date type="published" when="2025">2025</date>
+			<biblScope unit="page" from="53" to="61" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b48">
+	<analytic>
+		<title level="a" type="main">Literary Perspectives on Jews in Britain in the Early Twentieth Century</title>
+		<author>
+			<persName><forename type="first">Stanley</forename><surname>Waterman</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Schmool</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Marlena</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Writing Across Worlds: Literature and Migration</title>
+		<editor>
+			<persName><forename type="first">Russell</forename><surname>King</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">John</forename><surname>Connell</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">Paul</forename><surname>White</surname></persName>
+		</editor>
+		<imprint>
+			<publisher>Routledge</publisher>
+			<date type="published" when="1999">1999</date>
+			<biblScope unit="page" from="180" to="197" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b49">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">Anne</forename><surname>Whitehead</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Memory</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Routledge</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b50">
+	<monogr>
+		<title level="m" type="main">What Is Jewish Literature?</title>
+		<author>
+			<persName><forename type="first">Hana</forename><surname>Wirth-Nesher</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1994">1994</date>
+			<publisher>Jewish Publication Society</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b51">
+	<analytic>
+		<title level="a" type="main">Scale Critique for the Anthropocene</title>
+		<author>
+			<persName><forename type="first">Dorota</forename><surname>Woods</surname></persName>
+		</author>
+		<idno type="DOI">10.1215/00265667-2782327</idno>
+	</analytic>
+	<monogr>
+		<title level="j">The Minnesota Review</title>
+		<imprint>
+			<biblScope unit="volume">2014</biblScope>
+			<biblScope unit="issue">83</biblScope>
+			<biblScope unit="page" from="133" to="143" />
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b52">
+	<monogr>
+		<title level="m" type="main">Mordecai&apos;s First Brush With Love: New Stories by Jewish Women in Britain</title>
+		<author>
+			<persName><forename type="first">Tamar</forename><surname>Yellin</surname></persName>
+		</author>
+		<editor>Laura Phillips and Marion Baraitser</editor>
+		<imprint>
+			<date type="published" when="1996">1996</date>
+			<publisher>Loki Books</publisher>
+			<biblScope unit="page" from="57" to="70" />
+		</imprint>
+	</monogr>
+	<note>The Newspaper Man</note>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

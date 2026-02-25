@@ -1,0 +1,974 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Why Britain Chooses Brexit: Post-Imperial Affects in Julian Barnes&apos; Fiction and Brexlits</title>
+				<funder ref="#_j3eqj5D">
+					<orgName type="full">unknown</orgName>
+				</funder>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author role="corresp">
+							<persName><forename type="first">Xiaochen</forename><surname>Xin</surname></persName>
+							<email>xiaochenxin@smail.nju.edu.cn</email>
+							<affiliation key="aff0">
+								<orgName type="department" key="dep1">Department of English</orgName>
+								<orgName type="department" key="dep2">School of Foreign Studies</orgName>
+								<orgName type="institution">Nanjing University</orgName>
+								<address>
+									<settlement>Nanjing</settlement>
+									<country key="CN">China</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff1">
+								<orgName type="department" key="dep1">Department of English</orgName>
+								<orgName type="department" key="dep2">School of Foreign Studies</orgName>
+								<orgName type="institution">Nanjing University</orgName>
+								<address>
+									<addrLine>163 Xianlin Road, Qixia District</addrLine>
+									<postCode>210023</postCode>
+									<settlement>Nanjing</settlement>
+									<country key="CN">China</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Why Britain Chooses Brexit: Post-Imperial Affects in Julian Barnes&apos; Fiction and Brexlits</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date/>
+						</imprint>
+					</monogr>
+					<idno type="MD5">49F0E32F31BAA0D56D86AC1912F84F15</idno>
+					<idno type="DOI">10.1080/00111619.2025.2601110</idno>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.0" ident="GROBID" when="2026-02-25T19:55+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>Drawing on affect theory, the study traces three interrelated moments: the commodification of imperial nostalgia in Julian Barnes <ref type="bibr" target="#b6">' England, England (1998)</ref>; the pervasive reflexive impotence captured in The Sense of an Ending (2011); and the post-Brexit shift to mourning, hope and resentment in Ali Smith's Autumn (2016). Through close textual analysis, the article demonstrates how these works map the gradual affective transition before and after Brexit where hope is deferred and revived, loss is unacknowledged, and resentment is circulated, all of which shape political imaginaries beyond the reach of formal policy discourse. It further argues that post-Brexit fiction performs an affective redeployment, converting structural imperial decline into scapegoating narratives centered on race and class, thus transforming political impotence into an emotionally charged logic of substitution. By foregrounding the aesthetic mediation of these affects which centered around narrative form, rhythm, and intergenerational dialogue, the study reframes Brexit as an affective rather than solely political decision. In doing so, it contributes to debates on literature's role in contemporary cultural politics, demonstrating that fiction provides a critical archive of affective residues, preserving the unfinished promises and contradictions that continue to animate British national identity.</p><p>After Brexit became a political reality in 2020, public discourse rushed to explain the event in terms of institutional change, media narratives, or demographic trends captured in polls. Yet, as Lauren Berlant insists, the real determinants of a nation's political orientation often reside not in the spectacle of the "orchestrated collective event" but in the unintegrated domains of experience and non-eventful moments that saturate the social atmosphere. According to Berlant, these "unintegrated domains," such as pervasive job precarity or subtle conflicts within the home, lack the drama of a public event but permeate society through its affective atmosphere, becoming key shapers of collective political alignment. These affective vibrations operate below the threshold of explicit discourse, yet they fundamentally shape the very conditions under which political fantasies (Cruel 1-22). Building on this insight, this study turns to the longue durée of affective life in Britain, tracing how Brexit emerged not from a vacuum but from decades-long rearrangements of affects. By focusing on British fiction from the late 1990s to the aftermath of the Brexit referendum in 2016, this article seeks to map how literary form registers the accumulation and reconfiguration of national affects over time.</p><p>This study therefore proposes to chart the affective continuum through three distinct but interlinked moments in British fiction: Julian Barnes' England, England and The Sense of an Ending, read in dialogue with Ali Smith's Autumn. These works are selected not only for their thematic preoccupations with history, memory, and identity but also for their temporal positioning, which enables us to trace the longue durée of affective recalibration. Barnes' novels, published well before the referendum, CONTACT Xiaochen Xin</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>do not "predict" Brexit; rather, they articulate the emotional preconditions of its possibility. Specifically, England, England converts imperial insecurity into a consumable cultural fantasy, embedding imperial nostalgia within an affective infrastructure of national reinvention. The Sense of an Ending registers the condition of reflexive impotence as a displaced agency -a passive response to the collapse of imperial control. Autumn, by contrast, stages an affective realignment from mourning to resentment, redirecting the imperial loss into racialized and class-based antagonisms. In doing so, these texts illuminate how the structural realities of post-imperial decline were obscured between 1998 and 2016, transforming political failure into an emotionally mediated logic of blame and belonging.</p><p>By placing these texts in conversation, the study further contends that the literary responses to Brexit do not merely reproduce an ideological opposition, but also disclose a pervasive affective infrastructure that saturates individual subjectivity, social space, and cultural imagination. In these texts, the formation and fragmentation of British national identity emerge not as discrete acts of decision but as slow, affect-driven processes which are shaped through hope, disappointment, mourning, shame, anger, and nostalgia, and materialized in narrative structure, ethical positioning, and contextual representation. These affective configurations are rarely linear; they overlap, intersect, and mutate, revealing the dynamic logic through which the politics of feeling circulates within the domain of literary form. By tracing how such affective mechanisms are configured and perceived in fiction, as well as how they refract the psychosocial foundations of Brexit, this study seeks to provide a critical framework grounded in the politics of perception for understanding contemporary British political culture.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>England, England and The Sense of an Ending Contextualized in the Brexit Process</head><p>Critical readings of Julian Barnes' England, England clustered around debates on the use of simulacra and the discursive construction of "Englishness," often drawing on Baudrillard to argue that the theme park replaces the real with a hyperreality (Korte 290, Lanchester A5), which could actually produce "reinvented innocence" <ref type="bibr">(Trimm 639)</ref> or "authenticity run amok" <ref type="bibr">(Miracky 163)</ref>. However, critics have noted that such constructivist readings often overlook the socioeconomic conditions enabling that performativity, providing a reflection on the artificiality of "invented traditions" . Jong-Seok Kim identifies the "heritage/enterprise couplet" of the Thatcher era, criticizing this couplet for commodifying Britain's past into fake artifacts and clichéd nostalgic images, noting that this combination of heritage and enterprise is "potentially harmful and disturbing" <ref type="bibr">(587)</ref><ref type="bibr">(588)</ref>.</p><p>The fictionality of the theme park in England, England finds its parallel in The Sense of an Ending as the fictionality of memory. Accordingly, scholarship has predominantly focused on the novel's narrative ethics, with Sebastian Groes and Peter Childs framing the text's epistemological ambiguity as a "wisdom of uncertainty" (8), while critics like Michael Greaney and Sheikh Saifullah Ahmed interpret the protagonist's distorted recall through cognitive or narratological lenses -viewing it as either a revelation of the conflicts between normality and oddness <ref type="bibr">(Greaney 235)</ref> or a rhetorical trait of post-truth discourse <ref type="bibr">(Ahmed 1)</ref>.</p><p>However, while existing scholarship on the two novels provides extensive textual interpretations, two questions remain unaddressed: If national identity manifested in England, England is merely a debunked myth <ref type="bibr">(Nünning 58)</ref> or a commercial product <ref type="bibr">(Kim 595)</ref>, why does it continue to generate such enduring political mobilization? If the uncertainty in The Sense of an Ending is merely a form of wisdom or psychological defense, why does it manifest as a total withdrawal from the public sphere?</p><p>To address these questions, we should first look back to their publication years: 1998 and 2011, both of which represent pivotal junctures in the longue durée of the Brexit process. As Geoffrey Evans and Jonathan Mellon note, the founding of UKIP (UK Independence Party) in 1993 signaled the intensification of British Euroscepticism, creating pressure that eventually led Prime Minister David Cameron to make his transformative referendum pledge (76-77). If 1993 marked the ideological inception of this movement, 1998 constituted its structural turning point. This was the year of the Good Friday Agreement and the devolution statutes, which fractured the unitary identity of the Kingdom, coincidental with the UK's definitive refusal to join the Eurozone launch in 1999. Crucially, England, England emerges from this precise moment of conflicts: published as the state was simultaneously fragmenting from within and recoiling from Europe without. By reading the novel against this backdrop, this paper reveals how Barnes registers the early tremors of a national anxiety: the hollowing out of "Britishness" into a defensive "Englishness" that would, decades later, harden into the political will for Brexit.</p><p>By contrast, the publication of The Sense of an Ending on August 4, 2011, marks a distinct stage in the slow drift toward Brexit. By this time, the UK was entrenched in austerity and witnessing the European sovereign debt crisis, which, for many, transformed the EU from a beacon of prosperity into a symbol of institutional fragility. Even more telling is the novel's domestic synchronicity: debuting just 48 hours before the London riots, it arrived within a landscape of profound social fracture. As Ali Amir argues in Brexit and Liberal Democracy, these riots exposed the deep-seated "hopeless discontent" and deteriorating conditions essential to understanding the later referendum (59). Although written before the violence erupted, the novel functions as a seismograph for this volatile era, offering an early cultural articulation of the frustration that would eventually manifest with greater political consequence in 2016.</p><p>To understand how this objective social fracture translated into subjective political will, it is also necessary to integrate the social context with an affective perspective, bridging the gap between the "social" and the "psychological." By reading these texts through the lens of the looming Brexit crisis, we can identify specific "structures of feeling," notably "cruel optimism" and "reflexive impotence," concepts that explain how political paralysis and nostalgic nationalism were affectively incubating long before the 2016 referendum. This approach is substantiated by empirical research into the "affectivediscursive practices" of the vote, particularly Breeze's findings on the populist weaponization of higharousal emotions (24-43). Such evidence validates the rationale of reading these novels not merely as narratives, but as archives of the volatile political affects that fueled the eventual outburst.</p><p>To trace the evolution of these sentiments from latent structure to lived event, this paper introduces Ali Smith's Autumn as a comparative touchstone. Published just months after the 2016 referendum, Autumn embeds "the divisive events of the EU referendum within a wider cyclical process of British history and natural decline," arguably claiming the title of the first British "post-truth" novel, constituting a counterpart of national rhetoric such as the Daily Mail <ref type="bibr">(Shaw,</ref><ref type="bibr">British 208</ref>). Yet, prevailing scholarship has largely constrained the novel within a specific interpretive paradigm: reading it as a manifesto against xenophobia <ref type="bibr">(Stonebridge 8)</ref>. Critics read imagery such as "fences" as symbols of segregation <ref type="bibr">(Shaw,</ref> and "Brexit within" manifested by the contradictions between the rural and the urban (Heidemann 677), while Chunyan Li views the novel as "a collaborative, culturally reparative act, one that reclaims uncertainty as a space for plural meaningmaking, understanding, and cultural renewal" <ref type="bibr" target="#b0">(1)</ref>.</p><p>While valid, a large part of these readings mirrors the "Remain" narrative, which risks pathologizing Brexit as a racial failure rather than investigating its structural roots. A more granular understanding of Brexit's affective mechanics requires looking beyond the immediate politics of race. Xiaohui Liang offers a vital counterpoint to the "politics of racism" narrative by suggesting that viewing Brexit solely through the lens of xenophobia risks creating a "discursive trap" that masks the structural deprivation caused by global capitalism <ref type="bibr">(302)</ref><ref type="bibr">(303)</ref><ref type="bibr">(304)</ref><ref type="bibr">(305)</ref><ref type="bibr">(306)</ref>. Adopting this lens allows us to look beyond racial animus alone and explore how working-class economic anxiety in Autumn is articulated. This establishes a vital continuity with the works of Barnes, revealing how the post-imperial melancholia that was masked by spectacle in England, England and repressed into silence in The Sense of an Ending finally erupts into the fractured social landscape of Autumn.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Imperial Nostalgia and Insecurity in England, England</head><p>Published shortly before the euro's official launch in 1999 and on the eve of the new millennium, Julian Barnes' England, England emerged during the early phase of New Labor's cultural and political rebranding of Britain. It was the moment when the nation was negotiating the long aftershocks of deindustrialization and imperial contraction while striving to engineer a renewed sense of confidence through consumerism and spectacle. This strategy was codified in Mark Leonard's influential report Britain™: Renewing Our Identity in Jan 1997. Arguing that traditional icons like royalty and empire had become economic liabilities, Leonard proposed "rebranding" the nation akin to a corporation. By replacing these obsolete tropes with narratives of a "global hub" and "creative island," he claimed the state could extract an "identity premium," thereby converting cultural image into tangible economic value (3-10). As a result, Tony Blair's government popularized the slogan of "Cool Britannia," aiming to displace the waning authority of an industrial economy with cultural capital drawn from Britpop music, contemporary fashion, and the rapidly expanding creative industries. Ambitious statesponsored projects such as the Millennium Dome, which began its construction in June 1997, were launched amid both anticipation and skepticism, serving as monuments to the dream of a rejuvenated nation.</p><p>It is against this charged backdrop, which was caught between the melancholy of imperial loss and the glossy surfaces of a fabricated "New Britain," that Barnes poses a central question: when national identity can be compressed, replicated, and sold as entertainment, does it retain any genuine affective force? Through its satirical staging of an artificial heritage park, England, England exposes the fragility of this fantasy. Beneath the carnival of simulations, the novel registers a persistent post-imperial insecurity, an anxiety that circulates through spaces, bodies, and cultural forms. Citizens cling to the hope that collective faith can be rebuilt through curated images and commodified rituals, yet Barnes suggests that such faith is already hollowed out, collapsing under the weight of its own artifice. What emerges is the very framework of what Lauren Berlant terms "cruel optimism": an attachment to the fantasy of imperial plenitude that promises stability even as it forecloses the possibility of genuine renewal (Cruel 24).</p><p>The novel unfolds around the entrepreneur Sir Jack Pitman's ambitious project to construct a theme park that condenses national icons into a consumable spectacle. Within this spectacle, history is not faithfully reproduced but re-encoded as a simulacrum. As Baudrillard argues, hyperreality designates a state in which reality, artificial reproduction, and simulation become entangled, rendering the distinction between the real and its representation almost impossible: "It is no longer a question of imitation, nor duplication, nor even parody. It is a question of substituting the signs of the real for the real . . . A hyperreal henceforth sheltered from the imaginary, and from any distinction between the real and the imaginary, leaving room only for the orbital recurrence of models and for the simulated generation of differences" (2). In this sense, the park produces an affective environment "more real than real," an experience that is more controllable and more effective in shaping emotions than reality itself.</p><p>National memory is thus transformed from a dynamic social dialogue into a compressed mechanism of symbols and affect. England's history, culture, and memory are detached from their sociohistorical contexts, leaving only recognizable icons reorganized into a commodified identity experience. As a result, the beliefs of previous cultures have been objectively satirized, just as Kathleen Su, the Wall Street Journal correspondent in the novel, reported: Despite all our demographic changes, many Americans still feel a kinship with, and curiosity about, the little land William Shakespeare called 'this precious stone set in the silver sea.' This was, after all, the country from which the Mayflower set sail (it's Thursday mornings at 10.30 for 'The Setting Sail of the Mayflower'). The Island is the place to satisfy this curiosity. The present writer has visited what is increasingly referred to as 'Old England' a number of times. From now on, only those with an active love of discomfort or necrophiliac taste for the antique need venture there. The best of all that England was, and is, can be safely and conveniently experienced on this spectacular and well-equipped diamond of an Island. <ref type="bibr">(Barnes,</ref> In this passage, Barnes parodies the voice of journalistic authority to expose how national memory circulates as affective capital within a late-imperial economy. The report's ostensibly neutral tone -its admiration for "the little land William Shakespeare called 'this precious stone set in the silver sea'"appropriates the poetic language of sovereignty as a promotional device. Through this ironic reactivation, Shakespeare's myth of insular exceptionalism is emptied of historical weight and redeployed as a marketable signifier, exemplifying what Huyssen calls the "present past" (11-29), where history survives only as consumable image. The reference to the Mayflower, which is reduced to a scheduled attraction -"Thursday mornings at 10.30," literalizes the mechanization of memory where collective memory becomes a rehearsed performance, synchronizing with the rhythms of tourist convenience. Additionally, the expression "necrophiliac taste for the antique" further ridicules authentic historical engagement, pathologizing any attachment to the real past. Affects such as curiosity, nostalgia, reassurance circulate around commodified signs of Englishness, sustaining a fantasy of cultural continuity amid political decline. The final description of the Island as "a wellequipped diamond" crystallizes this logic: the past, polished and inert, is revalued as a luxury object promising safety and pleasure. By channeling the journalist's promotional rhetoric into a critique of post-imperal affect, Barnes reveals how the commodification of heritage converts loss into spectacle and memory into emotional consumption.</p><p>However, in striking contrast to this sentimentalized narrative, the Island operates through the systematic abstraction of English culture into a repertoire of performable icons. Elements such as Manchester United Football Club, Robin Hood, cricket, the BBC, and even the royal family and class system -the so-called "Fifty Quintessences of Englishness" are detached from their social and historical matrices and reassembled as modular spectacles <ref type="bibr">(Barnes,</ref>. In this process, "tradition" becomes a reproducible format rather than a living continuity. The effect is not merely aesthetic but political: by aestheticizing the fragments of national identity, the Island neutralizes the historical conflicts, which are exemplified by class antagonism, imperial guilt, regional inequality, that once animated them.</p><p>Different from Kim, who interprets Pitman's harm as "getting history wrong" (587), this study locates Pitman's harm in his construction of a pathological therapeutic mechanism, for Pitman emerges not as a nationalist propagandist but rather a "shrewd" engineer of affects, a curator of sentiment who understands that emotional coherence can substitute for political cohesion. His assertion that "there was no crime (apart from blips like this) and therefore no judicial system and no prisons -at least, not real ones. There was no government -only a disenfranchised Governor -and therefore no elections and no politicians" (Barnes, England 202) encapsulates the very capital-centered logic of late-capitalist cultural management: to convert social disintegration into an affective experience, to make nostalgia itself a marketable comfort. The Island's promise of immersion -of being "in touch with the soul of England" -thus functions as a technology of depoliticization, offering emotion in place of critique, recognition without responsibility.</p><p>As Matthew Pateman notes, Barnes' fiction is populated by characters searching for meaning in an increasingly depoliticized and secularized world (2). What Pitman ultimately manufactures is not the recovery of a nation but the illusion of continuity, namely the affective residue of belonging without the burden of history. In this sense, England, England dramatizes how the theme park operates as an emotional apparatus that transforms the loss of collective meaning into the pleasure of simulation. The novel exposes the cynical optimism of post-imperial culture: its ability to transform decline into display, fragmentation into feeling, and history into an endlessly consumable mirage of national wholeness. The contemporary attachments to the promise of a "good life" exactly show the structure of cruel optimism: even when an object such as the nation, the family, or success can no longer deliver on its promise, individuals and collectives continue to rely on it as an affective anchor (Berlant, Cruel 23-49). In England, England, the pervasive historical pessimism generated by Britain's imperial decline provides fertile ground for such attachments. Confronted with the reality that Britain is no longer a "mega" power, the nation survives not through geopolitical force, but merely through the accumulation of time. With material sovereignty and productive identity eroded, heritage can be understood as memory capital, emerges as the substitute object around which national belonging is reorganized.</p><p>On a macro level, the theme park "England, England" translates this attachment into a commodified infrastructure of affect through the "simulation-based processing." On the one hand, the hyperreality of the simulacrum intensifies the plausibility of nostalgic fantasy. Visitors, immersed in signifiers that feel "more real than the real," are more readily induced into the illusion of "touching the soul of England," thus granting sensorial reinforcement to the optimistic belief that the "ideal England" remains attainable. On the other hand, the dehistoricization of the simulacrum, namely, its deliberate stripping of the industrial and colonial contexts embedded in symbols like the monarchy or class hierarchy -actively forecloses the possibility of critical reflection. When history is reduced to frictionless, consumable signs, the structural causes of imperial decline are effaced, leaving the desire for national stability to be projected onto the repetitive experience of simulated scenes.</p><p>It is precisely through this dual mechanism, which combines together hyperreal intensification and historical erasure, that the public's optimistic attachment to the "ideal England" becomes a cruel bind: a sense of belonging seemingly secured through consumption, yet in reality deepening the hollowingout of identity by displacing confrontation with historical loss. Microscopically, its operation unfolds in three interrelated steps: firstly, symbolic compression and decontextualization: by flattening the complexity of history into predictable units of identity, the park reduces the psychological cost of national identification, making belonging effortless. Secondly, the commodification of time and ownership: as the novel insists, "We must demand the replica," for it is the replica instead of the original, that can be owned, reorganized, and provide jouissance <ref type="bibr">(Barnes,</ref><ref type="bibr">England 55)</ref>. Here, the failed promise of the good life is outsourced to purchasable surrogates: tickets, tours, souvenirs, and staged experiences allow subjects to cycle through micro-fulfillments of belonging. Thirdly, the ritualization of affective management: scripted interactions between performers and visitors transform symbols into repetitive circuits of emotion, such as lining up, cheering, taking photographs, reenacting moments of heritage. These practices institutionalize Berlant's notion of "non-eventful" optimism by enabling participants to sustain the feeling that "we are still England" without confronting the painful reality of imperial decline. In this sense, the park's success does not lie in faithfully reconstructing history but in stabilizing attachment, shifting national identity away from the fraught domain of politics and economics and into the controllable terrain of affective spectacle.</p><p>The pervasive sense of insecurity provides the underlying logic that sustains cruel optimism. Insecurity, denotes more than the fear of a specific threat; it marks the fissure within this very process of subject-formation. Insecurity is dispersed through the everyday, which can be felt in the fleeting, unfamiliar gaze on the street, or in the latent intimidation embedded in social environments <ref type="bibr">(Bondi 340)</ref>. These moments, woven together with affect, transform space into a structure charged with anxiety. Space, then, is not a neutral container but an active manifestation of insecurity. Within this framework, the theme park in England, England becomes more than a tourist attraction: it operates as a projection field for Britain's post-imperial anxieties, a site where cultural identity is staged to counterbalance the destabilising effects of historical loss.</p><p>Yet the logic of cruel optimism is destined to collapse, since it never solves the real and structural problems that matter: class inequality, racialized anxieties and cultural decline. As a result, all affects produced by these problems are reinvested in a landscape severed from lived reality, producing what might be termed an "injured" form of identification. That is to say, the more one clings to the replicated "England," the more the actual England is depleted and reduced to a performative spectacle rather than a livable community. In the novel's second half, Barnes dramatizes this trajectory to its extreme: the theme park drifts into a terrifying autonomy where the boundary between simulation and reality dissolves: actors become their roles and symbols ossify into facts, while the "original" England, stripped of affective investment, eventually sinks into cultural barrenness and decay. As Berlant cautions, the collapse of fantasy does not yield liberation; instead, it plunges subjects into an enduring "impasse," a time of dithering from which someone or some situation cannot move forward (Cruel 4), which will be shown in the next decade. In this light, England, England dramatizes the central paradox of cruel optimism: it alleviates loss through the immediacy of fantasy even as it forecloses the possibility of repair, propelling national identity into a cycle of attrition and collapse. The novel thus offers us an anticipatory diagnosis of pre-Brexit affect, where nostalgia and insecurity become consumable and national belonging is reconfigured into an emotional capital ripe for reactionary mobilization.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>The Illusion of Control and Reflexive Impotence in The Sense of an Ending</head><p>If England, England dramatized the cruel optimism of a nation clinging to its own simulacral image, The Sense of an Ending traces the afterlife of that optimism under the regime of "capitalist realism." 1 In the decade separating these two novels, Britain transformed from the cultural pageantry of Cool Britannia to the post-2008 financial crash -a shift that further hollowed out the fantasy of national renewal and relocated the labor of optimism to a more private sphere. Throughout this period, Barnes' fiction consistently interrogated the instability of meaning and the fragility of historical truth. For example, Arthur &amp; George explores the processes of historical reconstruction, revealing how narrative coherence rests on selective memory and interpretive frameworks. This interrogation reflects the erosion of the grand collective narratives that once anchored identity, as deindustrialization and neoliberal governance compounded structural divisions and rendered the notion of a "national future" increasingly hollow.</p><p>The Sense of an Ending internalizes this trajectory: rather than grappling with national identity in the public sphere, it stages the drama of narrative control within the intimate life of Tony Webster, an aging, ostensibly ordinary man. Tony's obsessive return to the past, exemplified by his compulsive effort to revise, explain, and rationalize, is less a pursuit of truth than an attempt to reimpose coherence on a fractured temporal experience. His revisions signal a defensive strategy: when external certainties collapse, the self turns inward within memory, seeking control where it remains imaginable. Yet the novel repeatedly thwarts this effort. Each act of recollection leads not to mastery but to further disorientation, culminating in the revelation that Tony has fundamentally misread the past.</p><p>The former part of the novel unfolds across Tony's early age, yet the depiction of his student years does more than evoke the intellectual climate of the time; it exposes a profound emotional configuration, characterized by a pervasive distrust of history coupled with a sense of futurelessness, manifesting not in radical opposition but in what Fisher terms the "reflexive impotence" -a resigned awareness that "things are bad" accompanied by the conviction that nothing can be done to change them <ref type="bibr">(Fisher 21</ref>). Adrian's assertion in a classroom discussion -"but there is one line of thought according to which all you can truly say of any historical event -even the outbreak of the First World War, for exampleis that 'something happened'" (Barnes, Sense 5) -reduces history to the bare facticity of occurrence, which is stripped of teleology, agency, and meaning. Additionally, Tony's cynical dictum that "history is the lies of the victors" (18), alongside Colin's remark that "it just repeats, sir. It burps. We've seen it again and again this year. Same old story, same old oscillation between tyranny and rebellion, war and peace, prosperity and impoverishment" (18), further underscore this affective orientation. For them, history is nothing but an endless, static oscillation devoid of progress, where any attempt at transformation is prefigured as futile.</p><p>The latter half of the novel unfolds through Tony's progressive revisions of memory and acts of selfnegation. At first, Tony adopts a mild, almost self-exculpatory stance toward the past, regarding himself as an inoffensive, rule-abiding young man: he acknowledges having loved Veronica and written a letter laced with insults to her and their friend Adrian, yet dismissed these actions as nothing more than the impulsive expressions of youth. However, as the narrative advances, Tony is forced to confront the unsettling possibility that his words and emotional indifference in youth may have indirectly contributed to Adrian's suicide.</p><p>A long-forgotten, vitriolic letter, resurfacing through an unexpected inheritance, becomes the central object of Tony's affective reckoning, unlocking the repressed layers of his memory. Even after the existence of this letter comes to light, Tony's daily life appears meticulously ordered: in retirement, he continues to wash dishes, read books, and occasionally lunch with his ex-wife. Yet this kind of "order" does not signify contentment; rather, it functions as a defensive posture, an attempt to contain the affective rupture of the past and preserve a fragile present stability. His recollections of Adrian's death are not defined by oblivion, but by strategic ambiguity and narrative recalibration: Tony continually adjusts his version of events to sustain a sense of coherence and control in a life otherwise marked by uncertainty. Before Veronica reintroduces the long-suppressed letter, Tony clings to the notion that he was just a young man who said some unkind things, not an agent bearing any moral responsibility for another's tragedy. Only decades later, as the truth gradually appears on the placid surface of his life, does remorse begin to seep through, yet even this remorse is shaped less by a pursuit of truth than by an effort to restore a manageable order within the self.</p><p>This affective mechanism reflects the governing logic of ethical regulation under neoliberalism where responsibility is internalized, politics is privatized, and ethics is reduced to a solitary affective performance confined to the isolated self. Tony's monologue at the beginning of the novel -"this last isn't something I actually saw, but what you end up remembering isn't always the same as what you have witnessed, though it may not be what happened" (3) -signals a strategy of narrative containment, in which the very instability of memory is mobilized as a defense against definitive accountability. What emerges is not the recognition of guilt but the avoidance of sanction, a calculated effort to maintain a fragile sense of order. Such delayed ethical awakening exemplifies the pattern that Barnes stages as the "narrative of remorse": "A feeling which is more complicated, curdled, and primeval" (108). It is a responsibility triggered not by external norms but by belated, subjective retrospection. Tony's hindsight confession reveals the hollowness of his earlier self-conception: But time . . . how time first grounds us and then confounds us. We thought we were being mature when we were only being safe. We imagined we were being responsible but were only being cowardly. What we called realism turned out to be a way of avoiding things rather than facing them. ( <ref type="formula">102</ref>)</p><p>As this passage suggests, Tony's retrospection serves less as a genuine reorganization of values than as a minimal cognitive adjustment designed to keep life tolerable. When collective frameworks of meaning disintegrate, the agency of Tony retreats to the smallest available scale -the self -where coherence can still be staged through acts of memory and interpretation.</p><p>Yet, this post-2008 impotence is not simply resignation; it incubates a compensatory, almost volatile desire for "taking back control." Tony's private attempt to sovereignly rewrite his history essentially foreshadows the public explosions of agency that would soon define the era. The wave of student protests in late 2010 signaled the first irruption of this oppositional energy, briefly suspending the logic of inevitability. As Fisher observes, "the very oppressive pervasiveness of capitalist realism means that even glimmers of alternative political and economic possibilities can have a disproportionately great effect," which can lead to the situation where "suddenly anything is possible again" (80-81). By 2011, this impulse had fully metastasized. The London riots expressed the explosive, chaotic realization of the same drive that animates Tony: a desperate refusal of powerlessness. Thus, Tony's narrative revisionism is not merely a retreat, but a latent form of the riot: a symptom of a society where the urge to reclaim sovereignty -whether over one's life story or the streets -was reaching a boiling point.</p><p>Synthesizing Berlant and Fisher, The Sense of an Ending depicts a privatized ethics where the foreclosure of political alternatives forces the fantasy of control to migrate inward. Trapped in a state of reflexive impotence, Tony restricts his agency to the private labor of narrative adjustment, endlessly revising the past to compensate for a paralyzed present. However, this internalized impasse operates as a transitional affective register: the thwarted desire for sovereignty does not vanish but mutates, foreshadowing the compensatory politics that would later crystallize in the Brexit slogan "Take Back Control." The novel thus allegorizes a critical historical pivot, tracing the volatile shift from privatized self-adjustment to the performative restoration of sovereignty at the national scale.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Mourning, Hope and Resentment: Post-Brexit Affects in Autumn</head><p>Emerging from the tensions traced in the previous chapter, Brexlit fiction registers a profound affective response to decades of socioeconomic restructuring that systematically eroded the material and symbolic security of Britain's working class. Neoliberal reforms initiated in the 1980s, marked by privatization, deregulation, and the retrenchment of the welfare state, intensified wealth polarization and hollowed out collective safeguards, leaving deindustrialized regions acutely exposed to economic precarity. Against this backdrop, globalization and the free movement of labor under EU membership were not perceived as offering the promise of cosmopolitan enrichment, but rather as agents of dispossession. For many low-income and working-class communities, these structural shifts ultimately crystallized into a pervasive feeling of abandonment by political elites, reinforcing the perception that their grievances had been rendered inaudible within dominant policy discourse.</p><p>Similar to the kind of nostalgia proposed by Raymond Williams, which seeks comfort in the past, this pervasive disaffection aligns with what Capelos and Katsanidou summarize as "reactionary preferences in the crisis": based on the research done by Kenny and Lilla, they argue that populists attract support through "nostalgic evocations of a glorious imagined past," a past "where anxieties were not felt and uncertainties were calmed." These parties argue that the present disorder stems from a deviation from the traditional order, necessitating a solution rooted in a return to pre-globalized <ref type="bibr">Britain (1273</ref><ref type="bibr">Britain ( -1278))</ref>. Within this affective economy, the frustrated desire for agency, which earlier cultural texts often sought to resolve through private narratives of coherence, mutates into a collective resentment -a politics of blame directed at symbolic antagonists such as immigrants, Brussels bureaucrats, and metropolitan elites. These figures become repositories for diffuse feelings of disempowerment, allowing reactionary imaginaries to recode loss into a project of national restoration.</p><p>Building on the critical framework established in the previous chapters, which shifts the focus from racial antagonism to the socioeconomic anxieties underpinning Brexit, this section examines how Ali Smith's Autumn functions as an archive of affective desolation. As Shaw observes, the referendum did not create rupture but exposed existing wounds: "Brexit did not divide the nation, it merely revealed the inherent divisions within society," manifesting decades of "impotent rage" and structural neglect <ref type="bibr">("Brexlit" 16)</ref>. Manifesting this light, Autumn stages, through fractured narration and recursive temporality, a prolonged and unfinished work of mourning -not for an individual death, but for "a certain futurity" slipping out of reach. Smith constructs this affective landscape through the intergenerational dialogue between Daniel and Elisabeth: he, the custodian of a mid-century idealism now fraying; while she, the inhabitant of a cultural order increasingly hollowed out, where language falters and the very infrastructure of belonging begins to erode. The sense of dispossession surfaces in the smallest textures of daily life: the absurd ritual of renewing a passport, the shuttered public library, the incessant churn of immigration debates on television. These are not isolated inconveniences, but symptoms of the structural attrition of the public sphere. Here, Smith captures the material reality of "Slow Death": the physical and exhaustively bureaucratic wearing out of the subject amid the decay of social infrastructure (Berlant, Cruel 95).</p><p>From its opening invocation that "'o brave new world!' It was a challenge, a command," Autumn frames the post-Brexit condition as a future foreclosed and forced upon its subjects <ref type="bibr">(Smith 18)</ref>. The duality of "challenge" and "command" signals a future that is neither aspirational nor voluntary, but coercive in its unpredictability. Public space, once imagined as a democratic common, appears increasingly uninhabitable. Elisabeth's pilgrimage to the local library -only to find it defunded and abandoned -embodies this collapse of a shared world. The passport episode crystallizes this logic of attrition. Told her application has been rejected because her photograph "falls short by 5 millimetres" (24), Elisabeth confronts not simply bureaucratic absurdity but the materialization of Sara Ahmed's notion of "affective economies," where emotion does not exist in isolation within individuals or signs but accrues through their circulation among symbols, images, and objects. As Ahmed emphasizes, "affect does not reside in an object or sign, but is an effect of the circulation between objects and signs ( = the accumulation of affective value)" (45). The passport, ostensibly a guarantor of security and mobility, becomes a token of conditional belonging because its inaccessibility emblematic of a state apparatus increasingly calibrated to produce precarity. Behind this procedural pedantry lurks a broader affective economy: the shrinking of sovereignty. As Britain's imperial dividends wane, the unacknowledged grief of structural decline finds no outlet in historical reckoning. Instead, as Bhambra argues, Brexit-related discourses construct Britain as "whitewashing" by deliberately erasing the historical fact that Britain was never merely a nation-state, but an empire. Brexit therefore represents a refusal to reckon with the structural legacies of empire, displacing systemic loss onto proximate figures of blame on immigrants, metropolitan elites, the socially marginal (220). In Autumn, Smith exactly refracts this displacement through a semiotics of enclosure:</p><p>All across the country, people felt it was the wrong thing. All across the country, people felt it was the right thing. All across the country, people felt they'd really lost. All across the country, people felt they'd really won. All across the country, people felt they'd done the right thing and other people had done the wrong thing. All across the country, people looked up Google: what is EU? All across the country, people looked up Google: move to Scotland . . . All across the country, people told people to leave . . . All across the country, racist bile was general. All across the country, people said it wasn't that they didn't like immigrants. <ref type="bibr">(59)</ref><ref type="bibr">(60)</ref> The anaphoric rhythm of this passage transforms repetition into a formal analogue of emotional contagion. Through this incantatory syntax, feeling becomes a circulating force rather than a stable interior state: each clause mirrors and amplifies the next, creating a feedback loop in which collective emotion moves, mutates, and multiplies. The symmetrical structure, ostensibly neutral, thus enacts the dispersal of affect across the national body, dissolving distinctions between agency and reaction, conviction and confusion. By turning linguistic pattern into affective infrastructure, Smith demonstrates how affects "stick" to words, images, and bodies through circulation rather than origin.</p><p>This rhythmic litany captures the complete emotional and cognitive fragmentation of British society after the Brexit referendum, transforming a political decision into a moralized economy of mutual accusation: "us" against "them." The repetition itself becomes symptomatic of resentment: the compulsion to rehearse grievance as a substitute for resolution. The fence that recurs throughout Autumn, both literal and symbolic, emerges as the spatial corollary of this logic, functioning less as a physical barrier than as an epistemic device that divides the social field into zones of belonging and exclusion. Its affective texture is resentment, or what Nietzsche described as the "reversal of the direction of ressentiment." For Nietzsche, this "reversal" occurs when those feeling powerless redirect their frustration not at the systems causing their oppression, but at weaker groups -here, immigrants or "metropolitan elites" -framing them as the source of national decline. This is precisely the logic Smith captures in Autumn, where diffuse economic anxiety mutates into targeted hostility. Such a redirection of resentment, Nietzsche argues, allows dominant systems to evade critique by channeling collective discontent into intra-societal conflict rather than structural change (126-127).</p><p>Yet Autumn does not simply diagnose this trajectory; it registers its affective ambivalence. If resentment organizes one pole of the post-Brexit mood, the other is a compromised hopefulnessfragile, gestural, always on the verge of collapse. The duality is crystallized in Daniel's ward, where Elisabeth reads Charles Dickens's famous lines from A Tale of Two Cities: " . . . it was the spring of hope, it was the winter of despair" <ref type="bibr">(Smith 201)</ref>. By invoking this line, Smith strategically layers historical temporalities. What Dickens originally identified as the contradictory rhythm of the French Revolution -the simultaneous promise of renewal and the terror of ruin -is repurposed here to describe the psychic condition of post-Brexit Britain. In Smith's novel, the paradox becomes the defining affects of a nation suspended between futures it can no longer imagine and pasts it cannot relinquish.</p><p>This suspended condition finds its formal counterparts in Pauline Boty's collage and the bagatelle game. Boty's work translates collective loss into concrete visual signs: through collage, she materializes the cruelty of fragmentation that defines postwar and, by extension, post-Brexit Britain. In her Untitled (Sunflower Woman) c.1963, the female body is composed of conflicting elements: "a man with a machine gun," "a factory forming her arm and shoulder," "a sunflower filling her torso," and "an exploding airship making her crotch" (152). The machine gun evokes the violence and antagonism that resurface in post-Brexit xenophobia, the same hostility seen when Spanish tourists are told: "this isn't Europe . . . Go back to Europe" (130). The sunflower stands for vitality and openness, the lost promise of human connection, while the airship explosion suggests the rupture of collective bonds. Through these juxtapositions, Boty enacts what might be called a mourning through making: her art mourns fragmentation not by idealizing wholeness, but by exposing and reassembling its debris. The act of collage becomes an affective practice of survival, asserting that hope can persist even in pieces. Similarly, in the bagatelle game, when Elisabeth chooses "the man with a gun" and Daniel responds with "a person who's come in disguise as a tree," their story transforms confrontation into remorse -the gunman shoots a bird's nest and weeps for it. This moment of imaginative repair dismantles binary opposition and gestures toward reconciliation. Yet the reconciliation remains provisional, as fragile as the art that imagines it.</p><p>What England mourns is not a tangible past, but an imagined community that "we once believed we had." The syntax of Smith's prose mirrors this condition: sentences hesitate between completion and interruption; digressions proliferate; narrative time eddies rather than flows. Just as Boty's collage and the bagatelle game assemble meaning from fragments only to expose its precarity, Smith's narrative form performs the same oscillation between disintegration and repair. Such formal strategies enact the affective temporality of the post-Brexit present -an era in which the promise of futurity persists only as a hollowed-out form, a gesture clinging to its own impossibility. Crucially, if mourning presupposes a discernible object of loss, Autumn offers none. Its grief is atmospheric, dispersed, unfinishable. And therein lies the novel's most unsettling insight: that the work of mourning, foreclosed at the level of historical consciousness, mutates into resentment, an energy that binds communities through exclusion, suturing the psychic wound of imperial decline with the adhesive of blame.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Conclusion</head><p>As Stonebridge suggests, "Weightless, rootless, banality creeps like fungus, sticking to everything. Often you don't know it's there until the furniture of politics goes clammy and starts to rot" (8). Echoing this imagery of slow decay, this paper argues that Brexit was not a singular rupture formed in the 2016 referendum, but the culmination of a protracted, subterranean affective process. Firstly, England, England reveals how commodified history established affect as the infrastructural substitute for post-imperial reality. Secondly, The Sense of an Ending identifies "reflexive impotence" as the defining pre-Brexit condition, where political paralysis is internalized as the obsessive revision of private memory. Finally, Autumn exposes a "logic of substitution," wherein this accumulated impotence is displaced into exclusionary resentment to obscure the structural decline of the Empire.</p><p>By tracing this trajectory from 1998 to 2016, the study elucidates the reconfiguration of the nexus between affect, discourse, and state governance across the pre-and post-Brexit landscape, not only extending the scope of existing interpretations on Barnes' studies that prioritize cultural construction or humanist ethics but also contributing to the Brexlit studies. This paper argues that Brexit should not be read as a reactive commentary on a single political event, but as an aesthetic witness to the chronic imbalance of emotional structures within British culture. Affects here do not always surface through explicit political acts; they circulate in the repetitive rhythms of everyday life, mediated by denial, selective memory, and the deferred temporality of mourning. When these regulatory mechanisms falter, affect erupts into the public sphere in the form of cultural panic, racial anxiety, and the scapegoating, generating the substrate for new political imaginaries. In this sense, literature does not offer solutions to the governance of emotion; rather, it inhabits affective ruins to preserve the residue of history's failed promises. Barnes' novels precisely occupy this terrain of fatigue, contradiction, and fracture, providing not closure but a provisional language for unnamed social wounds, a space where the affective remains of the past continue to structure the political imaginaries of the present.</p></div>			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="6" xml:id="foot_0"><p>X. XIN</p></note>
+		</body>
+		<back>
+
+			<div type="funding">
+<div><head>Funding</head><p>This research received no specific grant from any funding agency in the public, commercial, or not-for-profit sectors.</p></div>
+<div><head>Notes on Contributor</head><p><rs type="person">Xiaochen Xin</rs> is a PhD student in the <rs type="institution">School of Foreign Studies at Nanjing University, China</rs>. Her research interests include contemporary American and British literature, especially Latinx literature. Her contact information is xiaochenxin@smail.nju.edu.cn.</p></div>
+<div><head>Works Cited</head><p>Adam, Sibyl. "'<rs type="projectName">It Was the Worst of Times, It Was the Worst of Times': Brexit and Literary Mood in Ali Smith's Autumn</rs>."</p></div>
+			</div>
+			<listOrg type="funding">
+				<org type="funded-project" xml:id="_j3eqj5D">
+					<orgName type="project" subtype="full">It Was the Worst of Times, It Was the Worst of Times&apos;: Brexit and Literary Mood in Ali Smith&apos;s Autumn</orgName>
+				</org>
+			</listOrg>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<analytic>
+		<title level="a" type="main">Note: the term &quot;capitalist realism&quot; was put forward by Mark Fisher in his Capitalist Realism: Is There No Alternative?</title>
+	</analytic>
+	<monogr>
+		<title level="m">Contemporary Women&apos;s Writing</title>
+		<imprint>
+			<date type="published" when="2009">2009. 2022</date>
+			<biblScope unit="volume">16</biblScope>
+			<biblScope unit="page" from="60" to="78" />
+		</imprint>
+	</monogr>
+	<note>Disclosure Statement No potential conflict of interest was reported by the author(s)</note>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<title level="a" type="main">Affect Theory and Literary Criticism</title>
+		<author>
+			<persName><forename type="first">Stephen</forename><surname>Ahern</surname></persName>
+		</author>
+		<idno type="DOI">10.1177/17540739241231934</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Emotion Review</title>
+		<imprint>
+			<biblScope unit="volume">16</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="96" to="106" />
+			<date type="published" when="2024">2024</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<monogr>
+		<title level="m" type="main">The Cultural Politics of Emotion</title>
+		<author>
+			<persName><forename type="first">Sara</forename><surname>Ahmed</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2004">2004</date>
+			<pubPlace>Edinburgh UP</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title level="a" type="main">Exploring Post-Truth in Julian Barnes&apos;s The Sense of an Ending</title>
+		<author>
+			<persName><surname>Ahmed</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Sheikh</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Social Sciences &amp; Humanities Open</title>
+		<imprint>
+			<biblScope unit="volume">10</biblScope>
+			<biblScope unit="page" from="1" to="8" />
+			<date type="published" when="2024">2024</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<monogr>
+		<author>
+			<persName><forename type="first">Amir</forename><surname>Ali</surname></persName>
+		</author>
+		<title level="m">Brexit and Liberal Democracy: Populism, Sovereignty, and the Nation-State</title>
+		<imprint>
+			<publisher>Routledge</publisher>
+			<date type="published" when="2021">2021</date>
+			<biblScope unit="page" from="53" to="73" />
+		</imprint>
+	</monogr>
+	<note>Brexit, the 2007 Financial Crisis and Austerity</note>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title level="a" type="main">A Literary Portrayal of Individual and Collective Psychosis</title>
+		<author>
+			<persName><forename type="first">Seda</forename><surname>Arikan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Yeşim</forename><surname>İpekçi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Julian</forename><surname>Barnes's England</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">England</forename></persName>
+		</author>
+		<idno type="DOI">10.47777/cankujhss.848830</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Cankaya University Journal of Humanities and Social Sciences</title>
+		<imprint>
+			<biblScope unit="volume">14</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="170" to="186" />
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<monogr>
+		<author>
+			<persName><forename type="first">Julian</forename><forename type="middle">England</forename><surname>Barnes</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Jonathan</forename><surname>Cape</surname></persName>
+		</author>
+		<title level="m">The Sense of an Ending. Alfred A. Knopf</title>
+		<imprint>
+			<date type="published" when="1998">1998. 2011</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<author>
+			<persName><forename type="first">J</forename><surname>Baudrillard</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Simulacra and Simulation. Sheil F. Glaser Translated by. The U of Michigan P</title>
+		<imprint>
+			<publisher>Duke UP</publisher>
+			<date type="published" when="1995">1995. 2011. 2022</date>
+		</imprint>
+	</monogr>
+	<note>The Inconvenience of Other People</note>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title level="a" type="main">Brexit, Trump, and &apos;Methodological Whiteness&apos;: On the Misrecognition of Race and Class</title>
+		<author>
+			<persName><forename type="first">Gurminder</forename><forename type="middle">K</forename><surname>Bhambra</surname></persName>
+		</author>
+		<idno type="DOI">10.1111/1468-4446.12317</idno>
+	</analytic>
+	<monogr>
+		<title level="j">The British Journal of Sociology</title>
+		<imprint>
+			<biblScope unit="volume">68</biblScope>
+			<biblScope unit="issue">S1</biblScope>
+			<biblScope unit="page" from="214" to="232" />
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title level="a" type="main">Feeling Insecure: A Personal Account in a Psychoanalytic Voice</title>
+		<author>
+			<persName><forename type="first">Liz</forename><surname>Bondi</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/14649365.2013.864783</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Social &amp; Cultural Geography</title>
+		<imprint>
+			<biblScope unit="volume">15</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="332" to="350" />
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title level="a" type="main">Emotion in Politics: Affective-Discursive Practices in UKIP and Labour</title>
+		<author>
+			<persName><forename type="first">Ruth</forename><surname>Breeze</surname></persName>
+		</author>
+		<idno type="DOI">10.1177/0957926518801074</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Discourse &amp; Society</title>
+		<imprint>
+			<biblScope unit="volume">30</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="24" to="43" />
+			<date type="published" when="2019">2019</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title level="a" type="main">Reactionary Politics: Explaining the Psychological Roots of Anti Preferences in European Integration and Immigration Debates</title>
+		<author>
+			<persName><forename type="first">T</forename><surname>Capelos</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Katsanidou</surname></persName>
+		</author>
+		<idno type="DOI">10.1111/pops.12540</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Political Psychology</title>
+		<imprint>
+			<biblScope unit="volume">39</biblScope>
+			<biblScope unit="issue">6</biblScope>
+			<biblScope unit="page" from="1271" to="1288" />
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<title level="a" type="main">Julian Barnes&apos;s The Only Story -Within and Beyond the Author&apos;s Idiosyncrasies</title>
+		<author>
+			<persName><forename type="first">Petr</forename><surname>Chalupský</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">American and British Studies Annual</title>
+		<imprint>
+			<biblScope unit="volume">14</biblScope>
+			<biblScope unit="page" from="9" to="23" />
+			<date type="published" when="2021">2021</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<title level="a" type="main">What Does Lauren Berlant Teach Us About Affect, Mediation, and Global Nationalism?</title>
+		<author>
+			<persName><forename type="first">Closs</forename><surname>Stephens</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Angharad</forename></persName>
+		</author>
+		<idno type="DOI">10.70064/mt.v7i2.581</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Media Theory</title>
+		<imprint>
+			<biblScope unit="volume">7</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="191" to="208" />
+			<date type="published" when="2023">2023</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<monogr>
+		<title level="m" type="main">The Affective Turn: Theorizing the Social</title>
+		<editor>Clough, Patricia Ticineto, and Jean Halley</editor>
+		<imprint>
+			<date type="published" when="2007">2007</date>
+			<publisher>Duke UP</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title level="a" type="main">Immigration, Euroscepticism, and the Rise and Fall of UKIP</title>
+		<author>
+			<persName><forename type="first">Geoffrey</forename><surname>Evans</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Jonathan</forename><surname>Mellon</surname></persName>
+		</author>
+		<idno type="DOI">10.1177/1354068818816969</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Party Politics</title>
+		<imprint>
+			<biblScope unit="volume">25</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="76" to="87" />
+			<date type="published" when="2019">2019</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<monogr>
+		<title level="m" type="main">Capitalist Realism: Is There No Alternative?</title>
+		<author>
+			<persName><forename type="first">Mark</forename><surname>Fisher</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2009">2009</date>
+			<publisher>Zero Books</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<analytic>
+		<title level="a" type="main">The Oddness of Julian Barnes and the Sense of an Ending</title>
+		<author>
+			<persName><forename type="first">Michael</forename><surname>Greaney</surname></persName>
+		</author>
+		<idno type="DOI">10.1093/english/efu016</idno>
+	</analytic>
+	<monogr>
+		<title level="j">English (London)</title>
+		<imprint>
+			<biblScope unit="volume">63</biblScope>
+			<biblScope unit="issue">242</biblScope>
+			<biblScope unit="page" from="225" to="240" />
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<monogr>
+		<title level="m" type="main">Seigworth edited. The Affect Theory Reader</title>
+		<author>
+			<persName><forename type="first">Melissa</forename><surname>Gregg</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Gregory</forename><forename type="middle">J</forename></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2010">2010</date>
+			<pubPlace>Duke UP</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<analytic>
+		<title level="a" type="main">Contemporary Critical Perspectives</title>
+		<author>
+			<persName><forename type="first">Julian</forename><surname>Barnes</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Continuum</title>
+		<editor>
+			<persName><forename type="first">Sebastian</forename><surname>Groes</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">Peter</forename><surname>Childs</surname></persName>
+		</editor>
+		<imprint>
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<monogr>
+		<title level="m" type="main">Julian Barnes from the Margins: Exploring the Writer&apos;s Archives</title>
+		<author>
+			<persName><forename type="first">Vanessa</forename><surname>Guignery</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2020">2020</date>
+			<publisher>Bloomsbury Academic</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<analytic>
+		<title level="a" type="main">The Brexit Within: Mapping the Rural and the Urban in Contemporary British Fiction</title>
+		<author>
+			<persName><forename type="first">Birte</forename><surname>Heidemann</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/17449855.2020.1820670</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Postcolonial Writing</title>
+		<imprint>
+			<biblScope unit="volume">56</biblScope>
+			<biblScope unit="issue">5</biblScope>
+			<biblScope unit="page" from="676" to="688" />
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<analytic>
+		<title level="a" type="main">Affect and Its Critics: What Does It Mean to Be in an Affective Relationship?</title>
+		<author>
+			<persName><forename type="first">Clare</forename><surname>Hemmings</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Interdisciplinary Feminism</title>
+		<imprint>
+			<biblScope unit="volume">1</biblScope>
+			<biblScope unit="page" from="1" to="20" />
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">Frederick</forename><forename type="middle">M Julian</forename><surname>Holmes</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Barnes</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="s">New British Fiction</title>
+		<imprint>
+			<date type="published" when="2009">2009</date>
+			<publisher>Macmillan Education UK</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<monogr>
+		<title level="m" type="main">Present Pasts: Urban Palimpsests and the Politics of Memory</title>
+		<author>
+			<persName><forename type="first">Andreas</forename><surname>Huyssen</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2003">2003</date>
+			<pubPlace>Stanford UP</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<analytic>
+		<title level="a" type="main">Back to the Populist Future?: Understanding Nostalgia in Contemporary Ideological Discourse</title>
+		<author>
+			<persName><forename type="first">Michael</forename><surname>Kenny</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/13569317.2017.1346773</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Political Ideologies</title>
+		<imprint>
+			<biblScope unit="volume">22</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="256" to="273" />
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<analytic>
+		<title level="a" type="main">Getting History Wrong&apos;: The Heritage/Enterprise Couplet in</title>
+		<author>
+			<persName><forename type="first">Jong-Seok ;</forename><surname>Kim</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Julian</forename><surname>Barnes's England</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">England</forename></persName>
+		</author>
+		<idno type="DOI">10.1080/00111619.2017.1347554</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Critique: Studies in Contemporary Fiction</title>
+		<imprint>
+			<biblScope unit="volume">58</biblScope>
+			<biblScope unit="issue">5</biblScope>
+			<biblScope unit="page" from="587" to="599" />
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b27">
+	<analytic>
+		<title level="a" type="main">Tourism as a Critique of Postmodernism</title>
+		<author>
+			<persName><forename type="first">Barbara</forename><forename type="middle">;</forename><surname>Korte</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Julian</forename><surname>Barnes's England</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">England</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">The Making of Modern Tourism: The Cultural History of the British Experience</title>
+		<imprint>
+			<date type="published" when="1600">1600-2000, 2002</date>
+			<biblScope unit="page" from="285" to="303" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b28">
+	<monogr>
+		<title level="m" type="main">A Vision of England</title>
+		<author>
+			<persName><forename type="first">John</forename><surname>Lanchester</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1998-08-29">Aug, 29 1998</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b29">
+	<monogr>
+		<author>
+			<persName><forename type="first">Mark</forename><surname>Leonard</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Britain™</surname></persName>
+		</author>
+		<ptr target="https://demos.co.uk/wp-content/uploads/files/britaintm.pdf" />
+		<title level="m">Renewing Our Identity</title>
+		<imprint>
+			<date type="published" when="1997-11-20">1997. 20 Nov. 2025</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b30">
+	<analytic>
+		<title level="a" type="main">Collage and Bagatelle as Dialogic Games: Representational and Narrative Strategies in Ali Smith&apos;s Autumn</title>
+		<author>
+			<persName><forename type="first">Chunyan</forename><surname>Li</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/00111619.2025.2533234</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Critique -Bolingbroke Society</title>
+		<imprint>
+			<biblScope unit="page" from="1" to="12" />
+			<date type="published" when="2025">2025</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b31">
+	<analytic>
+		<title level="a" type="main">Politics of Racism&apos; and Brexlit: Questioning the Racially Labelled Entities in Ali Smith&apos;s Autumn</title>
+		<author>
+			<persName><forename type="first">Xiaohui</forename><surname>Liang</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/17449855.2024.2334954</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Postcolonial Writing</title>
+		<imprint>
+			<biblScope unit="volume">60</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="301" to="314" />
+			<date type="published" when="2024">2024</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b32">
+	<monogr>
+		<title level="m" type="main">The Shipwrecked Mind: On Political Reaction</title>
+		<author>
+			<persName><forename type="first">Mark</forename><surname>Lilla</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2016">2016</date>
+			<publisher>New York Review of Books</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b33">
+	<analytic>
+		<title level="a" type="main">Fictional Paradigms and Critique of Morality: A Study of Julian Barnes&apos; The Sense of an Ending</title>
+		<author>
+			<persName><forename type="first">Weiqiang</forename><surname>Mao</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Waiguo Wenxue Yanjiu (Wuhan Shi, China)</title>
+		<imprint>
+			<biblScope unit="volume">34</biblScope>
+			<biblScope unit="issue">6</biblScope>
+			<biblScope unit="page" from="119" to="126" />
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b34">
+	<monogr>
+		<title level="m" type="main">Parables for the Virtual: Movement, Affect, Sensation</title>
+		<author>
+			<persName><forename type="first">Brian</forename><surname>Massumi</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2002">2002</date>
+			<publisher>Duke UP</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b35">
+	<analytic>
+		<title level="a" type="main">Replicating a Dinosaur: Authenticity Run Amok in the &apos;Theme Parking&apos; of Michael Crichton&apos;s Jurassic Park and</title>
+		<author>
+			<persName><forename type="first">James</forename><forename type="middle">J</forename><surname>Miracky</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Julian</forename><surname>Barnes's England</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">England</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Critique -Bolingbroke Society</title>
+		<imprint>
+			<biblScope unit="volume">45</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="163" to="171" />
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b36">
+	<analytic>
+		<title level="a" type="main">On the Genealogy of Morals and Ecce Homo</title>
+		<author>
+			<persName><forename type="first">Friedrich</forename><surname>Nietzsche</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Walter Kaufmann and R. J. Hollingdale Translated by. Vintage Books</title>
+		<imprint>
+			<date type="published" when="1989">1989</date>
+			<publisher>Penguin Random House LLC</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b37">
+	<analytic>
+		<title level="a" type="main">The Invention of Cultural Traditions: The Construction and Deconstruction of Englishness and Authenticity in Julian Barnes&apos; England England</title>
+		<author>
+			<persName><forename type="first">Vera</forename><surname>Nünning</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Anglia (Tübingen)</title>
+		<imprint>
+			<biblScope unit="volume">119</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="58" to="76" />
+			<date type="published" when="2001">2001</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b38">
+	<monogr>
+		<author>
+			<persName><forename type="first">Zizi</forename><surname>Papacharissi</surname></persName>
+		</author>
+		<title level="m">Affective Publics: Sentiment, Technology, and Politics</title>
+		<meeting><address><addrLine>Oxford UP</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b39">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">Matthew</forename><forename type="middle">Julian</forename><surname>Pateman</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Barnes</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2002">2002</date>
+			<pubPlace>Northcote House</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b40">
+	<analytic>
+		<title level="a" type="main">The Reconstruction of Truth Through Unreliable Voices in Julian Barnes&apos; The Sense of an Ending</title>
+		<author>
+			<persName><forename type="first">Somaye</forename><surname>Sharify</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Nasser</forename><surname>Maleki</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Critical Literary Studies</title>
+		<imprint>
+			<biblScope unit="volume">2</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="103" to="114" />
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b41">
+	<analytic>
+		<title level="a" type="main">BrexLit</title>
+		<author>
+			<persName><forename type="first">Kristian</forename><surname>Shaw</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Brexit and Literature: Critical and Cultural Responses</title>
+		<editor>
+			<persName><forename type="first">Robert</forename><surname>Eaglestone</surname></persName>
+		</editor>
+		<editor>
+			<persName><surname>Routledge</surname></persName>
+		</editor>
+		<imprint>
+			<date type="published" when="2018">2018</date>
+			<biblScope unit="page" from="15" to="30" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b42">
+	<monogr>
+		<title level="m">Brexlit: British Literature and the European Project</title>
+		<imprint>
+			<publisher>Bloomsbury Academic</publisher>
+			<date type="published" when="2021">2021</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b43">
+	<analytic>
+		<title level="a" type="main">Hyperreal Replicas in Julian Barnes</title>
+		<author>
+			<persName><forename type="first">Mohammadreza</forename><surname>Shayanpoor</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Farzad</forename><surname>Kolahjooei</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">;</forename><surname>England</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">England</forename></persName>
+		</author>
+		<idno type="DOI">10.33919/esnbu.24.2.5</idno>
+	</analytic>
+	<monogr>
+		<title level="j">English Studies at NBU</title>
+		<imprint>
+			<biblScope unit="volume">10</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="292" to="308" />
+			<date type="published" when="2024">2024</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b44">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">Ali</forename><surname>Smith</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2017">2017</date>
+			<publisher>Anchor Books</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b45">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">Baruch</forename><surname>Spinoza</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Ethics. Edited and Translated by Edwin Curley</title>
+		<imprint>
+			<date type="published" when="1996">1996</date>
+			<pubPlace>Penguin</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b46">
+	<analytic>
+		<title level="a" type="main">The Banality of Brexit</title>
+		<author>
+			<persName><forename type="first">Lyndsey</forename><surname>Stonebridge</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Brexit and Literature: Critical and Cultural Responses</title>
+		<editor>
+			<persName><forename type="first">Robert</forename><surname>Eaglestone</surname></persName>
+		</editor>
+		<editor>
+			<persName><surname>Routledge</surname></persName>
+		</editor>
+		<imprint>
+			<date type="published" when="2018">2018</date>
+			<biblScope unit="page" from="7" to="14" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b47">
+	<analytic>
+		<author>
+			<persName><forename type="first">Ryan</forename><forename type="middle">;</forename><surname>Trimm</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Downriver</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">England</forename><surname>England</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/0950236X.2020.1742782</idno>
+	</analytic>
+	<monogr>
+		<title level="m">Replica Britannia: Heritage as Postmodern Industry in</title>
+		<imprint>
+			<date type="published" when="2021">2021</date>
+			<biblScope unit="volume">35</biblScope>
+			<biblScope unit="page" from="639" to="665" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b48">
+	<analytic>
+		<title level="a" type="main">Structures of Feeling</title>
+		<author>
+			<persName><forename type="first">Raymond</forename><surname>Williams</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Marxism and Literature. Oxford UP</title>
+		<imprint>
+			<biblScope unit="page" from="128" to="135" />
+			<date type="published" when="1977">1977</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

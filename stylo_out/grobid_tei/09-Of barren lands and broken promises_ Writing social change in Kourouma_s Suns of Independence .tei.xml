@@ -1,0 +1,874 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Of barren lands and broken promises: Writing social change in Kourouma&apos;s Suns of Independence and Allah Is Not Obliged</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author role="corresp">
+							<persName><forename type="first">Omotayo</forename><surname>Jemiluyi</surname></persName>
+							<email>jemiluyiomotayo@gmail.com</email>
+							<affiliation key="aff0">
+								<orgName type="department">School of Languages</orgName>
+								<orgName type="laboratory">Literatures, and Cultures (SLLC)</orgName>
+								<orgName type="institution">University of Missouri</orgName>
+								<address>
+									<settlement>Columbia</settlement>
+									<region>MO</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff1">
+								<orgName type="department">SLLC</orgName>
+								<orgName type="institution">University of Missouri</orgName>
+								<address>
+									<addrLine>143 Arts &amp; Science Building</addrLine>
+									<postCode>65211-7400</postCode>
+									<settlement>Columbia</settlement>
+									<region>MO</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Of barren lands and broken promises: Writing social change in Kourouma&apos;s Suns of Independence and Allah Is Not Obliged</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date/>
+						</imprint>
+					</monogr>
+					<idno type="MD5">91EB4C6D2091E82E547D93FA74B13CFD</idno>
+					<idno type="DOI">10.1080/17449855.2025.2593631</idno>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.0" ident="GROBID" when="2026-02-25T19:52+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term>Ahmadou Kourouma</term>
+					<term>African literature and activism</term>
+					<term>postcolonial critique</term>
+					<term>moral decay</term>
+					<term>sterility</term>
+					<term>mourning and mobilization</term>
+				</keywords>
+			</textClass>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>This article examines the political and aesthetic strategies of resistance in Ahmadou Kourouma's Suns of Independence (1981)  and Allah Is Not Obliged (2006), exploring the dual dynamics of mourning and mobilization as resistance strategies in their postcolonial narratives. In Suns of Independence, physical infertility becomes a symbolic indictment of nationalist disillusionment and sociopolitical stagnation, while in Allah Is Not Obliged, the figure of the child soldier dramatizes the collapse of moral order in war-torn postcolonial African societies. Thus, this article argues that Kourouma employs these metaphors as intentional strategies of resistance and ethical engagement, positing that the entwinement of personal trauma with the broader narrative of national deterioration enables Kourouma to transform individual suffering into allegories of systemic failure. The article centres Kourouma's works as an exemplification of literature's epistemic power as a mode of knowledge production that simultaneously diagnoses postcolonial disorder and gestures towards the possibility of ethical renewal.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Introduction: African literature as resistance</head><p>Literary narratives hold a profound capacity to serve as a form of activism, engaging with political, educational, cultural, and social issues across communities, generations, and national boundaries. Through the act of storytelling, literature can advance social justice, inspire reform, and uphold fundamental human values, rights, and ecological awareness. As Goutam <ref type="bibr">Karmakar (2024, 101)</ref> aptly defines, activism involves "the actions undertaken by individuals, groups, or nations that facilitate individual and societal transformation, advocate equity, and cultivate solidarity". The performative dimension of activism, coupled with its diverse and dynamic forms of social intervention, renders literature a particularly potent vehicle for political awakening and change. This potency has grown with increasing recognition of the sociocultural, historical, and ideological textures embedded within storytelling, affirming literature's power to shape, challenge, and reimagine society. Within this framework, literature assumes both an epistemic and ethical responsibility for the writer and for the community it addresses. In this light, literary activism emerges as a vital site of resistance, reflection, and solidarity where that Kourouma's depictions of sterility and societal breakdown function not only as a commentary on postcolonial collapse but as narrative strategies for demanding accountability and envisioning renewal in African states, and gesturing towards social change through symbolic resistance. Nevertheless, it is essential to clarify that "social change" as employed in this article is conceptualized as to the symbolic and discursive interventions enacted through literary form, aligning with <ref type="bibr" target="#b18">Karmakar's (2024)</ref> assertion that literary narratives embody activism through "the advancement of social justice, the facilitation of social reform, and the preservation of human values, rights, and ecological integrity" (102).</p><p>Consequently, this article contends that the metaphors of sterility and moral decay in Suns of Independence and Allah Is Not Obliged operate simultaneously as acts of mourning for the collapse of nationalist ideals and as strategies of mobilization that demand accountability and envision renewal in postcolonial Africa. In this dual function, they manufacture resistance through the "mourning-mobilization" schema by converting private afflictions into collective allegories of national decay (mourning) while also pressing towards ethical engagement and political transformation (mobilization). By pairing infertility and ethical decay across gendered and generational lines, the article, thus, presents a new framework for reading Kourouma's fiction as both mourning and intervention. More than reiterating that Kourouma critiques postcolonial failure, this approach specifies the symbolic mechanisms through which his fiction performs resistant work, thereby expanding discourse on postcolonial African literature by demonstrating how literary form and metaphor themselves become technologies of political contestation and ethical renewal. Having set out the article's framework and objective, I will, in the next section, examine Suns of Independence to highlight how Kourouma deploys sterility and decay as symbolic indictments of the post-independence state and entwines mourning with mobilization through the paired trajectories of Fama and Salimata.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Suns of Independence: The specter of sterility in African societies</head><p>In several African societies, fertility and procreation hold immense significance for a variety of reasons. One of them is the belief that having children ensures the continuation of one's lineage and secures the remembrance of the self across generations <ref type="bibr" target="#b11">(Finzel 2025;</ref><ref type="bibr" target="#b16">Isiugo-Abanihe 1994)</ref>. Social practices, such as ancestral veneration and polygamy, prevalent in diverse African contexts, are closely linked to these underlying values <ref type="bibr" target="#b36">(Hayase and Liaw 1997)</ref>. Ancestor worship plays a vital role in fostering a spiritual connection between past, present, and future generations <ref type="bibr" target="#b6">(Callaway 1981;</ref><ref type="bibr" target="#b22">Lawuyi 1988</ref>). As Hans-Georg <ref type="bibr" target="#b35">Wolf and Frank Polzenhagen (2009)</ref> explain, many African belief systems view ancestors and the living as inhabiting a shared realm of existence, reinforcing a deep sense of familial continuity. Beyond these spiritual dimensions, there are also practical motivations for valuing fertility. In contexts where nursing homes are scarce and pension systems are inadequate, children are seen as essential sources of care and support for ageing parents <ref type="bibr" target="#b10">(Fapohunda 2013;</ref><ref type="bibr" target="#b31">Tanyi, Lum, and Mbah 2018)</ref>.</p><p>Infertility, defined by the WHO (2023) as the inability to conceive after a year or more of consistent, unprotected intercourse, along with childlessness, often carries a profound social stigma. This stigma weighs particularly heavily on women, as womanhood and motherhood are deeply related in cultural perception, and marriage is widely anticipated to yield offspring <ref type="bibr" target="#b30">(Taiwo and Adebayo 2022)</ref>. According to Hans-Georg <ref type="bibr" target="#b34">Wolf (2006)</ref>, in many African contexts, childlessness can be perceived as a disruption to the continuity of the sacred social order, and is sometimes regarded as a moral failing. This perception stems from the understanding that family and community are essentially intertwined. As a result, deeply held cultural values link fertility to the broader structure of society through a conceptual progression -fertility leads to parenthood, which forms the foundation of family, and which, in turn, sustains the community. Ahmadou Kourouma's Suns of Independence seizes upon this cultural reverence for fertility and turns it on its head, casting Fama and Salimata as haunting emblems of sterility -paternal and maternal failures that mirror the barrenness of postcolonial African states. Their personal infertility extends beyond one family's private tragedy to become a searing metaphor for a nation stripped of its capacity to engender progress or cultivate authentic development. Through the depiction of their struggles, Kourouma aesthetically captures the hollowed-out promise of independence, a moment in time when the "suns" that should have warmed and nurtured instead scorch the earth, leaving it -and its people -dry and desolate. Fama, the last legitimate Doumbouya prince, and Salimata, his devoted yet childless wife, embody a dual infertility that reflects a postcolonial African state that is unable to bear fruit, and remains trapped in a cycle of decay and despair.</p><p>In the opening pages of Suns of Independence, Fama Dumbuya is introduced with what appears at first to be a relentless cascade of honorific praise: Fama Dumbuya! A true Dumbuya, of Dumbuya father and Dumbuya mother, the last legitimate descendant of the Dumbuya princes of Horodugu, whose totem was the panther -Fama was a 'vulture'. A Dumbuya prince! A panther totem in a hyena pack. <ref type="bibr">(Kourouma 1981, 4)</ref> This declaration of pure lineage, wrapped in the regalia of ancestral prestige and royal descendancy, situates Fama as an inheritor of a once-glorious tradition. The panther, his family's totem, symbolizes strength, dignity, and leadership -qualities expected of a traditional chief. The poetic tone continues with imagery of wealth and abundance: "He, Fama, born to gold, food in plenty, honour and women! Bred to prefer one gold to another, to choose between many dishes, to bed his favourite of a hundred wives!" (5). However, this exalting overture is sharply undercut by a brutal reversal that swiftly defines the novel's core tension: "What was he now? A scavenger ... A hyena in a hurry" (5).</p><p>This antithetical devolution from panther to vulture and prince to scavenger instantly repositions Fama not as a bearer of dignity, but as a figure of disgrace. Kourouma does not merely signal a personal decline but constructs a broader allegory of postcolonial deterioration. While the earlier imagery of "gold", "food in plenty", and "honour" evokes grandeur, nobility, and an abundance that symbolizes the historical richness of the African continent itself -abundant in resources, traditions, and cultural heritagethese resources, plentiful and nurturing, now lie plundered or wasted, symbolic of the squandered potential of newly independent African states. Fama's fall into indignity and sterility mirrors the continent's own betrayal -of its history, its people, and its future.</p><p>Rather than inaugurate a new dawn of prosperity, independence manifests as a devastating plague, metaphorically depicted as a swarm of locusts:</p><p>After the suns of politics, Independence fell upon Africa like a swarm of grasshoppers. Fama had been like the little swamp rat who digs a hole tor the rat-catcher snake; his efforts had brought about his ruin, for like a leaf that's just been used to wipe somebody's arse, once Independence had been won Fama was thrown to the flies and forgotten. <ref type="bibr">(Kourouma 1981, 14)</ref> In this passage, the ironic consequences of Independence are vividly captured: instead of liberation and advancement, the African state and its people are left impoverished and forgotten, reduced to mere remnants or discards. The anticipated prosperity never materializes, and the postcolonial African state -symbolized through Fama -is left barren and unable to achieve meaningful progress. This idea of barrenness is further amplified by Fama's inability to sustain the honourable position he has inherited. The new postcolonial order provides him with a title stripped of authority and effectiveness, described poignantly as follows: "In a world turned upside-down, Fama had inherited an honour without the means to uphold it, like a headless snake. To be chief of a starving tribe means only famine and a gourdful of worries" (61).</p><p>Here, Kourouma exposes the profound irony and emptiness of the independence achieved by African states. Independence without economic autonomy, sovereignty without the ability to nourish its people, and honour without practical authority are meaningless symbols. They illustrate the broader metaphor of infertility, in which the new nations are unable to produce viable social and political fruits, leaving them vulnerable and inadequate. Fama's personal sterility further reinforces this metaphor of national impotence. In African contexts, where lineage and legacy are paramount, the inability to reproduce is often seen not merely as a private misfortune as it would be considered in a western context but as a social deficiency which is a dereliction of duty to both family and community <ref type="bibr" target="#b11">(Finzel 2025;</ref><ref type="bibr" target="#b30">Taiwo and Adebayo 2022</ref>). Fama's situation, thus, besides being pathetic, is also emblematic as his inability to produce offspring becomes a public humiliation that strips him of dignity, exposes him to ridicule, and aligns him with the broader theme of postcolonial stagnation:</p><p>Misfortune was now Fama's constant companion; misfortune took part in everything he undertook, guided his every gesture as he went about his business. Bargains, purchases, sales, journeys all ended in failure. Only despair remained. Pride, warmth, kindness vanished. <ref type="bibr">(Kourouma 1981, 36)</ref> In a desperate bid to keep his lineage alive, Fama seeks out other women. He marries a "young wife Mariam, the widow of the late Lasina" <ref type="bibr">(Kourouma 1981, 105)</ref>, driven by fears of sterility alongside intense societal pressure to validate his traditional masculinity through reproduction, especially given his diminished financial status. Nevertheless, these efforts remain futile. Despite initially maintaining dignity, he ultimately resorts to humiliating measures by turning towards the capital city's prostitutes: "Fama became resigned to the idea that Salimata was incurably sterile. He sought out fruitful women, even tried (oh! the shame) some of the capital city's women of easy virtue ... Nothing came of it" (36). Fama's infertility thus operates on multiple symbolic levels. On one hand, it represents the failure of the postcolonial state to deliver on the promise of prosperity, abundance, and dignity. On the other, it speaks to Fama's inability to uphold his masculine identity within a society where reproduction signifies virility, power, and respect. Even so, his decline is not just economic or reproductive but also profoundly spiritual.</p><p>In one scene, he is presented as standing among the spirits of his ancestors during a prayer:</p><p>A vast invisible throng gathered about the men in prayer. Among them were all the noble and valiant Dumbuya ancestors. What a sorry figure Fama must seem to them! Their only male descendant. plucked naked and bled dry by the colonial era and by Independence. <ref type="bibr">(Kourouma 1981, 80)</ref> The metaphor of being "plucked naked and bled dry" encapsulates the humiliation and impotence of a continent exhausted by historical exploitation, colonial domination, and failed national aspirations. Fama stands at the painful intersection between past glory and present disgrace, burdened by the overwhelming expectations of ancestors who witness his personal and collective failure. As the sole male descendant, his inability to sustain the lineage symbolizes the broader failure of newly independent African states to fulfil the promise of self-governance and development. Fama thus does not only represent the sterility of postcolonial Africa biologically but also socially, politically, and spiritually.</p><p>If Fama's sterility reflects the paternal collapse of a postcolonial state due to its inability to lead or sire a thriving future, Salimata's barrenness unveils the state's maternal wound, a nation robbed of its nurturing essence. Salimata, Fama's wife, is introduced in Suns of Independence through language imbued with affection and admiration, as "a woman abounding in goodness of heart" <ref type="bibr">(Kourouma 1981, 16)</ref>, underscoring her moral virtue and compassionate nature. The narration goes even further, praising her as a virtuous woman who is "not an impious sinner ... and a faithful wife" (28) who is deeply religious and earnest in her observance of both Islamic and traditional African religious practices. Yet, despite her initial portrayal as morally upright and spiritually diligent, Kourouma soon moves into a description that objectifies Salimata, reducing her identity primarily to her physical allure. Her body is described sensually, emphasizing her as "a woman abounding in goodness of heart, in sweet nights and caresses, a true turtledove; buttocks low-slung and rounded, back, breasts, hips and belly smooth and infinite to the touch, and always a scent of green guava" (16). Here, the author deliberately parallels Salimata's physical desirability with the historical objectification of Africa, a continent richly endowed with resources and natural beauty, which has been coveted and exploited by external forces <ref type="bibr" target="#b14">(Griffiths 1986)</ref>. Salimata thus becomes a symbolic representation of the African continent itself, admired superficially yet targeted and violated precisely because of her abundant attributes.</p><p>The violent exploitation Salimata endures is vividly captured in a harrowing depiction of rape during her excision ceremony:</p><p>Rape! Amidst the blood and pain of excision, something had seared her like fiery pepper, like red-hot iron. She had screamed, howled. Her eyes had spun round, spilled over and plunged into the green of the forest, the yellow of the harmattan wind, then red, blood-red, the red of sacrifice. And she had screamed again, screamed as loudly as possible, with all her strength; screamed until she choked and fainted. <ref type="bibr">(Kourouma 1981, 20)</ref> Kourouma's evocative imagery and powerful language vividly accentuate the intensity and depth of Salimata's trauma. The symbolic convergence of colours -green, yellow, and blood-red -reflects a chaotic yet naturalistic agony, suggestive not only of individual pain but of collective historical trauma. Importantly, reading Salimata's experience symbolically as an embodiment of postcolonial Africa does not diminish her individual subjectivity or gendered suffering; rather, it underscores how Kourouma deploys personal pain to illuminate broader political and historical ruptures. The symbolism reaches, in fact, one of its sharpest expressions here in the "blood-red, the red of sacrifice" which encodes the historical wounds of slavery and colonial exploitation, situating Salimata's suffering as both personal violation and collective memory. Salimata's trauma, thus, becomes emblematic of the scars inflicted upon Africa itself -scars that are both physical and psychological, enduring far beyond the immediate moments of violation. What is also crucial to note here is that Kourouma's rendering of Salimata's sexual violation features a deliberate refusal to romanticize suffering. Its presentation in stark, unsettling terms -ranging from the imagery of barrenness and failed rituals to the blunt depiction of bodily desecrationdenies any aesthetic consolation. The rawness with which her trauma is narrated insists on a confrontation with violence in its most unmediated form, ensuring that the reader encounters her suffering as embodied pain that resists sublimation or narrative softening.</p><p>Additionally, in order to further emphasize Salimata's ongoing exploitation and vulnerability, Kourouma portrays how she is constantly subjected to unwanted attention, revealing how her "physical attractiveness" exacerbates her exposure to danger. In a stark depiction of gendered violence, Chemoko, Baffi's brother, approaches her menacingly:</p><p>Then, one Monday afternoon, Baffi's brother (his name was Chemoko) came to Salimata. The evil spirit had been exorcized, and he wanted her, he was mad for her, and jealous. He pulled a knife: "You'll lie with me, or else ... " and he flourished the knife. <ref type="bibr">(Kourouma 1981, 27)</ref> Chemoko's violent assertion of dominance and entitlement is reminiscent of colonial violence, recalling how Africa's wealth and resources were historically seized through force and coercion. Kourouma's use of flashbacks to narrate Salimata's experience intensifies this connection as the retrospective form itself registers trauma and suggests that colonial violations cannot be simplistically relegated to the past for they live on in memory, resurfacing in the present as embodied pain. Salimata's body thus becomes a contested site where the recollection of personal violation converges with the historical memory of colonial dispossession.</p><p>Significantly, Salimata's experiences of violence and violation play a pivotal role in her sterility, a state that is reflective of the deep psychological and bodily scars produced by the long shadow of slavery and colonial domination. Her inability to conceive, directly tied to these traumas, further serves as an extended metaphor for Africa's struggle to achieve authentic development and self-determination in the wake of its traumatic history. Yet, tragically, rather than addressing the root cause of Salimata's trauma, society chooses instead to blame the woman herself. The narrative recounts how others see her as cursed and spiritually possessed: She belonged to the devil, she was still haunted by the spirit that had raped her; the spirit would not allow Salimata to mate with a man, hence her screams, her horrified refusal, her murderous acts ... A curse on the beauty that attracts! <ref type="bibr">(Kourouma 1981, 26)</ref> The diction Kourouma employs in attributing Salimata's condition to "the devil" and an external "spirit" reveals how society displaces responsibility away from the actual violence committed against her. By pathologizing Salimata's suffering as supernatural affliction rather than the outcome of human cruelty, this framing exposes a broader refusal to confront the reality of violence, and, through this, Kourouma critiques a societal logic that would dismiss legitimate trauma through epistemic invalidation, recasting one's victimization as personal culpability. This itself mirrors the expectation often placed upon African societies to suppress, minimize, or overlook centuries of abuse and exploitation and simply "move on", without proper acknowledgement, accountability, or healing <ref type="bibr">(Ball 2013, 116)</ref>.</p><p>Additionally, Kourouma critiques the religiosity prevalent across African societies, especially the reliance on external spiritual intervention to solve deep-rooted systemic problems. If, as Kourouma provocatively suggests, "Allah is not obliged to be fair about all the things he does here on earth" (1), then the belief that divine intervention alone can deliver justice and healing to the wounds of history is inherently flawed. Allah is not likely to divinely intervene and address the metaphorical sterility afflicting postcolonial African societies. Kourouma's critique of religiosity is sharply articulated through Salimata's persistent but futile religious piety. Despite her unwavering commitment to spiritual and traditional practices, her condition remains unchanged:</p><p>Why did Salimata remain sterile? What curse dogged her? She always behaved as a Muslim woman should, performed the proper ablutions, fasted the full thirty days, gave alms and prayed five times daily; Fama could testify to that. And she had tried everything possible: magic spells, marabouts, medicines, sacrificial offerings But her belly remained as arid as granite; penetrate as deep as you could, dig and delve with the longest and strongest of tools, deposit a handful of selected seed -it all drowned in a great river. Nothing would come of it. <ref type="bibr">(Kourouma 1981, 16-17)</ref> The persistent aridity of Salimata's womb symbolizes the deeper sterility of postcolonial Africa, despite its abundant resources and potential. Her desperate but unsuccessful attempts at fertility treatments and spiritual interventions vividly illustrate how religious rituals and traditional practices, though deeply enmeshed within African societies, have often proven to be ineffective in remedying historical injustices or achieving genuine transformation. Kourouma implies that it is not through mere religiosity or spiritual devotion that Africa's profound historical traumas and present crises can be resolved; a more profound reckoning, critical reflection, and practical action are, hence, necessary.</p><p>Beyond the symbolic representations embodied by Fama and Salimata, Kourouma's vivid portrayal of landscapes also mirrors the internal barrenness and moral sterility of his characters, thus amplifying the novel's commentary on political failure and social decay. The environment that surrounds Fama and Salimata does not simplistically serve as a passive backdrop; rather, it becomes an active reflection of their existential despair and the nation's broader stagnation. One particularly striking depiction occurs in the description of the city in which Fama lives which swarmed with beggars, cripples and blind men hounded from the bush by famine. Trembling hands reached out to him, but the nasal chanting, the purulent eyes, the severed ears and noses, not to mention the peculiar smells, turned Fama's heart cold. <ref type="bibr">(Kourouma 1981, 15)</ref> Here, Kourouma uses graphic sensory imagery -emphasizing sights, sounds, and smells -to evoke a landscape saturated with degradation. The beggars and crippled figures, physically maimed and exiled from productive life, signify the consequences of a society unable to care for its most vulnerable. This physical deterioration starkly parallels the spiritual and moral infertility within Fama and Salimata's lives, whose struggles are cast as complementary allegories through which Kourouma entwines mourning and mobilization, transforming individual decline and suffering into signs of a broader postcolonial malaise. The city, here, filled with the disfigured and desperate, becomes emblematic of postcolonial African nations suffering from an inability to nourish their citizens materially or spiritually, leaving them impoverished and dispossessed.</p><p>Furthermore, the use of visceral descriptions, such as "purulent eyes" and "severed ears", symbolically captures the broader breakdown of communication and vision within the postcolonial state. Eyes traditionally symbolize insight and clarity; here, they are infected, hinting at a corruption of vision, the loss of a collective dream, and the inability to foresee or create a hopeful future. Similarly, ears symbolize listening and understanding, suggesting that the postcolonial state, besides being visually impaired, is also deaf to the voices of its people, unable or unwilling to respond to their suffering. Consequently, Kourouma compels us to confront a pressing existential question: what does it mean when an independent nation proves unable to reproduce a viable future? This crisis of sterility goes beyond mere metaphor but symbolizes profound political, cultural, and existential paralysis. Kourouma's text unequivocally calls for a critical reimagining, one that seeks effective remedies to the barrenness afflicting African states, and that advocates genuine decolonization, authentic renewal, and meaningful selfdetermination.</p><p>While Suns of Independence situates sterility and collapse within the intimate domains of family, lineage, and tradition, Kourouma's later novel Allah Is Not Obliged relocates these motifs into the brutal landscape of civil war. Shifting from the gendered and generational struggles of Fama and Salimata to the fragmented childhood of Birahima, the next section illustrates how Kourouma works the symbolic terrain of decay to expose the moral bankruptcy of warlordism and the cyclical violence of the postcolony.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Allah Is Not Obliged: Moral decay in postcolonial Africa</head><p>While morality is often regarded as a foundational element of human society globally, in African philosophical traditions, however, it occupies a particularly central role in shaping personhood and sustaining communal life <ref type="bibr" target="#b15">(Gyekye, 2011;</ref><ref type="bibr" target="#b23">Megbowon and Uwah 2020</ref>). Among the Akan, for instance, the moral ideal of suban pa (good character) functions as the bedrock of social trust and cohesion (Asante and Mazama 2009), while in Yoruba thought, the principle of Ọmọlúàbí embodies the expectation of integrity, humility, and respect as essential to individual and collective flourishing <ref type="bibr" target="#b25">(Omobowale, Olumuyiwa, and Falase 2018)</ref>. The disruption of these ethical codes becomes the focus in Ahmadou Kourouma's Allah Is Not Obliged, a novel that functions as a powerful literary indictment of the moral decay afflicting postcolonial Africa just as much as it unfolds as a tale of war and conflict. This erosion finds one of its starkest expressions in the figure of Birahima, whose voice -distinguished by vulgarity, opportunism, and indifference to communal obligations -makes evident the moral disintegration produced by war and desertion. Birahima is the novel's young protagonist and he embodies the fate of the postcolonial African child who is born into disorder and left to navigate his destiny alone. His age is ambiguous -he is somewhere between ten and 12 -but his voice is already hardened by his tough life experience as observed in the jarring self-introduction: "My name is Birahima and I'm a little nigger. Not 'cos I'm black and I'm a kid. I'm a little nigger because I can't talk French for shit" <ref type="bibr">(Kourouma 2006, 1)</ref>. In this brief and densely meaningful statement, Birahima announces both his racial and linguistic marginalization, pre-empting pity and demanding recognition from the structurally fractured world he inhabits. Later, his self-description -"I'm a street kid and I can do what I like, I don't give a fuck about anyone" (104) -reveals the tragedy of a child compelled to forfeit the very innocence that should define childhood, having been abandoned by the structures of care that should safeguard him. In this absence of care, education, and protection, the child grows up numb, self-reliant, and emotionally armoured. And again, Kourouma's articulation of Birahima's voice through intentionally jarring, crude, and abrasive language -much like the stark narration of Salimata's violation -evokes a strategic readerly discomfort to visibilize how systemic violence distorts innocence and fractures identity.</p><p>Birahima's opening self-fashioning further intensifies his distortion of innocence into an armoured persona that is deliberately curated, as observed in his insistence that he is "disrespectful ... rude as a goat's beard", that he "swear[s] like a bastard", and that he no longer gives "two fucks about village customs", pointedly rejecting any possibility of being seen as "some cute kid" <ref type="bibr">(Kourouma 2006, 2-4)</ref>. In presenting himself in this way, he performs a hardened identity that is both a shield and an accusation. On one hand, the shield wards off pity and protects against further vulnerability, while on the other hand, the accusation turns back on society, exposing how structures of abandonment and violence force children to inhabit roles that parody adulthood. His very self-definition embodies a form of moral decay where the child appropriates vulgarity and bravado as the only viable currencies of survival in a social world emptied of protection.</p><p>Additionally, this rejection of customary norms is particularly telling as it is salient that in many African societies, respect for elders, restraint in speech, and conformity to communal expectations are markers of moral upbringing and social continuity. For instance, among the Yoruba people, the concept of Ọmọlúàbí signifies a person of good character whose attitude is measured by humility, deference, and moral integrity <ref type="bibr" target="#b24">(Oladejo and Dastile 2025)</ref>. Likewise, Kofi <ref type="bibr" target="#b1">Agyekum (2011)</ref>, writes on how "Among the Akan (in Ghana), an individual's moral character is judged by the degree of politeness in his public speeches; he may thereby maintain his reputation or lose it" (584). Birahima's deliberate profanity, rejection of custom, and embrace of brashness stand in stark contrast to these ideals, dramatizing how war and institutional breakdown disfigure cultural values that traditionally defined moral personhood. His open departure from these customs features as a narrative signpost of systemic rupture; posturing what happens when the ethical codes of community collapse under the pressures of war, corruption, and political betrayal; and consequently, childhood becomes uncoupled from the innocence that naturally defines it, and identity is reconstructed on the basis of profanity, cynicism, and disillusionment. Considered thus, Birahima's voice becomes more crucially a mirror of a wider ethical disintegration of the postcolony, mourning the erosion of shared values while mobilizing critique through its abrasive visibility.</p><p>Kourouma's depiction of Birahima challenges romanticized portrayals of African childhood. It is important, however, to stress that references in this analysis to "framing" or "emphasis" do not imply claims about Kourouma's personal authorial intention, but rather point to narrative strategies discernible in the text, particularly through Birahima's voice. It is in recognition of these discursive strategies that John <ref type="bibr" target="#b32">Walsh (2008)</ref> observes how Kourouma rejects innocence, presenting instead a childhood shaped by chaos, drugs, death, and exploitation, and, fascinatingly, no one cares. Walsh further argues that Birahima's chances of upward mobility through education are virtually non-existent and, in the narrative's own irreverent tone, "they stink" <ref type="bibr">(Kourouma 2006, 191)</ref>. The child's journey, then, is not one of growth and learning, but of survival and degeneration, which is a grim parody of the Bildungsroman, an educational journey that unfolds in a space where warlords, not teachers, impart lessons. One particularly disturbing scene in the novel further highlights the erosion of societal morality. Birahima describes being sexually exploited by an adult woman in graphic terms: "She would kiss my bangala over and over and then she'd swallow it, like a snake swallowing a rat. She used my bangala like a little toothpick. I left her house whistling, proud and happy. Gnamokodé!" (103). What is especially disconcerting is not just the act itself, but the way the narration channels the episode through Birahima's bravado and ironic voice, presenting the incident as humorous and pleasurable, rather than traumatic. This narrative choice ironically critiques the pervasive societal tendency to mask the vulnerabilities and emotional damage experienced by boys and men. Omotayo <ref type="bibr" target="#b17">Jemiluyi (2025)</ref> further reinforces this perspective, referring to such boys and men as the "original sufferhead" (61), that is to say, individuals left to navigate their survival alone in societies indifferent to their plight. Even during crises, men and boys are frequently excluded from protective measures, as seen when Birahma laments bitterly about humanitarian interventions that left him and other boys like him exposed: "But they only allowed women, kids younger than five and old people. In other words I wasn't allowed in. Gnamokodé!" <ref type="bibr">(Kourouma 2006, 63)</ref>. His frustration continues later as he jealously observes the exclusive protection afforded to young girls: "Colonel Papa le Bon, in his goodness, built an orphanage for girls" (73).</p><p>Birahima is not alone in his plight of abuse; other children in the novel, such as Kik and Sarah, also suffer profoundly. They are stripped of their innocence, forced into becoming child soldiers who perpetrate violence, all to serve the ambitions and greed of morally bankrupt adults. This exploitation of children exposes the profound moral corruption within society, illustrating how adults have abandoned their fundamental responsibility to protect the vulnerable. Within Kourouma's narrative world, adults prioritize personal enrichment and political dominance over ethical considerations and the care of the young, dramatizing the erosion of values once central to communal life. As children are manipulated to participate in conflicts that they neither understand nor instigate, the text acutely emphasizes the catastrophic consequences of adult moral collapse, because in this moral vacuum it is the children who bear the heaviest burdens, reduced to tools in the hands of those who should protect them.</p><p>The abandonment and exploitation of children become even more impactful when considering the cultural significance of children within many African societies. Scholars note that across diverse African settings, children are profoundly valued as carriers of legacy, future caregivers for the elderly, and custodians of social and cultural stability <ref type="bibr" target="#b9">(Dyer 2007;</ref><ref type="bibr" target="#b28">Serpell and Adamson-Holley 2017)</ref>. However, Kourouma's novel presents a deeply tragic irony where the very children who should symbolize the hope and continuity of their communities are instead mutilated physically, emotionally, and morally by the same society that should cherish them. The critical question Kourouma thus implicitly raises is: what kind of future can a society expect when its most vulnerable members are treated as disposable?</p><p>The prevalence of corruption in the postcolonial states depicted in the novel is another core manifestation of the abandonment of moral values in favour of greed. This greed fuels conflicts, leading to devastating consequences for the populace. Kourouma illustrates this through the protagonist's observation:</p><p>When people say there's tribal wars in a country, it means that big important warlords have divided the country up. They've divided up all the money, all the land, all the people. They divide up everything and the whole world lets them, everyone in the whole world lets them kill innocent men and children and women. <ref type="bibr">(Kourouma 2006, 44)</ref> In such conflict-ridden environments, the value of commodities plummets, attracting opportunistic dealers: "That's why in Liberia you can get everything really cheap. You can get cheap gold, cheap diamonds, cheap TVs ... Every, every fucking thing is cheap. And when everything in a country is cheap, dealers flock to that country" (45). This environment breeds a cycle where individuals who are unable to combat the pervasive corruption become complicit as a means of survival. Yacouba-alias-Tiécoura, whom Birahima admirably describes as "a fearless and blameless man" (38), benefits from this systemic corruption. By bribing customs officers, which is referred to as "wetting the beards", he evades taxes and amasses wealth:</p><p>In Anyama he got rich by shipping lots and lots of baskets of cola nuts to Dakar by boat. By wetting beards (that means bribing people, also known as paying baksheesh), by wetting the beards of the customs officers, Yacouba's cola nuts got on the boat in Abidjan and off the boat in Dakar without paying a penny in taxes or duties. <ref type="bibr">(Kourouma 2006, 32)</ref> However, this same corruption leads to his downfall when he neglects to bribe the officials:</p><p>This one month, he was so busy ... he completely forgot to remember to wet the beards of the customs officers for a boatload of cola nuts ... The whole boatload of baskets of cola nuts was completely fucked, completely ruined ... Yacouba lost all the money he had ... Yacouba was ruined and totally bankrupt. <ref type="bibr">(Kourouma 2006, 33)</ref> Kourouma also extends this critique to other African nations, highlighting the normalization of corruption. In Ghana, Yacouba rebuilds his wealth through similar corrupt practices:</p><p>In Ghana, there was lots of merchandise ... By wetting the beards of the customs officers at the border, Yacouba shipped the merchandise into Côte d'Ivoire without paying any taxes and sold all the stuff to the highest bidder with lots of profits. With all the profits, he got rich <ref type="bibr">(Kourouma 2006, 34)</ref>.</p><p>The pervasiveness of corruption even "corrupts" Yacouba's employees:</p><p>When Yacouba-alias-Tiécoura found out one of his drivers was skimming the profits, he got in the car himself and went to add up all the receipts, but the driver who was driving was angry and pissed off and had a fatal accident. Yacouba was badly hurt and put in hospital. <ref type="bibr">(Kourouma 2006, 34)</ref> </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Conclusion: African literature's call to accountability</head><p>This article has examined how Ahmadou Kourouma's Suns of Independence and Allah Is Not Obliged deploy metaphors of sterility and moral decay as narrative strategies that transform private suffering into collective allegories of postcolonial collapse. By situating these motifs within a mourning-mobilization framework, it has shown that Kourouma's novels perform a dual labour where they mourn the disintegration of nationalist ideals and ethical codes while simultaneously mobilizing critique by unsettling readers into recognition of the fractures that continue to shape African societies. Remarkably, although these novels were published decades apart -originally in French, as Les Soleils des indépendances in 1968 and Allah n'est pas obligé in 2000their themes remain disturbingly relevant today. The conditions they interrogatecorruption, exploitation, disenfranchisement -continue to shape the postcolonial African experience, underscoring the persistent crisis of governance and social injustice. As decolonization remains an ongoing and unfinished project, Kourouma's works remind us that literature's role is to disrupt complacency by forcing readers into proximity with the discomfort of violated bodies and fractured childhoods, transforming what would be considered as private trauma into a reckoning, collective summons for ethical and political renewal. As the analysis of this study demonstrates, Kourouma's novels prompt social change not necessarily by offering prescriptive solutions but in the demand they place on readers to confront the unsettling realities of abandonment, corruption, and moral disintegration. And in exposing the ethical vacuums left by betrayal and systemic failure, the novels prompt a stimulation to imagine different possibilities -that is, communal care over neglect, institutional responsibility over decay, and civic renewal over stagnation. This study, hence, contributes to African literary scholarship by demonstrating how metaphors of sterility and moral decay in Suns of Independence and Allah Is Not Obliged operate as deliberate literary strategies of mourning and mobilization -a call to action -and thus expand the theoretical vocabulary available for understanding African literature's role in political and ethical transformation.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Disclosure statement</head><p>No potential conflict of interest was reported by the author(s). </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Notes on contributor</head></div><figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_0"><head></head><label></label><figDesc>Omotayo Jemiluyi is a graduate fellow at the University of Missouri, Columbia. His research is interdisciplinary and spans gender and cultural studies, postcolonialism, migration, and African popular media. His scholarly works have appeared in several notable journals, including the Howard Journal of Communications, Journal of International Migration and Integration, Journal for Cultural Research, French Cultural Studies, African Studies Quarterly, Muziki, Women's Studies, and African and Black Diaspora, among others.</figDesc><table /></figure>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="10" xml:id="foot_0"><p>O. JEMILUYI</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="14" xml:id="foot_1"><p>O. JEMILUYI</p></note>
+		</body>
+		<back>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">Chinua</forename><surname>Achebe</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Things Fall Apart</title>
+		<imprint>
+			<date type="published" when="1958">1958</date>
+			<publisher>Heinemann</publisher>
+			<pubPlace>London</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<title level="a" type="main">The Ethnopragmatics of the Akan Palace Language of Ghana</title>
+		<author>
+			<persName><forename type="first">Kofi</forename><surname>Agyekum</surname></persName>
+		</author>
+		<idno type="DOI">10.3998/jar.0521004.0067.404</idno>
+		<ptr target="https://doi.org/10.3998/jar.0521004.0067.404" />
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Anthropological Research</title>
+		<imprint>
+			<biblScope unit="volume">67</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="573" to="593" />
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title level="a" type="main">Bumuntu</title>
+		<idno type="DOI">10.4135/9781412964623.n100</idno>
+		<ptr target="https://doi.org/10.4135/9781412964623.n100" />
+	</analytic>
+	<monogr>
+		<title level="m">Encyclopedia of African Religion</title>
+		<editor>
+			<persName><surname>Asante</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">K</forename><surname>Molefi</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">Ama</forename><surname>Mazama</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Thousand Oaks, CA</addrLine></address></meeting>
+		<imprint>
+			<publisher>SAGE Publications, Inc</publisher>
+			<date type="published" when="2009">2009</date>
+			<biblScope unit="page" from="142" to="147" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<monogr>
+		<title level="m" type="main">Memory, Myth and Forgetting: The British Transatlantic Slave Trade</title>
+		<author>
+			<persName><forename type="first">Lucy</forename><surname>Ball</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2013">2013</date>
+		</imprint>
+		<respStmt>
+			<orgName>University of Portsmouth</orgName>
+		</respStmt>
+	</monogr>
+	<note type="report_type">PhD diss</note>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title level="a" type="main">The Critical Powers of Salimata&apos;s Disenchantment: A Gendered Rereading of Ahmadou Kourouma&apos;s Les Soleils des Indépendances</title>
+		<author>
+			<persName><forename type="first">Elisabeth</forename><surname>Bekers</surname></persName>
+		</author>
+		<idno type="DOI">10.2979/reseafrilite.44.2.91</idno>
+		<ptr target="https://doi.org/10.2979/reseafrilite.44.2.91" />
+	</analytic>
+	<monogr>
+		<title level="j">Research in African Literatures</title>
+		<imprint>
+			<biblScope unit="volume">44</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="91" to="104" />
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title level="a" type="main">Introduction: Literary Activism in 21st Century Africa</title>
+		<author>
+			<persName><forename type="first">Ruth</forename><surname>Bush</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Madhu</forename><surname>Krishnan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Kate</forename><surname>Wallis</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/23277408.2021.1934324</idno>
+		<ptr target="https://doi.org/10.1080/23277408.2021.1934324" />
+	</analytic>
+	<monogr>
+		<title level="j">Eastern African Literary and Cultural Studies</title>
+		<imprint>
+			<biblScope unit="volume">7</biblScope>
+			<biblScope unit="issue">1-2</biblScope>
+			<biblScope unit="page" from="1" to="9" />
+			<date type="published" when="2021">2021</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title level="a" type="main">Spatial Domains and Women&apos;s Mobility in Yorubaland, Nigeria</title>
+		<author>
+			<persName><forename type="first">Helen</forename><surname>Callaway</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Women and Space: Ground Rules and Social Maps</title>
+		<editor>
+			<persName><forename type="first">Shirley</forename><surname>Ardener</surname></persName>
+		</editor>
+		<meeting><address><addrLine>London</addrLine></address></meeting>
+		<imprint>
+			<publisher>Routledge</publisher>
+			<date type="published" when="1981">1981</date>
+			<biblScope unit="page" from="168" to="186" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title level="a" type="main">Narrative Learning: Its Contours and Its Possibilities</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Clark</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Carolyn</surname></persName>
+		</author>
+		<idno type="DOI">10.1002/ace.367</idno>
+		<ptr target="https://doi.org/10.1002/ace.367" />
+	</analytic>
+	<monogr>
+		<title level="m">New Directions for Adult and Continuing Education</title>
+		<imprint>
+			<date type="published" when="2010">2010</date>
+			<biblScope unit="volume">126</biblScope>
+			<biblScope unit="page" from="3" to="11" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title level="a" type="main">Ahmadou Kourouma, Entre Poétique Romanesque et Littérature Politique (Review of the Book Ahmadou Kourouma, Entre Poétique Romanesque et Littérature Politique, by P. Voisin)</title>
+		<author>
+			<persName><forename type="first">Patrick</forename><surname>Corcoran</surname></persName>
+		</author>
+		<idno type="DOI">10.1093/fs/knx083</idno>
+		<ptr target="https://doi.org/10.1093/fs/knx083" />
+	</analytic>
+	<monogr>
+		<title level="j">French Studies</title>
+		<imprint>
+			<biblScope unit="volume">71</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="439" to="440" />
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title level="a" type="main">The Value of Children in African Countries: Insights from Studies on Infertility</title>
+		<author>
+			<persName><forename type="first">Silke</forename><forename type="middle">J</forename><surname>Dyer</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/01674820701409959</idno>
+		<ptr target="https://doi.org/10.1080/01674820701409959" />
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Psychosomatic Obstetrics and Gynaecology</title>
+		<imprint>
+			<biblScope unit="volume">28</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="69" to="77" />
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title level="a" type="main">The Pension System and Retirement Planning in Nigeria</title>
+		<author>
+			<persName><forename type="first">Tinuke</forename><surname>Fapohunda</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename></persName>
+		</author>
+		<idno type="DOI">10.5901/mjss.2013.v4n2p25</idno>
+		<ptr target="https://doi.org/10.5901/mjss.2013" />
+	</analytic>
+	<monogr>
+		<title level="j">Mediterranean Journal of Social Sciences</title>
+		<imprint>
+			<biblScope unit="volume">4</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="2" to="25" />
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<author>
+			<persName><forename type="first">Anna</forename><surname>Finzel</surname></persName>
+		</author>
+		<idno type="DOI">10.1111/weng.12738</idno>
+		<ptr target="https://doi.org/10.1111/weng.12738" />
+	</analytic>
+	<monogr>
+		<title level="m">Cultural Conceptualisations and the Cultural Model of Fertility and Infertility in Nigerian English</title>
+		<imprint>
+			<date type="published" when="2025">2025</date>
+			<biblScope unit="page" from="1" to="19" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<monogr>
+		<title level="m" type="main">Reading Chinua Achebe: Language and Ideology in Fiction</title>
+		<author>
+			<persName><forename type="first">Simon</forename><surname>Gikandi</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1991">1991</date>
+			<publisher>James Currey</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<title level="a" type="main">Two African Child Soldiers: The Kourouma and Dongala Contretemps</title>
+		<author>
+			<persName><forename type="first">Stephen</forename><surname>Gray</surname></persName>
+		</author>
+		<idno type="DOI">10.2979/reseafrilite.44.3.152</idno>
+		<ptr target="https://doi.org/10.2979/reseafrilite.44.3.152" />
+	</analytic>
+	<monogr>
+		<title level="j">Research in African Literatures</title>
+		<imprint>
+			<biblScope unit="volume">44</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="152" to="159" />
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<title level="a" type="main">The Scramble for Africa: Inherited Political Boundaries</title>
+		<author>
+			<persName><forename type="first">Ieuan</forename><surname>Griffiths</surname></persName>
+		</author>
+		<idno type="DOI">10.2307/634762</idno>
+		<ptr target="https://doi.org/10.2307/634762" />
+	</analytic>
+	<monogr>
+		<title level="j">The Geographical Journal</title>
+		<imprint>
+			<biblScope unit="volume">152</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="204" to="216" />
+			<date type="published" when="1986">1986</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<monogr>
+		<author>
+			<persName><forename type="first">Kwame</forename><surname>Gyekye</surname></persName>
+		</author>
+		<title level="m">Tradition and Modernity: Philosophical Reflections on the African Experience</title>
+		<meeting><address><addrLine>New York</addrLine></address></meeting>
+		<imprint>
+			<publisher>Oxford University Press</publisher>
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<title level="a" type="main">Reproductive Motivation and Family-Size Preferences Among Nigerian Men</title>
+		<author>
+			<persName><forename type="first">U</forename><forename type="middle">C</forename><surname>Isiugo-Abanihe</surname></persName>
+		</author>
+		<idno type="DOI">10.2307/2137941</idno>
+		<ptr target="https://doi.org/10.2307/2137941" />
+	</analytic>
+	<monogr>
+		<title level="j">Studies in Family Planning</title>
+		<imprint>
+			<biblScope unit="volume">25</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="149" to="161" />
+			<date type="published" when="1994">1994</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<analytic>
+		<title level="a" type="main">Original Sufferhead&apos;: The Boy-Child and Masculine Sufferings in Ahmadou Kourouma&apos;s Allah N&apos;est Pas Obligé and Les Soleils des Indépendances</title>
+		<author>
+			<persName><forename type="first">Omotayo</forename><surname>Jemiluyi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename></persName>
+		</author>
+		<idno type="DOI">10.1177/09571558241262682</idno>
+		<ptr target="https://doi.org/10.1177/09571558241262682" />
+	</analytic>
+	<monogr>
+		<title level="j">French Cultural Studies</title>
+		<imprint>
+			<biblScope unit="volume">36</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="61" to="78" />
+			<date type="published" when="2025">2025</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<analytic>
+		<title level="a" type="main">Literature, Activism and Transformative Learning</title>
+		<author>
+			<persName><forename type="first">Goutam</forename><surname>Karmakar</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/1013929X.2024.2410067</idno>
+		<ptr target="https://doi.org/10.1080/1013929X.2024.2410067" />
+	</analytic>
+	<monogr>
+		<title level="m">Current Writing: Text and Reception in Southern Africa</title>
+		<imprint>
+			<date type="published" when="2024">2024</date>
+			<biblScope unit="volume">36</biblScope>
+			<biblScope unit="page" from="101" to="108" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<analytic>
+		<title level="a" type="main">Discourse in Kourouma&apos;s Novels: Writing Two Languages to Translate Two Realities</title>
+		<author>
+			<persName><forename type="first">Amadou</forename><surname>Koné</surname></persName>
+		</author>
+		<idno type="DOI">10.2979/RAL.2007.38.2.109</idno>
+		<ptr target="https://doi.org/10.2979/RAL.2007.38.2.109" />
+	</analytic>
+	<monogr>
+		<title level="j">Research in African Literatures</title>
+		<imprint>
+			<biblScope unit="volume">38</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="109" to="123" />
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<monogr>
+		<title level="m" type="main">The Suns of Independence</title>
+		<author>
+			<persName><forename type="first">Ahmadou</forename><surname>Kourouma</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1968">1981. 1968</date>
+			<publisher>Africana Publishing. Original work published as Les Soleils des Indépendances</publisher>
+			<pubPlace>Adams. New York</pubPlace>
+		</imprint>
+	</monogr>
+	<note>Translated by A</note>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<monogr>
+		<title level="m" type="main">Allah Is Not Obliged</title>
+		<author>
+			<persName><forename type="first">Ahmadou</forename><surname>Kourouma</surname></persName>
+		</author>
+		<editor>F. Wynne</editor>
+		<imprint>
+			<date type="published" when="2000">2006. 2000</date>
+			<publisher>Anchor Books</publisher>
+			<pubPlace>New York</pubPlace>
+		</imprint>
+	</monogr>
+	<note>est pas obligé</note>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<analytic>
+		<title level="a" type="main">Obituary and Ancestral Worship: Analysis of a Contemporary Cultural Form in Nigeria</title>
+		<author>
+			<persName><forename type="first">Olatunde</forename><surname>Lawuyi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename></persName>
+		</author>
+		<idno type="DOI">10.2307/3710874</idno>
+		<ptr target="https://doi.org/10.2307/3710874" />
+	</analytic>
+	<monogr>
+		<title level="j">Sociological Analysis</title>
+		<imprint>
+			<biblScope unit="volume">48</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="372" to="379" />
+			<date type="published" when="1988">1988</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<analytic>
+		<title level="a" type="main">African Literature: A Tool for Societal Regeneration</title>
+		<author>
+			<persName><forename type="first">Funmilola</forename><forename type="middle">K</forename><surname>Megbowon</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Chijioke</forename><surname>Uwah</surname></persName>
+		</author>
+		<idno type="DOI">10.25159/2663-6565/6432</idno>
+		<ptr target="https://doi.org/10.25159/2663-6565/6432" />
+	</analytic>
+	<monogr>
+		<title level="j">Imbizo</title>
+		<imprint>
+			<biblScope unit="volume">11</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="1" to="17" />
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<analytic>
+		<title level="a" type="main">Of Materialism and Anomie: A Revisiting of the Yoruba People&apos;s Omoluabi Ethos</title>
+		<author>
+			<persName><forename type="first">Abiodun</forename><surname>Oladejo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">O</forename></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Nontyatyambo</forename><surname>Pearl</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Dastile</forename></persName>
+		</author>
+		<idno type="DOI">10.1080/17532523.2025.2531619</idno>
+		<ptr target="https://doi.org/10.1080/17532523.2025.2531619" />
+	</analytic>
+	<monogr>
+		<title level="j">African Historical Review</title>
+		<imprint>
+			<biblScope unit="volume">56</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="31" to="50" />
+			<date type="published" when="2025">2025</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<analytic>
+		<title level="a" type="main">The Context of Children in Yoruba Popular Culture</title>
+		<author>
+			<persName><forename type="first">Ayokunle</forename><surname>Omobowale</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Mofeyisara</forename><surname>Oluwatoyin Omobowale</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Olugbenga</forename><surname>Olumuyiwa</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Samuel Falase</surname></persName>
+		</author>
+		<idno type="DOI">10.1177/2043610618815381</idno>
+		<ptr target="https://doi.org/10.1177/2043610618815381" />
+	</analytic>
+	<monogr>
+		<title level="j">Global Studies of Childhood</title>
+		<imprint>
+			<biblScope unit="volume">9</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="18" to="28" />
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<analytic>
+		<title level="a" type="main">Ahmadou Kourouma and Ivoirian Crises</title>
+		<author>
+			<persName><forename type="first">Jean</forename><surname>Ouédraogo</surname></persName>
+		</author>
+		<idno type="DOI">10.1353/ral.2004.0070</idno>
+		<ptr target="https://doi.org/10.1353/ral.2004.0070" />
+	</analytic>
+	<monogr>
+		<title level="j">Research in African Literatures</title>
+		<imprint>
+			<biblScope unit="volume">35</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="1" to="5" />
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b27">
+	<analytic>
+		<title level="a" type="main">Narrative Voice in Kourouma&apos;s Les Soleils des Indépendances</title>
+		<author>
+			<persName><forename type="first">Rosemary</forename><surname>Schikora</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename></persName>
+		</author>
+		<ptr target="http://www.jstor.org/stable/390647" />
+	</analytic>
+	<monogr>
+		<title level="j">The French Review</title>
+		<imprint>
+			<biblScope unit="volume">55</biblScope>
+			<biblScope unit="issue">6</biblScope>
+			<biblScope unit="page" from="811" to="817" />
+			<date type="published" when="1982">1982</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b28">
+	<analytic>
+		<title level="a" type="main">African Socialization Values and Nonformal Educational Practices: Child Development, Parental Beliefs, and Educational Innovation in Rural Zambia</title>
+		<author>
+			<persName><forename type="first">Robert</forename><surname>Serpell</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Dorothy</forename><surname>Adamson-Holley</surname></persName>
+		</author>
+		<idno type="DOI">10.1007/978-981-287-032-2_22</idno>
+		<ptr target="https://doi.org/10.1007/978-981-287-032-2_22" />
+	</analytic>
+	<monogr>
+		<title level="m">of Laboring and Learning</title>
+		<editor>
+			<persName><forename type="first">Tatek</forename><surname>Abebe</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">Johanna</forename><surname>Waters</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Singapore</addrLine></address></meeting>
+		<imprint>
+			<publisher>Springer</publisher>
+			<date type="published" when="2017">2017</date>
+			<biblScope unit="volume">10</biblScope>
+			<biblScope unit="page" from="1" to="24" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b29">
+	<analytic>
+		<title level="a" type="main">Comparing Visions and Voices of Child Narrators in Kotia-Nima I and Allah Is Not Obliged</title>
+		<author>
+			<persName><forename type="first">Aissata</forename><surname>Sidikou</surname></persName>
+		</author>
+		<idno type="DOI">10.4000/etudesafricaines.20598</idno>
+		<ptr target="https://doi.org/10.4000/etudesafricaines.20598" />
+	</analytic>
+	<monogr>
+		<title level="j">Cahiers d&apos;études Africaines</title>
+		<imprint>
+			<biblScope unit="volume">57</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="151" to="174" />
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b30">
+	<analytic>
+		<title level="a" type="main">Baby Dust to Everyone&apos;: Emoting Infertility in Nigerian Online Trying to Conceive (TTC) Forums</title>
+		<author>
+			<persName><forename type="first">Rotimi</forename><surname>Taiwo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Olajumoke</forename><surname>Oyinlade</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Adebayo</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Language. Text. Society</title>
+		<imprint>
+			<biblScope unit="volume">9</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="1" to="15" />
+			<date type="published" when="2022">2022</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b31">
+	<analytic>
+		<title level="a" type="main">Care of the Elderly in Nigeria: Implications for Policy</title>
+		<author>
+			<persName><forename type="first">Perpetua</forename><surname>Tanyi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Pelser</forename><forename type="middle">André</forename><surname>Lum</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Peter</forename><surname>Mbah</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/23311886.2018.1555201</idno>
+		<ptr target="https://doi.org/10.1080/23311886.2018.1555201" />
+	</analytic>
+	<monogr>
+		<title level="j">Cogent Social Sciences</title>
+		<imprint>
+			<biblScope unit="volume">4</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="1" to="14" />
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b32">
+	<analytic>
+		<title level="a" type="main">Coming of Age with an AK-47: Ahmadou Kourouma&apos;s Allah N&apos;est Pas Obligé</title>
+		<author>
+			<persName><forename type="first">John</forename><surname>Walsh</surname></persName>
+		</author>
+		<idno type="DOI">10.2979/RAL.2008.39.1.185</idno>
+		<ptr target="https://doi.org/10.2979/RAL.2008.39.1.185" />
+	</analytic>
+	<monogr>
+		<title level="j">Research in African Literatures</title>
+		<imprint>
+			<biblScope unit="volume">39</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="185" to="197" />
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b33">
+	<monogr>
+		<title level="m" type="main">World Health Organization)</title>
+		<author>
+			<persName><surname>Who</surname></persName>
+		</author>
+		<ptr target="https://www.who.int/news-room/fact-sheets/detail/infertility" />
+		<imprint>
+			<date type="published" when="2023">2023</date>
+		</imprint>
+	</monogr>
+	<note>Infertility</note>
+</biblStruct>
+
+<biblStruct xml:id="b34">
+	<analytic>
+		<title level="a" type="main">Religion and Traditional Beliefs in West African English: A Linguistic Analysis</title>
+		<author>
+			<persName><forename type="first">Hans-Georg</forename><surname>Wolf</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Readings in the Sociology of Language and Religion</title>
+		<editor>
+			<persName><forename type="first">Tope</forename><surname>Omoniyi</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">Joshua</forename><forename type="middle">A</forename><surname>Fishman</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Amsterdam</addrLine></address></meeting>
+		<imprint>
+			<publisher>John Benjamins Publishing</publisher>
+			<date type="published" when="2006">2006</date>
+			<biblScope unit="page" from="42" to="59" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b35">
+	<monogr>
+		<author>
+			<persName><forename type="first">Hans-Georg</forename><surname>Wolf</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Frank</forename><surname>Polzenhagen</surname></persName>
+		</author>
+		<title level="m">World Englishes: A Cognitive Sociolinguistic Approach</title>
+		<meeting><address><addrLine>Berlin</addrLine></address></meeting>
+		<imprint>
+			<publisher>Mouton de Gruyter</publisher>
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b36">
+	<analytic>
+		<title level="a" type="main">Factors on Polygamy in Sub-Saharan Africa: Findings Based on the Demographic and Health Surveys</title>
+		<author>
+			<persName><forename type="first">Hayase</forename><surname>Yasuko</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Kao-Lee</forename><surname>Liaw</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename></persName>
+		</author>
+		<idno type="DOI">10.1111/j.1746-1049.1997.tb00849.x</idno>
+		<ptr target="https://doi.org/10.1111/j.1746-1049.1997.tb00849.x" />
+	</analytic>
+	<monogr>
+		<title level="j">The Developing Economies</title>
+		<imprint>
+			<biblScope unit="volume">35</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="293" to="327" />
+			<date type="published" when="1997">1997</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

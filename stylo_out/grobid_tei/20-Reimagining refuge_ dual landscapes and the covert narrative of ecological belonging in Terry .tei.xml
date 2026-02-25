@@ -1,0 +1,925 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Reimagining refuge: dual landscapes and the covert narrative of ecological belonging in Terry Tempest Williams&apos;s Refuge</title>
+				<funder ref="#_aveShHd">
+					<orgName type="full">Philosophy and Social Science Research Fund for Universities in Jiangsu Province</orgName>
+				</funder>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author role="corresp">
+							<persName><forename type="first">Yang</forename><surname>Lingli</surname></persName>
+							<email>113748278@qq.com</email>
+							<affiliation key="aff0">
+								<orgName type="institution">Yangzhou University</orgName>
+								<address>
+									<settlement>Yangzhou</settlement>
+									<country>People&apos;s Republic of China</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff1">
+								<orgName type="institution">Yangzhou University</orgName>
+								<address>
+									<addrLine>196 Huayang Rd, Huanjiang District</addrLine>
+									<postCode>225009</postCode>
+									<settlement>Yangzhou</settlement>
+									<country>People&apos;s Republic of China</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Reimagining refuge: dual landscapes and the covert narrative of ecological belonging in Terry Tempest Williams&apos;s Refuge</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date/>
+						</imprint>
+					</monogr>
+					<idno type="MD5">433CF973573AF343FDC7B40A95F8443A</idno>
+					<idno type="DOI">10.1080/0950236X.2025.2608851</idno>
+					<note type="submission">Received 11 March 2025; Accepted 21 November 2025</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.0" ident="GROBID" when="2026-02-25T19:54+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term>Refuge</term>
+					<term>dual landscape</term>
+					<term>natural landscape</term>
+					<term>cultural landscape</term>
+					<term>covert narrative</term>
+				</keywords>
+			</textClass>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>This paper offers a rereading of Terry Tempest Williams's Refuge: An Unnatural History of Family and Place through an integrated ecocritical and narratological framework, exploring how the work constructs together natural and cultural landscapes to express an invisible ecology of belonging. Treating the land as both material setting and symbolic field, the discussion shows how Williams intertwines environmental change with familial loss, turning personal mourning into a mode of ecological awareness. Images of disappearing birds and rising waters underscore the instability and renewal of the natural world, while the cultural landscape, marked by trauma, redemption, and what this study calls 'linear nostalgia', frames human suffering within a larger ecological order. Beneath these surface narratives emerges an 'invisible ecology,' where grief, memory, and place intersect to redefine belonging as an ethical and emotional responsiveness to the shared life of human and more-than-human beings. By tracing this layered narrative structure, the paper reveals the ecological consciousness of Refuge and contributes to widening the methodological reach of contemporary ecocritical research.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Introduction</head><p>Terry Tempest Williams' Refuge: An Unnatural History of Family and Place (1991), a classic work in the canon of American nature writing, intertwines the visceral realities of human mortality with the ecological instability of the natural world. At its core, the memoir juxtaposes two seemingly disparate narratives: the intimate chronicle of Williams' mother's battle with ovarian cancer and the environmental tragedy of the Great Salt Lake's rising waters submerging the Bear River Migratory Bird Refuge. <ref type="bibr" target="#b0">1</ref> Through this dual narrative framework, intertwining the story of her mother's illness with the ecological instability of the Great Salt Lake, Williams constructs a dialogue between bodily fragility and environmental vulnerability, positioning personal and ecological mourning as interconnected manifestations of loss.</p><p>Since its publication, Refuge has attracted sustained attention in ecocriticism and the environmental humanities. Scholars have generally approached the text along two main lines. The first considers Refuge as a work of environmental testimony and ecological mourning, reading the rising waters of the Great Salt Lake as emblematic of environmental crisis and spiritual renewal. <ref type="bibr" target="#b1">2</ref> The second examines the book's hybrid genre and narrative form, showing how Williams blends memoir, natural history, and environmental journalism to challenge the traditionally masculinist lineage of American nature writing. Charles Mitchell interprets Refuge as a parallel narrative of family and place, suggesting that Williams reclaims the sacred through intimacy and reciprocity rather than through transcendence. <ref type="bibr" target="#b2">3</ref> Beyond these classical ecocritical readings, more scholarship has explored Refuge from ecofeminist, queer, and posthumanist perspectives. Cassandra Kircher argues that in Refuge, Williams critiques, reconstructs, and intertwines longstanding dichotomies of nature, culture, gender, and the body, creating a complex, ethically informed network of relationships between humans, the environment, and culture. <ref type="bibr" target="#b3">4</ref> Laura L. Bush critiques Williams's sentimental narrative style and the sense of separation it conveys, emphasising the triangular relationship among mother, body, and environment. <ref type="bibr" target="#b4">5</ref> Serenity Wood situates Refuge alongside Mary Oliver's poetry, exploring the intertwining of female bodily experience and ecological consciousness and showing how corporeality and nature are mutually constitutive. <ref type="bibr" target="#b5">6</ref> Michael Lundblad applies animal studies and posthumanist theory to examine the interactions among birds, women, and cancer, highlighting complex entanglements between ecology, gender, and species. <ref type="bibr" target="#b6">7</ref> Nouf Alkhattabi analyzes how Williams constructs a co-constitutive relationship between women and nature, critiquing the dual oppression of women and the environment under patriarchal structures. <ref type="bibr" target="#b7">8</ref> From a new materialist perspective, Chang Li-ping explores the agency of nonhuman entities ('things') in Refuge and When Women Were Birds, arguing that objects participate actively in ecological narratives and extend the reach of environmental criticism beyond human-centered frameworks. <ref type="bibr" target="#b8">9</ref> Together, these studies demonstrate the multiple ways Williams's work has been read, while drawing attention to underexamined intersections of corporeality, nonhuman agency, and cultural critique.</p><p>These readings also challenge essentialist assumptions, showing how Williams negotiates ethical responsibility, relationality, and multispecies interconnectedness. From a narrative standpoint, it is worth noting that the epilogue of Refuge was published separately, and it is there that readers learn of the atomic testing to which Williams and her family were exposed. This disclosure complicates any straightforward characterisation of her mother's death as 'natural,' revealing layered interactions between environmental trauma, familial loss, and ethical witnessing. By considering the natural and cultural landscapes within broader ecological and socio-cultural contexts, the text emerges not as a simple natural/cultural binary but as a dynamic site where ecological transformation, cultural memory, and ethical responsibility intersect. Incorporating these perspectives enables a fuller engagement with ongoing scholarly debates, highlighting Refuge as a narrative encompassing both environmental and socio-political dimensions.</p><p>Building on Mitchell's reading of Refuge as a parallel narrative of family and place, this study develops the concept of a dual landscape narrative to capture the structural and thematic complexity of Williams's text. The intertwined stories of ecological change at the Great Salt Lake and familial struggle with illness create two overlapping terrains, the natural and the cultural, that continuously reflect and refract one another. This dual narrative reveals Williams's effort to reconcile environmental and personal loss, locating the sacred not in withdrawal from change but in intimate engagement with it. Beneath these layers lies a covert narrative, linking environmental devastation with gendered and cultural displacement. It exposes how the forces that exploit the land simultaneously threaten women's bodies and spiritual well-being. Reading Refuge through the lens of dual landscapes and covert narrative illuminates Williams's transformation of ecological mourning into an ethics of belonging, a politics of reinhabiting place that redefines the boundaries among nature, culture, and self. This study contributes to the existing scholarship by framing Refuge through the dual lenses of landscape and covert narrative, emphasising the interplay between ecological transformation and cultural memory. It argues that Williams's intertwining of the Great Salt Lake and the family household constructs a narrative of belonging that is ecological, ethical, and political, a broadened mode of nature writing that reimagines refuge as both material habitat and moral geography.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Reading the land: morphologies of natural and cultural landscapes</head><p>As a core concept of interdisciplinary research, landscape has always carried the important mission of geography in exploring the human-environment relationship. The etymology of the term can be traced back to the Anglicization of the Dutch word landschap in the 16th -17th centuries, gradually forming a dual meaning -referring both to the visual form of rural land and its pictorial representation. <ref type="bibr" target="#b9">10</ref> In the early twentieth century, American geographer Carl Sauer systematically constructed the theoretical framework for landscape studies in his foundational work Morphology of Landscape. He defined landscape as 'as an area made up of a distinct association of forms, both physical and cultural,' <ref type="bibr" target="#b10">11</ref> and pioneered the classification of landscape into two major analytical categories: natural landscape and cultural landscape.</p><p>Regarding the morphology of natural landscapes, Sauer developed a system of elements that includes climate, land (encompassing surface, soil, water systems, and mineral resources), oceans, and vegetation. He emphasised the role of climate in shaping hydrological forms, noting, for example, that swamps, as a permanent feature of high-latitude wetlands, are essentially a product of a low-evaporation climate. 12 This morphological perspective provides a methodological foundation for analyzing natural landscapes. Cultural landscape is 'fashioned from a natural landscape by a culture group. Culture is the agent, the natural area is the medium, the cultural landscape the result.' <ref type="bibr">13</ref> The natural landscape is of fundamental importance, for it supplies the materials out of which the cultural landscape is formed. <ref type="bibr">14</ref> Sauer's concept of dual landscape distinguishes between natural landscapes, shaped by ecological elements such as climate, landforms, soil, water systems, vegetation, and oceans, and cultural landscapes, produced and continuously transformed by human activity. Sauer emphasises that natural forms are never static, as human intervention constantly modifies or even destroys them, highlighting the dynamic interplay between ecological processes and human agency. In practice, this dual perspective provides a methodological foundation for analyzing landscapes in literary texts.</p><p>Taking the text Refuge as an example, elements such as bird communities, the Bear River Migratory Bird Refuge, and the Great Salt Lake can all be categorised within the realm of natural landscapes. However, it is important to note that Sauer specifically warned that humans, as ultimate shapers of form, continuously alter or even destroy natural forms through cultural practices, <ref type="bibr">15</ref> an insight that remains highly relevant in contemporary ecocriticism. Building on this, cultural geographer Kent Ryden proposed the theory of 'invisible landscape,' emphasising that local memory is inscribed within the landscape through myths, legends, and historical narratives in nonmaterial forms. <ref type="bibr" target="#b11">16</ref> This perspective on the temporal-spatial layering of landscapes extends the concept of dual landscapes, encompassing both human and nonhuman elements, by emphasising that each landscape unfolds through time as well as space. As Yi-Fu Tuan asserts, landscape inevitably contains a temporal dimension <ref type="bibr" target="#b12">17</ref> , while Sauer stresses that we 'cannot form an idea of landscape except in terms of its time relations as well as of its space relations.' <ref type="bibr" target="#b13">18</ref> Building on this understanding of landscapes as temporal as well as spatial constructs, Simon Schama further explores how landscape imagination itself participates in shaping these constructs.</p><p>Schama proposes that landscape imagination has a reflexive and constructive function: 'when a certain idea of landscape establishes itself in an actual place, it has a peculiar way of muddling categories, of making metaphors more real than their referents.' <ref type="bibr" target="#b14">19</ref> This suggests that cultural landscapes function as spatiotemporal continuums carrying folk memory, religious symbolism, and collective imagination, where material forms and intangible meanings are dialectically unified. Synthesising these perspectives, we can see that the study of cultural landscapes should encompass both regional elements (myths, history, customs) and humanistic elements (perception, imagination, practice), which together construct a network of meaning in human-environment interactions.</p><p>Shen Dan, Chinese critic in contemporary literary theory, argues that certain narrative works contain an additional layer of complexity beneath the surface of plot development. The coexistence of overt and covert processes allows the same text to convey two distinctly different thematic directions. Once the covert processes are revealed, seemingly illogical or puzzling details within the text can be situated meaningfully within the narrative's undercurrents, revealing their thematic significance and aesthetic value. <ref type="bibr" target="#b15">20</ref> In narrative works, the overt narrative process encompasses the plot development, and events that are presented on the surface, making them easily perceptible to readers. In contrast, the covert narrative is more subtle and requires deeper reading and interpretation. The hidden layer may involve underlying themes, symbolic elements, concealed emotions, or deeper meanings. Such coexistence of overt and covert narrative processes enables the same text or plot to be interpreted through two distinct thematic lenses. The complexity is part of the allure of narrative texts, enriching them and adding layers of depth. In these works, the meaning of words is shaped not only by conventional context but also by the ideographic tracks formed by specific narrative movements. These tracks can create contrasts or oppositional relationships with other narrative elements, influencing the overall interpretation of the text. By exploring the covert processes, seemingly strange, confusing, or tangential details can be appropriately positioned within the narrative, revealing their aesthetic significance. While dual narratives are predominantly explored in fictional works, they also appear in creative nonfiction <ref type="bibr" target="#b16">21</ref> , particularly in the twenty-first century with nature writers experimenting with form. This suggests that the technique holds significant value in the realm of nature writing as well. Although research typically focuses on the natural themes within these works, recognising the dual narratives processes is essential for a deeper understanding of nature writing.</p><p>Thus, the concept of 'dual landscape narrative' is introduced in this paper, referring to the parallel depiction of natural and human-altered landscapes, and suggesting that writers reflect on the evolution of human culture and values through the depiction of natural landscapes while also addressing humanity's dependence on and destruction of nature through cultural landscapes. In many nature writing texts, authors attend not only to the grandeur and subtle transformations of the natural world but also, where relevant, to associated cultural landscapes, including regional traits, historical legacies, and local traditions. Through the juxtaposition and contrast of these dual landscapes, works create a multi-dimensional narrative space that allows readers to appreciate the richness and complexity of human culture while experiencing the beauty of nature. This narrative approach can enrich the depth and three-dimensionality of the texts, encouraging readers to reflect on the intricate relationship between nature and culture, and potentially fostering a dual focus on environmental protection and cultural heritage. This duality underscores the ongoing interplay between natural and cultural landscapes. The covert narratives embedded within these landscapes assist readers and researchers in gaining a deeper understanding of nature writing and further investigating its ecological, philosophical, social, and cultural dimensions. The application of dual landscape narrative in nature writing unveils diverse natural themes and perspectives, encouraging readers to engage critically with environmental issues and establishing nature writing as a crucial medium for fostering ecological awareness.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Natural landscape narrative in Refuge: vanishing birds, rising waters</head><p>Refuge serves as a compelling example of a dual landscape narrative, in which Williams intertwines the natural environment with elements of familial inheritance, creating a distinctive narrative. On the one hand, she deeply explores the natural landscape, climate, and ecosystem of a specific geographical area, illustrating how these factors profoundly influenced her mental state and creative inspiration. Williams vividly recounts her meditative experiences in nature, portraying it as a source of inner peace and wisdom. This ecological narrative invites readers into her intimate relationship with the natural world, underscoring the deep connections between the environment, emotional and spiritual well-being. On the other hand, complementing the regional narrative is the exploration of family history. Williams reflects on her family's past, sharing stories, traditions, and values of its members. She explores her upbringing and the profound influence her family has had on shaping her identity. This narrative approach highlights the intricate relationship between family, individual identity, and cultural heritage. By seamlessly integrating regional and familial elements, Williams emphasises the interconnectedness of these dimensions -how familial origins relate to specific regions and how individuals grow and transform within both natural and familial contexts. This dual ecological narrative not only deepens readers' understanding of her journey but also encourages reflection on how the natural environment and family history collectively shape her inner world and cultural identity.</p><p>In Refuge, the author starts the narration in a scientific way, introducing the geographical location and hydrological features of the Great Salt Lake by recalling a filled-a-cup-with-water experiment from school. <ref type="bibr" target="#b17">22</ref> In the subsequent chapters, the subtitles precisely record the water level fluctuations of the Great Salt Lake from 1983 to 1989, creating a linear narrative through time. These data may seem simple, but their fluctuations provide the most direct representation of the changes in the natural landscape of the lake, deeply tied to the survival of the creatures in the surrounding environment. Williams felt overwhelmed by the lake's natural surge in water levels, which climbed from 4,204.70 feet to the historical peak of 4,211.85 feet, coupled with the extensive human development in the surrounding area. She could only stand by helplessly as the wetlands gradually degraded until they were ultimately submerged. Although humans attempted to control the rising water levels through the Western Desert Water Transfer Project, nature's unstoppable force ultimately thwarted these efforts. This outcome acts as a critique of human arrogance, particularly those who see themselves as 'dominators,' and challenges the conventional binary between culture and nature, as well as between subjective and objective perspectives, that underpins modern human-centered worldviews. The flooded Great Salt Lake leaves humans living there with a landscape that seems to be utterly barren and desolate.</p><p>Birds are distinctive elements in Williams' natural landscape narrative, acting as indicators of the Great Salt Lake's deteriorating environment. Birds signal time and predict weather phenomena. <ref type="bibr" target="#b18">23</ref> In Refuge, Williams listens closely to these avian cues, not just as a naturalist, but as someone who is attuned to the deeper messages the land conveys through its creatures. The absence or presence of birds becomes a form of language, a living barometer of the health of both the ecosystem and the human spirit that dwells within it. Williams uses the names of birds as titles for each chapter and references the various bird species of the lake throughout. However, with the rising water levels, the bird population in the Bear River Migratory Bird Refuge gradually decreases, highlighting the devastating impact on migratory birds and their habitats. As the lake's water levels continue to rise, the bird species in the Bear River Refuge continue to diminish. When the water reached its highest historical level of 4211.85', only one Western Tanager remained in the refuge, and all other birds had abandoned the Great Salt Lake.</p><p>Williams listens to and records the sonic landscape of the Great Salt Lake's birdlife. At the beginning of the narrative, the begging cries of burrowing owl chicks, 'Tttss!' <ref type="bibr" target="#b19">24</ref> and the call of a nine-year-old avocet skimming the water's surface 'Plee-ek!' 25 can be heard. In later chapters, the California Gull, Utah's state bird, cries out 'Halp!' 26 , an onomatopoeic expression reminiscent of the word 'help'; yet humans remain unresponsive to this primal distress call. The long-billed curlew, traditionally regarded as a harbinger of doom, utters its mournful 'Cur-lee,' 27 a call whose onomatopoeic resemblance to the bird's name underscores Williams' attentiveness to the intimate correspondence between language and landscape, functions as both an ecological and a narrative signal. Ecologically, the call reflects environmental stress and habitat disruption, signalling the deterioration of the Great Salt Lake ecosystem. Narratively, its mournful and repetitive tone conveys a sense of impending tragedy, foreshadowing the ecological crisis and heightening the reader's awareness of the landscape's fragility. Later, even in spring, a season meant for renewal, no bird songs are heard over the lake. Instead, humans encounter only the sight of California gulls, pintails, blue-winged teals, Canada geese, mallards, western grebes, and American mergansers that have been casually shot dead. 28 Rachel Carson's vision of 'a spring without voices' <ref type="bibr" target="#b20">29</ref> as described in Silent Spring, echoes here in Williams' account. Though not caused by DDT, the disappearance of the birds similarly stems from environmental overexploitation and the destruction of wetland habitats. In Refuge, Williams allows birds to be the speakers, voicing nature's complaints about invasion and harm from human beings. <ref type="bibr" target="#b21">30</ref> Williams is not only a writer and naturalist, but also an ecofeminist. In Refuge, she portrays her mother Diane's body, ravaged by cancer, as a lost landscape of nature. Williams suggests that ′ the self is a landscape that mediates the natural environment, while also being mediated by that environment.' <ref type="bibr" target="#b22">31</ref> She describes her mother's womb as the 'first landscape', <ref type="bibr" target="#b23">32</ref> the primal place where we 'learn to respond -to move, to listen, to be nourished and grow.' <ref type="bibr">33</ref> As this foundational landscape is threatened by cancer and potential removal, it mirrors how humanity is severing its bond with nature, becoming a species increasingly ungrounded and disconnected from the Earth. Williams and her family may not have fully grasped the implications of this rootlessness. Yet, in urging that her mother endure aggressive chemotherapy in the name of 'love,' rather than accepting the natural course of aging and death, they reveal a subconscious detachment from that original landscape of the body.</p><p>This parallels how humans intervene in natural cycles through alienating medical technologies, much like the artificial dikes built to control the rising waters of the Great Salt Lake, often with predictable, devastating consequences. After multiple rounds of chemotherapy, her mother's body grows weak, scarred, and distorted. Alienating drugs and radiation act like hostile invaders, corroding the essence of her being and ultimately hastening her physical decline. Both the ecological history of the Great Salt Lake and Williams' family narrative can thus be seen as unnatural, disrupted and reconfigured by human intervention. It is important to note that this 'unnaturalness' extends beyond medicine: Williams hints, albeit cautiously, at the lingering shadow of nuclear testing in the Utah desert, noting, 'I cannot prove that my mother or my grandmothers, along with my aunts developed cancer from nuclear fallout in Utah. But I can't prove they didn't.' 34 This ties regional environmental trauma to her mother's illness. As Ross-Bryant, scholar of American religion and culture, observes, '"Unnatural history" is a history of resistance; natural history is one of adaptation.' <ref type="bibr" target="#b24">35</ref> While Williams depicts her mother's body as a lost landscape, this environmental contamination, foreshadowed earlier through references to nuclear testing, is gradually revealed as one of the external forces behind her mother's bodily decline. This narrative structure mirrors her deliberate pacing of natural and unnatural elements within the narrative.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Cultural landscape narrative in Refuge: trauma, redemption and linear nostalgia</head><p>Refuge exemplifies how personal grief, environmental disruption, and cultural memory converge within the concept of cultural landscape. By employing a narrative strategy of linear nostalgia that interweaves time, space, and memory, the work illuminates the intertwined dimensions of trauma and redemption: the slow violence of environmental degradation and the intimate grief of a mother's death from cancer. This nostalgia is not merely a sentimental recollection of the past, but a conscious, linear reconstruction that connects personal, familial, and ecological trauma into a clear path toward redemption.</p><p>Set against the backdrop of the Great Salt Lake and the Bear River Migratory Bird Refuge in Utah, the memoir demonstrates that ecological nostalgia is not only a form of 'solastalgia', the distress caused by environmental loss, but also a mourning of the broken connections between self, family, and land. Here, nostalgia is not an escape into sentimentality, but an emotional response to a shattered world, seeking redemption through memory, witness, and ritual.</p><p>Refuge recounts how the author confronts her mother's death from breast cancer. The book intertwines the family's story with the alarming rise of the Great Salt Lake, which threatens the community where Williams lives. This linear juxtaposition reveals the symbiotic relationship between human tragedy and natural disaster. Nostalgia here becomes a recollection of familial health and ecological balance, with nuclear contamination serving as a prominent example of its disruption. In this threatened and ever-changing landscape, Williams does not merely find inspiration for healing; She forges a model of how to transform herself through suffering and learns to endure change.Through her interaction with this land, she discovers the spiritual tools needed to rebuild life: 'I have been in retreat. This story is my return.' <ref type="bibr" target="#b25">36</ref> Here, the notion of 'retreat' embodies a process of withdrawal and renewal through which she rediscovers the restorative power of nature. Williams suggests that sacred experiences in natural landscapes do not emerge from nowhere but arise from our long history of interaction with these places. Human presence, she argues, is not a disruption but a precondition of such experiences. Williams writes:</p><p>The Bird Refuge has remained a constant. It is a landscape so familiar to me, there have been times I have felt a species long before I saw it … The birds and I share a natural history. It is a matter of rootedness, of living inside a place for so long that the mind and imagination fuse. <ref type="bibr">37</ref> This 'constancy' refers not just to the physical landscape, but also to the enduring sense of familiarity and connection it provides, grounding the observer's experiences and memories over time. Each of her literary accounts, focused on experiences in nature, aims to teach how to live with change; each seeks a symbol that enables readers to take root in the land without being overwhelmed by the currents of time.</p><p>As a Mormon, Williams traces her community's history of migration and faith. 'I have been raised in a culture that believes in personal revelation, that it is not something buried and lost with ancient prophets of the Old Testament.' <ref type="bibr" target="#b26">38</ref> She reflects on her ancestors' devotion to Utah as the 'promised land,' only to find that nuclear testing has cast a cancerous shadow over the land, turning it into a graveyard for the sacrificed. Here, linear nostalgia takes the form of deconstructing the Mormon utopian ideal, moving from the linear inheritance of faith (spanning six generations of family history) to questioning authority, and ultimately achieving a redemptive retelling of personal and collective history through writing. Thus, sacred truth is not fixed, nor are people mere supplicants seeking it. Instead, truth is a process, a product of interaction.</p><p>The linear temporal structure of Refuge reflects a Western understanding of time as progress, history, and redemption. The narrative unfolds chronologically, documenting a series of flood events that alter the landscape alongside the medical procedures that gradually erode her mother's health. This parallelism reinforces the causal link between environmental crisis and human suffering, particularly the legacy of nuclear testing in the American West. As Williams states: 'It is a well-known story in the Desert West, 'The Day We Bombed Utah,' or more accurately, the years we bombed Utah: above ground atomic testing in Nevada took place from January 27, 1951 through July II, and 1962.' <ref type="bibr" target="#b27">39</ref> The bodies of the nuclear-affected generation carry environmental trauma, turning the natural landscape into embodied ecological memory.</p><p>Williams' ecological nostalgia is thus deeply traumatic, embodying Rob Nixon's 'slow violence'. <ref type="bibr" target="#b28">40</ref> The disasters unfold in ways that are difficult to capture immediately, resulting in relatively weak social mobilisation. Therefore, we need to rethink, both theoretically and practically, how to effectively respond to this form of 'non-spectacular' violence and develop narrative strategies that capture its complex spatiotemporal structure. Williams' ecological nostalgia manifests more as a kind of trauma, filled with sorrow and anger. Her writing ritualises grief and transforms nostalgia into testimony. Linear narrative not only records disappearance but also shapes memory into a form of reflection and resistance. Through writing, she reestablishes connections amid disintegration, presenting ecological nostalgia as an act of mourning and an ethical calling.</p><p>The text takes the form of a diary chronicling her mother's final years. Each observation, such as the flight of a snowy egret or the solitude of a heron, contributes to a linear accumulation of natural detail. Williams writes: 'Memory is the only way home.' <ref type="bibr" target="#b29">41</ref> By meticulously documenting daily bird activities, water levels, and her mother's condition, she constructs a 'sensory chain of memory' linking a fragmented present to an integrated past. This nostalgia is not merely emotional solace but an awakening of ecological ethics. Williams juxtaposes the breast cancer prevalent among the women in her family with the disappearance of the Great Salt Lake wetlands, creating a body-land trauma metaphor. Linear nostalgia is embodied in the dual recollection of bodies before nuclear radiation and wetlands before flooding. For example, she reflects on her mother's later condition while recalling a distant past: the time before nuclear testing and the moment when the Great Salt Lake appeared steady. She writes: 'The stillness of the desert instructs me like a trail of light over water.' <ref type="bibr" target="#b30">42</ref> Williams merges the experience of individual mortality with the demise of the natural landscape, ultimately achieving redemption through writing, moving from 'refuge' to 'return.' The book's 36 chapters, each named after a bird from 'Burrowing Owl' to 'Avocet,' indicating the linear cycle of bird migration. This structure elevates personal mourning into a faith in ecological cycles, just as birds return year after year, memory too can be reborn through words. As Williams writes in the preface: 'I am telling this story in an attempt to heal myself, to confront what I do not know, to create a path for myself.' <ref type="bibr" target="#b31">43</ref> This indicates that the ultimate aim of linear nostalgia is to reconstruct a continuity that transcends temporal rupture.</p><p>This mode of linear nostalgia aligns with the Judeo-Christian narrative tradition, which emphasises revelation, redemption, and historical progression. In this framework, time is understood as a linear path advancing toward an end and redemption. As American ecocritic Ursula Heise points out, 'apocalyptic narrative, with its portrayal of an entire planet on the brink of ecological collapse and human populations threatened in their very survival, has been one of the most influential forms of risk communication in the modern environmental movement.' <ref type="bibr" target="#b32">44</ref> Such narratives often envision a pastoral ideal as an alternative future, yearning for a purer, simpler natural life. Williams' account both inherits and critiques this narrative logic. Her vision of redemption is not a return to some primal state of nature, but rather a reestablishment of emotional attachment and connection amid irreversible ecological loss, treating vulnerability as a starting point for ecological and emotional reconstruction. The emotional power of Refuge lies in its capacity to bear witness, revealing how personal and ecological histories converge in shared vulnerability, and suggesting that memory itself is a form of healing.</p><p>In the end, the ecological nostalgia in Refuge is structured by trauma yet oriented toward meaning-making. It is linear in its temporal structure, redemptive in its ethical intent, and deeply intertwined with the colonial history and environmental exploitation of the American West. Williams demonstrates that the restoration of a cultural landscape is both a literary and an ethical act. By highlighting these cultural landscapes, Williams transforms mourning into ecological memory and loss into literary presence.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Unveiling the covert: dual narrative processes in Refuge</head><p>Michael Austin, American academic and critic of Mormon literature, notes in the Oxford Handbook of Mormonism that nonfiction often allows Mormon writers to engage directly with their cultural and religious values. <ref type="bibr" target="#b33">45</ref> In Refuge, Williams narrates a story of mourning that intertwines personal loss, environmental devastation, and Mormon cultural perspectives. Her account of her mother's battle with cancer resonates with Mormon emphases on resilience, faith, and the sacredness of family and place. Simultaneously, the rising waters of the Great Salt Lake and the destruction of the Bear River Migratory Bird Refuge reflect an ecological consciousness informed by her cultural background. By weaving together these personal and environmental narratives, Williams explores themes of connection, impermanence, and resilience, demonstrating how her engagement with Mormon values shapes both her personal and ecological reflections.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Narrative of mourning: shared memories of family and land</head><p>Williams' family is deeply rooted in the Mormon tradition, a faith that emphasises the sanctity of familial bonds and the spiritual connection between humans and the land. Members of the Mormon community believe that 'God requires them to identify and document their ancestors so that family members can be united eternally after death,' <ref type="bibr" target="#b34">46</ref> and they maintain the tradition of preserving their culture through biography. 'The growing persecution they suffered as a movement, their fixation on persecution as a sign of chosen status, together with the specific injunction to chronicle those persecutions in detail, added a special emphasis to their record keeping.' <ref type="bibr" target="#b35">47</ref> In Refuge, Williams breaks through traditional narrative conventions by placing both the female members of her family, with her mother at the centre, and the birds of the natural world at the heart of her account. She chronicles her emotional journey through loss and spiritual growth as she grieves her mother and her changing homeland. Williams notes that she was 'raised in a culture that believes in personal revelation,' <ref type="bibr" target="#b36">48</ref> indicating that her Mormon upbringing provided both values and frameworks for understanding life, loss, and resilience.</p><p>Although Williams was immersed in Mormon cultural and spiritual practices from an early age, her own spiritual awareness and interpretation of these values deepened significantly during her mother's illness. Her mother's death carries particular weight due to its convergence with environmental catastrophe, which challenges both personal and cultural conceptions of legacy. This loss is not only a personal tragedy but also an existential threat to the Mormon ideal of generational legacy. The theological emphasis on eternal families, a cornerstone of Mormon belief, lends her grief a profound spiritual dimension, extending the sense of loss across both temporal and eternal realms.</p><p>Moreover, the Great Salt Lake and its surrounding wetlands, particularly the Bear River Migratory Bird Refuge, hold deep spiritual and ecological significance in Williams' writing. These landscapes are not merely habitats but sacred spaces that offer solace and connection to the natural world. The rising waters of the Great Salt Lake, which submerge this ecological sanctuary, symbolise the consequences of human neglect toward the environment. Within Mormon tradition, land is often regarded as a divine trust, a sacred gift to be cherished and protected. Thus, the loss of the wetlands represents not only an environmental crisis but also a symbolic death that mirrors her mother's passing. Williams articulates this parallel, using the ecological disaster to reflect her inner grief. As she explained in an interview: 'the Bear River Migratory Bird Refuge was being flooded by the rise of the Great Salt Lake; my mother was diagnosed with ovarian cancer; both are natural phenomena'. <ref type="bibr">49</ref> Her focus on the uncontrolled and hostile unnatural forces behind these events drives her search for spiritual refuge and self-preservation. This empathy for birds and lament for the fates of her mother, herself, and the women in her family form the emotional core of Williams' narrative of mourning, establishing a foundation for accountability and reflection.</p><p>Moreover, in Williams' narrative, family and land are not separate entities but deeply interconnected, each shaping and sustaining the other. The loss of her mother and the destruction of the wetlands form an intricate tapestry of grief, reflecting the cyclical and interdependent nature of life and death. Mormon theology emphasises the concept of 'eternal families,' and this belief intersects with the natural cycles of renewal and decay, creating a narrative that transcends individual mourning. Williams' sorrow is not solely for her mother or the land but also for the severed relationship between humanity and nature, a lament for the disconnection and imbalance that grief magnifies. Although mourning pervades the narrative, Williams ultimately transforms her grief into a source of strength and action. She advocates for environmental protection, the preservation of family histories, and the continuation of faith. Through the depth of her Mormon perspective, Williams invites readers to find meaning in loss and to honour the sacred ties between humanity, faith, and the natural world. Refuge offers a narrative of mourning that transcends personal loss, connecting it to universal themes of memory, resilience, and the interconnectedness of family and place. This narrative of mourning becomes not just an expression of sorrow but a pathway for healing and hope, reflecting the cultural ethos of resilience, eternal perspective, and the belief in the redemptive power of stewardship. Williams both preserves the Mormon narrative tradition and challenges the cultural prejudices faced by Mormons. She channels the religious and moral power of lamentation to issue warnings and judgments. But how does Williams shift from 'lament' to 'narrate,' becoming a voice for contemporary Mormon women? This transition is reflected in another narrative -one of invisible ecology, from which she derives strength, turning threats into protections and transforming suffering into a promise of progress.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Narrative of invisible ecology: the body as an archive of ecological trauma</head><p>Refuge encompasses an invisible ecological narrative in which Williams probes into less obvious ecological factors that have profoundly influenced her individual psyche and family history. Invisible ecological narrative refers to indirectly conveying ecological consciousness and ecological concepts through metaphor, symbol, and other means in the text, rather than directly describing the ecological environment or ecological events. This narrative style is often more subtle and deep, which motivates readers to dig and interpret deeply. Williams uses metaphor and symbolism in Refuge, which closely connects the natural landscape with human emotions and destiny. For example, the rising water level in the salt lake not only threatens the birds in Bear River Migratory Bird Refuge, but also symbolises the aggravation of her mother's illness. The tragedies of nature and human beings are intertwined, which together constitute the theme of the work. This metaphor not only conveys the ecological crisis but also reveals the inner struggles and pain of humanity. Williams intertwines her family experience with the natural environment, using the history of breast cancer in the women of her family and the ecological decline of the Great Salt Lake to illustrate the deep connection between humans and nature. This connection is not just physical but also spiritual: the strength and courage of the women in her family mirror their love and reverence for nature, forming the emotional core of Refuge. Williams draws on personal experiences, such as accompanying her mother during her terminal illness to the lake and later being diagnosed with breast cancer herself. These experiences lend authenticity and emotional depth to her narrative, while deepening readers' engagement with ecological issues.</p><p>The word 'refuge' in the title is a noun, however, the work presents a dynamic process of seeking solace for the soul. Williams believes that 'the personal is the collective' <ref type="bibr" target="#b37">50</ref> , suggesting that this journey toward spiritual solace is not only her pilgrimage but a shared journey for humanity today. This pilgrimage culminates in what geographer Yi-Fu Tuan calls a 'virtual place' <ref type="bibr" target="#b38">51</ref> , created as a return to a natural state. Williams uses a unique, dual narrative framework in time and space to fully illustrate her spiritual journey, where time is the axis that encompasses space, creating a unified narrative experience. The narrative time-space cycle is recurrent but not a closed circular return from beginning to end; rather, it is an open, dual progression. Previously, I mentioned Williams' use of linear narrative through time. In this linear time narrative, she intersperses personal insights and spiritual revelations from her experience as a Mormon in a scattered fashion.</p><p>Williams's family, six generations of Mormon women, becomes a living archive of invisible ecological violence when seven women, including her mother, die of breast cancer linked to nuclear fallout from atomic tests conducted at the Nevada Test Site, not far from their Utah home. This tragedy is not an isolated medical anomaly but a symptom of a poisoned environment, where invisible toxins permeate air, water, and soil, accumulating in the food chain and human bodies. The U.S. government's 1951 decision to conduct above-ground nuclear tests despite known health risks exemplifies technocratic hubris, prioritising military dominance over ecological and human safety.</p><p>Williams frames her mother's chemotherapy as a futile ritual of modernity. As Diane's condition worsened, her bond with nature deepened as well. She saw herself as 'the bird's nest behind the waterfall,' <ref type="bibr" target="#b39">52</ref> viewed her cancer as a desolate 'Siberia,' 53 imagined the chemotherapy to be a river running through her body, 54 and regarded nature as 'her connection to herself'. <ref type="bibr">55</ref> These metaphors serve not only to illustrate her illness but also to expand her sense of identity into the non-human realm. From this perspective, Williams recognises the birds, the lake, the salt desert, and the Utah Basin as part of her family. In this way, her metaphoric imagination transforms nature from an external setting into an intimate extension of self and kinship, deepening her connection with it. Williams is an advocate of land ethics and enlarged community, with her concept of community widening with the spiral of her memories, as she describes:</p><p>'It was a spiral. I placed the tip of my finger on the center and began tracing the coil around and around. It spun off the rock. My finger kept circling the land, the lake, the sky.' <ref type="bibr" target="#b40">56</ref> Williams asserts that 'We are no more and no less than the life that surrounds us,' 57 and that 'Each (life form) occupied an assigned sphere of influence, each has a place and a purpose.' <ref type="bibr">58</ref> This reflects an ecological perspective that emphasises the unique niche of every creature and the inherent equality of all life forms. The first step in her spiritual journey is the recognition of kinship, extending beyond human relations to include birds, the lake, the salt desert, and the Utah Basin, an expansion of familial ties into the nonhuman world. Building on this foundation, the second step is her recognition of place: the realisation that only when we see ourselves as 'plain member and citizen of (earth's community)' <ref type="bibr" target="#b41">59</ref> can we respect other members, truly understand our home, and appreciate the local natural and cultural landscapes. This two-step progression, first kinship, then place, clarifies how Williams' ecological imagination guides her back to a spiritual home.</p><p>The women's deaths are further ecological metaphors for systemic violence. It can be understood that Mormon women, often confined to domestic spheres, become silent bearers of both nuclear toxins and patriarchal norms that marginalise their voices in public discourse. Their bodies, like the land, are colonised spaces, sites of exploitation where toxic waste and gendered oppression converge. For instance, the U.S. Atomic Energy Commission's 1957 report downplaying radiation risks to 'downwinders' <ref type="bibr" target="#b42">60</ref> (those living near test sites) mirrors the church's historical silence on women's health issues, reinforcing a culture of epistemic erasure that renders both ecological and feminine suffering invisible.</p><p>Williams' spiritual journey also revolves around her understanding of change and death, which is both a process and an inseparable union of time and space. Her insights into change and death deepen within a cyclical time-space pattern, as reflected in her comparison of her mother's death with the deaths of three birds (a barn swallow, a swan, and a curlew) <ref type="bibr" target="#b43">61</ref> , as well as her memories of the physical changes and eventual deaths of her mother, grandmother, and great-grandmother due to cancer. She comes to see death as an inevitable phase in nature, an unavoidable fate, and a final resting place. From her mother, grandmother, and great-grandmother's acceptance of their bodily changes and peaceful embrace of death, Williams ultimately grasps that death brings not only pain but also an appreciation of life and spiritual fulfilment, aligning with Hegel's idea that 'death is the natural negation of this same consciousness, negation without selfsufficiency.' <ref type="bibr" target="#b44">62</ref> Although her mother and grandmother's bodies have returned to the earth, their spirits have merged with nature, remaining in her memories, offering her solace and enlightenment. Thus, she reflects, 'My physical mother is gone, but my spiritual mother remains' . Her exploration of death leads back to an ultimate pursuit of love, hope, and faith -the final destination on humanity's journey home. In the end, Williams realises that today's ecological crisis and her spiritual crisis stem from a neglect of love -the lack of love for the earth, for one's fellows, for other life forms and non-living forms, and death as a shared destiny. Her seemingly paradoxical conclusion is that.</p><p>'I am slowly, painfully discovering that my refuge is not found in my mother, my grandmother, or even the birds of Bear River. My refuge exists in my capacity to love. If I can learn to love death then I can begin to find refuge in change.' <ref type="bibr" target="#b45">63</ref> Williams transforms personal grief into ecological witnessing. By chronicling her family's suffering from breast cancer alongside the decline of the lake and surrounding ecosystems, she reveals how covert ecological violence is embedded within the structures of American modernity, nuclear experimentation, and patriarchal systems. This narrative approach makes readers aware that ecological damage is not merely measurable environmental harm but also profoundly permeates human bodies, memory, and emotion. Her work calls for a redefinition of justice, one that accounts for the unseen costs of war, technology, and patriarchy, centreing the experiences of those who bear the silent toll of environmental collapse, such as her mother, her family's women, and displaced birds. Through the covert narrative, Williams emphasises the deep interconnectedness of humans and nature, urging reflection on ethical responsibility in the course of modern civilisation and advocating for the respect and protection of ecological systems in their entirety.</p><p>We can visually present the relationship between the themes of the dual landscape narrative in Refuge:</p><p>Williams' dual landscape narrative seeks to restore the ancient kinship between human culture and the natural world, while also offering a critical reflection on the neglect and exploitation characteristic of modern geopolitics in the western United States. She emphasises that the little-known wilderness of Utah is not empty but rich with what Ryden terms 'invisible landscape.' This distinction resonates with Ryden's conceptual division between visible and invisible landscapes, and between homogeneous 'space' and experiential 'place.' Whereas space can be mapped through geometric coordinates or simple landmarks, place encompasses both the surrounding environment and the meanings that people attribute to it through experience, prolonged habitation, and the accumulation of shared history. In this way, a sense of place gradually emerges, reflecting both the physical setting and the human interactions that endow it with significance. <ref type="bibr" target="#b46">64</ref> It is through traditional narration that the humanistic meaning contained in the landscape can be formed, continued, and shared. The significance of a place to residents is most vividly reflected in the stories they tell about this place, which involve the elements that make up this place and the events that happen within its scope. In Refuge, the interplay between the visible and invisible landscapes complements the concept of a dual landscape narrative, highlighting the profound connection between place, human culture, and the natural world.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Conclusion</head><p>Refuge operates as a bioregional memoir that maps environmental trauma onto corporeal vulnerability, employing what Lawrence Buell terms 'the environmental imagination' <ref type="bibr" target="#b47">65</ref> to reveal the co-constitutive nature of place and identity. Williams' meticulous documentation of avian population fluctuations in the Great Salt Lake ecosystem serves as both ecological record and metaphorical device, mirroring the instability of human communities facing technological modernity's onslaught. This narrative strategy exposes what Rob Nixon describes as 'slow violence' -the incremental environmental destruction that parallels the insidious progression of terminal illness. Through its subtextual critique of Cold War-era nuclear policies and their enduring environmental legacies, Refuge positions itself within the tradition of feminist nature writing that challenges patriarchal paradigms of land use and medical practice. The work's structural innovation lies in its demonstration of how nature writing can serve as a form of 'narrative remedy' <ref type="bibr" target="#b48">66</ref> , offering counter-discourses to hegemonic technological progress narratives. By aligning the memoir genre with natural history documentation, Williams creates an interspecies ethical framework that compels readers to confront the material consequences of ecological indifference. This sophisticated interweaving of thanatological and ecological discourses elevates nature writing beyond mere descriptive pastoralism, positioning it as a crucial methodology for analyzing what Ulrich Beck terms 'risk society.' <ref type="bibr" target="#b49">67</ref> The text's enduring academic significance resides in its prescient anticipation of ecocritical concerns regarding the Anthropocene, making it an essential interdisciplinary text for environmental humanities scholarship, particularly in studies examining the nexus of medical ecology, environmental justice, and literary representation.</p><p>As a pivotal narrative paradigm within ecocritical discourse, dual landscape narrative constructs a distinctive hermeneutic space for ecological philosophy within the American nature writing tradition. Through close textual analysis and discourse examination, this study elucidates how this narrative modality employs ecological rhetoric to achieve literary transmediation of environmental ethics, while interrogating its poetic functions and ethical significance in shaping contemporary ecological consciousness. Dual landscape narrative transcends the unidimensionality of conventional nature writing by deploying an intersubjective narrative framework that interweaves physical landscapes with psychological imageries, thereby establishing a dialectical system of ecological cognition. A paradigmatic case emerges in Terry Tempest Williams' Refuge, where dual landscape narrative threads of Great Salt Lake's ecological crisis and familial cancer histories operationalise Lawrence Buell's theory of the 'environmental unconscious.' This narrative strategy metaphorically juxtaposes ecosystemic pathologies with human biopolitics, inducing cognitive defamiliarization that compels readers to re-examine anthropocene existential dilemmas.</p><p>American nature writers systematically employ discursive strategies such as ecometonymy and biomimesis to forge an ecopoetic expressive system. Williams' depiction of the Great Salt Lake's ecological transformations, for instance, superimposes geological temporality with personal memory, transmuting regional environmental narratives into universal ecological allegories. This narrative metamorphosis aligns with Ursula K. Heise's theory of 'eco-cosmopolitanism,' <ref type="bibr" target="#b50">68</ref> constructing interpretative bridges between localised knowledge and global ecological awareness.</p><p>The study identifies three mechanisms through which dual landscape narrative fulfils its eco-pedagogical functions: (1) constructing multimodal perceptual interfaces that translate abstract ecological data into embodied cognitive experiences; (2) deconstructing anthropocentric narrative hegemony to establish textual agency for non-human actors; (3)utilising trauma narratives to reconfigure ecological crises as collective memorybuilding projects. Such literary practices not only expand the conceptualisation of 'ecocriticism' but also catalyse readers' transition from ecological cognition to environmental action through affective mobilisation. The study further reveals that the ecological rhetoric in contemporary American nature writing exhibits three major evolutionary trends: a shift from pastoral nostalgia to Anthropocene critical realism; a transition from species-centered narratives to expressions of trans-species entanglement; and an evolution from environmental warning literature to participatory ecological governance texts. These transformations signify a paradigm shift in nature writing from the traditional aesthetic domain to the sphere of ecological political discourse. The theoretical contributions of this study are as follows: (1)  refining the typological analysis framework of dual landscape narratives; (2)  uncovering the intrinsic connection between ecological rhetorical strategies and the reconstruction of readers' cognitive schemas; and (3) proposing an innovative theoretical hypothesis of literary texts as eco-governance technology. These findings offer analytical perspectives for understanding the narrative turn in environmental humanities while also opening interdisciplinary dialogue pathways for climate change communication research.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Notes</head></div>			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="4" xml:id="foot_0"><p>Y. LINGLI</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="6" xml:id="foot_1"><p>Y. LINGLI</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="8" xml:id="foot_2"><p>Y. LINGLI</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="10" xml:id="foot_3"><p>Y. LINGLI</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="20" xml:id="foot_4"><p>Y. LINGLI</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="22" xml:id="foot_5"><p>Y. LINGLI</p></note>
+		</body>
+		<back>
+
+			<div type="funding">
+<div><head>Funding</head><p>This work was supported by <rs type="projectName">Thematic</rs> project of the <rs type="funder">Philosophy and Social Science Research Fund for Universities in Jiangsu Province</rs>: [Grant Number <rs type="grantNumber">2017SJ-B1150</rs>].</p></div>
+			</div>
+			<listOrg type="funding">
+				<org type="funded-project" xml:id="_aveShHd">
+					<idno type="grant-number">2017SJ-B1150</idno>
+					<orgName type="project" subtype="full">Thematic</orgName>
+				</org>
+			</listOrg>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<analytic>
+		<title level="a" type="main">Reclaiming the sacred landscape: Terry Tempest Williams, Kathleen Norris, and the other nature writing</title>
+		<author>
+			<persName><forename type="first">C</forename><surname>Mitchell</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Women&apos;s Studies</title>
+		<imprint>
+			<biblScope unit="volume">32</biblScope>
+			<biblScope unit="page">168</biblScope>
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<monogr>
+		<author>
+			<persName><forename type="first">L</forename><surname>Buell</surname></persName>
+		</author>
+		<title level="m">The Future of Environmental Criticism: Environmental Crisis and Literary Imagination</title>
+		<meeting><address><addrLine>Malden, MA; Tucson, AZ</addrLine></address></meeting>
+		<imprint>
+			<publisher>University of Arizona Press</publisher>
+			<date type="published" when="1995">2005. 1995</date>
+			<biblScope unit="page">142</biblScope>
+		</imprint>
+	</monogr>
+	<note>113; S. Slovic, Going Away to Think: Engagements with Edward Abbey.</note>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title level="a" type="main">Reclaiming the sacred landscape: Terry Tempest Williams, Kathleen Norris, and the other nature writing</title>
+		<author>
+			<persName><forename type="first">C</forename><surname>Mitchell</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Women&apos;s Studies</title>
+		<imprint>
+			<biblScope unit="volume">32</biblScope>
+			<biblScope unit="page" from="165" to="182" />
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title level="a" type="main">Rethinking Dichotomies in Terry Tempest Williams&apos;s Refuge</title>
+		<author>
+			<persName><forename type="first">Cassandra</forename><surname>Kircher</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Interdisciplinary Studies in Literature and Environment</title>
+		<imprint>
+			<biblScope unit="volume">3</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="97" to="112" />
+			<date type="published" when="1996">1996</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title level="a" type="main">Terry Tempest Williams&apos;s Refuge: Sentimentality and separation</title>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">L</forename><surname>Bush</surname></persName>
+		</author>
+		<ptr target="https://www.dialoguejournal.com/articles/terry-tempest-williamss-refuge-sentimentality-and-separation" />
+	</analytic>
+	<monogr>
+		<title level="j">Dialogue Journal</title>
+		<imprint>
+			<biblScope unit="volume">28</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<monogr>
+		<title level="m" type="main">I Am Wild&quot;: An ecofeminist reading of Terry Tempest Williams&apos;s Refuge and Mary Oliver&apos;s poetry</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Wood</surname></persName>
+		</author>
+		<ptr target="https://s3.wp.wsu.edu/uploads/sites/998/2018/11/SerenityWood-IAmWild.pdf" />
+		<imprint>
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title level="a" type="main">The nature of birds, women, and cancer: Terry Tempest Williams&apos;s Refuge and When Women Were Birds</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Lundblad</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Animalities</title>
+		<editor>
+			<persName><forename type="first">M</forename><surname>Lundblad</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Cambridge</addrLine></address></meeting>
+		<imprint>
+			<publisher>Cambridge University Press</publisher>
+			<date type="published" when="2017">2017</date>
+			<biblScope unit="page" from="45" to="62" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title level="a" type="main">The roots of ecofeminism in Terry Tempest Williams Refuge: An Unnatural History of Family and Place</title>
+		<author>
+			<persName><forename type="first">N</forename><surname>Alkhattabi</surname></persName>
+		</author>
+		<idno type="DOI">10.18533/journal.v8i2.1581</idno>
+		<ptr target="https://doi.org/10.18533/journal.v8i2.1581" />
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Arts &amp; Humanities</title>
+		<imprint>
+			<biblScope unit="volume">8</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<date type="published" when="2019">2019</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title level="a" type="main">The power of things in Terry Tempest Williams&apos;s Refuge and When Women Were Birds</title>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">P</forename><surname>Chang</surname></persName>
+		</author>
+		<idno type="DOI">10.30395/WSR.202112_15(2).0005</idno>
+		<ptr target="https://doi.org/10.30395/WSR.202112_15" />
+	</analytic>
+	<monogr>
+		<title level="j">The Wenshan Review of Literature and Culture</title>
+		<imprint>
+			<biblScope unit="volume">15</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page">5</biblScope>
+			<date type="published" when="2022">2022</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<monogr>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">J</forename><surname>Johnston</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Derek</forename><surname>Gregory</surname></persName>
+		</author>
+		<title level="m">The Dictionary of Human Geography (Blackwell Reference</title>
+		<imprint>
+			<date type="published" when="1981">1981</date>
+			<biblScope unit="page" from="67" to="68" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<monogr>
+		<title level="m" type="main">Land and Life: a Selection from the Writings of Carl Ortwin Sauer</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">O</forename><surname>Sauer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Leighly</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1963">1963</date>
+			<publisher>University of California Press</publisher>
+			<biblScope unit="page">339</biblScope>
+			<pubPlace>Berkeley</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<monogr>
+		<author>
+			<persName><forename type="first">C</forename><surname>Kent</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Ryden</surname></persName>
+		</author>
+		<title level="m">Mapping the Invisible Landscape: Folklore, Writing, and the Sense of Place</title>
+		<imprint>
+			<publisher>University of Iowa Press</publisher>
+			<date type="published" when="1993">1993</date>
+			<biblScope unit="page">40</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<monogr>
+		<author>
+			<persName><forename type="first">Yi-Fu</forename><surname>Tuan</surname></persName>
+		</author>
+		<title level="m">Landscapes of Fear</title>
+		<imprint>
+			<publisher>University of Minnesota Press</publisher>
+			<date type="published" when="2013">2013</date>
+			<biblScope unit="page">38</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<monogr>
+		<title level="m" type="main">Land and Life: a Selection from the Writings of Carl Ortwin Sauer</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">O</forename><surname>Sauer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Leighly</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1963">1963</date>
+			<publisher>University of California Press</publisher>
+			<biblScope unit="page">333</biblScope>
+			<pubPlace>Berkeley</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<monogr>
+		<author>
+			<persName><forename type="first">Simon</forename><surname>Schama</surname></persName>
+		</author>
+		<title level="m">Landscape and Memory</title>
+		<meeting><address><addrLine>New York</addrLine></address></meeting>
+		<imprint>
+			<publisher>Vintage Books</publisher>
+			<date type="published" when="1996">1996</date>
+			<biblScope unit="page">61</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title level="a" type="main">Covert Progression&apos; and Dual Narrative Dynamics</title>
+		<author>
+			<persName><forename type="first">Dan</forename><surname>Shen</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Foreign Literature</title>
+		<imprint>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page">78</biblScope>
+			<date type="published" when="2022">2022</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<title level="a" type="main">This framework foregrounds the hybridity of nature writing, which intertwines empirical knowledge with affective and subjective experience. In the Chinese context, Cheng Hong, the pioneering scholar of American nature writing, translates the term as &apos;自然文学&apos; and emphasized both its formal identity as nonfictional prose and its thematic concern with the human-nature relationship. She identifies its characteristic mode as first-person, experiential narration that mediates between the civilized world and the natural environment</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Thomas</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Lyon</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">The Ecocriticism Reader: Landmarks in Literary Ecology</title>
+		<editor>
+			<persName><forename type="first">Cheryll</forename><surname>Gloteflty</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">Harold</forename><surname>Fromm</surname></persName>
+		</editor>
+		<imprint>
+			<biblScope unit="page">278</biblScope>
+			<date type="published" when="1996">1996</date>
+			<publisher>Cheng Hong</publisher>
+			<pubPlace>Georgia</pubPlace>
+		</imprint>
+	</monogr>
+	<note>American nature writing, emerging in the 17th century and later consolidated as a distinctive tradition, is less a mere record of &apos;writing about nature&apos; than a cultural practice shaped by the specific environmental and intellectual conditions of the United States. As Tomas J. Lyon has argued, the literature of nature operates across three dimensions: natural history information, personal responses to nature, and philosophical interpretation of nature. Tranquility is Beyond Price : British and American Nature Writers (Shanghai: Shanghai People&apos;s Publishing House, 2014), p. 3. On this basis, I position Refuge within this genre</note>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<monogr>
+		<author>
+			<persName><forename type="first">Terry</forename><surname>Tempest</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Williams</forename></persName>
+		</author>
+		<title level="m">Refuge: An Unnatural History of Family and Place</title>
+		<meeting><address><addrLine>New York</addrLine></address></meeting>
+		<imprint>
+			<publisher>Vintage Books</publisher>
+			<date type="published" when="1992">1992</date>
+			<biblScope unit="page">6</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<analytic>
+		<title level="a" type="main">Heavenly Messengers:The Role of Birds in the Cosmographies and the Comovisions of Ancient Cultures</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Michael</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Rappenglück</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Cosmology Across Cultures ASP Conference Series</title>
+		<imprint>
+			<biblScope unit="volume">409</biblScope>
+			<biblScope unit="page">145</biblScope>
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<monogr>
+		<author>
+			<persName><forename type="first">Terry</forename><surname>Tempest</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Williams</forename></persName>
+		</author>
+		<title level="m">Refuge: An Unnatural History of Family and Place</title>
+		<meeting><address><addrLine>New York</addrLine></address></meeting>
+		<imprint>
+			<publisher>Vintage Books</publisher>
+			<date type="published" when="1992">1992</date>
+			<biblScope unit="page">9</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">Rachel</forename><surname>Carson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Silent</forename><surname>Spring</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2012">2012</date>
+			<publisher>Mariner Books</publisher>
+			<biblScope unit="page">2</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<analytic>
+		<title level="a" type="main">Refuge: Polyphony of memory and multi-dimensionality of landscape</title>
+		<author>
+			<persName><forename type="first">Q</forename><surname>Tan</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Foreign Literature Studies</title>
+		<imprint>
+			<biblScope unit="volume">40</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page">52</biblScope>
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<analytic>
+		<title level="a" type="main">Family of Things&quot;: Terry Tempest Williams and a Geography of Self</title>
+		<author>
+			<persName><forename type="first">Jeannette</forename><forename type="middle">E</forename><surname>Riley</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Women&apos;s Studies</title>
+		<imprint>
+			<biblScope unit="volume">32</biblScope>
+			<biblScope unit="page">588</biblScope>
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+	<note>Finding One&apos;s Place in the</note>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<monogr>
+		<author>
+			<persName><forename type="first">Terry</forename><surname>Tempest</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Williams</forename></persName>
+		</author>
+		<title level="m">Refuge: An Unnatural History of Family and Place</title>
+		<meeting><address><addrLine>New York</addrLine></address></meeting>
+		<imprint>
+			<publisher>Vintage Books</publisher>
+			<date type="published" when="1992">1992</date>
+			<biblScope unit="page">50</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">Lynn</forename></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1997">1997</date>
+			<biblScope unit="page">100</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<monogr>
+		<author>
+			<persName><forename type="first">Terry</forename><surname>Tempest</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Williams</forename></persName>
+		</author>
+		<title level="m">Refuge: An Unnatural History of Family and Place</title>
+		<meeting><address><addrLine>New York</addrLine></address></meeting>
+		<imprint>
+			<publisher>Vintage Books</publisher>
+			<date type="published" when="1992">1992</date>
+			<biblScope unit="page">4</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<monogr>
+		<title/>
+		<author>
+			<persName><surname>Ibid</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="page">196</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b27">
+	<monogr>
+		<title/>
+		<author>
+			<persName><surname>Ibid</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="page">283</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b28">
+	<analytic>
+		<title level="a" type="main">describing the threatening violence wrought by climate change, toxic drift, deforestation, etc. It is an important concept used to describe the invisible harm caused by environmental destruction and social injustice</title>
+	</analytic>
+	<monogr>
+		<title level="m">A term put forward by Rob Nixon in his Slow Violence and the Environmentalism of the Poor</title>
+		<imprint>
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b29">
+	<monogr>
+		<title/>
+		<author>
+			<persName><surname>Ibid</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="page">4</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b30">
+	<monogr>
+		<title/>
+		<author>
+			<persName><surname>Ibid</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="page">109</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b31">
+	<monogr>
+		<title/>
+		<author>
+			<persName><surname>Ibid</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="page">15</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b32">
+	<monogr>
+		<author>
+			<persName><forename type="first">Ursula</forename><forename type="middle">K</forename><surname>Heise</surname></persName>
+		</author>
+		<title level="m">Sense of Place and Sense of Planet: The Environmental Imagination of the Global</title>
+		<meeting><address><addrLine>Oxford</addrLine></address></meeting>
+		<imprint>
+			<publisher>Oxford University Press</publisher>
+			<date type="published" when="2008">2008</date>
+			<biblScope unit="page">122</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b33">
+	<monogr>
+		<author>
+			<persName><forename type="first">Michael</forename><surname>Austin</surname></persName>
+		</author>
+		<title level="m">Voice in the Wilderness: Conversations with Terry Tempest Williams</title>
+		<imprint>
+			<publisher>Logan: Utah State UP</publisher>
+			<date type="published" when="2006">2006</date>
+			<biblScope unit="page">494</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b34">
+	<monogr>
+		<author>
+			<persName><forename type="first">Laura</forename><forename type="middle">L</forename><surname>Bush</surname></persName>
+		</author>
+		<title level="m">Faithful Transgressions in the American West: Six Twentieth-Century Mormon Women&apos;s Autobiographical Acts</title>
+		<meeting><address><addrLine>Logan</addrLine></address></meeting>
+		<imprint>
+			<publisher>Utah State University Press</publisher>
+			<date type="published" when="2004">2004</date>
+			<biblScope unit="page">12</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b35">
+	<monogr>
+		<title level="m" type="main">People of Paradox: A History of Mormon Culture</title>
+		<author>
+			<persName><forename type="first">L</forename><surname>Terryl</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Givens</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2007">2007</date>
+			<publisher>Oxford University Press</publisher>
+			<biblScope unit="page">163</biblScope>
+			<pubPlace>New York</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b36">
+	<monogr>
+		<author>
+			<persName><forename type="first">Terry</forename><surname>Tempest</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Williams</forename></persName>
+		</author>
+		<title level="m">Refuge: An Unnatural History of Family and Place</title>
+		<meeting><address><addrLine>New York</addrLine></address></meeting>
+		<imprint>
+			<publisher>Vintage Books</publisher>
+			<date type="published" when="1992">1992</date>
+			<biblScope unit="page">196</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b37">
+	<monogr>
+		<title level="m" type="main">The Rumpus Interview with Terry Tempest Williams</title>
+		<author>
+			<persName><forename type="first">Roxane</forename><surname>Gay</surname></persName>
+		</author>
+		<ptr target="https://therumpus.net/2013/07/04/the-rumpus-interview-with-terry-tempest-williams/" />
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b38">
+	<analytic>
+		<title level="a" type="main">Language and the Making of Place: A Narrative-Descriptive Approach</title>
+		<author>
+			<persName><forename type="first">Yi-Fu</forename><surname>Tuan</surname></persName>
+		</author>
+		<idno type="DOI">10.1111/j.1467-8306.1991.tb01715.x</idno>
+		<ptr target="https://doi.org/10.1111/j.1467-8306.1991.tb01715.x" />
+	</analytic>
+	<monogr>
+		<title level="j">Annals of the Association of American Geographers</title>
+		<imprint>
+			<biblScope unit="volume">81</biblScope>
+			<biblScope unit="page" from="684" to="696" />
+			<date type="published" when="1991">1991</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b39">
+	<monogr>
+		<author>
+			<persName><forename type="first">Terry</forename><surname>Tempest</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Williams</forename></persName>
+		</author>
+		<title level="m">Refuge: An Unnatural History of Family and Place</title>
+		<meeting><address><addrLine>New York</addrLine></address></meeting>
+		<imprint>
+			<publisher>Vintage Books</publisher>
+			<date type="published" when="1992">1992</date>
+			<biblScope unit="page">61</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b40">
+	<monogr>
+		<author>
+			<persName><forename type="first">Terry</forename><surname>Tempest</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Williams</forename></persName>
+		</author>
+		<title level="m">Refuge: An Unnatural History of Family and Place</title>
+		<meeting><address><addrLine>New York</addrLine></address></meeting>
+		<imprint>
+			<publisher>Vintage Books</publisher>
+			<date type="published" when="1992">1992</date>
+			<biblScope unit="page">189</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b41">
+	<monogr>
+		<author>
+			<persName><forename type="first">Aldo</forename><surname>Leopold</surname></persName>
+		</author>
+		<title level="m">A Sand Country Almanac: With Essays on Conservation from Round River</title>
+		<meeting><address><addrLine>New York</addrLine></address></meeting>
+		<imprint>
+			<publisher>Ballantine Books</publisher>
+			<date type="published" when="1970">1970</date>
+			<biblScope unit="page">240</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b42">
+	<monogr>
+		<author>
+			<persName><forename type="first">Terry</forename><surname>Tempest</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Williams</forename></persName>
+		</author>
+		<title level="m">Refuge: An Unnatural History of Family and Place</title>
+		<meeting><address><addrLine>New York</addrLine></address></meeting>
+		<imprint>
+			<publisher>Vintage Books</publisher>
+			<date type="published" when="1992">1992</date>
+			<biblScope unit="page">296</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b43">
+	<monogr>
+		<title level="m" type="main">Rethinking Dichotomies in Terry Tempest Williams&apos;s Refuge</title>
+		<author>
+			<persName><forename type="first">Cassandra</forename><surname>Kircher</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1996">1996</date>
+			<biblScope unit="volume">3</biblScope>
+			<biblScope unit="page">108</biblScope>
+			<pubPlace>Summer</pubPlace>
+		</imprint>
+	</monogr>
+	<note>Interdisciplinary Studies in Literature and Environment</note>
+</biblStruct>
+
+<biblStruct xml:id="b44">
+	<monogr>
+		<author>
+			<persName><forename type="first">Fredrich</forename><surname>Hegel</surname></persName>
+		</author>
+		<title level="m">The Phenomenology of Spirit</title>
+		<imprint>
+			<publisher>Cambridge University Press</publisher>
+			<date type="published" when="2018">2018</date>
+			<biblScope unit="page">112</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b45">
+	<monogr>
+		<author>
+			<persName><forename type="first">Terry</forename><surname>Tempest</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Williams</forename></persName>
+		</author>
+		<title level="m">Refuge: An Unnatural History of Family and Place</title>
+		<meeting><address><addrLine>New York</addrLine></address></meeting>
+		<imprint>
+			<publisher>Vintage Books</publisher>
+			<date type="published" when="1992">1992</date>
+			<biblScope unit="page">178</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b46">
+	<monogr>
+		<title/>
+		<author>
+			<persName><surname>Ibid</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="page" from="36" to="38" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b47">
+	<monogr>
+		<title level="m" type="main">Buell&apos;s &apos;the Environmental Imagination&apos; is a pivotal theoretical concept in the field of ecocriticism, first systematically articulated in his 1995 work The Environmental Imagination: Thoreau, Nature Writing, and the Formation of American Culture. It asserts that literature is not merely a mirror reflecting nature but a hammer reshaping ecological consciousnessreconstructing humanity&apos;s understanding of and responsibility toward the Earth through narrative</title>
+		<author>
+			<persName><forename type="first">Lawrence</forename></persName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b48">
+	<monogr>
+		<title level="m" type="main">Narrative Remedy is a theoretical concept gradually emerging in the humanities and social sciences, particularly in ecocriticism, medical humanities, and trauma studies. It refers to the practice of symbolic repair or ethical intervention in response to personal or collective trauma, social injustice, or ecological crises through narrative acts such as storytelling, reading, and disseminating stories. To certain extent, it is borrowed from Susan Sontag&apos;s illness metaphors in her work Illness as Metaphor</title>
+		<imprint>
+			<date type="published" when="1978">1978</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b49">
+	<analytic>
+		<title level="a" type="main">Ulrich Beck introduced the concept of the &apos;risk society&apos; in his book</title>
+	</analytic>
+	<monogr>
+		<title level="j">Risk Society: Towards a New Modernity</title>
+		<imprint>
+			<date type="published" when="1986">1986</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b50">
+	<monogr>
+		<title level="m" type="main">This theory seeks to reframe environmental imagination in the era of globalization by challenging the limitations of traditional ecological discourse, which overly emphasizes a sense of place. Instead, it advocates for a transregional and cross-cultural paradigm of ecological perception</title>
+		<imprint>
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+	<note>A key theoretical concept in contemporary ecocriticism, systematically introduced by American scholar Ursula K. Heise in her book Sense of Place and Sense of Planet. Disclosure statement No potential conflict of interest was reported by the author(s)</note>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

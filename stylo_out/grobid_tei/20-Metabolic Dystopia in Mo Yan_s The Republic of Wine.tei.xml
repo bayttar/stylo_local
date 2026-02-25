@@ -1,0 +1,634 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Metabolic Dystopia in Mo Yan&apos;s The Republic of Wine</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName><forename type="first">Qianlan</forename><surname>Zhang</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Hong</forename><surname>Zeng</surname></persName>
+						</author>
+						<author>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Foreign Languages</orgName>
+								<orgName type="institution">Southwest Jiaotong University</orgName>
+								<address>
+									<settlement>Chengdu</settlement>
+									<country key="CN">China</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff1">
+								<orgName type="institution">CONTACT Hong Zeng</orgName>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff2">
+								<orgName type="department">Department of Foreign Languages</orgName>
+								<orgName type="institution">Southwest Jiaotong University</orgName>
+								<address>
+									<settlement>Chengdu</settlement>
+									<country key="CN">China</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Metabolic Dystopia in Mo Yan&apos;s The Republic of Wine</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date/>
+						</imprint>
+					</monogr>
+					<idno type="MD5">8073EE198B2471A1027D629D8D0D3213</idno>
+					<idno type="DOI">10.1080/00111619.2026.2614595</idno>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.0" ident="GROBID" when="2026-02-25T19:54+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>This article reinterprets Mo Yan's The Republic of Wine (1992)  as a dystopian allegory that transforms political satire into a critique of bureaucratic temporality, narrative sovereignty, and grotesque embodiment. While previous scholarship has emphasized the novel's allegorical excess or metafictional play, few have explored how its temporal, narrative, and corporeal experiments collectively articulate a dystopian vision. Through the intertwined mechanisms of magical temporality, administrative delay, and metafictional disruption, the novel dramatizes how institutional power reproduces itself through ritualized consumption -of food, bodies, and narratives. By literalizing biopolitical control in scenes of cannibalistic feasting and bureaucratic paralysis, Mo Yan exposes sovereignty as performative and unstable, collapsing governance into appetite and absurd ritual. Ultimately, The Republic of Wine expands the formal and thematic boundaries of dystopian literature, situating Chinese experimental fiction within global debates on power, embodiment, and narrative form.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Introduction</head><p>Fredric Jameson famously argues that so-called third-world literature, regardless of its narrative form, tends to function as a "national allegory" ("Third-World Literature" 69). This theoretical framework has deeply shaped readings of Mo Yan's fiction, including The Republic of <ref type="bibr">Wine (1992)</ref>, which has often been interpreted as political satire, an allegory of corruption, or a parody of socialist discourse (X. Zhang 241; <ref type="bibr">Ahmed et al. 2259)</ref>. Mo Yan, the 2012 Nobel Laureate in Literature, is widely recognized for his experimental narrative techniques and engagement with social critique. Among his works, The Republic of Wine is considered one of the most controversial and formally innovative. Yet if Jameson's framework has highlighted the allegorical function of Mo Yan's fiction, it has also risked narrowing critical focus to questions of national allegory, leaving underexplored the novel's formal engagement with dystopian imagination. Despite frequent emphasis on its allegorical excess and grotesque imagery, the novel has not been systematically positioned within literary studies in relation to the global tradition of dystopian literature. Xiaobin Yang's influential essay The Republic of Wine: An Extravaganza of Decline foregrounds the novel's allegory of decadence. Yang observes that Ding Gou'er's failed investigation into cannibalism parallels Mo Yan's stylistic excess, culminating in a narrative of cultural and moral collapse . Moreover, Yang notes that Mo Yan dismantles not only the "barbarism of the oppressors" but also the latent barbarism of victims and resistors alike, thereby undermining the moral clarity of allegory itself. In this reading, cannibalism becomes not merely a metaphor for state violence but an allegory of narrative failure -the impossibility of ethically representing atrocity within a compromised discourse.</p><p>Building on such allegorical readings, later critics have expanded the interpretive framework of Mo Yan's fiction toward broader dystopian and transnational contexts. A 2013 article in People's Daily Overseas Edition, for example, cites Professor Jinsi Yan of Université d'Artois, who identifies dystopian tendencies in Life and Death Are Wearing Me Out, thereby illuminating the wider significance of Mo Yan's experimental narrative strategies. More recently, Hye Ryoung Kil's article, "Cannibalism in Joyce and Mo Yan: Famine Memory in Ulysses, The Republic of Wine, and Frog," published in MOSAIC: An Interdisciplinary Critical Journal, juxtaposes motifs of cannibalism in Joyce and Mo Yan. By connecting these motifs to the historical contexts of Ireland and China, the study situates The Republic of Wine within a transnational framework of historical memory and systemic critique.</p><p>While prior scholarship has illuminated The Republic of Wine through satire, allegory, and metafictional critique, it has rarely situated the novel within the tradition of dystopian allegory. This essay asks a simple but overlooked question: what happens to the dystopian form when its technologies of rule 1 operate through ritualized consumption? Drawing on Booker's account of dystopia as a mode that opposes utopian thought by critiquing existing social and political systems and by deploying defamiliarization to expose their contradictions , this article reframes Mo Yan's novel within a widened dystopian lineage. While the field has long privileged Orwell's Nineteen <ref type="bibr">Eighty-Four (1949)</ref> -with sovereign surveillance -and <ref type="bibr">Huxley's Brave New World (1932)</ref> -with pharmaceutically sedated compliance -criticism has rarely considered how eating, drinking, and bodily ritual themselves can function as cultural technologies of domination and compliance. The Republic of Wine provides a striking case: its grotesque banquets, cannibalistic menus, and bureaucratically scripted narratives do not merely parody corruption; they imagine dystopia as a system in which political domination is metabolized into everyday acts of ingestion and exchange. Although the metafictional play has often been read as postmodern, this article argues that its formal strategies do not merely relativize meaning but expose systemic absurdity and the instability of sovereignty. Foregrounding magical temporality, the collapse of narrative sovereignty, and grotesque corporeality, the study positions Mo Yan's novel not as national allegory or postmodern parody, but as dystopian allegory, one that dramatizes institutional dysfunction and repositions Chinese experimental fiction within global dystopian literature.</p><p>The Republic of Wine presents a vividly grotesque world: elaborate cannibalistic feasts, excessive drinking, sexual promiscuity, and scatological imagery dominate the narrative. These grotesque episodes function not only as social satire but also as a reflection of institutional dysfunction and moral decay. Bureaucratic absurdities are dramatized through endless red tape and failed investigations into crimes, illustrating the disconnect between official procedures and justice. Narrative authority is destabilized via the epistolary exchanges between Li Yidou and fictional bureaucrats, combined with the metafictional intrusion of "Mo Yan," undermining linear storytelling and narrative sovereignty. Time itself is rendered unstable through magical temporality, characterized by deferral, stagnation, and circularity, disrupting conventional historical progression.</p><p>Building on previous scholarship, this article argues that The Republic of Wine should be repositioned within the tradition of dystopian allegory. Specifically, it demonstrates how magical temporality, metafictional disruption of narrative sovereignty, and grotesque embodiment operate as three interlocking formal mechanisms through which institutional absurdity and biopolitical domination are produced and sustained across the novel. Taken together, these elements provide a systematic theoretical positioning for Mo Yan's work, highlighting its experimental narrative strategies and its potential contribution to global discussions on dystopia, sovereignty, and cultural critique.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Magical Temporality and Narrative Sovereignty</head><p>To clarify how bureaucratic power in The Republic of Wine reproduces itself through delay and suspension rather than linear progression, discussions of magical temporality cannot be separated from the broader genealogy of magical realism and allegorical writing. While critics often situate Mo Yan within a transnational lineage reaching back to Gabriel García Márquez, it is equally important to note that his deployment of temporality is deeply rooted in Chinese satirical and allegorical traditions. 2 Not all works of magical realism necessarily employ cyclical or delayed temporality; as Wendy B. Faris observes, magical realism "disturbs received ideas about time, space, and identity," reintroducing alternative chronotopes that mix historical realism with mythic suspension <ref type="bibr">(7,</ref><ref type="bibr">(23)</ref><ref type="bibr">(24)</ref>. However, the Latin American model represented by García Márquez's One Hundred Years of Solitude-with its circular time and genealogical repetition -offers a comparative frame for understanding Mo Yan's own manipulation of time. In the Chinese literary context, Lu Xun's fiction provides a closer analogue to Mo Yan's grotesque temporality. In Diary of a Madman, for instance, the obsessive repetition of "eat people" destabilizes linear narration, producing a paranoid temporality where history itself appears as a cycle of devouring. As Zhang Yunfeng observes, Lu Xun's fiction frequently employs circular imagery and recursive structures -in works such as Diary of a Madman, The True Story of Ah Q, and Medicine-which encode a vision of history as endless repetition rather than linear progress (Y. . Likewise, Old Tales Retold turns canonical myths into fragmented, recursive anecdotes, foregrounding the impossibility of narrative closure. The Republic of Wine amplifies these strategies: Ding Gou'er's investigation is endlessly postponed, the banquet scenes stretch into grotesque suspension, and bureaucratic files circulate without resolution. Mo Yan fuses these indigenous traditions with techniques of magical realism to produce what might be termed "grotesque temporality," in which linear time collapses into cycles of delay, excess, and absurd suspension.</p><p>The temporal logic of The Republic of Wine is emphatically administrative: time in the novel is not measured by chronological progress or character development but by procedural delay, ceremonial repetition, and recursive documentation. Close reading makes this palpable. Consider the way Ding Gou'er's investigation is perpetually interrupted by banquets and formal meetings; each interruption is not merely an event but an enactment of bureaucratic pacing. The banquet scenes function as temporal traps: they convert investigative momentum into ritualized postponement. The narrator's attention lingers on menus, courses, guests' performances, and the logistical apparatus of feastingdetails that mimic administrative reports and minutes, thereby turning narrative time into an administrative record that reproduces itself without closure. This procedural pacing is reinforced by the novel's diegetic apparatus: the text is filled with Li Yidou's short stories and the letters exchanged between Li Yidou and the fictionalized Mo Yan. These materials vary in tone and register, shifting from descriptive reportage to extravagant narrative digressions, increasingly taking on a carnivalesque intensity as the novel progresses. Many of Li Yidou's stories are extended and expository, detailing events or character backgrounds at length, which interrupts the forward momentum of Ding Gou'er's investigation. Rather than consolidating into a coherent, teleological account, these narrative layers proliferate, cross-referencing and amplifying one another in a rhythm of excess and delay. Zhang Xudong's assessment of these elements as "creatively bad writing" captures the paradox: the apparent failure of conventional narrative coherence becomes, in allegorical terms, a productive representation of institutional clutter and inertia (X. Zhang 243). In other words, formal "failure" here is a thematic strategy: redundancy and fragmentation model the very paralysis they critique.</p><p>To account for how narrative time in The Republic of Wine repeatedly stalls, loops, and resists causal progression, Bakhtin's concept of the chronotope provides a productive lens. Rather than operating within a teleological, forward-moving historical continuum that conventionally links events to narrative progress <ref type="bibr">(Bakhtin,</ref>, the novel constructs a chronotope of delay and suspension. Ding Gou'er's investigation is repeatedly interrupted by grotesque banquets, the archival cataloging of dishes, the digressions of Li Yidou's short stories, and the epistolary exchanges between Li Yidou and the fictional Mo Yan, thickening narrative time into loops and stases rather than linear development. As Bakhtin writes, in the artistic chronotope, "time thickens, takes on flesh, becomes artistically visible; likewise, space becomes charged and responsive to the movements of time, plot and history" (Dialogic 84). Mo Yan literalizes this "thickened time" through grotesque banquets and bureaucratic rituals, where historical progression collapses into repetitive suspension and delay. Viewed through Jameson's framework of the "political unconscious," this temporal immobilization signals more than narrative play: it allegorizes a socio-political condition in which history itself is deprived of a progressive horizon <ref type="bibr">(278)</ref><ref type="bibr">(279)</ref><ref type="bibr">(280)</ref>. This insight aligns with dystopian scholarship: as Booker observes, dystopian narratives consistently challenge the myth of progress by rendering history as stagnation, repetition, or decline , while Moylan -drawing on Baccolini and Suvin -argues that critical dystopias resist mythic closure through open-ended temporal structures that suspend resolution <ref type="bibr">(Moylan 151)</ref>. Mo Yan's novel dramatizes precisely this condition: time no longer generates historical or political progress but collapses into repetition, deferral, and ceremonial excess. The chronotope thus actively enacts a political impasse in which collective imagination is trapped within its own performative procedures.</p><p>Concrete textual evidence illustrates this point clearly. The banquet scene does not merely shock readers through grotesque imagery; rather, it is constructed out of lengthy, repetitive descriptions of dishes and utensils, almost in the form of an archival inventory: "The circular table had three tiers. The first was devoted to squat glasses of beer, long-stemmed glasses of grape wine, and even longerstemmed glasses of strong colorless liquor, plus ceramic teacups with lids, sheathed imitation-ivory chopsticks, a variety of white ceramic plates, stainless-steel utensils, China-brand cigarettes, wooden matches with bright red heads in specially designed boxes, and fake crystal ashtrays in the shape ofpeacock tails. Eight plates of cold cuts adorned the second tier: shredded eggs and rice noodles with dried shrimp, hot and spicy beef strips, curried cauliflower, sliced cucumbers, ducks' feet, sugared lotus root, celery hearts, and deep-fried scorpions."(40) At the same time, long and seemingly meaningless parallel sentences continually slow down the narrative tempo: "The glass of wine also grew out in layers, like a doctored photograph, forming a pinkmist in those relativelystable, relatively scarlet surroundings. It was not a glass of wine, it was the sun rising in the morning, a fireball of cold beauty, a lover's heart. He would soon sense that it had taken on the appearance of a murky brown full moon that had once hung in the sky, before boring its way into the dining hall, or a swollen grapefruit, or a yellow ball covered with fuzz, or a hairy fox spirit." <ref type="bibr">(44)</ref><ref type="bibr">(45)</ref>. The banquet here ceases to function merely as a narrative backdrop and instead becomes a textual archive: the repetitive, inventory-like cataloging of dishes and the prolonged digressions continually interrupt Ding Gou'er's investigation. In doing so, narrative delay is transformed into a governing logic, whereby bureaucratic procedure replaces causal progression as the primary organizer of time, submerging the narrative in ritualized cycles and formalized temporal accumulation. The temporal deferral experienced by the reader is thus not simply a rhetorical device of plot retardation but a structural feature of the novel's chronotope, allegorically mirroring bureaucratic inertia and ritualized absurdity. This close reading demonstrates that Mo Yan's narrative form itself produces bureaucratic temporality, in which causal progression is absorbed into archival enumeration and ceremonial excess, and narrative time is no longer advanced but administratively accumulated.</p><p>This bureaucratic temporality produces an epistemological dilemma. If historical narratives are supposed to map causes to effects and to ground collective futures in memory, the administrative chronotope instead suspends causality. This suspension is already staged at the level of bureaucratic documentation: Ding Gou'er reads an anonymous denunciation signed "Voice of the People" (Mo Yan, The Republic of Wine 12)-"Phony, obviously"-whose shocking allegations immediately give way to doubt, only to be compounded by the senior official's equivocal marginal notes and the Procurator General's ambiguous instruction that "Secretary Wang wants you to find out." (13) Because meaning is repeatedly deferred by procedural replication, history loses its teleological force: the past becomes a set of documents that cite one another rather than a sequence that explains the present. Wendy B. Faris's observation that magical realism "intensifies contradiction" <ref type="bibr">(Faris 160)</ref> resonates here: Mo Yan intensifies the contradiction between the rhetorical promises of official historiography (progress, coherence, legitimacy) and the actual, repetitive functioning of bureaucratic apparatuses. The novel presents history not as progress but as ritualized stasis.</p><p>Finally, this bureaucratic modality of time serves allegorical ends. The administrative temporality allegorizes institutional paralysis: the state's documentary apparatus, rather than clarifying or adjudicating truth, becomes an instrument of indefinite postponement. The space of the banquet -replete with proceedings, signatures, menus -is figuratively the same space as the archive: both are sites in which meaning is endlessly manufactured and consumed without producing a stable public truth. Thus temporality and bureaucracy converge: the novel's time is both the symptom and the site of institutional failure. If bureaucratic temporality suspends historical causality, metafiction attacks the assumed legitimacy of narrative authority that would ordinarily make such temporality intelligible. The Republic of Wine stages this attack by making authorship and textual authority performative and visible. The recurring device of the fictional "Mo Yan" receiving Li Yidou's letters -letters that themselves contain fictional texts -creates nested levels of authorship and agency. The result is a hall of mirrors: texts that refer to other texts, each claiming a measure of authority but none consolidating it.</p><p>Before delving into these structural disruptions, it is crucial to consider the hybrid aesthetic modes that inform The Republic of Wine, particularly its engagement with Latin American magical realism and indigenous literary traditions. Magical realism, as developed in Latin American narrative, is characterized by the seamless blending of the fantastic and the real, where supernatural events are narrated with the same level of detail and detachment as everyday occurrences. In Mo Yan's novel, this stylistic feature takes shape in the correspondence between "Mo Yan" and Li Yidou, which interweaves the bizarre customs of Jiuguo-such as baby-eating(214-228), the legend of Yu Yichi(140-163), and the ape-taught distillery(212) -with the author's real-world reflections on censorship and authorship.</p><p>In addition to magical realism, the novel draws on multiple narrative traditions. The investigative plotline echoes the structure of Western detective fiction, referencing television shows such as the 1984 American crime series Hunter; Yu Yichi's dreamlike affair with the circus girl evokes the surrealism of zhiguai (strange tales); references to classical poets such as Li Bai, Du Fu, and Cao Cao elevate grotesquerie into a lyrical mode. The novel's grotesque and performative portrayal of corrupt officials also recalls the satirical tradition of Qing-dynasty fiction, especially The Scholars (Rulin Waishi), which critiques the moral posturing of the gentry class through fragmented narration and exaggerated social ritual. As Jiang Ronggang argues, Wu Jingzi constructs his satire through "The fragmentation and disjunction of characters and events, as well as the dislocation and contradiction of narrative time."( <ref type="formula">22</ref>) transforming what appears to be incoherent structure into a deliberate artistic device that exposes the ideological collapse of the scholar-official class. Similarly, Xu Ming observes that the Taibo Temple sacrifice episode in The Scholars presents a solemn ritual that gradually degenerates into hollow spectacle, where Confucian reverence becomes theatrical performance and moral sincerity gives way to vanity <ref type="bibr">(228)</ref><ref type="bibr">(229)</ref>. Together, these readings show how The Scholars deploys fragmented narration and exaggerated social ceremony to satirize the contradictions of Confucian ethics and gentry morality. As Huang Xiuguo observes, Mo Yan's multi-layered and allegorical narratives show the influence of William Faulkner, whose fictional Yoknapatawpha County inspired Mo Yan's semifictional Gaomi Northeast Township <ref type="bibr">(Huang 19)</ref>. In this sense, The Republic of Wine's intertextual layering not only situates Mo Yan within Chinese narrative traditions but also places him in dialogue with modernist experiments in narrative form, further justifying why he has been called "China's Faulkner" <ref type="bibr">(Huang 20)</ref>. These layered intertextual elements destabilize narrative coherence and foreground metafiction not merely as formal play, but as a critique of realism, nationalism, and cultural authority.</p><p>The Republic of Wine amplifies this metafictional logic into grotesque proportions. The novel constructs a dizzying narrative architecture composed of letters between the fictional Mo Yan and the young writer Li Yidou, interspersed with bizarre short stories written by the latter, and framed by Ding Gou'er's deteriorating investigation into a scandal involving the consumption of infants. The fictionalization of Mo Yan himself parodies the state's dependence on symbolic authority: like the official seal that legitimizes a document regardless of content, the authorial figure exists more as performative legitimacy than as meaningful presence. In this metafictional swirl, authorship mimics governanceboth are simulacra. By dissolving the line between fiction and authorship, Mo Yan literalizes Roland Barthes' notion of the "death of the author,"(142-48) while simultaneously exposing how narrative sovereignty is performatively constructed and politically contingent. These disparate threads do not cohere into a unified plot; rather, they exemplify what Patricia Waugh describes as a fundamental aspect of metafiction: "Metafictional novels tend to be constructed on the principle of a fundamental and sustained opposition: the construction of a fictional illusion (as in traditional realism) and the laying bare of that illusion. In other words, the lowest common denominator of metafiction is simultaneously to create a fiction and to make a statement about the creation of that fiction. The two processes are held together in a formal tension which breaks down the distinctions between 'creation' and 'criticism' and merges them into the concepts of 'interpretation <ref type="bibr">' and 'deconstruction'" (6)</ref>. In this way, meaning is displaced by endless narrative loops and satirical parody. This narrative instability reflects a broader literary critique of institutional discursiveness and rhetorical excess. Just as official documents may sometimes become circular or overly elaborate in style without yielding substantive clarity, the novel mimics this rhythm through its proliferation of voices, interruptions, and self-reflexive insertions. Ding Gou'er, initially introduced as a figure of investigative authority, gradually loses coherence and agency as he becomes engulfed in alcohol and confusion. The figure of "Mo Yan" within the text does not guide the narrative but is instead absorbed into its metafictional chaos. Meanwhile, Li Yidou's interspersed stories -grotesque, fantastical, and absurd -destabilize the reader's expectations of linear realism and moral resolution.</p><p>A concrete example of how metafiction dissolves narrative sovereignty is the way official and unofficial discourses intermingle: the investigative report of Ding Gou'er is followed by epistolary exchanges between Li Yidou and the fictional "Mo Yan," which in turn give way to Li Yidou's own short stories submitted for publication. Each discourse genre circulates as if it carried epistemic authority, yet within the novel's ecology none holds exclusive legitimacy. This erosion of authority is staged at the level of voice and tone in Li Yidou's letters: although he presents himself as a "Ph.D. candidate in liquor studies" (21) and adopts the rhetoric of academic and official selflegitimation, his hyperbolic flattery, compulsive self-justification, and excessive literary namedropping render authorship performative and unstable rather than authoritative. The epistolary frame thus serves to decentralize narratorial power -Li Yidou's amateurish voice competes simultaneously with "official" investigative accounts and with the meta-authorial presence of "Mo Yan." This heteroglossia produces a textual polyphony in which narrative sovereignty is dispersed and therefore unstable. The effect on the reader is double-edged. On one hand, the reader becomes an investigator, piecing together fragments and evaluating competing claims; on the other hand, the reader is made painfully aware of the contingency of all such syntheses. This is where Jean-François Lyotard's "incredulity toward metanarratives" resonates: metafiction in Mo Yan's novel dramatizes a skepticism toward any totalizing account -historical, political, or literary. Rather than offering a single authoritative narrative, the text invites the reader into an interpretive labor that reveals the performative and political nature of narrative sovereignty.</p><p>Finally, the metafictional strategy is also a political metaphor. The fragmentation of narrative authority allegorizes the erosion of political legitimacy: just as the text cannot secure singular narrative authority, political institutions in the novel cannot secure stable sovereignty. Imre Szeman's materialist reworking of Jameson resonates here: narrative forms do not merely reflect power; they perform and produce it. Mo Yan's metafiction, by rendering authorial and archival authority as performative, shows how sovereignty is a textual practice -an effect of repeated acts of legitimation rather than a stable ontological ground. Taken together, these two subsections show how Mo Yan weaponizes form to stage institutional decay: bureaucratic temporality stalls causal explanation and renders history an archive of ritualized repetition; metafiction decentralizes and politicizes the authority that would otherwise narrate or resolve that history. The two mechanisms are mutually reinforcingprocedural delay makes narrative closure impossible, and the deliberate destabilization of authorial voice deprives any emergent narrative of legitimacy. The combined effect is an allegory in ruins: sovereignty does not hold as ontological fact but registers as a performance repeatedly exposed by textual devices.</p><p>The destabilization extends to the reader, who becomes complicit in navigating the novel's contradictions. The grotesque imagery -baby-eating banquets, absurd bureaucratic rituals -confronts the reader with a sense of nausea that oscillates between satire and horror. Jean-François Lyotard's claim that postmodernity is characterized by "incredulity toward metanarratives" (xxiv) finds vivid expression here: the reader cannot rely on closure, coherence, or moral resolution. Instead, as Bakhtin's concept of the carnivalesque suggests, the text becomes a carnival space where hierarchies collapse: author and character, satire and horror, reader and text intermingle. Laughter and disgust merge, producing an affective instability that mirrors the instability of political sovereignty. By weaving together magical temporality and metafictional disruption, The Republic of Wine dramatizes the exhaustion of national allegory and functions explicitly as a dystopian allegory. As Jameson reminds us, "a symbolic or a heightened consciousness of the collective expresses itself" through archetypal and narrative forms that seek to totalize experience (Political Unconscious 72).Mo Yan pushes this collective impulse to its breaking point: time collapses into grotesque cycles, narrative authority fragments into parody, and the nation appears not as a heroic subject but as a self-devouring digestive machine.Rather than projecting utopian alternatives, the novel formalizes paralysis, grotesquery, and excess, revealing the bureaucratic and institutional absurdities that shape contemporary life.Its critical force lies precisely in dramatizing this failure -transforming the impossibility of unified representation into a reflection on narrative form itself.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Grotesque Bodies and Institutional Absurdity</head><p>The temporal and narrative disruptions examined above reveal how The Republic of Wine dismantles sovereign authorship through recursive structures, bureaucratic temporality, and metafictional play. Yet these disruptions are not confined to the level of narrative form. They are viscerally inscribed onto the body, which becomes the primary medium through which institutional power is enacted, contested, and grotesquely staged. In Mo Yan's dystopian allegory, bureaucratic time is inseparable from corporeal excess: rituals of feasting, drinking, and sexual exchange literalize the collision between political authority and bodily life. The grotesque body thus emerges as the crucial hinge between narrative disorder and political critique, translating temporal absurdity into sensory experience and material spectacle. This visceral inscription is evident in Ding Gou'er's physical breakdown during official drinking rituals: "A foul, boozy breath spilled out, and it was all I could do to keep from throwing up. Shivers wracked my flesh, and my pants were soaked. What a pity, I'd wet myself."(85) Here, bodily humiliation and loss of control are not private failures but the embodied effects of bureaucratic ritual, where institutional power is exercised through compulsory intoxication and the erosion of bodily dignity. Mikhail Bakhtin's concept of the "grotesque body" provides a powerful lens through which to interpret the body not as a static, closed system, but as open, incomplete, and constantly interacting with the world through eating, defecation, birth, and death. In Rabelais and His World, Bakhtin foregrounds the grotesque body's emphasis on the lower stratum -bodily functions, sexual organs, and excretory systems -as a site of resistance to official culture (Rabelais 368).This theoretical lens allows us to trace how the politics of the body intersects with state power and cultural memory in modern allegorical narratives. In The Republic of Wine, this intersection takes concrete form in scenes where bodily consumption -eating, drinking, and sexual display -is embedded within official procedures, banquets, and investigations, turning the body into both evidence and instrument of power. Carnival, as theorized by Bakhtin, names a moment of radical inversion in which hierarchies are suspended and the profane overtakes the sacred. Through excess, parody, and the celebration of bodily materiality, power is mocked and rendered contingent. Yet this "carnivalesque logic" is not purely liberatory: it exposes the fragility of state authority by revealing how national myths depend on the repression of the grotesque. When transposed into contemporary authoritarian contexts such as Mo Yan's The Republic of Wine, carnival is ironized and institutionalized, transformed from a space of resistance into a ritualized mechanism of power. Central to this logic is Bakhtin's notion of the grotesque body -not a closed or completed form, but a body "in the act of becoming," unfinished, porous, and generative. Defined by its openings and protrusions -the mouth, bowels, anus, and phallus -the grotesque body interacts with the world through eating, excreting, copulating, and giving birth, dissolving the boundaries between body and world (Rabelais 317-19). In carnival time, such corporeality becomes a site of popular laughter, which Bakhtin understands as regenerative rather than merely derisive. As Stallybrass and White observe, the grotesque and the carnivalesque operate not outside the symbolic order but by destabilizing it from within, through parody, excess, and inversion <ref type="bibr">(Stallybrass and White 4)</ref>. This double movement -simultaneously destabilizing and reinscribing power -is crucial for understanding how Mo Yan reworks Bakhtinian grotesque into a dystopian mode of critique. This ironized carnivalesque logic becomes palpable in the novel's official drinking rituals. During one such banquet, Ding Gou'er is subjected to collective pressure under the guise of celebration: "A toast to our honored guest! A toast!" The Party Secretary and Mine Director drained their glasses, then turned them upside down to show that not a drop remained . . . Succumbing to the awful power of peer pressure, Ding Gou'er drained his glass. The three empty glasses were quickly refilled. "Happy events call for double! Happy events call for double!" (42) Here, festive excess functions as a bureaucratic technology of coercion. The language of joy and hospitality conceals a rigid system of penalties and compulsory participation, in which refusal is framed as social deviance. Carnival does not suspend hierarchy but reinforces it: bodily endurance becomes a test of loyalty, and intoxication a ritualized performance of obedience.</p><p>This destabilization becomes politically charged in postcolonial and authoritarian contexts, where the grotesque body marks the limits of ideological control. When applied to Latin American magical realism or Chinese absurdist fiction, Bakhtin's grotesque logic reveals the political unconscious of texts -how bodies record the histories that official narratives erase. Mo Yan's The Republic of Wine operates within a fully grotesque cosmos, where the state apparatus and bodily excess collapse into each other. The consumption of infants, framed through elaborate culinary discourse, parodies not only cannibalism but also the obscene intimacy between state corruption and biopolitical control. While in One Hundred Years of Solitude, García Márquez encodes violence through symbolic tracesblood trails, ghostly returns, bodily disappearances -Mo Yan literalizes the allegory, making the political consumption of bodies grotesquely culinary. The subtle haunting of memory in Macondo finds its grotesque counterpoint in the satirical gluttony of The Republic of Wine, where corruption is metabolized rather than mourned. This juxtaposition reveals how both authors use grotesque embodiment to dramatize the collision between state violence and cultural memory, albeit through markedly different registers. It is in this context that Mo Yan's The Republic of Wine radicalizes Bakhtinian grotesquerie. The novel does not merely allude to corporeal excess; it stages a universe where bodies are literally consumed, displayed, and exchanged as the very currency of institutional power. The infamous banquets, where infant flesh is prepared and savored with culinary precision, transform the grotesque from a site of popular laughter into an allegory of systemic violence. Here the carnival is no longer a temporary suspension of hierarchy but an institutionalized ritual, sanctioned by officials and bureaucrats, in which the grotesque body ceases to resist power and instead reveals the obscene intimacy between corruption, desire, and governance. To clarify the stakes of this transformation, it is useful to juxtapose Mo Yan with García Márquez: whereas One Hundred Years of Solitude encodes violence through spectral traces and symbolic absences, Mo Yan literalizes the allegory, rendering the consumption of bodies grotesquely culinary.</p><p>The alcoholic revelries of the novel mirror the carnival's liberatory impulse, yet in an ironic reversal, these moments of excess do not dismantle state authority but sustain it. Power is not overthrown but digested. The Republic of Wine stages the grotesque as both aesthetic and political excess. The "baby feast" narrative, presented as a culinary curiosity, grotesquely literalizes the metaphor of "consuming the people.." the logic of biopolitical satire, the citizen is not just the subject of governance but also the food of the regime. The novel's cannibalistic feasts do not simply recycle Lu Xun's metaphor of "eating people"; they upgrade it into a bureaucratic ritual. "Since I could not sleep anyway, I read intently half the night until I began to see words between the lines. The whole book was filled with the two words -"Eat people." (Lu Xun 21)Where Lu Xun's madman discovers an ideological "eating" as moral allegory, Mo Yan stages communal, institutionalized consumption: infants and human flesh are integrated into the formal economy of The Republic of Wine's banquets and culinary registers. This shift from private horror to public ritual is crucial. Cannibalism becomes legible not as isolated atrocity but as a normalized procedure -an officially tacit, sometimes openly acknowledged, practice that reveals how institutions may naturalize violence by wrapping it in gastronomy, ceremony, and administrative routine. Such scenes allegorize how the state apparatus rationalizes and "legalizes" extraordinary violence, dissolving individual life into the throughput of power and spectacle.</p><p>Closely allied with cannibalism are recurrent scenes of drunken excess and sexual commodification. The novel links inebriation with institutional corruption: drinking is not merely personal vice but a ritualized mechanism through which favors are distributed, loyalties bought, and bureaucratic bonds renewed. A striking example occurs when Jin Gangzuan humiliates Ding Gou'er by showing him incriminating photographs of a sexual encounter, then forces him into a drinking contest: "More flashbulb explosions, as the historical posture assumed by him and the lady trucker was photographed from every angle by her co-conspirator . . . . . . 'I ask you, Comrade Ding Gou'er, just who is troubled by guilt feelings? You wormed your way into my home and raped my wife, for which I have solid evidence.' He patted the pocket holding the film. . . . . . . Diamond Jin opened his liquor cabinet, took out a bottle of Maotai, unscrewed the cap, and poured two tall glasses, emptying the bottle. He offered one to Ding Gou'er and raised the other in a toast: 'Here's to a successful investigation!' he said, clinking glasses with Ding Gou'er. He tossed his head back, and drank the liquor in one gulp. Holding up the now empty glass, he stared at Ding Gou'er, cheek twitching, eyes shining. The sight of that twitching cheek muscle enraged Ding Gou'er, who held out his glass and, come hell or high water, drank every last drop." (170-173) Here, drinking becomes a coercive performance through which political hierarchies are enacted and the investigator's agency is undermined. Sexual exposure, alcohol, and documentary evidence converge to produce compliance: the body becomes both an incriminating archive and a bargaining chip, a site where governance operates through shame, endurance, and compelled participation rather than through law. Sexual encounters in the text likewise function as transactional performances -sex as bargaining chip, sex as spectacle -so that bodies become instruments in the political economy of patronage and shame. Bakhtin's "grotesque realism" explains the focus on the lower bodily stratum -mouth, stomach, and genitals -as sites of interaction with the social and political world . In Mo Yan this emphasis is dystopianized: the mouth, stomach, and genitals are not sites of communal renewal but instruments of institutional degradation, where laughter is displaced by nausea, complicity, and horror. Grotesque realism thus becomes a register of bureaucratic pathology rather than popular regeneration. As the boundary between the individual body and oppressive institutions dissolves, grotesquerie intensifies. Drunkenness, digestive metaphors, and sexual grotesquerie become not merely bodily symptoms, but extensions of state machinery. In some Chinese fiction, state violence is not rendered through direct brutality, but through a mechanism of "erotic-grotesque digestion" that absorbs, aestheticizes, and metabolizes dissent. Susan Shih argues, in her analysis of Shi Zhecun's fiction, oppression is enacted through the mingling of fear and desire, producing surreal and supernatural excesses such as fetishism, sadomasochism, and necrophilia.(339-44) Shi's work also explores the distortion and hypersensitivity of vision, including hallucinations, illusions, and projected imagery. He refers to this phenomenon as a "vision of fantasy" or "visual complex."(340-41) This sensory-corporeal estrangement provides a framework for understanding how Mo Yan translates state power into visceral, grotesque experiences.</p><p>A pivotal example of this translation occurs in Ding Gou'er's grotesque descent into the latrine, which represents both his political and ethical collapse and the institutional absorption of dissent. As Mo Yan narrates, "I protest'-Ding Gou'er screamed as, with a final burst of energy, he dashed toward the pleasure-boat. But before he got there, he stumbled into an open-air privy filled with a soupy, fermenting goop of food and drink regurgitated by Liquorland residents, plus the drink and food excreted from the other end, atop which floated such imaginably filthy refuse as bloated, used condoms. It was fertile ground for all sorts of disease-carrying bacteria and micro-organisms, a paradise for flies, Heaven on earth for maggots. Feeling that this was not the place where he should wind up, the investigator announced loudly, just before his mouth slid beneath the warm, vile porridge, "I protest, I pro "-The pitiless muck sealed his mouth as the irresistible force of gravity drew him under. Within seconds, the sacred panoply of ideals, justice, re'spect, honor, and love accompanied a longsuffering special investigator to the very bottom of the privy . . ." (330)In Bakhtinian terms, the latrine functions as a "bodily underworld" (Rabelais 325), where ideological constructs dissolve into abjection. Ding's literal submersion dramatizes the grotesque digestion of political ideals by institutional excess -an image of institutional absurdity rendered through bodily collapse. This grotesque fall sets up the chapter's culminating insight: across these texts, grotesque bodies return the gaze -laughing, bleeding, vomiting -in the face of power. Their exaggerated forms ridicule the fantasy of a rational, hygienic state. What Bakhtin saw in Rabelais, García Márquez and Mo Yan recast in their own political landscapes: the people's body as archive, as resistance, as carnivalesque mockery. But in Mo Yan, this mockery curdles into complicity. Where Bakhtinian laughter once destabilized authority, here grotesque affect exposes the institutionalization of absurdity itself. As Judith Butler observes, our fundamental vulnerability to others is not a contingent weakness, but a constitutive feature of social existence-one that contemporary forms of sovereignty often attempt to disavow <ref type="bibr">(Butler xiv)</ref>. The grotesque body, marked by exposure and instability, dramatizes this inescapable openness to the world. Yet it is precisely through this embodied precariousness that such figures gain critical power: to ridicule national rituals, unsettle the hierarchy of grievable lives, and contest the exclusions embedded in public memory. In their fleshy excess and porousness, grotesque bodies force the national imaginary to confront what it otherwise refuses to see. When the body is no longer the docile instrument of state discipline but the site of laughter, excretion, and erotic rebellion, the state's mythic coherence collapses. Through grotesque imagery and carnivalesque inversion, both One Hundred Years of Solitude and The Republic of Wine reveal how the politics of the body is inextricable from the politics of the nation. The rhetorical effect is double-edged. On one level, the grotesque might invite Bakhtinian laughter that temporarily liberates symbolic order; on another level, Mo Yan's grotesque produces ethical paralysis. Readers oscillate between disgust, dark humor, and analytic recognition: what begins as carnivalesque inversion quickly hardens into an image of systemic complicity. Stallybrass and White's insistence that transgressive motifs of high/low carry heavy cultural labor is relevant here: the repeated exposure to bodily degradation forces readers to confront how cultural systems encode violence and how laughter may itself be complicit. The aesthetic strategy thereby turns grotesque affect into a political instrument-one that refuses consolatory catharsis and instead leaves an ethical residue of unease, implicatedness, and critical reflection.</p><p>Both One Hundred Years of Solitude and The Republic of Wine enact the grotesque not merely as a representational mode, but as a narrative politics that disfigures the form of history itself. Whereas Márquez foregrounds Macondo as a site of magical temporality and spectral memory, Mo Yan foregrounds The Republic of Wine as a site of ritualized consumption, bureaucratic spectacle, and corporeal overdetermination. What emerges from these distortions of time is a critique of sovereign authorship: neither nations nor texts can fully determine their meaning through linear development.</p><p>In Márquez, Melquíades' parchments operate as traps that preclude the present; in Mo Yan, Ding Gou'er's investigation reveals the systematic, participatory nature of corruption, rendering justice unattainable and narrative order impossible. Both novels deny the possibility of salvational narration, substituting instead an overcoded structure: too many texts, too many bodies, too many meanings. This is where the grotesque attains its full critical potency. As Bakhtin emphasizes, the grotesque body is a "body in transition," open, permeable, and excessive (Rabelais 211-14). In The Republic of Wine, grotesque embodiment is further ritualized and bureaucratized: banquets, menus, drunken exchanges, and sexualized transactions become techniques through which state power is materially inscribed. Unlike Márquez, whose grotesque allegorizes the cyclical collapse of memory and history, Mo Yan stages compliance and corruption as a collective, multisensory performance, in which bodies are metabolized, desire is instrumentalized, and ethics are subverted. The nation in The Republic of Wine is both a digestive and administrative apparatus: it consumes its citizens, circulates favors, and produces spectacle. History is not narrated but "digested"; morality is not asserted but performed; governance itself becomes a carnival of grotesque excess. By foregrounding the grotesque in this way,</p><p>The Republic of Wine transforms magical realism into a critical apparatus: it exposes the mechanisms of bureaucratic violence, the performativity of corruption, and the ritualization of excess. Whereas Macondo collapses into prophecy and tragedy, The Republic of Wine collapses into parody, farce, and spectacle. Mo Yan's novel, therefore, expands the formal possibilities of global dystopian literature: dystopia need not rely solely on technological or institutional forms of control; it can also emerge from ritualized consumption, corporeal overdetermination, and the bureaucratization of ethics.</p><p>Taken together, these dynamics make grotesque bodies central to the novel's dystopian allegory. Bodies do not merely illustrate institutional failure; they enact it. The legalistic or ritualized consumption of flesh, the commodification of sex and intoxication, and the archival rhetoric that transforms menus into lists of managed life all converge to stage a polity whose legitimacy is maintained through bodily violation. The result is a sustained allegory of dystopia: a society in which sovereignty survives only as a grotesque performance, continually producing and consuming its own subjects. This chapter thus argues that the disorder of bodies in The Republic of Wine is not incidental ornament but the very medium through which institutional absurdity -and hence dystopia -is imagined and experienced.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Reframing The Republic of Wine in Global Dystopian Literature</head><p>Read alongside canonical dystopias such as Orwell's Nineteen Eighty-Four and Huxley's Brave New World, The Republic of Wine reveals a distinct mode of dystopian governance, refracted through a different medium. Where Orwell dramatizes sovereignty as omnipresent surveillance and the policing of memory and discourse , and Huxley theorizes pharmacological and psychotechnical pacification ("Science and Civilisation" 113; "How to Improve the World" 225-26)alongside the administration of desire through conditioning and consumption ("All conditioning aims at that: making people like their unescapable social destiny," Brave New World 214-16) -Mo Yan stages a dystopia whose principal technology is ritualized consumption -of food, bodies, pleasures, and paperwork. The mechanisms of compliance in The Republic of Wine are not primarily panoptic visibility or pharmacological sedation but the normalization and bureaucratic routinization of bodily violation: banquets, menus, drunken exchanges, and administratively circulated narratives function as the technologies of governance. Read through a Foucauldian lens, this is a form of biopolitical rule: power operates through the management, circulation, and "metabolism" of life itself rather than only through spectacular coercion (History of Sexuality 92-93). In Mo Yan's universe, the state's ritualized consumption literally metabolizes bodies and pleasures into the machinery of governance, revealing an intimate continuity between administrative procedure, corporeal exploitation, and the spectacle of legitimacy. This contrast matters analytically. In Orwellian models, the problem is epistemological manipulation and panoptic control; in Huxleyan models, the problem is affective pacification and the commodification of desire . Mo Yan compresses both tendencies into an administrative -biological regime: truth is deferred through recursive documentation, spectacle, and procedural delay (an administrative temporality), while bodies are metabolized into consumable and exchangeable resources (biopolitical consumption). The grotesque embodiment of bureaucratic violence -from infant-consuming banquets to eroticized intoxication and gastronomic archivesamplifies how governance here is multisensory and participatory: compliance becomes something people eat, ingest, recount, and administratively record. Unlike Orwell's metaphor of the alwayswatchful eye or Huxley's soma, Mo Yan stages a polity whose technologies of domination are culinary, ritual, and narrative -technologies that make domination enjoyable, routine, and administratively legible.</p><p>Reading Mo Yan alongside these canonical texts thus broadens our understanding of what counts as a dystopian technique of governance. While many Western dystopias foreground technological or bureaucratic apparatuses -such as surveillance systems, mood-regulating drugs, or algorithmic markets -others, like Orwell's Animal Farm, achieve their dystopian force through political allegory and linguistic control. The Republic of Wine insists that dystopia can also be produced by routine cultural practices and bureaucratic aesthetics: menus that list human flesh read beside files that circulate "evidence"; banquets that celebrate consumption read beside correspondence that manufactures consent. In this way Mo Yan contributes to a global dystopian imaginary that links administrative temporality, biopolitics, and the bureaucratic aesthetic of grotesque realism as co-productive technologies of modern domination (Archaeologies 199). Seen in this light, The Republic of Wine does not merely transform the technologies of dystopian control but redefines their moral and corporeal substance. By translating surveillance into spectacle and pharmacological sedation into ritualized consumption, Mo Yan locates domination within everyday appetites, desires, and bureaucratic procedures. Yet this reconfiguration of dystopian logic also exposes a deeper continuity between nourishment and violence, between the banquet and the bureaucracy -a logic in which eating becomes a mode of governance and complicity. To understand how this politics of consumption resonates beyond China, we must read Mo Yan's grotesque realism within a transnational genealogy that links famine, cannibalism, and institutional power.</p><p>Cannibalistic imagery in The Republic of Wine participates in a transnational genealogy that binds famine narrative, modernist allegory, and the bureaucratic aesthetics of state violence. Hye Ryoung Kil observes that for both Joyce and Mo Yan, cannibalism operates on a double register: a literal horror rooted in famine memory and a figurative idiom for how institutions and ideologies "devour" populations . In Mo Yan's case, this doubleness is intensified by bureaucratic mediationthe novel continually folds symbolic consumption into material procedure. Rumors of infant-feasting appear beside administrative correspondence, culinary manuals, and institutional banquets, so that eating becomes at once a sensory act and an archival one. When read transnationally, alongside Joyce's famine allegories, such scenes transform cannibalism from a local grotesque into a comparative allegorical device for diagnosing how modern governance metabolizes life into legality, and appetite into order. Kil further argues that both authors use cannibalism to register collective trauma: a structure that converts famine and death into cultural routine and bureaucratic form . Mo Yan's "Culinary Academy," menus treating infants as "products," and ceremonial Party feasts reveal how atrocity becomes an administrative grammar of modernity. What distinguishes Mo Yan's text, however, is that this grammar speaks an international idiom: his grotesque consumption allegorizes the same logic that Joyce and Swift exposed in the West -the transformation of need into policy, and of life into measurable substance. In this sense, The Republic of Wine extends the modernist critique of civilization itself, revealing how the project of "feeding the nation" shades into an apparatus of consumption that consumes its people. Yun-Chu Tsai deepens this comparative framework by situating Mo Yan within global discourses of consumer modernity. Drawing on Freud's concept of melancholia, she argues that the "consuming identity" in The Republic of Wine resonates with Western modernist figures of appetite -subjects who internalize loss and ideological exhaustion through acts of consumption . In Tsai's reading, Mo Yan globalizes the cannibalistic trope: it no longer marks China's moral decline but exposes a planetary condition in which consumption itself becomes the means of survival. Appetite replaces belief; ritual replaces redemption. The melancholic eater thus embodies a shared structure of modern subjectivity -an allegorical figure of how late modern societies, East and West alike, sustain themselves through the metabolism of life, pleasure, and violence. Placed within this expanded transnational frame, The Republic of Wine converses simultaneously with Lu Xun, Joyce, Swift, and Huxley. Its grotesque menus and institutional feasts belong not to a provincial dystopia but to a global one, where bureaucratic rationality fuses with desire. Cannibalism here is not a metaphor of local corruption but a universal syntax of modern domination -the ritual through which civilization ingests its own moral and biological substance in order to persist.</p><p>From a world-literature perspective, The Republic of Wine matters because it expands what counts as dystopian form. Much recent theorizing defines dystopia through technological, institutional, or bureaucratic mechanisms of control -from futuristic machines and surveillance systems to algorithmic governance and disciplinary routines. Mo Yan reorients this paradigm toward bodily regimes, ritualized economies, and narrative experimentation -magical temporality, metafiction, and grotesque embodiment -as equally forceful technologies of governance. In doing so, his fiction effectively provincializes Euro-American futurism, rearticulating world-literary inequality in Moretti's sense <ref type="bibr">(Moretti 54)</ref>, and proposes a vernacular modernity in which dystopia unfolds not through mechanical domination but through the metabolic routines of everyday life. This shift has two critical implications. First, it breaks the teleology of Western dystopias, revealing that modern oppression can be enacted through ordinary social practices -banquets, menus, bureaucratic rituals. Second, it recasts world literature as a dynamic system of form-travel, where styles migrate not by imitation but through processes of translation, mutation, and refunctioning (Damrosch 281). The Republic of Wine demonstrates that dystopian modernity circulates through affective economiesdesire, consumption, exhaustion -rather than linguistic translation alone. Seen this way, Mo Yan's novel visualizes a "metabolic dystopia": a world in which the state converts vitality into ritual, pleasure into documentation, and appetite into administration. This metabolic temporality, to borrow Sloterdijk's notion of "immunological modernity," reveals governance as a process of sustaining life by consuming it . Such a structure makes The Republic of Wine part of a planetary archive of biocultural aesthetics, alongside works from Ireland, Latin America, and Africa that render bodily excess as the grammar of power. In this sense, Mo Yan expands dystopia from a speculative genre into a transnational mode of ethical inquiry, where the politics of nourishment, desire, and complicity become central to imagining the global modern .</p><p>This reframing opens promising directions for comparative research. The Republic of Wine can be read alongside: (a) Latin American grotesque-realism, which literalizes social consumption -García Márquez's Chronicle of a Death Foretold, Borges's ritual allegories, or Roa Bastos's I the Supreme; (b) African and South Asian novels of bureaucratic excess, such as Soyinka's The Interpreters, Ngũgĩ wa Thiong'o's Petals of Blood, or Arundhati Roy's The Ministry of Utmost Happiness; and (c) peripheral and postcolonial modernisms that stage the body as both archive and battlefield, from Herta Müller's The Hunger Angel to Han Kang's The Vegetarian. Across these corpora, scholars can trace how ritual, embodiment, and administrative spectacle travel as narrative devices for representing structural violence. Such comparisons highlight The Republic of Wine not as an anomaly of "Chinese grotesque realism," but as part of a global aesthetic that turns appetite, fatigue, and repetition into languages of domination and resistance <ref type="bibr">(Casanova 152)</ref>. Methodologically, this approach aligns with world-literary comparativism: it integrates form, economy, and affect rather than privileging a single national or linguistic framework. It invites scholars to treat consumption as an epistemology -a way of knowing modernity through the body, through repetition, through exhaustion. This method dissolves the boundary between local realism and global allegory, suggesting that dystopia is not simply about imagining the future but about diagnosing the metabolism of the present.</p><p>Finally, The Republic of Wine exemplifies a world-literary dystopia that is culturally specific yet globally resonant. Its grotesque corporeality, ritualized consumption, and bureaucratic spectacle transform dystopia from a national allegory into a transnational grammar of ethics and governance. Through this aesthetic, Mo Yan expands the comparative repertoire of modern fiction and illuminates how the grotesque functions not as excess, but as critiquean embodied mode of thinking about domination and complicity. Seen in this light, dystopia becomes less a futuristic projection than a diagnostic form of the present: a narrative metabolism that exposes how modern societies sustain themselves through cycles of consumption and decay. The grotesque, in Mo Yan's hands, thus emerges as a shared world-literary idioma structure of feeling that binds appetite and power, pleasure and violence, the individual and the institution.</p><p>In conclusion, The Republic of Wine redefines world literature itself: not as a marketplace of cultural difference, but as a biocultural archive of survival and critique. Through its vision of "metabolic governance," Mo Yan's novel joins a global conversation on how art metabolizes violence into meaning, exhaustion into renewal. To read Mo Yan this way is to recognize the grotesque not as marginal or exotic, but as one of the universal languages of modernity.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Conclusion</head><p>Reframed through the lenses developed across this essay -magical temporality, the collapse of narrative sovereignty, grotesque corporeality, and the bureaucratic routinization of violence-The Republic of Wine emerges not merely as satire but as a dystopian allegory whose dominant technology of rule is ritualized consumption. In The Republic of Wine, governance is metabolized into everyday procedures of eating, drinking, sex, paperwork, and storytelling; time thickens into loops of postponement; authority disperses across epistolary, archival, and metafictional frames; and bodies become the medium and currency of institutional power. Such formal and material arrangements relocate dystopian domination from the spheres of surveillance or pharmacology (the canonical paradigms of Orwell and Huxley) to the administrative aesthetics of ritual, appetite, and documentation, thereby provincializing Western templates without abandoning transnational comparison. Rather than offering utopian exit routes, the novel formalizes paralysis: it stages sovereignty as performance, history as bureaucratic stasis, and national allegory as a ruin that both exposes and reproduces institutional absurdity. In this sense, Mo Yan's text widens the map of world dystopias by demonstrating how cultural practices and narrative apparatuses themselves can enact biopolitical control. Read alongside Joyce and García Márquez as well as indigenous satirical and zhiguai traditions, The Republic of Wine shows that Chinese experimental fiction not only converses with global modernisms but also retheorizes dystopia from the ground of ritual, excess, and the grotesque. What the novel finally leaves us with is not closure but a method: to read power where it is digested -at the interface of file, feast, and fiction. </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Disclosure Statement</head><p>No potential conflict of interest was reported by the author(s). </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Notes on contributors</head></div><figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_0"><head></head><label></label><figDesc>Notes 1. The phrase "technology of rule" is used here in a broad Foucauldian sense, encompassing not only mechanical or digital technologies but also institutional, bureaucratic, and discursive mechanisms of governance (Foucault, The History of Sexuality: Volume 1, 139). 2. In an interview with Radio France Internationale, Mo Yan distinguishes his narrative style from Latin American magical realism, stating that the Nobel Committee deliberately chose the term "hallucinatory realism" to describe his work. While acknowledging the influence of García Márquez, Mo emphasizes that his use of the surreal is rooted in Chinese cultural traditions such as Strange Tales from a Chinese Studio, Dream of the Red Chamber, and Journey to the West. He argues that his narrative exaggerations are restrained and culturally grounded, unlike what he sees as the unbounded excess of Latin American models. See Mo Yan, "莫言专访 (上):我的超现实主义 素材和故事都是地道的中国产品," Radio France Internationale, 10 August 2014. https://www.rfi.fr/cn/文化/ 20140810-莫言专访 (上)</figDesc><table /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_1"><head></head><label></label><figDesc>Qianlan Zhang is a PhD candidate in Translation Studies and Comparative Literature at Southwest Jiaotong University. Her research focuses on postmodern mythmaking, digital culture, and contemporary literature, with publications in Literature &amp; Theology and Adaptation. Hong Zeng is Professor of English and Comparative Literature at Southwest Jiaotong University. She received her PhD in Comparative Literature from the University of North Carolina at Chapel Hill and previously taught at Carleton College and Hamline University. She has published five books in the United States and numerous articles in AHCI-, SSCI-, and CSSCI-indexed journals.</figDesc><table /></figure>
+		</body>
+		<back>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<analytic>
+		<title level="a" type="main">Surreal Cultural Practices in Mo Yan&apos;s The Republic of Wine: A Postmodern Critique</title>
+		<author>
+			<persName><forename type="first">Bilal</forename><surname>Ahmed</surname></persName>
+		</author>
+		<idno type="DOI">10.70670/sra.v3i1.536</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Social Science Review Archives</title>
+		<imprint>
+			<biblScope unit="volume">3</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="2255" to="2265" />
+			<date type="published" when="2025">2025</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<monogr>
+		<title level="m" type="main">Against World Literature: On the Politics of Untranslatability</title>
+		<author>
+			<persName><forename type="first">Emily</forename><surname>Apter</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2013">2013</date>
+			<publisher>Verso</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<monogr>
+		<title level="m" type="main">The Dialogic Imagination: Four Essays</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">M</forename><surname>Bakhtin</surname></persName>
+		</author>
+		<editor>Michael Holquist, Translated by Caryl Emerson and Michael Holquist</editor>
+		<imprint>
+			<date type="published" when="1981">1981</date>
+		</imprint>
+		<respStmt>
+			<orgName>U of Texas P</orgName>
+		</respStmt>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<monogr>
+		<title level="m">Rabelais and His World. Translated by Hélène Iswolsky</title>
+		<meeting><address><addrLine>Indiana UP</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="1984">1984</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<monogr>
+		<title level="m" type="main">The Death of the Author</title>
+		<author>
+			<persName><forename type="first">Roland</forename><surname>Barthes</surname></persName>
+		</author>
+		<editor>Stephen Heath. Hill and Wang</editor>
+		<imprint>
+			<date type="published" when="1977">1977</date>
+			<biblScope unit="page" from="142" to="148" />
+		</imprint>
+	</monogr>
+	<note>Image -Music-Text</note>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<monogr>
+		<title level="m" type="main">Dystopian Literature: A Theory and Research Guide</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Booker</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Keith</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1994">1994</date>
+			<pubPlace>Greenwood P</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<monogr>
+		<title level="m" type="main">Precarious Life: The Powers of Mourning and Violence</title>
+		<author>
+			<persName><forename type="first">Judith</forename><surname>Butler</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2004">2004</date>
+			<publisher>Verso</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<monogr>
+		<title level="m" type="main">The World Republic of Letters</title>
+		<author>
+			<persName><forename type="first">Pascale</forename><surname>Casanova</surname></persName>
+		</author>
+		<editor>M. B. DeBevoise, Harvard UP</editor>
+		<imprint>
+			<date type="published" when="2003">2004. 2003</date>
+			<biblScope unit="page">281</biblScope>
+			<pubPlace>Damrosch, David; Princeton UP</pubPlace>
+		</imprint>
+	</monogr>
+	<note>What Is World Literature?</note>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<monogr>
+		<title level="m" type="main">Ordinary Enchantments: Magical Realism and the Remystification of Narrative</title>
+		<author>
+			<persName><forename type="first">Wendy</forename><forename type="middle">B</forename><surname>Faris</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2004">2004</date>
+			<pubPlace>Vanderbilt UP</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<monogr>
+		<title level="m" type="main">The History of Sexuality: Volume 1-An Introduction</title>
+		<author>
+			<persName><forename type="first">Michel</forename><surname>Foucault</surname></persName>
+		</author>
+		<editor>Robert Hurley, 1st American</editor>
+		<imprint>
+			<date type="published" when="1978">1978</date>
+			<publisher>Pantheon Books</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title level="a" type="main">Orwell&apos;s Nineteen Eighty-Four: Text, Sources, Criticism</title>
+		<author>
+			<persName><forename type="first">Irving</forename><surname>Howe</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">History as Nightmare</title>
+		<editor>
+			<persName><forename type="first">Irving</forename><surname>Howe</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">David</forename><surname>Levin</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">Ed</forename><surname>Harcourt</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">Brace</forename><surname>Jovanovich</surname></persName>
+		</editor>
+		<imprint>
+			<date type="published" when="1982">1984. 1982</date>
+			<biblScope unit="page" from="320" to="326" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title level="a" type="main">A Review of the Comparative Study of Mo Yan and Faulkner in China</title>
+		<author>
+			<persName><forename type="first">Xiuguo</forename><surname>Huang</surname></persName>
+		</author>
+		<idno type="DOI">10.1515/sem-2016-0027</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Semiotica</title>
+		<imprint>
+			<biblScope unit="volume">2019</biblScope>
+			<biblScope unit="issue">227</biblScope>
+			<biblScope unit="page" from="19" to="29" />
+			<date type="published" when="2019">2019</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<monogr>
+		<title level="m" type="main">Brave New World. Orwell&apos;s Nineteen Eighty-Four: Text, Sources, Criticism</title>
+		<author>
+			<persName><forename type="first">Aldous</forename><surname>Huxley</surname></persName>
+		</author>
+		<editor>Irving Howe and David Levin</editor>
+		<imprint>
+			<date type="published" when="1982">1982</date>
+			<publisher>Harcourt Brace Jovanovich</publisher>
+			<biblScope unit="page" from="214" to="216" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<title level="a" type="main">How to Improve the World</title>
+	</analytic>
+	<monogr>
+		<title level="m">The Hidden Huxley: Contempt and Compassion for the Masses, 1920-36</title>
+		<editor>
+			<persName><forename type="first">David</forename><surname>Bradshaw</surname></persName>
+		</editor>
+		<editor>
+			<persName><surname>Faber</surname></persName>
+		</editor>
+		<editor>
+			<persName><surname>Faber</surname></persName>
+		</editor>
+		<imprint>
+			<date type="published" when="1994">1994</date>
+			<biblScope unit="page" from="220" to="229" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<monogr>
+		<title level="m" type="main">The Hidden Huxley: Contempt and Compassion for the Masses</title>
+		<editor>David Bradshaw. Faber and Faber</editor>
+		<imprint>
+			<date type="published" when="1994">1994b</date>
+			<biblScope unit="page" from="105" to="114" />
+		</imprint>
+	</monogr>
+	<note>Science and Civilisation</note>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title level="a" type="main">Third-World Literature in the Era of Multinational Capitalism</title>
+		<author>
+			<persName><forename type="first">Fredric</forename><surname>Jameson</surname></persName>
+		</author>
+		<idno type="DOI">10.2307/466493</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Social Text</title>
+		<imprint>
+			<biblScope unit="issue">15</biblScope>
+			<biblScope unit="page" from="65" to="88" />
+			<date type="published" when="1986">1986</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<monogr>
+		<title level="m">Archaeologies of the Future: The Desire Called Utopia and Other Science Fictions. Verso</title>
+		<imprint>
+			<publisher>Cornell UP</publisher>
+			<date type="published" when="1981">2005. 1981</date>
+		</imprint>
+	</monogr>
+	<note>The Political Unconscious: Narrative as a Socially Symbolic Act</note>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<analytic>
+		<title level="a" type="main">因袭与独创: 《儒林外史》叙事艺术新论--基于文本结构与叙事时间的考察 [&apos;Conventionality and Innovation: A New Study of the Narrative Art of the Scholars Based on Textual Structure and Narrative Time&apos;]</title>
+		<author>
+			<persName><forename type="first">Ronggang</forename><surname>Jiang</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Chinese Literary Studies</title>
+		<imprint>
+			<biblScope unit="issue">6</biblScope>
+			<biblScope unit="page" from="17" to="29" />
+			<date type="published" when="2021">2021</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<analytic>
+		<title level="a" type="main">Cannibalism in Joyce and Mo Yan: Famine Memory in Ulysses, the Republic of Wine, and Frog</title>
+		<author>
+			<persName><forename type="first">Hye</forename><surname>Kil</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Ryoung</surname></persName>
+		</author>
+		<idno type="DOI">10.1353/mos.2021.0005</idno>
+	</analytic>
+	<monogr>
+		<title level="m">Mosaic: An Interdisciplinary Critical Journal</title>
+		<imprint>
+			<date type="published" when="2021">2021</date>
+			<biblScope unit="volume">54</biblScope>
+			<biblScope unit="page" from="75" to="91" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<monogr>
+		<author>
+			<persName><forename type="first">Jean-François</forename><surname>Lyotard</surname></persName>
+		</author>
+		<title level="m">The Postmodern Condition: A Report on Knowledge</title>
+		<editor>
+			<persName><forename type="first">Geoff</forename><surname>Bennington</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">Brian</forename><surname>Massumi</surname></persName>
+		</editor>
+		<imprint>
+			<date type="published" when="1984">1984</date>
+		</imprint>
+		<respStmt>
+			<orgName>U of Minnesota P</orgName>
+		</respStmt>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<monogr>
+		<title level="m" type="main">Modern Epic: The World-System from Goethe to García Márquez</title>
+		<author>
+			<persName><forename type="first">Franco</forename><surname>Moretti</surname></persName>
+		</author>
+		<editor>Quintin Hoare, 1996. Morson, Gary Saul, and Caryl Emerson. Mikhail Bakhtin</editor>
+		<imprint>
+			<date type="published" when="1990">1990</date>
+			<publisher>Creation of a Prosaics. Stanford UP</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<analytic>
+		<author>
+			<persName><forename type="first">Tom</forename><surname>Moylan</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Scraps of the Untainted Sky: Science Fiction</title>
+		<meeting><address><addrLine>Utopia</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2000">2000</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<monogr>
+		<author>
+			<persName><forename type="first">Shu-Mei</forename><surname>Shih</surname></persName>
+		</author>
+		<title level="m">The Lure of the Modern: Writing Modernism in Semicolonial China</title>
+		<imprint>
+			<publisher>U of California P</publisher>
+			<date type="published" when="2001">2001</date>
+			<biblScope unit="page" from="1917" to="1937" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<monogr>
+		<title level="m" type="main">Terror from the Air</title>
+		<author>
+			<persName><forename type="first">Peter</forename><surname>Sloterdijk</surname></persName>
+		</author>
+		<editor>Amy Patton and Steve Corcoran, Semiotext</editor>
+		<imprint>
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<monogr>
+		<title level="m" type="main">The Politics and Poetics of Transgression</title>
+		<author>
+			<persName><forename type="first">Peter</forename><surname>Stallybrass</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Allon</forename><surname>White</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1986">1986</date>
+			<publisher>Cornell UP</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<monogr>
+		<title level="m" type="main">You Are Whom You Eat: Cannibalism in Contemporary Chinese Fiction and Film</title>
+		<author>
+			<persName><forename type="first">Yun-Chu</forename><surname>Tsai</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2016">2016</date>
+			<publisher>U of California</publisher>
+		</imprint>
+	</monogr>
+	<note type="report_type">PhD dissertation</note>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<monogr>
+		<title level="m" type="main">Metafiction: The Theory and Practice of Self-Conscious Fiction</title>
+		<author>
+			<persName><forename type="first">Patricia</forename><surname>Waugh</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1984">1984</date>
+			<publisher>Routledge</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b27">
+	<analytic>
+		<title level="a" type="main">Solemn Ritual and Unpredictable Consequence: On the Ancestral Temple Ceremony in Dream of the Red Chamber and the Taibo Temple Sacrifice in The Scholars&apos;]</title>
+		<author>
+			<persName><forename type="first">Ming</forename><surname>Xu</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Hongloumeng Studies</title>
+		<imprint>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="227" to="230" />
+			<date type="published" when="2019">2019</date>
+		</imprint>
+	</monogr>
+	<note>庄严隆重的祭祀仪式与不可预知的祭祀效果--论〈红楼梦〉的除夕宗祠祭祀与〈儒林外史〉的泰 伯祠祭祀</note>
+</biblStruct>
+
+<biblStruct xml:id="b28">
+	<analytic>
+		<title level="a" type="main">Foreign Languages P, 2000. Yan, Mo Jiuguo [The Republic of Wine]</title>
+		<author>
+			<persName><forename type="first">Lu</forename><forename type="middle">;</forename><surname>Xun</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Xianyi</forename><surname>Yang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Gladys</forename><surname>Yang</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Zhejiang Wenyi P</title>
+		<imprint>
+			<date type="published" when="2019">2019</date>
+		</imprint>
+	</monogr>
+	<note>Selected Stories of Lu Xun</note>
+</biblStruct>
+
+<biblStruct xml:id="b29">
+	<monogr>
+		<title level="m">The Republic of Wine: A Novel</title>
+		<imprint>
+			<publisher>Arcade Publishing</publisher>
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+	<note>Translated by Howard Goldblatt</note>
+</biblStruct>
+
+<biblStruct xml:id="b30">
+	<analytic>
+		<title level="a" type="main">The Republic of Wine: An Extravaganza of Decline</title>
+		<author>
+			<persName><forename type="first">Xiaobin</forename><surname>Yang</surname></persName>
+		</author>
+		<idno type="DOI">10.1215/10679847-6-1-7</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Positions: Asia Critique</title>
+		<imprint>
+			<biblScope unit="volume">6</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="7" to="31" />
+			<date type="published" when="1998">1998</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b31">
+	<analytic>
+		<title level="a" type="main">Six &apos;Demonic Realism&apos; and the &apos;Socialist Market Economy&apos;: Language Game, Natural History, and Social Allegory in Mo Yan&apos;s The Republic of Wine</title>
+		<author>
+			<persName><forename type="first">Xudong</forename><surname>Zhang</surname></persName>
+		</author>
+		<idno type="DOI">10.1515/9780822388937-008</idno>
+	</analytic>
+	<monogr>
+		<title level="m">Postsocialism and Cultural Politics: China in the Last Decade of the Twentieth Century</title>
+		<editor>
+			<persName><forename type="first">Stanley</forename><surname>Fish</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">Fredric</forename><surname>Jameson</surname></persName>
+		</editor>
+		<imprint>
+			<publisher>Duke UP</publisher>
+			<date type="published" when="2008">2008</date>
+			<biblScope unit="page" from="240" to="266" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b32">
+	<analytic>
+		<title level="a" type="main">圆圈与循环: 鲁迅小说意象与结构分析 [&apos;Circles and Cycles: An Analysis of Imagery and Structure in Lu Xun&apos;s Fiction&apos;]</title>
+		<author>
+			<persName><forename type="first">Yunfeng</forename><surname>Zhang</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Tianjin Social Sciences</title>
+		<imprint>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="118" to="121" />
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

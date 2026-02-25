@@ -1,0 +1,779 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Manners, Morals, and Happiness: Negotiating Balance in Sense and Sensibility</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author role="corresp">
+							<persName><forename type="first">Zhongliang</forename><surname>Shen</surname></persName>
+							<email>zlshen25@163.com</email>
+							<affiliation key="aff0">
+								<orgName type="department">People&apos;s Public</orgName>
+								<orgName type="institution">Security University of China</orgName>
+								<address>
+									<settlement>Beijing</settlement>
+									<country>People&apos;s Republic of China</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Jane</forename><surname>Austen</surname></persName>
+							<affiliation key="aff1">
+								<orgName type="institution">Jane Austen</orgName>
+								<address>
+									<postCode>102, 96</postCode>
+									<settlement>Tanner</settlement>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Manners, Morals, and Happiness: Negotiating Balance in Sense and Sensibility</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date/>
+						</imprint>
+					</monogr>
+					<idno type="MD5">183F573D6CE26DEA7B4650C5886C0C6C</idno>
+					<idno type="DOI">10.1080/0013838X.2025.2582150</idno>
+					<note type="submission">Received 17 June 2025 Accepted 19 October 2025</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.0" ident="GROBID" when="2026-02-25T19:52+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>This essay focuses on balance, a central motif in Jane Austen's Sense and Sensibility, seeking to illustrate how Austen endorses the value of balance and how it is negotiated through three salient tensions, that is, tensions between sincerity and civility, desire and decorum, and happiness and materialism. Drawing on eighteenth-and early nineteenth-century moral, philosophical, and political discourse, I argue that fortitude is essential to reconciling female passion with the demands of decorum and that Austen critiques the excesses of calculated materialism through an insistence on ethical balance in the pursuit of happiness. An examination of the (im)balance between honesty and civility demonstrates that moral integrity is vital to resolving this tension without making one lapse into duplicity. By interrogating balance as an ethical and social virtue, this essay illuminates how it informs the novel's engagement with contemporaneous discourse on manners, morals, and happiness.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>In the Postscript of A Memoir of Jane Austen, James Edward Austen-Leigh writes that his aunt's disposition was characterised by "none of the morbid sensibility or exaggeration of feeling", her mind "well balanced on a basis of good sense, sweetened by an affectionate heart, and regulated by fixed principles". <ref type="bibr">1</ref> Such an appraisal reminds one of Elinor Dashwood in Sense and Sensibility, who "possessed a strength of understanding, and coolness of judgment" and whose "disposition was affectionate". 2 Like Austen herself, Elinor has a balanced mind, which contrasts with "the excess of her sister's sensibility" (8). <ref type="bibr">3</ref> Gilbert Ryle argues that Elinor and Marianne "exemplify equilibrium or else inequilibrium between judiciousness and feeling" and that Austen wrote Sense and Sensibility in order to interrogate "whether deep feeling is compatible with being reasonable". <ref type="bibr">4</ref> For Austen, the answer is certainly affirmative. Just as Tony Tanner observes, while "a perfect balance between [sense and sensibility] must remain an artist's dream", Austen indeed "saw balance as a prime virtue to be aimed at". <ref type="bibr">5</ref> With a special focus on secrecy and sickness in Sense and Sensibility, Tanner's treatment of balance is nevertheless cursory. In Jane Austen's Philosophy of the Virtues, Sarah Emsley argues that Austen illustrates how individuals of both genders "must work at negotiating the appropriate balance" of the virtues, a process that entails not only managing "excess and defect" but also grappling with "the complex tensions between and among competing virtues". <ref type="bibr">6</ref> By probing the challenges when characters like Elinor and Marianne attempt to practice multiple virtues, Emsley asserts that "it is difficult to keep them simultaneously in balance". <ref type="bibr">7</ref> Her analysis is limited to virtue ethics, which precludes her from engaging with the broader sociopolitical milieu of Austen's time.</p><p>As noted above, critics tend to broach the theme of balance through the dichotomy between the title words, sense and sensibility. This essay contributes to the existing scholarship by focusing not just on how Austen highlights Marianne's need for balance, but also on how balance is negotiated through three salient tensions, that is, tensions between sincerity and civility, desire and decorum, and happiness and materialism. By contextualising balance with eighteenth-and early nineteenth-century moral, philosophical, and political discourse, I argue that fortitude is essential to reconciling female passion with the demands of decorum and that Austen critiques the excesses of calculated materialism through an insistence on ethical balance in the pursuit of happiness. While Emsley has convincingly argued that fortitude is "Austen's focus" in Sense and Sensibility, 8 she neglects to discuss in detail how passion is balanced by fortitude, a point I will subsequently elucidate when examining the politics of sensibility. I also probe the (im)balance between honesty and civility, arguing that moral integrity is vital to resolving this tension without making one lapse into duplicity. Emsley has observed the difficulty of "[a]chieving the virtuous balance", 9 but she undervalues Elinor's resolute moral principles, as evident in her refusal to cunningly flatter others. Elinor's conduct exemplifies how one may, guided by moral integrity, practice civilities without compromising sincerity. Thus, balance reflects a negotiated moral stance that distinguishes Elinor from Lucy Steele. By examining the significance of balance in the navigation of complex human relationships, the reconciliation between personal desires and social expectations, and the pursuit of enduring happiness, this essay interrogates balance as an ethical and social virtue, illuminating how it informs the novel's engagement with contemporaneous discourse on manners, morals, and happiness. Ultimately, Austen's ideological stance cannot be reduced to simple conservatism; rather, it is a complex one that combines moral conservatism with liberal commitment to sympathy, benevolence, and romantic love.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Between Self-expression and Social Expectations: Marianne's Emotional Authenticity and Elinor's "General Civility"</head><p>In Sense and Sensibility, Austen highlights the conflict between individualism and conformity through the depiction of the Dashwood sisters. Marianne's sensibility, as noted by Marilyn Butler, epitomises "individualism, or the worship of self". <ref type="bibr">10</ref> Contrary to Marianne's impropriety and "romantic individualism", Elinor, in Susan Morgan's view, is "the upholder of tradition against the threat of an excessive individualism". <ref type="bibr">11</ref> Marianne values emotional authenticity, prioritising personal feelings over social conventions. Her egocentrism is most prominently displayed in her rejection of propriety, echoing Elinor's assertion that Marianne has "all the unfortunate tendency of setting propriety at nought" (43). Her intimacy with Willoughby suffices to illustrate her imprudence and thoughtlessness. Acquainted with Willoughby for merely a week, she readily accepts a horse from him, a decision that elicits astonishment from her sister Elinor. Patricia Menon construes Marianne's love for Willoughby as "a love motivated by egotism, directed towards a man who 'thought the same' as she". 12 Such a perspective is well-grounded, as Marianne "expected from other people the same opinions and feelings as her own" (143). For Marianne, Willoughby is important because he shares her interest and cherishes her sensibility. Elinor cautions her against hastily investing her feelings for Willoughby, but Marianne remains impervious to such counsel, openly acknowledging her deviation from "every common-place notion of decorum"; her deliberate rejection of propriety is grounded in a strong conviction that conformity would compromise her emotional sincerity and render her "reserved, spiritless, dull, and deceitful" (37). In the early nineteenth century, the upper echelons of society valued good manners and prescribed stringent codes of conduct, with breaches of propriety likely met with censure. <ref type="bibr">13</ref> Women in particular were expected to adhere to decorum. Their behaviour was closely scrutinised, and deviation from accepted norms could incur opprobrium. Marianne consciously rebels against social conventions that dictate how women, particularly young ladies, ought to behave. Valuing sincerity over artificiality, she fails to strike a balance between emotional authenticity and social conformity.</p><p>The individualism, temperament, and emotions evinced by Marianne epitomise certain characteristics of Romanticism. In his work Romantic Cruxes: The English Essayists and the Spirit of the Age, Thomas McFarland has "identified" more than "fifteen hallmarks of Romanticism" such as "external nature, imagination, egotism […] a preoccupation with […] melancholy, solitude". 14 Some of these attributes, as McFarland emphatically states, are unequivocally "juxtaposed against the predecessor sensibility referred to as neoclassicism", which "held up as its ideal the sun of Reason" and "satirized the vagaries of the individual ego"; Romanticism, on the contrary, "took refuge in the moonlit realms of Imagination". <ref type="bibr">15</ref> In Sense and Sensibility, Marianne's prioritisation of individual feelings, as Sandra M. Gilbert and Susan Gubar point out, "links her to the Romantic imagination". <ref type="bibr">16</ref> Marianne's imagination is evident not only in her appreciation of nature but also in her idealised visions of love. 17 She retreats into her own imaginative realm and is completely infatuated with Willoughby, whose "good abilities, quick imagination, lively spirits, and open, affectionate manners" have immediately "formed to engage Marianne's heart" (37). Colonel Brandon, on the other hand, is considered as a sombre and melancholic man whose "imperfections" stem from Marianne's "imagination" (40).</p><p>By depicting Marianne's romantic sensibility and her tendency to rebel against propriety, Austen highlights the tension and imbalance between emotional authenticity and social conformity. Unlike Marianne who "cares for essentials, not for superficialities", Elinor, as Everett Zimmerman argues, "is intensely interested in social conventions, indulging often in hypocrisies that hide her feelings from others. She wishes to satisfy the demands of society, as well as of the self". <ref type="bibr">18</ref> A salient illustration emerges in their divergent attitudes toward Mrs. Jennings. Marianne dismisses Mrs. Jennings's kindness, which she thinks is devoid of genuine compassion. Because her understanding of sympathy is highly romanticised, she yearns for an instantaneous and complete alignment of sentiments, eschewing what she perceives as superficial and insincere gestures.</p><p>That Marianne rebuffs Mrs. Jennings's kindness is not just improper but also immoral, according to Shaftesbury's moral theory. <ref type="bibr">19</ref> In Characteristics of Men, Manners, Opinions, Times, Anthony Ashley Cooper, the third Earl of Shaftesbury connects manners with morals, asserting that his treatise "is to recommend morals on the same foot with what in a lower sense is called manners and to advance philosophy, as harsh a subject as it may appear, on the very foundation of what is called agreeable and polite". <ref type="bibr">20</ref> Shaftesbury believes that an individual's innate moral sense is entwined with one's sense of propriety, and that good manners are not superficial social conventions, but rather expressions of profound moral principles. Granted that propriety was highly valued in English society during the eighteenth and early nineteenth centuries, cultivating refined manners was conducive to the development of moral character. In Sense and Sensibility, Marianne fails to see the connection between manners and morals as Shaftesbury does. Her cold attitude toward Mrs. Jennings's civilities is both inappropriate and ungrateful. Elinor reprimands Marianne for her impertinence, questioning how Marianne can be "so unjust" toward the Middletons, who have "behaved in the friendliest manner" toward them (66). Through Elinor's critique of Marianne's propensity to prioritise the depth and authenticity of feelings over social conventions, Austen not only correlates women's feelings with propriety but also elevates the issue of sensibility to a moral 17 Marianne derives solace from the beauty of nature and attributes deep emotions to her surroundings. Her poetic depiction of the landscape and her emotional responses to seasonal changes attest to her wild imagination and reverence for the picturesque. Notably, when Elinor makes a passing remark about the dead leaves at Norland Park, Marianne says that she is "delighted" to see them fall, refusing to view those dead leaves as nothing more than "a nuisance" to be "swept hastily off" and driven out of sight (65). <ref type="bibr">18</ref> Zimmerman, "Admiring Pope No More Than Is Proper", 112. <ref type="bibr">19</ref> Gilbert Ryle considers Sense and Sensibility and Mansfield Park as two novels in which Austen "cross[es] over the boundary into moralizing", hypothesising that "Austen's specific moral ideas derived, directly or indirectly, knowingly or unknowingly, from Shaftesbury", even though "she never mentions him by name". See Gilbert, 114, 118 matter warranting serious consideration. The fact that Marianne needs to recognise her weakness and return kindness is indubitably a necessary step in reconstructing her value system.</p><p>Unlike Marianne who is unable to balance propriety and authenticity and is less discerning about other people's good motives, Elinor is a sensible woman who maintains a sense of self within the constraints of social expectations. Despite finding Mrs. Jennings's civilities "distressing", Elinor "returned her those civilities, which her sister could not make or return for herself" (137). Moreover, when expressing gratitude to the Middletons for spending "many pleasant days" with them, Elinor exhibits a marked difference from Marianne who denies that "the Middletons [are] pleasant people" (65-6). Elinor's comportment reflects the social emphasis on "the forms of general civility" (103). In dread of violating decorum, she consistently restrains her conduct based on the principle of politeness. 21 Whereas Marianne is unwilling to "say what she did not feel", Elinor readily undertakes "the whole task of telling lies when politeness required it" (89). This suggests Elinor's ability to navigate social situations and maintain decorum, even if it might entail telling lies and concealing her true feelings. Considering the significance of politeness in early nineteenth-century English society, especially within the uppermiddle class, engaging in social niceties is understandably a necessary means of maintaining sound interpersonal relationships.</p><p>Given Elinor's tendency to tell polite lies, Morgan argues that Austen in this novel "depicts the triumph of politeness over sincerity". <ref type="bibr">22</ref> Emsley similarly observes Elinor's imbalance between honesty and civility, opining that she is "guilty of deviating from the mean of truthfulness". <ref type="bibr">23</ref> Both scholars recognise the social dictates of politeness, as reflected by Elinor's practice of propriety. However, one might question whether sincerity is truly sacrificed in favour of civility. Admittedly, Elinor sometimes tells polite lies, but it is important to note that she consistently remains true to her moral principles. As a woman "too honest to flatter" (245), Elinor tries to reconcile the tension between sincerity and civility, achieving, albeit with some difficulty, a commendable balance between the two. For example, she compliments "Lady Middleton with more warmth than she felt, though with far less than Miss Lucy" (89, italics mine). Whereas Lucy extols Sir John as "a charming man", Elinor's "commendation [of Sir John], being only simple and just, came in without any eclat. She merely observed that he was perfectly good humoured and friendly" (89, italics mine). In this instance, Elinor makes a conscientious effort to balance civility with sincerity when giving compliments. Judiciously tempering her expressions of admiration and warmth, she attempts to align them with her genuine feelings. In doing so, her sincerity remains largely uncompromised, and her actions remain within the boundaries of propriety. Compared with Elinor, Lucy is an ostentatiously sycophantic woman who "joined insincerity with ignorance", with her "flatteries" betraying a "thorough want of delicacy, of rectitude, and integrity of 21 For instance, when Mrs. Jennings extends a gracious invitation to London, Elinor, having noticed Marianne's reticence along the way, "took immediate possession of the post of civility which she had assigned herself, behaved with the greatest attention to Mrs. Jennings, talked with her, laughed with her, and listened to her whenever she could" (114). Sir John Middleton is endowed with generosity, but he occasionally jests about things pertaining to the Dashwood sisters, facetiously claiming that Elinor has an attachment to Edward. Discontented though she is, Elinor still praises Sir John for his commendable character. <ref type="bibr">22</ref> Morgan, "Polite Lies", 188. <ref type="bibr">23</ref> Emsley, Jane Austen's Philosophy of the Virtues, 69.</p><p>mind" (93). Her obsequiousness is a strategic manoeuvre employed to ingratiate herself with those of higher status, and her insincere politeness comes at the expense of compromising her moral principles. There is a scene in the novel that depicts Lucy's hypocrisy and calculating nature. When divulging her secret to Elinor, Lucy claims that she would immediately terminate her engagement to Edward Ferrars if advised to do so by Elinor. Elinor, however, sees through Lucy's subterfuge and "blushed for the insincerity of Edward's future wife" (107). Elinor's reaction here indicates her acute awareness of Lucy's insincerity and calculated attempt to elicit her sympathy and support.</p><p>Throughout Sense and Sensibility, Elinor, with her moral rectitude, consistently adheres to politeness while maintaining sincerity in social interactions, thus showcasing her ability to balance self-expression with social expectations. Marianne, in contrast, favours sincerity over civility, an act that runs counter to this ideal. In order to further negotiate the value of balance and to accentuate the ramifications attendant upon extreme individualism, Austen contrasts Elinor's fortitude with Marianne's imprudent indulgence in passion, which ultimately subjects the latter to a grave illness. Just as Marianne says toward the end of the novel: "my own feelings had prepared my sufferings" (244). It is not until her recovery from putrid fever that she realises her selfishness and "saw some duty neglected, or some failing indulged" (245). This serves as a poignant commentary on the consequences of excessive individualism. I therefore now turn to Marianne's suffering and personal growth in the next part.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>The Politics of Sensibility and the Role of Fortitude in Balancing Passion</head><p>In Austen's time, the prevailing cultural norms championed such values as reason, balance, moderation, and self-discipline. A display of unbridled feelings was deemed unseemly, and women were expected to balance their desire with decorum. In the opening chapter of Sense and Sensibility, the narrator describes the Dashwood sisters thus: Elinor's "feelings were strong; but she knew how to govern them" while Marianne's feelings "could have no moderation" (8). Toward the novel's denouement, the narrator says Marianne is doomed to recognise her weaknesses, lest she become "a sacrifice to an irresistible passion" (268). Apparently, Austen recognises Elinor's strength of feeling and capacity for self-control while expressing disapproval of Marianne's excessive sensibility.</p><p>Whereas Elinor persistently adheres to "the propriety of some self-command", Marianne views "the restraint of sentiments" as both "an unnecessary effort" and "a disgraceful subjection of reason to common-place and mistaken notions" (41). Such cognition reflects a palpable tension between an individual's emotional expression and the social dictates of propriety. Marianne spurns the idea of commanding her feelings in deference to decorum because to her, conforming to social institutions would be tantamount to a betrayal of her unfeigned and intense emotions. This finds expression in her refusal to restrain her sorrow in the wake of Willoughby's sudden departure. Beset by heartbreak and insomnia, she abandons herself to grief all day, and "the feelings which made such composure a disgrace, left her in no danger of incurring it" (62). In the throes of passion and desperation, Marianne consciously expresses "studied sorrow" in the presence of her family. <ref type="bibr">24</ref> She harbours apprehension that her feelings may not be strong enough, lest she become a person of insensibility. The fact that she considers composure rather than the expression of strong feelings as a disgrace suggests the social importance of women's emotional response. Claudia L. Johnson and Clara Tuite argue that "'sensibility', far from liberating one from restrictive codes of social behavior, actually prescribes and proscribes certain behaviors just as much as ordinary politeness does" and that "Marianne considers herself free from common constraints but her behavior closely follows its own kind of script". <ref type="bibr">25.</ref> It is important to note that there was a critique of the overemphasis on sensibility in female education during the late eighteenth and early nineteenth centuries. In Strictures on the Modern System of Female Education, Hannah More writes that some women "are less careful to avoid the charge of unbounded extremes, than to escape at all events the imputation of insensibility. They are little alarmed at the danger of exceeding, though terrified at the suspicion of coming short, of what they take to be the extreme point of feeling". <ref type="bibr">26</ref> More's remark suggests many women's inability to balance sensibility with reason. Those who are apprehensive about appearing emotionally detached and eager to demonstrate their depth of feelings might be inclined to exhibit a heightened emotional response, prioritise sensitivity over rational judgment, and veer toward extremes, even if it means pushing the boundaries of what is deemed socially appropriate. In this sense, women's sensibility is closely associated with cultural injunctions and social propriety, thus giving rise to the concern that an undue focus on sensibility could culminate in breaches of decorum.</p><p>Concerning Marianne's sensibility, Mary Poovey argues that it is driven by a "hunger of imagination". <ref type="bibr">27</ref> As discussed earlier, Marianne's perception of love is shaped by her imagination. Unbridled imagination, however, exposes her to the dangers of an excess of romantic idealism, ultimately leading her to emotional disillusionment. In The History of Rasselas, Samuel Johnson has observed the "hunger of imagination which preys incessantly upon life", asserting that "Whoever thou art, that, not content with a moderate condition, imaginest happiness in royal magnificence, and dreamest that command or riches can feed the appetite of novelty with perpetual gratifications". <ref type="bibr">28</ref> According to Johnson, imagination can be a source of discontent when left unbridled. "Disorders of intellect" lie in the ascendancy of imagination over reason:</p><p>There is no man whose imagination does not sometimes predominate over his reason, who can regulate his attention wholly by his will, and whose ideas will come and go at his command […] All power of fancy over reason is a degree of insanity; but while this power is such as we can controul and repress, it is not visible to others, nor considered as any depravation of the mental faculties. <ref type="bibr">29</ref> Discussing memory and the importance of forgetfulness in The Idler, Johnson emphasises that reason should "prevail over imagination" so that "the power of forgetting is capable of improvement" and "troublesome thoughts" can be attenuated. <ref type="bibr">30</ref> Contrary to Johnson's suggestion, Marianne allows her imagination to prevail over reason, which <ref type="bibr">25</ref> Johnson and Tuite, 30 Great Myths about Jane Austen, 62. <ref type="bibr">26</ref> More, Strictures on the Modern System of Female Education, 112, italics in the original. <ref type="bibr">27</ref> Poovey, The Proper Lady and the Woman Writer, 188. <ref type="bibr">28</ref> Johnson, The History of Rasselas, 71. <ref type="bibr">29</ref> Ibid., 93. <ref type="bibr">30</ref> Johnson, The Idler, 71.</p><p>becomes a source of what Johnson terms the "disorders of intellect". Just as Elinor says: "I should hardly call her a lively girl-she is very earnest, very eager in all she does-sometimes talks a great deal and always with animation-but she is not often really merry" (69).</p><p>While Marianne's tender affection is a commendable quality, her inability to control her passion runs counter to the neoclassical value of balance. 31 M. A. R. Habib has noted that compared with "many Renaissance poets [who] had labored toward an individualism of outlook", the neoclassicists accorded great importance to "the classical values of objectivity, impersonality, rationality, decorum, balance, harmony, proportion, and moderation". <ref type="bibr">32</ref> In The History of Rasselas, Johnson uses marriage as an example, adeptly illustrating the neoclassical emphasis on social order and the relationship between the part and the whole: "The good of the whole, says Rasselas, is the same with the good of all its parts. If marriage be best for mankind it must be evidently best for individuals". <ref type="bibr">33</ref> Here, the notion that the well-being of the whole entity or society is inherently beneficial for the parts and individuals resonates with the neoclassical ideal of order, balance, and harmony. Within the social structures, actions conducive to the overall good of the community can, in turn, redound to the advantage of individuals. In Sense and Sensibility, Marianne's fervent expression of passion is opposed to this neoclassical ideal and will have repercussions for herself, her family, and society at large. Seeing Marianne wallow in grief, Elinor implores her to exercise restraint in her melancholy, remarking: "if you would not kill yourself and all who love you. Think of your mother; think of her misery while you suffer". However, Marianne's words-"leave me, leave me, if I distress you; leave me, hate me, forget me! but do not torture me so" (131)-demonstrate her disregard for the feelings of others when she is consumed by anguish. She only cares about her own feelings rather than those of others and social expectations. Poovey perceives Marianne's indulgence in passion as a formidable challenge to social conventions, arguing that Austen concurs with eighteenth-century moralists in the view that "women's appetites are particularly dangerous", and that Austen has Marianne suffer from an illness, which "is not only a result but also a purgation of her passion". <ref type="bibr">34</ref> Note, though, that Austen's stance on women's desires is not entirely passive. Her portrayal of Marianne, who ultimately learns to curb her excessive sensibility and express her genuine feelings in a more rational manner, suggests that Austen seeks to channel women's desires and accommodate them to the ideology of patriarchy and propriety.</p><p>In contrast to Marianne's passionate nature, Elinor consistently adopts a rational approach throughout the novel, exemplifying the value of balance between desire and decorum, and between emotion and responsibility, even in the throes of challenging <ref type="bibr">31</ref> Austen published all her six major works in the early nineteenth century and is generally thought to be a nineteenthcentury novelist. Christopher Gillie, however, asserts that Austen's "attitude to society was still an eighteenth-century one: she assumed a permanence in its order and in the values of that order" (153). Karin Jackson also points out that Austen's novels "are generally considered representative of the late eighteenth-century 'classical' world view and its values-judgment, reason, clarity of perception". This holds particularly true for Sense and Sensibility, in which Austen's discussion of social conventions, manners, and the relationship between individual desires and social expectations echoes the neoclassical emphasis on order, balance, and decorum. <ref type="bibr">32</ref> Habib, Literary Criticism from Plato to the Present, 98. <ref type="bibr">33</ref> Johnson, The History of Rasselas, 63. <ref type="bibr">34</ref> Poovey, The Proper Lady and the Woman Writer, 189.</p><p>circumstances. Notably, despite grappling with her own emotional turmoil upon learning of Lucy's betrothal to Edward, Elinor pledges to keep the secret for Lucy, staunchly believing that she is "doing [her] duty" (185). Cognizant of the impact of her actions on other people, she is determined to "command herself enough to guard every suspicion of the truth from her mother and sisters", fearing that divulging the information "would give such affliction to them" and probably lead them to censure Edward due to "the excess of their partial affection for herself" (100-1). Jenny Davidson comments that Elinor's concealment and self-command are "designed to protect herself, her mother and her sister from the painful consequences of passionate feeling". <ref type="bibr">35</ref> Eve Kosofsky Sedgwick has observed "Elinor's self-imposed obligation to offer social countenance to the restless, insulting, magnetic, and dangerous abstraction of her sister", arguing that Marianne's autoeroticism embodies "an excess dangerous to others but chiefly to herself". <ref type="bibr">36</ref> Admittedly, given Marianne's despondency following Willoughby's abrupt departure, imparting to her the news about Edward's engagement to Lucy would only exacerbate her anguish, plunging her into an even more unbearable state of agony. Therefore, Elinor endeavours to restrain her feelings and endure grief by herself not only out of a strong sense of propriety, but also out of genuine concern for Marianne and the welfare of the family. Elinor's consideration for others is also evident in the course of attending to her sister who teeters on the brink of death due to putrid fever. The spectre of Marianne's untimely death haunts her but she must suppress her fear and try to maintain "exterior calmness" in the presence of Mrs. Jennings (222), so as not to compound the latter's distress. Elinor's struggle to reconcile her internal turmoil with external composure indubitably adds weight to her moral rectitude. In this respect, she serves as an exemplar for Marianne to emulate.</p><p>In light of the fact that Elinor suffers "almost as much, certainly with less self-provocation, and greater fortitude" (252), and that Marianne eventually realises that her "want of fortitude under [sufferings] had almost led [her] to the grave" (244), it is crucial to accord great importance to the concept of fortitude. As a virtue "flowing from sense", 37 fortitude embodies courage, exertion, and resilience in the face of adversity, acting as a crucial counterbalance to passion. In the 1790s, a period brimming with turmoil and radical sentimentalism, women's sensibility had ideological implications. <ref type="bibr">38</ref> As Claudia L. Johnson observes, both conservative and progressive writers reprimand women for succumbing to passion, "and they urge women instead to aspire towards tough-minded fortitude". 39 Mary Wollstonecraft, for example, extols fortitude, using it <ref type="bibr">35</ref> Davidson, Hypocrisy and the Politics of Politeness, 154. <ref type="bibr">36</ref> Sedgwick, "Jane Austen and the Masturbating Girl", 829-30. It is worth noting that whereas Sedgwick adopts a queer reading of Elinor and Marianne by examining the hetero-and homoerotic love shared by the two sisters, Patricia Menon argues that Elinor's love for Marianne is "not so much sexual as an emotion of such intensity that it pre-empts the development of an intense loving relationship of any other kind, including the sexual, with the men the sisters marry". See Menon, Austen, Eliot, Charlotte Brontë and the Mentor-Lover, 50. 37 Keymer, Jane Austen: A Very Short Introduction, 45. <ref type="bibr">38</ref> Emily Auerbach speculates that the name Marianne in Sense and Sensibility might be associated with the French Revolution in the sense that literary figures "named Marianne figure prominently in French literature, often as young women of common origins who stand up to their so-called aristocratic betters" (254-5). Marianne, whose sensibility embodies liberty, "illustrates the unbridled zeal of French revolutionaries", while Elinor stands for "the enduring British tradition of remaining composed under pressure, of keeping a stiff upper lip" (258). For a detailed discussion, see Auerbach, "An Excellent Heart", 254-9. <ref type="bibr">39</ref> Johnson, "Sweet Face", 162. Claudia L. Johnson disagrees with the view that fortitude distinguishes conservatives from progressives, arguing that while conservative writers like Jane West and Hannah More view passions as "trials of as an alternative term for strength of mind and self-command in A Vindication of the Rights of Woman. She explains that "fortitude presupposes strength of mind". <ref type="bibr">40</ref> Discontented with women's indulgence in passion and eager to promote women's rights, education, and autonomy, Wollstonecraft castigates sensibility and its potential to perpetuate women's subjugation to men, insisting that women should exert fortitude, cultivate reason, and curb passion. Just as she advocates, "let us endeavour to strengthen our minds by reflection, till our heads become a balance for our hearts". <ref type="bibr">41</ref> Wollstonecraft's treatise on sensibility and fortitude interrogates the prevailing gender ideologies in English society. Similarly, Austen engages with this discourse in Sense and Sensibility. Though Austen does not challenge the distinction of sex as vehemently as Wollstonecraft, she critiques the pitfalls of unchecked passion, emphasising instead the necessity of fortitude through the depiction of the Dashwood sisters. The narrator says: "Bad indeed must the nature of Marianne's affliction be, when her mother could talk of fortitude" (151). This remark not only underscores the severity of Marianne's suffering but is also illustrative of the strength that fortitude provides in counterbalancing excessive sensibility. Note that while Marianne is conspicuously deficient in fortitude, she is not entirely devoid of it. The narrator mentions that she possesses a "small degree of fortitude", which proves inadequate in balancing her passion following Willoughby's departure to London; ultimately, her fortitude "was quite overcome" and "she was without any desire of command over herself" (61). Elinor, in contrast, has "exertions" and "the most high-minded fortitude", which enable her to remain "heroically disposed" and behave "in the handsomest manner" in the face of both her lover Edward and her rival Lucy (171).</p><p>Here, her fortitude is emblematic of the kind of rational, balanced, and morally commendable female conduct that Austen champions within her narrative. Marianne begins to realise the imperative of fortitude upon comparing her own conduct with that of Elinor, whose "composure of mind" emanates from "constant and painful exertion" (186). At this juncture, however, Marianne's realisation is incomplete, for she only "regretted most bitterly that she had never exerted herself before" but "still fancied present exertion impossible" (190-1). In other words, while she acknowledges her past failure to exercise self-control, she remains convinced of her inability to change herself. It is not until she is subject to putrid fever and subsequently recovers from the illness that her mind, once "so much weakened" (191), is now "awakened to reasonable exertion" (242). The grievous illness Marianne undergoes serves as both a physical and psychological catalyst. While weakening her body, it makes her understand that true fortitude and self-restraint are not innate traits, but rather attributes that need to be cultivated through persistent effort. She tells Elinor that she has "laid down [her] plan" and will commit to "adhering to it" so that her "feelings shall be governed" and her "temper improved" (245). Rebecca Richardson opines that Marianne's plan is an indication that she is "clearly labeling and separating the past and the future" and that she "moves the novel to a sense of balanced emotion and closure". 42 Given Marianne's fortitude", progressive writers represented by Mary Wollstonecraft "urge a rationality, usefulness, and fortitude no less strenuous" than the conservatives, "and they arraign sensibility as a means by which cultural injunctions are internalised and self-executed". See Johnson, Women, Politics, and the Novel, 67-8. <ref type="bibr">40</ref> Wollstonecraft, A Vindication of the Rights of <ref type="bibr">Woman,</ref><ref type="bibr">211. 41</ref> Ibid., 116. <ref type="bibr">42</ref> Richardson, "Dramatizing Intimacy", 238.</p><p>sincere and resolute determination, one can reasonably surmise that by cultivating the virtue of fortitude and regulating her passion, Marianne will, as she vows, "practise the civilities, the lesser duties of life, with gentleness, and forbearance" (246). Through this commitment, Marianne demonstrates her grasp of the moral judgment required to achieve what Emsley terms "an ethical balance in social life". <ref type="bibr">43.</ref> By depicting the vicissitudes of Elinor and Marianne, Austen not only shows the necessity of balancing passion with fortitude, but also suggests that excessive sensibility is detrimental to the pursuit of personal happiness. As noted earlier, Marianne is not a merry girl. Her sensibility has precluded her from developing a vivacious disposition, and her overdependence on Mrs. Dashwood and Willoughby for emotional needs inexorably renders her vulnerable to unstable and uncontrollable feelings, a fact underscored by her descent into the abyss of sorrow following Willoughby's perfidy. In order to facilitate Marianne's quest for happiness, Austen subjects her to an illness, thereby compelling her to face up to her susceptibility to sensibility. Marianne's fate substantiates William Nettleton's argument that in order to achieve happiness, it is "necessary that the pains should be endur'd; and also that our appetites should be restrain'd". <ref type="bibr">44</ref> When elucidating the connection between passion and happiness, Nettleton asserts that the restraint of passion can contribute to happiness, whereas indulgence only begets "trouble and disquiet"; to obtain true happiness, "every passion ought to be moderated and restrained, requiring more the bridle than the spur". <ref type="bibr">45</ref> Toward the denouement of Sense and Sensibility, Marianne endeavours to "appear cheerful and easy" (249), and she embraces a new relationship with Colonel Brandon, an affable gentleman considerably older than herself. The narrator offers no explicit reason for Marianne's decision to marry him. All we know is that her family, eager for her union with Colonel Brandon, encourages this match, and that Marianne is moved by "his goodness" and "his fond attachment to herself" (267). Marianne's "more calm and sober judgment", which once compelled her to vow lifelong singlehood, does not preclude her from "submitting to new attachments" (268). This suggests a moment of balance in which Marianne reconciles her former romantic ideals with the practical realities of enduring affection. Marianne's union with Colonel Brandon, as Austen suggests, is where her happiness is derived. In the next part, I will elaborate on this salient point.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>The Happiness of Marianne and Elinor</head><p>Of particular import in Sense and Sensibility is its denouement, wherein Marianne accepts Colonel Brandon as her husband. While Marianne's initial claim that she would not marry should not be taken at face value, we still need to consider the ramifications of remaining unwed for women. During the eighteenth and early nineteenth centuries, an unmarried woman was susceptible to penury and compelled to be dependent on her father or brothers for economic support. <ref type="bibr">46</ref> Austen, though a spinster herself, has <ref type="bibr">43</ref> Emsley, Jane Austen's Philosophy of the Virtues, 13. <ref type="bibr">44</ref> Nettleton, A Treatise on Virtue and Happiness, 127. <ref type="bibr">45</ref> Ibid., 236-7. <ref type="bibr">46</ref> The predicament of unmarried women is exemplified by the experience of Austen and her sister Cassandra, both of whom, following their father's demise in 1805, had to live an unstable life with their mother. Austen's motivation to write novels stemmed, in part, from her desire to achieve economic independence through publishing her works.</p><p>her heroines conform to social conventions and embrace the institution of marriage, including Emma Woodhouse, who, endowed with favourable economic circumstances, remarks that "a single woman, of good fortune, is always respectable". <ref type="bibr">47</ref> Marianne, lacking a substantial fortune as Emma does, faces a distinctly precarious predicament and is unlikely to lead a decent life if unwed. <ref type="bibr" target="#b1">48</ref> According to the narrator, Mrs. Dashwood and her three daughters, with an annual income of £500, can only "live so cheap", with "no carriage, no horses, and hardly any servants" (12). Here, the conspicuous absence of the amenities and servants underscores the straitened circumstances of the Dashwood family, making marriage a crucial means of obtaining financial stability and social standing for women like Marianne and Elinor. Marriage, as noted by Deborah Kaplan, "was the only option that enabled women of the lesser gentry to secure their social status economically". <ref type="bibr" target="#b2">49</ref> While Emma can maintain relative respectability even without getting married, Marianne is confronted with the daunting prospect of sinking into a far less favourable situation, much akin to the plight of Miss Bates in Emma, who is a poor spinster living with her mother Mrs. Bates. Despite Austen's discontentment with the constrictions imposed on women, she endorses the institution of marriage, portraying it as an important source of happiness in her novels. <ref type="bibr" target="#b3">50</ref> Marianne undergoes profound metamorphosis through her romantic journey, one that affords her a deep understanding of love, marriage, and happiness. Having learned the truth about Willoughby, she candidly acknowledges that she "never could have been happy with him", as he has never considered her happiness as "his object" (247-8). Willoughby's affection for Marianne might be strong, but it is, as Elinor says, "much less certain" (248). In contrast, Colonel Brandon's devotion to Marianne is "earnest, tender, constant" (238). Given Marianne's staunch emphasis on constancy and sincerity, her true happiness resides in the union with Colonel Brandon, who can offer her unwavering, reliable, and genuine companionship. Their marriage, as Mary Waldron argues, exemplifies "a thoroughly romantic alliance" rather than "a prosaic practical solution" because the two "are alike" and the Colonel "is the nearest approach to a romantic figure among the men". <ref type="bibr" target="#b4">51</ref> In this sense, the fact that Austen marries off her heroine at the end of the novel does not suffice to confirm her ideological conservatism; rather, such a resolution suggests her romantic and liberal thoughts. <ref type="bibr">52.</ref> Readers, of course, have reason to find Marianne's marriage disappointing, but Peter Graham notes that scholars often interpret it as an "example of moral realism", one that mirrors "the social realities of Austen's time". <ref type="bibr" target="#b6">53</ref> Austen's commitment to this moral realism is also substantiated by the respective marriages of Willoughby and Lucy, both of whom go unpunished. For example, despite Willoughby's egregious misconduct toward Eliza and Marianne, the novel's conclusion reveals that he not only secures his aunt Mrs. Smith's forgiveness, but also attains "no inconsiderable degree of domestic felicity" (268). We recall Willoughby's earlier lament that "[d]omestic happiness is out of the question" due to his failure to base his marital choice on a judicious consideration of "honour", "feeling", and "every better interest" (235). He regrets that by marrying Sophia Grey and "raising [himself] to affluence", he has forfeited love and joy that could have rendered affluence "a blessing" (227). Willoughby's remark implies that wealth, when unaccompanied by genuine affection and emotional fulfilment, may lose its meaning in a marriage. The fact that Willoughby "is ultimately not unhappy in a marriage that yoked him with a woman he disliked" leads the nineteenth-century critic Richard Simpson to contend that "Miss Austen believed in the ultimate possible happiness of every marriage" and that "the great coil Miss Austen makes to bring the right people together is really much ado about nothing". <ref type="bibr">54</ref> Here, I disagree with Simpson, as he not only underestimates the obstacles to a truly happy union between an Austen hero and heroine, but he also fails to see that companionate marriage, which is based on compatibility, mutual respect, and shared values, is the right kind of marriage that Austen thinks is worth striving for. Tony Tanner asserts that the prevalence of "so many bad, or bleakly empty marriages" in Austen's novels "only underlines the imperative of finding a good marriage no matter what the obstacles". <ref type="bibr">55</ref> Similarly, Graham observes that though a character like Willoughby "can take some satisfaction in embracing a culturally determined gender role even if denied a congenial partner", it is but "cold comfort" compared with the "cultural ideal" of "companionate marriage". <ref type="bibr">56</ref> Even if Willoughby does appear to "enjoy himself", true happiness eludes him, for he has forever lost Marianne, "his secret standard of perfection in woman" (268). It is likely that Willoughby's enjoyment, as the narrator suggests, stems less from conjugal happiness than from his pursuit of leisure activities like raising horses and dogs and hunting. Just as he "was forced to play the happy lover to" Sophia prior to their nuptials (232), he may persist in the charade of a happy husband after marriage.</p><p>Willoughby's avarice is certainly detestable, but it is noteworthy that wealth is indeed an important factor in the pursuit of happiness. Marianne initially disputes the correlation between wealth and happiness, but surprisingly, she wants two thousand pounds a year, saying: "Beyond a competence, it can afford no real satisfaction, as far as mere self is concerned" (67). Such a paradoxical stance suggests a tacit recognition, on Marianne's part, of the intrinsic relationship between wealth and happiness. Marianne's use of the term "competence" resonates with Jane West's discourse on "the consideration of competence" in Letters to a Young Lady, in which West argues that a woman "is very unlikely to feel herself happy in a station of life below that which she filled in her single state. An income inadequate to our real (not our imaginary) wants, is a calamity of sufficient weight to overthrow the fairest fabric of happiness, and to oppress the most amiable temper". <ref type="bibr">57</ref> West further states that "Competence [is] necessary in marriage". 58 <ref type="bibr">54</ref> Simpson, "Richard Simpson on Jane Austen, 1870", 247. <ref type="bibr">55</ref> Tanner, Jane Austen, 10. <ref type="bibr">56</ref> Graham, "Sense and Sensibility, Novel and Phenomenon", 35. <ref type="bibr">57</ref> West, Letters to a Young Lady, 379, italics in the original. <ref type="bibr">58</ref> Ibid., 501.</p><p>In Sense and Sensibility, had Marianne married Willoughby, the latter's "very small income" and proclivity for "expensiveness" would have condemned them both to "pecuniary distresses" (248-9), as Elinor predicts, rather than affording them happiness. Colonel Brandon's fortune, which "must be a good one" (240), can nevertheless provide Marianne with external comfort and financial stability. Their union is a desirable one in which love gives wealth purpose while wealth, in turn, fortifies and sustains the enduring love between them.</p><p>Colonel Brandon merits some attention, for he not only brings Marianne happiness but also contributes to the happiness of Elinor by offering Edward a benefice, though the woman whom Edward is about to marry at this stage is Lucy rather than Elinor. Having heard about Edward's financial straits and the injustice he "has suffered from his family", Colonel Brandon offers him a living out of "general benevolence" and "great compassion" (199-200). He could have sold the living for pecuniary advantage, but instead bestows it upon Edward, a gesture that indicates his genuine care for the welfare of others. 59 Discussing Cononel Brandon's benevolence which implies Austen's political thoughts, Peter Knox-Shaw has noted that "the dispersive aspects of benevolence are at the centre of attack" in the context of the post-Revolutionary debate, and he argues that by depicting Colonel Brandon's "general benevolence" and by distinguishing it from "particular friendship", Austen sides with "the expansionists". <ref type="bibr">60</ref> This alignment with Enlightenment liberalism complicates readings that position Austen simply as a conservative.</p><p>That Austen has a balanced consideration of romantic love and material concerns, as indicated by Colonel Brandon's benevolent act, is further underscored in Elinor's felicitous union with Edward following Lucy's audacious elopement with Robert Ferrars, a man who, as D. A. Miller opines, is "remote from the erotic interest in women that is courtship's prerequisite". 61 Robert's "unheterosexual attitude", a term aptly employed by <ref type="bibr">Miller,</ref><ref type="bibr">62</ref> is reflected in his fastidious selection of a toothpick-case at Gray's, an act that monopolises his attention to the extent that he has "no leisure to bestow any other attention on" Elinor and Marianne (156). Just as he selects an exquisite toothpick-case to remain "in the first style of fashion" and thereby gratify his own vanity (156), his decision to marry Lucy, a "merest awkward country girl, without style, or elegance, and almost without beauty" (212), is governed not by any genuine affection or erotic inclination but by the "vanity" assiduously nourished by Lucy's "flattery" (257). As for Lucy, her decision to renege on her engagement to Edward ultimately extricates the latter "from an entanglement which had long formed his misery", for Edward chooses to remain committed to marrying "a woman whom he had long ceased to <ref type="bibr">59</ref> During the eighteenth and early nineteenth centuries, landlords commonly bestowed livings upon their younger sons or relatives, with the option to sell the livings for monetary gain. Edward initially harbours skepticism about Colonel Brandon's "goodness", attributing his generosity to Elinor's "solicitation" (205). Colonel Brandon's kindness toward Edward is likely driven by both compassion and an attempt to please the Dashwood family. Elinor conjectures that it is "the general benevolence" and "the particular friendship" that have "prompted Colonel Brandon to this act" (200). 60 Knox-Shaw, Jane Austen and the Enlightenment, 144. <ref type="bibr">61</ref> Miller, Jane Austen, or The Secret of Style, 15. 62 Ibid., 16. Miller, with a special focus on the shopping scene at Gray's, has astutely observed the "unheterosexual effeminacy" of Robert Ferrars, pointing out that given that "[a]ll of Austen's other pokey shoppers are female" (18), the conspicuous amount of time a male figure such as Robert devotes to shopping constitutes an anomaly in Austen's novels. For a detailed discussion of the difference between Robert and the female characters with a penchant for shopping, see Miller, 18-19.  love" out of "duty" rather than "feelings" (255, 259). Considering Lucy's rapacious disposition and Edward's conspicuous disinterest in the pursuit of wealth and politics, it is conceivable that Edward is unable to satisfy Lucy's insatiable vanity, and their loveless marriage would assuredly flounder. The ideal wife that can bring Edward happiness is Elinor, who secures Edward's genuine affection and requires lesser competence. Both Elinor and Edward, however, are keenly aware that an annual income of 350 pounds will scarcely suffice to "supply them with the comforts of life" (261). A lack of money, therefore, constitutes the sole impediment to their matrimonial happiness. In order to grant them an enduring union, Austen not only has Colonel Brandon give Edward a living, but also orchestrates the reconciliation between Edward and his mother Mrs.</p><p>Ferrars at the end of the novel. According to the narrator, Mrs. Ferrars would likely assist Edward and Elinor in "augmenting their income" (264). Supported by both love and wealth, the union between Elinor and Edward exemplifies the "happiest" marriage "made on rational grounds-on suitableness of character, degree, and fortune-on mutual esteem, and the prospect of a real and permanent friendship", to use Hester Chapone's words in Letters on the Improvement of the Mind. <ref type="bibr">63</ref> Chapone inveighs against the practice of women marrying men for pecuniary advantage, denouncing such unions as "a detestable prostitution". 64 Lucy's marriage to Robert in Sense and Sensibility, though falling short of the detestable prostitution decried by Chapone, offers no promise of true happiness, for it is devoid of genuine affection and fraught with "frequent domestic disagreements" (267). Despite Lucy's self-serving behaviour that betrays a morally dubious disposition, Austen knows well that marriage, especially a financially advantageous one, is often considered as the primary goal for a woman like Lucy, who hails from a socially and financially modest background. In the early nineteenth century, marriage held significant implications for individuals and society at large, acting as a means of preserving wealth, social status, and family connections. The narrator's description of Lucy's behaviour-one that "may be held forth as a most encouraging instance of what an earnest, an unceasing attention to self-interest" at the expense of "time and conscience" (266)-is less a cheerful endorsement of Lucy's success than a satirical exposure of the hypocrisies permeating the marriage market. Lucy succeeds precisely because she understands and dexterously manipulates its rules better than those morally scrupulous characters like Elinor and Marianne. Lucy's attainment of a lucrative marriage, unaccompanied by serious moral retribution, suggests an unsettling reality that rather than punish the opportunists, the society in which Austen lived, as Lynda A. Hall argues, "rewards the unscrupulous". 65 Yet, Austen's depiction of Lucy's victory is far from an unequivocal affirmation; it functions instead as a biting satire of the materialism and opportunism inherent in social order. She shows us how politeness can produce outward success even as it corrodes moral substance, and she also evinces a deep concern for "the essentially anarchic nature of human relationships and the pitfalls in the honest quest for right action". 66. <ref type="bibr">63</ref> Chapone, Letters on the Improvement of the <ref type="bibr">Mind,</ref><ref type="bibr">193. 64 Ibid.,</ref><ref type="bibr">193. 65 Hall,</ref><ref type="bibr">Women and 'Value' in Jane Austen's Novels,</ref><ref type="bibr">134. 66</ref> Waldron, Jane Austen and the Fiction of Her Time, 83.</p><p>That vice goes unpunished by no means diminishes the significance of morals, which are worth pursuing, for they can, in Austen's view, counterbalance excessive materialism and paradoxically bring about material security. In Edward's case, his "own merit" (205), as Elinor explains to him, has prompted Colonel Brandon to give him the benefice. Elinor holds Edward's "sense" and "goodness" in high esteem (17), regarding these attributes as hallmarks of his true worth. Austen suggests to us that true happiness is closely related to ethical accountability; it is neither unmerited nor capriciously bestowed but is predicated on an individual's moral conscience and actions. That is why Austen thwarts the ill-fated union between Edward and Lucy at a crucial juncture, vouchsafing instead happiness to Edward and Elinor. Kristine Hansen emphasises the importance of morals in marriage, arguing that Austen's heroes and heroines "enter into marriage not because they are wellmatched in rank and fortune, but because they are well-matched in virtue". <ref type="bibr">67</ref> Both Elinor and Marianne achieve happiness without making moral compromises. By contrasting the two heroines' marriages-which are emblematic of an ethical balance between happiness and materialism-with Lucy's calculated approach that yields superficial success, Austen critiques cold materialism, demonstrating that a marriage fortified by love, material security, and moral integrity is a truly happy and enduring one.</p><p>The happiness of Elinor and Marianne at the end of the novel suggests not a capitulation to the conservative conventions of matrimonial closure but an affirmation of Austen's emphasis on romantic love and ethical balance as the cornerstone of both personal fulfilment and social harmony. Unlike Lucy's marriage, the marriages of Elinor and Marianne, which are based on reason, feeling, and responsibility, neither sacrifice personal desires for social norms nor indulge self-interest at the expense of familial and communal harmony. Rather, the two heroines "could live without disagreement between themselves" and have a positive influence on the stability of Delaford after marriage (269). As a clergyman's wife with a strong sense of responsibility, Elinor will wholeheartedly assist Edward in religious affairs. As for Marianne, she will be "entering on new duties, placed in a new home, a wife, the mistress of a family, and the patroness of a village" (268). If "the lesser duties" that Marianne has earlier acknowledged pertain to decorum and propriety (246), then the "new duties" she will undertake entail attending to domesticity and contributing to the stability of social community. Austen assures us that Marianne can secure the happiest marriage she ever desires and that a hard-won balance she has achieved can lead to both personal happiness and social good.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Disclosure Statement</head><p>No potential conflict of interest was reported by the author(s). ---. Jane Austen's Letters, edited by Deirdre Le Faye, 3rd ed., Oxford: Oxford University Press, 1997.</p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head>Bibliography</head><label></label><figDesc>Auerbach, Emily. "An Excellent Heart: Sense and Sensibility." In Bloom's Modern Critical Views: Jane Austen, edited by Harold Bloom, 251-277. New York: Infobase Publishing, 2009. Austen, Jane. Emma, edited by Stephen M. Parrish. 3rd ed., New York: W. W. Norton, 2000.</figDesc></figure>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="24" xml:id="foot_0"><p>Shmidt, "Indulged Sensibility", 427.   </p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="10" xml:id="foot_1"><p>Z. SHEN</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="67" xml:id="foot_2"><p>Hansen, "Replacing Romantic Sentiments with Just Opinions", 660. 16 Z. SHEN</p></note>
+		</body>
+		<back>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">Emma</forename><surname>Austen</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="page">56</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<monogr>
+		<title level="m" type="main">There is, of course, another noticeable difference between Marianne and Emma; that is, Marianne&apos;s reluctance to marry results from her disillusion with romantic love after Willoughby deceives her, whereas Emma&apos;s sexual desire is not awakened until the appearance of her rival</title>
+		<imprint>
+			<pubPlace>Harriet Smith</pubPlace>
+		</imprint>
+	</monogr>
+	<note>who makes Emma realise her ardent love for Knightley</note>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">Jane</forename><surname>Kaplan</surname></persName>
+		</author>
+		<imprint>
+			<date>Austen among Women, 21</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<monogr>
+		<title level="m" type="main">Deborah Kaplan has noted that &quot;in the years after 1802, she [Austen] continued to endorse marriage for women&quot; and she &quot;also continued to be an earnest advocate of women&apos;s deferential role</title>
+		<imprint>
+			<biblScope unit="page" from="119" to="120" />
+		</imprint>
+	</monogr>
+	<note>Invoking Austen&apos;s letters. See Kaplan, Jane Austen among Women</note>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<monogr>
+		<author>
+			<persName><surname>Waldron</surname></persName>
+		</author>
+		<title level="m">Jane Austen and the Fiction of Her Time</title>
+		<imprint>
+			<biblScope unit="page">82</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title level="a" type="main">Austen&apos;s allegiance to conservative social values is proven by the inevitability of marriage in her novels&quot;, argues that in contrast to such conservative female writers as Elizabeth Hamilton and Jane West who &quot;minimize and even dismiss the importance of love as a precondition of marriage</title>
+		<author>
+			<persName><forename type="first">Claudia</forename><forename type="middle">L</forename><surname>Johnson</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Austen in fact &quot;puts a premium on it</title>
+		<imprint>
+			<biblScope unit="page" from="89" to="90" />
+		</imprint>
+	</monogr>
+	<note>by interrogating the prevailing belief that. See Johnson, Women, Politics, and the Novel</note>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<monogr>
+		<title level="m" type="main">Sense and Sensibility, Novel and Phenomenon</title>
+		<author>
+			<persName><surname>Graham</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="page">35</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<monogr>
+		<title level="m">Sense and Sensibility</title>
+		<editor>
+			<persName><forename type="first">Claudia</forename><forename type="middle">L</forename><surname>Johnson</surname></persName>
+		</editor>
+		<meeting><address><addrLine>New York</addrLine></address></meeting>
+		<imprint>
+			<publisher>W. W. Norton</publisher>
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<monogr>
+		<author>
+			<persName><forename type="first">Austen-Leigh</forename></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">E</forename></persName>
+		</author>
+		<title level="m">A Memoir of Jane Austen and Other Family Recollections</title>
+		<editor>
+			<persName><forename type="first">Kathryn</forename><surname>Sutherland</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Oxford</addrLine></address></meeting>
+		<imprint>
+			<publisher>Oxford University Press</publisher>
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<monogr>
+		<author>
+			<persName><forename type="first">Marilyn</forename><surname>Butler</surname></persName>
+		</author>
+		<title level="m">Jane Austen and the War of Ideas</title>
+		<meeting><address><addrLine>Oxford</addrLine></address></meeting>
+		<imprint>
+			<publisher>Clarendon University Press</publisher>
+			<date type="published" when="1975">1975</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<monogr>
+		<author>
+			<persName><forename type="first">Hester</forename><surname>Chapone</surname></persName>
+		</author>
+		<title level="m">Letters on the Improvement of the Mind, Addressed to a Young Lady</title>
+		<meeting><address><addrLine>London</addrLine></address></meeting>
+		<imprint>
+			<publisher>H. Hughs</publisher>
+			<biblScope unit="volume">1</biblScope>
+			<biblScope unit="page">1773</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<monogr>
+		<author>
+			<persName><forename type="first">Jenny</forename><surname>Davidson</surname></persName>
+		</author>
+		<title level="m">Hypocrisy and the Politics of Politeness: Manners and Morals from Locke to Austen</title>
+		<meeting><address><addrLine>Cambridge</addrLine></address></meeting>
+		<imprint>
+			<publisher>Cambridge University Press</publisher>
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<monogr>
+		<author>
+			<persName><forename type="first">Sarah</forename><surname>Emsley</surname></persName>
+		</author>
+		<title level="m">Jane Austen&apos;s Philosophy of the Virtues</title>
+		<meeting><address><addrLine>New York</addrLine></address></meeting>
+		<imprint>
+			<publisher>Palgrave Macmillan</publisher>
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<monogr>
+		<author>
+			<persName><forename type="first">Sandra</forename><forename type="middle">M</forename><surname>Gilbert</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Susan</forename><surname>Gubar</surname></persName>
+		</author>
+		<title level="m">The Madwoman in the Attic: The Woman Writer and the Nineteenth-Century Literary Imagination</title>
+		<meeting><address><addrLine>New Haven and London</addrLine></address></meeting>
+		<imprint>
+			<publisher>Yale University Press</publisher>
+			<date type="published" when="2000">2000</date>
+		</imprint>
+	</monogr>
+	<note>nd ed.</note>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<monogr>
+		<author>
+			<persName><forename type="first">Christopher</forename><surname>Gillie</surname></persName>
+		</author>
+		<title level="m">A Preface to Austen</title>
+		<meeting><address><addrLine>Harlow</addrLine></address></meeting>
+		<imprint>
+			<publisher>Pearson Education</publisher>
+			<date type="published" when="1985">1985</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title level="a" type="main">Sense and Sensibility, Novel and Phenomenon</title>
+		<author>
+			<persName><forename type="first">Peter</forename><surname>Graham</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">The Routledge Companion to Jane Austen</title>
+		<editor>
+			<persName><forename type="first">Cheryl</forename><forename type="middle">A</forename><surname>Wilson</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">Maria</forename><forename type="middle">H</forename><surname>Frawley</surname></persName>
+		</editor>
+		<meeting><address><addrLine>New York</addrLine></address></meeting>
+		<imprint>
+			<publisher>Routledge</publisher>
+			<date type="published" when="2022">2022</date>
+			<biblScope unit="page" from="23" to="39" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<monogr>
+		<title level="m" type="main">Literary Criticism from Plato to the Present: An Introduction</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">A R</forename><surname>Habib</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2011">2011</date>
+			<publisher>Wiley-Blackwell</publisher>
+			<pubPlace>Malden</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<monogr>
+		<title level="m" type="main">Women and &apos;Value&apos; in Jane Austen&apos;s Novels: Settling, Speculating and Superfluity</title>
+		<author>
+			<persName><forename type="first">Lynda</forename><forename type="middle">A</forename><surname>Hall</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2017">2017</date>
+			<publisher>Palgrave Macmillan</publisher>
+			<pubPlace>Cham</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<analytic>
+		<title level="a" type="main">Replacing Romantic Sentiments with Just Opinions: How Austen&apos;s Novels Function like Wollstonecraft&apos;s &apos;Judicious Person&apos;</title>
+		<author>
+			<persName><forename type="first">Kristine</forename><surname>Hansen</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Women&apos;s Studies: An Interdisciplinary Journal</title>
+		<imprint>
+			<biblScope unit="volume">49</biblScope>
+			<biblScope unit="issue">6</biblScope>
+			<biblScope unit="page" from="652" to="685" />
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<analytic>
+		<title level="a" type="main">The Dilemma of Emma: Moral, Ethical, and Spiritual Values</title>
+		<author>
+			<persName><forename type="first">Karin</forename><surname>Jackson</surname></persName>
+		</author>
+		<ptr target="https://jasna.org/persuasions/on-line/vol21no2/jackson.html?Johnson" />
+	</analytic>
+	<monogr>
+		<title level="m">Claudia L. Jane Austen: Women, Politics, and the Novel</title>
+		<meeting><address><addrLine>Chicago</addrLine></address></meeting>
+		<imprint>
+			<publisher>University of Chicago Press</publisher>
+			<date type="published" when="1988">2000. 1988</date>
+			<biblScope unit="volume">21</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<analytic>
+	</analytic>
+	<monogr>
+		<title level="m">Sweet Face as White as Death&apos;: Jane Austen and the Politics of Female Sensibility</title>
+		<imprint>
+			<date type="published" when="1989">1989</date>
+			<biblScope unit="volume">22</biblScope>
+			<biblScope unit="page" from="159" to="174" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<monogr>
+		<author>
+			<persName><forename type="first">Claudia</forename><forename type="middle">L</forename><surname>Johnson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Clara</forename><surname>Tuite</surname></persName>
+		</author>
+		<title level="m">30 Great Myths about Jane Austen</title>
+		<meeting><address><addrLine>Hoboken</addrLine></address></meeting>
+		<imprint>
+			<publisher>Wiley-Blackwell</publisher>
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<monogr>
+		<title level="m" type="main">The History of Rasselas, Prince of Abissinia</title>
+		<author>
+			<persName><forename type="first">Samuel</forename><surname>Johnson</surname></persName>
+		</author>
+		<editor>Thomas Keymer</editor>
+		<imprint>
+			<date type="published" when="2009">2009</date>
+			<publisher>Oxford University Press</publisher>
+			<pubPlace>Oxford</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<analytic>
+	</analytic>
+	<monogr>
+		<title level="m">The Idler, with Additional Essays</title>
+		<meeting><address><addrLine>London</addrLine></address></meeting>
+		<imprint>
+			<biblScope unit="volume">2</biblScope>
+			<biblScope unit="page">1800</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<monogr>
+		<author>
+			<persName><forename type="first">Deborah</forename><surname>Kaplan</surname></persName>
+		</author>
+		<title level="m">Jane Austen among Women</title>
+		<meeting><address><addrLine>Baltimore and London</addrLine></address></meeting>
+		<imprint>
+			<publisher>Johns Hopkins University Press</publisher>
+			<date type="published" when="1992">1992</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<monogr>
+		<author>
+			<persName><forename type="first">Tom</forename><surname>Keymer</surname></persName>
+		</author>
+		<title level="m">Jane Austen: A Very Short Introduction</title>
+		<meeting><address><addrLine>Oxford</addrLine></address></meeting>
+		<imprint>
+			<publisher>Oxford University Press</publisher>
+			<date type="published" when="2022">2022</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<monogr>
+		<author>
+			<persName><forename type="first">Peter</forename><surname>Knox-Shaw</surname></persName>
+		</author>
+		<title level="m">Jane Austen and the Enlightenment</title>
+		<meeting><address><addrLine>Cambridge</addrLine></address></meeting>
+		<imprint>
+			<publisher>Cambridge University Press</publisher>
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b27">
+	<monogr>
+		<author>
+			<persName><forename type="first">Thomas</forename><surname>Mcfarland</surname></persName>
+		</author>
+		<title level="m">Romantic Cruxes: The English Essayists and the Spirit of the Age</title>
+		<meeting><address><addrLine>Oxford</addrLine></address></meeting>
+		<imprint>
+			<publisher>Clarendon Press</publisher>
+			<date type="published" when="1987">1987</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b28">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">Patricia</forename><surname>Menon</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Eliot</forename><surname>Austen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Charlotte</forename><surname>Brontë</surname></persName>
+		</author>
+		<author>
+			<persName><surname>The Mentor-Lover</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2003">2003</date>
+			<publisher>Palgrave Macmillan</publisher>
+			<pubPlace>Basingstoke</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b29">
+	<monogr>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">A</forename><surname>Miller</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Jane Austen</surname></persName>
+		</author>
+		<title level="m">Strictures on the Modern System of Female Education: With a View of the Principles and Conduct Prevalent among Women of Rank and Fortune</title>
+		<meeting><address><addrLine>More, Hannah; London</addrLine></address></meeting>
+		<imprint>
+			<publisher>T. Cadell and W. Davies</publisher>
+			<date type="published" when="2003">2003</date>
+			<biblScope unit="volume">2</biblScope>
+			<biblScope unit="page">1811</biblScope>
+		</imprint>
+	</monogr>
+	<note>The Secret of Style. Princeton and Oxford. th ed.</note>
+</biblStruct>
+
+<biblStruct xml:id="b30">
+	<analytic>
+		<title level="a" type="main">Polite Lies: The Veiled Heroine of Sense and Sensibility</title>
+		<author>
+			<persName><forename type="first">Susan</forename><surname>Morgan</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nineteenth-Century Fiction</title>
+		<imprint>
+			<biblScope unit="volume">31</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="188" to="205" />
+			<date type="published" when="1976">1976</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b31">
+	<monogr>
+		<author>
+			<persName><forename type="first">Thomas</forename><surname>Nettleton</surname></persName>
+		</author>
+		<title level="m">London: S. Birt, 1742. Percival, Thomas. A Father&apos;s Instructions; Consisting of Moral Tales, Fables, and Reflections</title>
+		<editor>
+			<persName><forename type="first">J</forename><surname>Johnson</surname></persName>
+		</editor>
+		<meeting><address><addrLine>London</addrLine></address></meeting>
+		<imprint>
+			<biblScope unit="volume">4</biblScope>
+			<biblScope unit="page">1779</biblScope>
+		</imprint>
+	</monogr>
+	<note>rd ed.. th ed.</note>
+</biblStruct>
+
+<biblStruct xml:id="b32">
+	<monogr>
+		<author>
+			<persName><forename type="first">Mary</forename><surname>Poovey</surname></persName>
+		</author>
+		<title level="m">The Proper Lady and the Woman Writer: Ideology as Style in the Works of Mary Wollstonecraft, Mary Shelley, and Jane Austen</title>
+		<meeting><address><addrLine>Chicago</addrLine></address></meeting>
+		<imprint>
+			<publisher>University of Chicago Press</publisher>
+			<date type="published" when="1984">1984</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b33">
+	<analytic>
+		<title level="a" type="main">Dramatizing Intimacy: Confessions and Free Indirect Discourse in Sense and Sensibility</title>
+		<author>
+			<persName><forename type="first">Rebecca</forename><surname>Richardson</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">ELH</title>
+		<imprint>
+			<biblScope unit="volume">81</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="225" to="244" />
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b34">
+	<analytic>
+		<title level="a" type="main">Jane Austen and the Moralists</title>
+		<author>
+			<persName><forename type="first">Gilbert</forename><surname>Ryle</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Critical Essays on Jane Austen</title>
+		<editor>
+			<persName><forename type="first">B</forename><forename type="middle">C</forename><surname>Southam</surname></persName>
+		</editor>
+		<meeting><address><addrLine>London</addrLine></address></meeting>
+		<imprint>
+			<publisher>Routledge &amp; Kegan Paul</publisher>
+			<date type="published" when="1968">1968</date>
+			<biblScope unit="page" from="106" to="122" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b35">
+	<analytic>
+		<author>
+			<persName><forename type="first">Eve</forename><surname>Sedgwick</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Kosofsky</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Jane Austen and the Masturbating Girl</title>
+		<imprint>
+			<date type="published" when="1991">1991</date>
+			<biblScope unit="volume">17</biblScope>
+			<biblScope unit="page" from="818" to="837" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b36">
+	<monogr>
+		<title level="m" type="main">Characteristics of Men, Manners, Opinions, Times</title>
+		<author>
+			<persName><forename type="first">Anthony</forename><forename type="middle">Ashley</forename><surname>Shaftesbury</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Earl</forename><surname>Cooper</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Of</surname></persName>
+		</author>
+		<editor>Lawrence E. Klein</editor>
+		<imprint>
+			<date type="published" when="2000">2000</date>
+			<publisher>Cambridge University Press</publisher>
+			<pubPlace>Cambridge</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b37">
+	<analytic>
+		<title level="a" type="main">Had I Died, It Would Have Been Self-Destruction&apos;: Indulged Sensibility and Retaliatory Illness in Austen&apos;s Sense and Sensibility</title>
+		<author>
+			<persName><forename type="first">Jane</forename><surname>Shmidt</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">English Studies</title>
+		<imprint>
+			<biblScope unit="volume">100</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="422" to="437" />
+			<date type="published" when="2019">2019</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b38">
+	<analytic>
+		<title level="a" type="main">Richard Simpson on Jane Austen, 1870</title>
+		<author>
+			<persName><forename type="first">Richard</forename><surname>Simpson</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Jane Austen: The Critical Heritage</title>
+		<editor>
+			<persName><forename type="first">B</forename><forename type="middle">C</forename><surname>Southam</surname></persName>
+		</editor>
+		<meeting><address><addrLine>London and New York</addrLine></address></meeting>
+		<imprint>
+			<publisher>Routledge</publisher>
+			<date type="published" when="2005">2005</date>
+			<biblScope unit="volume">1</biblScope>
+			<biblScope unit="page" from="243" to="263" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b39">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">Tony</forename><forename type="middle">Jane</forename><surname>Tanner</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Austen</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1986">1986</date>
+			<publisher>Macmillan Education</publisher>
+			<pubPlace>Basingstoke</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b40">
+	<analytic>
+		<title level="a" type="main">Letters to a Young Lady, in Which the Duties and Character of Women Are Considered, Chiefly with a Reference to Prevailing Opinions</title>
+		<author>
+			<persName><forename type="first">Mary</forename><surname>Waldron</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Jane Austen and the Fiction of Her Time</title>
+		<meeting><address><addrLine>Cambridge; West, Jane; New York</addrLine></address></meeting>
+		<imprint>
+			<publisher>O. Penniman</publisher>
+			<date type="published" when="2003">2003</date>
+			<biblScope unit="page">1806</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b41">
+	<monogr>
+		<title level="m" type="main">A Vindication of the Rights of Woman</title>
+		<author>
+			<persName><forename type="first">Mary</forename><surname>Wollstonecraft</surname></persName>
+		</author>
+		<editor>Miriam Brody. London</editor>
+		<imprint>
+			<date type="published" when="2004">2004</date>
+			<publisher>Penguin Books</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b42">
+	<analytic>
+		<title level="a" type="main">Admiring Pope No More Than Is Proper: Sense and Sensibility</title>
+		<author>
+			<persName><forename type="first">Everett</forename><surname>Zimmerman</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Jane Austen: Bicentenary Essays</title>
+		<editor>
+			<persName><forename type="first">John</forename><surname>Halperin</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Cambridge</addrLine></address></meeting>
+		<imprint>
+			<publisher>Cambridge University Press</publisher>
+			<date type="published" when="1975">1975</date>
+			<biblScope unit="page" from="112" to="122" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

@@ -1,0 +1,748 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Hieroglyphic Matter in Bacon&apos;s New Atlantis</title>
+				<funder>
+					<orgName type="full">Alexander von Humboldt-Stiftung</orgName>
+				</funder>
+				<funder ref="#_yTynW3b">
+					<orgName type="full">unknown</orgName>
+				</funder>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author role="corresp">
+							<persName><forename type="first">Katrina</forename><forename type="middle">L</forename><surname>Spadaro</surname></persName>
+							<email>katrina.spadaro@fu-berlin.de</email>
+							<affiliation key="aff0">
+								<orgName type="department">Institut für Englische Philologie</orgName>
+								<orgName type="institution">Freie Universität Berlin</orgName>
+								<address>
+									<settlement>Berlin</settlement>
+									<country key="DE">Germany</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">English</forename><surname>Studies</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Institut für Englische Philologie</orgName>
+								<orgName type="institution">Freie Universität Berlin</orgName>
+								<address>
+									<settlement>Berlin</settlement>
+									<country key="DE">Germany</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Hieroglyphic Matter in Bacon&apos;s New Atlantis</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date/>
+						</imprint>
+					</monogr>
+					<idno type="MD5">FA4FFBEB80E3C31D109EA2D57C74EE0B</idno>
+					<idno type="DOI">10.1080/0013838X.2025.2582141</idno>
+					<note type="submission">Received 12 June 2025 Accepted 19 October 2025</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.0" ident="GROBID" when="2026-02-25T19:51+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term>Francis Bacon</term>
+					<term>New Atlantis</term>
+					<term>Utopian fiction</term>
+					<term>hieroglyphs</term>
+					<term>rhetoric</term>
+				</keywords>
+			</textClass>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>This essay charts the status of hieroglyphs in Francis Bacon's writings, considering his praise of these precise and mimetic real characters in tandem with his opposition to modes of rhetorical volubility engendered through copia and varietas. The practice of imitation offers an interface between both models -where promising rhetoricians were trained to imitate Cicero, Bacon presents hieroglyphs as perfect representations of the natural world. I argue that Bacon and William Rawley borrow familiar compositional prompts, but gear the imitative impulse of the orator away from the domain of humanistic learning and towards artisanal constructions of nature. Like hieroglyphs, such simulacra seek to approximate and represent creation in miniature, and in the utopia of New Atlantis they emerge as the implausible endpoint of a society moving further from speech and closer to a regimen of pictographic communication.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>contained thought experiment, this attempt to re-write the history of the most trafficked regions of the early modern world strains the conceptual cohesion of the text and spotlights Bacon's own views of antiquity. Whether Bacon's interest in a lost body of pre-modern knowledge extends beyond the parameters of utopian fiction is a more complex question. His advocacy for a new generation of learning in the Instauratio magna popularised a vision of linear, teleological progress which beleaguers narratives of scientific innovation to this daya vision which leaves little scope for any serious engagement, whether reverential or critical, with antiquity. Yet considerable scholarly effort has now recuperated Bacon's work from long-standing assumptions about its "anti-humanistic" posture; in the words of Rhodri Lewis, he "appropriated some parts of the studia humanitatis, redefined others and rejected those unlikely to bear fruit." 2 This "eclectic" engagement with humanism extends to an interest in the ancient world as a repository of classical wisdom, and Bacon's explication of myths as allegories for nature and scientific practice in The Wisdom of the Ancients (1609) represents a more curious and generous approach to antiquity than is sometimes inferred. Yet The Wisdom of the Ancients also exhibits Bacon's interest in deeper antiquityin particular, the practices of ancient Egyptover the more recent Greco-Roman civilisations which tended to draw the majority of humanist interest. In fact, Bacon is highly dismissive of Hellenistic culture, writing that there "could be no great or high matter expected, or supposed to proceed from them in respect of these originals", but asserting that myths are "sacred reliques or abstracted ayres of better times, which by tradition from more ancient Nations fell into the Trumpets and Flutes of the Graecians". <ref type="bibr">3</ref> Bacon's main grievance seems to lie with the powerful legacy of classical rhetoric, and the influence it continued to exert on humanist grammar schoolsan influence that valorised Ciceronian oratory and, by his estimates, estranged the study of language from that of the more material sciences. <ref type="bibr">4</ref> In The Advancement of Learning, Bacon lists three "errours and vanities" through which "learning hath been most traduced", and leads with the "affectionate studie of eloquence, and copie of speech" which "grew speedily to an excesse". <ref type="bibr">5</ref> The danger of this pursuit, he continues, was the glorification of verba at the expense of res, as:</p><p>Men began to hunt more after wordes, than matter, and more after the choiseness of the Phrase, and the round and cleane composition of the sentence, and the sweet falling of the clauses, and the varying and illustration of their workes with tropes and figures: then after the weight of matter, worth of subject, soundnesse of argument, life of invention, or depth of judgement. (A, 22)   He presents Pygmalion's "frenzie" as a parable for these excesses, "for words are but the Images of matter, and except they have life of reason and invention, to fall in love with them, is all one, as to fall in love with a Picture" (A, 23). Bacon returns to this theme in the New Organon, where he parses the obstacles to inductive reasoning into four types of "Idol": those of the Tribe, Cave, Marketplace, and Theatre. Here, the Idols of the Marketplacethe philosophical problems of languageemerge in particularly stark terms. Bacon classifies these Idols as "the greatest nuisances of the lot", with the mediation of language fatefully influencing the transmission and reception of knowledge. Too often "words turn back and bend their power back upon the intellect" so as to render scientific study "sophistical and inactive", he warns. <ref type="bibr">6</ref> For Bacon, then, rhetorical volubility risked distracting from the referentthe actual matter of reswith the seductive flair of language standing in for, and even displacing, the mute object of study.</p><p>When Bacon explores this theme in The Advancement of Learning, he probes alternative semiotic systems that might mitigate the problems attending language. These systems consist of real characters (he uses the Chinese script, hieroglyphs and gestures as examples), which offer a precise, unconvoluted correspondence between sign and referent. He concedes that of these "Characters reall" some "hath some Similitude, or Congruitie with the Notion" (hieroglyphs and gestures) while others consist of a fixed, though arbitrary, relation between sign and referent (A, 120); yet in each case the elimination of speech might allow researchers to access "the structure of pre-linguistic human thought" and, with it, enable a pure and unmediated engagement with the facts of nature. 7 If Bacon was intrigued by the utility of hieroglyphs in communicating scientific knowledge, however, his exposure to these real characters likely originated in different quarters. Contemporary interest in hieroglyphs was largely fuelled by antiquarian and Hermetic efforts to decipher the characters, with even the earliest stages of humanism evincing a robust strain of Egyptology. Marsilio Ficino himself completed a Latin translation of the writings attributed to Hermes Trismegistusthe Corpus Hermeticum later stimulated much of the early modern Hermetic movementand Horapollo's anthology Hieroglyphica (discovered in 1419) was a popular text amongst fifteenth-century humanists. Despite a number of attempts to decipher hieroglyphs (including Michele Mercati's 1589 De gli obelischi and the discredited translations of Athanasius Kircher), the enduring mystery of the characters inspired many more Hermetic texts treating them as a system of "occult resemblances" harbouring truths from the creation of the world. 8 A popular view maintained that hieroglyphs were derived from an originative form of Hebrew, the language through whichaccording to Heinrich Cornelius Agrippa and Guillaume de Salluste Du Bartasthe world was spoken into being. Kircher approximated this view in his Oedipus Aegyptiacus with the claim that ancient Egyptian was the language spoken by Adam and Eve, while Giordano Bruno interpreted a hieroglyph representing a cross as evidence of an ancient "ur-religion" long pre-dating the incarnation of Christ. Bacon's interest in hieroglyphs, then, reflects a surge of contemporary treatments at the intersection of humanistic study and Hermeticism. Yet, as Martin Elsky and Sidney Warhaft observe, Bacon's perspective deviates from the allegorical readings of Hermeticism, instead embracing hieroglyphs, not as ontological objects in and of themselves, but as transparent and precise signifiers of the natural world. 9 As Pavneet Aulakh argues, Bacon appreciated how hieroglyphs might cut through the confusion 6 Bacon, Oxford Francis Bacon XI, 93. Future references are in-text with the abbreviation N.</p><p>7 Lewis, Language, Mind and Nature, 16.   8   Elsky, Authorizing Words, 168-71. For more on the cabalistic tradition and reception of hieroglyphs in the humanist movement, see Shrieves, "Animate Texts" and Janacek, Alchemical Belief. 9 Elsky, Authorizing Words, 169; Warhaft, "The Providential Order", 49-64.  of language in order to "approximate the status of things themselves, becoming things to think with, instruments capable of breaking through the web of language to reflect matter more directly". <ref type="bibr">10</ref> Such accounts suggest that Bacon's interest in hieroglyphs was driven by semiotic expediencya notion that frustrates attempts to delineate his true interests, insofar as they existed, in antiquity. Here, we might recall critical perspectives that reduce Bacon's engagement with the classics to an act of "lawyerly dissimulation" through which he paved the rugged path to experimentalism, with the antiquity of hieroglyphs serving, not as a crucial component of their appeal, but rather as a convenient nod to humane studies. 11 However, other aspects of Bacon's worldview suggest a deeper appreciation for the ancient world, in particular his theory of a lost philosophia prima: a perfect form of prelapsarian, unitary knowledge. <ref type="bibr">12</ref> The notion of the philosophia prima does not easily map onto contemporary notions of scientific discovery; rather, it emerges as a kind of holistic wisdom that yielded fundamental axioms of the world and maintained a view of the rich interconnectedness of nature. <ref type="bibr">13</ref> The image of Adam naming the creatures in the Garden of Eden served as an emblem of this lost knowledge, with Bacon and later experimentalists promoting this act as a form of scientific labour in which each creature was studied and named based on their innate properties. The synthesis of natural knowledge and speech is a stand-out feature of this scene: Adam's act of naming figures as an accommodation between the "language" of nature and that of the first humans, summoning a vision of primeval semiotic cohesion. As Joanna Picciotto reminds us, the experimentalist view of Eden also reflects the influence of Protestant hermeneutics, with Bacon's Adam standing as "the original reader of God's first book … applying the principle of sola scriptura to nature itself". <ref type="bibr">14</ref> If the Fall instigated this loss of knowledge, it does not seem to occur as a single catastrophic event but rather as a process of attrition that was accelerated through the influence of Greek culture. Socrates is a particular target of Bacon's ire, blamed for having fatefully withdrawn "philosophy and left rhetoric to itself, which by that destitution became but a barren and unnoble science". <ref type="bibr">15</ref> Thus in Bacon's preface to The Wisdom of the Ancients he regrets that "the Antiquities of the first age (except those we find in sacred Writ) were buried in oblivion and silence", a silence he contrasts with the verbosity of rhetorical productionthe "Poeticall fables" of the Greekswhich acted as a "vaile of fiction" coming between "those things which perished, and those which are extant" (W, sig. a5 v ). Yet, he goes on to assert, fables continued to harbour remnants of this lost unitary knowledge despite the contamination of Hellenistic culture, for "it seemes that the Grecians (either by intercourse with the Egyptians or one way or other) had heard something of the Hebrew mysteries" (W, p. 24). Concluding his preface with the observation that "as Hieroglyphicks preceded letters, so parables were more ancient then Arguments" (W, sig. a11 r ), Bacon gestures to a lost age of semiotic cohesion embodied in the pictographic precision of hieroglyphs and the transparent sapientia of myth.</p><p>The particular utility of hieroglyphs in Bacon's worldview, however, comes into sharper focus when compared with another real character system that sparked his interest: the Chinese script. In contrast to the pictographic logic of hieroglyphs, Bacon offers Chinese as an example of real characters that operate ad placitum, "having force only by Contract or Acceptation" (A, 120). This example was highly topical: Juan González de Mendoza's widely-circulated Historia de las cosas más notables, ritos y costumbres del gran reyno de la China (translated as The historie of the great and mightie kingdome of China by Robert Parke in 1588) nourished a growing appetite for information about China, and even represented the first attempt by European printing technologies to recreate Chinese characters. Bacon himself reflects the influence of this spreading Sinophilia when he credits Chinese innovation with two of the three transformative technologies listed in the New Organon (those of gunpowder and the printing press). <ref type="bibr">16</ref> Jonathan E. Lux offers a compelling account of Bacon's intellectual engagement with China, and even traces this interest into New Atlantis; as he observes, many aspects of Bensalem echo accounts of Chinese technologies and policies propagated through publications like Samuel Purchas' Pilgrimage (1613). 17 Yet despite these intriguing connections, a close analysis of New Atlantis suggests that its significative systems are hieroglyphic in nature: in the place of arbitrary or "ad placitum" signs, Bensalem is presented to readers as an experimentalist utopia awash with congruent symbols and pictographs. Glowing crosses and diluvian arks convey divine revelation, enamelled grapes are awarded for fecundity, and Bensalem's citizens often eschew spoken communication for gesturesclassified by Bacon as "Transitorie Hierogliphickes" in The Advancement of Learning (120). This broad definition suggests that hieroglyphs occupied a generative space in Bacon's thinking, and the alignment of hieroglyphs and gestures implicates both communicative strategies in a rich, primordial system of nonverbal semiosis. The term "hieroglyphic matter" deployed in this essay seeks to maintain this expansive view of hieroglyphs, which emerge in New Atlantis as semiotic tools that might both precede and succeed the fraught exigencies of rhetoric. In fact, the pictographic logics of New Atlantis extend beyond a limited view of real characters as concise and expedient semiotic vehicles: instead, I argue that Bacon positions hieroglyphic matter as the product of a highly fruitful mimetic drive. This drive might aid the experimentalist in scientific communication but also, more crucially, in the generation of knowledge itself -Bensalem's scientific infrastructure consists of a number of imitative simulacra which act as dynamic, ecological hieroglyphs and yield powerful insights into nature.</p><p>This essay connects Bacon's interest in mimesis with his writings on natural philosophy, where the best scientific practice is presented as an "imitation" of nature. Introduced in the New Organon and then reiterated in New Atlantis, this interest in the imitation of nature gestures towards two philological contexts: the practices of rhetorical imitatio instilled through the humanist grammar school system, and Bacon's own musings on hieroglyphs as a means of cutting through the entanglements of language and achieving a direct correspondence between sign and referent. These models occupy opposing ends of a semiotic spectrumif imitatio serviced the demands of <ref type="bibr">16</ref> Lux, "'Characters reall'", 192-3. 17 "'Characters reall" ', 198-201.  rhetorical curricula emphasising abundant copia and varietas, the hieroglyphic model whittles signification down to its bare bones, leaving nothing but a direct reflection of the referent. Where one hinged on the successful imitation of rhetorical precedents, then, the other promised to imitate the natural world itself, approximating the primeval language through which Adam assigned names to the animals in perfect correspondence with their properties. In the first part of this essay, I show how Bacon's grievances with language centred on a rhetorical tradition that valorised the metamorphic capacities of verba and, in so doing, muted the metamorphic actualities of matter, with Bacon's deviation from the humanist mainstream emerging starkly through the contested image of Proteus. The challenge that emerges is that of finetuning a representational system that might accurately reflect the dynamism of matter and, in pursuit of this end, Bacon and Rawley transport a series of rhetorical prompts out of the oratorical sphere and into that of nature and the mechanical arts: in New Atlantis, scientists labour to create miniaturised simulacra of ecological phenomena that might disclose the secrets of nature. These dynamic hieroglyphs represent an intriguing final achievement for a utopian society which seems, en masse, to have minimised speech and oratory in favour of pictographic representation.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Moisture, Vicissitude, and the Status of Res</head><p>Bacon's galvanising influence on the seventeenth-century trend towards "plain style" can frustrate attempts to consider his complex, and seemingly contradictory, view of rhetoric on its own terms. The later experimentalists of the 1650s and 60s met Bacon's calls for linguistic precision with an enthusiasm that agitated for the elimination of language altogether. In its place, several Royal Society members presented mathematics as a model of simple, universal signification vacated of subjectivity and ornament -Thomas Sprat's History of the Royal Society of London (1667), for instance, ventures a conceptual link between an idealised "primitive purity" and "Mathematical plainness". <ref type="bibr">18</ref> Yet many scholarly efforts to grapple with "plain style"to the extent that it was pioneered by Bacon, and embraced by subsequent experimentalists like Sprat and John Wilkinsnote a shared tendency towards loudly denouncing rhetoric while making ready recourse to its persuasive tropes and strategies. Several explanations have helped clarify this apparent contradiction, including Vickers' observation that Bacon "made a clear distinction between the language of scientific method and the communication of experiment, and other language" and Ryan J. Stark's suggestion that experimentalists linked Ciceronianism with entelechy and theories of "sublime" form, while accepting rhetoric in other contexts. <ref type="bibr">19</ref> More recently, Joanna Picciotto has suggested that experimentalist objections were not targeted at figurative language in general, but rather "metaphors that did not announce themselves as such" and "'figures of speech' that were mistaken for things themselves". <ref type="bibr">20</ref> This insistence on the visibility of illustrative tools sheds light on Bacon's interest in fables, which he presents as freighted, baroque devices that signal their abstraction from the material worldas he notes in the preface to The Wisdom of the Ancients, many are "so absurd and foolish in the very relation, that they shew, and as it were proclaime a parable afar off" (W, sig. a8 v ).</p><p>In delineating Bacon's views of language, it is useful to remember that his most pronounced expressions of scepticism were not aimed at rhetoric as a practice, but as a field of study driven by a grammar school system that prioritised abundant verbal copia over the "weight" of matter. 21 Followed to its natural endpoint, this perspective suggests that the further natural philosophers were able to estrange themselves from their rhetorical training, the more fruitful their labours promised to be. The central role of prose in Bacon's program supports this theory, and suggests that modes of writing which were indecorous, partial and incomplete were useful tools in executing the hypothesisdriven and reiterative work of science. Following the example of Montaigne, Baconian experimentalism embraced the essai form as a means of nurturing what David Carroll Simon calls an "observational mood"one that might be careless, digressive and liberated from "obsolete premises and distortive passions". <ref type="bibr">22</ref> Yet this narrative can obscure the extent to which Bacon acknowledged the usefulness of formal rhetoric, particularly in the task of galvanising and inspiring the budding natural philosopher. The interventions of Brian Vickers have been among the most effective in recuperating and nuancing Bacon's views on rhetoric; he gestures to Bacon's embrace of persuasive methods such as elocutio, and the importance of analogical reasoning to the experimentalist program (though subsequent critics dispute just how such rhetorical displays might work on the scientist's imagination). <ref type="bibr">23</ref> One of the clearest indicators that Bacon continued to work within the ideas and tropes of humanism is his engagement with a key touchstone of early modern rhetorical training: Erasmus' manual De copia. Erasmus' image of a "rich storehouse" of language, for instance, is borrowed by Bacon in The Advancement of Learning, where he modifies it to emphasise the necessity of action rather than eloquence. <ref type="bibr">24</ref> Likewise, Aulakh's reading shows how The Advancement of Learning echoes the instructions for commonplacing issued in De copia, with Bacon celebrating the sensuous properties of language and encouraging his followers to collect images that might stand as "things" themselves in the process of mental deduction. <ref type="bibr">25</ref> By contrast, Guido Giglioni suggests that Bacon's surplus of images might have the opposite effect, providing "purposefully stumbling material" that impedes eloquence and forces the orator to stray from inherited systems: "for Bacon haesitatio marked the beginning of knowledge, the moment when the thinking activity stopped and refused to proceed along the expected lines of argument". <ref type="bibr">26</ref> This research illuminates a persistent impulse across Bacon's work to <ref type="bibr">21</ref> Gore, "Francis Bacon", 369. <ref type="bibr">22</ref> Simon, Light Without Heat, 1. Before him, Amy Boesky had also noted Montaigne's influence on Bacon's program, arguing that "the perfection of the prose experiment seemed to lie in the opportunities it offered for revision and repetition, for searching again". "Laboratory of Prose", 144. <ref type="bibr">23</ref> Vickers, "Bacon and Rhetoric", 208-10. Jacqueline L. Cowan offers a more recent endorsement of this view, going as far as to suggest that early natural philosophers viewed well-executed poesis as a craft offering the possibility of a "maker's knowledge" which might draw out truths from creation. "The Imagination's Arts", 150. Adam Neff, however, argues that Bacon's attitude towards the imagination is more pessimistic. He suggests that Bacon's career evinces an "initial strain of humanism fading into resigned pessimism about any kind of writing that elicits a strong imaginative response". "The Garden", 141-71. <ref type="bibr">24</ref> Neff, "The Garden", 157. 25 "Seeing Things", 1158. <ref type="bibr">26</ref> Giglioni, "Bacon's Notion of Silva", 251.</p><p>de-centre verba and encourage the scientist to confront matter itselfeven while engaging from within the rhetorical tradition, and appropriating the directives of one of its capstone texts. However, Bacon's engagement with De copia also evinces a pessimism about how challenging the task of spotlighting matterof reconciling res and verbamight be. These difficulties emerge in the contested image of Proteus, which Erasmus uses in De copia as an illustration of how ideas are at their most compelling when they cycle through rhetorical forms, offering creative stimulation to retain the audience's attention.</p><p>Just as the eyes fasten themselves on some new spectacle, so the mind is always looking round for some fresh object of interest. If it is offered a monotonous succession of similarities, it very soon wearies and turns its attention elsewhere, and so everything gained by the speech is lost all at once. This disaster can easily be avoided by someone who has it at his fingertips to turn one idea into more shapes than Proteus himself is supposed to have turned into. <ref type="bibr">27</ref> Yet where Erasmus uses Proteus as an allegory for the plasticity of verba, in The Wisdom of the Ancients Bacon transforms this same fable into an emblem for the inherent instability of matter. Here, he writes that "under the person of Proteus the first Matter (which next to God is the auncientest thing) may be represented", with the shapeshifting god illustrating how external intervention causes matter to "change and turn herself into divers strange forms and shapes of things" (W, 67, 69). In reclaiming the image of Proteus, Bacon repudiates Erasmus' model of metamorphic eloquence and asserts in its place the lively dynamism of material things. This transformation puts the difficulty of Bacon's semiotic project in increasingly stark terms. A rhetorical institution that presented res as a stable object enriched through protean verba was poorly-equipped to accommodate a school of natural philosophy that emphasised the inverse: the complex instability of matter. Bacon and Erasmus, of course, had slightly different things in mind when they spoke of res; while earlier humanists viewed res as an expansive field that might incorporate concepts and ideas, by the seventeenth century its scope had begun to narrow to observable phenomena. As Bacon's interpretation of the Proteus myth attests, however, the material world could prove just as elusive as ideas, and matter demanded a descriptive language that might be precise yet dynamicliberated from the rhetorical excess that threatened to displace, or at least distract from, the very mutability of res.</p><p>In the New Organon, Bacon centres his discussion of the problems attending language the "Idols of the Marketplace"on the inability of verba to truly capture and relay matter. He opens by disavowing the description of concepts (the "names of things which are not existent") before claiming that, even where matter itself is concerned, words can be "muddled, ill-defined, and rashly and roughly abstracted from the facts" (N, 93-5). Of the many forms of matter that language might struggle to capture, Bacon seems to consider fluids the most elusive: in The Wisdom of the Ancients, his gloss on the Proteus myth notes that Proteus "is Neptunes bond-man, because the operations and dispensations of Matter are chiefly exercised in liquid bodies" (W, 67). It is <ref type="bibr">27 Erasmus,</ref><ref type="bibr">"Copia",</ref><ref type="bibr">302.</ref> fitting, then, that Bacon turns to moisture to expose the descriptive inadequacies of language in the New Organon.</p><p>For example, take a certain word (Moist, if you like) and see how far the things signified by it agree with each other, and you will discover that this word Moist is nothing but a vague label for different actions which refuse to be reduced to any common factor. and what is easily reduced to liquid or is melted when it was consistent before. Thus when you come to predicating or imposing on this term, if you take it in one way flame is moist, if in another air is not; if in another powder is moist, in another, glass; so that it easily appears that this notion has been rashly abstracted without any due verification only from water and common, everyday liquors.</p><p>(N, 95) For Bacon, language presumes stasisand imposes conformityon material referents that are by nature diverse, shifting and plural, with "moist" exemplifying a descriptor that is "rashly" abstracted from rich natural processes. As such, he concludes his reflections with the claim that there are varying degrees of semantic error: "the least bad is the kind comprising the names of a particular substance", while a "worse kind comprises actions", and, worst of all, are the names of qualities, such as "heavy, light, tenuous, dense, etc" (N, 95).</p><p>Yet if fluids are the most mutable and chaotic form of matter, representations of fluidity also vividly recall the language of humanist rhetoric. In De copia, Erasmus represents voluble speech as aurei fluminis instar (like a golden river), drawing on a frequently-recycled image that also appears in Quintilian's Institutio oratoria, and was famously used by Cicero himself to applaud Aristotle's speech as a "golden river of eloquence" (Academica, 2.38.119). Quintilian's use of this image demonstrates its treacherous double aspect: when he celebrates Lysias' oratory as "more like a clear spring than a mighty river", he shows how images of ecological anarchy might be adapted to describe rhetoric in a state of disjointed excess. <ref type="bibr">28</ref> This double aspect returns in force in early modern debates over the balance between res and verba. Gabriel Harvey, for instance, comparing Osorio's De gloria with Cicero's De amicitia, writes that "whereas Cicero's [diction] flows without any ripples, like a smooth and quiet river, Osorio's sometimes overflows its banks, like a swollen, hurrying torrent". <ref type="bibr">29</ref> As Vickers and J. W. Binns point out, precedents like these probably influenced much of Bacon's own thinking about his humanist heritage, including his characterisation of the age as subject to "the flowing, and watrie vaine of Osorius" (A, 22). <ref type="bibr">30</ref> At other times, however, Bacon decisively adapts this rhetorical image to his own purposes. In his essay "Of praise", the river becomes a metaphor for fame, which "beareth up Things Light and Swolne, And Drownes Things waighty and Solide" 31the things light and swollen here implying a vein of oratorical excess often disparaged as "puffed up". Bacon uses the metaphor in a more explicit gesture to oratory when he criticises the "prattling" and "barren" <ref type="bibr">28</ref> Quintilian, Institutes, 263. <ref type="bibr">29</ref> Harvey, Ciceronianus, 57, quoted in Vickers, "Myth", 148. <ref type="bibr">30</ref> Vickers, "Myth", 148-9; Binns, Intellectual Culture, 270-90. <ref type="bibr">31</ref> Bacon, Oxford Francis Bacon XV, 159. Future references to the essays are in-text with the abbreviation E.</p><p>wisdom of the Greeks and credits "time (like a river)" with "carrying down to us matter lighter and full of wind, while letting the heavier and solid stuff sink" (N, 115).</p><p>Bacon's use of the river metaphor to expose puffed-up oratory, then, remains resolutely within the language and frameworks used in humanist debates to advocate for a moderation of verba. Yet at other times this river threatens to break free of its metaphorical encasement and stand as a material reality of its own. In Bacon's essay "Of Vicissitude of Things", he suggests that history is governed by a cycle of learning, erasure and eventual rediscovery, a cycle he introduces with the image of the River Lethethe river of forgetfulness in the Greek underworldwhich, in his treatment, "runneth as well above Ground, as below" (E, 172). This image recalls Bacon's earlier notion of time as a river buoying rhetoric and sinking things of substance, here broadened into an emblem for the knowledge loss assured in a cyclical model of historical change. As Bacon continues to contemplate these cycles, however, rivers begin to figure in a new capacity. He attributes the process of knowledge loss to ecological catastrophes, claiming that "the great Winding-sheets, that bury all Things in Oblivion, are two; Deluges and Earth-quakes" (E, 172). He goes on to use the Americas as a case study:</p><p>If you consider well, of the People of the West Indies, it is very probable, that they are a Newer, or a Younger People, then the People of the Old World. And it is much more likely, that the Destruction, that hath heretofore been there, was not by Earth-quakes (as the AEgyptian Priest told Solon, concerning the Island of Atlantis; That it was swallowed by an Earth-quake;) But rather, that it was desolated, by a Particular Deluge. For Earthquakes are seldome in those Parts. But on the other side, they have such Powring Rivers, as the Rivers of Asia, and Affrick, and Europe, are but Brookes to them. (E, 172-173)   In New Atlantis, which was written at roughly the same time as "Of Vicissitude", Bacon rehearses this idea again, though this time he presents the Americas as the original Atlantis. Again, he repudiates Plato's account of the loss of Atlantis via an earthquake in Timaeus, and instead has Bensalem's governor inform the sailors that the original civilisation of Atlantis was lost to a deluge, the American continent having "farr greater Rivers, and farr higher Mountaines, to poure downe waters, than any part of the Old World" (NA, 15). Yet this vision of the river as a source of ecological collapse stretches against earlier figurative precedentsboth those of humanist rhetorical debates and those used by Bacon himself. In the space of a paragraph, the mythic emblem of the River Lethe with which "Of Vicissitude" opens has quite literally begun to run "as well above Ground, as below", bursting from the confines of metaphor and emerging as a material catastrophe. The same image used in debates over Ciceronian style to celebrate, or caution against, a rich abundance of verba is transformed by Bacon into an image of the anarchic excess of matter, with language unable to either contain or relay its mutable properties.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Imitative Labour Between Rhetoric and Nature</head><p>The experimentalist frustration with inherited rhetorical norms is given voice through the metaphor of Proteusan image of rhetorical volubility transformed by Bacon into a parable for the metamorphic dynamism of matter. The challenge that emerges from Bacon's writings on rhetoric is that of developing a representational system that might reflect matter in its mutability, that might shift the imitative impulse of the rhetorician away from the circuitous tangles of verba and towards the complexity of nature itself. Bacon's writings on real characters offer an entry-point to such a semiotic system and, as the final part of this essay argues, the pictographic elements of New Atlantis show how a model of streamlined semiosis might facilitate scientific communication, and even extend into a mode of scientific practice. Yet before turning to New Atlantis, it is worth considering the companion piece for Bacon's utopian text: the immanently practicable Sylva sylvarum.</p><p>One of the many curiosities of Sylva sylvarum is that, despite being Bacon's most active and instructive work, it is also the text that most overtly broadcasts continuities with contemporary literary and rhetorical practice: the label "sylva" invokes a genre which took its name from the Latin term for forest (a term which was also used in Greek contexts to refer to timber as a raw material). Several critics have commented on the utility of this unusual genre for Bacon's pedagogic aims. Among them is Frans De Bruyn, who shows how the "rough-hewn, raw literary style" of the sylva might stimulate the mind of the scientist so as to focalise a "repertoire of formal issues, rather than to submit to a prescriptive program." 32 Other critics have aligned the operations of the sylva with Bacon's vision of parabolic matter, suggesting that the genre resists foreclosure and completion, instead inviting readers to grapple with, and mediate, meaning. <ref type="bibr">33</ref> For Giglioni, the sylva even becomes a model for scientific experience itselfthe scientist, encountering a thick wood of matter, is prompted to transform "the materia collected from experience through the workshop of the mind". <ref type="bibr">34</ref> As De Bruyn notes, early, pre-Ciceronian usages of the sylva genre approximated commonplacing practicesassembling materials to inspire future acts of oratorywhile a later school presented the sylva as a model for spontaneous, rough compositions that emphasised extempore speech over studied and structured style. <ref type="bibr">35</ref> Yet Rawley's preface to Sylva sylvarum seems to gesture towards this earlier usage, describing Bacon's experiments as "Materialls for the Building" and an "Indigested Heape of Particulars". <ref type="bibr">36</ref> Clear directives for action are embedded in this framing: while the architectural metaphor remains self-explanatory, Rawley's reference to "digestion" recalls the language with which grammar schools encouraged the dissection of subject matter and its refinement into argumentation. Though Rawley harnesses this rhetorical framing, however, he pointedly re-directs its outworkingstransforming a rallying cry for further literary treatment into one of active experimentation. The scientist faithfully executing imitatio on the materials in Sylva sylvarum will perform an embodied realisation (an almost literal digestion) of the experiments therein. The "Materialls for the Building" thus rise from the page, making a lateral leap from a sphere of rhetoric and discourse into one of active, realworld construction.</p><p>32 De Bruyn, "The Classical Silva", 349-50. <ref type="bibr">33</ref> As Lewis notes, Bacon viewed poesis parabolica as "a powerful form of probative or initiative rhetoric, demanding heuristic attention from its audience". "Uses of Myth", 386. Readings that consider Sylva sylvarum a comparable vehicle of heuristic formation include Giglioni, "Appetites of Matter"; Walter Ong, Ramus, 118-19; De Bruyn, "The Classical Silva". 34 "Appetites of Matter", 254. <ref type="bibr">35</ref> "The Classical Silva", 357. <ref type="bibr">36</ref> Bacon, Sylva sylvarum, sigs. A1 r , A2 r . Hereafter referenced in-text with the abbreviation S.</p><p>It may be a mistake to labour this point, not least because critics continue to debate the extent to which Rawley's curatorship and publication of Sylva sylvarum and New Atlantis actually reflected Bacon's wishes. <ref type="bibr">37</ref> However, one clear point of continuity between Rawley's preface and Bacon's broader corpus is an interest in engaging with freighted rhetorical frameworks, with the apparent intent of reforming the rhetorician into a scientist. If Rawley identifies and explicates the ways that the sylva genre is suffused with imitative prompts ("materials" for "building" and "particulars" for "digestion") Bacon's earlier writings go even further in aligning scientific labour with the terms of grammar school training. As Rhodri Lewis notes, the New Organon presents the practices nurtured through rhetorical training (the experientia literata) as vital frameworks providing "assistance to the natural operations of the ingenium in collecting, retaining, and collating data about the natural world". <ref type="bibr">38</ref> In The Advancement of Learning Bacon even offers a lukewarm endorsement of commonplacing, writing that it is "a matter of great use and essence in studying; as that which assureth copie of Invention", but regretting that the pedagogic tool was geared towards unfruitful forms of learningtowards "vulgar matters, and Pedanticall Divisions without all life, or respect to Action" (A, 118).</p><p>Bacon's instructions for experimentation and invention also harness the language of imitatio. For instance, in the New Organon, he writes that "we should certainly attach more value to artificial things coming closest to imitating nature or, contrariwise, to governing or turning her back with a firm hand" (N, 305). <ref type="bibr">39</ref> According to the classical rhetorical curriculum, the practice of imitatio readied the young orator to inventan activity which, Gore reminds us, had a surprisingly conservative remit, with the Latin term invenere having the literal meaning, not of creating, but of "finding". <ref type="bibr">40</ref> The student of oratory, then, is disincentivised from developing anything truly radical, instead remaining wedged in a system of existing precedents. Yet the deficiencies of this model might be countered if the same student busied themselves with more substantial matters, directing their training towards a sphere of nature that fully realised, and celebrated, the imitative scope of inventio. Thus, Bacon states that inventions are "like new Creations repeated, and imitations of God's handiwork" (N, 193): in the book of nature authored by God, experimentalists and inventors could only observe and seek to replicate the originative act of design. 41 By way of contrast, in a rallying cry for 37 Two recent works of scholarship that proffer opposing views on this debate are Colclough, "'Materialls for the building" and Rusu and Lüthy, "Extracts from a Paper Laboratory". <ref type="bibr">38</ref> Lewis, " <ref type="bibr">Bacon and Ingenuity",</ref><ref type="bibr">138. 39</ref> This binary of close imitation and experimental disruption recurs throughout Bacon's corpus, and at times he endorses each as a method for acquiring natural knowledge. His glossing of the myth of Proteus in The Wisdom of the Ancients even seems to condone violence towards nature, insisting that "constraint or binding will bee more facile and expedite, if Matter be laide hold on by Manacles, that is, by extremities" (W, 69-70). Such graphic comments have inspired a series of eco-feminist readings of Bacon's legacy, pioneered by Merchant's The Death of Nature, and recently reiterated in her book Science and Nature. Yet, for some scholars, this binary of care and violence misunderstands Bacon's view of nature: Peter Pesic, for instance, shows that Bacon's advocacy of "violence" towards nature drew on Aristotle's use of the term, and was presupposed on violence being an inherent feature of nature itselfhuman violence, then, was not a radical intervention, but rather the extension of an ecological pattern. "The Aristotelian Background", 71. As Giglioni points out, Bacon's atomistic perspective on nature assumed that matter itself was governed by inherent antagonisms, and viewed "all natural operations as combinations of primal appetites, which may cluster into larger units and then break down again into the original appetitive atoms". "Appetites of Matter", 156. <ref type="bibr">40</ref> Gore, "Francis Bacon", 363. 41 Though Bacon's repositioning of imitatio seems a radical departure from humanist practice, it is worth recalling that, even for enthusiastic rhetoricians, imitatio was far from a settled science. Debates over whether the best imitative practice favoured pure Ciceronianism or eclecticism continued well into the seventeenth century, and Bacon's allusion to scientific mindfulness (and perhaps even ecological care), Bacon attribute poor outcomes to experiments that are conducted without "imitating or emulating nature, but by destroying (with fierce heats or excessively vigorous agents) every subtler schematism in which the occult virtues and consents of things mainly reside" (N, 355-7). Notably, these same concepts of imitation and emulation feature prominently in the overview of Bensalem's scientific infrastructure given by the Father of Salomon's House in New Atlantis. At times, the Father boasts of the role of human technologies in enhancing nature: "by Art" the Bensalemites make "Trees and Flowers, to come earlier, or later, then their Seasons" and "their Fruit greater, and sweeter, and of differing Tast, Smell, Colour, and Figure, from their Nature" (NA, 31). However, the more immediate focus of Salomon's House appears to be investigating nature through practices of mimesis. The Father proclaims their ability to replicate nature's effects, making "Demonstrations of all Lights, and Radiations" and being able to "represent unto you all severall Colours" and "all Multiplications of Light" (NA, 34). Suggestively, the term that recurs most frequently is imitationthe Bensalemites imitate smells, tastes, animal voices, the flight of birds, and even the heat of the sun. They use caves for "the Imitation of Naturall Mines" and construct "a Number of Artificiall Wels, and Fountaines, made in Imitation of the Naturall Sources and Baths", as well as "Great and Spacious Houses where we imitate and demonstrate Meteors; as Snow, Haile, Raine, some Artificiall Rains of Bodies and not of Water, Thunders, Lightnings" (NA, 30, 31). It is unsurprising, then, that the main roles allocated to workers in Salomon's House also reflect the influence of rhetorical training. Six officers collect experiments (three of whom are dedicated to collecting those found "in all Bookes") and collate them in an approach not dissimilar to commonplacing (NA, 37). After this initial act of assemblage, three officers work to parse this data, drawing it "into Titles, and Tables, to give the better light, for the drawing of Observations and Axiomes out of them" (NA, 37), while a further group directs their attention towards practice by devising and directing new experiments. The last and most prestigious role is given to the "Interpreters of Nature", who "raise the former Discoveries by Experiments, into Greater Observations, Axiomes, and Aphorismes" (NA, 37). Though this title invokes the sphere of language, Lewis insists that the interpretation of nature goes beyond the experientia literata: while rhetorical strategies might gather data for inspection, the culminative processes of interpretation were a "matter of intellective rather than ingenious thinking". <ref type="bibr">42</ref> Yet if we find ourselves at the end of rhetorical studies, the suggestive theme of the "language of nature" ventured in "Valerius Terminus" instead takes centre stage, with the interpreter positioned in a battle to parse, transcribe and propagate a semiotic system that might disclose the hidden laws of creation.</p><p>If the topic of imitation invokes contemporary rhetorical practices, it also recalls the terms of Bacon's earlier musings on semiotics and real characterswith hieroglyphs, in particular, standing out for having a precise and mimetic, rather than an arbitrary, relation with the referent. If rhetorical copia increases the distance between sign and referent, hieroglyphs work to narrow it; where rhetorical curricula promoted the imitation of great orators, the pictographic logic of hieroglyphs render them imitations of the "watrie vaine of Osorius" brandishes a familiarity with the terms of this controversy. See <ref type="bibr">Binns,</ref><ref type="bibr">Intellectual Culture,</ref><ref type="bibr">144.</ref> nature itself, with components of the material world transcribed onto parchment and stone. The practice of imitation thus emerges as a dynamic interface between two diametrically opposed representational systems. And, as the many imitative laboratories of New Atlantis suggest, scientific labour could act as an extension of a hieroglyphic representational regimen. Unlike the discursive strategies of rhetoric, such constructions faithfully replicate the proteanism of matter; the simulations of meteorological and geological phenomena conducted by Salomon's House, for instance, offer miniaturised representations which elide the role of language, and might be plundered for natural knowledge. In Bacon's utopia, then, scientific simulations are at their most effective when they act as a kind of living hieroglyphan exercise in imitatio that elucidates the laws of nature, and might even accomodate the hidden philosophia prima to human representational systems.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Speech and Hieroglyph in Bensalem</head><p>The argument that the constructed simulacra of New Atlantis are themselves a form of hieroglyphic matterdivulging the "language of nature" without recourse to the distractions of human languageshifts focus to other, more recognisable, systems of signification shown in the text. In fact, the imitative labour of the Bensalemites is all the more notable when considered alongside their approach to oratory, which seems to have a strange and marginal status in Bacon's utopia (notwithstanding the explanatory speeches delivered by the governor and Father of Salomon's House). The sailors note a propensity for silence from their first impression of the Bensalemites, when the islanders forbid them to land "without any Cries or Fiercenesse, but onely as warning us off, by Signes that they made" (NA, 6). When one of the esteemed Fathers of Salomon's House arrives later in the piece, he also prefers gestures to speech, holding up "his bare Hand as he went, as blessing the People, but in Silence" (NA, 28). The voiceless blessings of the Father recall a style of reverential silence modelled earlier in the narrative: when the sailors learn about the instantaneous Christian revelation received by Bensalemthe whole books of the Old and New Testament arrive at the island ensconced in an ark, and announced by a pillar and cross of lightthe Governor relays that a wise man of Salomon's House "caused the Boate to be softly, and with silence, rowed towards the Pillar" (NA, 14). And when, as a result of this revelation, the Bensalemites receive the Gift of Tongues, they dedicate their new skill to reading rather than oratory, with everyone reading "upon the Booke, and Letter, as if they had been written in his owne Language" (NA, 14). <ref type="bibr">43</ref> A tendency towards silenceor, at least, a very restrained mode of oratorythus seems to characterise Bensalem's inhabitants, and is particularly pronounced among the oligarchic Fathers of Salomon's House. One explanation for this prevailing silence is that the tongues of Bensalem's scientists are busily engaged elsewhere. Both the governor of the island and the sailors repeatedly appeal to taste as a means of knowledge and discernment: the narrator tells his companions that their quarantine served to <ref type="bibr">43</ref> The mediation of a real character may also be implied here: as Lux observes, the miracle "either alters the persons of the Bensalemites or, more intriguingly, alters the texts themselves so that they can be read in any language". '"Characters reall'", 201.</p><p>give the Bensalemites "some tast of our manners and conditions" (NA, 10); the governor alludes to the island's care for strangers, "whereof you have tasted" (NA, 19); and, in a somewhat grovelling moment, the sailors assure the governor that they have "conceived by the tast wee had already, that ther was no worldly thing on Earth, more worthy to bee knowne, then the State of that happy Land" (NA, 12). While these figurative uses all imply moral judgement rather than literal tasting, later in the text the Father of Salomon's House alludes to the role of taste in generating natural knowledge, with the island's "Perfume-Houses" training the Bensalemites in "Practices of Tast" and making "diverse Imitations of Tast" (NA, 36). The tongue, then, emerges as a receptive organ that governs experiential knowledgeexpanding to include both investigative forays into science and the moral judgements whereby the sailors discern the true character of Bensalem. This emphasis on taste as a channel of knowledge recalls the status of the prelapsarian Adam and, in later Royal Society materials, an approach to taste emphasising scholarly labour and productive investigation (Elizabeth L. Swann uses the term "taxonomical tasting") came to counter and rectify Adam and Eve's original "catastrophic gustation". <ref type="bibr">44</ref> Yet if the tongue might be absolved of the taint of original sin through its role as an investigative tool, Bacon's text suggests that it retains a treacherous double aspect as a vehicle of rhetoric. The sailors' declaration that "our Tongues should first cleave to the Roofes of our Mouthes" before forgetting to pray for Bensalem (NA, 12) suggests that the integrity of their scientific labour hinged on the vital task of moderating rhetoric, and confining it to worthy causes. Yet another factor explaining the Bensalemites' propensity for silence is the prominence of pictography on the island, which offers a representational field full of emblematic pillars, arks, cherubim and enamelled grapes. Often, these symbols work to actively expedite communication: the cherubim stamped on the letter of greeting to the sailors, for example, provide them with instant reassurance of a shared Christian identity. This expedited communication proves most crucial with the arrival of the scriptures in the ark, an image which Travis DeCook reads as a symbol of providential, instantaneous revelationand a means of bypassing the wasted theological and philological energy churned into "the textual battles of the Reformation". <ref type="bibr">45</ref> As Adam Neff notes, this proliferation of pictography and symbolism idealises "the seamless Baconian transition from the ordered knowledge of the mind and written histories to the order of the material world". <ref type="bibr">46</ref> Put another way, the ceremonies and pictographic symbols of Bensalem offer a semiotic system that closely approximates object and signifier, mitigating the possibilities of untethered language coming to dominate and manipulate the scientist's view of the world. We might think of these systems as hieroglyphic in nature, though they deviate from the growing materialist emphasis on res as an objecta thingrather than a concept or idea. The cluster of enamelled grapes awarded at the Feast of the Family captures this tension between materialist precision and symbolism. The grapes themselves fulfil a symbolic functionthey are awarded to each man (or "Tirsan") who lives to see thirty descendants above the age of threeyet the number of the grapes corresponds exactly with the number of the descendants, and they are <ref type="bibr">44</ref> Swann, Taste and Knowledge, 36. 45 DeCook, "Immediate Revelation", 121-2. 46 "The Garden", 167.</p><p>further modified to reflect the descendants' gender: "if the Males of the Family be the greater number, the Grapes are enamelled Purple, with a little Sunne sett on the Topp; If the Females, then they are enamelled into a greenish yellow, with a Cressant on the Topp" (NA, 23). Despite the symbolic function of the grapes, then, they remain precisely and carefully-ordered to reflect the exact status of each Tirsan. And while this symbolism may seem inconsistent with the pictographic precision of hieroglyphs, in The Advancement of Learning Bacon alludes to such figurative usages, grouping hieroglyphs among a number of other media (including AEsop's fables and "the brief sentences of the Seven") epitomising the use of "parabolical wisdom" in ancient times (A, 64). We might peel back a further associative layer encasing these grapes and read them, somewhat ironically, as a mimetic symbol: the Greek painter Zeuxis, famed for painting a bunch of grapes so realistic that birds attempted to eat them, was often discussed in Renaissance treatises as a model of perfect artistic imitation. Yet the anthropological function of the grapes in the Feast of the Family cuts through concerns about exact correspondence, instead pointing to a representational system governed by precision and, more importantly, social consensusdisregarding the entanglements of language in favour of a shared image that might expedite meaning.</p><p>Perhaps the most suggestive manifestation of hieroglyphic matter in New Atlantis resides in the body itself, with the vital communicative role played by body language recalling Bacon's classification of gestures as "Transitorie Hierogliphickes" which are "to Hierogliphickes, as Words spoken are to Wordes written" (A, 120). A communal preference for gestures over speech is one of the first traits the sailors notice in Bensalem: the islanders warn the sailors to remain distant, not through shouting, but through "Signes that they made" (NA, 6) and, when some islanders later approach the ship by boat, "Signes were made to us, that we should send forth some to meet him upon the Water" (NA, 7). Having landed on the island, the sailors pass a crowd of townspeople who "put their Armes a little abroad: which is their Gesture, when they bid any welcome" (NA, 9). Gestures also seem to play an important role in the spiritual lives of the Bensalemites. The sailors learn the islanders' gesture for thanking God when they observe a citizen who lifted "up his Right Hand towards Heaven, and drew it softly to his Mouth" (NA, 8), with the voiceless mouth here acknowledging the role of the gesture as a displacement of speech. The Father of Salomon's House, too, is seen blessing his citizens silently, simply by holding "up his bare Hand, as he went" (NA, 28). This proliferation of gestures complements the islanders' movement away from speech and towards the clarity of pre-verbal communication, while also demonstrating how generative and elastic the hieroglyphic logics of Bensalem might be.</p><p>Though Bacon stops short of advocating for a natural philosophy communicated through real characters in The Advancement of Learning, his subsequent musings on the status of language after "the seconde generall Curse, (which was the confusion of the Tongues)" gestures back to hieroglyphs as a model that might bypass the corruption of language (A, 121). The representational systems depicted in New Atlantis imagine how a society founded on such direct, pictographic logics may function, and the text suggests that the semiotic possibilities of hieroglyphs continued to intrigue Bacon into the late stages of his career. If New Atlantis models a society moving further from speech and closer to the semiotic precision of pictograph, the prominence of gestures -"Transitorie Hierogliphickes"suggests that such a system need not fall into the trap of rigid fixity, but could instead be active and mobile, mirroring the dynamic motility of matter itself. The many imitative simulacra facilitating Bensalem's scientific labour stretch the concept of the hieroglyph to a surprising end-point, offering protean pictographs that simulate ecological phenomena and allow the natural philosopher to represent, and study, the hidden language of nature. If Hermetic approaches scanned the hieroglyph for traces of the unitary knowledge lost in the Fall, then the hieroglyphic regimen of Bensalem seems poised to partake in this ancient knowledgetraining the mind of the scientist in representational systems that might tease open the secrets of nature.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Disclosure statement</head><p>No potential conflict of interest was reported by the author(s).</p></div><figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_0"><head></head><label></label><figDesc>For it signifies what easily spreads round another body; what in itself lacks firm boundaries and cannot stay stable; what easily gives way everywhere; what easily divides and disperses itself; what easily concentrates and collects itself; what easily flows and sets in motion; what easily sticks to another body and wets it;</figDesc><table /></figure>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="18" xml:id="foot_0"><p>Sprat, History, 113.   </p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="19" xml:id="foot_1"><p>Vickers, Rhetoric, 14; Stark, "Stylistic Reform", </p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="20" xml:id="foot_2"><p>Labors of Innocence, 17.   </p></note>
+		</body>
+		<back>
+
+			<div type="funding">
+<div><head>Funding</head><p>This work was supported by <rs type="funder">Alexander von Humboldt-Stiftung</rs>.</p></div>
+<div><head>ORCID</head><p><rs type="person">Katrina L. Spadaro</rs> http://orcid.org/<rs type="grantNumber">0000-0002-2455-1865</rs></p></div>
+			</div>
+			<listOrg type="funding">
+				<org type="funding" xml:id="_yTynW3b">
+					<idno type="grant-number">0000-0002-2455-1865</idno>
+				</org>
+			</listOrg>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<analytic>
+		<title level="a" type="main">Seeing Things Through &apos;Images Sensible&apos;: Emblematic Similitudes and Sensuous Words in Francis Bacon&apos;s Natural Philosophy</title>
+		<author>
+			<persName><forename type="first">Pavneet</forename><surname>Aulakh</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">ELH</title>
+		<imprint>
+			<biblScope unit="volume">81</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="1149" to="1172" />
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<monogr>
+		<author>
+			<persName><forename type="first">Francis</forename><surname>Bacon</surname></persName>
+		</author>
+		<title level="m">The Wisedome of the Ancients. Trans. Arthur Gorges. London: John Bill, 1619</title>
+		<meeting><address><addrLine>Sylva Sylvarum. London</addrLine></address></meeting>
+		<imprint>
+			<publisher>J. H. for William Lee</publisher>
+			<biblScope unit="page">1626</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<monogr>
+		<title level="m" type="main">The Advancement of Learning</title>
+		<editor>Michael Kiernan</editor>
+		<imprint>
+			<date type="published" when="2000">2000</date>
+			<publisher>Oxford University Press</publisher>
+			<pubPlace>Oxford Francis Bacon IV; Oxford</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<monogr>
+		<title level="m" type="main">Oxford Francis Bacon XV: The Essayes or Counsels, Civill and Morall</title>
+		<editor>Michael Kiernan</editor>
+		<imprint>
+			<date type="published" when="2000">2000</date>
+			<publisher>Oxford University Press</publisher>
+			<pubPlace>Oxford</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<monogr>
+		<title level="m">The Instauratio magna, Part II: Novum organon</title>
+		<editor>
+			<persName><forename type="first">Graham</forename><surname>Rees</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">Maria</forename><surname>Wakeley</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Oxford Francis Bacon XI; Oxford</addrLine></address></meeting>
+		<imprint>
+			<publisher>Oxford University Press</publisher>
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<monogr>
+		<title level="m" type="main">The Philosophical Works of Francis Bacon</title>
+		<editor>John M. Robertson, Robert Leslie Ellis, and James Spedding</editor>
+		<imprint>
+			<date type="published" when="2011">2011</date>
+			<publisher>Routledge</publisher>
+			<pubPlace>London</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title/>
+	</analytic>
+	<monogr>
+		<title level="j">New Atlantis</title>
+		<editor>
+			<persName><forename type="first">David</forename><surname>Colclough</surname></persName>
+		</editor>
+		<imprint>
+			<date type="published" when="2025">2025</date>
+			<publisher>Oxford University Press</publisher>
+			<pubPlace>Oxford Francis Bacon XIX; Oxford</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<monogr>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">W</forename><surname>Binns</surname></persName>
+		</author>
+		<title level="m">Intellectual Culture in Elizabethan and Jacobean England: The Latin Writings of the Age</title>
+		<meeting><address><addrLine>Leeds</addrLine></address></meeting>
+		<imprint>
+			<publisher>Francis Cairns</publisher>
+			<date type="published" when="1990">1990</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title level="a" type="main">Bacon&apos;s New Atlantis and the Laboratory of Prose</title>
+		<author>
+			<persName><forename type="first">Amy</forename><surname>Boesky</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">The Project of Prose in Early Modern Europe and the New World</title>
+		<editor>
+			<persName><forename type="first">Elizabeth</forename><surname>Fowler</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">Roland</forename><surname>Greene</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Cambridge</addrLine></address></meeting>
+		<imprint>
+			<publisher>Cambridge University Press</publisher>
+			<date type="published" when="1997">1997</date>
+			<biblScope unit="page" from="138" to="153" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title level="a" type="main">The Materials for The Building&apos;: Reuniting Francis Bacon&apos;s Sylva Sylvarum and New Atlantis</title>
+		<author>
+			<persName><forename type="first">David</forename><surname>Colclough</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Intellectual History Review</title>
+		<imprint>
+			<biblScope unit="volume">20</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="181" to="200" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title level="a" type="main">The Imagination&apos;s Arts: Poetry and Natural Philosophy in Bacon and Shakespeare</title>
+		<author>
+			<persName><forename type="first">Jacqueline</forename><forename type="middle">L</forename><surname>Cowan</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">SIP</title>
+		<imprint>
+			<biblScope unit="volume">113</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="132" to="162" />
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title level="a" type="main">The Ark and Immediate Revelation in Francis Bacon&apos;s New Atlantis</title>
+		<author>
+			<persName><forename type="first">Travis</forename><surname>Decook</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">SIP</title>
+		<imprint>
+			<biblScope unit="volume">105</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="103" to="122" />
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<monogr>
+		<title level="m" type="main">Authorizing Words: Speech, Writing, and Print in the English Renaissance</title>
+		<author>
+			<persName><forename type="first">Martin</forename><surname>Elsky</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1989">1989</date>
+			<publisher>Cornell University Press</publisher>
+			<pubPlace>Ithaca</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<title level="a" type="main">Literary and Educational Writings 2: &quot;Copia</title>
+		<author>
+			<persName><forename type="first">Desiderius</forename><surname>Erasmus</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Foundations of the Abundant Style</title>
+		<editor>
+			<persName><forename type="first">Betty</forename><forename type="middle">I</forename><surname>Knott</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Toronto</addrLine></address></meeting>
+		<imprint>
+			<publisher>University of Toronto Press</publisher>
+			<date type="published" when="1978">1978</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<monogr>
+		<title level="m" type="main">In The Body as Object and Instrument of Knowledge: Embodied Empiricism and Philosophy of Human Nature in the 17th and 18th Century</title>
+		<author>
+			<persName><forename type="first">Guido</forename><surname>Giglioni</surname></persName>
+		</author>
+		<editor>Charles T. Wolfe and Ofer Gal</editor>
+		<imprint>
+			<date type="published" when="2010">2010</date>
+			<publisher>Springer</publisher>
+			<biblScope unit="page" from="81" to="110" />
+			<pubPlace>London</pubPlace>
+		</imprint>
+	</monogr>
+	<note>Mastering the Appetites of Matter: Francis Bacon&apos;s Sylva Sylvarum</note>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title level="a" type="main">From the Wood of Experience to the Open Fields of Metaphysics: Bacon&apos;s Notion of Silva</title>
+	</analytic>
+	<monogr>
+		<title level="j">Renaissance Studies</title>
+		<imprint>
+			<biblScope unit="volume">28</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="242" to="261" />
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<title level="a" type="main">Francis Bacon and the &apos;Desserts of Poetry&apos;: Rhetorical Education and The Advancement of Learning</title>
+		<author>
+			<persName><forename type="first">Jeffrey</forename><surname>Gore</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Prose Studies</title>
+		<imprint>
+			<biblScope unit="volume">29</biblScope>
+			<biblScope unit="page" from="359" to="377" />
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<analytic>
+		<title level="a" type="main">Light from Darkness: The Relationship Between Francis Bacon&apos;s Prima Philosophia and His Concept of the Greek Fable</title>
+		<author>
+			<persName><forename type="first">Anna-Marie</forename><surname>Hartman</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">The Seventeenth Century</title>
+		<imprint>
+			<biblScope unit="volume">26</biblScope>
+			<biblScope unit="page" from="203" to="220" />
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">Gabriel</forename><surname>Harvey</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Ciceronianus</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="middle">C A</forename><surname>Trans</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Forbes</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Lincoln</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1945">1945</date>
+			<publisher>University of Nebraska Press</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<monogr>
+		<author>
+			<persName><forename type="first">Bruce</forename><surname>Janacek</surname></persName>
+		</author>
+		<title level="m">Alchemical Belief: Occultism in the Religious Culture of Early Modern England</title>
+		<meeting><address><addrLine>Philadelphia</addrLine></address></meeting>
+		<imprint>
+			<publisher>Pennsylvania State University Press</publisher>
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<monogr>
+		<title level="m" type="main">Ancients and Moderns: A Study of the Rise of the Scientific Movement in Seventeenth-Century England</title>
+		<author>
+			<persName><forename type="first">Richard</forename><surname>Jones</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Foster</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1936">1936</date>
+			<publisher>Washington University Press</publisher>
+			<pubPlace>St. Louis</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<monogr>
+		<title level="m" type="main">Language, Mind and Nature: Artificial Languages in England from Bacon to Locke</title>
+		<author>
+			<persName><forename type="first">Rhodri</forename><surname>Lewis</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2007">2007</date>
+			<publisher>Cambridge University Press</publisher>
+			<pubPlace>Cambridge</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<analytic>
+		<title level="a" type="main">Francis Bacon, Allegory, and the Uses of Myth</title>
+	</analytic>
+	<monogr>
+		<title level="j">RES</title>
+		<imprint>
+			<biblScope unit="volume">61</biblScope>
+			<biblScope unit="issue">250</biblScope>
+			<biblScope unit="page" from="360" to="389" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<analytic>
+		<title level="a" type="main">Francis Bacon and Ingenuity</title>
+	</analytic>
+	<monogr>
+		<title level="j">RQ</title>
+		<imprint>
+			<biblScope unit="volume">67</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="113" to="163" />
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<analytic>
+		<title level="a" type="main">Characters Reall&apos;: Francis Bacon, China and the Entanglements of Curiosity</title>
+		<author>
+			<persName><forename type="first">Jonathan</forename><forename type="middle">E</forename><surname>Lux</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Renaissance Studies</title>
+		<imprint>
+			<biblScope unit="volume">29</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="184" to="203" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<analytic>
+		<title level="a" type="main">The Garden, the Granary, and &apos;the Basic Stuff and raw Material of True Induction&apos;: The Eclipse of the Imagination in Francis Bacon&apos;s Poetics of Natural History</title>
+		<author>
+			<persName><forename type="first">Adam</forename><surname>Neff</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">SIP</title>
+		<imprint>
+			<biblScope unit="volume">120</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="141" to="171" />
+			<date type="published" when="2023">2023</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<monogr>
+		<title level="m" type="main">Labors of Innocence in Early Modern England</title>
+		<author>
+			<persName><forename type="first">Joanna</forename><surname>Picciotto</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2010">2010</date>
+			<publisher>Harvard University Press</publisher>
+			<pubPlace>Cambridge, MA</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b27">
+	<monogr>
+		<title level="m" type="main">Institutes of Oratory</title>
+		<author>
+			<persName><surname>Quintilian</surname></persName>
+		</author>
+		<editor>Trans. John Selby Watson</editor>
+		<imprint>
+			<date type="published" when="1856">1856</date>
+			<publisher>George Bell</publisher>
+			<pubPlace>London</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b28">
+	<analytic>
+		<title level="a" type="main">Extracts from a Paper Laboratory: The Nature of Francis Bacon&apos;s Sylva Sylvarum</title>
+		<author>
+			<persName><forename type="first">Doina-Cristina</forename><surname>Rusu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Christoph</forename><surname>Lüthy</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Intellectual History Review</title>
+		<imprint>
+			<biblScope unit="volume">27</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="171" to="202" />
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b29">
+	<monogr>
+		<author>
+			<persName><forename type="first">Katherine</forename><surname>Shrieves</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Irene</surname></persName>
+		</author>
+		<title level="m">Animate Texts: Hieroglyphic Reading Practices in Early Modern England</title>
+		<imprint>
+			<date type="published" when="2013">2013</date>
+			<biblScope unit="page" from="1564" to="1658" />
+		</imprint>
+		<respStmt>
+			<orgName>University of North Carolina at Chapel Hill</orgName>
+		</respStmt>
+	</monogr>
+	<note type="report_type">PhD diss</note>
+</biblStruct>
+
+<biblStruct xml:id="b30">
+	<monogr>
+		<title level="m" type="main">Light Without Heat: The Observational Mood from Bacon to Milton</title>
+		<author>
+			<persName><forename type="first">David</forename><surname>Simon</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Carroll</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2018">2018</date>
+			<publisher>Cornell University Press</publisher>
+			<pubPlace>Ithaca</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b31">
+	<analytic>
+		<title level="a" type="main">The History of the Royal-Society of London for the Improving of Natural Knowledge</title>
+		<author>
+			<persName><forename type="first">Thomas</forename><surname>Sprat</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">T. R. for J. Martyn</title>
+		<imprint>
+			<biblScope unit="page">1667</biblScope>
+			<pubPlace>London</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b32">
+	<analytic>
+		<title level="a" type="main">From Mysticism to Skepticism: Stylistic Reform in Seventeenth-Century British Philosophy and Rhetoric</title>
+		<author>
+			<persName><forename type="first">Ryan</forename><forename type="middle">J</forename><surname>Stark</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Philosophy and Rhetoric</title>
+		<imprint>
+			<biblScope unit="volume">34</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="322" to="334" />
+			<date type="published" when="2001">2001</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b33">
+	<monogr>
+		<author>
+			<persName><forename type="first">Elizabeth</forename><forename type="middle">L</forename><surname>Swann</surname></persName>
+		</author>
+		<title level="m">Taste and Knowledge in Early Modern England</title>
+		<meeting><address><addrLine>Cambridge</addrLine></address></meeting>
+		<imprint>
+			<publisher>Cambridge University Press</publisher>
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b34">
+	<monogr>
+		<title level="m" type="main">Rhetoric and the Pursuit of Truth</title>
+		<author>
+			<persName><forename type="first">Brian</forename><surname>Vickers</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1985">1985</date>
+			<publisher>Clark Memorial Library</publisher>
+			<pubPlace>Los Angeles</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b35">
+	<analytic>
+		<title level="a" type="main">Bacon and Rhetoric</title>
+	</analytic>
+	<monogr>
+		<title level="m">The Cambridge Companion to Bacon</title>
+		<editor>
+			<persName><forename type="first">Markku</forename><surname>Peltonen</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Cambridge</addrLine></address></meeting>
+		<imprint>
+			<publisher>Cambridge University Press</publisher>
+			<date type="published" when="1996">1996</date>
+			<biblScope unit="page" from="200" to="231" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b36">
+	<analytic>
+		<title level="a" type="main">The Myth of Francis Bacon&apos;s &apos;Anti-Humanism&apos;</title>
+	</analytic>
+	<monogr>
+		<title level="m">Humanism and Early Modern Philosophy</title>
+		<editor>
+			<persName><forename type="first">Jill</forename><surname>Kraye</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">M</forename><forename type="middle">W F</forename><surname>Stone</surname></persName>
+		</editor>
+		<meeting><address><addrLine>London</addrLine></address></meeting>
+		<imprint>
+			<publisher>Routledge</publisher>
+			<date type="published" when="2000">2000</date>
+			<biblScope unit="page" from="135" to="158" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b37">
+	<analytic>
+		<title level="a" type="main">The Providential Order in Bacon&apos;s New Philosophy</title>
+		<author>
+			<persName><forename type="first">Sidney</forename><surname>Warhaft</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Studies in the Literary Imagination</title>
+		<imprint>
+			<biblScope unit="volume">4</biblScope>
+			<biblScope unit="page" from="49" to="64" />
+			<date type="published" when="1971">1971</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

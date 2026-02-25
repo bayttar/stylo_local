@@ -1,0 +1,882 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Communities of Writing: The Main Scribes of National Library of Wales, Brogyntyn ii.1</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName><forename type="first">María</forename><forename type="middle">José</forename><surname>Carrillo-Linares</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Department of English</orgName>
+								<orgName type="institution">University of Huelva</orgName>
+								<address>
+									<settlement>Huelva</settlement>
+									<country key="ES">Spain</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">English</forename><surname>Studies</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Department of English</orgName>
+								<orgName type="institution">University of Huelva</orgName>
+								<address>
+									<settlement>Huelva</settlement>
+									<country key="ES">Spain</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Communities of Writing: The Main Scribes of National Library of Wales, Brogyntyn ii.1</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date/>
+						</imprint>
+					</monogr>
+					<idno type="MD5">6C64A72E0940C99100550A4E27E00E56</idno>
+					<idno type="DOI">10.1080/0013838X.2025.2589844</idno>
+					<note type="submission">Received 7 July 2025 Accepted 6 November 2025</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.0" ident="GROBID" when="2026-02-25T19:52+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term>NLW Brogyntyn ii.1</term>
+					<term>writing communities</term>
+					<term>spelling conventions</term>
+					<term>palaeographical features</term>
+					<term>dialectal variation</term>
+				</keywords>
+			</textClass>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>Scribes, whose languages can be localised to specific locations, may not share all their respective linguistic features. Texts localised in the same area may differ considerably and even a single scribe will display varying characteristics across texts. Lack of uniformity is the norm in Late Middle English writings, but recurring elements can sometimes be seen in the works of different scribes unrelated to dialectal provenance. This may stem from shared professional training in communities of writing. The two main scribes of the manuscript National Library of Wales, Brogyntyn ii.1 shared many features, likely collaborated, and they both seem to have acted as organisers of the materials. This paper explores the possibility that they belonged to the same writing community by analysing their productions within this manuscript. Both scribes' written languages are localisable to the same area in Warwickshire. The analysis examines their palaeographical features including abbreviations and writing marks, their spellings of diagnostic and common words and suffixes and the representation of specific sounds.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>Middle English scribes can be hard to establish using medieval records". 2 However, some places are better documented than others. In London, the Scriveners' Company, established in 1373, acted as a guild for professional scribes and notaries, especially those involved in legal writing and contracts. They regulated training, ensured quality, and protected their profession. Although the term "scrivener" was used to designate a writer of texts as well as one copying court letters, 3 they were also employed to copy literary texts. Besides the regulated activity of the guilds, there were many other people working in the book-production field who were not members of the guilds as they did not meet the requirements to apply for being admitted. According to <ref type="bibr">Mooney,</ref><ref type="bibr">4</ref> apprenticeship within the London guild could imply being trained somewhere else, although in 1393, there is evidence that a certain "Marion Stok complained that John Ruddok, text scriveyn, to whom her son John had been apprenticed for eight years, had withdrawn from the liberty of the City and did not instruct or support the apprentice, who was thereupon exonerated from his apprenticeship". <ref type="bibr">5</ref> Moore also stated that "there are good reasons to believe that metropolitan manuscripts were produced by people who interacted with one another". <ref type="bibr">6</ref> Scribal collaboration has been corroborated by identifying instances where scribes worked together. However, <ref type="bibr">Mooney,</ref><ref type="bibr">7</ref> following the same line as <ref type="bibr">Doyle and Parkes,</ref><ref type="bibr">8</ref> suggested that in fifteenthcentury London, with a few exceptions, there is no real evidence of book-producing shops in which diverse crafts related to book production were employed (scribes, decorators, illuminators or binders) and Hanna 9 mentioned that "penmanship was professionalized as a guild trade". Furthermore, Parkes 10 stated that: produced in these areas and had been for a long time, <ref type="bibr">14</ref> and "besides the thriving trade in books written for the communities around England's universities and monasteries, nonmetropolitan authors also attracted local scribes to copy their works". <ref type="bibr">15</ref> In areas distant from London, those interested in owning literature could also presumably look to nearby cities to commission manuscripts. <ref type="bibr">16</ref> Not much is known about the training in penmanship in the fifteenth-century West Midlands, and we can only assume that, in the same way as in London, a system of apprenticeship might have been the most common way to become a professional scribe, who could be employed as a clerk either in a gentry household or in local institutions as well as be contracted to copy books. <ref type="bibr">17</ref> The training of scribes in literacy must have been a long process starting from childhood and eventually going beyond the basic skill of writing to include grammar, rhetoric and often some poetic or theological understanding, especially for those copying religious or scholarly texts. Scribes working for law courts, merchants, or civic bodies had different but equally valuable knowledge in administration and finance. For their writing skills, the scribes had to learn to use various scripts for different purposes, <ref type="bibr">18</ref> and those copying in English had to learn, to a certain extent, how to cast their own spoken language into a system of writing. In a training conducted mainly through apprenticeship, it is reasonable to suppose that the masters passed on their own model(s) of writing to the next generation of apprentices. Thus each small community of scribes would have shared a model with similar traits as expressions of identity since, as Scase suggested, 19 by a process of "imitatio", learners engaged in the particularities of their community.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="1.2.">Scribal Languages in National Library of Wales, Brogyntyn ii.1</head><p>As shown in A Linguistic Atlas of Late Mediaeval English (LALME), <ref type="bibr">20</ref> the linguistic profiles of texts localised in the same area may differ considerably, and even texts from the same scribe that are fitted in the same place may display varying characteristics. Lack of uniformity was frequent in the Late Middle English period, but nevertheless, some common elements can sometimes be seen in the outputs of different scribes, which are not necessarily linked to a dialectal area, or at least have not been considered as such. It is possible that scribes whose texts are localised in the same area show some features which might have their origin in the scribes' training of writing for professional purposes.</p><p>The scribal inputs of those copying in National Library of Wales, Brogyntyn ii.1 that provide substantial quantities of text indicate that the most likely place of origin of this codex is the county of Warwickshire. <ref type="bibr">21</ref> The number of scribes in this manuscript has been a matter of research interest at different moments of scholarship. The latest works suggest that as many as eleven scribes were involved in the production of this codex. <ref type="bibr">22</ref> This is a reduction in the number of scribes as proposed before by Huws 23 who identified sixteen, a number which was already a reduction from that proposed by <ref type="bibr">Kurvinen,</ref><ref type="bibr">24</ref> who suggested that nineteen scribes were involved in different degrees, nine in the first quire, and ten more in the rest of the codex. Kurvinen proposed the A-to-S labelling for each hand she believed to have been involved. Huws argued that among all these hands, J and O acted as shapers of the codex. There have been some other attempts to reduce the number of hands from that originally proposed by <ref type="bibr">Kurvinen,</ref><ref type="bibr">for example,</ref><ref type="bibr">Salter,</ref><ref type="bibr">25</ref> who suggested that there are even fewer scribes than Huws's sixteen. Opposing Huws' view of two main hands who worked as shapers or compilers, Salter suggested that there was only one scribe, J/O, whose style of writing varied. She also proposed that scribes J and K are the same. This view was refuted by Carrillo-Linares 26 as there is sufficient evidence to suggest that there were two scribes at work there. Another of her suggestions was that J/O was probably the one responsible for some texts assigned to scribe L. Her view has been refuted as well by Garrido-Anes. <ref type="bibr">27</ref> Scribes I, R and S are also believed to have been the same J/O scribe in Salter's study.</p><p>In any case, most scholars, apart from Salter, have agreed that J and O are two different people. Even though Salter does not provide any substantial evidence for her claim, there are indeed similarities between these two scribes that, at first sight, might indicate that their stints were produced by the same person. However, a closer analysis rules out that possibility, as I will show in this paper. All the scribes in the collection share a possible area of provenance in Warwickshire or surrounding areas, but their linguistic profiles are far from the same. The outputs for scribes J and O have been localised in exactly the same area, which covers from Redditch in Worcestershire to Warwick extending southwards as far as Alcester in Warwickshire and Inkberrow in Worcestershire. <ref type="bibr">28</ref> The localisations were carried out using different sets of diagnostic items and different variant spellings in each set from the forms recorded in their linguistic profiles. Both scribes have a lot in common, and the similarities between the two are much more outstanding than those with the other scribes in the collection. In addition to using a very similar style of handwriting and the same type of script, they share certain writing habits that cannot be attributed solely to their common geographical provenance in purely dialectal terms. Moreover, some of these shared features seem to bear no relation to the scribes' likely underlying phonology. Although there are certainly dialectal characteristics defined by particular spellings that are linked to a particular dialectal provide substantial data to carry out a more precise localisation can certainly be associated with Warwickshire or the surrounding areas. Even if it can be acknowledged that scribes could travel and take their language features with them, it does not seem plausible that eleven scribes with similar dialect traits moved to a place distant from the region with which their languages are associated. Even the texts and scribes in the first quire, which might have had an independent life before the quire was put together with the rest of the contents, can be associated clearly with the same region (see Garrido-Anes, "Dialectal Study." For further details on the scribal dialects see Carrillo-Linares and Garrido-Anes, "Provenance of Scribal Languages," 60). <ref type="bibr">22</ref> Connolly, "Numerous Scribes," 92. <ref type="bibr">23</ref> Huws, "Porkington 10 and Its Scribes," 192-3. <ref type="bibr">24</ref> Kurvinen, "Porkington 10," 35-7. <ref type="bibr">25 Salter,</ref><ref type="bibr">Popular Reading in English,</ref> Carrillo-Linares, "One Scribe or Two." 27 Garrido-Anes, "Scribal Consistency." 28 Carrillo-Linares and Garrido-Anes, "Provenance of Scribal Languages," 46, 50.</p><p>pronunciation, in many cases, the variation in spelling forms is the reflection of the lack of a model to graphically identify an idea or concept with a given spelling. They are therefore the product of individual scribal decisions, whether conscious or unconscious.</p><p>The fact that two different scribes who have been localised in the same area share certain habits and features that cannot be strictly associated with a particular dialect area may be an indication that they had a common or shared training, which, in most cases, goes parallel with sharing a dialect, since common training implies sharing a location. Scribes O and J cannot be easily identified with any particular community and nor can the rest of the scribes in the collection. Johnston suggested that the book was produced in the environment of a household, and he contemplated the possibility that the scribes were employed as clerks and were engaged in copying books as well as documents. <ref type="bibr">29</ref> It certainly does not seem plausible that they belonged to a religious community, 30 so it is reasonable to think that they were professional or semi-professional scribes who might have worked independently from each other but with close connections among them.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.">Aims and Methodology</head><p>In this paper, I investigate the possibility of scribes belonging to the same community by sharing a common training, analysing the productions of scribes O and J in Brogyntyn ii.1. The analysis is carried out mainly using texts copied by these two scribes, who seem to have played the most important role in the organisation of the materials in the manuscript and between whom there was probably some collaboration. <ref type="bibr">31</ref> The ultimate goal, as this area has not yet been deeply explored, is to approach the idea of communities of writing in Warwickshire by closely examining particular scribal practices in relation to one other.</p><p>The analysis is based on my transcriptions of the texts copied by O and J from the digital images of the manuscript. <ref type="bibr">32</ref> The transcriptions aimed to stay as close as possible to the original. <ref type="bibr">33</ref> For each scribe, I have gathered data concerning their palaeographical features, including all abbreviations and other writing marks, their spellings of dialectally diagnostic words, of highly common words with no dialect interest, of the representation of certain sounds, and of specific suffixes. This kind of analysis goes in line with the methodologies for identification of scribal hands by <ref type="bibr">Mooney,</ref><ref type="bibr">34</ref> who proposed looking into spellings as well as letter forms and other palaeographical features, or Da <ref type="bibr">Rol,</ref><ref type="bibr">35</ref> who appealed for the examination of abbreviations, punctuations, and other markers of <ref type="bibr">29</ref> Johnston, Romance and the Gentry, 1, 95-8. 30 Some errors or odd spellings when copying in Latin prompted Connolly to believe that "O was not very practised in copying Latin, and perhaps was not always quite sure of the words" ("Numerous Scribes," 102). This lack of knowledge of Latin does not point to him as being a member of a religious institution. <ref type="bibr">31</ref> This paper is part of a larger study on some of the scribes of the Brogyntyn Manuscript and follows a similar methodological approach to those published by Carrillo-Linares, "One Scribe or Two" and Garrido-Anes, "Scribal Consistency." 32 Images are available at: www.library.wales/discover/digital-gallery/manuscripts/the-middle-ages/a-middle-englishmiscellany. <ref type="bibr">33</ref> The texts of the whole manuscript have been transcribed following the same criteria, and abbreviations have not been expanded; instead, a code has been assigned to every different non-literal symbol in the manuscript. The codes for the abbreviations and non-literal symbols used in this paper are: {0}= ɖ, {1}= łł, {2}=Ꜥ, {3}=ງ, {4}=໑, {5}= -, {5b}= n⊃ {5c}= m⊃ , {5d}= th , {5e}= ɜ, {6}=ꝑ, {7}=Ꝓ, {8}= ɑ , {9}=ꝯ, {10}=ꝭ. <ref type="bibr">34</ref> Mooney, "Re-Examining Adam Pinkhurst," 701. <ref type="bibr">35</ref>  Da Rol, "Medieval Clerical Culture," 742.  scribal practice as well as the investigation of the possibility of how scribal "characteristics may influence a group of scribes or could be taught from master to apprentice" as well as with my previous works on scribal hands. <ref type="bibr">36</ref> Scribal collaboration can be difficult to detect but the cumulative evidence from the analysis of several aspects in the scribal outputs might provide answers to build on the idea of "Communities of Practice". <ref type="bibr">37</ref> Searches and most of the counting of occurrences have been done with the help of the software AntConc 4.3.1 by Laurence Anthony 38 when possible, otherwise manual searches have been performed. I have created scribal profiles with phonological, graphic, and grammatical information in order to carry out a close comparison to account for any similarities or differences in these two scribes' copying practices.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.">Scribes J and O as Organisers of Brogyntyn ii.1</head><p>Scribe O contributed to the manuscript around 21,400 words in twenty-two entries 39 (around 36.4% of the whole material in English), while scribe J copied around 10,270 words in nine entries (21.8% of the material in English). These two scribes have been considered the two main scribes of the codex, even if J's contribution in number of words was smaller than that of scribe Q, who copied only two lengthy entries in the collection (around 12,800 words, 21.8% of the total in English). The reason for considering J and O as the "main scribes" has to do with their role as "shapers" of the volume.  In addition to the twenty-two entries he copied, scribe O provided most of the rubrication in the book and wrote the quire signatures. His entries are found in quires 8, 9, 10, 11, 16,  19, 20, 21, 22, 23, 24, and 25. Entries by O are the following: entry 22 (ff. 59v-61r), the poem called When I Sleep I May not Wake, which is copied to complete the blank space at the end of quire 8, which had been copied by scribe L; O copied entries 23 to 32 continuously into 4 quires, and the last entry was completed by scribe I at the end of quire 11. These stints contain poems on different topics. Thus, entry 23 (ff. 61r-63r) is the poem known as This World is but a Vanity (an old man's); entry 24 (ff. 63v-79r), The Father of Pity and Most of Misericord (a translation of the Visio Fulberti); entry 25 (f. 79v), Lo Wordly Folks (an admonition to prepare for death); entry 26 (ff. 79v-81v), the poem Erthe upon Erthe; entry 27 (ff. 81v-83v), The Mourning of the Hunted Hare; entry 28 (ff. 83v-86v), The Knyȝt and His Wife; entry 29 (ff. 86v-87r), The Holly Mane Sente Marttayne; entry 30 (f. 87r-87v), Narracyon of Sente Tantene; entry 31 (ff. 87v-89v), a poem called Ave regina celorum. The only prose text in this sequence is entry 32 (ff. 89v-90v) which contains medical recipes. However, this entry was started by O in f. 89v, continued by scribe I in f.</p><p>36 For my research on other scribes see Carrillo-Linares and Williamson, "Reconsideration Dialectal Provenance"; Carrillo-Linares and Williamson, "Linguistic Character"; Carrillo-Linares, "Copying Strategies" and Carrillo-Linares, "One Scribe or Two." 37 For further information about the concept of "Communities of Practice" see Kopaczyk and Jucker, Communities of Practice. <ref type="bibr">38</ref> Anthony, AntConc 4.3.1. 39 I follow here the latest distribution as found in Pope, "Contents of NLW MS Brogyntyn ii.1.," 241-50. <ref type="bibr">40</ref> Huws, "Porkington 10 and Its Scribes," 189.</p><p>90r and finished by O again in f. 90v. Not all the recipes follow the same structure or are thematically related, so it is difficult to know whether scribes I and O were copying from the same source. Entry 34 (ff. 129r-130r) is a parody of letter-writing formulae and of medical practice that appears in quire 16, one of the few quires in which we find three scribes at work, and that was started by scribe Q and finished by scribe J. Scribe O's work resumes by the middle of quire 19, with entry 40 (ff. 150r-152r), a poem called Ewyre Say Wyll or Hold þe Still, which appears after a text copied by scribe Q in the same quire, and he continues in that quire with entries 41 to 43. Entry 41 (ff. 152r-154r), contains Trvtallys (a nonsense poem in couplets); entry 42 (f. 154r-154v) is an epistolary love poem, and entry 43 (ff. 154v-155v) is a love poem called Have My Hert, which runs on into quire 20. This quire continues with entry 44 (ff. 155v-157r), Do for Thyself (a moral poem), and the beginning of entry 45 (ff. 157v-184r), The Sege of Jerusalem, which runs into quires 21-23. Entry 46 (ff. 184r-192r) is placed at the end of quire 23, and it is completed in quire 24. It contains The J B Treatise (extracts from a treatise attributed to Juliana Berners); this quire was finished by scribe J. In quire 25, scribe O copied entry 53. (ff. 200r-200v), Veritas verbi domini (Religious carol), entry 54 (ff. 201r-202r), Dialogue between the Virgin Mary and her Child Jesus and entry 55 (f. 202r-202v), The Boar's Head Carol, to fill the blank spaces left by scribe S in a quire started by scribe R.</p><p>Scribe J contributed to the volume with nine pieces of varied lengths scattered in quires 2, 3, 16, 17, 24, 26, and 27. For three entries, his text runs in two consecutive quires, either because he used the first quire to complete the blank spaces left by other scribes and continued his work in a new quire, or because he started a quire to copy a long text and finished his copying in another quire. The rest of the entries he copied run all in a single quire, where he used the blank space left at the end. He copied most of entry 17 (ff. 12r-22v), the poem Sir Gawayn and the Carl of Carlisle, which was finished off by scribe K (ff. 23r-26r). Entries 35 and 36 (ff. 130rv-132r) are two short love poems with which scribe J filled the folios at the end of quire 16 (started by scribe Q and continued briefly by O with a parody occupying two folios). The second poem occupies six lines at the very end of the quire and continues in the same hand at the beginning of quire 17, which was also completed by J with entry 37 (ff. 132r-135v), The Stations of Rome, and entry 38 (ff. 135v-138v), another poem occupying the last three folios of the quire. J also completed quire 24, started by scribe O, with entry 47 (ff. 192r-193v), another poem, and  entry 48 (ff. 193v-194v), a couple of interrelated passages: (a) a letter from a Turkish sultan to Philip of Burgundy and (b) a list of gifts purportedly from Venice to the Pope for use against the Turk. He also copied entries 56 and 57 (ff. 203r-211v), the last two poems that close the collection. These occupy quire 26 and the extant part of quire 27. Although both scribes copied some long texts, in addition to these, they both seem to have filled the blank spaces left in several quires, and thus, both seem to have been involved in the arrangement of the volume, as suggested by Huws. They both shared at some point at least two quires (16 and 24) in which both of them contributed material.</p><p>The watermarks 41 in the batches of paper used in the various quires do not show that O and J were using paper from the same lots when they were copying in quires other than 41 Watermark information is based on that provided by Huws, "Porkington 10 and Its Scribes," as I have not been able to consult the manuscript book itself and my transcriptions and analysis are derived from the digital images available online. (See note 32).</p><p>those in which they both had entries. However, both of them seem to be using batches of paper similar to those used by scribe Q, with whom they both also shared some quires.</p><p>All this seems to evidence some kind of collaboration or connection between, at least, most of the scribes mentioned here, who are all but those of the first quire, which might have run independently before it was put together with the rest of the contents. <ref type="bibr">42</ref> The fact that all the scribes can be linguistically localised in areas close to each other is also an indication that the manuscript was produced locally somewhere in Warwickshire or close areas in the neighbouring counties. The analysis carried out in the following pages suggests that the scribes in Brogyntyn ii.1 collaborated with each other, especially O and J, who are very close in many formal aspects. I, thus, disagree with Hunter, who argued that:</p><p>Rather than the working relationship between O and J being particularly close, it is possible that the quire filling J undertook in units 4 and 5 were part of a commercial transaction on account of access and custody of exemplars. Furthermore, the contribution of two independent production units, each of which are the only units to contain parchment, suggest that scribe J was working independently from O.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.2.">Palaeographical Features of the Main Scribes of Brogyntyn ii.1</head><p>At first glance, the outputs of the two scribes show differences in the duct, size, and neatness of the scripts that point to two separate hands and not one, as tentatively suggested by Salter.<ref type="foot" target="#foot_2">43</ref> However, it is true enough that both O and J have very similar features, and in most cases, the formation of the minuscule letters is almost identical, as can be seen in Figure <ref type="figure" target="#fig_2">A1</ref> in the Appendix and from the description here.</p><p>Both produce a single-compartment secretary shape &lt;a&gt;, executed by starting at the top and curving down to the left to form a semicircle that is closed on the right-hand side by an oblique descender stroke. Minuscule &lt;b&gt; is looped and its stem rises above the general level of the other letters; the lobe is made with a curved stroke to the right of the stem. Scribe J tends to close the loop in initial position more often than scribe O. Minuscule &lt;c&gt; is executed with a flat top and a bottom curve that almost closes the loop when combined with the following letter, but the loop is also occasionally left open.</p><p>Both J and O use two kinds of &lt;e&gt;: (1) a simple close figura that does not differ from present day letter shapes, and (2) a single stroke that rolls on to its back in a reverse loop. Minuscule &lt;f&gt; is identical in both J and O. It consists of a slightly curved ascender at the top cut in the middle by a horizontal stroke. They both deploy a double looped &lt;g&gt; in the cursive style of Anglicana scripts. In O, the lower lobe is most of the time slightly larger than the upper one, while in J, they are almost the same size, but very similar otherwise. Letter &lt;h&gt; is sometimes produced in both scribes' outputs with a broken stroke made in two movements: the first one creates a looped ascender; in the second, the direction of the pen changes to go slightly up, then down again, extending below the baseline in a continued vertical stroke. Often in O, there is no looped ascender but a curved top with a descender, and J also does this although less frequently. Letters &lt;i&gt; and &lt;u&gt; are made with minims preceded by a short approach stroke.</p><p>Minuscule &lt;i&gt; has in most of the cases an oblique stroke over it in both scribes' outputs (coded {5a} here). In both cases, the shade of the ink for the stroke is lighter. Minuscule &lt;k&gt; is a cursive Anglicana figura in both scribes, executed with a double closed rounded upper loop with a short horizontal slash. Letter &lt;l&gt; is executed with a single pen stroke in a cursive loop, sometimes forming a complete closure by cutting the ascender in two to join up with the previous letter, or just reaching the ascender, while on other occasions the loop is left open. O tends to have the loop open more often than J in initial position. As in the cases of &lt;i&gt; and &lt;u&gt;, &lt;m&gt; and &lt;n&gt; also consist of minims that form an open cursive and slightly angular shape.</p><p>Minuscule &lt;o&gt; is always simple and round while &lt;þ&gt; consists of a vertical line with a very thin lead-in stroke for the left arm and a curved limb. The top of the letter is left open in both scribes' outputs. Letter &lt;q&gt; is formed in a cursive manner, from a single stroke of the pen, with a straight descender. Letter &lt;t&gt; is short with a broad crossbar. The vertical extends above the crossbar, which cuts it into two nearly equal halves. &lt;y&gt; is executed with a vertical stroke for the left arm of the letter and an oblique straight stroke for the right. The angle at which it descends is identical in J and O. For &lt;ȝ&gt; both the head and the tail of the letter are curved in both scribes and both seem to draw a stroke to mark the "yogh" somehow. In O it is sometimes curved, while in J it is flat.</p><p>There are also cases in the formation of the letters where both scribes have either slight or major differences. In J the &lt;d&gt; figura is almost exclusively represented by a textura-like backsloping form with a single unlooped stroke. In O, there is a wider range of choice in forming &lt;d&gt;: (1) the same type of shape with an unlooped stroke, (2) a looped shape with the loop to the left, and (3) one where the looped-shaped ascender extends downwards below the line in a vertical stroke that occurs in word-final position and occasionally in medial position. Scribe J tends to spell those words ending in /d/ as &lt;de&gt; instead of using (3).</p><p>Regarding &lt;s&gt;, in both scribes' outputs, there are two types: (1) A tall long &lt;s&gt; that occurs in initial and medial positions. In O, the distribution is very similar to that of J, but in the top lines, a version of the long one also occurs in the final position. It is slightly different from the one in the text, as it curves to the left at the bottom end. (2) A sigma "s", that is, a short and curled &lt;s&gt; with a closed lower loop. This only occurs in the final position in both J and O.</p><p>In the texts by these two scribes there are three kinds of &lt;r&gt;: (1) A long Anglicana form that is extended below the baseline. In J, it occurs only in final position or joined up to an abbreviation mark or a flourish. In O, it occurs in medial position, in initial position, and in final position joined up to an abbreviation mark. (2) A "z"-shaped form, which occurs in initial position, medial position, and in final position in both scribes, However, in O, the letter is formed slightly differently as it seems to be done in two movements: lifting the pen after the main part of the letter is complete and a second movement forming a semicircle placed under the left lower part of the main part of the letter. (3) One resembling a modern &lt;r&gt;, made with two strokes, a vertical one and a very short horizontal one at the top right. It is found rarely in medial position in J and is not found in O at all. The scribes differ in their use of the different types of &lt;r&gt; in some sequences such as &lt;gr&gt; and &lt;dr&gt;, where O always uses (1) while J uses (2).</p><p>The left limb for &lt;v&gt; in J is an oblique tall stroke that at the top curls to the right without forming a completely closed loop. At the bottom, the stroke moves back up to form the right limb, stopping roughly at the same level as the top of the letter coming after. In O, the letter is executed with an approach stroke.</p><p>J has a loop-headed Anglicana version of &lt;w&gt;, i.e., two looped heads. The left one is never closed while the right one is. There is also a single lobe to the right. In O &lt;w&gt; is executed differently: in the initial position, the left limb may have an approach stroke. In all positions, it has a double lobe on the right.</p><p>In the abbreviations and other palaeographical marks, there are also many similarities between both scribes, not only from the point of view of shapes, which are almost identical, but also in their usage in certain contexts. Both scribes coincide in the abbreviations they commonly use. <ref type="bibr">44</ref> Among the common abbreviation marks, they both use a hook ({2}) to represent probably either &lt;er&gt; or &lt;re&gt;. This mark occurs 381x in O and 213x in J, and is often used in combination with &lt;u&gt;, &lt;þ&gt;, &lt;w&gt; or &lt;d&gt; in high-frequency words such as "euer", or words with that sequence of letters (e.g., "neuer", "euery", etc.), "þer", or compounds with the same sequence of letters ("þer-fore", "þer-in", "þerof", "þer-after", etc.), "wer", and in combinations with other lexemes ("wer-for", etc) or "under" and its compounds ("under-stonde", "under-stode", etc.). Outside high-frequency words, the abbreviation mark is minimally used by both scribes after these letters and in those high-frequency words it is rarely fully expanded. It can also occur occasionally with &lt;p&gt; to represent syllables &lt;pre&gt; or &lt;per&gt; (19x by O and 10 x by J). Syllables &lt;pre&gt;, &lt;per&gt;, &lt;pra&gt;, and &lt;par&gt;, are also abbreviated in some occasions with one of the two ornamented &lt;p&gt; forms, which occurs as a horizontal mark halfway down the descender of the &lt;p&gt; ({6}), although this is used only 5x in O and 16x in J. Fully expanded forms of these sequences are commoner than abbreviated ones in both O and J, whose outputs show &lt;pre&gt; 31x, &lt;per&gt; 25x, &lt;pra&gt; 37x and &lt;par&gt; 74x in O, and &lt;pre&gt; 5x, &lt;per&gt; 11x, &lt;pra&gt; 12x and &lt;par&gt; 44x in J. In very sporadic or unique occasions, both scribes also use {2} after &lt;v&gt; 2x and &lt;n&gt; 2x, and there are also extremely infrequent occurrences of this abbreviation mark after &lt;b&gt;, after &lt;m&gt; in J, or after &lt;t&gt; in (O). Another type of ornamented &lt;p&gt; ({7}) with a concave curve forming a loop on the left side occurs 19x in O and 4x in J, representing the syllable &lt;pro&gt; and which is fully spelled 14x in O and 5x in J. The percentage of usage of the abbreviated form is slightly higher in O (57%) than in J (44%), but O has many more examples of the sequence &lt;pro&gt; (abbreviated or not) in words occurring in his texts. They differ, though, in the use of a superscript &lt;a&gt; or &lt;u&gt; ({8}) to represent &lt;ra&gt;, &lt;ar&gt;, &lt;re&gt;, &lt;er&gt;, or &lt;ru&gt;, &lt;ur&gt;. Scribe O hardly ever uses this mark to abbreviate (3x in all), whereas scribe J is more inclined to use it. It occurs 46x although repeated several times in the same three lexical items (MERCY, GRACE and MERCHANT) with only some other occurrences in other words.</p><p>They both use a backwards loop ({4}) to represent &lt;er&gt; or &lt;re&gt;, occurring 126x in O and 92x in J mainly after &lt;t&gt; (120x in O and 84x in J). Occasionally, it is found after &lt;g&gt; (3x in O and 2x in J), &lt;c&gt; (1x in O and 2x in J), &lt;d&gt; (4x in J), and &lt;f&gt; (only once in J). The syllable &lt;ter&gt; is not often fully spelled in either of the scribes' outputs (O does it 28x, while J does it only 4x). Both show a clear preference for the abbreviation in this sequence. A very similar mark occurs 971x in O and 579x in J after an r ({3}). It is 44 See note 33.</p><p>difficult to decide whether this mark represents an omitted &lt;e&gt; or whether it is an otiose mark, but both scribes use it extensively.</p><p>To denote plural, genitive forms, and some verbal endings or Latin word inflections, they both make use of a round curl over the line, a small 9-shaped mark ({9}), which is used 195x throughout all the entries copied by O and 190x in the entries copied by J. This contrasts with the very limited use of another mark that can be used for the same purpose, consisting of a loop going up and turning backwards with a long descender ({10}), which is used 2x in O and only once in J. Other scribes contributing to the same manuscript tend to use this mark much more often than scribes O and J, while their use of {9} is more limited.</p><p>One of the most significant and common features that both scribes share is a bar or horizontal stroke over one or more letters ({5}), which, even if it is a common mark of suspension, occurs extensively and with different purposes in these two scribes. It mainly falls over a vowel probably to denote a nasal sound following, or it can be over an &lt;n&gt; or an &lt;m&gt; to probably denote a doubling of these nasal sounds. This happens in contact with an actual letter &lt;n&gt; (282x in O and 147x in J), while with a letter &lt;m&gt;, it occurs frequently in O (98x) but very infrequently in J (3x). A variation of this mark is a back-curving loop starting from the foot of the minim of a word-final letter and finishing above the letter ({5b} and {5c}), which is more frequent in J than in O. The letter &lt;n&gt; is often doubled in the two scribes' outputs: &lt;nn&gt; occurs 92x in O and 68x in J. Doubling &lt;m&gt; is far less common as it occurs only once in O and 2x in J. The texts also show a stroke over &lt;ȝ&gt; when the letter represents the reflex of OE /x/ {5e}, and occasionally in O (6x) but not in J over &lt;th&gt; 45 ({5d}), with no apparent clear purpose.</p><p>A crossed double "l" ({1}) is also the norm for both scribes and is found 525x in O and 297x in J. The fully spelled syllable &lt;lle&gt; occurs less frequently (45x in O and 22x in J). Again, this is not the norm for other scribes of the collection, as for example, scribe K's preference to spell out fully that sequence while his use of the crossed double "l" is only marginal. <ref type="bibr">46</ref> The last piece of palaeographical evidence shared by both scribes is the tall ascenders in some letters at the top-of-the-page lines that occur in letters &lt;l&gt;, &lt;h&gt;, &lt;k&gt;, &lt;b&gt; and &lt;w&gt;. They are more frequent in the recto of the folios, although they also appear in the verso. These ascenders do not occur in other parts of the manuscript that were copied by the other scribes. These tall ascenders are one of the reasons why Salter 47 suggested that scribes O and J could be one and the same person. However, this practice is not uncommon in other fifteenth-century manuscripts, so this seems to be very weak evidence to support her hypothesis, although it might certainly indicate some kind of close connection between these two scribes who were following the same aesthetic structure for the different parts of the book. <ref type="bibr">45</ref> The shade of ink of these marks may vary; it might be fainter or paler in a similar way to that of the diagonal stroke over &lt;i&gt;, probably added to distinguish it clearly from other letters with which it could be confused. The difference in the shade of the strokes might also suggest a later revision by these same scribes or by another hand (See Carrillo-Linares, "Outcomes Editorial Intervention," 22). <ref type="bibr">46</ref> Carrillo-Linares, "One Scribe or Two," 1345. <ref type="bibr">47</ref> Salter, Popular Reading in English, 193.</p><p>The description of most of the letter shapes might initially seem to point to a single scribe. As can be seen in Figure <ref type="figure" target="#fig_2">A1</ref>, the output in most of them is almost identical. Yet there are some clear distinguishing peculiarities, in which each scribe is consistent. The two hands also differ in size as O's output is always bigger than J's. <ref type="bibr">48</ref> A similar training in their writing skills could certainly produce such similar outputs in two different scribes in the same way that monks were trained in specific "house styles" of calligraphy and handwriting for their community. <ref type="bibr">49</ref> This, however, is not by itself a conclusive argument to defend the idea of a community of scribes with similar training, and other common features should be considered as well.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.3.">Traces of Provenance: Dialectal Features of Scribes O and J</head><p>Both scribes have many other things in common. As stated before, the language of the texts copied by both hands can be localised in the same area, and there is evidence in their production for the common diagnostic items used for establishing their provenance, although the scribes' outputs are not always exactly the same for many of these items. Figure <ref type="figure" target="#fig_3">A3</ref> (Appendix) shows the diagnostic items used for the fitting of the texts and the forms displayed by the scribes across all their production. Both scribes have forms for AGAIN, and both use in their writing forms with &lt;-ȝ-&gt; and forms with &lt;-g-&gt;. However, scribe O's preference seems to be for the forms with &lt;-ȝ-&gt;, as the occurrences of those represent 79% of the total, while scribe J is just the opposite, 66.6% of the total are forms with &lt;-g-&gt;. Alongside, the forms for AGAINST in scribe O are exclusively forms with &lt;-ȝ-&gt; while scribe J uses forms with &lt;g&gt; in 44.4% of the total instances and the scribes show variation within this same type concerning the medial vowel, which is in itself another diagnostic feature. The variety exhibited by each scribe within the same type, combination of types or different types reveals the considerable extent of the scribes' options within the same dialect area, so we should not expect two scribes to have identical linguistic profiles even if they had a common training.</p><p>Another distinctive diagnostic feature that runs in both scribes' outputs is THEIR spelt with initial &lt;h-&gt;, as against forms with initial &lt;þ-&gt;. Both scribes use initial &lt;h-&gt; forms as majority forms, but they also use initial &lt;þ-&gt; albeit in different proportions. O and J have a preference for &lt;h-&gt; and O uses it in 61% of the cases, while J's usage of &lt;þ-&gt; forms is far more reduced, only 8% of the forms. For THEM, again both scribes have a wide range of options to choose from both types, but in this case, O prefers &lt;þ-&gt; forms (78.5%), while J's preference is the &lt;h-&gt; forms (57.9%). As with other forms and features, there is a variety of available forms within the types for the scribes to choose from. Forms for the present plural of the verb BE occur in both scribes as well. In both, there are "beth" type forms for ARE, which are useful in the localisation, but the actual forms are found with different medial vowels, fact which does not change the possible localisation, but it might reflect a personal preference in each case. Conversely, some of the scribes' forms for FIRE, such as the "fyer" type are not very common and are used by both of them.</p><p>The item IT is mainly represented in both scribes' outputs by an &lt;h-&gt; type, although both hands exhibit examples of "it / yt" as well but in both cases as a minority or sporadic <ref type="bibr">48</ref> See Figure <ref type="figure">A2</ref> in the Appendix for folios 191v-192r, to which they both contributed. <ref type="bibr">49</ref> Kwakkel, "Decoding Material Book," 64.</p><p>form. The forms with medial &lt;-u-&gt; for CHURCH and FIRST, and those with medial &lt;-o-&gt; for MANY are all in the majority in all the texts by these two scribes. Minority forms with spellings representing /i/ also occur in both scribes' outputs, and in J, there is one example of spellings representing /o/. The western forms with medial &lt;-o-&gt; for MANY are not used exclusively since in O there are 32% of cases of &lt;-a-&gt; spellings, and in J there are also 12.5% of occurrences with medial &lt;-a-&gt; and 4.1% of occurrences with medial &lt;-e-&gt;. Furthermore, although they both share a form for EACH that highly restricts the area of provenance, scribe O has a much wider range of possible outcomes for that item, which are used by him in more or less the same proportion, and which are even more locally restricted as shown in Figure <ref type="figure" target="#fig_3">A3</ref>.</p><p>Most of the texts by both scribes also alternate between forms in &lt;g-&gt; and in &lt;ȝ-&gt; for GIVE, although O shows a preference for forms with &lt;ȝ-&gt; (65%), while J seems to prefer forms with &lt;g-&gt; (64.7%). The &lt;g-&gt; forms are typically found in the North, although the distribution extends as far as the central and east Midlands, and there are sporadic clusters of occurrences in other parts of the country, which, together with the rest of the features, places these two scribes in the central and southern parts of the counties of Worcester and Warwick. Medial /k/ in forms for MUCH occur in the writings of both scribes as well although they are not their commonest forms. They occur in 30.7% of the cases in O and in 16.6% in J. Although occurring most frequently in the north and east of the country, attestations are found in other parts, including the boundaries between Worcestershire and Warwickshire where both scribal outputs have been localised.</p><p>From these data, it can be concluded that despite regional similarities, the individual linguistic choices of each scribe reveal differences in orthographic preferences. This is because scribes-even in the same area-do not write identically, and their language reflects a combination of regional features, personal habits, and perhaps exposure to different influences such as those carried over from their training or from professional experience. In spite of this, these two scribes share many forms that were available among many others for the diagnostic items commented here. The spelling of many of their words was certainly determined by local pronunciation, while in other cases, spelling differences might have had no ground in pronunciation at all. Yet they still reflect lack of spelling standards, and such spellings could also be marked by regional conventions that could be passed on through scribal training.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.4.">Traces of Training: Spelling and Other Writing Features of Scribes O and J</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.4.1.">Shared Spelling Features in the Work of Scribes O and J</head><p>Both scribes have features that are not diagnostic of their provenance, either because they are widespread throughout the whole country or they occur in larger dialect areas, or because they have not been recorded in specific locations with enough frequency to be considered representative of a particular area. Some of these features are listed in Figure <ref type="figure" target="#fig_6">A4</ref> (Appendix). Among the most salient are some that are shared by both scribes. These are purely orthographic characteristics that cannot be considered a representation of their dialectal traits. <ref type="bibr">50</ref> The spellings for the item ANY show in both the scribes' outputs an alternation of forms with &lt;a&gt; and &lt;e&gt; as initial vowels, although 50 Some other purely orthographic features are certainly associated to dialect areas but not the ones mentioned here.</p><p>the majority form is the initial &lt;a&gt; type, which happens to be the most common type in the whole country; however, both scribes share an additional feature within both types, as they both double the nasal consonant in two possible ways, either implicitly with a suspension mark or with the actual doubling of consonants. This doubling of the nasal consonant also occurs in the forms for the item MANY, although in this case, most of the doublings are expressed with the suspension mark. Doubling the nasal consonant in MANY forms is recorded in e-LALME in only one Linguistic Profile in Derbyshire (LP 61) as a minority form in a late fourteenth-century text, so this feature is rare. Doubling of the consonant in ANY forms is more common, although still not the main scribal choice in most of the locations where it occurs. As a majority form, it occurs in LP 96 (Nottinghamshire), LP 415 (Yorkshire West Riding), LP 544 (Yorkshire East Riding), LP 442 (Lancashire), and LP 6752 (Berkshire). The occurrence of an abbreviated form (presumably with a suspension mark) is even rarer as it has been recorded in e-LALME in only one Linguistic Profile from Northamptonshire (LP 4003). This feature is not attested in any other texts from Warwickshire.</p><p>Another shared characteristic that does not clearly signal a particular dialectal pronunciation is the spellings they both show for the item HEAVEN. Although information for this item has been recorded in e-LALME only for the northern survey, there is enough evidence to see the frequency of occurrence of certain features. There are two particularities that need to be considered here. The first one is the medial &lt;-w-&gt; spelling for /v/, which has been recorded in ten Linguistic Profiles, mainly in the northern and eastern areas, 51 but also in one fifteenth-century text from Warwickshire (LP 4285). Presence of forms with medial &lt;-w-&gt; in other words has been recorded unsystematically and infrequently for the southern survey in e-LALME. The item HEAVEN with this feature occurs in one text from Devon (LP 5064), although having no consistently collected data for the southern survey does not allow comparison with the northern evidence. Nevertheless, the evidence from the Linguistic Profiles where the item was recorded suggests that the forms with medial &lt;-w-&gt;, if not rare, are less frequent than forms with medial &lt;-v-&gt; or &lt;-u-&gt;. These spellings are also found in both scribes' outputs with higher relative frequencies (63.1% in O and 87.5% in O). What is most significant is that both have forms with the &lt;w&gt; variant, some of which are in the minority for both, and that these forms are not the most common in general use. Furthermore, the second shared peculiarity in the spellings of HEAVEN is in the forms in which the stressed vowel is represented by the spelling &lt;ey&gt;. This is not uncommon for representing ME /e:/, and this could be a possible pronunciation of the root vowel of the word with origins in OE heofon, where the original short vocalic sound could have undergone open syllable lengthening in a disyllabic word. Nonetheless, in this particular word, e-LALME records show that &lt;ey&gt; spellings are uncommon. They have been recorded in six Linguistic Profiles, mainly in the north-west Midlands, but also in LP 4285 from Warwickshire. 52 Scribe J uses forms with medial &lt;ey&gt; in all the occurrences in his texts, while <ref type="bibr">51</ref> The LPs are the following: LP 1349 (Yorkshire West Riding, early fifteenth century), LP 115 (Yorkshire West Riding, fourteenth century), LP 362 (Yorkshire East Riding, 2nd half fifteenth century), LP 45 (Lincolnshire, early fifteenth century), LP 587 (Lincolnshire, mid fifteenth century), LP 206 (Lincolnshire, mid fifteenth century), LP 901 (Lincolnshire, first half fifteenth century), LP 149 (Norfolk), LP 4662 (Norfolk, c. 1500) and LP 1 (Leicestershire, c. 1400). 52 These spellings have also been recorded in LP 6 (Lancashire, c. 1400), LP 764 (Lancashire, 1500 or later), LP 104 (Cheshire), LP 29 (Yorkshire West Riding, fifteenth century), LP 257 (Derbyshire, fifteenth century), and LP 503 (Nottinghamshire, fifteenth century).</p><p>scribe O does it in 73.6% of the cases, and although these forms have been recorded in the same area where these two scribes have been localised, they are still rare and none of the other scribes in Brogyntyn ii.1 exhibit this feature, 53 which further suggests some connection between O and J.</p><p>The forms with &lt;w&gt; or &lt;v&gt; for FROM are very rare in the e-LALME sources. There is no specific zone where these forms occur, as they have been recorded in four Linguistic Profiles from distant areas, although two are located in Devon: LP 5292, a fifteenthcentury manuscript where these forms coexist as majority forms with "from"; LP 5063 copied in the mid fifteenth century; 54 LP 299 from Leicestershire is another fifteenthcentury text in which these forms occur in the minority, and in LP 4030 from the Buckinghamshire / Berkshire border, they seem to be just a sporadic form. These forms are not of high diagnostic value dialectally since they do not occur in any specific geographical cluster so the coincidence in both scribes cannot be attributed to dialectal origin. Even if these forms do not occur frequently according to the e-LALME sources, they seem to be preferred by both O and J, who use them in 47.1% and 58.3% of the cases for FROM in their texts, respectively.</p><p>Even rarer is the form "ȝeyf(e)" found in both scribes as a minority form for IF. This exact spelling is not recorded in e-LALME. However, the spelling "ȝeyff" occurs as a minority form in LP 195, from Lincolnshire, a sixteenth-century copy of the Seignory of Castle Carlton (nr. Louth), ca. 1425, reproduced by two hands who are linguistically very similar to that of the original. <ref type="bibr">55</ref> Therefore, it seems that the "ȝeyff" type was extremely rare but in use at the time of the composition of the Brogyntyn manuscript. Being present in excerpts from both O and J in several instances suggests that for some reason both were familiar with it, either because they had seen it in earlier documents to which they both had access, or because it was a relic form carried over from the same, or very close sources, by the two scribes.</p><p>Likewise, both scribes use abbreviated forms for WITH (or in compounds with WITH) in the vast majority of cases, as can be seen from the frequencies in Figure <ref type="figure" target="#fig_6">A4</ref>. O uses two different abbreviated forms: (a) the spelling "w t " which is well attested in the whole country, and (b) abbreviated forms with &lt;tt&gt; which are extremely rare. J uses only the latter. In both scribes' texts, the double &lt;t&gt; is slightly raised in relation to the rest of the letters in the line, although only in a few instances is it clearly superscript. The Middle English Dictionary (MED) does not give any instances of the spelling "w tt " and there are not any e-LALME records that contain forms of that type. There are no attestations in A Corpus of Middle English Local Documents (MELD) or The Middle English Grammar Corpus (MEG) corpora either. In A Linguistic Atlas of Early Middle English (LAEME), there are two occurrences of the full form "witt", but other than that I have not found any other examples, so it seems that this abbreviated form was certainly not one that was adopted by many scribes in the fifteenth century. As with the IF occurrences, all these forms are so rare that they seem to point to a connection between these two scribes, either from training or from shared access to sources. <ref type="bibr">53</ref> The item HEAVEN occurs in the outputs of scribes K, L and Q with several occurrences whose spellings are less idiosyncratic: K: heuyn 1, heuyn{5} 1; L: heuen{5} 1; Q: hevyn{5a} 8, hevyn 2, heuyn{5a}, hevyne 3, heuyn 1, hevynly 11. I am grateful to Edurne Garrido Anes for having checked for me potential occurrences for scribes A and L). <ref type="bibr">54</ref> The forms in this text seem to be slightly different, but they still show &lt;w&gt; ("frwo" and "fowre"). <ref type="bibr">55</ref> The original is found in Leicestershire Record Office: L. Mus. 1.D.50/XII/6.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.4.2.">Other Shared Writing Features of the Scribes</head><p>Both scribes also share many other features that are quite common and have been recorded in many different areas of the country; however, from the many possible choices they might have deployed, they seem to have made very similar choices. For the representation of certain sounds (Figure <ref type="figure">A5</ref>, Appendix), both scribes show striking similarities. Scribe O uses three spellings for what could have represented /u:/. His preferred one is &lt;ow&gt; (46.6%), followed in number of occurrences by &lt;ov&gt; (36.5%) and &lt;ou&gt; (16.8%). Scribe J uses these same three spellings but with different proportions: &lt;ou&gt; (53.8%), his preferred one, followed by &lt;ow&gt; (44.1%) and, although used much less frequently than in O's production, &lt;ov&gt; (2.1%). Likewise, for medial /v/ the two scribes have three options: &lt;v&gt;, &lt;u&gt;, and &lt;w&gt;. The first two are extremely common, so they are not significant for this discussion, however, &lt;w&gt; is less common and O deploys it in 16.9% of the cases compared to J's slightly smaller proportion (9.3%). The same spellings are used by both scribes for initial /v/, although O uses &lt;w&gt; more frequently (49%) than J (12.5%). Neither of the other scribes in this same manuscript uses the &lt;ov&gt; spellings for /u:/ or &lt;w&gt; for medial or initial /v/.</p><p>Both scribes use &lt;ȝ&gt; to represent the reflex of OE /x/ in 98% (O) and 97.5% (J) of the cases. Scribe J very consistently adds a horizontal stroke over this letter to mark a difference from the &lt;ȝ&gt; representing the phonetic value [j], which is represented by this littera on most occasions by both scribes, although they both also use &lt;y&gt; in roughly similar proportions (34.3% for O and 25.7% for J). Scribe O also sometimes represents the reflex of OE /x/ with the same additional marking, although he is not as consistent as scribe J.</p><p>For the words where there is a suffix (Figure <ref type="figure">A6</ref>, Appendix), for the sequence -BLE, the majority forms for scribe O and all forms for scribe J contain an &lt;u&gt;, so &lt;-bul(l)&gt;. For those words with the suffix -NESS, both scribes choose forms with &lt;y&gt; or &lt;i&gt;, although, as in other occasions, these forms are very common and geographically widespread. For the suffix -SHIP, otherwise, both scribes show different choices, as hand O's invariable preference is for forms with medial &lt;y&gt; while J opts for forms with medial &lt;e&gt;.</p><p>Lastly, the use of double consonants other than &lt;nn&gt;, &lt;mm&gt; or &lt;ll&gt; is also a shared characteristic of these two scribes. Mustanoja<ref type="foot" target="#foot_3">56</ref> observed that for one of the texts of scribe J "A striking feature is the doubling of the consonant in many words". This can be extended to all the texts by J and O. On some occasions, the use of the double consonant is a common practice among medieval scribes, as in, for example, &lt;ff&gt; as an alternative to capitalise. In the case of other litterae, this practice is less common, but certainly not unique to these two scribes. <ref type="bibr">57</ref> In O's texts, the doubling of &lt;d&gt; occurs 52x in medial position in a word, before a suffix or inflection or before an abbreviation mark. In J's, it occurs 19x in the same environments. Doubling of &lt;g&gt; is less common but occurs 11x in the texts copied by O and 7x in those copied by J. The environment of occurrence is the same as that for &lt;dd&gt;. Double &lt;p&gt; occurs very frequently in O (150x) but somewhat less frequently in J (29x). Double &lt;s&gt; is also frequent in both O and J (155x and 79x respectively) and the occurrences of double &lt;t&gt; are strikingly high as well (436x and 421x). There are for both scribes also examples of double &lt;b&gt;, &lt;c&gt; and &lt;r&gt;.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="4.">Concluding Remarks</head><p>This study has carried out a systematic comparison of different variables in the language output of two sets of texts, which have been attributed to the scribes labelled J and O. Attention has been paid to palaeographical features, including abbreviations and other writing marks, as well as orthographic treatment of dialectally diagnostic forms, frequently occurring words of no apparent dialectal significance, particular phonological representations, and specific morphological endings. I conclude from the analysis that despite the many similarities between the outputs, two scribes were at work in the stints analysed, thus supporting the proposals made by Kurvinen 58 and Huws, 59 and disregarding the one made by <ref type="bibr">Salter. 60</ref> There are differences in the duct, size, and neatness of the scripts that clearly point to two separate hands, even if the formation of the letters is almost identical in both scribes, and there are only three letters with significant differences. However, both of them use their figurae for these three litterae consistently in each output. Moreover, their dialectal features indicate a similar place of origin or training, but again, they use different variants that can be localised in the same areas, giving each scribe an individual profile despite overarching regional affinities. Such variation may reflect the influence of regionally specific scribal habits transmitted through training, but they also use several rare forms that could be indicative of a particular use in a small community.</p><p>All in all, scribe O preserved more archaisms and deployed a richer range of forms. Scribe J adopted more contemporary spellings, leaning towards a more simplified language. This admits different interpretations. One reason could be generational: scribe O was older and maybe the master who trained J. However, it is also possible that scribe O was less innovative because his flexibility in deciding on possible spellings was not as extensive as that of J due to inexperience. This could have led him to preserve some archaic spellings from his copy-texts without questioning them. In this case, J could be the master and O the apprentice. This scenario could be supported by the neatness of J's script compared to the looser writing of O's, as one might expect the master, or more experienced copyist, to have the neater script. Likewise, it is also possible that both were trained by the same person and they collaborated whenever they had a job to do. These possible scenarios are pure speculation, but all are plausible. What seems to be clear from the analysis is that the two scribes have many things in common in the written language they produce, and although both were responsible for copying extended textual units, they also appear to have made use of blank spaces within several quires, indicating a collaborative role in determining the manuscript's overall structure. Notably, both scribes contributed together to at least two quires, providing clear evidence of joint involvement in the production. J wrote quire 17 in full, suggesting that the task of starting in quire 16 was not just filler, but a means of making use of the available space in order to continue with new quires at a later stage. He did not complete the copying the text of the poem Sir Gawayn and the Carl of Carlisle, which was finished off by scribe K in the quire started by J, suggesting that another scribe, probably within the community, was commissioned <ref type="bibr">58</ref> Kurvinen, "Porkington 10." <ref type="bibr">59</ref> Huws, "Porkington 10 and its Scribes." <ref type="bibr">60 Salter,</ref><ref type="bibr">Popular Reading in English.</ref> to undertake the copying of the remaining part in this collaborative volume. J's contribution to quire 24 appears to be a filler task, though. The fact that J wrote after O in quire 16 also suggests that he used pre-existing material to finish the final product.</p><p>There are no records of scribal communities in Warwickshire in the mid-fifteenth century, other than those in religious institutions that might have continued the copying of books. Nevertheless, the evidence accumulated here leads to the conclusion that the many similarities between these two scribes, who do not seem to have belonged to a religious order, are not likely to be coincidental. Among the texts localised in the same area in e-LALME, there is only one (LP 4285) that shows the same kind of accumulation of similar features to those mentioned throughout this study. The text corresponding to this LP is a copy of Mirk's Festial found in London, British Library, Lansdowne 392, and written by a single hand on vellum. Besides the linguistic localisation provided in e-LALME, there is some extralinguistic information in the inscription on folio 3r, "Actor libre dicitur fuisse plom{5}er" which, according to Wakelin, identifies this manuscript as a loan from a friend at Longbridge, near Warwick. For most of the text in this manuscript, the scribe(s) use a style of Anglicana script with some Secretary features. However, as the text progresses, it becomes less neat and more informal, and the last few folios are in a Secretary hand with Anglicana features. For most of the text, the scribe of Lansdowne 392 and the scribes of the Brogyntyn manuscript used different scripts, so it is not possible to compare their palaeographic features to identify a possible scribal match. In the last few folios, the three outputs are very similar, but they also differ in the formation of some letters. Similarly, as most of the Lansdowne text is written in a more formal style, there is a tendency to use fewer abbreviations, although the ones he uses are the same and in the same contexts or words as those used by O and J. Furthermore, the scribe of this text shares many spellings with the other two, some of them to be expected because of the similar provenance, but others, arguably, could also be motivated by a shared training. Thus, the scribe of the Lansdowne manuscript uses double consonants (e.g., "nekke") and the horizontal slash over nasals (e.g., "syn{5}ne") and &lt;h&gt; (e.g., "such{5d}"). The use of the horizontal bar to replace a nasal is also common (e.g., "su{5}"). Likewise, he makes extensive use of the abbreviation {9} for plurals and genitives (e.g., "clerk{9}") along with the ending "-us" (e.g., "clerkus"). The spelling "heyvon" for HEAVEN is also found, and there are multiple cases of &lt;w&gt; for initial or medial /v/ (e.g., "heywon"). Finally, this scribe follows the same aesthetics as O and J and uses the same type of tall ascenders in the first line of some pages. Even if, as already mentioned, this is something common in the fifteenth century, it is interesting to note that, in addition to other characteristics, they also share this one. It is not the aim of this article to make an exhaustive comparison of the characteristics of this copyist with those of J and O. That would be the subject of another study, but it would be desirable to carry out this research to try to determine whether the Lansdowne copyist might be one of the two main scribes of the Brogyntyn ii.1. If, on the contrary, he turned out to be a different person but with a very similar training to these two, this would further support the hypothesis of a community of scribes in Warwickshire in the second half of the fifteenth century. Additionally, as Connolly suggested, a search for evidence of these hands among the legal documents produced in Warwickshire during the third quarter of the fifteenth century could shed more light on local writing communities.     </p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head></head><label></label><figDesc>40    </figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_1"><head>3. 1 .</head><label>1</label><figDesc>Mapping Scribal Contributions: The Roles of J and O in the Compilation of Brogyntyn ii.1</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_2"><head>Figure 1</head><label>1</label><figDesc>Figure 1 Continued</figDesc><graphic coords="24,65.65,53.29,361.19,340.78" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_3"><head>Figure A3 .</head><label>A3</label><figDesc>Figure A3. Dialectal diagnostic items for O and J.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_4"><head>Figure 3</head><label>3</label><figDesc>Figure 3 Continued</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_5"><head>Figure 4 Figure 4</head><label>44</label><figDesc>Figure 4 Continued</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_6"><head>Figure 4</head><label>4</label><figDesc>Figure 4 Continued</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0"><head></head><label></label><figDesc></figDesc><graphic coords="25,65.65,53.29,361.19,261.58" type="bitmap" /></figure>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" xml:id="foot_0"><p>… in the later middle ages there appears to be no evidence for an organised secular establishment where a group of scribes worked together under close supervision, except those in royal administration, where a scribe's work was checked by a senior clerk who wrote his name at the bottom of a document before it was issued.</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="42" xml:id="foot_1"><p>Salter, Popular  Reading in English, 192 also mentions briefly Huws view's on paper watermarks to support her proposal.</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="43" xml:id="foot_2"><p>Salter, Ibid.   </p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="56" xml:id="foot_3"><p>Mustanoja, Good Wife Taught Her Daughter, 132.   </p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="57" xml:id="foot_4"><p>e-LALME data for this feature seems to have been collected unsystematically and only for the southern survey, so it is not possible to view the frequency of occurrences in O and J against the bigger picture.</p></note>
+		</body>
+		<back>
+
+			<div type="acknowledgement">
+<div><head>Acknowledgements</head><p>Part of the research and elaboration of this paper has taken place during my visitorship to the <rs type="institution">"Angus McIntosh Centre for Historical Linguistics" in the School of Philosophy, Psychology, and Language Sciences at the University of Edinburgh</rs>. My sincere thanks to <rs type="person">Benjamin Moulineaux</rs> for sponsoring my visit. I am also very grateful to the two anonymous reviewers for their positive comments and their suggestions of relevant bibliography. My deepest gratitude, as always, to my colleague and friend, <rs type="person">Edurne Garrido-Anes</rs>, who has collaborated with me on a more global study of the Brogyntyn manuscript and whose insights and thoughts are always extremely valuable. Last, but not least, I would like to thank my husband, <rs type="person">Keith Williamson</rs>, with whom I have long discussions on these matters, and who always patiently reads earlier drafts of my work providing invaluable suggestions.</p></div>
+			</div>			<div type="annex">
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Disclosure Statement</head><p>No potential conflict of interest was reported by the author(s).  </p></div>			</div>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">Laurence</forename><surname>Anthony</surname></persName>
+		</author>
+		<ptr target="https://www.laurenceanthony.net/software/antconc/" />
+		<imprint>
+			<date type="published" when="2024-06-01">AntConc 4.3.1. 2024. June 2025</date>
+			<pubPlace>Tokyo</pubPlace>
+		</imprint>
+		<respStmt>
+			<orgName>Waseda University</orgName>
+		</respStmt>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<title level="a" type="main">Copying Strategies of Late Middle English Scribes: Hand(s) and Language(s) of Two 15th-Century Manuscripts</title>
+		<author>
+			<persName><forename type="first">María</forename><surname>Carrillo-Linares</surname></persName>
+		</author>
+		<author>
+			<persName><surname>José</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of the Spanish Society for Medieval English Language and Literature</title>
+		<imprint>
+			<biblScope unit="volume">25</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="121" to="172" />
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+	<note>SELIM</note>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title level="a" type="main">One Scribe or Two? On the Copying of Sir Gawayn and the Carl of Carlisle in NLW Brogyntyn ii.1</title>
+	</analytic>
+	<monogr>
+		<title level="j">English Studies</title>
+		<imprint>
+			<biblScope unit="volume">104</biblScope>
+			<biblScope unit="issue">8</biblScope>
+			<biblScope unit="page" from="1333" to="1362" />
+			<date type="published" when="2023">2023</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title level="a" type="main">Outcomes of Editorial Intervention in Texts from National Library of Wales, Brogyntyn Ms ii.1: Past, Present and Future</title>
+	</analytic>
+	<monogr>
+		<title level="j">Revista Canaria de Estudios Ingleses</title>
+		<imprint>
+			<biblScope unit="volume">87</biblScope>
+			<biblScope unit="page" from="17" to="43" />
+			<date type="published" when="2023">2023</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title level="a" type="main">Provenance of Scribal Languages</title>
+		<author>
+			<persName><forename type="first">María</forename><surname>Carrillo-Linares</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Edurne</forename><surname>José</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Garrido-Anes</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Understanding a Multi-Scribe Miscellany: NLW MS Brogyntyn ii</title>
+		<editor>
+			<persName><forename type="first">Nancy</forename><forename type="middle">P</forename><surname>Pope</surname></persName>
+		</editor>
+		<meeting><address><addrLine>York</addrLine></address></meeting>
+		<imprint>
+			<publisher>York Medieval Press</publisher>
+			<date type="published" when="2025">2025</date>
+			<biblScope unit="volume">1</biblScope>
+			<biblScope unit="page" from="30" to="64" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title level="a" type="main">A Reconsideration of the Dialectal Provenance of the Prick of Conscience in Oxford, St John&apos;s College, 57</title>
+		<author>
+			<persName><forename type="first">María</forename><surname>Carrillo-Linares</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Keith</forename><surname>José</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Williamson</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Anglia</title>
+		<imprint>
+			<biblScope unit="volume">137</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="303" to="350" />
+			<date type="published" when="2019">2019</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title level="a" type="main">The Linguistic Character of Manuscripts Attributed to the Beryn Scribe: A Comparative Study</title>
+	</analytic>
+	<monogr>
+		<title level="m">The Multilingual Origins of Standard English</title>
+		<editor>
+			<persName><forename type="first">Laura</forename><surname>Wright</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Berlin</addrLine></address></meeting>
+		<imprint>
+			<publisher>De Gruyter Mouton</publisher>
+			<date type="published" when="2020">2020</date>
+			<biblScope unit="page" from="87" to="139" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title level="a" type="main">The Numerous Scribes of NLW MS Brogyntyn ii.1</title>
+		<author>
+			<persName><forename type="first">Margaret</forename><surname>Connolly</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Understanding a Multi-Scribe Miscellany: NLW MS Brogyntyn ii</title>
+		<editor>
+			<persName><forename type="first">Nancy</forename><forename type="middle">P</forename><surname>Pope</surname></persName>
+		</editor>
+		<meeting><address><addrLine>York</addrLine></address></meeting>
+		<imprint>
+			<publisher>York Medieval Press</publisher>
+			<date type="published" when="2025">2025</date>
+			<biblScope unit="volume">1</biblScope>
+			<biblScope unit="page" from="65" to="104" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title level="a" type="main">Medieval Clerical Culture: The Sociology of Scripts and the Significance of Scribal Quirks</title>
+		<author>
+			<persName><forename type="first">Da</forename><surname>Rol</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Orietta</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Speculum</title>
+		<imprint>
+			<biblScope unit="volume">99</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="713" to="743" />
+			<date type="published" when="2024">2024</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title level="a" type="main">The English Provincial Book Trade Before Printing</title>
+		<author>
+			<persName><forename type="first">Anthony</forename><surname>Doyle</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Ian</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Six Centuries of the Provincial Book Trade in Britain</title>
+		<editor>
+			<persName><forename type="first">Peter</forename><surname>Issac</surname></persName>
+		</editor>
+		<imprint>
+			<publisher>Winchester: St Paul&apos;s Bibliographies</publisher>
+			<date type="published" when="1990">1990</date>
+			<biblScope unit="page" from="13" to="29" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title level="a" type="main">The Production of Copies of the Canterbury Tales and the Confessio Amantis in the Early Fifteenth Century</title>
+		<author>
+			<persName><forename type="first">Anthony</forename><surname>Doyle</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Malcolm</forename><forename type="middle">B</forename><surname>Ian</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Parkes</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Medieval Scribes, Manuscripts and Libraries: Essays Presented to N.R. Ker</title>
+		<editor>
+			<persName><forename type="first">Malcolm</forename><forename type="middle">B</forename><surname>Parkes</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">Andrew</forename><forename type="middle">G</forename><surname>Watson</surname></persName>
+		</editor>
+		<meeting><address><addrLine>London</addrLine></address></meeting>
+		<imprint>
+			<publisher>Scolar Press</publisher>
+			<date type="published" when="1978">1978</date>
+			<biblScope unit="page" from="163" to="210" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<monogr>
+		<author>
+			<persName><forename type="first">E-Lalme =</forename><surname>Benskin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Margaret</forename><surname>Michael</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Vasilis</forename><surname>Laing</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Keith</forename><surname>Karaiskos</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Williamson. E-Lalme</surname></persName>
+		</author>
+		<ptr target="http://amc.ppls.ed.ac.uk/elalme/" />
+		<title level="m">An Electronic Version of a Linguistic Atlas of Late Mediaeval English. Edinburgh: The University of Edinburgh</title>
+		<imprint>
+			<date type="published" when="2013-06">2013. June 2025</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<title level="a" type="main">A Dialectal Study of the First Quire in National Library of Wales, Brogyntyn Ms ii.1</title>
+		<author>
+			<persName><forename type="first">Edurne</forename><surname>Garrido-Anes</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Revista Canaria de Estudios Ingleses</title>
+		<imprint>
+			<biblScope unit="volume">87</biblScope>
+			<biblScope unit="page" from="45" to="68" />
+			<date type="published" when="2023">2023</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<title level="a" type="main">Scribal Consistency Across Four Middle English Texts in NLW, Brogyntyn ii.1</title>
+	</analytic>
+	<monogr>
+		<title level="j">English Studies</title>
+		<imprint>
+			<biblScope unit="volume">105</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="499" to="528" />
+			<date type="published" when="2024">2024</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<title level="a" type="main">Literacy, Schooling, Universities</title>
+		<author>
+			<persName><forename type="first">Ralph</forename><surname>Hanna</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">The Cambridge Companion to Medieval English Culture</title>
+		<editor>
+			<persName><forename type="first">A</forename><surname>Galloway</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Cambridge</addrLine></address></meeting>
+		<imprint>
+			<publisher>Cambridge University Press</publisher>
+			<date type="published" when="2011">2011</date>
+			<biblScope unit="page" from="172" to="194" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<monogr>
+		<title level="m" type="main">Modes of Manuscript Book Production in Late Medieval England, with Special Reference to British Library, Harley Ms 3810/I and Related Manuscripts</title>
+		<author>
+			<persName><forename type="first">Cassandra</forename><surname>Hunter</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2022">2022</date>
+			<publisher>ProQuest Dissertations Publishing</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<title level="a" type="main">Porkington 10 and Its Scribes</title>
+		<author>
+			<persName><forename type="first">Daniel</forename><surname>Huws</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Romance Reading on the Book: Essays on Medieval Narrative Presented to Maldwyn Mills</title>
+		<editor>
+			<persName><forename type="first">Jennifer</forename><surname>Fellows</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">Rosalind</forename><surname>Field</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">Gillian</forename><surname>Rogers</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">Judith</forename><surname>Weiss</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Cardiff</addrLine></address></meeting>
+		<imprint>
+			<publisher>University of Wales Press</publisher>
+			<date type="published" when="1996">1996</date>
+			<biblScope unit="page" from="188" to="207" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<monogr>
+		<title level="m" type="main">Romance and the Gentry in Late Medieval England</title>
+		<author>
+			<persName><forename type="first">Michael</forename><surname>Johnston</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2014">2014</date>
+			<publisher>Oxford University Press</publisher>
+			<pubPlace>Oxford</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<monogr>
+		<title level="m" type="main">Communities of Practice in the History of English, Pragmatics and Beyond</title>
+		<author>
+			<persName><forename type="first">Joanna</forename><surname>Kopaczyk</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Andreas</forename><surname>Jucker</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2013">2013</date>
+			<publisher>John Benjamins Publishing Company</publisher>
+			<pubPlace>Amsterdam</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<monogr>
+		<title/>
+		<author>
+			<persName><surname>Kurath</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Sherman</forename><forename type="middle">M</forename><surname>Hans</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Robert</forename><forename type="middle">E</forename><surname>Kuhn</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">John</forename><surname>Lewis</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Mary</forename><surname>Reidy</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Jane</forename><forename type="middle">Williams Middle</forename><surname>English Dictionary</surname></persName>
+		</author>
+		<ptr target="http://quod.lib.umich.edu/m/middle-english-dictionary" />
+		<imprint>
+			<date type="published" when="1952">1952-2001</date>
+			<publisher>University of Michigan Press</publisher>
+			<pubPlace>Ann Arbor</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<analytic>
+		<title level="a" type="main">Ms Porkington 10: Description with Extracts</title>
+		<author>
+			<persName><forename type="first">Auvo</forename><surname>Kurvinen</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Neuphilologische Mitteilungen</title>
+		<imprint>
+			<biblScope unit="volume">54</biblScope>
+			<biblScope unit="page" from="33" to="67" />
+			<date type="published" when="1953">1953</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<analytic>
+		<title level="a" type="main">Decoding the Material Book: Cultural Residue in Medieval Manuscripts</title>
+		<author>
+			<persName><forename type="first">Erik</forename><surname>Kwakkel</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">The Medieval Manuscript Book: Cultural Approaches</title>
+		<editor>
+			<persName><forename type="first">Michael</forename><surname>Johnston</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">Michael</forename><surname>Van Dussen</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Cambridge</addrLine></address></meeting>
+		<imprint>
+			<publisher>Cambridge University Press</publisher>
+			<date type="published" when="2015">2015</date>
+			<biblScope unit="page" from="60" to="76" />
+		</imprint>
+	</monogr>
+	<note>Cambridge Studies in Medieval Literature</note>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<monogr>
+		<author>
+			<persName><forename type="first">Margaret</forename><surname>Laeme = Laing</surname></persName>
+		</author>
+		<ptr target="http://amc.ppls.ed.ac.uk/laeme/" />
+		<title level="m">A Linguistic Atlas of Early Middle English</title>
+		<imprint>
+			<date type="published" when="2013-06">2013. June 2025</date>
+			<biblScope unit="page" from="1150" to="1325" />
+		</imprint>
+	</monogr>
+	<note>Version 3.2. Edinburgh: The University of Edinburgh</note>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<monogr>
+		<title level="m" type="main">A Linguistic Atlas of Late Medieval English. With the Assistance of Margaret Laing and Keith Williamson</title>
+		<author>
+			<persName><surname>Lalme = Mcintosh</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Michael</forename><forename type="middle">L</forename><surname>Angus</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Michael</forename><surname>Samuels</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Benskin</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1986">1986</date>
+			<publisher>Aberdeen University Press</publisher>
+			<pubPlace>Aberdeen</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<monogr>
+		<title level="m" type="main">The Middle English Grammar Corpus, Version 2011.1. Stavanger: University of Stavanger</title>
+		<author>
+			<persName><forename type="first">Meg-C =</forename><surname>Stenroos</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Martti</forename><surname>Merja</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Simon</forename><surname>Mäkinen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Jeremy</forename><forename type="middle">J</forename><surname>Horobin</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Smith</surname></persName>
+		</author>
+		<ptr target="http://www.uis.no/meg-c" />
+		<imprint>
+			<date type="published" when="2011-06">2011. June 2025</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<monogr>
+		<title level="m" type="main">A Corpus of Middle English Local Documents (MELD), Version 2017.1. Stavanger: University of Stavanger</title>
+		<author>
+			<persName><surname>Meld = Stenroos</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Kjetil</forename><forename type="middle">V</forename><surname>Merja</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Geir</forename><surname>Thengs</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Bergstrøm</surname></persName>
+		</author>
+		<ptr target="http://www.uis.no/meld" />
+		<imprint>
+			<date type="published" when="2017-06">2017. June 2025</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<analytic>
+		<title level="a" type="main">Locating Scribal Activity in Late Medieval London</title>
+		<author>
+			<persName><forename type="first">Linne</forename><forename type="middle">R</forename><surname>Mooney</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Design and Distribution of Late Medieval Manuscripts in England</title>
+		<editor>
+			<persName><forename type="first">Margaret</forename><surname>Connolly</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">Linne</forename><forename type="middle">Ruth</forename><surname>Mooney</surname></persName>
+		</editor>
+		<meeting><address><addrLine>York</addrLine></address></meeting>
+		<imprint>
+			<publisher>York Medieval Press</publisher>
+			<date type="published" when="2008">2008</date>
+			<biblScope unit="page" from="183" to="204" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b27">
+	<analytic>
+		<title level="a" type="main">Vernacular Literary Manuscripts and Their Scribes</title>
+	</analytic>
+	<monogr>
+		<title level="m">The Production of Books in England 1350-1500</title>
+		<editor>
+			<persName><forename type="first">Alexandra</forename><surname>Gillespie</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">Martin</forename><forename type="middle">F</forename><surname>Wakelin</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Cambridge</addrLine></address></meeting>
+		<imprint>
+			<publisher>Cambridge University Press</publisher>
+			<date type="published" when="2011">2011</date>
+			<biblScope unit="page" from="192" to="211" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b28">
+	<analytic>
+		<title level="a" type="main">Reexamining the Evidence Regarding Adam Pinkhurst, Scrivener</title>
+	</analytic>
+	<monogr>
+		<title level="j">Speculum</title>
+		<imprint>
+			<biblScope unit="volume">99</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="697" to="712" />
+			<date type="published" when="2024">2024</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b29">
+	<analytic>
+		<title level="a" type="main">Communities of Practice and Incipient Standardation in Middle English Written Culture</title>
+		<author>
+			<persName><forename type="first">Colette</forename><surname>Moore</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">English Studies</title>
+		<imprint>
+			<biblScope unit="volume">102</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="117" to="132" />
+			<date type="published" when="2019">2019</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b30">
+	<analytic>
+		<title level="a" type="main">The Good Wife Taught Her Daughter. Helsinki: Suomalainen Tiedeakatemia</title>
+		<author>
+			<persName><forename type="first">Tauno</forename><surname>Mustanoja</surname></persName>
+		</author>
+		<ptr target="http://www.library.wales/discover/digital-gallery/manuscripts/the-middle-ages/a-middle-english-miscellany" />
+	</analytic>
+	<monogr>
+		<title level="j">National Library of Wales. Brogyntyn MS II</title>
+		<imprint>
+			<biblScope unit="volume">1</biblScope>
+			<date type="published" when="1948-06">1948. June 2025</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b31">
+	<analytic>
+		<title level="a" type="main">Bilingual, Bitextual Bellewe: A Case Study of Paleographical Code-Switching in Late Medieval English-Controlled Ireland</title>
+		<author>
+			<persName><forename type="first">Theresa</forename><surname>O'byrne</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Speculum</title>
+		<imprint>
+			<biblScope unit="volume">99</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="744" to="761" />
+			<date type="published" when="2024">2024</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b32">
+	<monogr>
+		<title level="m" type="main">Their Hands Before Our Eyes: A Closer Look at Scribes. The Lyell Lectures Delivered in the University of Oxford</title>
+		<author>
+			<persName><forename type="first">Malcolm</forename><forename type="middle">B</forename><surname>Parkes</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1999">1999. 2008</date>
+			<publisher>Ashgate</publisher>
+			<pubPlace>Aldershot</pubPlace>
+		</imprint>
+	</monogr>
+	<note>st ed</note>
+</biblStruct>
+
+<biblStruct xml:id="b33">
+	<analytic>
+		<title level="a" type="main">The Company of Stationers Before 1557</title>
+		<author>
+			<persName><forename type="first">Graham</forename><surname>Pollard</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">The Library</title>
+		<imprint>
+			<biblScope unit="volume">18</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="1" to="38" />
+			<date type="published" when="1937">1937</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b34">
+	<analytic>
+		<title level="a" type="main">Appendix. Contents of NLW MS Brogyntyn ii.1</title>
+		<author>
+			<persName><forename type="first">Nancy</forename><forename type="middle">P</forename><surname>Pope</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Understanding a Multi-Scribe Miscellany: NLW MS Brogyntyn ii</title>
+		<editor>
+			<persName><forename type="first">Nancy</forename><forename type="middle">P</forename><surname>Pope</surname></persName>
+		</editor>
+		<meeting><address><addrLine>York</addrLine></address></meeting>
+		<imprint>
+			<publisher>York Medieval Press</publisher>
+			<date type="published" when="2025">2025</date>
+			<biblScope unit="volume">1</biblScope>
+			<biblScope unit="page" from="241" to="250" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b35">
+	<monogr>
+		<title level="m" type="main">Understanding a Multi-Scribe Miscellany: NLW MS Brogyntyn ii</title>
+		<imprint>
+			<date type="published" when="2025">2025</date>
+			<publisher>York Medieval Press</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b36">
+	<monogr>
+		<title level="m" type="main">Popular Reading in English c</title>
+		<author>
+			<persName><forename type="first">Elisabeth</forename><surname>Salter</surname></persName>
+		</author>
+		<idno>1400-1600</idno>
+		<imprint>
+			<date type="published" when="2012">2012</date>
+			<publisher>Manchester University Press</publisher>
+			<pubPlace>Manchester</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b37">
+	<monogr>
+		<title level="m" type="main">Visible English: Graphic Culture, Scribal Practice, and Identity, c. 700-c. 1550</title>
+		<author>
+			<persName><forename type="first">Wendy</forename><surname>Scase</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2022">2022</date>
+			<publisher>Brepols</publisher>
+			<pubPlace>Turnhout</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b38">
+	<analytic>
+		<title level="a" type="main">The Manuscripts of John Mirk&apos;s Festial</title>
+		<author>
+			<persName><forename type="first">Martyn</forename><forename type="middle">F</forename><surname>Wakelin</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Leeds Studies in English</title>
+		<imprint>
+			<biblScope unit="volume">1</biblScope>
+			<biblScope unit="page" from="93" to="118" />
+			<date type="published" when="1967">1967</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

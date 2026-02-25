@@ -1,0 +1,905 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Toxic intimacies: Tawada Yōko&apos;s The Emissary as Counternarrative to Japan&apos;s nuclear and environmental historiographies</title>
+				<funder>
+					<orgName type="full">Sumitomo Foundation</orgName>
+				</funder>
+				<funder>
+					<orgName type="full">University Grants Committee Hong Kong</orgName>
+				</funder>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author role="corresp">
+							<persName><forename type="first">Jerrine</forename><surname>Tan</surname></persName>
+							<email>j.tan@cityu.edu.hk</email>
+							<affiliation key="aff0">
+								<orgName type="department" key="dep1">Assistant Professor of English</orgName>
+								<orgName type="department" key="dep2">Run Run Shaw Creative Media Centre</orgName>
+								<orgName type="institution">City University Hong Kong</orgName>
+								<address>
+									<postCode>M8084</postCode>
+									<settlement>Kowloon, Hong Kong SAR</settlement>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Franny</forename><surname>Choi</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department" key="dep1">Assistant Professor of English</orgName>
+								<orgName type="department" key="dep2">Run Run Shaw Creative Media Centre</orgName>
+								<orgName type="institution">City University Hong Kong</orgName>
+								<address>
+									<postCode>M8084</postCode>
+									<settlement>Kowloon, Hong Kong SAR</settlement>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Toxic intimacies: Tawada Yōko&apos;s The Emissary as Counternarrative to Japan&apos;s nuclear and environmental historiographies</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date/>
+						</imprint>
+					</monogr>
+					<idno type="MD5">3478BE55418533D5041DFAFBBE17D863</idno>
+					<idno type="DOI">10.1080/0950236X.2025.2608005</idno>
+					<note type="submission">Received 22 April 2025; Accepted 3 September 2025</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.0" ident="GROBID" when="2026-02-25T19:50+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term>Post-3/11 literature</term>
+					<term>ecofeminism</term>
+					<term>Fukushima</term>
+					<term>Tawada Yōko</term>
+					<term>The Emissary</term>
+				</keywords>
+			</textClass>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>Tawada Yōko's eco-dystopian The Emissary can be read as a meditation on the aftermath of the atomic bombs, Japan's Four Postwar Pollution Diseases, and the 2011 Fukushima nuclear disaster. By rooting Tawada's novel in Japan's nuclear and environmental historiographies, I argue that the novel illuminates what I am calling Japan's 'toxic intimacies', a doubly valenced term. First, I demonstrate how the novel brings us to consider Japan's 'toxic intimacies' with nuclear warfare and energy and environmental pollution, highlighting its histories with American militarism, East Asian imperialism, and industrialisation in the twentieth and twenty-first century. Next, I outline how Tawada's novel bracingly encounters a world in crisis by imagining a different kind of 'toxic intimacy' -alternative paradigms of ecological care and relationality that foreground affective networks of interdependence. By setting Japan's nuclear and environmental historiography alongside the often-eclipsed history of activism that was born from it, I argue that the latter is the antidote to the former. By drawing on ecofeminism, queer ecology, and disability justice through thinkers such as Anna Tsing, Mel Chen, Jina Kim, and Sunaura Taylor, I argue that Tawada's novel embodies a politics of radical survival -staging a form of world-making at the end of the world.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Introduction</head><p>As the only country to have suffered wartime use of atomic weapons and having survived the tragic nuclear disaster in the wake of 2011s earthquake and tsunami, Japan's relationship to nuclear power is unique. Since March 2011, there has been a growing body of literature -what is now collectively termed 3/11 literature -that grapples with and attempts to make epistemological sense of that seismic calamity. <ref type="bibr" target="#b0">1</ref> Tawada Yōko won the National Book Award in 2018 for The Emissary, translated by Margaret Mitsutani, a tale set against the bleak dystopian landscape of post-nuclear calamity Tokyo. The Fukushima nuclear disaster is perhaps the most obvious inspiration for Tawada's novel. While the 2011 disaster is not explicitly named, Tawada references it directly in the 2012 short story, 'The Island of Eternal Life,' a piece commissioned for March Was Made of Yarn, an edited volume of short stories reflecting on 3/11. <ref type="bibr" target="#b1">2</ref> Tawada's eco-dystopian novel makes oblique reference to the events of 3/11 and investigates the human and environmental cost of pollution and contamination. The two protagonists of the novel are a greatgrandfather and greatgrandson pair, Yoshiro and Mumei. Over a hundred years old, Yoshiro must take care of his young great grandson, Mumei, who, like other children his age, was born frail, sickly, and disabled due to widespread environmental pollution. Ironically, the elderly of Yoshiro's generation cannot die -due to some unnamed nuclear event -and are obliged to do the backbreaking work of caring for the young. Curiously, the children also have genitals that randomly change from male to female and back again over the course of their lives. Despite the pain the children endure due to their illness and disabilities, they never feel sorry for themselves, devising games and adopting new perspectives to surmount their physical limitations. Eventually, Mumei is selected as an emissary to be sent to India where others may learn more about his condition.</p><p>Tawada's novel can be read as a meditation on the disastrous aftermath of the dropping of the atomic bombs, the events of 3/11 when an earthquake which caused a tsunami hit the east coast of Japan, causing the meltdown of the Fukushima nuclear plants, and Japan's Four Big Pollution Diseases which it tackled in its postwar years. The title of this essay, 'Toxic Intimacies,' invokes Lisa Lowe's work in The Intimacies of Four Continents, but instead of focusing on labour and immigration flows, I aim to make transnational 'intimacies' legible through an excavation of historical networks of toxicity and pollution, which have been understudied or underdiscussed and therefore largely invisible to the wider public. The term I am using here, 'toxic intimacies', engenders a complex tangle of relations which I proceed in this essay by teasing apart. Literally getting under our skin, and even into our bones, one cultivates, perhaps, the most intimate of relations with toxins. Being in contact with toxins -becoming too close, too intimate -is to expose yourself to, and invite harm. Yet, surviving -or living on in the face of -toxic contamination, even as one is weakened, demonstrates strength. This survival, however, is almost always contingent upon an intimate interdependency -of community and aid. Dependency, understood this way, is thus not an symptom of weakness, but the basis of strength. The term 'toxic intimacy' is double valanced, and this essay will proceed by uncovering each meaning. First, by rooting Tawada's dystopian tale in Japan's nuclear and environmental history, in which Japan is both a victim and implicated as a perpetrator of nuclear colonialism, I demonstrate how the novel brings us to consider what I am calling Japan's 'toxic intimacies' with nuclear warfare and energy and environmental pollution, illuminating its histories of American imperialism and militarism, East Asian imperialism, and industrialisation in the twentieth and twenty-first century. Next, I outline how Tawada's novel bracingly encounters a world in crisis by imagining a different kind of 'toxic intimacy' -alternative paradigms of ecological care and relationality that foreground affective networks of interdependencethrough an honest engagement with environmental catastrophe that does not offer facile solutions, excuses that strive to return us to 'normalcy,' or the way things used to be. By setting Japan's nuclear and environmental historiography alongside the often-eclipsed history of activism that was born from it, I trace these alternative 'toxic intimacies' of care and activism, to look at both forms of toxic intimacy, one destructive and the other fortifying, arguing that the latter serves as the antidote to the former. Finally, by drawing on ecofeminism, queer ecology, and disability justice through the works of thinkers such as Anna Lowenhaupt Tsing, Mel Y. Chen, Jina B. Kim, and Sunaura Taylor, I argue that Tawada's novel, in representing the victims of a world in crisis as radical survivors, and encountering, addressing, and responding to the consequences of contamination and toxicity through care-giving and an unforced optimism, embodies a politics of radical survival -staging a form of world-making at the end of the world.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Fukushima disaster, nature, and nationalistic narratives</head><p>3/11 is now memorialised as an event of national trauma. According to Rachel DiNitto (2014), this is 'not just because of the scale of the disaster, but because it has been socially constructed as such' (p. 341, my italics). <ref type="bibr" target="#b2">3</ref> Deflecting responsibility, Tokyo Electric Power Company (TEPCO) argued that 3/11 was an unforeseen and unforeseeable (soteigai) natural event. <ref type="bibr" target="#b3">4</ref> Rousing slogans such as 'Gambaro Nippon. Kokoro o hitotsu ni Nippon' (Fight on Japan. Our hearts as one for Japan) were widely used, relying on the stereotype of stoic Japanese people in the face of hardship, contributing to the narrative of national bonding and focusing attention on national rebuilding efforts and away from the suffering of individuals in the disaster zone. <ref type="bibr" target="#b4">5</ref> Such traditional stereotypes offer trite explanations for tragedy and blithely presume that Japanese people will accept whatever comes, put their heads down and keep working (Figure <ref type="figure" target="#fig_0">1</ref>). By apprehending 3/11 as predominantly a 'natural disaster,' rather than acknowledging the fact that it was three separate disasters -an earthquake, a tsunami, and a nuclear plant meltdown -and by appealing to the Japanese to stay strong and to rebuild, the narrative by the Japanese government and TEPCO casts 'nature' as the sole perpetrator of suffering and destruction, conveniently and facetiously erasing human responsibility and corporate and governmental culpability from the equation. The erasure of culpability by a blanketing optimism suppressed the widespread anger at TEPCO and the Japanese state. <ref type="bibr" target="#b5">6</ref> Days after the disaster, Nobel Laureate Oe Kenzaburo published an essay in The New Yorker that was critical of Japan's eagerness to welcome nuclear energy as part of rapid industrialisation and growth in the postwar years and suspicious of Japan's claims to be in support of nuclear non-proliferation while circumventing its Three Non-Nuclear Principles through its relationship with the US military. <ref type="bibr" target="#b6">7</ref> But such perspectives were sidelined domestically. <ref type="bibr" target="#b7">8</ref> These narratives that cast nature as an 'aggressor' fall back on and are in line with postwar Japan's representation of itself as a victim. There are few war museums in Japan about the Second World War which acknowledge Japan's role as the aggressor, and Japan has notoriously practiced revisionism in its narrating of the events of the Second World War. It has also been recalcitrant in its attitude towards countries which they brutally occupied during the Second World War, while foregrounding their position as victims with respect to the end of the war and the dropping of the atomic bombs in Hiroshima and Nagasaki. Today, this position of victimhood enables the alignment of its political and wartime misfortunes with natural, environmental ones, conflating the two. The Great Kanto Earthquake Memorial Museum in Tokyo, for example, houses not only the memorial of the major earthquake of 1923 which left Tokyo in ruins due to the ensuing fires, but inexplicably, also an exhibition on The Great Tokyo Air Raid of 1945 -the firebombing of Tokyo during the Second World War. The earthquake (a natural disaster of which Japan was a victim) is memorialised alongside the ruins of war (a manmade horror where Japan was the aggressor). Similarly, the Fukushima Nuclear Disaster of 2011 which was caused by the tsunami which hit Japan's east coast, is often discussed alongside Japan's earlier encounter with nuclear radiation in the aftermath of the dropping of the nuclear bombs in 1945. The casual alignment of manmade tragedies with natural ones allows for an erasure of responsibility on the part of whole societies, corporations, and governments.</p><p>Tawada makes a pointed and even didactic critique of this disingenuous narrative on the part of TEPCO and the government by ventriloquising Mumei's teacher. <ref type="bibr" target="#b8">9</ref> While speaking to the children, Mumei's teacher explains simply: 'When that happens at the edge of the plates there's a big earthquake, and sometimes a tsunami. There's nothing human beings can do to prevent it. That's just the way the earth is' (p. 122). Crucially, he continues, 'But Japan isn't the way it is now just because of earthquakes and tsunami. If natural disasters were the only problem, we certainly would have recovered long before now. So it's not just natural disasters. Got that?' (p. 122, my italics). This dig at the thinness of the arguments of soteigai (unforeseeable natural events beyond human control) is made more pronounced by the fact that the teacher is addressing kindergarteners.</p><p>In the world she imagines and constructs, Tawada describes the realworld conditions and radiation dangers in post 3/11 Fukushima, choosing to lift the veil of nationalism and outline the concerns of the affected residents as well as their political actions:</p><p>When it was discovered that the contamination permeating the soil had seeped into the asphalt that covered the streets, citizens protested to the government, which refused to conduct an investigation to find out who was responsible, leaving the matter to the local authorities, which hired professionals to dig out the contaminated earth deep below the asphalt, then paid contractors to haul it away … . People preferred not to know what the contractors had done with the contaminated earth. (125-6)   What she describes is uncannily similar to the decontamination project the Japanese government undertook directly after 2011. Inches of topsoil had to be scraped off and bagged in Fukushima. The contaminated soil filled hundreds of thousands of plastic bags that were then left in large fields that were cordoned off from the population. <ref type="bibr" target="#b9">10</ref> Japan's government pledged that the soil will be moved out of the interim storage facility to a permanent site outside of Fukushima prefecture by 2045 -a response to local residents who protested the storage of radioactive material in the area where they live (Figure <ref type="figure" target="#fig_2">2</ref>).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Nuclear neocolonialism and transnational indigenous activism</head><p>But to where? Radioactive waste disposal is a far stickier issue than simply moving it away from protesting residents. Despite talk of a nuclear fuel 'cycle,' the truth is that there is no solution yet to radioactive waste material that accumulates, some of which will remain toxic to humans forever and which historically has disproportionately affected indigenous people and minority groups. At least two-thirds of the domestic uranium supply in the US and Canada is on Native land. <ref type="bibr" target="#b10">11</ref> Japan and Canada have been inadvertently linked together by nuclear energy at least from the start of the Manhattan project, when uranium mined from Canada and transported by the First Nations Sahtu Dene people were used in the bombs dropped on Japan, a commonly obfuscated part of the historiography of the Manhattan Project. <ref type="bibr" target="#b11">12</ref> The Sahtu Dene people made a pilgrimage to Japan to apologise to the hibakusha, survivors of the atom bombs, upon learning about their indirect involvement in the bomb. <ref type="bibr" target="#b12">13</ref> Yet today, Japan's use and production of nuclear energy implicates it within the structures of nuclear colonialism, which refers to 'Indigenous people bearing the brunt of the entire nuclear fuel cycle from mining and refining to nuclear power and weapons production and testing, ending with the resulting nuclear waste that remains dangerous for millenia'.  The Japanese government's plan to dump low-level nuclear waste in the ocean the early 1980s drew on long-standing practices among other nuclearized nations, reinscribing frameworks of nuclear colonialism. <ref type="bibr" target="#b14">15</ref> Moreover, Japan's close alliance with and dependence on the American military further entangles Japan within the structures and culpability of American imperialism, militarism, and neocolonialism. In 2022, former Japanese Prime Minister Shinzo Abe called for his country's armed forces to break a long-standing taboo and consider a possible 'nuclear-sharing' programme with the US (Johnson) when in fact, the United States had previously deployed 'extensive nuclear assets to Okinawa until the 1970s, as the territory was under direct American military rule'. <ref type="bibr" target="#b15">16</ref> Abe was a leading advocate for the remilitarisation of Japan despite Japan's history of expansionist aggression and imperialism and has long sought to promote 'healthy nationalism' through revisionist history. <ref type="bibr" target="#b16">17</ref> Despite being a signatory to the Nuclear Non-Proliferation Treaty and being banned from developing nuclear weapons, Japan is described as having a 'bomb in the basement,' because it has 'the material and the means to produce nuclear weapons within six months, according to some estimates,' making it a de facto nuclear state. <ref type="bibr" target="#b17">18</ref> Okinawa has long been the site for hosting US military bases and has been historically sidelined by the Japanese government. Globally, Okinawa has a Janus-faced reputation: known on the one hand as an idyllic tropical vacation destination, and on the other for its position as a military base, owing to certain high-profile cases of violent crimes committed by the US military personnel against Okinawans. Okinawa's relationship with the rest of Japan can also be seen as an example of internal colonialism which borrows and relies on systems of governance that were inherited from western colonialism. In her essay on nuclear futurism and queer futurity in The Emissary, Tomoe Otsuki describes this as a structure of 'internalized colonialism' which has 'normalised the sacrifice of the periphery of Japan (including the Fukushima area) for the economy in Tokyo, and has perceived Okinawan people as second-class citizens or a radicalised minority that threatens the US-Japan Security Treaty'. <ref type="bibr" target="#b18">19</ref> In her novel, Tawada inverts this geographical power relation, casting Okinawa as the new desirable location in this eco-dystopian future. Okinawa is where people migrate to for work -mostly agricultural -and it is desirable for its comfortable climate and crops: 'Driven by the cycles of droughts following tropical storms, many people moved from Honshu to Okinawa … where agriculture was booming' (p. 46). Otsuki argues that 'by reversing the historically and socially embedded power relations that have been present within Japanese society for hundreds of years, we can read 'the centre-periphery inversions' in The Emissary 'as a strong critique of this continued, internalised colonialism' (p. 467). Further, as I will argue later in this essay, the characters in the novel are sustained and nourished through new forms of affective interdependence and mutual aid that they establish.</p><p>In this way, The Emissary is a transnational novel with 'toxic intimacies' not only in the ways it makes visible Japan's connections with the world through its nuclear programme and its entanglements with nuclear colonialism, but also through the affective alliances that are established in response to these forces of oppression and the transnational activists who push against it.</p><p>In fact, the one-dimensionally nationalistic and optimistic slogans promoted on social media and the news in the wake of the 2011 disaster (such as 'Rise Up, Japan!') obfuscated the political action undertaken by civilians, such as protest movements where 'Fukushima women [demanded] the protection of children from radiation' and erase the anti-nuclear movements that surged' within the first year after 3/11. <ref type="bibr" target="#b19">20</ref> In his book, Transnational Japan in the Global Environmental Movement, Simon Avenell argues for how Japanese activists and groups that advocated for issues of environmental contamination and victimhood 'contributed to a nascent environmental 'transnationality'' (p. 11) -what I am calling here Japan's transnational 'toxic intimacies.' As Avenell notes, they were drawn into what Sheila Jasanoff and Peter Haas have called 'epistemic' networks and communities, and they became part of emergent environmental 'transnational advocacy networks' (p. 11). <ref type="bibr" target="#b20">21</ref> Japan's nuclear official began devising plans to dump low-level nuclear waste from nuclear facilities into the Pacific Ocean as early as the 1960s. <ref type="bibr" target="#b21">22</ref> There was no way to justify dumping radioactive waste and Pacific island nation activists repeatedly demanded answers and accountability from the Japanese government. Protest movements among Pacific Island activists demonstrate 'the continuing and, indeed, expanding transnational involvement of Japanese environmental groups led by rooted cosmopolitan activists in the early 1980s -now in concert with antinuclear groups and involving nuclear issues in the Pacific'. <ref type="bibr">23</ref> In the 1970s and 80s when Japanese antipollution export groups anti-nuclear activists began to take a closer look at activism around pollution export and the ways in which Japan was implicated within cycles of nuclear colonialism, they became compelled to confront Japan's large culpability and troubled place and history in Asia. The responsibility that Japanese activists feel towards other Asian/Pacific countries which pay the price for their nuclear industry is in some ways analogous to what motivated the Sahtu Dene who visited Hiroshima to apologise to the hibakusha. Transpacific environmental justice 'opened the eyes of many Japanese anti-nuclear advocates to the ways Pacific activists connected the radioactive waste issue to a longer struggle for independence and the obliteration of nuclear neocolonialism'. <ref type="bibr">24</ref> This growing perception and acceptance of our inherent interconnectedness and mutual interdependence is acknowledged in the novel's title itself. The Emissary, after all, alludes to a figure who will cross oceans and borders in order to facilitate exchange. Indeed, as Mihic observes, 'Kentoshi [The Emissary] is more forward-and outward-looking than Fushi no shima ['The Island of Eternal Life'] in that the solution is presented in the form of increased intercultural communication and cooperation' (p. 55). Francesco Eugenio Barbieri goes as far as to argue that the novel is a 'global novel'. <ref type="bibr" target="#b22">25</ref> By the end of the novel, Mumei is selected to be an emissary to India by a society looking to send 'promising young people overseas, one after another' (p. 130), where his body may provide crucial information for researchers. This practice 'would make it possible to thoroughly research the state of Japanese children's health, yielding information that would prove useful if similar phenomena began to appear in other countries' (ibid). Indeed, this reveals a radical approach to a hopeless situation, where children doomed to die young, with no guarantee of returning home, are viewed as 'promising young people'. The novel thus enacts a mode of acting in good faith in the face of no hope -a way to keep going when, as Franny Choi writes, 'The world keeps ending, and the world goes on'. <ref type="bibr" target="#b23">26</ref> The Japanese title for The Emissary is Kentōshi, which refers to the seventh, eighth, and nineth century Japanese missions to Tang China to learn about Chinese culture and civilisation, over time opening diplomatic relations and trade routes. It is through international exchange -precisely risking contamination through collaboration -that Tawada charts as a way forward. Crucially, Tawada's titular reference of exchange is to kentōshi which resulted in largely mutually beneficial trade and cultural exchange rather than the unequal terms laid out in the treaties Japan signed with western countries in the nineteenth century, at the end of sakoku (isolationist policy) as a result of gunboat diplomacy. Paying attention to the way that activists who encounter each other, coalesce, and cooperate on these issues helps us to see the ways in which contamination and collaboration always already lie at the core of our mutual survival. That all this is ironically set within an imagined world of extreme isolationist policies serves only to both drive Tawada's point home, and to illuminate it by bringing the potential solutions into sharp relief in contrast to a bleak isolationism and censorship. The Emissary Association is a secret underground group and cannot be made public, and yet, against all odds, it carries out its mission of creating connection. The novel therefore offers international exchange and good faith as an antidote to the world Yoshiro and Mumei live in -so paranoidly cossetted that it is crumbling under the force of its own protective grip.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Ecofeminism: collaboration and contamination</head><p>I propose that this form of encounter and collaboration is also a form of mutual contamination through Anna Tsing's description of contamination as collaboration in order to expand and reframe contamination and its modalities. <ref type="bibr" target="#b24">27</ref> Tsing writes that 'We are contaminated by our encounters; they change who we are as we make way for others. (p. 27)' Indeed, she points out that 'changing with circumstances is the stuff of survival' (ibid), arguing that 'staying alive -for every species -requires livable collaborations' (p. 28) and such collaborations where species and individuals '[work] across difference … leads to contamination' (ibid). In this sense, contamination is reframed and understood as the result of life-affirming collaboration, an intimate encounter in which discrete organisms in a system must be open to being radically changed (even in ways not initially understood as positive) for the entire system to persist -offering us ways to radically imagine what surviving and thriving necessitate. Read this way, the condition of precarious life after toxic contamination that Tawada presents in her novel can be understood as the starting point of community and cooperation, for Tsing explains that: 'Precarity is a state of acknowledgement of our vulnerability to others. In order to survive, we need help, and help is always the service of another, with or without intent' (p. 29). Indeed, the frail children depend pathetically on their caregivers though they perceive nothing pathetic about their condition, and the immortal elderly find meaning in an unending life by yoking their existence to these suffering yet blameless children. The interdependence is also not about mere survival but, untethered from neoliberal ideas of linear progress, could be seen as a new form of thriving. Yoshirō acknowledges this when he ponders, 'Mumei's generation might create a new civilization -which they would leave to their elders' (p. 36). It should, of course, be noted that Japanese victims of radiation exposure were bullied and discriminated against for both actual and perceived contamination and considering the potential of reframing contamination as positive and life affirming is not meant to erase the real and lived somatic and social negatives of radioactive contamination. Yet, I do not simply mean 'contamination' via Tsing as merely metaphorical, as I demonstrate later in this essay by drawing from the theoretical, autobiographical work of several queer, crip-of-color scholars who reframe their own bodies in radical ways. Without diminishing the suffering of the Japanese victims of radiation exposure, I mean to suggest that the framing of illness as lessthan is erroneous, and that difference -even difference one did not choose, under situations one did not ask to be put in -when embraced, is transformative.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Refusing the future; redefining the future</head><p>The future-oriented nature of the nuclear discourse in Japan has always been bound up with a certain form of nationalism and with reproductive futurity, which deployed the figure of the child in promoting nuclear energy and processing nuclear trauma in the national psyche. <ref type="bibr" target="#b25">28</ref>  <ref type="bibr" target="#b28">29</ref> A positive attitude towards nuclear energy corresponded with the patriotic agenda of supporting economic growth for the nation in the 1970s. Otsuki describes how combining 'the figure of the child with a hope for the future following nuclear or planetary catastrophe was a common feature of postwar Japanese popular culture and visual arts' (p. 457). Dwelling on the fantastical figure of the child, being infantilised, or infantilising oneself aids in constructing an image of innocence that Japan might prefer to maintain -or imagine -as truth. According to Japanese artist Takashi Murakami, Japanese otaku culture's depictions of the bomb were analogous to the metaphorical castration, handicapping, and infantilisation it experienced due to the atom bombs and subsequent US occupation, forcing the Japanese 'into a system that does not produce 'adults'' (p. 152). <ref type="bibr" target="#b30">30</ref> Constructed and perceived as a child, Japan therefore cannot be culpable or held to task for its wrongdoings during the war.</p><p>In No Future, Lee Edelman argues that reproductive futurism is the heteropatriarchal social order, with all its trappings (nationalism, militarism, etc.), seeking to replicate its present self in the future. In her world-building, Tawada resists the deploying of reproductive futurism in her depiction of a post-apocalyptic future by eschewing the future and a reliance on normative social structures of gender and sex and therefore rejects a solution which would merely aim to restore us to the unsustainable ways of the past. In the world of The Emissary, gender roles and sex assignments are literally unstable because people randomly morph from one sex into the other. This queer futurity explodes current toxic heteropatriarchal social structures such that each individual and society itself is sex and gender fluid. In this way, toxicity, contamination, mutation, and disability, become ruptures and sites of radical hope in a social and economic structure within neoliberal capitalism that has reached a stalemate and seems bound for apocalypse. Tawada does not imagine a future in which the mistakes of the past have magically disappeared but arrives at a radically imagined future by deeply engaging with the problems of the present. The instability of this new world they find themselves in wrests the characters out of heteropatriarchy and also, their cathexis to the future: 'unable to foresee what sort of fate awaited Mumei in the future, Yoshiro kept his eyes open, taking each day as it came, hoping the present wouldn't crumble under his feet' (p. 29). He no longer holds the fantasy of a better and brighter future (like that slogan over Fukushima) or the 'revival' of an apocalyptic world.</p><p>Against the sanitised and nationalistic language promoting nuclear energy with promises of a 'clean future,' Tawada fronts a frank, if painful confrontation with the messiness of our current environmental and climate woes. In it, the promise of the future is shattered because the figure -the child -on which such promises are built no longer functions as before. Now, children must be cared for indefinitely by the elderly and will likely die before the older generation. A contamination catastrophe cannot or will not be adequately 'cleaned up.' Longevity, far from being a gift, becomes the penance the older generation must pay for the problems they created: they have to keep living in the world they destroyed. Nonetheless, I argue that through leaning into modes of ecofeminism and queer ecology, and drawing from animal and disability justice frameworks, the novel offers alternative forms of futurity -and therefore, survival and hope.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Absurdism and multilingualism as a counter to aestheticism and kokutai</head><p>If future-oriented language is either employed by a conservatism that is concerned with nationalism and national growth or cannily deploys the figure of the child, a pathic rejection of the future due to a wistful romanticisation of notions of impermanence, transience, and a focus on the fleeting present are also problematic and have also been marshalled for conservative right-wing causes. One way this happens is through the exaltation of Japanese aesthetic concepts and philosophical attitudes such as mūjo which translates to the transience of things or mono no aware which roughly translates to the pathos of things. As noted by Rachel DiNitto, mujō is one of the keywords and concepts that helped build a collective and therefore unifying narrative of the trauma immediately after the accident (p. 342-3). Even renowned writer Haruki Murakami invoked this concept of mūjo in his acceptance speech, 'Unrealistic Dreamer,' for the Cataluña Prize. <ref type="bibr" target="#b31">31</ref> He explains Japanese attitudes towards the 2011 disaster and natural disasters:</p><p>In Japanese, we have the word 'mujo'. It means that nothing lasts forever. Everything born into this world changes and will ultimately disappear. There is nothing eternal or immutable on which we can rely. This view of the world was derived from Buddhism, but the idea of 'mujo' was burned into the spirit of Japanese people … The idea 'everything has just gone' expresses resignation. We believe that it serves no purpose to go against nature, but Japanese people have found positive expressions of beauty in this resignation. We love the cherry blossom of spring, the fireflies of summer and the red leaves of autumn. We think it natural that we watch them avidly, collectively and as a tradition.</p><p>Mūjo encompasses a submissive resignation towards the vicissitudes of life and encourages a passive acceptance of world and life events due to the belief that everything that happens is beyond human control, the effect of forces that we have no power to oppose. This attitude is inherently apolitical and allows for the evasion or denial of responsibility. In his explanation of mūjo, Murakami simultaneously and inadvertently invokes another Japanese aesthetic concept, mono no aware, by summoning exactly the imagery which is typically said to embody mono no aware -the fleeting beauty of cherry blossoms, the short-lived miracle of fireflies, and the transitory sight of autumn leaves. In the postwar period, the concept of mono no aware rang with a degree of right-wing apoliticism as it preached an attitude of finding beauty in transience, inevitability and acceptance -a form of aestheticism that allowed one to ignore politics and, crucially, eschewed the need for acknowledgement, apology, or reparations.</p><p>Tawada's novel rejects conservative forms of sentimentality and aestheticism, guarding against the possibility of becoming enchanted by apolitical art through a metatextual reflection and critique of it in the character Yoshiro, who is a novelist. Yoshiro often mulls over the fact that 'images just came to him, begging to be written into a novel,' acknowledging the futility and hollowness of aestheticism (p. 27). Against such trite forms of aestheticism which invoke banal symbols of natural beauty, often as empty as the ring-wing apoliticism they enable, Tawada enlivens the environment through absurdist humour and descriptions, employing zany imagery that tickles rather than awes. She rejects the aesthetic sublime -precisely the sort of natural imagery associated with mono no aware -in her narrative by defamiliarising the environment she describes through absurdism. Using absurdist humour, objects such as washing machines are anthropomorphised and scenes of natural beauty are rendered comical: 'Spinning all those heavy towels around in its belly was agony for the poor washing machine -each one would die of sheer exhaustion after a few years. Hundreds of thousands of dead washing machines had sunk to the bottom of the Pacific Ocean to become capsule hotels for fish' (p. 8). In this way, she satirises the sheer exhausting waste of corporate industrial strategies: poor manufacturing, built-in obsoletion for profit optimisation, wrongful disposal practices.</p><p>She even defamiliarizes language itself -playing with language, adapting it, exchanging words, and so on to reveal the absurdity of semiotics, using language to counter the notion of hegemony: 'Actually, the word mutation was rarely used anymore, having been replaced by the more popular environmental adaptation' (p. 9). Tawada has spoken about using exophony and other methods to counter, challenge, and dismantle the concept of kokutai, the idea that the Japanese language is a hegemonic one and should be privileged above others. In the novel, a former abstract painter in an absurd twist, becomes a baker to avoid getting on the wrong side of the law for his paintings being mistaken for depicting foreign countries (a crime, in this isolationist Japan), and bakes 'Shikoku-style German bread' with Chinese characters that have roughly the same transliterated pronunciations as the German city they denote. Ridiculously, 'Hanover meant "Blade's Aunt", Bremen "Wobbly Noodles", and Rothenberg "Outdoor Hot Springs Haven"' (p. 11). By thus playing with language -demonstrating her knowledge of several languages and toggling between them while also employing absurdist humour -Tawada's syntax challenges hegemony in language itself, destabilising the primacy of any single language.</p><p>Koichi Haga notes that in the novel, 'mutation is not only biological but also linguistic: conventional language is transformed to adapt to the new geological and physical reality of the environment itself'. <ref type="bibr" target="#b32">32</ref> Tawada's spirited, tongue-in-cheek, and ungovernable language, in describing a hyper-surveilled and censorious world and tracking the transformation and evolution of language, might be understood as a decolonial strategy through Glissant's concept of multilingualism in his work Poetics of Relation, actively resisting the forces of oppression in that world and able to tend to differences and harm in a radically redemptive way. <ref type="bibr" target="#b33">33</ref> Tawada's form of playful -even absurd -multilingualism stands 'against the comfortable assurances linked to the supposed excellence of a language' and 'latent, open, multilingual in intention, directly in contact with everything possible'. <ref type="bibr">34</ref> Mihic notes how, 'in a manner reminiscent of wartime in 1940s Japan, [in the world of The Emissary] native words are preferred to foreign imported terms: tsunagi instead of ōbāōru (overalls) and kawaya instead of toire (toilet)' which I argue serves as an implicit critique of and warning against nationalism and navel-gazing in Japan (p. 54). Glissant writes that 'Relation, in contrast [to hegemonic languages], is spoken multilingually,' (p. 19) and Tawada, similarly 'opposes the totalitarianism of any monolingual intent,' putting languages in Relation when she metatextually reflects on the etymology of certain words, their roots in different languages, the ways in which a word might be a homophone of a word with another meaning in another language, and so on (p. 19).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Minamata disease: queer ecology and disability justice</head><p>The Emissary is not only inspired by the events of 2011, but also by an earlier environmental pollution tragedy: Minamata disease. Minamata disease caused a terrible health crisis due to environmental contamination and was the first recorded case of organic mercury poisoning when wastewater discharged by the Chisso corporation led to mercury poisoning in people who consumed fish and shellfish from those waters. The dumping of methylmercury had been occurring for decades, starting in the 1930s, and though it was not solely a function of postwar economic growth, most recorded cases of the disease occurred during Japan's period of rapid industrialisation in the postwar decades of the 1950s and 1960s. It became a high-profile case due to Eugene W Smith's photographs. <ref type="bibr" target="#b34">35</ref> The price of rapid national growth was environmental hazards that affected civilian areas -the pathways of capital flows could thus be traced not only into the economy but also the biological and the ecological, implicating Japan in a global network of toxic intimacy that cut both ways.</p><p>Mumei's symptoms are uncannily similar to many of the symptoms common to all the patients with Minamata disease. According to Masazumi Harada, 'Residents developed violent attacks of convulsions, paralysis of the extremities, impaired speech and eyesight, and died frenzied deaths.' <ref type="bibr" target="#b35">36</ref> This parallelism was also confirmed by Tawada herself during her talk at the University of Turin in 2021. <ref type="bibr">37</ref> In fact, Tawada likely combined and conflated the four big pollution diseases and their symptoms. We learn that Mumei has weak bones and '[his] teeth were so soft he couldn't eat bread unless it was softened by steeping,' (p.15) symptoms similar to the cadmium poisoning suffered by patients of the Itai-itai disease (one of Japan's four big pollution diseases) which which caused osteomalacia, the softening of bones. <ref type="bibr" target="#b36">38</ref> But if Tawada's fictive environmental troubles are to be found in history, so too are the solutions of care she offers. The remedies to these extant problems are not simply reparations from the companies (which are humiliating and miserly and perennially insufficient, as the ones from Chisso were), but a politics of community and care. Victims were certainly discriminated against and even ostracised by the wider community when the disease was first discovered; in Paradise in the Sea of Sorrow, for example, Ishimure Michiko writes about how victims were isolated and regarded with disdain and contempt even in native villages. <ref type="bibr" target="#b37">39</ref> Even so, this was not the only reaction -other Minamata residents also banded together to take action against the Chisso corporation. Doing so was a serious exhibition of solidarity and sacrifice since, as a small town, many of the people who had Minamata disease were also employed by Chisso. Within the nuclear family, those with the disease were often treated with great care by family members and caregivers. Yoshiro's gentle and attentive care of Mumei mirrors the attitude of the caregivers in Minamata. Ryoko Kamimura, the mother in Eugene Smith's now widely known, though deeply problematic image, 'Tomoko and Mother in the Bath' <ref type="bibr" target="#b38">40</ref> refers to her child with the disease as Takara-go, which means 'treasure child.' Indeed, children who had Minamata disease are sometimes viewed as angels of a sort, for the workings of the disease are such that, because mercury passes through the placenta easily, in a pregnant patient, the unborn fetus absorbs all or most of the mercury, developing symptoms while the mother remains unpoisoned. Tawada's novel presents a new form of relating to each other in times of crisis -rhizomatic and contingent, requiring sacrifice as Tsing describes in conceptualising contamination as collaboration, and troubles the false view that (as Chen challenges), being 'more sick' or less normative is to be 'less alive'. <ref type="bibr" target="#b39">41</ref> Perhaps drawing inspiration from the residents and victims of Minamata, disability is neutralised in Tawada's dystopia. The children in the novel possess no self-pity and do not bemoan their condition. When Mumei struggles with removing his pajamas at one point, he treats the challenge as a game, imagining himself to be an octopus. Mumei is nonnormative in more ways than one. His body is differently formed, he is sickly, and his genitals randomly change between male and female throughout his life. Mel Y. Chen points out the way in which culture has typically apprehended the sick and disabled through a problematically scalar framework: 'How are those in persistent vegetative states deemed to be at, near, or beyond the threshold of death? Environmental toxicity and environmental degradation are figured as slow and dreadful threats to flesh, mind, home, and state' (p. 7). Tawada's language neutralises disability by defamiliarising Mumei throughout the text in several ways. She describes his physical differences through animal motifs, objectification, and even deification, suggesting that Mumei pushes towards a post-human form. Chen's reflection on their own experience with illness parallels Tawada's description of the extreme ill-health that the children in The Emissary experience, acknowledging it as a more neutral difference which opens capacious ways of inhabiting and being in the world. Considering two films that take on the issue of Minamata disease, Andrew Levitas' 2020 film, Minamata, and Noriaki Tsuchimoto's Minamata Diary: Visiting Resurrected Souls (2004), Christine Marran argues that Tsuchimoto 'produces an ecocritical temporality through photographs and shots of reclamation landscapes as his primary cinematic tableau. In doing so, he stages a visual allegoresis of living on a damaged planet'. <ref type="bibr">42</ref> Indeed, without diminishing the tragedy of Minamata and the awful effects of pollution and toxic waste on health, Minamata has become a fecund site to imagine new ways of living -of going on -in an increasingly uninhabitable world.</p><p>We are told that 'his head, much too large for his slender long neck … made him look like a baby bird' and his movements are said to resemble an octopus (p. 3). Mumei often '[flaps] both his arms like the wings of a bird. … imitating a crane' (p. 123) and his dentist once says to him 'so that means you're a baby bird rather than a calf ' (p. 22). This form of radical blending across species offers a way to imagine a new form of being, one that both exposes the human-centrism of discourses on biopolitics and circumvents it. In Animacies, Chen notes of Ponyo, the fish-girl character in Hayao Miyazaki's Ponyo by the Sea, that it is when she enters 'intermediary stages' of transmogrification, sprouting chicken legs in her transformation from fish to girl, where she 'experiences her greatest exhilaration and exuberance' (p. 229). It is this chickenlike state (in between fish and girl) that embodies the interstices of land-sea and fish-human that brings about joy and exhilaration rather than being experienced as a distressing liminality. Chen writes, 'The fish/chicken/little girl is far from a binary logic; she is a blending that is partial and contingent and enacted across time, yet the blending is simultaneously robust and profound, effective and affective' (p. 230).</p><p>Mumei can be seen to operate in a similar logic -his post-human form, more animal than human, more object than subject, more earth than person, rather than unviable human life, is humanness itself in the act of becoming. Reflecting on the ways in which they have been compared to animals due to their disability, disability rights activist, and animal rights advocate Sunaura Taylor, <ref type="bibr" target="#b40">43</ref> writes:</p><p>In my life I have been compared to many animals. I have been told I walk like a monkey, eat like a dog, have hands like a lobster, and generally resemble a chicken or penguin … The thing is, they were right. I do resemble a monkey when I walk -or rather I resemble an ape, specifically a chimpanzee … This resemblance is simply true … These comparisons have an element of truth that isn't negative -or, I should say that doesn't have to be negative. (p. 191-92)</p><p>Taylor's neutral recognition and observation, delicately peeling the animal associations away from their cruel and degrading implications, opens up space for a revised ethics and imbues all forms of life with dignity by decoupling life itself from ableist human-centrism.</p><p>At one point, Yoshiro recalls a class on how to loosen up which is modelled on the octopus, titled, 'Learn to Limber Up from the Octopus,' and he muses that 'The human race may be evolving in a direction no one ever imagined, I mean, maybe we're moving toward the octopus. Watching my greatgrandson I certainly get that impression. … People always thought of that as devolution, but it might just be evolution after all' (p. 14). Rather than viewing a move towards the animalistic as an atavistic, regressive one, Tawada's unsentimental description turns this on its head and suggests that this is, at the very least, a neutral form of change, and perhaps even a progressive one -an evolution rather than a devolution. Because of Yoshiro's position as an intimate witness to Mumei's life and resilience, he too begins to transition away from traditional and conventional aesthetic ideals, no longer '[envying] people with bodies like Greek statues,' but developing 'a liking for entirely different bodies,' and desiring a wholly different, nonhuman, perspective: 'I want to see through the eyes of an octopus,' demonstrating that our cathexis to an aesthetic of normativity and human-centricity as able-bodiedness is fallacious and in fact, mutable (p. 15).</p><p>Finally, Mumei is also objectified, literally, when he is described as an inanimate object -we told that 'the boy's head … [was] bobbling around gently like a balloon' (p.7). Other times, he becomes and identifies with the earth itself, feeling that 'This map is definitely [his] portrait,' observing 'the Andes Mountains curve outward then inward again, just like the bone of my right leg from my hip to my ankle. The bones in my torso curve inward toward the top, until they meet that mountain range rising from the left at the Bering Sea … . My lungs are the Gobi Desert; the stretchedout palm next to it is Europe.' (p. 123-4) While examining a world map, he feels that 'the map of the world was starting to look like an x-ray of his own internal organs' (p.122). He even appears as the divine -'a little Buddha' -to Yoshiro (p. 7). In Beasts of Burden: Animal and Disability Liberation, Taylor reflects on what other potentialities their body might have possessed had their disability not been 'fixed' and mitigated through modern science and surgeries and muses more broadly about their own experience with toxic contamination and illness and the ontological status of what is natural: <ref type="bibr" target="#b41">44</ref> My body was formed with toxic chemicals, heavy metals, airplane degreasersthe mundane detritus of militarization. … It is hard for me to imagine my 'natural' body -I never had a 'natural' body to imagine. Because my mother unknowingly drank toxic waste from the faucet in our kitchen, as a fetus I was already being altered by society, by culture, by 'man-made' products. Does this make me altogether unnatural? (p. 120).</p><p>Mumei and the children in The Emissary can be said to be similarly composed. That their bodies seem 'unnatural' or deformed highlights the narrow view of what and how we understand bodies to be and mean and challenges, in a time of impending climate catastrophe (largely man made), the always already changing semantics of what 'natural' denotes.</p><p>It is possible, then, to place Tawada in the same lineage of writers and activists in the disability justice movement, such as Shayda Kafai and Talila 'T.L.' Lewis, who 'situate disability politics within the long tradition of freedom dreaming, what Robin D.G. Kelley describes as the imaginative practice of '[producing] a vision that enables us to see beyond our immediate ordeals'. <ref type="bibr" target="#b42">45</ref> As Jina Kim writes in Care at the End of the World, this is unexpected because 'disability is so often seen as antithetical to freedom' (p. 2). Indeed, she continues, 'many revolutionary and ethnic […] political imaginaries … have implicitly centered able-bodiedness in their visions of freedom' (ibid). The Emissary thus exemplifies a queer, feminist, crip-of-color politics which centres minoritarian figures and focuses on subjects in historically subordinate positions and exactly imagines and dreams up the kind of 'alternate infrastructural arrangements in a world and nation that has refused to support [disabled, feminist, and/or queer-of-color folk]' (ibid). In the novel, the applications from single men to migrate to the desirable Okinawa are never accepted, reversing and refusing the usual structures of privilege contingent on gender. Instead, married couples, same-sex couples and single women will have their applications considered. Further, the affective and practical alliances formed in a novel which also imagines and casts Okinawa, a territory that can be understood as an internal colony, as an ideal place of ultimate desirability in this post-apocalyptic moment, might be seen as drawing from or resonating with the concept of yuimaaru (mutual assistance and cooperation) which taps into the Uchinanchu identity of native Okinawans, who did not necessarily see themselves as Japanese subjects. The practice of yuimaaru is a unique feature of Okinawan indigeneity and not only enabled local connections for survival but connected Okinawans with diasporic communities internationally as well. <ref type="bibr" target="#b43">46</ref> This thus aligns Mumei and Yoshiro, through their lived practices rather than merely their geographical location, with Okinawans rather than mainland Japanese, constituting Tawada's novelistic gesture of refusal and reimagination.</p><p>The Emissary, by centreing victims and marginalised subjects, and by applying an unflinching eye to Mumei's difference as difference, demonstrates how 'disability justice politics and aesthetics provide imaginative blueprints for navigating contemporary crises of care'. <ref type="bibr" target="#b44">47</ref> In The Emissary, disability and dependency are brought to 'the forefront of … literary freedom dreaming' and, instead of '[hinging] on the achievement of independence,' rather 'emerges from the recuperation of dependency, the cultivation of radical interdependency, and the recognition of the numerous support systems on which survival depends'. <ref type="bibr" target="#b45">48</ref> A feminist ethic of care, as described by Taylor, 'avoids privileging such traits as rationality, autonomy, and independence -attributes that have historically been used to oppress and mark boundaries between deserving and undeserving beings' such that 'dependency does not justify oppression; it is rather an argument against it' (p. 206). Indeed, such interdependence is radical, even for those who are disproportionately doing the more obvious work of care-giving. Reflecting on his constant improvisations to figure out how best to accommodate and adapt to Mumei's needs, even Yoshiro feels transformed into something else altogether, as if 'He was not really an 'old man', but a man who, after living for a century, had become a new species of human being' (p. 41).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Conclusion</head><p>As opposed to government narratives that offer facile and disingenuous slogans of optimism and calls for community and which sideline victims or render them invisible, victims are entirely central to Tawada's story of pollution history. They are therefore also key to the radical future the novel imagines -one in which victims and their struggles (and symptoms) are not side-lined but made central, and which turns not on a return to the way things were, but on the invaluable networks of care that sprout in impossible conditions. The Emissary not only alludes to the contemporary Japanese political climate, but also draws from actual life in post-Fukushima Japan. As Otsuki writes, 'Just as Yoshirō and Mumei live cautiously so as not to be further exposed to the toxic environment while also preserving a sense of care, affection and humanity in this situation, the people in Fukushima have never given up their new routine of checking radiation monitoring posts and measuring radioactive materials in food as they conduct their lives in the context of an ongoing disaster' (470) -a form of living that resonates with indigenous scholar, Gerald Vizenor's theorisation of 'survivance.' According to Vizenor, 'Native survivance is an active sense of presence over absence, deracination, and oblivion; … Survivance stories are renunciations of dominance, detractions, obtrusions, the unbearable sentiments of tragedy, and the legacy of victimry.' (p. 1). <ref type="bibr" target="#b46">49</ref> The inspiring heroes in Tawada's eco-dystopian tale are the victims and ordinary people who persevere and live their quotidian lives in an ongoing disaster through networks of kinship and mutual aid. Against the toxic intimacies evinced by the networks of pollution and toxicity, capital flows, and government, corporate, and military expansionist agendas, these rhizomatic toxic intimacies, that grow against all odds, like matsutake mushroom in a nuclear-obliterated landscape, serve as an antidote.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Notes</head></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head>Figure 1 .</head><label>1</label><figDesc>Figure 1. 'Gambaro! Ishinomaki' Photo taken by author. May 2023.</figDesc><graphic coords="5,94.00,53.29,252.00,189.13" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_1"><head>14</head><label>14</label><figDesc></figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_2"><head>Figure 2 .</head><label>2</label><figDesc>Figure 2. Field with bags of contaminated soil in Fukushima prefecture. Photo taken by author. May 2023.</figDesc><graphic coords="7,94.00,53.29,253.08,190.09" type="bitmap" /></figure>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" xml:id="foot_0"><p>J. TAN EE-WEN</p></note>
+		</body>
+		<back>
+
+			<div type="funding">
+<div><head>Funding</head><p>This work was supported by the <rs type="funder">Sumitomo Foundation</rs> under Grant [21809007]; <rs type="funder">University Grants Committee Hong Kong</rs> under Grant [9048289].</p></div>
+			</div>
+			<listOrg type="funding">
+			</listOrg>
+			<div type="annex">
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Disclosure statement</head><p>No potential conflict of interest was reported by the author(s).</p></div>			</div>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<monogr>
+		<title level="m" type="main">Other such works include Ruth Ozeki&apos;s A Tale for the Time Being, March Was Made of Yarn, a collection of short</title>
+		<editor>David Karashima and Elmer Luke</editor>
+		<imprint/>
+	</monogr>
+	<note>and Ōe Kenzaburō&apos;s In Late Style</note>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<monogr>
+		<title level="m" type="main">The Island of Eternal Life&apos;, March was Made of Yarn</title>
+		<author>
+			<persName><forename type="first">Yoko</forename><surname>Tawada</surname></persName>
+		</author>
+		<editor>Elmer Luke and David Karashima</editor>
+		<imprint>
+			<date type="published" when="2012">2012</date>
+			<publisher>Penguin Random House</publisher>
+			<pubPlace>NY</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title level="a" type="main">Narrating the Cultural Trauma of 3/11: the Debris of Post-Fukushima Literature and Film</title>
+		<author>
+			<persName><forename type="first">Rachel</forename><surname>Dinitto</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Japan Forum</title>
+		<imprint>
+			<biblScope unit="volume">26</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="340" to="360" />
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+	<note>References henceforth in the text</note>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<monogr>
+		<title level="m" type="main">2. Never Waste a Good Crisis&apos;, 3.11: Disaster and Change in Japan</title>
+		<author>
+			<persName><forename type="first">Richard</forename><forename type="middle">J</forename><surname>Samuels</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2013">2013</date>
+			<publisher>Cornell University Press</publisher>
+			<biblScope unit="page" from="24" to="45" />
+			<pubPlace>Ithaca, NY</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title level="a" type="main">Tamaki Mihic also notes how the &apos;most memorable images from the disaster were Japanese people calmly lining up to receive supplies or waiting for the public transport system to resume without any outward display of stress or anguish, despite the shock of the disaster&apos; in Tamaki Mihic. Re-Imagining Japan after Fukushima</title>
+		<author>
+			<persName><forename type="first">See</forename><surname>Dinitto</surname></persName>
+		</author>
+		<author>
+			<persName><surname>See</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>David</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Slater</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Keiko</forename><surname>Nishimura</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Kindstrand</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Natural Disaster and Nuclear Crisis in Japan: Response and Recovery after Japan&apos;s</title>
+		<editor>
+			<persName><forename type="first">Jeff</forename><surname>Kingston</surname></persName>
+		</editor>
+		<meeting><address><addrLine>London and New York</addrLine></address></meeting>
+		<imprint>
+			<publisher>ANU Press</publisher>
+			<date type="published" when="2012">2012. 2020</date>
+			<biblScope unit="volume">3</biblScope>
+		</imprint>
+	</monogr>
+	<note>Love, Social Media in Disaster Japan. Print. P.1. References henceforth in the text</note>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title level="a" type="main">Narrating the Cultural Trauma of 3/11: the Debris of Post-Fukushima Literature and Film</title>
+		<author>
+			<persName><forename type="first">Rachel</forename><surname>Dinitto</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Japan Forum</title>
+		<imprint>
+			<biblScope unit="volume">26</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page">343</biblScope>
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title level="a" type="main">History Repeats</title>
+		<author>
+			<persName><forename type="first">Kenzaburo</forename><surname>Oe</surname></persName>
+		</author>
+		<ptr target="https://www.newyorker.com/magazine/2011/03/28/history-repeats" />
+	</analytic>
+	<monogr>
+		<title level="j">The New Yorker</title>
+		<imprint>
+			<date type="published" when="2011-08">2011. 08 November 2024</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<monogr>
+		<title level="m" type="main">See DiNitto (2014) and Mihic (2020) for more</title>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<monogr>
+		<title level="m" type="main">The Last Children of Tokyo</title>
+		<author>
+			<persName><forename type="first">Tawada</forename><surname>Yōko</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="middle">Margaret</forename><surname>Trans</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Mitsutani</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2018">2018</date>
+			<publisher>Granta Publications</publisher>
+			<pubPlace>London</pubPlace>
+		</imprint>
+	</monogr>
+	<note>Print. References henceforth in the text</note>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title level="a" type="main">Fukushima grapples with toxic soil that nobody wants</title>
+		<author>
+			<persName><forename type="first">Justin</forename><surname>See</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Mccurry</surname></persName>
+		</author>
+		<ptr target="https://www.theguardian.com/world/2019/mar/11/fukushima-toxic-soil-disaster-radioactive" />
+	</analytic>
+	<monogr>
+		<title level="j">The Guardian</title>
+		<imprint>
+			<date type="published" when="2019-03-11">March 11, 2019. 09 November 2024</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title level="a" type="main">Native North America: The Political Economy of Radioactive Colonization</title>
+		<author>
+			<persName><forename type="first">W</forename><surname>Churchill</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Laduke</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">The State of Native America: Genocide, Colonization and Resistance</title>
+		<editor>
+			<persName><forename type="first">M</forename><forename type="middle">A</forename><surname>Jaimes</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Boston</addrLine></address></meeting>
+		<imprint>
+			<publisher>South End Press</publisher>
+			<date type="published" when="1992">1992</date>
+			<biblScope unit="page" from="241" to="266" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title level="a" type="main">Nuclear Antipolitics and the Queer Art of Logistical Failure</title>
+		<ptr target="https://profession.mla.org/reparations-and-the-human" />
+	</analytic>
+	<monogr>
+		<title level="m">Colonial Racial Capitalism</title>
+		<editor>
+			<persName><forename type="first">Susan</forename><surname>Koshy</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">Lisa</forename><forename type="middle">Marie</forename><surname>Cacho</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">Jodi</forename><forename type="middle">A</forename><surname>Byrd</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">Brian</forename><surname>Jordan</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">Jefferson</forename></persName>
+		</editor>
+		<meeting><address><addrLine>New York, USA</addrLine></address></meeting>
+		<imprint>
+			<publisher>Duke University Press</publisher>
+			<date type="published" when="2014-11-08">2022. 2014. 08 November 2024</date>
+			<biblScope unit="page" from="257" to="283" />
+		</imprint>
+	</monogr>
+	<note>See also David Eng&apos;s &apos;Reparations and the Human</note>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<monogr>
+		<title level="m" type="main">Village of widows: the story of the Sahtu Dene and the atomic bomb</title>
+		<author>
+			<persName><forename type="first">Peter</forename><surname>Blow</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1999">1999</date>
+			<publisher>Kinetic Video. Linden Films</publisher>
+			<pubPlace>Toronto, Ontario Canada</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<title level="a" type="main">Disposable Waste, Lands and Bodies under Canada&apos;s Gendered Nuclear Colonialism</title>
+	</analytic>
+	<monogr>
+		<title level="j">International Feminist Journal of Politics</title>
+		<imprint>
+			<biblScope unit="volume">20</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="24" to="38" />
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+	<note>25 of Anne Sisson Runyan</note>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<title level="a" type="main">152 References henceforth in the text</title>
+		<author>
+			<persName><forename type="first">Simon</forename><surname>Avenell</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Transnational Japan in the Global Environmental Movement</title>
+		<meeting><address><addrLine>Piscataway, NJ</addrLine></address></meeting>
+		<imprint>
+			<publisher>Rutgers University Press</publisher>
+			<date type="published" when="2008">2017. 2008</date>
+		</imprint>
+	</monogr>
+	<note type="report_type">Print.</note>
+	<note>See also Jacob Darwin Hamblin. Poison in the Well: Radioactive Waste in the Oceans at the Dawn of the Nuclear Age</note>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title level="a" type="main">Japan Should Consider Sharing American Nuclear Weapons-Former PM Shinzo Abe</title>
+		<ptr target="https://militarywatchmagazine.com/article/japan-should-consider-sharing-american-nuclear-weapons-former-pm-abe" />
+	</analytic>
+	<monogr>
+		<title level="j">Military Watch</title>
+		<imprint>
+			<date type="published" when="2022-02-28">2022, Feb 28</date>
+			<publisher>See Military Watch Magazine Editorial Staff</publisher>
+		</imprint>
+	</monogr>
+	<note>See also, Oe</note>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<title level="a" type="main">Leadership and Nationalism: Assessing Shinzo Abe</title>
+		<author>
+			<persName><forename type="first">Patrick</forename><surname>Hein</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Asian Nationalisms Reconsidered</title>
+		<imprint>
+			<biblScope unit="page" from="99" to="107" />
+			<date type="published" when="2015">2015</date>
+			<publisher>Routledge</publisher>
+		</imprint>
+	</monogr>
+	<note type="report_type">Print</note>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<analytic>
+		<title level="a" type="main">Japan has nuclear &apos;bomb in the basement&apos;, and China isn&apos;t happy</title>
+		<author>
+			<persName><forename type="first">Robert</forename><surname>Windrem</surname></persName>
+		</author>
+		<ptr target="https://www.nbcnews.com/storyline/fukushima-anniversary/japan-has-nuclear-bomb-basement-china-isnt-happy-n48976" />
+	</analytic>
+	<monogr>
+		<title level="j">NBC News</title>
+		<imprint>
+			<date type="published" when="2014-03-11">2014. March 11. 08 November 2024</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<analytic>
+		<title level="a" type="main">Visualising Nuclear Futurism and Narrating Queer Futurity in Yanobe Kenji&apos;s The Sun Child and Tawada Yoko&apos;s The Emissary</title>
+	</analytic>
+	<monogr>
+		<title level="j">Asian Studies Review</title>
+		<imprint>
+			<biblScope unit="volume">46</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="455" to="472" />
+			<date type="published" when="2022">2022</date>
+		</imprint>
+	</monogr>
+	<note>of Tomoe Otsuki. Print. References henceforth in the text</note>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<analytic>
+		<title level="a" type="main">Narrating the Cultural Trauma of 3/11: the Debris of Post-Fukushima Literature and Film</title>
+		<author>
+			<persName><forename type="first">Rachel</forename><surname>Dinitto</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Japan Forum</title>
+		<imprint>
+			<biblScope unit="volume">26</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page">343</biblScope>
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<analytic>
+		<title level="a" type="main">Introduction: Epistemic Communities and International Policy Coordination</title>
+		<author>
+			<persName><forename type="first">Peter And</forename><surname>Haas</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">International Organization</title>
+		<imprint>
+			<biblScope unit="volume">18</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="1" to="35" />
+			<date type="published" when="1992">1997. 1992</date>
+		</imprint>
+	</monogr>
+	<note type="report_type">Print</note>
+	<note>Third World Quarterly</note>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<monogr>
+		<author>
+			<persName><forename type="first">Simon</forename><surname>Avenell</surname></persName>
+		</author>
+		<title level="m">Transnational Japan in the Global Environmental Movement</title>
+		<imprint>
+			<publisher>University of Hawai&apos;i Press</publisher>
+			<date type="published" when="2017">2017</date>
+			<biblScope unit="page">149</biblScope>
+		</imprint>
+	</monogr>
+	<note type="report_type">Print</note>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<analytic>
+		<title level="a" type="main">Toward a &apos;Global Novel:&apos; An Ecocritical Reading of Tawada Yōko&apos;s The Emissary</title>
+		<author>
+			<persName><forename type="first">Francesco</forename><surname>Eugenio</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Barbieri</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Kervan</title>
+		<imprint>
+			<biblScope unit="volume">26</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="563" to="585" />
+			<date type="published" when="2022">2022</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<monogr>
+		<author>
+			<persName><forename type="first">Franny</forename><surname>Choi</surname></persName>
+		</author>
+		<title level="m">The World Keeps Ending</title>
+		<meeting><address><addrLine>NY</addrLine></address></meeting>
+		<imprint>
+			<publisher>Harper Collins</publisher>
+			<date type="published" when="2023">2023</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<monogr>
+		<author>
+			<persName><forename type="first">Anna</forename><surname>Lowenhaupt</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Tsing</forename></persName>
+		</author>
+		<title level="m">The Mushroom at the End of the World: On the Possibility of Life in Capitalist Ruins</title>
+		<meeting><address><addrLine>NJ</addrLine></address></meeting>
+		<imprint>
+			<publisher>Princeton University Press</publisher>
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+	<note>Print. References henceforth in the text</note>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<monogr>
+		<title level="m" type="main">Nuclear Power is the Energy For A Bright Future&apos;, was emblazoned on a sign which stood over the main street of Futaba, Fukushima from</title>
+		<imprint>
+			<date type="published" when="1988">1988</date>
+		</imprint>
+	</monogr>
+	<note>The slogan which famously embodied the excitement toward the nuclear energy&apos;s potential in the east coast of Japan. was removed in 2016 after the earthquake (Yamamoto, 2020</note>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">Yuki</forename><surname>Yamamoto</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nuclear disaster museum opens in</title>
+		<imprint>
+			<date type="published" when="2020-10-21">2020. Oct 21</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b27">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">'</forename><surname>Fukushima</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">World</forename><surname>Nhk</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Japan</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Web</surname></persName>
+		</author>
+		<ptr target="https://www3.nhk.or.jp/nhkworld/en/news/backstories/1333/" />
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b28">
+	<monogr>
+		<title level="m" type="main">points out that &apos;nearly all the disaster revitalisation projects -such as public schools, research centres, recovery funds, science museums and renewable energy projects -are &apos;named after the future&apos;&apos; (p. 457, as cited in Otsuki (2022)). See Satsuki Takahashi. Fukushima oki ni ukabu mirai to sono mirai [The Future of &apos;Fukushima Future</title>
+		<author>
+			<persName><forename type="first">Anthropologist</forename><surname>Takahashi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Satsuki</forename></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+	<note>Floating in Fukushima Offshore</note>
+</biblStruct>
+
+<biblStruct xml:id="b29">
+	<monogr>
+		<title level="m" type="main">Artist Yanobe Kenji&apos;s The Sun Child sculpture, for example, which was the first symbol of the revitalisation of Fukushima after the disaster</title>
+		<author>
+			<persName><forename type="first">Bunka</forename><surname>Jinruigaku</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2018">2018. 2022</date>
+			<biblScope unit="volume">83</biblScope>
+			<biblScope unit="page" from="441" to="458" />
+		</imprint>
+	</monogr>
+	<note>was imagined as a child that had come from the future of Fukushima. See Otsuki</note>
+</biblStruct>
+
+<biblStruct xml:id="b30">
+	<monogr>
+		<author>
+			<persName><forename type="first">Takashi</forename><surname>Murakami</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Little</forename><surname>Boy</surname></persName>
+		</author>
+		<title level="m">The Arts of Japan&apos;s Exploding Subculture</title>
+		<meeting><address><addrLine>New Haven, CT</addrLine></address></meeting>
+		<imprint>
+			<publisher>Yale University Press</publisher>
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b31">
+	<monogr>
+		<title level="m" type="main">Unrealistic Dreamer: Haruki Murakami on Fukushima</title>
+		<author>
+			<persName><forename type="first">Haruki</forename><surname>Murakami</surname></persName>
+		</author>
+		<ptr target="https://www.dianuke.org/unrealistic-dreamer-haruki-murakami/" />
+		<imprint>
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b32">
+	<monogr>
+		<title level="m" type="main">See Koichi Haga The Earth Writes. The Great Earthquake and the Novel in post-3/11 Japan</title>
+		<imprint>
+			<date type="published" when="2019">2019</date>
+			<publisher>Lexington Books</publisher>
+			<biblScope unit="page">579</biblScope>
+			<pubPlace>Lanham</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b33">
+	<monogr>
+		<title level="m" type="main">Poetics of Relation</title>
+		<author>
+			<persName><forename type="first">See</forename><surname>Édouard Glissant</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Trans</forename><forename type="middle">Betsy</forename><surname>Wing</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1997">1997</date>
+			<publisher>University of Michigan Press</publisher>
+			<pubPlace>Ann Arbor, MI</pubPlace>
+		</imprint>
+	</monogr>
+	<note>Print. References henceforth in the text</note>
+</biblStruct>
+
+<biblStruct xml:id="b34">
+	<analytic>
+		<title level="a" type="main">While Smith&apos;s photographs helped to bring worldwide attention to the tragedy, his photographs and his practices were also exploitative of residents and victims (See Christine L. Marran&apos;s essay &apos;Temporality and Landscapes of Reclamation: Johnny Depp Goes to Minamata</title>
+	</analytic>
+	<monogr>
+		<title level="m">Eco-Disasters in Japanese Cinema</title>
+		<editor>
+			<persName><forename type="first">Rachel</forename><surname>Dinitto</surname></persName>
+		</editor>
+		<meeting><address><addrLine>NY</addrLine></address></meeting>
+		<imprint>
+			<publisher>Columbia University Press</publisher>
+			<date type="published" when="2024">2024</date>
+		</imprint>
+	</monogr>
+	<note type="report_type">Print.</note>
+</biblStruct>
+
+<biblStruct xml:id="b35">
+	<analytic>
+		<title level="a" type="main">Environmental Contamination And Human Rights -Case Of Minamata Disease</title>
+	</analytic>
+	<monogr>
+		<title level="j">Industrial &amp; Environmental Crisis Quarterly</title>
+		<imprint>
+			<biblScope unit="volume">8</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="141" to="154" />
+			<date type="published" when="1994">1994</date>
+		</imprint>
+	</monogr>
+	<note>of Masazumi Harada. References henceforth in the text</note>
+</biblStruct>
+
+<biblStruct xml:id="b36">
+	<monogr>
+		<title/>
+		<author>
+			<persName><surname>Harada</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="page">142</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b37">
+	<monogr>
+		<title level="m" type="main">Paradise in the Sea of Sorrow: Our Minamata Disease</title>
+		<author>
+			<persName><forename type="first">Michiko</forename><surname>Ishimure</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2003">2003</date>
+			<publisher>University of Michigan Press</publisher>
+			<pubPlace>Ann Arbor, MI</pubPlace>
+		</imprint>
+	</monogr>
+	<note type="report_type">Print</note>
+</biblStruct>
+
+<biblStruct xml:id="b38">
+	<monogr>
+		<title level="m" type="main">See Marran&apos;s essay for a detailed account of Smith&apos;s troubling disregard for the family&apos;s wishes and for the careless and callous use of the image in public circulation</title>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b39">
+	<monogr>
+		<author>
+			<persName><forename type="first">Mel</forename><forename type="middle">Y</forename><surname>Chen</surname></persName>
+		</author>
+		<title level="m">Animacies: Biopolitics, Racial Mattering, and Queer Affect</title>
+		<meeting><address><addrLine>Durham, NC</addrLine></address></meeting>
+		<imprint>
+			<publisher>Duke University Press</publisher>
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+	<note>References henceforth in the text</note>
+</biblStruct>
+
+<biblStruct xml:id="b40">
+	<analytic>
+		<title level="a" type="main">Beasts of Burden: Disability Studies and Animal Rights</title>
+		<author>
+			<persName><forename type="first">Sunaura</forename><surname>Taylor</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Qui Parle</title>
+		<imprint>
+			<biblScope unit="volume">19</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="191" to="222" />
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b41">
+	<monogr>
+		<author>
+			<persName><forename type="first">Sunaura</forename><surname>Taylor</surname></persName>
+		</author>
+		<title level="m">Beasts of Burden: Animal and Disability Liberation</title>
+		<meeting><address><addrLine>New York</addrLine></address></meeting>
+		<imprint>
+			<publisher>The New Press</publisher>
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+	<note type="report_type">Print</note>
+</biblStruct>
+
+<biblStruct xml:id="b42">
+	<monogr>
+		<author>
+			<persName><forename type="first">Jina</forename><forename type="middle">B</forename><surname>Kim</surname></persName>
+		</author>
+		<title level="m">Care of the End of the World: Dreaming of Infrastructure in Cripof-Color Writing</title>
+		<meeting><address><addrLine>Durham, NC</addrLine></address></meeting>
+		<imprint>
+			<publisher>Duke University Press</publisher>
+			<date type="published" when="2025">2025</date>
+		</imprint>
+	</monogr>
+	<note type="report_type">Print</note>
+	<note>References henceforth in the text</note>
+</biblStruct>
+
+<biblStruct xml:id="b43">
+	<analytic>
+		<title level="a" type="main">Yuimaaru: Okinawan Prisoners of War Shape Okinawan Identity and Transnational Connections</title>
+		<author>
+			<persName><forename type="first">See</forename><surname>For More</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Nakamura</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">Y</forename><surname>Higa</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">M T</forename><surname>Nakamura</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Higa</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/00447471.2019.1715493.</idno>
+		<ptr target="https://doi.org/10.1080/00447471.2019.1715493" />
+	</analytic>
+	<monogr>
+		<title level="j">Amerasia Journal</title>
+		<imprint>
+			<biblScope unit="volume">45</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="336" to="351" />
+			<date type="published" when="2019">2019. 2019</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b44">
+	<monogr>
+		<title/>
+		<author>
+			<persName><surname>Kim</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="page">2</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b45">
+	<monogr>
+		<title/>
+		<author>
+			<persName><surname>Ibid</surname></persName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b46">
+	<monogr>
+		<title level="m">Survivance: Narratives of Native Presence</title>
+		<editor>
+			<persName><forename type="first">Gerald</forename><surname>Vizenor</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Lincoln, NE</addrLine></address></meeting>
+		<imprint>
+			<publisher>University of Nebraska Press</publisher>
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

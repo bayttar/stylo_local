@@ -1,0 +1,944 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">The Narrative Perfect and Past Perfective: Evidence from the Diary of Samuel Pepys</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author role="corresp">
+							<persName><forename type="first">Vladimir</forename><surname>Bondar</surname></persName>
+							<email>alstar@inbox.ru</email>
+							<affiliation key="aff0">
+								<orgName type="institution">The Evolution of Grammar</orgName>
+								<address>
+									<addrLine>An English Grammar, 113. 2 Bybee</addrLine>
+									<postCode>68</postCode>
+									<settlement>Murray, Perkins, Pagliuca</settlement>
+								</address>
+							</affiliation>
+							<affiliation key="aff1">
+								<orgName type="institution">Matthews , &quot; Samuel Pepys</orgName>
+								<address>
+									<addrLine>&quot; 403. 17 Latham and Matthews</addrLine>
+									<settlement>Tachygraphist</settlement>
+								</address>
+							</affiliation>
+							<affiliation key="aff2">
+								<orgName type="institution">The Diary of Samuel Pepys</orgName>
+								<address>
+									<addrLine>liii-liv, lx. 18 Wheatley, ed</addrLine>
+								</address>
+							</affiliation>
+							<affiliation key="aff3">
+								<orgName type="institution">The Diary of Samuel Pepys</orgName>
+							</affiliation>
+						</author>
+						<title level="a" type="main">The Narrative Perfect and Past Perfective: Evidence from the Diary of Samuel Pepys</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date/>
+						</imprint>
+					</monogr>
+					<idno type="MD5">2A15CA646F80AB3794EBF5748316877A</idno>
+					<idno type="DOI">10.1080/0013838X.2025.2582148</idno>
+					<note type="submission">Received 20 December 2024 Accepted 19 October 2025</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.0" ident="GROBID" when="2026-02-25T19:52+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term>Diachronic syntax</term>
+					<term>historical pragmatics</term>
+					<term>narrative present perfect</term>
+					<term>preterit</term>
+					<term>past perfective tense</term>
+				</keywords>
+			</textClass>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>The article explores uses of the present perfect with definite past time adverbials in Samuel Pepys's Diary. Although the Diary was written using shorthand and some instances may contain encoding or decoding errors, a comparison to the Paston Letters written 200 years earlier reveals similar, consistent patterns. This consistency suggests a continuation of an established pattern rather than a coincidence. The present perfect in the Diary functions as the narrative present perfect, similarly to the historical present. This function of the present perfect is characteristic of Pepys's style and is used when conveying new, unexpected information. The study identifies syntactic triggers that evoke the use of the present perfect and distinguishes two types of contexts uncommon in Present-Day Standard British English: (1) with words signalling new, unexpected information with adverbials denoting various degrees of remoteness, and (2) with adverbials of a recent past in monotopical discourse stretches. It is argued that these are ambiguous contexts where the present perfect may be reanalyzed as a past perfective, signalling completed past actions without emphasizing current relevance. The study demonstrates how the interaction of temporal, syntactic, and pragmatic factors creates conditions for the functional drift of the present perfect toward a past perfective.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="1.">Introduction</head><p>In An English Grammar (1795), Lindley Murray wrote that " … it would be improper to say, 'I have seen him yesterday;' or, 'I have finished my work last week'". <ref type="bibr">1</ref> In Present-Day Standard British English, the present perfect retains this rule and exhibits remarkable semantic stability, unlike its counterparts in other European languages (German,  French, Italian, Dutch), where it has evolved into a past perfective tense or acquired preterital semantics. <ref type="bibr">2</ref> Yet, despite this apparent stability and prescriptive prohibition, actual usage reveals exceptions. The use of the present perfect with definite past time adverbials, though traditionally considered ungrammatical in Standard British English, is occasionally attested in informal registers. Rastall, for instance, documents uses of the present perfect with adverbials such as yesterday, last night, or in the 1950s, and argues that these instances retain an aspect of current relevance, representing "a pragmatic consideration overcoming a grammatical convention". <ref type="bibr">3</ref> However, the phenomenon seems to have deeper historical roots. In earlier stages, English exhibited greater flexibility in the use of the present perfect. In Middle English, the functional division between the preterit and the perfect was still in flux. Mustanoja, <ref type="bibr">4</ref> Fischer, 5 and Denison 6 all note the use of the present perfect in past time narrative sequences during this period. In Early Modern English, especially in spoken language, the division of labour between the present perfect and the preterit was unstable and subject to variation. <ref type="bibr">7</ref> Werner's observation means that such variation is more likely to appear in genres that approximate spoken language.</p><p>Therefore, the best approach satisfying this criterion is the use of so-called ego-documents, i.e., texts belonging to such genres as letters, diaries, memoirs, etc., which "are considered to be as close to speech as non-fictional historical texts can possibly be". <ref type="bibr">8</ref> Thus, the genre of diaries, and in particular the Diary of Samuel Pepys, which provides valuable material of seventeenth-century colloquial English, 9 was chosen for this investigation.</p><p>The main research questions in this study are:</p><p>. What are the discourse contextual features that license the use of the present perfect with definite past time adverbials? . How should the semantics of the present perfect in such contexts be understood?</p><p>This study examines the use of the present perfect with definite past time adverbials, such as yesterday, ago, and phrases containing last (e.g., last night). To explore how the present perfect relates to the criterion of temporal distance, the study also considered adverbials indicating recent past events, such as this morning/afternoon/noon/evening/night. Each instance of these adverbials was checked in context to confirm a past time reference, and ambiguous or futureoriented uses were excluded.</p><p>Preliminary analysis of preterit uses with yesterday revealed that the perfect and the preterit often occur in identical syntactic and textual environments. This suggests that structural or adverbial differences alone cannot account for the choice of the perfect. For this reason, the present study does not attempt to contrast the perfect with the preterit in parallel contexts. Instead, it concentrates on the distinctive discourse functions and contextual triggers that motivate the use of the perfect itself.</p><p>The data was collected from the recent and philologically rigorous edition of the Diary of Pepys by Latham and Matthews (1970-1983). <ref type="bibr">10</ref> This edition takes into account and 3 Rastall, "Observations on the Present Perfect in English," 81; see also Trudgill, "Standard English in England," 42; Miller,  "Perfect and Resultative Constructions in Spoken and Non-standard English," 331-334, 340.   4   Mustanoja, A Middle English Syntax, 506-7. 5 Fischer, "Syntax," 259. 6 Denison, English Historical Syntax, 353.   7 Werner, The Present Perfect in World Englishes, 21.   8   van der Wal and Rutten, "Ego-documents in a Historical-sociolinguistic Perspective," 11-14. 9 Taylor, "Pepys's Use of Colloquial English," 36. <ref type="bibr">10</ref> Latham and Matthews, eds., The Diary of Samuel Pepys.</p><p>rectifies errors made by previous transcribers in decoding the Diary (for a detailed analysis of transcription errors, see Matthews). <ref type="bibr">11</ref> For comparative purposes, material from the Paston Letters was selected. The source text for these letters was James Gairdner's 1904 edition of the Paston Letters (1422-1509), <ref type="bibr">12</ref> which contains 1,088 letters. The Paston Letters were chosen for comparison with the Diary of Samuel Pepys due to several key factors. First, they offer a valuable diachronic perspective, as the correspondence spans several decades and illustrates variation in English usage during the fifteenth century (cf. <ref type="bibr">Bergs 13</ref> ). Notably, they contain instances of the present perfect in contexts comparable to those found in Pepys's Diary, making them well suited for examining continuity and change in such uses over time. Second, as a genre of private correspondence, the letters reflect informal, spoken-like language (cf.,  ), similar to Pepys's Diary, which is critical for studying uses of the present perfect that are non-canonical by today's standards. <ref type="bibr">15</ref> Finally, the large and varied corpus of over 1,000 letters offers a robust sample of data, ensuring a consistent and meaningful comparison.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.">The Diary of Samuel Pepys</head><p>Given the wide range of diachronic English corpora available, a pertinent question arises: why select the Diary of Samuel Pepys? Pepys's Diary offers a rich literary account of his personal life and seventeenth-century English society, covering the period from January 1660 to May 1669. However, what makes it particularly valuable for our study is that it provides extensive evidence of tense variation. In contrast to Pepys's work, the diaries of his contemporaries, such as Samuel Newton's diary and John Evelyn's diary (spanning 1640-1706), consistently use the preterit when recounting past events, showing no comparable use of the present perfect for narrative purposes as seen in the Diary of Pepys:</p><p>(1) "At my coming home, I find that The Turner hath sent for a pair of doves that my wife hath promised her. And because she did not send them in the best Cage, she sent them back again with a Scornefull letter with which I was angry, and yet pretty well pleased that she was crossed" (Thursday 18, October 1660). ( <ref type="formula">2</ref>) " … but when we came, we find him going out by coach with his Duchess, and he told us he was to go abroad with the Queen today (to Durdans it seems, to dine with my Lord Barkely, where I have been very merry when I was a little boy)" (Monday 1, September 1662). ( <ref type="formula">3</ref>) "but I fear I shall not escape so, and therefore I have long ago laid by 10l: for them; but I think I am not bound to discover myself" (Monday 10, December 1660).</p><p>The highlighted verb forms in examples (1)-(3) demonstrate the tense variation in Pepys's Diary, featuring the use of the present perfect, preterit, and simple present within a single syntactic environment as well as the present perfect with a definite past time adverbial. This range of tenses reflects the flexible and varied use of tense forms in Pepys's narrative, which stands in stark contrast to the more fixed tense usage in Present-Day Standard British English, where all instances of the use of the present perfect in such contexts would be deemed ungrammatical and replaced by preterits. Yet their presence in the Diary raises a crucial methodological question: can these forms be trusted as genuine reflections of Pepys's usage, or might they be artifacts introduced during the transcription process by the transcribers? Indeed, Pepys wrote in Thomas Shelton's shorthand system, Tachygraphy, which used a single symbol to represent various forms such as have, has, hath, and had. <ref type="bibr">16</ref> This ambiguity complicates our ability to distinguish present from past perfect. However, the current study relies on the recent and philologically rigorous edition of the Diary by Latham and Matthews (1970-1983), which corrects many earlier transcription errors and confirms that instances of the present perfect with definite past time adverbials in Pepys's Diary do exist and are not mere errors. In cases of ambiguity, when the "hsymbol" represented any of several allomorphs of have, the editors drew on Pepys's longhand writings from the same period to guide their choice. As an example they note that, for third-person singular subjects, they render the form as hath rather than has, since Pepys rarely used has in his longhand. 17 These editorial decisions, grounded in Pepys's own orthographic habits and contextual usage, provide an empirical basis for distinguishing between present and past perfect forms. This renders their edition methodologically more reliable than earlier versions.</p><p>Thus, for example, Wheatley's edition 18 transcribes two instances of the present perfect with yesterday using have, whereas the Latham and Matthews edition (1970-1983) corrects these to past perfect forms:</p><p>(4) "This day I began to put on buckles to my shoes, which I have bought yesterday of Mr. Wotton" (Sunday, 22 January 1660), Wheatley's edition. ( <ref type="formula">5</ref>) "Wake betimes and talk a while with my wife about a wench that she has hired yesterday, which I would have enquired of before she comes … " (Wednesday, 18 March 1663), Wheatley's edition.</p><p>Moreover, the reliability of the latest edition is further supported by evidence of present perfect usage with definite past time adverbials in other textsphenomena that have been studied by various scholars. Thus, Elsness, in his seminal study of the perfect in the history of English, observes that combinations of the present perfect with definite past time adverbials were more frequent at earlier stages of the language. <ref type="bibr">19</ref> He also refers to other studies, in particular by Visser, where the present perfect is used with definite past time adverbials, including instances from Pepys (some overlapping with ours), as well as from Shakespeare etc. 20 More recently, Bondar, 21 using data from the Corpus of English Dialogues (CED, 1560-1760), confirms that the present perfect occurs with ago, yesterday, and last. Like the CED, Pepys's Diary is largely informal and often exhibits a colloquial, speech-like narrative style. <ref type="bibr">22</ref> These factors render it unlikely that examples of the present perfect with definite past time adverbials found in the Diary are mere editorial inventions or consistent decoding errors. As Pentrel 23 notes, decoding inaccuracies in Pepys's Diary are generally limited to punctuation or lexical choice, not syntactic structure. Moreover, it is implausible that either Pepys, an educated and literate speaker, or the editors of modern editions would systematically misrepresent grammatical tense in ways that produce such consistent, linguistically significant patterns. Even if a small number of cases (e.g., hath bought vs. had bought) remain ambiguous due to shorthand, as seen in differences between the editions by Wheatley and Latham/Matthews, this does not undermine the overall trend: the present perfect with definite past specification appears with too much regularity and systematicity to be dismissed as error. Moreover, recurring instances of the verb be-perfect with past time adverbials, such as are sailed yesterday, provide further evidence of patterned usage, reinforcing that these forms reflect genuine linguistic practice in the Diary.</p><p>Additional support for this interpretation comes from Pepys's broader grammatical usage. His Diary exhibits other forms common to colloquial English of the period, including variation ,between past and past participle forms. In English Grammar, Robert Lowth later criticised the frequent interchange of forms such as begun for began and run for ran, even among "our most esteemed writers". <ref type="bibr">24</ref> Pepys similarly uses forms like I sung, I drunk, and I run alongside what would be later standard variants favoured by prescriptivists like Lowth.</p><p>Thus, the uses of the present perfect with past time adverbials in the Diary of Pepys, are best understood as authentic reflections of seventeenth-century usage rather than editorial anomalies.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.">Narrative Present Perfect and Aoristic Drift</head><p>In Bybee et al., the semantics of the present perfect or anterior is defined as "a past action with current relevance". <ref type="bibr">25</ref> According to Reichenbach's analysis of temporal logic, 26 the reference point (R) of the present perfect coincides with the point of speech (S) but is detached from the event time (E): E -S, R. In contrast, the simple past has the reference point (R) aligned with the event time (E): E, R -S. In other words, the primary distinction between the present perfect and the simple past lies in the position of the reference point. When R is positioned in the present temporal plane, definite past time adverbials are generally excluded, whereas they are allowed when R is situated in the past. Klein refers to this distinction between the present perfect and the simple past as the Present Perfect Puzzle, where the situation time (TSit) and the reference time (TT) cannot both receive distinct p-definite time references 27 and, therefore, the present perfect is traditionally considered ungrammatical when used either in narrative temporal sequences or with definite past time adverbials.</p><p>While this logical temporal analysis provides important insights, it appears to be challenged by empirical data from languages such as German, where the Perfekt exhibits behaviour incompatible with this strict temporal view. In addition, some varieties of Present-Day English show uses of the present perfect in past time contexts that resist this traditional account. <ref type="bibr">28</ref> This prompts consideration of two complementary perspectives: a functional perspective, i.e., the use of the present perfect in narrative passages (the so-called narrative present perfect, NPP), and a diachronic perspective, i.e., the evolution of the present perfect along a grammaticalization cline from anterior to preterital and/or evidential semantics (the so-called aoristic drift). In the latter case, for example, the German Perfekt can be interpreted either as a past tense with the ability to convey anterior semantics in certain contexts or as an anterior tense that can be used in past narrative sequences and combined with definite past time adverbials. <ref type="bibr">29</ref> Examining the present perfect solely from a logical temporal perspective, as proposed by Reichenbach or Klein, offers limited insight into how anteriors acquire preterital semantics. Intuitively, it seems that without considering pragmatic factors, attempts to explicate the semantic drift towards the preterit may prove to be futile.</p><p>Recent studies have suggested that the NPP plays a role in this semantic change by providing a pragmatic justification for the present perfect drifting towards a past tense. For instance, Caudal and Roussarie argue it is the NPP used in narrative discourse to indicate temporal succession that serves as a key factor of the aoristic drift in the evolution of the French Passé Composé. However, even at its earlier stages, the Passé Composé was not used with definite past-time adverbials. <ref type="bibr">30</ref> Building on this analysis and exploring non-standard uses of the Australian present perfect, Ritz introduces two reference times (R1 and R2). Examples of the narrative present perfect occur because speakers can pragmatically exploit the distance between these reference times 31 to emphasise either the internal stage of the event expressed by the verb phrase (past interpretation) or the result stage connected to the "extended now"defined as a time interval introduced by the present perfect that begins in the past and extends up to the moment of speech. <ref type="bibr">32</ref> In Ritz, the author links the evolution of the present perfect toward a past perfective tense with the "hot news" perfect, which serves as a marker of mirativity and the pragmatic effect of surprise in Australian Narrative police media reports. <ref type="bibr">33</ref> Mirativity is a grammatical category that encodes the speaker's expression of surprise, unexpectedness, or new information concerning an event. <ref type="bibr">34</ref> In the context of the present perfect, mirativity shifts the pragmatic focus from purely temporal relations to the speaker's epistemic <ref type="bibr">28</ref> Trudgill, "Standard English in England"; Rastall, "Observations on the Present Perfect in English"; Elsness, "The Perfect and the Preterite in Australian and New Zealand English." <ref type="bibr">29</ref> For empirical examples, see Rothstein, The Perfect Time Span, 24-27, who argues for a monosemous approach to the German Perfekt, assigning it a single uniform meaning that encompasses both prototypical perfect and preterital uses, including those in past time narrative sequences and with definite past time adverbials. <ref type="bibr">30</ref> Caudal and Roussarie, "Brands of Perfects," 15-16. <ref type="bibr">31</ref> Ritz, "The Perfect Crime," 28. <ref type="bibr">32</ref> McCoard, The English Perfect, 123. <ref type="bibr">33</ref> Ritz, "'Hot News' and Perfect Change," 152-3. 34 DeLancey, "Mirativity."</p><p>stance, foregrounding the event as newsworthy or surprising rather than emphasising its current relevance or present consequences.</p><p>The "hot news" perfect, discussed by Schwenter 35 and Ritz, serves to introduce surprising or important information, often in isolation or as a topic initiator. In such uses, the present perfect highlights the event itself rather than its result state or connection to the speech moment. Over time, the mirative force of these uses may weaken or become conventionalised, facilitating a semantic reanalysis as a past perfective tense with no obligatory link to the present (aoristic drift).</p><p>It is important to note, however, that this semantic transition is not an obligatory path in the evolution of the present perfect. Thus, a more detailed sociolinguistic and discourse-analytic study of the NPP in Australian English demonstrates that non-standard uses of the NPP are more a pragmatic phenomenon than a semantic one. <ref type="bibr">36</ref> This suggests that, at present, the NPP in Australian spoken language serves a distinct function but does not indicate a semantic transition into a past perfective tense. 37</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="4.">Current Relevance and Discourse Topics</head><p>As argued by Bybee et al., pragmatic components play a crucial role in the evolution of the perfect into a past perfective tense 38 : semantic changes are accompanied by a generalisation of meaning and a loss of current relevance. 39 However, defining current relevance proves to be challenging. <ref type="bibr">40</ref> Moreover, in contexts involving the present perfect, it is possible to establish an essentially infinite number of logical connections (relevancies) with the speech moment. These connections depend not only on the semantics of the perfect but also on the propositional ramifications of the situation and speaker intentions. <ref type="bibr">41</ref> This suggests that while current relevance can be regarded as a defining characteristic of the present perfect, it is not encoded in a uniform or specific way at the semantic level (Werner 2014: 64). Rather, current relevance is shaped by contextual and pragmatic factors that vary with discourse, speaker intention, and propositional content.</p><p>Another argument against current relevance being a semantic component of the present perfect is that other temporal forms, particularly the simple past, can also convey current relevance. <ref type="bibr">42</ref> Yet, despite extensive criticism in the literature regarding the operability of the notion of current relevance, often due to its vagueness, <ref type="bibr">43</ref> this study adopts Portner's perspective on the present perfect. According to Portner, the difference between the past tense and the perfect is that the past tense does not <ref type="bibr">35</ref> Schwenter, "The Grammaticalization of an Anterior in Progress." <ref type="bibr">36</ref> Richard, Tense/aspect variation and the Present Perfect in Australian English narratives, 283-285. <ref type="bibr">37</ref> The author makes an essential observation regarding the potential aoristicisation of the present perfect in Australian English: "Grammaticalisation would only be evidenced if the form semantically acquired past meaning and spread out of narrative contexts" (Richard, "Tense/aspect Variation and the Present Perfect in Australian English narratives," 291). 38 Throughout this paper, the term 'tense' is used broadly to refer to verb forms such as the past tense, present perfect tense, and past perfect tense, without aiming to distinguish their aspectual or temporal nuances. This terminological simplification serves the descriptive and distributional focus of the study. For detailed discussions on the distinction between tense and aspect, see Comrie, Aspect and Dik, The Theory of Functional Grammar. <ref type="bibr">39</ref> Bybee, Perkins, and Pagliuca, The Evolution of Grammar, 86. <ref type="bibr">40</ref> McCoard, The English Perfect, 64-65. <ref type="bibr">41</ref> Ibid., 59. <ref type="bibr">42</ref> Werner, The Present Perfect in World Englishes, 64. 43 see Werner, The Present Perfect in World Englishes, 62-65 for a detailed analysis.</p><p>linguistically presuppose current relevance to the discourse topic, whereas the perfect can be used by the speaker "to prod the hearer into uncovering (accommodating) the type of discourse topic that he or she has in mind." <ref type="bibr">44</ref> This, however, raises another issue: how to define a discourse topic, particularly in written texts. Anderson et al. illustrate this with an example where students from physical and music education backgrounds read the same passage differently. Music students interpreted the text as describing a prison break, while physical education students saw it as depicting a wrestling match. <ref type="bibr">45</ref> The authors argue that the study demonstrated how " … people's personal history, knowledge, and beliefs influence the interpretations they will give to prose passages". <ref type="bibr">46</ref> To address this issue, this study adopts Todd's definition of a discourse topic: "a clustering of concepts associated or related from the interlocutors' perspective, creating connectedness and relevance". <ref type="bibr" target="#b1">47</ref> Thus, connectedness, relevance, and aboutness are established as the primary characteristics of a discourse topic. The first term is most clearly reflected in coherence and cohesion. As the author notes, defining a topic, particularly in monotopical discourse stretcheswhich, as will be shown later, are characteristic of the Diaryrequires looking " … for a clustering of concepts expressed through lexical items and those concepts most frequently reiterated in the discourse stretch". <ref type="bibr">48</ref> An even more effective criterion for identifying a discourse topic, specifically in monotopical discourse stretches, is aboutnessa semantic construct in which all discourse propositions are related to a superordinate discourse topic. <ref type="bibr">49</ref> An important criterion is expressed through relevance, which, unlike aboutness, is used to assess the relationship between a proposition and a preceding proposition. In general, these concepts are undoubtedly interconnected: they facilitate the definition of the discourse topic, which in turn generates aboutness, connectedness, and relevance. It is crucial to note that while maintaining a topic in discourse, both relevance and aboutness can be discussed; however, a topic drift implies relevance but not aboutness. <ref type="bibr" target="#b2">50</ref> Thus, in this study, current relevance is operationalised by identifying discourse stretches characterised by lexical cohesion and monotopicality, where the present perfect signals the ongoing pertinence of a past event to the unfolding discourse topic. Such pragmatic triggers serve as markers of current relevance, allowing the present perfect to guide the hearer's accommodation of the speaker's intended discourse focus.</p><p>The pragmatic perspective on current relevance clarifies when and why the present perfect is used in discourse, but explaining its evolution toward a perfective interpretation requires a theoretical account of aspect. To elucidate the functional shift from perfect to perfective observed in the data, this study draws on a theoretical conception of aspect. Following Comrie, aspect refers to the internal temporal structure of a situation, distinguishing between perfective aspect, which views the situation as a bounded whole without regard to its internal phases, and imperfective aspect, which focuses on its internal temporal composition. <ref type="bibr">51</ref> Dik further differentiates between "internal aspects," which concern the inner temporal contour of the State of Affairs (SoA), including Perfectivity/Imperfectivity and Phasal Aspect, typically represented by predicate operator π₁, and "external aspects," which involve quantification over SoA (Quantificational Aspect) or their relation to an external temporal reference point, i.e. Perspectival Aspect, concerning predication operators π₂. <ref type="bibr">52</ref> The perfect, as a Perspectival Aspect, typically links a past event to an ongoing subsequent state at the reference time, often the moment of speech, thereby encoding current relevance. The pragmatic weakening of this subsequent state in certain contexts creates conditions for the potential reinterpretation of the present perfect as a perfective, non-relational viewpoint aspect. In the following sections, this theoretical framework provides the basis for analysing those uses of the present perfect in the Diary that exhibit the potential to be reinterpreted as a perfective.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="5.">The Standard Use of the Present Perfect and NPP in the Diary</head><p>In the Diary, there are instances in temporally indeterminate contexts where the present perfect is employed with different readings, i.e. experiential, resultative, or continuative:</p><p>(6) "The business of Argier (http://www.pepysdiary.com/encyclopedia/3088/) hath of late troubled me, because my Lord hath not done what he went for, though he did as much as any man in the world could have done" (Monday, 30 September 1661).</p><p>In example (6), we observe an experiential and a resultative perfect. The semantics of the present perfect in this example is best explained by the Extended-Now theory: the left periphery of the event is in the indefinite past, while the right boundary includes the present. <ref type="bibr">53</ref> However, there are instances where the present perfect is used in past time contexts:</p><p>(7) "Going out of the Chapell, I met with Jack Cole my old friend (whom I had not seen a great while before), and have promised to renew acquaintance in London together.</p><p>To my Lord's and dined with him; he all dinner time talking French to me and telling me the story how the Duke of York hath got my Lord Chancellor's daughter with child, and that she doth lay it to him, and that for certain he did promise her marriage and had signed it with his blood, but that he by stealth had got the paper out of her Cabinett" (Sunday, 7 October 1660).</p><p>In example (7), there are two narrative centres: the first is Pepys recounting events of his day, and the second is the retelling of a story conveyed to Pepys by his Lord. In both types of narration, the chain of events is anchored in the past (met, had not seen, dined, had signed, had got), yet both also contain examples of the present perfect (have promised, hath got). When placed within the unusual syntactic context of past events, the present perfect acquires a new function that is not present in its standard usage, when narration of past events is performed in such a way as if they were connected to the present moment. This combination of core pragmatic components of the present perfect, indicating a completed action relevant to the speech moment, with an atypical syntactic environment allows the present perfect to highlight and foreground past events, drawing the readers closer and immersing them in the events as if they were experiencing these events in real time.</p><p>In Caudal and Roussarie, the present perfect is categorised into two non-canonical types during its transition to a past perfective tense: those with aoristic pragmatics, which do not occur with definite past time adverbials, and those with partly aoristic semantics, which appear with both definite past time adverbials and in narrative sequences. <ref type="bibr">54</ref> Our data includes examples of the present perfect used in past-time narrative sequences, accompanied by definite past time adverbials with varying degrees of remoteness, including instances of the present perfect continuous:</p><p>(8) "Called up to the office; and much against my will, I rose, my head akeing mightilyand to the office, where I did argue to good purpose for the King what I have been fitting myself for the last night against Mr. Wood about his masts; but brought it to no issue" (Tursday, 18 February 1664).</p><p>In example (8), Pepys recounts the events of the past day using the past simple tense (e.g., rose, did argue, brought). However, when recalling the action that preceded these events, he switches to the present perfect continuous. This shift aims to emphasise the emotional attitude to the situation (most likely, resentment and disappointment) that despite spending the whole night preparing for the debate, it ultimately turned out to be futile.</p><p>Thus, examples ( <ref type="formula">7</ref>) and ( <ref type="formula">8</ref>) suggest that the present perfect in past time sequences should not always be understood merely as a stage in the grammaticalization process moving toward a past perfective. Instead, these examples illustrate a special narrative function of the present perfect, contributing to the storytelling by foregrounding certain events or attitudes. This use emphasises the pragmatic role of the present perfect in shaping narrative flow rather than simply marking temporal relations. However, do all examples from our data support this interpretation? In the following sections, we will address this question in more detail, beginning with an analysis of the statistical data, followed by an exploration of their interpretation.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="6.">Data</head><p>This section quantitatively explores the use of the present perfect with such definite past time adverbials yesterday, ago, last. It also analyses adverbials used in hodiernal contexts with varying degrees of remoteness: this morning, this afternoon, this evening, and this night. All the searches for tense usage in Pepys's Diary were performed manually for each adverbial based on the Latham/Matthews 1970-1983 edition of the Diary. Counts of tenses with these adverbials may differ from earlier editions (e.g., Wheatley) due to editorial decisions; however, such differences do not affect the focus of the present study. As already outlined in the Introduction, this study does not attempt a systematic comparison with the preterit, since the two forms often appear in the same syntactic and textual environments; the analysis here is limited to identifying the discourse functions and triggers of the present perfect itself.</p><p>Tables <ref type="table" target="#tab_1">1</ref> and<ref type="table" target="#tab_2">2</ref> provide the overall quantitative data on how tenses are distributed with the selected past time adverbials in the Diary. The primary tenses featured in the tables are the past simple, present perfect, past perfect and present simple. The "Other" category includes examples where the adverbials occur with modal verbs (e.g., might have got yesterday) and with non-finite verb forms (e.g., come from the sea yesterday, all being packed up yesterday).</p><p>Table <ref type="table" target="#tab_1">1</ref> presents the overall data on the use of tenses with yesterday, ago, last.</p><p>Out of 10 examples of the present perfect with yesterday, 5 feature the be-perfect with verbs like come or go (e.g., is come, is gone -3 examples) and sail (e.g., are sailed, is sailed -2 examples). The remaining examples use the have-perfect. Most of the verbs are dynamic: set down, declare, draw, send, forget, but there are two instances with the stative verb be. Interestingly, this distribution parallels Fleischhauer's observation that certain aspectual constructions favour verbs signalling inherent current relevance, events affecting the subject referent, suggesting a functional motivation for verb choice. <ref type="bibr">55</ref> This trend, as will be seen later, also holds for other adverbials, further reinforcing the connection with inherent current relevance.</p><p>Most of the examples with ago refer to events that occurred in the remote past, a timeframe that might conventionally call for the past perfect. However, the quantitative data from Table <ref type="table" target="#tab_1">1</ref> indicates that the past simple is the overwhelmingly preferred tense in these contexts (62 occurrences), while the past perfect appears less frequently (11 occurrences), and the present perfect only rarely (4 occurrences). This pattern suggests that, in Pepys's Diary, the past simple serves as the default tense even for remote past events, challenging the expectation that the past perfect would be the preferred choice. The temporal adverbial phrase a day or two ago marks the most recent event described using the present perfect:</p><p>(9) "And that a day or two ago, being provoked to strike one of my Lord's footmen, the footman drow his sword and hath almost cut the fingers of one of his hands off" (Friday, 12 September 1662).</p><p>All four verbs used with the adverb 'ago are dynamic: lay, cut, set down, promise; no stative verbs were found.</p><p>The present perfect with adverbial phrases with 'last' appears in two forms: the beperfect and the have-perfect. In five cases, the be-perfect is used with the verb come.</p><p>In contrast to ago, adverbial phrases with last in the Diary show varying degrees of remoteness. The most common contexts are those referring to events closest to the speech time, i.e. last night (8 examples):</p><p>(10) "Called up betimes by my Lord Brouncker, who is come to town from his long Water worke at Erith last nightto go with him to the Duke of Albemarle, which by his coach I did" (Saturday, 9 December 1665).</p><p>Among all the verbs used with last, only three instances involve stative verbs (be and have); the remainder are dynamic (give, make, earn, overthrow, meet, do, sprain):</p><p>(11) "But here it was said how these idle fellows have had the confidence to say that they did ill in contenting themselves in pulling down the little bawdy-houses and did not go and pull down the great bawdy-house at White Hall. And some of them have the last night had a word among them, and it was 'Reformation and Reducement'" (Wednesday, 25 March 1668).</p><p>Moreover, the Diary has one instance of last night with an exact indication of the past time event:</p><p>(12) "So I down, and who should it be but Mr. Daniel, all muffled up, and his face as black as the chimney and covered with dirt, pitch and tar, and powder, and muffled with dirty clouts and his right eye stopped with Okum. He is come last night at 5 a-clock from the fleet with a comrade of his that hath endangered another eye" (Monday, 4 June 1666).</p><p>A greater degree of remoteness with last is indicated by the following noun phrases: last week, last Wednesday, last Thursday, last winter, last year.</p><p>(13) "I gave him 3s, and have the last week given the Clerke 2s, which I set down that I may know what to do the next year, if it please the Lord that I live so long" (Sunday, 5 January 1661/62). ( <ref type="formula">14</ref>) "Here I hear by Mr. Pierce the surgeon, and then by Mr. Lewes and also by Mr.</p><p>Hater, that the Parliament hath met on Thursday last and adjourned to Monday next" (Saturday, 12 October 1667).</p><p>(15) Our only business (for we have little else to do, nobody being willing to trust us for anything) was to speak with the owners of six merchantmen which we have been taking up this fortnight, and are yet in no readiness, they not fitting their ships without money advanced to them, we owing them for what their ships have earned the last year. (Tuesday, 2 July 1667).</p><p>Table <ref type="table" target="#tab_2">2</ref> presents the overall quantitative data on the use of tenses with adverbials indicating events that occurred during the day and night (hodiernal past)</p><p>With the adverbial this morning two perfect forms are used: the be-perfect and the have-perfect. Intransitive verbs mostly use the be-perfect (16 instances), including come (6 examples), go (9 examples), and sail (1 example). However, with the verbs come and go, there is variation: the have-perfect appears only once with each verb. Only one stative verb, ache, was found with the present perfect and this morning; all other verbs are dynamic: pay, kill, rain, drink, leave, give, pass, knight, sweep, take up, and hear.</p><p>The adverbials this afternoon/noon are employed with two perfect forms: the beperfect (with the verbs come -4 examples and go -1 example) and the have-perfect (12 examples). Notably, in 7 cases, the present perfect is used with the stative verb be as have/hath been. The remaining verbs are dynamic: draw, appoint, spend.</p><p>The be-perfect with this evening appears only once with the verb 'come. In all other cases, the have-perfect is used. In 2 instances, the present perfect is used with a stative verb 'be. The dynamic verbs include: make, receive, pass.</p><p>In 4 examples with this night, the be-perfect is used with the verbs come (1 instance), go (1 instance), and return (2 instances). Only one example features the stative verb be; all the remaining verbs are dynamic: vote, bind, order, alter, send.</p><p>What can be seen from Tables <ref type="table" target="#tab_1">1</ref> and<ref type="table" target="#tab_2">2</ref> is, first and foremost, that the past simple remains the preferred tense for all adverbials. The present perfect, although used sparingly, is equally employed with both hodiernal adverbials and those referring to the remote past. This appears to be reasonable if we take into account the fact that most entries were written by the end of the day, thus making most recalled activities events of the past with different degrees of remoteness. The low frequencies of the present perfect in both Tables indicate that it remains generally incompatible with specific past references, whether they relate to a precise past day (e.g., yesterday) or a part of the ongoing day (e.g., this morning). However, the consistent rates across different adverbials prove that the use of the present perfect with these temporal markers is not something random but could be viewed as filling a specialised discourse role.</p><p>The analysis of verb types occurring with the present perfect combined with definite past time adverbials in Pepys's Diary reveals a clear preference for dynamic verbs denoting discrete, often impactful events (e.g., set down, declare, draw, send, forget, etc.). Only a small number of stative verbs, such as be, have and ache, appear in this construction. This distribution is consistent with Fleischhauer's observation that certain aspectual constructions tend to occur with verbs signalling inherent current relevance, that is, events affecting the subject referent. <ref type="bibr">56</ref> Applied to the present data, this suggests that the present perfect in these past time contexts functions not merely as a temporal marker <ref type="bibr">56</ref> Ibid.</p><p>but also as a discourse tool highlighting the current relevance or pragmatic importance of the described events.</p><p>Thus, the quantitative data from the tables above indicate a discernible trend in the use of the present perfect with definite past time adverbials. The next section will explore this trend and delve into possible reasons behind this tense usage as displayed by the quantitative data in the above tables.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="7.">Discussion</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="7.1.">NPP and Temporal Syntactic Triggers</head><p>Sections 5 and 6 have shown, first, that the use of the present perfect with definite past time adverbials is not random, and second, that such examples can be described as instances of the NPP, serving a pragmatic function of highlighting a past action. By retaining its sense of current relevance while situated within a past narrative context, the present perfect bridges the past event to the moment of speech, adding semantic overtones of vividness or mirativity.</p><p>However, our data includes instances where the use of the present perfect in past narrative chains seems to be triggered by specific linguistic elements. We will now examine these examples more closely. These cases are not part of the dataset analysed in Tables 1-2 and are therefore excluded from the counts for yesterday, ago, and last reported there. In the Diary of Pepys, such adverbials as today and this day are attested in combination with the present perfect to express current relevance. However, these adverbials are not always used alone but they may be paired with other adverbials indicating pre-hodiernal (e.g., last night) or hesternal past (e.g., yesterday). This combination creates a temporal continuum in the discourse that spans two temporal planes within a single action. In total, there are six such instances in the corpus, where this temporal connectionlinking a past event to the presenttriggers the use of the present perfect with both adverbials:</p><p>(16) " … vexed with our maid Luce, our cook-maid, who is a good drudging servant in everything else and pleases us, but that she will be drunk, and hath been so last night and all this day, that she could not make clean the house … " (Saturday, 23 March 1666/67)</p><p>In example ( <ref type="formula">16</ref>), the event temporally located by these adverbials appears to span the pre-hodiernal past and the present. The latter adverbial naturally triggers the use of the present perfect, emphasising the relevance of the event to the present while partially overshadowing its origin in the pre-hodiernal past. Such examples are particularly revealing, as they illustrate how the present perfect can interact with past time adverbials to create a temporal continuum within the discourse.</p><p>Overall, double adverbials were found only with adverbs indicating a pre-hodiernal or hesternal past, such as yesterday and adverbial phrases with last, while ago did not cooccur with any other adverbials. This likely reflects that in the Diary, ago' typically refers to discrete remote past points that do not easily combine to form a continuous temporal span with another adverbial. The clause position for such adverbial clusters within a clause is not crucial, as they may appear in both clause-final and clause-initial positions.</p><p>(17) "Yesterday and to-day I have been troubled with a hoarseness through cold, that I could not almost speak" (Sunday, 10 March 1666/67).</p><p>In the Diary, a succession of double adverbials with regard to temporal distance can be structured so that a verb indicating a recent event appears first, followed by a verb whose event began earlier in time and may overlap with or extend beyond it:</p><p>(18) "The Duke of York and all with him this morning were full of the talk of the prentices, who are not yet down, though the Guards and militia of the town have been in arms all this night, and the night before" (Wednesday, 25 March 1668).</p><p>In example ( <ref type="formula">18</ref>), while the adverbial all this night in the subsequent clause relates to the speech time, the adverbial the night before clearly refers to a recent past. Therefore, in contrast to examples ( <ref type="formula">16</ref>)-( <ref type="formula">17</ref>), temporal succession in example ( <ref type="formula">18</ref>) is reversed. Another way the event time is connected with the speech time is by contrasting two actions, where the past actions occur close to the speech time (e.g., yesterday):</p><p>(19) "We stepped all out to visit Sir W. Batten, who it seems has not been well all yesterday; but being let blood, is now pretty well" (Thursday, 23 October 1662).</p><p>In example ( <ref type="formula">19</ref>), within a monotopical discourse stretch, yesterday is contrasted with now, establishing a straightforward temporal progression. The discourse topic is developed by virtue of the contrast between the phrases not being well vs pretty well, which serves as an anchor for current relevance.</p><p>Finally, there are examples that prompt the use of the present perfect in contexts formally belonging to the past but perceived by the author as part of the speech time:</p><p>(20) "And though the last winter hath been as hard a winter as any hath been these many years, yet I never was better in my life, nor have not, these ten years, gone colder in the Summer then I have done all this winterwearing only a doublet and a waistcoat cut open on the backabroad, a cloak" (Sunday, 26 March 1665).</p><p>In example (20), Samuel Pepys wrote the entry on March 26, shortly after the beginning of spring. Since the year is still ongoing, Pepys frames the past winter as partly continuing into the present, which favours the use of the present perfect and maintains a sense of current relevance, even when referring to a specific past period with the adverbial last winter.</p><p>In sum, in examples ( <ref type="formula">16</ref>)-( <ref type="formula">19</ref>), the contexts share several common characteristics. First, they are predominantly monotopical discourse stretches focusing on a single topic, which can be expressed through various lexical means within the same stretch (e.g., not wellbut now is well). Second, within these stretches, the temporal distance is always hodiernal past, pre-hodiernal or hesternal, creating an uninterrupted time continuum connected to the moment of speech (current relevance). This uninterrupted continuum resembles the Extended Now interpretation of the perfect,<ref type="foot" target="#foot_2">57</ref> in which the reference interval extends from a past point up to the moment of speech. However, the Extended Now framework cannot fully account for cases where the present perfect co-occurs with definite past time adverbials, such as yesterday or last night, which anchor events to specific past moments outside this interval. The Pepys data, as seen in examples (16-18), demonstrates that such adverbials can participate in a broader temporal linkage, connecting past and present within a single discourse span. For this reason, the phenomenon is described here not as an Extended Now but as a discourse-based temporal continuum, where distinct but contiguous temporal planes are integrated to maintain current relevance.</p><p>The use of the present perfect with definite past time adverbials in such contexts can be seen as evoked by a specific syntactic environment. Specific anchors, such as the adverbial phrase all this winter in (20), trigger the use of the present perfect with current relevance. Although such instances occur rarely in the Pepys dataset, similar patterns are attested in other historical texts, as will be shown later in the study with examples from the Paston Letters.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="7.2.">A Drift towards a Past Perfective</head><p>Previously, we analysed instances of the NPP where the present perfect in past time narrative sequences was triggered by specific syntactic elements that evoked and maintained current relevance. However, our data is not limited to such instantiations of the NPP. There are also examples where, as we argue, the present perfect allows a potential reinterpretation as a past perfective.</p><p>In the Diary, the present perfect with definite past time adverbials is often preceded by signposting words and phrases such as I hear, I have news, we are told, it was said, understand, etc. These phrases introduce new, relevant information<ref type="foot" target="#foot_3">58</ref> and highlight significant events for the narrative. The use of the present perfect emphasises these recent events as particularly noteworthy:</p><p>(21) "This day we hear that the Duke and the fleet are sailed yesterday: pray God go along with themthat they have good speed in the beginning of their work" (Friday, 21 April 1665). ( <ref type="formula">22</ref>) " … and so over to White-hall in a scull, where up to the Duke of York's dressingroom; and there met Harry Saville and understand that Sir W. Coventry is come to his house last night" (Sunday, 21 March 1668/69). ( <ref type="formula">23</ref>) "Here we are told also that last night the Duchesse of Monmouth, dancing at her lodgings, hath sprained her thigh" (Saturday, 9 May 1668).</p><p>The present perfect, when used with yesterday and last, is preceded by the aforementioned signposting words and phrases four times each. However, the adverb ago does not appear in this context.</p><p>A similar pattern is observed with the present simple in these contexts. For example, out of 18 instances where the present simple is used with definite past time adverbials, 9 are preceded by the same signposting phrases:</p><p>(24) "So I wrote and did give it him and left it with him; and so home to supper, where Pelling comes and sits with me and there tells us how old Mr. Batelier is dead this last night in the night, going to bed well; which I am mightily troubled for, he being a good man" (Sunday, 6 October 1667).</p><p>Thus, in examples ( <ref type="formula">21</ref>)-( <ref type="formula">23</ref>), the present perfect is used to convey "hot news" that the author considers important to share with the audience. Like in examples ( <ref type="formula">7</ref>)-( <ref type="formula">8</ref>), a common functional denominator is the ability of the present perfect to foreground events in a temporal sequence that are considered dramatic, unexpected, or significant for storytelling. <ref type="bibr">59</ref> However, what distinguishes these instances from examples ( <ref type="formula">7</ref>)-( <ref type="formula">8</ref>) is that in the former case, the present perfect focuses on "hot news" and thus creates a contextually clearer mirative effect in terms of <ref type="bibr">Ritz. 60</ref> The "hot news" perfects, in themselves, have the potential to emphasise the significance and recency of the past action but not its present results, and it " … is the function that most approximates the functions of past or perfectives". 61 Although the "hot news" perfect in English has not reached the point where it becomes a perfective, it is closer to perfectives in that it focuses more on the action rather than on the subsequent state that underlies the current relevance of the action; the only connection to the speech moment is a subjective judgment of its relevance to the interlocutors. Additionally, the "hot news" perfect is used in isolation and serves to introduce a new topic or to emphasise that the conveyed information is new rather than highlighting the relevance of the old information, as other types of perfects do. <ref type="bibr">62</ref> As Schwenter writes, this usage in isolation is "somewhat analogous to the 'foregrounding' functions of perfectives in that it brings to the fore the past situation". <ref type="bibr">63</ref> This idea was elaborated in Ritz, where such behaviour of the "hot news" perfect was explained through its mirative effect when " … the state that is most relevant at TU is not the perfect state itself but rather the target state of another event, the reaction of surprise of the speaker". <ref type="bibr">64</ref> This is exactly what we observe in examples ( <ref type="formula">21</ref>)-( <ref type="formula">23</ref>), where the past events are emphasised as important news that come as both newsworthy and surprising information. In such contexts, the emphasis on the subsequent state becomes backgrounded by the mirative effect and newsworthiness of the events, and the event itself takes prominence, creating the potential for these instances to be reinterpreted as past perfectives: completed actions without direct connection to the speech time.</p><p>Another context permitting potential reanalysis of the present perfect occurs in monotopical discourse stretches, where the present perfect is used in subordinate relative (adjectival) clauses with yesterday: 59 cf., Fleischman, "Prospective Aspect and Current Relevance," 184. <ref type="bibr">60</ref> Ritz, "'Hot News' and Perfect Change." <ref type="bibr">61</ref> Schwenter, "The Grammaticalization of an Anterior in Progress," 997. <ref type="bibr">62</ref> Ibid., 1003-5. <ref type="bibr">63</ref> Ibid., 1003. <ref type="bibr">64</ref> Ritz, "'Hot News' and Perfect Change," 152.</p><p>(25) "The King hath yesterday in Council declared his resolution of setting a fashion for clothes, which he will never alter" (Monday, 8 October 1666). ( <ref type="formula">26</ref>) "I walked with Sir G. Carteret, who I find displeased with the letter I have drawn and sent in yesterday, finding fault with the account we give of the ill state of the Navy" (Monday, 19 November 1666).</p><p>Examples ( <ref type="formula">25</ref>) and ( <ref type="formula">26</ref>) do not display the hallmarks of the NPP: the perfects are not embedded in past narrative chains but instead refer to completed past actions. Furthermore, their placement deviates from the typical pattern of the NPP, which is generally found in medial positions within narrative clauses. <ref type="bibr">65</ref> Normally, the resultative present perfect marks actions with consequences directly relevant to the present, e.g., "I have eaten lunch, and now I'm full". <ref type="bibr">66</ref> In examples ( <ref type="formula">25</ref>)-( <ref type="formula">26</ref>), the connection is indirect: the King's declaration in (25) establishes a past decision with effects that do not immediately impact the interlocutor, while in (26) the focus is on Pepys's act of sending a letter and the subsequent commentary, rather than on a present consequence.</p><p>The context of examples ( <ref type="formula">25</ref>)-( <ref type="formula">26</ref>) is thus ambiguous: the present perfect occurs in backgrounded, monotopical discourse stretches with low-impact actions, i.e. actions with minimal immediate consequences for the subject or discourse. This creates conditions where the focus may shift from the subsequent state to the completed past action itself, allowing for potential reanalysis toward a past perfective interpretation.</p><p>Moreover, the use of the simple past does not preclude current relevance, as the consequences of an action can often be inferred from the context; for example, when contextual clues indicate that the actions are interconnected 67 : (27) "Early in the morning, I set my books that I brought home yesterday up in order in my study" (Sunday, 19 February 1659/60). ( <ref type="formula">28</ref>) "So I put in a tent (which Dr Williams sent me yesterday) into the hole, to keep it open till all the matter be come outand so I question not but she will soon be well again" (Sunday 12, May 1661).</p><p>In ( <ref type="formula">27</ref>)-( <ref type="formula">28</ref>), which share the same syntactic environments as ( <ref type="formula">25</ref>)-( <ref type="formula">26</ref>), actions such as setting books in order or putting in a tent are possible only because they were brought or sent to Pepys the previous day. Although closely related past events can sometimes trigger the present perfect, the perfect state here is not directly tied to the described action. Consequently, the focus shifts to the action itself. Functionally, the present perfect in ( <ref type="formula">25</ref>)-( <ref type="formula">26</ref>) and the simple past in ( <ref type="formula">27</ref>)-( <ref type="formula">28</ref>) overlap, both signalling completed past actions, with any current relevance inferred from the broader context rather than explicitly expressed.</p><p>Examples ( <ref type="formula">25</ref>) and ( <ref type="formula">26</ref>) find parallel support in other documents that witness the spoken register, for instance, in the trial record The Tryal of William Viscount Stafford for High Treason in Conspiring the Death of the King, dating to the same period as the Diary (1681). <ref type="bibr">68</ref> In this document, we observe two things: first, the present perfect is 65 cf., Richard, "Tense/aspect Variation and the Present Perfect in Australian English Narratives," 158. <ref type="bibr">66</ref> Leech, Meaning and the English Verb, 39-40. 67 cf. Schaden, "Present Perfects Compete," 134. <ref type="bibr">68 Stafford,</ref><ref type="bibr">The Tryal of William Viscount Stafford,</ref><ref type="bibr">62.</ref> used with yesterday; second, the present perfect alternates with the past simple in exactly the same syntactic environment:</p><p>(29) Lord Stafford: I desire nothing, nor propose it, if he will declare upon his oath that he took yesterday.</p><p>Lord High Stew: Heark you Dr. Oats, this is but a continuation of the proceedings yesterday, you are upon the same oath now that you were then, and what you say this morning will be taken to be upon the same oath.</p><p>Mr. Treby: Dr. Oats, upon the oath you have taken yesterday. Lord High Stew: Pray swear him again, (which was done). (example taken from EEBO)</p><p>Although the syntactic environment appears to be the same in both instances where the verb form take is used, the pragmatic context differs. In the case with the present perfect, rather than emphasising an outcome directly relevant to the present moment, the construction serves to establish a procedural linkreminding Dr. Oates that the oath taken yesterday still holds authority within the trial context. The speech-moment relevance in ( <ref type="formula">29</ref>) is indirect, illustrating a broader pattern in which the present perfect marks a completed past action while leaving the link to the present implicit.</p><p>From an aspectual perspective, this pattern reflects a pragmatic attenuation of the relational component within the present perfect as the Perspectival Aspect. <ref type="bibr">69</ref> While the construction retains its formal marking as a Perspectival Aspect, linking a past event to the subsequent state, this subsequent state can be pragmatically deemphasized. This creates conditions under which the present perfect can be reinterpreted as a perfective, non-relational viewpoint aspect, presenting the event as a bounded, completed whole without a subsequent state.</p><p>In examples ( <ref type="formula">25</ref>)-( <ref type="formula">26</ref>) and ( <ref type="formula">29</ref>), the present perfect occupies an intermediate functional position: formally perfect, but potentially can be interpreted as past perfective when relevance to the speech moment is construed as indirect or procedural. Importantly, this drift should be understood primarily as a pragmatic phenomenon. The present perfect does not undergo an immediate semantic change; rather, speakers infer its connection to the present as attenuated. In other words, a perfective implicature arises: the present perfect, formally signalling a link to the moment of utterance, is pragmatically construed as emphasising the completed action itself rather than its current consequences. This interpretation relies on textual clues such as backgrounded discourse, low-impact actions, and definite past time adverbials, which allow the focus to shift from current relevance to the past action.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="8.">The Paston Letters</head><p>This section examines how the present perfect with definite past time adverbials is used in the Paston Letters compared to its use in Pepys's Diary. The aim is to determine whether such uses have earlier parallels in fifteenth-century English, thus providing a diachronic perspective on the continuity or change of such constructions. Every example from the Paston Letters comes from Margaret Paston's correspondence with her husband, John Paston, during the latter half of the fifteenth century, i.e., about 200 years before Pepys's Diary.</p><p>In contrast to the searches performed in the Diary, which were based on manual searches of past time adverbials, the searches of the Paston Letters were conducted using the auxiliaries (have/has/hath) as the primary search criterion, since these forms are more easily identifiable given the orthographic variation in the fifteenth-century text. The aim in both corpora was not to compare the present perfect with the simple past in parallel contextsas noted in the introduction, such a comparison was beyond the scope of this studybut rather to identify and analyse instances of the present perfect itself in order to examine its discourse functions and triggers. Accordingly, the comparison between Pepys's Diary and the Paston Letters is qualitative, focusing on whether the types of present perfect uses that would be considered non-standard in Present-Day Standard British English have earlier parallels in fifteenth-century English. While these instances are few, they correspond with the examples examined in the Discussion section. The only exception is that the Paston Letters do not include any instances of the present perfect with ago. It is unclear whether this absence reflects a genuine gap in fifteenth-century usage or is simply due to the limitations of the surviving material; further data would be required to draw a firm conclusion.</p><p>(30) "As for tydyngis in this countre, Herry Ingloses men have slayn ij. men of Tonsted on Thursday last past, as it is seyd, and all that countre is sore trobelid therwith; and if he had abedyn at home he had be lyke to have be fechid owte of his owyn hows, for the peple ther abowght is sor meved with hym" (Margaret Paston To John Paston; 1441-65, November? year uncertain).</p><p>As for the news in this country, Henry Inglose's men killed two men from Tonsted last Thursday, as it is said, and all that area is greatly troubled because of it. If he had stayed at home, he would likely have been fetched out of his own house, as the people around there are very upset with him. (translation mine)</p><p>Similar to examples ( <ref type="formula">21</ref>)-( <ref type="formula">23</ref>), where the "hot news" perfect conveys unexpected events (mirativity effect), example (30) combines the present perfect with a definite past time adverbial (on Thursday last past). That this is a news context is evident from the surrounding phrases as for tydyngis and as it is seyd. The combination of the news context with the definite past time adverbial makes example (30) an instance where the present perfect demonstrates a potential drift toward a past perfective tense.</p><p>Like example (10), the present perfect is also found with the adverbial phrase this night:</p><p>(31) "Ser Henry Inglose is passyd to God this nygth, hoys sowle God asoyll, and was caryid forthe this day at ix. of the clok to Seynt Feythis, and ther shall be beryid" (Margaret Paston To John Paston; 1451, July 1).</p><p>Sir Henry Inglose passed away to God this night; may God forgive his soul. He was carried out today at nine o'clock to St. Faith's, where he will be buried. (translation mine)</p><p>The adverb yesterday was also found with the present perfect:</p><p>(32) "Item, I have spoke with [John] Strange of the mater that ye wrote to me of, and in gode feyth I fynd hym, as me symyth, ryght well disposyd to you wards; and he hath, acordyng to your desyre, spoken with Yelverton yesterday to fyle his dysposicion in that mater, and Yelverton, as it symyth by hym, roght not gretely thogh the mater brake, so that he myght have any resonabell colour to breke … " (Margaret Paston To John Paston; 1465, June 11).</p><p>Also, I have spoken with John Strange about the matter you wrote to me about, and in good faith, I find him, as it seems to me, quite well-disposed towards you. He, according to your request, spoke with Yelverton yesterday to assess his disposition on the matter. Yelverton, as it seems from him, does not greatly care if the matter falls through, provided he has any reasonable excuse to withdraw … (translation mine)</p><p>There are also examples where the present perfect retains current relevance, even though the adverbial refers to the past:</p><p>(33) "Heydon son hathe bor owght the syyd stowtly her this Critstemes, and whan that he rydyth, he hathe iiij. or v. men with hym in a clothing … " (Margaret Paston To John Paston; 1463, January 19).</p><p>Heydon's son bravely defended the side this Christmas, and when he rides, he has four or five men with him dressed in the same clothing … (translation mine)</p><p>The letter was written on January 19, when Christmas was almost a month ago, but the author views the event as one within the scope of the speech time, treating it as "news" in the context of the letter.</p><p>An example similar to (20) is found in the Paston Letters as well. Margaret Paston writes her letter in April, using the present perfect to describe the events in the winter season:</p><p>(34) "Item, yf it please you, me thynkythe it war ryght nessessary that ye send word howe that ye wolle your old malte be purveyed for; for and any hote weder come affter that it hathe leyne this wynter season, it shall be but lost but yf [unless] it be sold be tymys, for as for the pryse [price] here, it is sore falle." (Margaret Paston To John Paston;1465, April 8).</p><p>Also, if it pleases you, I think it is very necessary for you to send word about how you want your old malt to be managed. If any hot weather comes after it has lain this winter, it will be lost unless it is sold in time. The price here has fallen significantly. (translation mine)</p><p>The final example features the present perfect with the adverbial the same day, which refers to a specific past date:</p><p>(35) "Item, I recevyd a letter from you on Satorday last, whych was wryten on Monday next before and I have sent to Sir Thomas Howys the same day for such maters as ye wrote to me of and he sent me word that Wyllyam Worceter had a boke of remembraunce of recaytys that hath be recevyd by Sir John Fastolf or any of hys sythen the iiij. te. yere Kyng Harry, both of hys owyn lyflode or of any other mannys that he had to doo wyth all." (Margaret Paston To John Paston; 1465, June 24, Monday).</p><p>Also, I received a letter from you last Saturday, which was written on the Monday before, and I sent it to Sir Thomas Howys on the same day regarding the matters you mentioned to me. And he sent me word that William Worcester had a book of records of receipts that had been received by Sir John Fastolf or any of his men since the fourth year of King Henry, both of his own income and of any other man's income that he had to do with. (translation mine)</p><p>If the date when the letter was written is accurate (1465, June 24), then it should have been a Monday. Therefore, while the use of the past simple in the beginning of the letter (recevyd on Satorday last) is appropriate, the second verb in the coordinate sentence should not be in the present perfect: the event occurred on Saturday (the same day) but not on Monday. This use of the present perfect can be attributed to a focus on the discourse topic within a monotopical discourse stretch. The contents of the letter remain relevant to the ongoing matters between the writer and the recipient. Margaret Paston emphasises that Sir Thomas Howys is in possession of the letter, which contains crucial information for John Paston and the current state of affairs is still progressing and under her control.</p><p>Why is it that the present perfect with definite past time adverbials appears in Margaret Paston's letters to her husband? Margaret Paston, who managed the household in John Paston's absence, often reported on family matters in detail, providing extensive descriptions of the family possessions and affairs. <ref type="bibr">70</ref> Bergs observes that Margaret Paston varies her use of linguistic forms (traditional vs innovative, e.g. hem vs them) depending on the addressee. Specifically, she favours traditional forms in letters to her husband, while innovative forms are more common in correspondence with her sons. <ref type="bibr">71</ref> The reasons behind Margaret Paston's choice of linguistic formswhether related to the social status, age of the addressee, or other sociopsychological factorsremain unclear. <ref type="bibr">72</ref> In our data, the situation with the use of forms is reversed: in all letters to her sons and other family members, the present perfect is used traditionally, with definite past time adverbials appearing only in letters to her husband. It is difficult to determine why the innovative use of the present perfect is found specifically in the letters to John Paston. This pattern might be attributed to a combination of factors: the trusting relationship between Margaret and her husband, her role as a reliable household manager, and the fact that she often reported more immediate, "hot news" to him than to her sons, which may have encouraged the use of more casual, spoken-like forms rather than strictly formal language. Additionally, most of her letters were written at dictation, 73 which may have affected the grammar, as some forms might have been misheard. Moreover, some letters were composed by another hand based on Margaret's instructions, potentially increasing the impact of scribal interference. However, as Davis notes, such instances of scribal interference are unlikely to significantly affect broader linguistic patterns. 74 70 cf. Bergs, "Social Networks and Historical Sociolinguistics," 64. <ref type="bibr">71</ref> Bergs, "Social Networks and Historical Sociolinguistics," 110. <ref type="bibr">72</ref> Ibid. <ref type="bibr">73</ref> Davis, "Margaret Paston's Uses of "DO"," 55-6 et passim.</p><p>Thus, the grammar in Margaret Paston's letters most likely is influenced by spoken language. This characteristic, among others, is shared with the Diary of Samuel Pepys. The use of spoken language created an environment conducive to the use of the present perfect with definite past time adverbials.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="9.">Conclusions</head><p>First and foremost, the use of the present perfect with definite past time adverbials in the Diary of Samuel Pepys can be considered a reliable source for analysis. The Latham and Matthews edition (1970-1983) provides a philologically rigorous transcription that corrects earlier errors and reliably distinguishes present from past perfect, even in cases complicated by Pepys's shorthand. Ambiguities were resolved through comparison with his longhand writings. Historical evidence from other Early Modern English texts, including the Paston Letters, along with the Diary's informal, speech-like style further support these uses as genuine. Broader grammatical patterns in Pepys's writing, such as variation between past and past participle forms, confirm that his linguistic choices reflect authentic seventeenth-century usage.</p><p>Certain contexts are represented by monotopical discourse stretches, where a consistent use of a discourse topic allows the present perfect to assume aoristic pragmatics, while still retaining current relevance. In such contexts, the pragmatic weakening of the subsequent state creates conditions for the potential reinterpretation of the present perfect as a perfective, non-relational viewpoint aspect. Some examples are explained as a specific linguistic environment, which associates a recent event with current relevance, triggering the use of the present perfect in a past time context. This category includes instances of double adverbials, one of which refers to a recent past.</p><p>In contexts with the adverbials of definite past time, such as yesterday, ago, and last, the narrative present perfect is used to create a mirative/surprise effect, corroborating the findings of other studies, in particular Ritz. Consequently, when the narrative present perfect encodes mirativity or surprise, this pragmatic emphasis on unexpected or noteworthy past events may reduce the prominence of a subsequent state, thereby facilitating a reinterpretation of the anterior as a past perfective tense.</p><p>Since the instances of the present perfect in past time contexts from the Diary of Samuel Pepys and the Paston Letters, analysed in this paper, exhibit trends similar to those recently observed in varieties of Present Day Englisha potential drift toward a past perfective tenseand are found not only in narration but in dialogue as well, then further research must address what factors inhibited the present perfect in English from evolving along the same trajectory as the French Passé Composé or the German Perfekt.</p></div><figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_1"><head>Table 1 .</head><label>1</label><figDesc>Overall distribution of tenses with yesterday, ago, last.</figDesc><table><row><cell>Tense/ Adverbial</cell><cell>Yesterday</cell><cell>Ago</cell><cell>Last</cell><cell>TOTAL</cell></row><row><cell>Past simple</cell><cell>234 (68.0%)</cell><cell>58 (58.0%)</cell><cell>269 (63.3%)</cell><cell>561</cell></row><row><cell>Present perfect</cell><cell>10 (2.9%)</cell><cell>4 (4.6%)</cell><cell>16 (3.8%)</cell><cell>30</cell></row><row><cell>Past perfect</cell><cell>16 (4.6%)</cell><cell>13 (13.0%)</cell><cell>20 (4.7%)</cell><cell>49</cell></row><row><cell>Present simple</cell><cell>3 (0.9%)</cell><cell>2 (2.0%)</cell><cell>13 (3.1%)</cell><cell>18</cell></row><row><cell>Other (modals, non-finites)</cell><cell>82 (23.8%)</cell><cell>23 (23.0%)</cell><cell>107 (25.2%)</cell><cell>212</cell></row><row><cell>TOTAL</cell><cell>345</cell><cell>100</cell><cell>425</cell><cell>870</cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_2"><head>Table 2 .</head><label>2</label><figDesc>Overall distribution of tenses with this morning/afternoon/noon/evening/night.</figDesc><table><row><cell>Tense/Adverbial</cell><cell>This morning</cell><cell>This afternoon/noon</cell><cell>This evening</cell><cell>This night</cell><cell>TOTAL</cell></row><row><cell>Past simple</cell><cell>411 (67.4%)</cell><cell>183 (69.6%)</cell><cell>92 (69.7%)</cell><cell>121 (58.5%)</cell><cell>807</cell></row><row><cell>Present perfect</cell><cell>34 (5.6%)</cell><cell>19 (7.2%)</cell><cell>7 (5.3%)</cell><cell>11 (5.3%)</cell><cell>71</cell></row><row><cell>Past perfect</cell><cell>21 (3.4%)</cell><cell>4 (1.5%)</cell><cell>1 (0.8%)</cell><cell>1 (0.5%)</cell><cell>27</cell></row><row><cell>Present Simple</cell><cell>69 (11.3%)</cell><cell>29 (11.0%)</cell><cell>13 (9.8%)</cell><cell>39 (18.8%)</cell><cell>150</cell></row><row><cell>Other (modals, non-finites)</cell><cell>75 (12.3%)</cell><cell>28 (10.6%)</cell><cell>19 (14.4%)</cell><cell>35 (16.9%)</cell><cell>157</cell></row><row><cell>TOTAL</cell><cell>610</cell><cell>263</cell><cell>132</cell><cell>207</cell><cell>1212</cell></row></table><note><p><p>55  </p>Fleischhauer, "Prospective Aspect and Current Relevance".</p></note></figure>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="54" xml:id="foot_0"><p>Caudal and Roussarie, "Brands of Perfects," 16.   </p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="14" xml:id="foot_1"><p>V. BONDAR</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="57" xml:id="foot_2"><p>McCoard, The English Perfect; Rothstein, The Perfect Time Span.</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="58" xml:id="foot_3"><p>For a detailed study of tense variation in news texts in Present-Day English see<ref type="bibr" target="#b8">Chovanec 2014.</ref> </p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="69" xml:id="foot_4"><p>cf.Dik, The Theory of Functional Grammar, 240.   </p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="74" xml:id="foot_5"><p>Ibid., 56.   </p></note>
+		</body>
+		<back>
+
+			<div type="acknowledgement">
+<div><head>Acknowledgments</head><p>I am grateful to both anonymous reviewers for their constructive and insightful comments.</p></div>
+			</div>			<div type="annex">
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Disclosure Statement</head><p>No potential conflict of interest was reported by the author(s).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>ORCID</head><p>Vladimir Bondar http://orcid.org/0000-0001-7636-0326</p></div>			</div>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<monogr>
+		<title level="m" type="main">The (Temporal) Semantics and (Modal) Pragmatics of the Perfect</title>
+		<author>
+			<persName><forename type="first">Anderson</forename><surname>Portner</surname></persName>
+		</author>
+		<idno>502. 45</idno>
+		<imprint>
+			<biblScope unit="page" from="373" to="376" />
+		</imprint>
+	</monogr>
+	<note>Frameworks for Comprehending Discourse. 46 Ibid., 376</note>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<monogr>
+		<title level="m" type="main">Discourse Topics</title>
+		<author>
+			<persName><surname>Todd</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="page">30</biblScope>
+		</imprint>
+	</monogr>
+	<note>27. 48 Ibid</note>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<monogr>
+		<title/>
+		<author>
+			<persName><surname>Ibid</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="page">31</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title level="a" type="main">Frameworks for Comprehending Discourse</title>
+		<author>
+			<persName><forename type="first">Richard</forename><forename type="middle">C</forename><surname>Anderson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Ralph</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Diane</forename><forename type="middle">L</forename><surname>Reynolds</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Ernest</forename><forename type="middle">Timothy</forename><surname>Schallert</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Goetz</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">American Educational Research Journal</title>
+		<imprint>
+			<biblScope unit="volume">14</biblScope>
+			<biblScope unit="page" from="367" to="381" />
+			<date type="published" when="1977">1977</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title level="a" type="main">Social Networks and Historical Sociolinguistics: Studies in Morphosyntactic Variation in the Paston Letters, 1421-1503</title>
+		<author>
+			<persName><forename type="first">Alexander</forename><surname>Bergs</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Topics in English Linguistics</title>
+		<meeting><address><addrLine>Berlin</addrLine></address></meeting>
+		<imprint>
+			<publisher>Mouton de Gruyter</publisher>
+			<date type="published" when="2005">2005</date>
+			<biblScope unit="volume">51</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title level="a" type="main">Aoristic Drift and Narrative Perfect in Early Modern English: A Functional Approach</title>
+		<author>
+			<persName><forename type="first">Vladimir</forename><surname>Bondar</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">International Journal of English Studies</title>
+		<imprint>
+			<biblScope unit="volume">21</biblScope>
+			<biblScope unit="page" from="57" to="81" />
+			<date type="published" when="2021">2021</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<monogr>
+		<title level="m" type="main">The Evolution of Grammar: Tense, Aspect and Modality in the Languages of the World</title>
+		<author>
+			<persName><forename type="first">Joan</forename><surname>Bybee</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Revere</forename><surname>Perkins</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">William</forename><surname>Pagliuca</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1994">1994</date>
+			<publisher>University of Chicago Press</publisher>
+			<pubPlace>Chicago</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title level="a" type="main">Brands of Perfects: Semantics and Pragmatics</title>
+		<author>
+			<persName><forename type="first">Patrick</forename><surname>Caudal</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Laurent</forename><surname>Roussarie</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Proceedings of the 2004 Texas Linguistics Society Conference</title>
+		<editor>
+			<persName><forename type="first">Pascal</forename><surname>Denis</surname></persName>
+		</editor>
+		<meeting>the 2004 Texas Linguistics Society Conference<address><addrLine>Somerville, MA</addrLine></address></meeting>
+		<imprint>
+			<publisher>Cascadilla Proceedings Project</publisher>
+			<date type="published" when="2006">2006</date>
+			<biblScope unit="page" from="13" to="27" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<monogr>
+		<title level="m" type="main">Pragmatics of Tense and Time in News. From Canonical Headlines to Online News Texts</title>
+		<author>
+			<persName><forename type="first">Jan</forename><surname>Chovanec</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2014">2014</date>
+			<publisher>John Benjamins</publisher>
+			<pubPlace>Amsterdam</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<monogr>
+		<title level="m" type="main">Aspect: An Introduction to the Study of Verbal Aspect and Related Problems</title>
+		<author>
+			<persName><forename type="first">Bernard</forename><surname>Comrie</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1976">1976</date>
+			<publisher>Cambridge University Press</publisher>
+			<pubPlace>Cambridge</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title level="a" type="main">Margaret Paston&apos;s Uses of &quot;DO</title>
+		<author>
+			<persName><forename type="first">Norman</forename><surname>Davis</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Neuphilologische Mitteilungen</title>
+		<imprint>
+			<biblScope unit="volume">73</biblScope>
+			<biblScope unit="page" from="55" to="62" />
+			<date type="published" when="1972">1972</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title level="a" type="main">Mirativity: The Grammatical Marking of Unexpected Information</title>
+		<author>
+			<persName><forename type="first">Scott</forename><surname>Delancey</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Linguistic Typology</title>
+		<imprint>
+			<biblScope unit="volume">1</biblScope>
+			<biblScope unit="page" from="33" to="52" />
+			<date type="published" when="1997">1997</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<monogr>
+		<title level="m" type="main">English Historical Syntax: Verbal Constructions</title>
+		<author>
+			<persName><forename type="first">David</forename><surname>Denison</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1993">1993</date>
+			<publisher>Longman</publisher>
+			<pubPlace>London</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<monogr>
+		<title level="m" type="main">The Theory of Functional Grammar: Part 1 -The Structure of the Clause</title>
+		<author>
+			<persName><forename type="first">Simon</forename><forename type="middle">C</forename><surname>Dik</surname></persName>
+		</author>
+		<editor>Kees Hengeveld, 2nd</editor>
+		<imprint>
+			<date type="published" when="1997">1997</date>
+			<publisher>Mouton de Gruyter</publisher>
+			<pubPlace>Berlin</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<monogr>
+		<title level="m" type="main">The Perfect and the Preterite in Contemporary and Earlier English</title>
+		<author>
+			<persName><forename type="first">Johan</forename><surname>Elsness</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1997">1997</date>
+			<publisher>Mouton de Gruyter</publisher>
+			<pubPlace>Berlin</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<monogr>
+		<title level="m">Comparative Studies in Australian and New Zealand English: Grammar and beyond</title>
+		<editor>
+			<persName><forename type="first">Pam</forename><surname>Peters</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">Peter</forename><surname>Collins</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">Adam</forename><surname>Smith</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Amsterdam</addrLine></address></meeting>
+		<imprint>
+			<publisher>John Benjamins</publisher>
+			<date type="published" when="2009">2009</date>
+			<biblScope unit="page" from="89" to="114" />
+		</imprint>
+	</monogr>
+	<note>The Perfect and the Preterite in Australian and New Zealand English</note>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<title level="a" type="main">Syntax</title>
+		<author>
+			<persName><forename type="first">Olga</forename><surname>Fischer</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="s">The Cambridge History of the English Language</title>
+		<editor>
+			<persName><forename type="first">Norman</forename><surname>Blake</surname></persName>
+		</editor>
+		<imprint>
+			<biblScope unit="volume">II</biblScope>
+			<biblScope unit="page" from="207" to="408" />
+			<date type="published" when="1992">1992</date>
+			<publisher>Cambridge University Press</publisher>
+			<pubPlace>Cambridge</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<analytic>
+		<title level="a" type="main">Prospective Aspect and Current Relevance: A Case Study of the German Prospective Stehen vor NP Light Verb Construction</title>
+		<author>
+			<persName><forename type="first">Jens</forename><surname>Fleischhauer</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Germanic Linguistics</title>
+		<imprint>
+			<biblScope unit="volume">35</biblScope>
+			<biblScope unit="page" from="371" to="408" />
+			<date type="published" when="2023">2023</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<monogr>
+		<title level="m" type="main">Tense and Narrativity: From Medieval Performance to Modern Fiction</title>
+		<author>
+			<persName><forename type="first">Suzanne</forename><surname>Fleischman</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1990">1990</date>
+			<publisher>Routledge</publisher>
+			<pubPlace>London</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<analytic>
+		<title level="a" type="main">The Present Perfect Puzzle</title>
+		<author>
+			<persName><forename type="first">Wolfgang</forename><surname>Klein</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Language</title>
+		<imprint>
+			<biblScope unit="volume">68</biblScope>
+			<biblScope unit="page" from="525" to="552" />
+			<date type="published" when="1992">1992</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<monogr>
+		<author>
+			<persName><forename type="first">Geoffrey</forename><surname>Leech</surname></persName>
+		</author>
+		<title level="m">Meaning and the English Verb</title>
+		<meeting><address><addrLine>London</addrLine></address></meeting>
+		<imprint>
+			<publisher>Routledge</publisher>
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<monogr>
+		<title level="m" type="main">A Short Introduction to English Grammar. London, Printed for</title>
+		<author>
+			<persName><forename type="first">Robert</forename><surname>Lowth</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">;</forename><forename type="middle">A</forename><surname>Millar</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Dodsley</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="page">1763</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<analytic>
+		<title level="a" type="main">Samuel Pepys, Tachygraphist</title>
+		<author>
+			<persName><forename type="first">William</forename><surname>Matthews</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">The Modern Language Review</title>
+		<imprint>
+			<biblScope unit="volume">29</biblScope>
+			<biblScope unit="page" from="397" to="404" />
+			<date type="published" when="1934">1934</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<analytic>
+		<title level="a" type="main">Pepys&apos;s Transcribers</title>
+	</analytic>
+	<monogr>
+		<title level="j">The Journal of English and Germanic Philology</title>
+		<imprint>
+			<biblScope unit="volume">4</biblScope>
+			<biblScope unit="page" from="213" to="224" />
+			<date type="published" when="1935">1935</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<monogr>
+		<title level="m" type="main">The English Perfect: Tense Choice and Pragmatic Inferences</title>
+		<author>
+			<persName><forename type="first">Robert</forename><forename type="middle">W</forename><surname>Mccoard</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1978">1978</date>
+			<publisher>North-Holland Publishing Company</publisher>
+			<pubPlace>Amsterdam</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<analytic>
+		<title level="a" type="main">Perfect and Resultative Constructions in Spoken and Non-standard English</title>
+		<author>
+			<persName><forename type="first">Jim</forename><surname>Miller</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Up and Down the Cline: The Nature of Grammaticalization</title>
+		<editor>
+			<persName><forename type="first">Olga</forename><surname>Fischer</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">Muriel</forename><surname>Norde</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">Harry</forename><surname>Perridon</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Amsterdam</addrLine></address></meeting>
+		<imprint>
+			<publisher>Benjamins</publisher>
+			<date type="published" when="2004">2004</date>
+			<biblScope unit="page" from="229" to="246" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<analytic>
+		<title level="a" type="main">An English Grammar: Comprehending the Principles and Rules of the Language: Illustrated by Appropriate Exercises, and a Key to the Exercises</title>
+		<author>
+			<persName><forename type="first">Lindley</forename><surname>Murray</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Tauno F. A Middle English Syntax</title>
+		<editor>
+			<persName><surname>Thomas Wilson</surname></persName>
+		</editor>
+		<editor>
+			<persName><surname>Mustanoja</surname></persName>
+		</editor>
+		<imprint>
+			<biblScope unit="volume">1</biblScope>
+			<date type="published" when="2016">2016</date>
+			<publisher>John Benjamin</publisher>
+			<pubPlace>Amsterdam</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b27">
+	<analytic>
+		<title level="a" type="main">Historical Sociolinguistics: Origins, Motivations and Paradigms</title>
+		<author>
+			<persName><forename type="first">Terttu</forename><surname>Nevalainen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Helena</forename><surname>Raumolin-Brunberg</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">The Handbook of Historical Sociolinguistics</title>
+		<editor>
+			<persName><forename type="first">M</forename><surname>Juan</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">J</forename><surname>Hernández-Campoy</surname></persName>
+		</editor>
+		<editor>
+			<persName><surname>Camilo Conde-Silvestre</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Malden, MA</addrLine></address></meeting>
+		<imprint>
+			<publisher>Wiley Blackwell</publisher>
+			<date type="published" when="2012">2012</date>
+			<biblScope unit="page" from="22" to="40" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b28">
+	<analytic>
+		<title level="a" type="main">Connecting the Present and the Past: Cognitive Processing and the Position of adverbial clauses in Samuel Pepys&apos;s Diary</title>
+		<author>
+			<persName><forename type="first">Meike</forename><surname>Pentrel</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">English Language &amp; Linguistics</title>
+		<imprint>
+			<biblScope unit="volume">21</biblScope>
+			<biblScope unit="page" from="263" to="282" />
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b29">
+	<analytic>
+		<title level="a" type="main">The (Temporal) Semantics and (Modal) Pragmatics of the Perfect</title>
+		<author>
+			<persName><forename type="first">Paul</forename><surname>Portner</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Linguistics and philosophy</title>
+		<imprint>
+			<biblScope unit="volume">26</biblScope>
+			<biblScope unit="page" from="459" to="510" />
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b30">
+	<analytic>
+		<title level="a" type="main">Observations on the Present Perfect in English</title>
+		<author>
+			<persName><forename type="first">Paul</forename><surname>Rastall</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">World Englishes</title>
+		<imprint>
+			<biblScope unit="volume">18</biblScope>
+			<biblScope unit="page" from="79" to="84" />
+			<date type="published" when="1999">1999</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b31">
+	<monogr>
+		<author>
+			<persName><forename type="first">Hans</forename><surname>Reichenbach</surname></persName>
+		</author>
+		<title level="m">Elements of Symbolic Logic</title>
+		<meeting><address><addrLine>New York</addrLine></address></meeting>
+		<imprint>
+			<publisher>Macmillan &amp; Co</publisher>
+			<date type="published" when="1947">1947</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b32">
+	<monogr>
+		<title level="m" type="main">Tense/Aspect Variation and the Present Perfect in Australian English Narratives: Sociolinguistic Constraints and Discourse-pragmatic Functions</title>
+		<author>
+			<persName><forename type="first">Sophie</forename><surname>Richard</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2018">2018</date>
+		</imprint>
+		<respStmt>
+			<orgName>The University of Western Australia</orgName>
+		</respStmt>
+	</monogr>
+	<note type="report_type">PhD diss</note>
+</biblStruct>
+
+<biblStruct xml:id="b33">
+	<analytic>
+		<title level="a" type="main">The Perfect Crime: A Study of Illicit Adverbials Combinations with the Present Perfect in Australian Police Media Releases</title>
+		<author>
+			<persName><forename type="first">Marie-Eve</forename><surname>Ritz</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Pragmatics</title>
+		<imprint>
+			<biblScope unit="volume">42</biblScope>
+			<biblScope unit="page" from="3400" to="3417" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b34">
+	<analytic>
+		<title level="a" type="main">Hot News&quot; and Perfect Change: Mirativity and the Semantics/Pragmatics Interface</title>
+	</analytic>
+	<monogr>
+		<title level="j">Catalan Journal of Linguistics</title>
+		<imprint>
+			<biblScope unit="volume">17</biblScope>
+			<biblScope unit="page" from="135" to="155" />
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b35">
+	<monogr>
+		<title level="m" type="main">The Perfect Time Span: On the Present Perfect in German, Swedish and English</title>
+		<author>
+			<persName><forename type="first">Björn</forename><surname>Rothstein</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2008">2008</date>
+			<publisher>John Benjamins</publisher>
+			<pubPlace>Amsterdam</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b36">
+	<analytic>
+		<title level="a" type="main">Present Perfects Compete</title>
+		<author>
+			<persName><forename type="first">Gerhard</forename><surname>Schaden</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Linguistics and Philosophy</title>
+		<imprint>
+			<biblScope unit="volume">32</biblScope>
+			<biblScope unit="page" from="115" to="141" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b37">
+	<analytic>
+		<title level="a" type="main">The Grammaticalization of an Anterior in Progress: Evidence from a Peninsular Spanish Dialect</title>
+		<author>
+			<persName><forename type="first">Scott</forename><forename type="middle">A</forename><surname>Schwenter</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Studies in Language</title>
+		<imprint>
+			<biblScope unit="volume">18</biblScope>
+			<biblScope unit="page" from="71" to="111" />
+			<date type="published" when="1994">1994</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b38">
+	<monogr>
+		<title level="m" type="main">The Tryal of William Viscount Stafford for High Treason in Conspiring the Death of the King</title>
+		<author>
+			<persName><forename type="first">William</forename><surname>Stafford</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2024-11-11">November 11, 2024</date>
+			<publisher>Early English Books Online</publisher>
+			<biblScope unit="page">1681</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b39">
+	<analytic>
+		<title level="a" type="main">Mr. Pepys&apos;s Use of Colloquial English</title>
+		<author>
+			<persName><forename type="first">Ivan</forename><forename type="middle">E</forename><surname>Taylor</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">The Diary of Samuel Pepys. Vols. 1-11</title>
+		<editor>
+			<persName><forename type="first">Robert</forename><surname>Latham</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">William</forename><surname>Matthews</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Berkeley and Los Angeles</addrLine></address></meeting>
+		<imprint>
+			<publisher>University of California Press</publisher>
+			<date type="published" when="1963">1963</date>
+			<biblScope unit="volume">7</biblScope>
+			<biblScope unit="page" from="1970" to="1983" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b40">
+	<monogr>
+		<title level="m">The Diary of Samuel Pepys, Vols. 1-10</title>
+		<editor>
+			<persName><forename type="first">B</forename><surname>Henry</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">F</forename><forename type="middle">S A</forename><surname>Wheatley</surname></persName>
+		</editor>
+		<editor>
+			<persName><surname>London</surname></persName>
+		</editor>
+		<imprint>
+			<publisher>George Bell and Sons</publisher>
+			<date type="published" when="1893">1893</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b41">
+	<monogr>
+		<title level="m">The Paston Letters, AD 1422-1509. Vols. 1-6</title>
+		<editor>
+			<persName><forename type="first">James</forename><surname>Gairdner</surname></persName>
+		</editor>
+		<editor>
+			<persName><surname>London</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Exeter</addrLine></address></meeting>
+		<imprint>
+			<publisher>Chatto &amp; Windus, James G. Commin</publisher>
+			<date type="published" when="1904">1904</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b42">
+	<analytic>
+		<title level="a" type="main">Discourse Topics</title>
+		<author>
+			<persName><forename type="first">Richard</forename><surname>Todd</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Watson</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Pragmatics and Beyond</title>
+		<meeting><address><addrLine>Amsterdam</addrLine></address></meeting>
+		<imprint>
+			<publisher>John Benjamins Publishing Company</publisher>
+			<date type="published" when="2016">2016</date>
+			<biblScope unit="volume">269</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b43">
+	<analytic>
+		<title level="a" type="main">Standard English in England</title>
+		<author>
+			<persName><forename type="first">Peter</forename><surname>Trudgill</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Language in the British Isles</title>
+		<editor>
+			<persName><forename type="first">Peter</forename><surname>Trudgill</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Cambridge</addrLine></address></meeting>
+		<imprint>
+			<publisher>Cambridge University Press</publisher>
+			<date type="published" when="1984">1984</date>
+			<biblScope unit="page" from="32" to="44" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b44">
+	<analytic>
+		<title level="a" type="main">Ego-documents in a Historical-sociolinguistic Perspective</title>
+		<author>
+			<persName><forename type="first">Marijke</forename><forename type="middle">J</forename><surname>Van Der Wal</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Gijsbert</forename><surname>Rutten</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Touching the Past: Studies in the Historical Sociolinguistics of Ego-documents</title>
+		<editor>
+			<persName><forename type="first">J</forename><surname>Marijke</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">Gijsbert</forename><surname>Van Der Wal</surname></persName>
+		</editor>
+		<editor>
+			<persName><surname>Rutten</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Amsterdam</addrLine></address></meeting>
+		<imprint>
+			<publisher>John Benjamins</publisher>
+			<date type="published" when="2013">2013</date>
+			<biblScope unit="page" from="1" to="17" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b45">
+	<monogr>
+		<author>
+			<persName><forename type="first">Valentin</forename><surname>Werner</surname></persName>
+		</author>
+		<title level="m">The Present Perfect in World Englishes: Charting. Unity and Diversity</title>
+		<meeting><address><addrLine>Bamberg</addrLine></address></meeting>
+		<imprint>
+			<publisher>University of Bamberg Press</publisher>
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

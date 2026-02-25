@@ -1,0 +1,614 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Paratextual Mediation and Narrative Reconstruction: An Analysis of Footnotes in Sydney Owenson&apos;s The Wild Irish Girl</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author role="corresp">
+							<persName><forename type="first">Jingxuan</forename><surname>Yi</surname></persName>
+							<email>jingxuanyi@fudan.edu.cn</email>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Foreign Language and Literature</orgName>
+								<orgName type="institution">Fudan University</orgName>
+								<address>
+									<settlement>Shanghai</settlement>
+									<country>People&apos;s Republic of China</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff1">
+								<address>
+									<addrLine>Imagined Communities, 6</addrLine>
+									<settlement>Anderson</settlement>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Paratextual Mediation and Narrative Reconstruction: An Analysis of Footnotes in Sydney Owenson&apos;s The Wild Irish Girl</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date/>
+						</imprint>
+					</monogr>
+					<idno type="MD5">92FFFD304B257BFB47D2D1E65D0103AD</idno>
+					<idno type="DOI">10.1080/0013838X.2025.2560440</idno>
+					<note type="submission">Received 5 April 2025 Accepted 7 September 2025</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.0" ident="GROBID" when="2026-02-25T19:55+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term>Footnotes</term>
+					<term>Sydney Owenson</term>
+					<term>The Wild Irish Girl</term>
+					<term>Irish national identity</term>
+					<term>Anglocentrism</term>
+				</keywords>
+			</textClass>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>The 1801 Act of Union united Ireland with Britain, significantly altering Ireland's political and cultural identity. While some Irish supported the Union, Anglo-Irish writers such as Sydney Owenson viewed it as a threat to Ireland's autonomy and national identity. This paper examines how paratextual mediation and narrative reconstruction function as instances critical of Anglo-centric cultural exchange. Owenson's critique of colonial portrayals of Ireland in her The Wild Irish Girl (1806) redefines the Anglo-centric national narrative through her strategic use of footnotes. These footnotes function as a subversive tool, challenging Anglo-centric discourse and dismantling the binary of centre versus periphery. By confronting reductive depictions of Ireland as a subjugated colony, Owenson promotes a more complex and nuanced understanding of Irishness. In particular, this paper shows how this paratextual strategy invites readers to reconsider the relational dynamics between self and other, emphasising the interdependence of cultural identities. Ultimately, The Wild Irish Girl offers a critical examination of Ireland's evolving identity within the context of British imperialism.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="1.">Introduction</head><p>Ireland is not merely a tangible reality but also an imaginative construct rich with cultural symbolism and aesthetic significance -"an imagined political community" 1 that exists beyond the boundaries of the material world, and central to shaping notions of identity and belonging. The enactment of the Act of Union (1801), which dissolved the Irish Parliament and incorporated Ireland into the United Kingdom of Great Britain and Ireland, was a pivotal moment in colonial history. Driven by British fears of Irish rebellion following the 1798 uprising and the influence of French Revolution, the Union sought to strengthen imperial control while simultaneously forcing Britons to confront the complexities of national and ethnic identities. In its wake, English interest in Ireland surged, leading numerous Britons to travel there and record their experiences in travelogues. These narratives often depicted Ireland in multifaceted ways: some echoed the expansionist ideals of the British Empire, emphasising Ireland's untapped potential and the need for improvement under British guidance. For instance, Sir Richard Colt Hoare's Journal of a Tour in Ireland (1806) critiques Irish urban planning for lacking the "neatness and symmetry" of London and Bath, 2 advocates for architectural "improvement" to counteract the "dingy tints" of the landscape, 3 and frames Ireland's natural resources as "latent riches" awaiting exploitation by the "Mother Country". <ref type="bibr">4</ref> John Carr in The Stranger in Ireland (1805) also adopts an expansionist lens in diagnosing the Irish poor's lack of education and "spirit of enterprise". <ref type="bibr">5</ref> While others, using England as a foil, portrayed Ireland as an idyllic, pre-industrial utopia. Hoare's awe at the "super-eminent beauties" of Glenaa and Cromiglaun, <ref type="bibr">6</ref> for example, reveals a more conflicted imperial gaze: one that romanticises Ireland's untamed landscapes while betraying frustration at their resistance to artistic, linguistic, and even political control. This paper examines Sydney Owenson's The Wild Irish Girl (1806), a seminal novel that interrogates the construction of British and Irish identities in the post-Union era. Owenson (c. 1776-1859), later known as Lady Morgan after her marriage in 1812, was a member of the Anglo-Irish landed classa position that shaped her dual perspective as both an insider and outsider in Irish society. Her intersectional identity, straddling colonial privilege and Irish cultural affinity, informs the novel's nuanced critique of imperialism. The Wild Irish Girl is particularly significant for its use of footnotes, which creates a subtle tension between text and reader: while they occasionally reinforce dominant power structures, they also open spaces to subvert imperialist narratives. Through this interplay between main text and paratext, Owenson crafts a vivid, tangible representation of Ireland while subtly dismantling colonialist rhetoric.</p><p>This paper employs Genette's paratext theory to examine how Owenson strategically deploys footnotes as subversive devices that interrogate colonial narratives and reconfigure perceptions of Irish identity. From Edmund Spenser's View of the Present State of Ireland (1596), which depicted the Irish as culturally backward to legitimize plantation, to eighteenth-century travelogues that framed Ireland as geographically European yet politically "primitive", colonial discourse consistently positioned Ireland as Europe's internal Other. Against this backdrop, The Wild Irish Girl's footnotes perform critical epistemic work. They engage in what Joep Leerssen describes as the discursive articulation of identitynot as "a lapidary and undifferentiated whole" but as a hybrid negotiation. <ref type="bibr">7</ref> While ostensibly supplementing Horatio's colonial perspective, they fundamentally destabilise Anglo-centric historiography by exposing the irreconcilability between imperial frameworks and Ireland's cultural continuum. The paratextual architecture establishes a dynamic of epistemological tension: the footnotes' documentary authority ironically subverts the main text's romanticised colonial narrative through strategic juxtaposition of antiquarian sources and contemporary sociopolitical commentary. marginalia reconfigure the colonial archive itself as contested terrain. Ultimately, her footnotes serve as a locus of resistance. Through her marginal footnotes, she dismantled colonial narratives by separating Irish identity from exotic stereotypes, grounding cultural authenticity in historical evidence, and laying bare the inherent contradictions within British imperial unification efforts. These strategic interventions in the text's margins effectively convert blank spaces into conceptual arenas where a distinctly Irish modernity could be imaginedone that defies simplistic colonial categorizations and asserts cultural independence through its very complexity.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.">Footnotes as Resistance: Challenging Imperial Discourse</head><p>The Wild Irish Girl is an epistolary novel structured around letters written by Horatio Mortimer, the son of an English earl, to his friend, a Member of Parliament. Horatio, who leads a decadent life in London, accumulates massive debts and neglects his education. In an effort to reform his wayward habits, his father sends him to their family estate in County Sligo, Ireland, hoping that the unfamiliar environment will foster discipline. Upon arriving in Ireland, Horatio whimsically identifies himself as "Don Quixote", 8 viewing Irish customs through the lens of English cultural superiority. During his travels, he encounters a dilapidated castle on the desolate western coast of Connaught, home to a destitute Catholic Gaelic noble family whose lineage was shattered during Cromwell's conquest of Ireland. Disguising himself as a struggling artist, Horatio gains entry to the castle and befriends its residents: the aging chieftain, the Prince of Inismore; his brilliant and beautiful daughter, Glorvina; and the devout Catholic priest, Father John. Through his interactions with them, Horatio gradually confronts his preconceived notions and develops a deeper appreciation for Ireland's history and culture. His personal transformation unfolds alongside a passionate romance with Glorvina, and their eventual marriage serves as a symbolic gesture of reconciliation between English and Irish identities.</p><p>Horatio's letters are dated "17 -," situating the narrative prior to the enactment of the Acts of Union in 1800a deliberate temporal framing by Owenson that allows her to critique post-Union Ireland through historical allegory. By the novel's publication in 1806, Ireland had already been politically incorporated into Great Britain, yet the Protestant Ascendancy retained its economic, cultural, and political dominance. 9 As Emer Nolan notes, the promised post-Union concessions to Catholics had faded, leaving emancipation "as remote as ever". <ref type="bibr">10</ref> Owenson wrote amidst the lingering tensions of the brutally suppressed 1798 United Irishmen's Rebellion. Catholic Emancipation which commenced from the late eighteenth-century, and aimed to remove restrictions on Roman Catholics, had been stalled by George III's opposition and Tory intransigence. Over the following two decades, led by Irish lawyer and orator Daniel O'Connell, Catholic peasants and the middle class actively campaigned for full emancipation, culminating in the passage of the Catholic Relief Act of 1829. This legislation allowed Catholics in Ireland and England to enter Parliament and hold most public offices, with only a few exceptions.</p><p>8 Owenson, The Wild Irish Girl, 36.   9   For a brief summary of historical relations between Protestants and Catholics in Ireland, see Paseta, Modern Ireland. <ref type="bibr">10</ref> Nolan, Catholic Emancipations: Irish Fiction from Thomas Moore to James Joyce, 2.</p><p>Scholars have long interpreted the marriage between Horatio and Glorvina as a metaphor for the Acts of Union, though debate persists about whether this union signifies genuine reconciliation or colonial appropriation. Robert Tracy's "Glorvina solution" 11 frames the marriage as symbolic harmony, yet simultaneously exposes its function as a political tool for Anglo-Irish assimilation. 12 Mary Jean Corbett extends this critique, arguing that the union represents England's non-violent conquest, where Glorvina's feminised "otherness" reinforces colonial hierarchies. <ref type="bibr">13</ref> As Ina Ferris observes, this is "imperial romance with a distinctly abrasive edge" 14a duality arising from Owenson's subversion of the travel narratives she ostensibly employs. Eamonn Dunne further emphasises the legal subordination embedded in the marriage, with Horatio as its primary beneficiary. <ref type="bibr">15</ref> These readings reflect what Claire Connolly identifies as Irish fiction's tendency toward "narrow allegorical" interpretations that reduce complex marital plots to national-political symbolism. <ref type="bibr">16</ref> Connolly cautions against assuming marriage narratives inherently "privatize" historical conflict, urging attention to how Owenson's shift from epistolary intimacy to a third-person, "quasi-parliamentary" voice undermines any straightforward allegory of union. 17 Julia Wright complicates this further by highlighting Horatio's "sentimental education" in Irishness 18a cultural assimilation that reverses colonial mimicry, yet ultimately fails to achieve "political fruition". <ref type="bibr">19</ref> Colleen Taylor materialises this tension in Glorvina's paradoxical characterisation: while Horatio reduces her to a Hibernian "typeface", 20 her resistance mirrors the "inner spéirbhean" (celestial woman) of Irish coinage that critiques economic exploitation. <ref type="bibr">21</ref> Taylor reframes the marriage's conclusion not as reconciliation but as coercive appropriation, aligning with Corbett's reading of its violent undertones. Collectively, these perspectives reveal how The Wild Irish Girl both deploys and destabilises the marriage allegory. While the union superficially signals colonial triumph, Owenson's narrative strategiesfrom Glorvina's character, 22 oral and visual art forms, 23 botanical symbolism, 24 to natural landscapes 25interrogate imperial discourse. As Wright demonstrates, Horatio's evolution from viewing Ireland as "semi-barbarous" 26 to embracing its <ref type="bibr">11</ref> Tracy, "Maria Edgeworth and Lady Morgan: Legality versus Legitimacy," 10. <ref type="bibr">12</ref> Ibid., 13. <ref type="bibr">13</ref> Corbett, "Allegories of Prescription: Engendering Union in The Wild Irish Girl," 101. <ref type="bibr">14</ref> Ferris, The Romantic National Tale and the Question of Ireland, 48. <ref type="bibr">15</ref> Dunne, "'She Sang Beyond the Genius of the Sea'," 15. <ref type="bibr">16</ref> Connolly, A Cultural History of the Irish Novel, 1790-1829, 86. 17 Ibid., 96. <ref type="bibr">18</ref> Wright, Ireland, India and Nationalism in the Nineteenth Century, 69. <ref type="bibr">19 Ibid.,</ref><ref type="bibr">71. 20</ref> Taylor, Irish Materialisms: The Nonhuman and the <ref type="bibr">Making of Colonial Ireland, 1690</ref><ref type="bibr">-1830, 59. 21 Ibid., 61-62. 22</ref> Heather L. Braun argues that Glorvina's dual image as both shy and bolda "Other"poses a threat to patriarchal authority. See Braun, "The Seductive Masquerade of the Wild Irish Girl," 33-43. 23 Katja Jylkka highlights how visual art in the novel serves as an instrument of political surveillance, while oral cultural narratives embody ideological resistance. See Jylkka, "Ut Pictura Poesis? Art and the Irish Nation in The Wild Irish Girl," 80-93. <ref type="bibr">24</ref> Melissa Bailes contends that botanical imagery in the text reflects the colonial aims and ambitions of the British Empire.</p><p>She further explores how botanical analogies illuminate both the past prosperity of Irish culture and its potential for future regeneration. See Bailes, "Cultivated for Consumption," 513-533. 25 Timothy Heimlich emphasises that Ireland's silent, desolate, and illegible natural landscapes serve as historical witnesses to colonial rule, which cannot be erased by superficial union with England or modernization efforts. See Heimlich, "The Silence of the Land," 661-684. <ref type="bibr">26</ref> Owenson, The Wild Irish Girl, 10. culture remains incomplete. His final role as "foster-father" 27 perpetuates English domination under a sentimental guise, revealing the limits of individual reconciliation within an unequal colonial structure. This tension is amplified by the novel's extensive use of footnoteswith their scholarly citations, ethnographic details, and counter-narratives to Horatio's letterscreates polyphonic layers that resist monolithic readings. Through these textual multiplicities, Owenson exposes the gaps between the romanticised Anglo-Irish union and enduring power asymmetries, embedding a nuanced critique of colonial rhetoric. Footnotes, as a form of paratext, serve both explanatory and citational functions, but they also function as a crucial space for ideological negotiation. French narratologist Gérard Genette argues that paratexts represent "the most socialized side of the practice of literature", 28 functioning as a vital interface or "threshold" 29 that subtly guides and shapes readers' understanding of the main text. This perspective highlights paratexts' role as mediating vehicles deeply embedded within broader socio-cultural contexts, or as Kovala observes, exist within "more extensive discursive systems". <ref type="bibr">30</ref> For women writers in early nineteenth-century Britain, footnotes held particular significance as a site of resistance. Operating within a literary sphere that often marginalised female intellectual authority, footnotes provided a sanctioned space where women could assert scholarly legitimacy while subtly challenging dominant narratives. Unlike the main text, which was subject to stricter aesthetic and ideological expectations, footnoteswith their scholarly guise allowed for subversive commentary under the veneer of factual supplementation. The strategic use of footnotes in Romantic-era fiction extended beyond mere annotation, functioning as a dynamic medium for ideological critique. As Nigel Leask's postcolonial analysis demonstrates, her footnotes systematically disrupt the exoticization of Irish culture, 31 while Jacqueline Labbe's feminist reading identifies their function as gendered intellectual spaces where women could claim epistemic authority typically reserved for male writers. 32 Alex Watson's comparative study further reveals how Owenson's footnotes strategically undermine patriarchal narratives through calculated interruptions. <ref type="bibr">33</ref> While scholars such as Leask and Watson have demonstrated how Owenson's footnotes in The Wild Irish Girl disrupt colonial and patriarchal frameworks, this study advances a more nuanced claim that Owenson's paratextual strategies constitute a deliberate rhetoric of scholarly subterfuge, one that weaponizes the footnote's marginal position to enact ideological critique while evading censure. For Owensona woman writing within the constraints of early nineteenth-century literary marketsfootnotes became a means of circumventing gendered limitations. Financial pressures often forced women writers to conform to market expectations in their main narratives, but footnotes offered a covert avenue for dissent. Building on Ina Ferris's notion of <ref type="bibr">27</ref> Wright, Ireland, India and Nationalism in the Nineteenth Century, 72. <ref type="bibr">28</ref> Genette, Paratexts, 14. <ref type="bibr">29</ref> Ibid., 3. <ref type="bibr">30</ref>  "intervention in British public discourse" 34 and Jacqueline Belanger's analysis of feminist praxis, <ref type="bibr">35</ref> this paper argues that Owenson's footnotes operate as covert criticism, leveraging their peripheral status to challenge Union-era politics in ways the main text could not.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.">Footnotes as Mediation: Reconstructing Irish Narratives</head><p>In The Wild Irish Girl, Owenson's footnotes perform a complex double function that both challenges and inadvertently replicates colonial discourse. This duality is evident in the ethnographic footnote describing an Irish cottage, which stands in tension with Horatio's prejudiced account. Where Horatio dismisses the dwelling as a "miserable asylum" 36 and exoticizes it through Chaucer as a "magic palace", 37 the footnote presents ostensibly objective observations:</p><p>Sometimes excavated from a hill, sometimes erected with loose stones, but most generally built of mud; the cabin is rationally divided into two apartments … yet even in these miserable huts you will seldom find the spirit of urbanity absent-the genius of hospitality never. I remember meeting with an instance of both, that made a deep impression on my heart: in the autumn of 1804, in the course of a morning's ramble with a charming Englishwoman, in the county of Sligo, I stopped to rest myself in a cabin, which she proceeded to pay a visit to the respectable family of the O'H-s, of Nymph's Field … Surely this was not the manners of a cabin, but a court. <ref type="bibr">38</ref> This passage initially appears to counter Horatio's contempt through its structural neutrality ("rationally divided into two apartments") and acknowledgment of Irish virtues ("spirit of urbanity"). Yet closer examination reveals how it simultaneously participates in colonial stereotyping of Irish backwardness.</p><p>The inserted anecdote about Sligo hospitality and the "Nymph's Field" toponym evokes Greco-Roman imagery of youthful femininity (e.g. Calypso, Echo), perpetuating the feminised portrayal of Ireland that has persisted since the twelfth-century colonisation. This gendered colonial frameworkanalysed by Boehmer, <ref type="bibr">39</ref> Cairns and Richards 40 positions Ireland as a feminised space ripe for rational masculine conquest, simultaneously primitive and imitative of English civility. The observation of "courtly" hospitality reinforces stereotypes of the Irish as mimicking British manners, echoing Horatio's earlier dehumanising portrayals of boatmen as "sea-monsters", 41 Dublin's "semi-barbarous" manners, 42 and the city's "Ionic colonnade" order contrasted with London's grandeur. <ref type="bibr">43</ref> Thus, the footnotes enforce an Anglo-centric perspective, confining Irish identity within colonial binaries: Ireland as weak and irrational versus Britain as enlightened and rational. Even when acknowledging Irish modernity, Owenson filters it through evaluative paradigms that privilege British standardsmost notably through urban comparative analysis that measures Dublin's architecture and civic development against London's Georgian grandeur as the implicit benchmark of "mature" civilisation. This reproduces the Enlightenment's hierarchical spatial logic, where cities served as indices of national progress within imperial ideologies. Such framing suggests that Irish worth requires validation through imperial epistemologysubjecting Irish culture to analysis, categorisation, and construction according to colonial logic. This resulting epistemic hierarchy reinforces Britain as the normative standard and Ireland as its antithetical Other, naturalising this imbalance through footnotes that masquerade as neutral annotation. In this way, the text reproduces the very power structures it purports merely to document.</p><p>This duality reflects Owenson's broader annotative strategy. While the footnote's clinical tone and Greco-Roman allusions ("Nymph's Field") seemingly validate British ethnographic standards, its empirical detailsthe rationally organised space, "the genius of hospitality"subtly undermine colonial binaries. As with her footnotes linking Irish bardic poetry to Greek lyric, the cottage description employs imperial methodologies to showcase Irish cultural logics that defy Horatio's "compassion and disgust". <ref type="bibr">44</ref> Thus, what Genette terms the footnote's "confusion-generating hernia" 45 becomes politically productive. The very elements that appear to reinforce stereotypes (material lack as "wretchedness") also document patterns of communal reciprocity that contest systematically counter Horatio's dehumanising "sea-monsters" analogy.</p><p>The space of annotation is far from neutral; it is shaped by specific contexts and discourses, possessing the potential to contest, negotiate, and reconstruct dominant narratives. In The Wild Irish Girl, some footnotes superficially reinforce British stereotypes of Ireland as the Other, while others reflect Sydney Owenson's critique of mainstream colonial practices and ideologies, attempting to construct a cultural identity centred on Ireland. Katie Trumpener argues that Owenson's footnotes emphasise connections between Irish culture and ancient Greek traditions in customs, religious rituals, music, dance, and literature, while also highlighting sartorial parallels between Ireland and ancient Egypt. These affirmations aim to strengthen Irish national cultural identity. <ref type="bibr">46</ref> Joseph Lennon analyses the multifaceted uses of the "Eastern origins" hypothesis of Irish culture across historical periods: in the late nineteenth century, this theory was weaponized to underscore Ireland's perceived "cultural deficiency", yet Irish nationalist writers repurposed it to assert Ireland's "civilized lineage" and legitimize anti-colonial movements. <ref type="bibr">47</ref> Resonating with Lennon's analysis, the footnotes in The Wild Irish Girl on Ireland's "Eastern origins" simultaneously perpetuate prejudiced tropes of Irish backwardness and foreground the distinctiveness of Irish culture, constructing a cultural identity that transcends Horatian framework. This identity is doubly positioned: as an exotic Other within colonial discourse, and as a tool for nationalists to resist colonial narratives, revealing the complex entanglement of colonial and anti-colonial rhetoric. Through this dual narrative, Owenson's footnotes interrogate the cultural hegemony of colonial discourse while situating Irish culture within a global civilizational lineage, exposing its <ref type="bibr">44</ref> Ibid., 20. <ref type="bibr">45</ref> Genette, Paratexts: Thresholds of Interpretation, 328. <ref type="bibr">46</ref> Trumpener, "National Character, Nationalist Plots: National Tale and Historical Novel in the Age of Waverley, 1806-1830," 699. <ref type="bibr">47</ref>  Lennon, "Irish Orientalism: An Overview," in Ireland and Postcolonial Theory, 129; 134-135.  contradictory position within colonial systems. This annotative practice demonstrates that representations of Irish culture are not static but politically contested, shaped by discursive struggles. In this process, footnotes become a space of tensionboth a vehicle for oppressive colonial narratives and a site of anti-colonial resistance and creativity.</p><p>In The Wild Irish Girl, Owenson's strategic deployment of footnotes constitutes a radical challenge to Anglo-centric historiography through its systematic documentation of Ireland's transcultural connections. These footnotes span traditional attire, music, mythology, dyeing techniques, and customs to trace Ireland's sophisticated cultural networks beyond British frameworks. For instance, Walker notes that Irish women's headdresses perpetuate "Egyptian stylistic traditions", 48 while the history of the "Bárr lace veil" hints at Eastern provenance. <ref type="bibr" target="#b1">49</ref> In music, Joseph C. Walker's research demonstrates Irish innovation in instruments and melodies later adopted by Wales, <ref type="bibr" target="#b2">50</ref> while Dr Beaufort traces the origins of the "Irish harp" to ancient Greek and Hebrew traditions, emphasising its deep-rooted musical heritage. <ref type="bibr">51</ref> These studies corroborate Ireland's cultural antiquity and its connections to recognised classical traditions.</p><p>The footnotes also emphasise the richness of Irish oral culture and its enduring continuity. Hereditary titles like the "Red Branch Knights" are presented as evidence of pre-Christian Irish chivalric traditions. 52 Linguistic analyses by Walker and Froissart reveal connections between the German "Ritter" and the Irish "riddaire", reflecting cultural exchanges across Europe. James Macpherson's translations of Ossianic poetrywith their Milesian fables, romantic legends, and Fingalian heroic narrativesnot only attest to Ireland's cultural depth but also its deep-rooted presence in popular consciousness. Geoffrey Keating's historical records document Ossian's role as a "rebel leader" of Irish forces, 53 while folk lyrics celebrating the "heroic genealogy of the Macphersons" 54 further substantiate this legacy. Through her innovative use of footnotes, Sydney Owenson strategically relocates Irish culture within both transnational networks and ancient genealogies, thereby fundamentally challenging the hegemony of Anglocentric historical narratives. This meticulous scholarly apparatus serves not merely as annotation but as a radical act of historiographical reclamationasserting Ireland's vital role in global cultural discourse while exposing the paradoxical nature of its colonial identity: simultaneously oppressed by imperial forces yet dynamically self-constituting.</p><p>Owenson's footnotes perform a dual scholarly intervention: they systematically dismantle colonial narratives that positioned Britain as the sole civilising force in Ireland while simultaneously reconstructing Irish cultural indigeneity. This strategy emerges vividly in Glorvina's discussion of Irish yellow dye, where the text directly engages with and counters colonial distortions:</p><p>But that bright yellow you now behold so universally worn, has been in all ages their favorite hue. Spencer thinks this custom came from the East; and Lord Bacon accounts for the propensity of the Irish to it, by supposing it contributes to longevity. <ref type="bibr">55</ref> By interrogating prejudicial accounts of Irish customs, particularly the colonial discourse surrounding yellow dye usage, the text exposes how figures like Edmund Spenser and Francis Bacon engaged in epistemic violence, framing Ireland as the exoticized Other to justify imperial domination. Spenser's Orientalist attribution of the dye to "the East" denied Irish cultural agency, while Bacon's dismissal of its significance as mere superstition reinforced a hierarchical binary between English rationality and Irish primitivism. Horatio's immediate response -"But where … do these poor people procure so expensive an article as saffron, to gratify their prevailing taste?" 56reveals his assumption that impoverished Irish communities could not possibly afford saffron. His economic reductivism further exemplifies colonial prejudice, revealing how materialist assumptions were weaponized to undermine Irish cultural sophistication. Owenson counters these distortions through rigorous citational practice, invoking Dr Robert Patterson to dismantle the flawed logic of European intellectuals: if a Portuguese physician asserted that yellow dye functioned as a vermifuge, he must first prove universal parasitic infection rather than rely on reductive generalisations. 57 This methodological critique not only destabilises colonial epistemology but also restores agency to Irish cultural practices. The revelation that the dye derived from native Reseda luteola, rather than imported saffron, 58 serves as a micrological triumpha seemingly minor corrective that, in fact, dismantles the entire colonial scaffolding of cultural dependency. Through this forensic engagement with colonial texts, Owenson's footnotes transcend mere annotation, becoming a form of counter-historiography. They expose how imperial knowledge production sought to erase Irish particularity while simultaneously reclaiming that particularity as a site of resistance. In doing so, the text does not merely describe Irish cultural resilience. Rather, it performs it, enacting through scholarly apparatus what colonial discourse attempted to suppress: Ireland's irreducible complexity and sovereign cultural identity.</p><p>Owenson's narrative strategically deploys Horatio's north-ward journey with the priest as an allegory of Ireland's fractured colonial modernity, where competing visions of national identity -Anglicised standardisation versus Gaelic particularismare mapped onto geographic and sectarian divides. The moment they cross "the imaginary line which divides the province of Connaught from that of Ulster", 59 the priest's commentary crystallizes the novel's core geopolitical tension:</p><p>As we now advance northward, we shall gradually lose sight of the genuine Irish character, and those ancient manners, modes, customs, and language with which it is inseparably connected. Not long after the chiefs of Ireland had declared James the First universal monarch of their country, a sham plot was pretended, consonant to the usual ingratitude of the House of Stuart, by which six entire counties of the north became forfeited, which James with a liberal hand bestowed on his favorites; so that this part of Ireland may in some respects be considered as a Scottish colony; and in fact, Scotch dialect, Scotch manners, Scotch modes, and the Scotch character almost universally prevail. Here the ardor of the Irish constitution seems abated, if not chilled. <ref type="bibr">60</ref> The priest's account of the Ulster Plantation reframes the seventeenth-century land confiscations not as natural progress but as active cultural displacement. His phrase "sham plot" directly challenges British historiographic justifications, exposing nationhood as "a hereditary clique that relies on a degraded other". 61 This counter-narrative, voiced through Catholic Gaelic resistance, undermines Horatio's Anglo-centric perspective even as Owenson's editorial footnotes appear to reinforce British cultural hegemony. The tension manifests geographically in the stark contrast between Connacht's Inismore Castlea crumbling yet poetically charged symbol of Gaelic sovereignty where Horatio exoticizes "the genuine Irish character"and Ulster's hybrid modernity. The north-south dichotomy reveals colonialism's paradoxes: while Connacht's landscape serves as a testament to enduring cultural continuity (albeit often romanticised through a nostalgic lens), Ulster demonstrates how Scottish plantations simultaneously eroded and reconfigured tradition, transforming "Irish cordiality" into "the palladium of Irish industry and trade". <ref type="bibr">62</ref> Crucially, the narrative's movement from Connacht's "ancient manners" to Ulster's commercial hubs mirrors Ireland's historical trajectory under colonialism, rendering visible the "fading" of Irishness 63 as active displacement rather than natural decay. Through this geographic allegory, Owenson transforms travelogue into historiography, where landscape becomes legible as a palimpsest of conquest and resilience.</p><p>Owenson's narrative suggests that the construction of national identity relies as much on internal Others as on external ones, with Glorvina's character and the footnotes performing complementary acts of cultural mediation. Just as southern Irish identity gains definition through its dialectical engagement with northern industrial hybridityneither fully rejecting nor uncritically embracing it -Owenson's footnotes complicate rather than refute the main text, enacting a tradition-modernity synthesis. This dialectical tension is evident when the main text's lament over Ulster's fading "florid virtues" 64 appears above a footnote celebrating Belfast as Ireland's "Athens". The spatial juxtaposition makes cultural transformation legible as palimpsest instead of erasure. This paratextual technique mirrors Glorvina's own duality: her pride in Milesian noble lineage coexists with her critique of tradition-bound elites who reject modernity, arguing that such conservatism "frequently checks the industry of the poor". <ref type="bibr">65</ref> The footnotes serve as Glorvina's methodological counterpart. In an increasingly interconnected world, her perspective transcends reductive oppositionsneither capitulating to Anglo-centric modernity nor retreating into nativist essentialism. Instead, Glorvina articulates a third way: she recognises that modernity without tradition lacks cultural depth, while tradition that resists modernity risks obsolescence. This nuanced stance repositions Ireland from being a perpetual challenger of Western modernity to an ambivalent participant in globalisation, simultaneously empowered and circumscribed by transnational forces. Through this lens, Owenson reframes Irish identity as inherently polyvalent, dynamically negotiated across shifting local and global spheres.</p><p>61 Kathryn Kirkpatrick, "Introduction" in The Wild Irish Girl, xiv. <ref type="bibr">62 Owenson,</ref><ref type="bibr">The Wild Irish Girl,</ref><ref type="bibr">198. 63 Ibid.,</ref><ref type="bibr">197. 64 Ibid.,</ref><ref type="bibr">198. 65 Ibid.,</ref><ref type="bibr">118.</ref> </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="4.">Conclusion</head><p>The marriage of Glorvina and Horatio superficially appears to symbolise a perfect union -Ireland preserving its culture while embracing progress, moving beyond nationalism while reimagining its history for a better future. On the surface, their relationship suggests a hopeful vision of Anglo-Irish reconciliation, reflecting Owenson's idealistic view of unity within the British Empire. However, the footnotesfraught with anti-colonial criticism and unresolved tensionsexpose the flaws in this idealised vision, revealing how it remains tied to English dominance. Despite these tensions, the narrative retains constructive potential. Through her footnotes, Owenson creates a space for deeper debateone that questions reality while crafting an idealised Irish identity through history, culture, and politics. She critiques how industrialisation destroys tradition, yet also works to reclaim Ireland's past, redefine its cultural uniqueness, and challenge rigid hierarchies. Her critical and forward-looking approach makes her ahead of her time. Today, as we grapple with questions of identity and globalisation, Owenson's writing feels surprisingly relevant. She wasn't just a writer of her era but a thinker who explored how cultures can coexist, even under inequality. Her work remains an important early attempt to reconcile tradition and modernity, local identity and global change.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Disclosure statement</head><p>No potential conflict of interest was reported by the author(s).</p></div><figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_0"><head></head><label></label><figDesc>This bifocal structure not only dismantles the centre-periphery dichotomy but also interrogates the 1801 Act of Union's failure to facilitate reciprocal cultural recognition. By foregrounding Ireland's syncretic identity formation through intertextual references spanning Gaelic law, bardic poetry, and Enlightenment philosophy,Owenson's   </figDesc><table /><note><p>2 Hoare, Journal of a Tour in Ireland, 17. 3 Ibid., 50. 4 Ibid., 330. 5 Carr, The Stranger in Ireland, 327. 6 Hoare, Journal of a Tour in Ireland, 66. 7 Leerssen, Imagology, 342.</p></note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_1"><head></head><label></label><figDesc>Kovala, "Translations, Paratextual Mediation, and Ideological Closure," 123.  </figDesc><table /><note><p><p><p><p><p><p>31  </p>Leask, "'Wandering through Eblis</p>'; Absorption and Containment in Romantic Exoticism," in Romanticism and Colonialism: Writing and Empire, 1780-1830, 168.  32  </p>Labbe, "'Transplanted into a More Congenial Soil': Footnoting the Self in the Poetry of Charlotte Smith," in Ma(r)king the Text: The Presentation of Meaning on the Literary, 73.</p>33  </p>Watson, Romantic Marginality, 50.  </p></note></figure>
+		</body>
+		<back>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<monogr>
+		<title level="m" type="main">The Wild Irish Girl</title>
+		<author>
+			<persName><surname>Owenson</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="page">45</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<monogr>
+		<title/>
+		<author>
+			<persName><surname>Ibid</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="volume">48</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<monogr>
+		<title/>
+		<author>
+			<persName><surname>Ibid</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="page">73</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<monogr>
+		<title level="m" type="main">Imagined Communities: Reflections on the Origin and Spread of Nationalism</title>
+		<author>
+			<persName><forename type="first">Benedict</forename><surname>Anderson</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2006">2006</date>
+			<publisher>Verso</publisher>
+			<pubPlace>London</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title level="a" type="main">Cultivated for Consumption: Botany, Colonial Cannibalism, and National/ Natural History in Sydney Owenson&apos;s The Wild Irish Girl</title>
+		<author>
+			<persName><forename type="first">Melissa</forename><surname>Bailes</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">The Eighteenth Century</title>
+		<imprint>
+			<biblScope unit="volume">59</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="513" to="533" />
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title level="a" type="main">Critical Receptions: Sydney Owenson, Lady Morgan</title>
+		<author>
+			<persName><forename type="first">Jacqueline</forename><surname>Belanger</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">LLC</title>
+		<imprint>
+			<date type="published" when="2006">2006</date>
+			<publisher>Academica Press</publisher>
+			<pubPlace>Bethesda</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<monogr>
+		<title level="m" type="main">Imagology: The Cultural Construction and Literary Representation of Naational Characters</title>
+		<editor>Beller, Manfred and Leerssen Joep</editor>
+		<imprint>
+			<date type="published" when="2007">2007</date>
+			<pubPlace>Amsterdam: Rodopi</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<monogr>
+		<title level="m" type="main">Colonial and Postcolonial Literature</title>
+		<author>
+			<persName><forename type="first">Elleke</forename><surname>Boehmer</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1995">1995</date>
+			<publisher>Opus Books/Oxford University Press</publisher>
+			<pubPlace>Oxford</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title level="a" type="main">The Seductive Masquerade of the Wild Irish Girl</title>
+		<author>
+			<persName><forename type="first">Heather</forename><forename type="middle">L</forename><surname>Braun</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Irish Studies Review</title>
+		<imprint>
+			<biblScope unit="volume">13</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="33" to="43" />
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<monogr>
+		<title level="m" type="main">Writing Ireland: Colonialism, Nationalism and Culture</title>
+		<author>
+			<persName><forename type="first">David</forename><surname>Cairns</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Shaun</forename><surname>Richards</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1988">1988</date>
+			<publisher>Manchester University Press</publisher>
+			<pubPlace>Manchester</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<monogr>
+		<title level="m" type="main">The Stranger in Ireland; Or, a Tour in the Southern and Western Parts of That Country</title>
+		<author>
+			<persName><forename type="first">Sir</forename><surname>Carr</surname></persName>
+		</author>
+		<author>
+			<persName><surname>John</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1806">1806</date>
+			<publisher>Richard Phillips</publisher>
+			<pubPlace>London</pubPlace>
+		</imprint>
+	</monogr>
+	<note>in the Year 1805</note>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<monogr>
+		<title level="m" type="main">A Cultural History of the Irish Novel</title>
+		<author>
+			<persName><forename type="first">Claire</forename><surname>Connolly</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2011">2011</date>
+			<biblScope unit="page" from="1790" to="1829" />
+			<pubPlace>Cambridge</pubPlace>
+		</imprint>
+		<respStmt>
+			<orgName>Cambridge University</orgName>
+		</respStmt>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<title level="a" type="main">Allegories of Prescription: Engendering Union in The Wild Irish Girl</title>
+		<author>
+			<persName><forename type="first">Mary</forename><surname>Corbett</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Jean</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Eighteenth-Century Life</title>
+		<imprint>
+			<biblScope unit="volume">22</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="92" to="102" />
+			<date type="published" when="1998">1998</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<title level="a" type="main">She Sang Beyond the Genius of the Sea&apos;: Sydney Owenson&apos;s Topographical Ethics</title>
+		<author>
+			<persName><forename type="first">Eamonn</forename><surname>Dunne</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nordic Irish Studies</title>
+		<imprint>
+			<biblScope unit="volume">8</biblScope>
+			<biblScope unit="page" from="1" to="15" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<monogr>
+		<title level="m" type="main">The Romantic National Tale and the Question of Ireland</title>
+		<author>
+			<persName><forename type="first">Ina</forename><surname>Ferris</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2002">2002</date>
+			<publisher>Cambridge University Press</publisher>
+			<pubPlace>Cambridge</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title level="a" type="main">Paratexts: Thresholds of Interpretation</title>
+		<author>
+			<persName><forename type="first">Gérard</forename><surname>Genette</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Trans. Jane E. Lewin</title>
+		<imprint>
+			<date type="published" when="1997">1997</date>
+			<publisher>Cambridge University Press</publisher>
+			<pubPlace>Cambridge</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<title level="a" type="main">The Silence of the Land: Antiquarian Gothic and Ireland, 1790-1831</title>
+		<author>
+			<persName><forename type="first">Timothy</forename><surname>Heimlich</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">ELH</title>
+		<imprint>
+			<biblScope unit="volume">88</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="661" to="684" />
+			<date type="published" when="2021">2021</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<monogr>
+		<title level="m" type="main">Sir Richard Colt</title>
+		<author>
+			<persName><surname>Hoare</surname></persName>
+		</author>
+		<editor>Ireland A.D. 1806. London: Miller and for J Archer and M Mahon Dublin</editor>
+		<imprint>
+			<biblScope unit="page">1807</biblScope>
+			<pubPlace>Bart</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<analytic>
+		<title level="a" type="main">Ut Pictura Poesis? Art and the Irish Nation in The Wild Irish Girl</title>
+		<author>
+			<persName><forename type="first">Katja</forename><surname>Jylkka</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">New Hibernia Review</title>
+		<imprint>
+			<biblScope unit="volume">15</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="80" to="93" />
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<analytic>
+		<title level="a" type="main">Introduction</title>
+		<author>
+			<persName><forename type="first">Kathryn</forename><surname>Kirkpatrick</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">The Wild Irish Girl</title>
+		<editor>
+			<persName><forename type="first">Kathryn</forename><surname>Kirkpatrick</surname></persName>
+		</editor>
+		<editor>
+			<persName><surname>Vii-Xviii</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Oxford</addrLine></address></meeting>
+		<imprint>
+			<publisher>Oxford University Press</publisher>
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<analytic>
+		<title level="a" type="main">Translations, Paratextual Mediation, and Ideological Closure</title>
+		<author>
+			<persName><forename type="first">Urpo</forename><surname>Kovala</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Target. International Journal of Translation Studies</title>
+		<imprint>
+			<biblScope unit="volume">8</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="119" to="147" />
+			<date type="published" when="1996">1996</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<analytic>
+		<title level="a" type="main">Transplanted Into a More Congenial Soil&apos;: Footnoting the Self in the Poetry of Charlotte Smith</title>
+		<author>
+			<persName><forename type="first">Jacqueline</forename><surname>Labbe</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Ma(r)king the Text: The Presentation of Meaning on the Literary Page</title>
+		<editor>
+			<persName><forename type="first">Joe</forename><surname>Bray</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">Miriam</forename><surname>Handley</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">Anne</forename><forename type="middle">C</forename><surname>Henry</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Aldershot</addrLine></address></meeting>
+		<imprint>
+			<publisher>Ashgate</publisher>
+			<date type="published" when="2000">2000</date>
+			<biblScope unit="page" from="71" to="86" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<analytic>
+		<title level="a" type="main">Wandering Through Eblis&apos;; Absorption and Containment in Romantic Exoticism</title>
+		<author>
+			<persName><forename type="first">Nigel</forename><surname>Leask</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Romanticism and Colonialism: Writing and Empire, 1780-1830</title>
+		<editor>
+			<persName><forename type="first">Tim</forename><surname>Fulford</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">Peter</forename><forename type="middle">J</forename><surname>Kitson</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Cambridge</addrLine></address></meeting>
+		<imprint>
+			<publisher>CUP</publisher>
+			<date type="published" when="1998">1998</date>
+			<biblScope unit="page" from="165" to="188" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<analytic>
+		<title level="a" type="main">Irish Orientalism: An Overview</title>
+		<author>
+			<persName><forename type="first">Joseph</forename><surname>Lennon</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Ireland and Postcolonial Theory</title>
+		<editor>
+			<persName><forename type="first">Clare</forename><surname>Carroll</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">Patricia</forename><surname>King</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Cork</addrLine></address></meeting>
+		<imprint>
+			<publisher>Cork University Press</publisher>
+			<date type="published" when="2003">2003</date>
+			<biblScope unit="page" from="129" to="218" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<monogr>
+		<title level="m" type="main">Catholic Emancipations: Irish Fiction from Thomas Moore to James Joyce</title>
+		<author>
+			<persName><forename type="first">Emer</forename><surname>Nolan</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2007">2007</date>
+			<publisher>Syracuse University Press</publisher>
+			<pubPlace>Syracuse</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<monogr>
+		<title level="m" type="main">The Wild Irish Girl</title>
+		<author>
+			<persName><forename type="first">Sydney</forename><surname>Owenson</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2008">2008</date>
+			<publisher>OUP</publisher>
+			<pubPlace>Oxford</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<monogr>
+		<title level="m" type="main">Modern Ireland: A Very Short Introduction</title>
+		<author>
+			<persName><forename type="first">Senia</forename><surname>Paseta</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2003">2003</date>
+			<publisher>OUP</publisher>
+			<pubPlace>Oxford</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b27">
+	<analytic>
+		<title level="a" type="main">Maria Edgeworth and Lady Morgan: Legality Versus Legitimacy</title>
+		<author>
+			<persName><forename type="first">Robert</forename><surname>Tracy</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nineteenth Century Fiction</title>
+		<imprint>
+			<biblScope unit="volume">40</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="1" to="22" />
+			<date type="published" when="1985">1985</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b28">
+	<analytic>
+		<title level="a" type="main">National Character, Nationalist Plots: National Tale and Historical Novel in the Age of Waverley, 1806-1830</title>
+		<author>
+			<persName><forename type="first">Katie</forename><surname>Trumpener</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">ELH</title>
+		<imprint>
+			<biblScope unit="volume">60</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="685" to="731" />
+			<date type="published" when="1993">1993</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b29">
+	<monogr>
+		<title level="m" type="main">Romantic Marginality: Nation and Empire on the Borders of the Page</title>
+		<author>
+			<persName><forename type="first">Alex</forename><surname>Watson</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2012">2012</date>
+			<publisher>Routledge</publisher>
+			<pubPlace>London</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b30">
+	<monogr>
+		<title level="m" type="main">India and Nationalism in the Nineteenth Century</title>
+		<author>
+			<persName><forename type="first">Julia</forename><surname>Wright</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Ireland</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2007">2007</date>
+			<publisher>Cambridge University Press</publisher>
+			<pubPlace>Cambridge</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

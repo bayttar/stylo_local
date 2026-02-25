@@ -1,0 +1,708 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">The Workings of Affect in Lucy Caldwell&apos;s Where They Were Missed</title>
+				<funder ref="#_qJZsQE4">
+					<orgName type="full">Spanish Ministry of Science and Innovation</orgName>
+				</funder>
+				<funder ref="#_JywyF9D #_VJ2bmNj #_TKk4Phh">
+					<orgName type="full">unknown</orgName>
+				</funder>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName><forename type="first">Asier</forename><surname>Altuna-García De Salazar</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">María</forename><forename type="middle">J</forename><surname>Pando-Canteli</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">English</forename><surname>Studies</surname></persName>
+						</author>
+						<author>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Social and Human Sciences</orgName>
+								<orgName type="institution">University of Deusto</orgName>
+								<address>
+									<settlement>Bilbao</settlement>
+									<country key="ES">Spain</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff1">
+								<orgName type="institution">Asier Altuna-García de Salazar</orgName>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff2">
+								<orgName type="department">The Politics of Memory</orgName>
+								<orgName type="institution">Post-Agreement Northern Irish Literature</orgName>
+								<address>
+									<addrLine>Northern Irish Writing, 16. 5 Lundy and McGovern, &quot; 27-8. 6 Magennis, Northern Irish Writing, 3. 7 Heidemann</addrLine>
+									<settlement>Magennis</settlement>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">The Workings of Affect in Lucy Caldwell&apos;s Where They Were Missed</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date/>
+						</imprint>
+					</monogr>
+					<idno type="MD5">51294029673F942423B4CE87E9BD0BD7</idno>
+					<idno type="DOI">10.1080/0013838X.2025.2572213</idno>
+					<note type="submission">Received 16 April 2024 Accepted 2 October 2025</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.0" ident="GROBID" when="2026-02-25T19:53+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term>Affect</term>
+					<term>post-conflict</term>
+					<term>trauma</term>
+					<term>female writing</term>
+					<term>the Troubles</term>
+				</keywords>
+			</textClass>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>This article analyses Lucy Caldwell's representation of the turn from female trauma to affect in her debut novel Where They Were Missed  (2006) within the discourse of female writing after "the Troubles". Drawing on theoretical frameworks on trauma and affect developed by Caruth, Massumi, Ahern and Ahmed, among others, and especially Magennis's and Dawson's choice of affect as an analytical framework to approach Northern Irish post-conflict fiction, this article examines Caldwell's re-examination of the former experiences of women in "the Troubles" in Northern Ireland, away from more hegemonic accounts of the conflict. The analysis concludes that Caldwell's novel moves beyond the representation of trauma within the fiction of "the Troubles" in order to navigate into transformative discourses of female intimacies and affect.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Introduction</head><p>This article analyses Northern Irish author Lucy Caldwell's representation of affect in her debut novel Where They Were Missed (2006). Her novel shows how contemporary Northern Irish women's fiction revisits "the Troubles" through the representation of the spaces of affect within discourses of the domestic, the family and the individual. These spaces of affect impact and are transformative for her characters, especially female ones. In her novel, Caldwell does not provide a narrative of closure or forgetfulness of the traumatic past of "the Troubles"; rather, as Sherratt-Bado claims, Caldwell's novel "potentializes Northern Irish history" and opens it to "alternative futures by redirecting its teleology". <ref type="bibr">1</ref> In Where They Were Missed, Caldwell sets the past as a concern of the present, which needs re-visiting and, also, re-dressing. This article shows that Caldwell's novel shares with much recent Northern Irish literature written by women 2 the need to do away with the idea that post-conflict narratives in Northern Ireland have traditionally situated, as Gilmartin contends, "gender and women's position as peripheral". <ref type="bibr">3</ref> Together with writers such as Mary Beckett, Anna Burns, Jan Carson, Anne Devlin, Wendy Erskine, Rosemary Jenkinson, Louise Kennedy, Deirdre Madden, Lisa McGee, Bernie McGill and Medbh McGuckian, among others, Lucy Caldwell belongs to a group of Northern Irish women writers that have broken new ground in establishing a female voice within the multiple perspectives around "the Troubles". In so doing, they have depicted in their writings themes such as women in dysfunctional situations, the silenced realities of women in Northern Ireland and the vulnerability of their condition within the conflict. As Magennis observes, much of this recent literature by women has represented the "public" politics of sectarian conflict and the "private" politics of intimacy is a binary that is easily collapsed by examining the lives depicted. <ref type="bibr">4</ref> Caldwell revisits the conflict in her novel and addresses the politics of memory in post-conflict Northern Ireland which, for Lundy and McGovern, have "led to introspective dialogue in the public and private sphere" and strive to find "appropriate mechanisms" to remember a past strewn with conflict. <ref type="bibr">5</ref> Caldwell's novel represents a shift to a post-conflict society, which her fiction shares with the literature produced by female authors over the last two decades. For critics like Magennis, identifying the fiction after "the Troubles" as "post-conflict" seems appropriatealthough occasional events of violence can render the term "post-conflict" problematic. <ref type="bibr">6</ref> For others, such as Heidemann, the application of the term "post-Agreement" to this literature captures the "coordinates of a suppressed and 'regressive' past, and the 'progressive' and 'agreed-upon' future" 7 in Northern Ireland. Caldwell's novel can be classified as post-conflict and post-Agreement, as it approaches the plight of "the Troubles" from today's perspective and offers the representation of a reparative view to a future that provides discourses of resilience and reconciliation. Ultimately, this article proves that Caldwell's Where They Were Missed moves beyond the representation of trauma within the fiction of "the Troubles" to navigate into transformative discourses of affect.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>The Workings of Affect: The Turn from Trauma to Affect</head><p>The analysis dealt with here draws on the move from trauma to affect, as a critical trope, in the fictional approach to "the Troubles" from a post-conflict perspective in Caldwell's Where They Were Missed. Although Northern Irish fiction has been approached as the expression of collective and individual trauma marked by "the Troubles", this article advocates affect as central in the literary representation of individual and communal experiences in Caldwell's novel.</p><p>Indeed, trauma has become key in providing a framework to the understanding and construction of Irish history, identity, and the way both collective and individual memories deal with the past and its legacy today. Considered by Connolly as an "episode of protracted trauma in Irish history", 8 "the Troubles" occupies a central position in Northern Irish fiction, and for this reason most approaches to this literature rely on trauma theory to explain the power of the narratives and their quality to voice what otherwise has remained silenced. 9 For Del Río, many Irish novels representing "the Troubles" are the "fitting vehicles for the articulation of historical tensions that may not be settled yet", 10 as they contribute to rewriting a present that is still much conditioned by the traumatic past of the conflict. The function of this fiction is to confront the painful experiences of the past and the individual and collective suppressed memory of "the Troubles". Critics like Drong qualify this type of fiction-that helps in the construction of the present in Northern Ireland-as post-traumatic realism because it aims at "reworking some of the historical traumas". 11 For Stephanie Lehner, the idea of the pervasive presence of the traumatic past in the present and, therefore, the difficulties of an "easy recovery" 12 still characterises much Northern Irish fiction today. This is something that Costello-Sullivan also notes when addressing the need of twenty-first-century Irish narratives to "increasingly turn from just recognizing traumatic experiences toward also exploring and representing the process of healing and recovery, interrogating this possibility from the vantage of the authors' time and place". <ref type="bibr">13</ref> All these critics propose an approach to Northern Irish postconflict literary production emphasising the power of literature to explore hidden episodes of the past and how they come to life in the "post-conflict" literary representations of the present. Storytelling, thus, works as a powerful therapeutic strategy that helps process the traumatic experience of "the Troubles". However, this article contends that, while an approach from the theory of trauma still provides valuable insights in recent Northern Irish literature, it inevitably overshadows some other aspects that need to be addressed: on the one hand, the specific displacement of other voices from the focus of the conflict; and, on the other, the relevance of emotions and affects in the creation of new subjectivities that enlighten realities which otherwise would not come to the surface. This article on Caldwell's Where They Were Missed proposes an interpretative analysis of affect while also relying on critical articulations of trauma.</p><p>The recent interest in affect as a critical trope in the social sciences has displaced the scholarly attention towards the exploration of the role of emotions and bodily experiences in order to understand social dynamics and the complexities of human relations, or, in the words of Sara Ahmed, to understand "how emotions work to shape the 'surfaces' of individual and collective bodies". 14 Accordingly, affect cannot be equated to emotion or feeling, only. Rather, affect refers to a framework that encapsulates larger manifestations, at times even nonlinguistic, that determine experience in a relational mode. This understanding of affect, which as Massumi contends is polyvalent and complex, is centred on the relevance of relationships because "one always affects and is affected in encounters; which is to say, through events". <ref type="bibr">15</ref> In the same light, Seigworth and Gregg emphasise the difficulty in establishing some tenets in a theory of affect. However, out of the eight "orientations" they identify in their proposal of a theory of affect, two link affect directly to the examination of "politically engaged work" and, 9 See Frawley, Memory Ireland Volume 3, Lehner, "The Irreversible &amp; the Irrevocable"; Costello-Sullivan, Trauma and Recovery and Goarzin, "Articulating Trauma"; Drong, "Post-Traumatic Realism" and Terrazas-Gallego, Trauma and Identity. 10 Del Río, "Trauma Studies and the Contemporary Irish Novel," 13. <ref type="bibr">11</ref> Drong, "Post-Traumatic Realism," 33. <ref type="bibr">12</ref> Lehner, "The Irreversible &amp; the Irrevocable," 273. <ref type="bibr">13</ref> Costello-Sullivan, Trauma and Recovery, 4. <ref type="bibr">14</ref> Ahmed, The Cultural Politics of Emotion, 1. <ref type="bibr">15</ref> Massumi, Politics of Affect, ix.</p><p>especially, the "critical discourses of the emotions (and histories of the emotions) that have progressively left behind the interiorized self or subjectivity […] to unfold regimes of expressivity that are tied much more to resonant worldings and diffusions of feeling/passions". <ref type="bibr">16</ref> The main concern these critics show, then, lies in the complexity a definition of affect entails due to the multiple manifestations in which affect appears, and most importantly for the purpose of this article, how affect can be fully expressed in language because, as Shouse claims, An affect is a non-conscious experience of intensity; it is a moment of unformed and unstructured potential […] Affect cannot be fully realized in language […] because affect is always prior to and/or outside consciousness […] Affect is the body's way of preparing itself for action in a given circumstance by adding a quantitative dimension of intensity to the quality of an experience. The body has a grammar of its own that cannot be fully captured in language. 17 Applied to literature, Shouse's explanation presents a paradox in so far as the literary experience is inevitably mediated by language and, also, as this article analyses, fictional narratives articulate spaces where affects dwell and are inscribed upon bodies and communities intensely. This article examines the importance of "affective phenomena" and "affective agency" in literature and how these, to follow Ahern, "can determine character development". <ref type="bibr">18</ref> The analysis of Lucy Caldwell's novel dealt with here explores the ways new subjectivities are developed, and how the representation of affect, to follow Seigworth and Gregg, "unfolds regimes of expressivity" 19 in post-conflict Northern Irish fiction.</p><p>As stated above, the analysis dealt with here draws on the move from trauma to affect, as a critical trope, in the fictional approach to "the Troubles" from a post-conflict perspective in Caldwell's Where They Were Missed. For our approach, two authors have been particularly influential: Graham Dawson and Caroline Magennis. Both revisit the trauma of "the Troubles" by proposing new ways of approaching the conflict from a post-conflict position. For Dawson, trauma has produced multiple critical discourses but may have "become exhausted" and "open to accusations of being backwardslooking" rather than resolutive. <ref type="bibr">20</ref> For that reason, Dawson goes on to highlight the importance of the introduction of a shift in the analytical framework we use to think about the affective legacies of the Irish Troubles and their relation to "post-conflict" activity to "come to terms with" or "deal with the past" in the Irish peace process, away from trauma and towards the domain of emotion, feeling, and affect in history. <ref type="bibr">21</ref> Similarly, Magennis proposes overcoming at once this centrality of trauma in the analysis of "the Troubles" in Northern Irish fiction. In so doing, she advocates critical approaches that also comprise "themes of intimacy, bodies and pleasure" 22 in her choice of affect as a <ref type="bibr">16</ref> Seigworth and Gregg, "An Inventory of Shimmers," 6-9. 17 Shouse, "Feeling, Emotion, Affect," 2-3. <ref type="bibr">18</ref> Ahern, "Introduction," 1. <ref type="bibr">19</ref> Seigworth and Gregg, "An Inventory of Shimmers," 8. <ref type="bibr">20</ref> Dawson, "The Meaning of 'Moving on'," 82. <ref type="bibr">21</ref> Ibid., 89. Dawson proposes four main ways to open up this analytical framework: (a) to give "more inclusive" consideration to affect in times of conflict; (b) to provide more "nuanced accounts of the relation between external and internal worlds"; (c) to focus on the affects of victims of conflict, avoiding thus "the exclusive and politicised connotations attached to this term in Northern Ireland"; and (d) to "seek transformation of conflict-related emotions through future-oriented efforts". Ibid., 89.</p><p>critical paradigm. In fact, discourses of intimacy, affective states and the body have become part and parcel of the critical paradigm which examines much recent Northern Irish fiction. Through the adoption of some of the tenets of affect theory as an analytical framework this article moves beyond the interpretative frame proposed by trauma studies by enlightening those landscapes where affect lies in literature.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Affective Landscapes, Assemblages and Energy in Where They Were Missed</head><p>Lucy Caldwell's Where They Were Missed is divided into two parts. The first one approaches the falling apart of a mixed-religious family-the father, Colin, is a Protestant and an officer of the Royal Ulster Constabulary and the mother, Deirdre, is a Catholic from Donegal-through the eyes of the two young sisters, Saoirse and Daisy during "the Troubles" in 1980s Belfast. The family experiences the systemic violence of the political conflict (marches, attacks, insults and rejection), resulting in their home confinement in the heart of a Protestant neighbourhood, alleviated at times with visits to Italo-Irish friends at the other side of the city. The dramatic death of little Daisy and their mother's mental illness after the nuclear family breaks up-with the separation of father and mother-trigger the disintegration of the family and leave wounds that only begin to heal many more years later. In the second part, set in the Republic of Ireland and this time against the backdrop of nationalist violence, a teenage Saoirse now living with her aunt and uncle, tries to understand and discover the impact of her family's past tragedy, now that her mother is secluded in a mental institution in Donegal and her father has remarried and still lives in Belfast.</p><p>Following the sequential unfolding of the story, the analysis below is divided into three sections: affective landscapes of home and the city, affective assemblages, and affective energies. These sections delve into the different scenarios that build up the complex map of affect in Caldwell's novel and explore the representation of the intricate connections between political unrest and shattered intimacies, between bodies in pain and the affective energy of renewal and healing. The chronological structure of the novel enables the depiction of both the shift from political public landscapes to realms of subjectivity and affection and the centrality of memory and oblivion as affective forces. This proves the coherence of the representation of affect in Caldwell's novel and shows that, as Ahern observes in instances of literature dealing with affect, "the workings of affect are a determiner of narrative form".<ref type="foot" target="#foot_1">23</ref> </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Affective Landscapes of Home and the City</head><p>Sherratt-Bado notes that Caldwell published her novel in a "year which marked a pivotal moment in "post-conflict" Northern Irish history". There were plans for the demilitarisation of the region, a time was set for the devolution of government at Stormont, a new Executive was established, power-sharing was envisaged and the Police Service of Northern Ireland was accepted. <ref type="bibr">24</ref> Caldwell revisited in 2006 the spaces of the domestic and the family against the political and social backdrop of "The Troubles" in the 1970s and 1980s. In so doing, her text foregrounds the complex relationships within the domestic, interior and family spaces and those spaces outside, as seen from Belfast and from Donegal. Caldwell's novel shares with other instances in recent Northern Irish fiction, what Magennis observes is the representation of the "domestic concerns", which have traditionally been excluded. The exclusion of this representation from much Northern Irish fiction is, as she contends, "to ignore the fact that the stuff of life often occurs in those moments outside of the traditional representation of politics". <ref type="bibr">25</ref> In Caldwell's novel, both settings in Northern Ireland and in the Republic are the clear representation of the conflict and the fear that are present in public spaces and that also impact the private sphere. The representation of these settings of the conflict and their impact on individuals are instances, following Magennis, of "the ways in which the zone of war traverses embodied subjectivities and extends it into the realm of private experience". <ref type="bibr">26</ref> Caldwell's is a narrative of an individual trauma in the voice of an eight-year-old girl, Saoirse-featuring transgenerational and psychological damage. However, Saoirse's trauma and the individual traumas of the members of her family are set against the background of a collective trauma of a whole community over two generations. In this specific case, collective trauma permeates the tissue and seeps through the pores of all and every member of the family. In the novel, individual trauma cannot be understood without this flow of energy in which all individual struggle becomes entangled in the landscape and is affected by the violence experienced collectively. The novel approaches Northern Ireland's past as problematic because pain has been inflicted, as Clarke and Byrne contend, with a "breadth of tactics and long-term acts of interlocking violence (direct, structural and cultural)" which included "dislocation from traditional lands and livelihoods with disruptions of family systems, religious/spiritual suppression, loss of language, and resulting social inequities". <ref type="bibr">27</ref> Caldwell narrates an oppressive environment in Belfast characterised by what Clarke and Byrne term as "the ongoing transmission of trauma", which can appear in "the intra-and interpersonal, inter-and intragroup, and societal and political spheres". 28 However, Caldwell's novel offers a reading that moves beyond the storytelling of a traumatic past experience told by a young adult woman, Saoirse, in the present. Garden already highlights the centrality of these young female characters in Caldwell's short fiction, whose voices have the potential "to imagine a more tolerant, hopeful future" and whose disruptive desire challenges masculinist narratives and brings to light "the ongoing violence perpetrated against women [and] children". <ref type="bibr">29</ref> Similarly, for Magennis, her novel is an exemplar of much recent Northern Irish fiction by women which is centred on the representation of "the changing condition of women as embodied subjects in a culture and society still deeply scarred by sectarian violence". 30 25 Magennis, "Multitudes." <ref type="bibr">26</ref> Magennis, "Sex and Violence," 336. <ref type="bibr">27</ref> Clarke and Byrne, "The Three Rs," 109. <ref type="bibr">28</ref> Ibid., 111. <ref type="bibr">29</ref> Garden, "Girlhood Desire," 307. <ref type="bibr">30</ref> Magennis, "Sex and Violence," 343.</p><p>In the first part of the novel, Caldwell offers her representation of "the Troubles" for a post-conflict Northern Irish society by focusing on an eight-year-old girl, Saoirse, as the "embodied subject" whose voice dominates the narrative. <ref type="bibr">31</ref> The two worlds at odds that are presented in the story are not only those of the physical and symbolic realms represented by Protestants and Catholics alike, but also that of a child's universe confronted with a violent reality she cannot possibly understand, where the emotional and affective energies constantly interfere in the narrative. Placing a little girl's narrative at the centre of this fiction brings the reader to a present that renders centrality to the world of a young girl's emotions and impressions rather than to the act of remembering and styorytelling as strategies to overcome a traumatic past. In the second part of the novel, however, Caldwell's novel might be qualified as post-traumatic, since the paralysing influence of the past affects the characters' ability to face the present. Drong describes post-traumatic Irish fiction as that which features "confessing, disburdening oneself, verbalizing grief, and acknowledging a grudge one holds against others as recurring themes". 32 This is the case with Saoirse in the novel, but her reality is also mediated through affect.</p><p>Saoirse's (Sunshine for her father) childish universe is inextricably bound to that of her sister, Daisy, and pivots around the tiny little world of her family (home and neighbourhood). She is the narrative voice that unfolds a story whose details reach the reader through the fragmented and naïve gaze of a child. It is precisely the impressionistic quality of this fragmented and discontinuous narrative that provides an emotional intensity, despite the deceptive simplicity of the events. Through her eyes, the reader gains access to the urban geography of Belfast, where neighbourhoods shape identities and destinies. Their lives-controlled by fear and concealment-can also be observed in the material delimitations of their childish experiences:</p><p>The Orangemen are marching at the bottom of our street […] but Mummy keeps the windows of our house shut tight […] The other children on our street go with their mammies and daddies […] to cheer the marchers on, but me and Daisy stay in the house. <ref type="bibr">33</ref> Being a Catholic in a Protestant area, Saoirse's mother perceives a hostile environment outside her home: "Taigs! Filthy stinking Ta-igs!" 34 is what the neighbours shout at their door. This makes her forbid her daughters to play outside, reinforcing the need for safety within the household, within the family. Their back garden is the only safe territory, with delimited, closed boundaries that inspire the illusion of locking out violence and pain, and trespassing beyond which may have unexpected and terrible consequences. Albeit deemed as a place of refuge, a place apart within a violent community, the idea of home is contested and complicated as it also becomes a metonym where the enactment of social, religious and political division is also present, conditioning, thus, the affective states of all the members of the family. It will also turn into the place that witnesses Daisy's traumatic death-the uttermost expression of the violence and brutality of the Troubles that permeates the family's lives and bodies. This first part of the novel reveals, therefore, the physical and psychological pain inflicted upon all these characters, and especially upon the two sisters Saoirse and Daisy. All the characters have to pay a high price when living in a community crossed by political violence. This is clearly expressed in the geographical and symbolic borders that separate the two worlds, living at odds with each other: the Falls, nationalist and Catholic, and East Belfast, mostly unionist and Protestant. Escaping to the Falls, the forbidden territory of the Catholic neighbourhood at the other side of the city, is thus for mother and children a way to connect with the affective community that is denied to them in their neighbourhood. Challenging the father's prohibition, Saoirse's mother "still takes us to visit the Antoney-oney-os […] but is a Secret we're not to tell Daddy". <ref type="bibr">35</ref> The Antoninos, owners of an Italian ice-cream shop, are the Italo-Irish family Deirdre feels attached to, who host mother and children in their clandestine visit to the Falls. The situation of this Italo-Irish family somehow mirrors that of Deirdre's family. The grandfather migrated from Italy after WWII, his daughter, Isabella, was born in Belfast and married a Catholic from Northern Ireland. They live in a Catholic neighbourhood and refuse to go and visit Deirdre because she lives in an area where foreigners and Catholics are not welcome. As with Deirdre's case, the Antoninos represent a discourse of religion, cultural identity and place of origin that suffers from acceptance against a backdrop of sectarian violence.</p><p>Violence pervades the lives of these individuals at a psychological and physical level. While vetoes and secrets conform these lives, streets are set on fire and the TV shows: wee boys chucking milk bottles and bricks at a row of Army vans […] cars burning in the background, and big piles of wooden crates and fencing and barbed wire. Mammy came in and turned the television off. <ref type="bibr">36</ref> Belfast shows the scars of the collective trauma in this map of the city, with forbidden territories that taxis refuse to enter and where the BBC comes "to juke at us like we're animals in a zoo". 37 When Deirdre's friend's husband, Frankie, is dramatically killed by some Loyalist gunmen attacking a pub in the Falls, the girls feel how the violence in the streets is also made apparent in the brutal confrontation between their parents, which overwhelmed with fear, the children witness silently between the bars of the banister upstairs: Daddy's got up and he's grabbing her wrists and she's shrieking. I cover my ears with my hands. But I can't move from where I'm crouched down on the stairs looking through the banister . <ref type="bibr">38</ref> In the first part of the novel, the figure of the father is drawn paying special attention to his involvement in "the Troubles" as an officer. This makes his work and commitment to the cause clash with the domestic space inside. He is late for birthdays, comes home dirty, wounded, rejects the importance of religion, contradicts what his wife tells their daughters and is believed, by his wife, to be the main introduction of violence within the family. The father reminds his daughters what his main task in society is, reducing the conflict to <ref type="bibr">35</ref> Ibid., 43. <ref type="bibr">36</ref> Ibid., 41. 37 Ibid., 52. <ref type="bibr">38</ref> Ibid., 54.</p><p>bad and good ones and the need to police it: "never you forget that it's your daddy's job to protect people, and to catch the bad people and make sure they go to jail. Understand?". <ref type="bibr">39</ref> Caldwell treats the dynamics of husband and wife as affecting the dynamics of the family as a whole, thus representing the conflict inside and outside. All the members of the family are represented as victims of the conflict. The implicit violence of the father's profession is added to his wife's verbal and attitudinal violence: her shouts, depression and alcohol addiction. Violence outside impacts violent behaviour inside, within the marriage, and permeates the household atmosphere and the bodies of those who inhabit it. Witnessing this intra-familiar violence necessarily affects the little daughters by hindering the connection to relational affective spaces within the family and with the community in their neighbourhood. Caldwell's characters live in this brutally fractured inbetweeness where victims and victimisers occupy the same domestic realm, where one's friend is the other's enemy. While the mother mourns her friend's husband's violent murder at the hands of Unionist groups, the father joins the ranks of the murderers, and bears on his body the signs of a violence that operates with equal intensity on both sides: "There's always more to it" argues Saoirse's father in an attempt to explain to his wife how the violence operates both ways, "Catholic Men Shot Dead in Pub by Loyalist Paramilitaries, the headlines go. But the story behind it … ". <ref type="bibr">40</ref> The story behind it was the previous murder of the gunman's brother and brother's wife "blown up by a bomb planted underneath their car … in front of their six-year old daughter … Sunshine's age!". <ref type="bibr">41</ref> Through the terrified testimony of a girl, the reader perceives how, whether physical, verbal, psychological or symbolic, political violence permeates every strand of the fabric that constitutes the fragile composition of this community.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Affective Assemblages</head><p>The conflict without becomes also true within, and pervades the reality of a child loaded with affective energy but incapable of understanding. Saoirse's childlike narrative represents the mechanism by which, following Leys, affects interrogate us from a material and bodily reality and not from a cognitive realm. <ref type="bibr">42</ref> These affects dissolve the boundaries between the world within and without, between her body and that of her sister, between the world of reality and the fantasy of her mother's storytelling. However, the inside, the home, is not a safe space, either. Violence exerts its impact both physically and psychologically. Silence is imposed to conjure the unbearable reality of alienation where all characters-not only the children-are trapped. The political violence permeates human relations and turns the collective trauma into individual pathologies that are materialised in these bodies in pain. Trauma thus unfolds in the injured body, the lying body, the sick body as a repository of the deep wound open in the society because of sectarian violence: fear, shame, anger, guilt, pity, are all emotions that traverse these bodies. Kathleen Costello-Sullivan contends that the representation of trauma in much recent Irish fiction 39 Ibid., 58. <ref type="bibr">40 Ibid.,</ref><ref type="bibr">56. 41</ref> Ibid., 55. <ref type="bibr">42</ref> Leys, The Ascent of Affect, 3. contains a multi-layered and comprehensive examination of the impact trauma has in the self, the body and human relationships. She follows Judith Herman, who claims that:</p><p>Traumatic events call into question basic human relationships. They breach the attachments of family, friendship, love, and community. They shatter the construction of the self that is formed and sustained in relation to others. They undermine the belief systems that give meaning to human experience. <ref type="bibr">43</ref> When the outcome of sectarian conflict outside reaches the family, the feelings of fear and anger turn to be deeper than love. As a result, violence runs through the family life within, in the home, in the marriage, and emerges in desperate situations in which bodies suffer in pain physically, as this fragment between Deirdre and her husband and Saoirse's reaction to violence shows:</p><p>-Don't! Don't you dare touch me! Mammy's crying and gulping and shaking. What's become of us? She says, over and over again. What's become of us? What have we done? I creep upstairs to bed and get into Daisy's bed. Daisy is milky-warm and smells of sleep, but I'm shivering and my ears are ringing with the harsh sound of bombs and guns and ballyclavas and whenever I close my eyes I see floating in front of me that little girl my age's face as she waves from the front-room window. <ref type="bibr">44</ref> The child witnesses the profound tear that political violence produces in the family's affective fibre. The naive gaze of the narrator, Saoirse, feels before she understands, merging symbolically with Daisy as only one body that flows. In a universe in which emotions and affects precede cognition, Saoirse does not try to understand. She merely survives in a world of sensations, emotions and affects where playing and storytelling articulate the only tolerable universe. These tales seem to provide the coherence and certainty denied otherwise. Stephen Ahern refers to the importance of affective phenomena not only in the "forces that move characters to feel", but also in the way they engage with "the environments they inhabit". <ref type="bibr">45</ref> Particular affects may determine character development and narrative form in ways "hard to predict, yet palpable nonetheless" to the reader. <ref type="bibr">46</ref> As an interpretive paradigm, affect resides in the embodied experience and therefore in the sensual resonances of these material bodies. When the mother sinks into long depressive states, it is not the basic food but the storytelling that restores the vital thread that nourishes the affection between mother and child. Saoirse's fascination with her mother's storytelling invites the reader to explore the circulation of affective energies between mother and child, an energy that is materialised in the merging of bodies-as was also the case with Daisy above. This is what Ahern calls the "affective assemblages", which qualify the way fictional characters interact: "no embodied being is independent but rather is 'affected by' and affects other bodies". <ref type="bibr">47</ref> For Saoirse, this storytelling is the thread that weaves the fabric: "She crams me tighter like she wants to press me right inside her", 48 she explains, when lying in bed beside her mother. It is the indissoluble bond that brings mother and child together, the <ref type="bibr">43 Herman,</ref><ref type="bibr">Trauma and Recovery,</ref><ref type="bibr">51,</ref><ref type="bibr">Trauma and Recovery,</ref><ref type="bibr">7. 44</ref> Caldwell, Where They Were Missed, 56. <ref type="bibr">45</ref> Ahern, "Introduction," 1. <ref type="bibr">46</ref> Ibid., 1. 47 Ibid., 3-4. <ref type="bibr">48</ref> Caldwell, Where They Were Missed, 60.</p><p>intimate pleasure that builds a whole and lasting body, a site of certainties and fantasy where silence, secret and concealment find no place. In this sense, storytelling is the symbolic space dissociated from the brutal experience of the real that connects directly to a magic world necessary to provide meaning. It is also the bodily experience that speaks to the girl through the comfort her intimate physical closeness to her mother produces, in an emotional communion that suspends reality. However, at the same time that glimpses of bodily intimacy like that alleviate the intense feeling of fear experienced by the child narrating the story, the precariousness of their lives also finds its utmost expression in the scarcity of food, which runs parallel to the absence of a mother incapable of taking care of herself or others. There is a kind of cruel obscenity in the display of these helpless children looking for nourishment. Permeating every pore of the family's skin, the violence without turns into violence within, shattering the lives of mother and children alike. While Cathy Caruth observes how "one's own trauma is tied up with the trauma of another", 49 Caldwell's novel illustrates the shift from trauma to affect, in showing how the inarticulate suffering, fear, and anger experienced by these characters flow from one body to another. In the novel, Caldwell represents this flow from the injured body of the father to the sick, narcotised and paralysed body of the mother and, in turn, to the fragile and precarious bodies of their little hungry daughters.</p><p>The tragedy of Daisy's accidental early death in the driveway outside the home, when playing with a ball, shatters the extremely fragile union of the family completely. Cars had been passing by their home road as the main road had been blocked with barricades. Daisy's death triggers the separation of the parents and Saoirse's incapacity to understand the new reality. At first, Daisy immediately occupies a place in this fantastic universe of storytelling shared by Saoirse and Daisy, thus, celebrating the affective communion between sisters: "Nobody knows that Daisy's just sleeping an enchanted sleep". 50 However, this affective assemblage is torn to pieces by unspeakable pain, and the affective energy needed for healing the wounds produced in the family is hindered by a powerful feeling of guilt, shame and fear.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Affective Energy</head><p>In the second part of the novel, which takes place years later in the Republic of Ireland, forgetting and remembering are necessary processes in the lives of these two characters, mother and daughter, who are affected by guilt and shame. Daisy's tragic death caused a definitive rupture in a family that was already deeply wounded. Once her parents divorced, Soairse was sent to live with some relatives in the South, where she never again heard of her mother and only occasionally received her father's visits.</p><p>Following a pattern common to all traumatic experiences, Saoirse undergoes a process of healing, recovery and reconciliation that imposes its own rules of forgetting, remembering, restoring and healing. While trauma studies focus primarily on the relevance of collective and individual remembrance and oblivion, on the process of understanding and coming to terms with the past, an approach from the theory of affect moves <ref type="bibr">49</ref> Caruth, "Trauma and Experience," 8. <ref type="bibr">50</ref> Ibid., 100.</p><p>beyond the conscious cognitive experience to delve into what Shouse terms as "a nonconscious experience of intensity". 51 "I don't like it when I remember things," 52 Saoirse grumbles when faced with the traumatic memories of her childhood. Yet memory is not a faculty subject to reason nor fully controlled by the individual; it often precedes rational processes. While according to Caruth "forgetting is a necessary part of understanding", 53 in the novel, Saoirse does not want to understand, as her memories plunge her into an emotional whirlwind that she resists and yet she must address at once. The shift towards awareness provokes in Saoirse a dramatic break with the bodily experience of her childhood, with the affective communion with her dead sister. It proves the evolution from the highly emotional, dissociated and indistinctive assemblage of affects and intersubjectivities in her childhood, to the construction of a more consistent self-identity. While, in the first part of the novel, the reader gets to know an unstable narrative presented through the eyes and the sensations of a child that feels but cannot think, the second part of this narrative is completed by the voice of a grown-up girl who connects the dots in order to fill the gaps of the fragmented and unreliable narrative of the child. In this process, Saoirse recognises a deep feeling of guilt that had remained dormant for years:</p><p>It was my fault, you see. Why Daisy died; and then, why Mammy left. I've carried it inside of me always, that knowledge, like a smooth cold pebble in my chest that makes me not able to breathe properly; and now, added to it, is the discovery that it was because of me, too, because she was pregnant with me, that Mammy left her family and home in the first place. Why mammy left; why Daisy died; why Mammy left, again. All of it, all of it: it was all me. <ref type="bibr">54</ref> This revelation leads her to search for her mother in order to find answers, and here begins a process of awareness that digs into the past in order to understand the present: secrets are revealed, and concealment cleared up. In this process, Saoirse uses the infrequent and awkward meetings with her dad to find out about the family past at a time in which the past seems to be forgotten. When she hears her dad talk about her mum and family, she exclaims: "hearing him talking about him and Mammy makes me feel funny and kind of empty". 55 She wants her father to retell the story of the family: how they met, the problems with being Protestant and Catholic, how the respective families reacted to their marriage and why they moved to Belfast. Her father still keeps information about Saoirse's mother hidden, and prefers to act as if that past was buried and forgotten. Besides, he repeats his standing invitation for her daughter to travel north and stay with him and his new wife, Pauline. But Saoirse needs to know the whole truth to start recomposing herself. It is in one of these meetings with her dad that she finds out her mother is not dead and that her father and new wife are having a baby girl, Saoirse's sister to be. Saoirse is told that her mother is in a mental institution not far from where she lives now with her aunt and uncle. After ten years since the breakup of the family and leaving Belfast, she needs to find out the reality of the cause of her trauma in order to understand her reality. <ref type="bibr">51</ref> Shouse, "Feeling, Emotion, Affect," 2. <ref type="bibr">52</ref> Caldwell, Where They Were Missed, 121. <ref type="bibr">53</ref> Caruth, "Trauma and Experience," 32. <ref type="bibr">54</ref> Caldwell, Where They Were Missed, 239. <ref type="bibr">55</ref> Ibid., 140-1.</p><p>The encounter with Deirdre, her mother, makes Saoirse face insanity as one more collateral damage of trauma, the expression of an emotional breakdown caused by guilt and shame. Deirdre's trauma of surviving the tragic death of Daisy responds to a pattern of guilt and shame that is also clearly typified in trauma studies. <ref type="bibr">56</ref> Beneath this tragic death, there lies the devastating effects of "the Troubles", creating what Sherratt-Bado believes is a "stifling sectarian atmosphere" that penetrates the household and destroys the family. 57 Deirdre's refusal to remember allows her to cope with shame, the precariousness of her present life and her silence, placing her in what Dori Laub refers to as "a fated exile, yet also a home, a destination". 58 Unlike her mother, Saoirse's overwhelming sense of guilt can only be relieved by digging into her past as she needs to know: "How am I supposed to do anything when I don't know any of it?," 59 she wonders.</p><p>The powerful affective energy that circulates in the encounter between mother and daughter uncovers the profound wounds that are still apparent, as this dialogue between them shows:</p><p>-… I'm sorry for what have happened, I should have been with Daisy … There's so much, and I haven't said any of it.</p><p>-There's so much, I go. There's so much to say. To talk about.</p><p>-No, she hisses. No, there's not. There's nothing to say … The past is past, I tell you, and talking about it doesn't help. You have to lay it to rest. Turn your life to it and leave it behind.</p><p>-You can't leave your life behind … it's like a shadow. It trails behind you like a shadow … -Saoirse, you've your life ahead of you. You can leave. I can't: I'm stuck here.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>…</head><p>-Saoirse, you don't get it, do you? You don't get it. I can't bear -I can't be with you … I can't be around you, seeing you every day, because when I see you, I can't forget. <ref type="bibr">60</ref> Reconciliation is only possible when underlying affects like guilt and shame emerge between mother and daughter. Sara Ahmed refers to shame as "crucial to the process of reconciliation or the healing of past wounds". <ref type="bibr">61</ref> In this sense, this meeting works as Saoirse's final attempt to reconcile with her past and restore an affective bonding not only with her mother, but also with her missing/absent father and the memory of her dead sister. When Saoirse meets her mother in the nursing home she undergoes a process of re-evaluating her affects and faces a re-consideration of emotions, memory and affect. This constitutes what Dawson names the "reparative remembering" which acts as "a means of undoing "defensive" modes of subjective composure of the self". 62 Now as an adult, Saoirse emerges as a new individual who has been able to cope with a conflictive and traumatic past that hindered her true personal realisation. Establishing a connection with the English translation of "Saoirse" as "freedom", Magennis observes how Saoirse's self-resolution "achieves a measure of liberation when she refuses the stories told by and about her family and instead sets about creating a new, integrated version of her identity which is grounded in her complex past but oriented towards a new horizon". <ref type="bibr">63</ref> In contrast to this process, Deirdre's inability to restore proper affective bonds with her daughter materialises in her own centripetal corporeality, "her arms … wrapped tightly around herself, her hands clutching her shoulders", 64 and traps her in a kind of solipsistic turn, in an emotional paralysis that dwells within the profound wounds left by the conflict.</p><p>By bringing into the intimate lives of these characters and their bodies the tensions of political violence, Caldwell not only acknowledges the lasting and pervasive effects of "the Troubles" beyond the collective trauma of public life. She also challenges the boundaries between the private and the public, and renders affective energy as central in coping with the traumatic effects of violence. The final part of the novel witnesses a meeting with Saoirse and her father together with her uncle and aunt. It is then that the whole story is unveiled and Saoirse starts to understand. Eventually, Saoirse decides to travel up north to visit her father's new family. Saoirse's trip to Belfast prepares her for restoring her own self. Unlike her father, who chooses to somehow forget the traumatic past of his family and starts anew, Saoirse's trip constitutes an opportunity to recompose, understand and remember even if she admits her own perplexity when she states: "I don't know how to think of Daisy anymore". 65 She drives past spaces and landscapes that were familiar and traumatic and experiences them with a new perspective now that her new baby sister, Amy-Rose, is "going to have everything" 66 herself, her mother and Daisy did not have.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Concluding Remarks</head><p>This article has shown how Northern Irish author Lucy Caldwell's representation of the turn from female trauma to affect in her debut novel Where They Were Missed (2006)  revisits the conflict "the Troubles" from multifaceted perspectives, especially through the depiction of the trauma and affect spaces of the domestic, the family and the individual. While a trauma approach to this novel has been mostly concerned with how the past conflict can paralyse the lives in the present, an approach from affects has allowed a full understanding of those lives narrated in the present, not as an act of memory but as an affirmation of the power of emotions in the construction of subjectivity. The analysis has shown that moving beyond trauma opens new angles from which the conflict can be explored in its full complexity of affects and subjectivities that were otherwise hardly given a voice.</p><p>Caldwell's narrative enables the possibility of witnessing the past, at the same time that it offers the potential for healing and restoration. In so doing, her novel proposes to deal with a past and memory in post-conflict Northern Ireland more openly and addresses the concept of memory from a twofold perspective. On the one hand, Caldwell's narrative approaches how Saoirse and her family deal with a recent past <ref type="bibr">63</ref> Magennis, "Sex and violence," 346. <ref type="bibr">64</ref> Caldwell, Where They Were <ref type="bibr">Missed,</ref><ref type="bibr">264. 65 Ibid.,</ref><ref type="bibr">306. 66 Ibid.,</ref><ref type="bibr">318.</ref> mediated by violence and conflict. On the other, the time perspective of the publication of the novel in 2006 represents memory differently. As Caldwell herself believes, revisiting "the Troubles" requires a time perspective that allows for new insights. She claims that it takes maybe years, maybe decades for something like that to alchemise enough to be stuff of fiction or for the writer to be able to write things like that. I think there's still so many more stories about the Troubles that need to be told. <ref type="bibr" target="#b7">67</ref> Far from avoiding the political implications of this narrative, the affective turn highlights the affective energy that runs through the veins and heart of the conflict-"the Troubles"-and how it is internalised in the precarious lives of the characters in Caldwell's novel. Ultimately, Caldwell's Where They Were Missed proves the importance of the representation of affect in the intricate connection between the personal and the political in recent Northern Irish literature.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Disclosure Statement</head><p>No potential conflict of interest was reported by the author(s).</p></div>			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="22" xml:id="foot_0"><p>Magennis, Northern Irish Writing, 2.   </p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="23" xml:id="foot_1"><p>Ahern, "Introduction," 10.   </p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="24" xml:id="foot_2"><p> "'All over Belfast', </p></note>
+		</body>
+		<back>
+
+			<div type="funding">
+<div><head>Funding</head><p>This research is supported by the <rs type="funder">Spanish Ministry of Science and Innovation</rs> for the project "<rs type="projectName">INTRUTHS 2: Articulations of Individual and Communal Vulnerabilities in Contemporary Irish Writing</rs>" (<rs type="grantNumber">PID2020-114776GB-I00</rs>), funded by <rs type="grantNumber">MCIN/AEI /10.13039/501100011033/</rs>.</p></div>
+<div><head>ORCID</head><p><rs type="person">Asier Altuna-García de Salazar</rs> http://orcid.org/<rs type="grantNumber">0000-0002-0916-9078</rs> <rs type="person">María J. Pando-Canteli</rs> http://orcid.org/<rs type="grantNumber">0000-0003-1272-2791</rs></p></div>
+			</div>
+			<listOrg type="funding">
+				<org type="funded-project" xml:id="_qJZsQE4">
+					<idno type="grant-number">PID2020-114776GB-I00</idno>
+					<orgName type="project" subtype="full">INTRUTHS 2: Articulations of Individual and Communal Vulnerabilities in Contemporary Irish Writing</orgName>
+				</org>
+				<org type="funding" xml:id="_JywyF9D">
+					<idno type="grant-number">MCIN/AEI /10.13039/501100011033/</idno>
+				</org>
+				<org type="funding" xml:id="_VJ2bmNj">
+					<idno type="grant-number">0000-0002-0916-9078</idno>
+				</org>
+				<org type="funding" xml:id="_TKk4Phh">
+					<idno type="grant-number">0000-0003-1272-2791</idno>
+				</org>
+			</listOrg>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<analytic>
+		<title level="a" type="main">Introduction: A Feel for the Text</title>
+		<author>
+			<persName><forename type="first">Stephen</forename><surname>Ahern</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Affect Theory and Literary Critical Practice. A Feel for the Text</title>
+		<editor>
+			<persName><forename type="first">Stephen</forename><surname>Ahern</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Cham</addrLine></address></meeting>
+		<imprint>
+			<publisher>Palgrave Macmillan</publisher>
+			<date type="published" when="2019">2019</date>
+			<biblScope unit="page" from="1" to="21" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<monogr>
+		<title level="m" type="main">The Cultural Politics of Emotion</title>
+		<author>
+			<persName><forename type="first">Sara</forename><surname>Ahmed</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2004">2004. 2006</date>
+			<publisher>Edinburgh University Press</publisher>
+			<pubPlace>Edinburgh; Caldwell, Lucy; Anstey: Thorpe</pubPlace>
+		</imprint>
+	</monogr>
+	<note>Where They Were Missed</note>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title level="a" type="main">Trauma and Experience: Introduction</title>
+		<author>
+			<persName><forename type="first">Cathy</forename><surname>Caruth</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Trauma: Explorations in Memory</title>
+		<editor>
+			<persName><forename type="first">Cathy</forename><surname>Caruth</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Baltimore</addrLine></address></meeting>
+		<imprint>
+			<publisher>Johns Hopkins University Press</publisher>
+			<date type="published" when="1995">1995</date>
+			<biblScope unit="page" from="3" to="12" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title level="a" type="main">The Three Rs: Resistance, Resilience, and Reconciliation in Canada and Ireland</title>
+		<author>
+			<persName><forename type="first">Mary</forename><surname>Clarke</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Sean</forename><surname>Anne</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Byrne</surname></persName>
+		</author>
+		<ptr target="http://www.jstor.org/stable/44779909" />
+	</analytic>
+	<monogr>
+		<title level="j">The Canadian Journal of Peace and Conflict Studies</title>
+		<imprint>
+			<biblScope unit="volume">49</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="105" to="132" />
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title level="a" type="main">Preface</title>
+		<author>
+			<persName><forename type="first">Linda</forename><surname>Connolly</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Trauma and Identity in Contemporary Irish Culture</title>
+		<editor>
+			<persName><forename type="first">Melania</forename><surname>Terrazas-Gallego</surname></persName>
+		</editor>
+		<editor>
+			<persName><surname>Xi-Xiv</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Oxford</addrLine></address></meeting>
+		<imprint>
+			<publisher>Peter Lang</publisher>
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<monogr>
+		<author>
+			<persName><forename type="first">Kathleen</forename><surname>Costello-Sullivan</surname></persName>
+		</author>
+		<title level="m">Trauma and Recovery in the Twenty-First Century Irish Novel</title>
+		<meeting><address><addrLine>Syracuse</addrLine></address></meeting>
+		<imprint>
+			<publisher>Syracuse University Press</publisher>
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<monogr>
+		<title level="m" type="main">Making Peace with the Past. Memory, Trauma and the Irish Troubles</title>
+		<author>
+			<persName><forename type="first">Graham</forename><surname>Dawson</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2007">2007</date>
+			<publisher>Manchester University Press</publisher>
+			<pubPlace>Manchester</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<monogr>
+		<title level="m" type="main">Writer Lucy Caldwell</title>
+		<author>
+			<persName><surname>Toner</surname></persName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title level="a" type="main">The Meaning of &apos;Moving on&apos;: From Trauma to the History and Memory of Emotions in &apos;Post-Conflict&apos; Northern Ireland</title>
+		<idno type="DOI">10.3366/iur.2017.0258</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Irish University Review</title>
+		<imprint>
+			<biblScope unit="volume">47</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="82" to="102" />
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title level="a" type="main">Trauma Studies and the Contemporary Irish Novel</title>
+		<author>
+			<persName><forename type="first">Del</forename><surname>Río</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Constanza</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">In the Wake of the Tiger: Irish Studies in the Twentieth-First Century</title>
+		<editor>
+			<persName><forename type="first">David</forename><surname>Clark</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">Rubén</forename><surname>Jarazo</surname></persName>
+		</editor>
+		<meeting><address><addrLine>A Coruña</addrLine></address></meeting>
+		<imprint>
+			<publisher>Netbiblo</publisher>
+			<date type="published" when="2010">2010</date>
+			<biblScope unit="page" from="3" to="15" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title level="a" type="main">Post-Traumatic Realism: Representations of History in Recent Irish Novels</title>
+		<author>
+			<persName><forename type="first">Leszek</forename><surname>Drong</surname></persName>
+		</author>
+		<idno type="DOI">10.11649/ch2013.011</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Colloquia Humanistica</title>
+		<imprint>
+			<biblScope unit="volume">2</biblScope>
+			<biblScope unit="page" from="19" to="35" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<monogr>
+		<author>
+			<persName><forename type="first">Oona</forename><surname>Frawley</surname></persName>
+		</author>
+		<title level="m">The Famine and the Troubles. 3</title>
+		<meeting><address><addrLine>Syracuse</addrLine></address></meeting>
+		<imprint>
+			<publisher>Syracuse University Press</publisher>
+			<date type="published" when="2014">2014</date>
+			<biblScope unit="volume">3</biblScope>
+		</imprint>
+	</monogr>
+	<note>rd ed</note>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<title level="a" type="main">Girlhood, Desire, Memory and Northern Ireland in Lucy Caldwell&apos;s Short Fiction</title>
+		<author>
+			<persName><forename type="first">Alison</forename><surname>Garden</surname></persName>
+		</author>
+		<idno type="DOI">10.1093/cww/vpy024</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Contemporary Women&apos;s Writing</title>
+		<imprint>
+			<biblScope unit="volume">12</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="306" to="321" />
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<title level="a" type="main">Gendering the &apos;Post-Conflict&apos; Narrative in Northern Ireland&apos;s Peace Process</title>
+		<author>
+			<persName><forename type="first">Niall</forename><surname>Gilmartin</surname></persName>
+		</author>
+		<idno type="DOI">10.1177/0309816818818089</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Capital &amp; Class</title>
+		<imprint>
+			<biblScope unit="volume">43</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="89" to="104" />
+			<date type="published" when="2019">2019</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<title level="a" type="main">Articulating Trauma</title>
+		<author>
+			<persName><forename type="first">Anne</forename><surname>Goarzin</surname></persName>
+		</author>
+		<idno type="DOI">10.4000/etudesirlandaises.2116</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Études Irlandaises</title>
+		<imprint>
+			<biblScope unit="volume">36</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="1" to="11" />
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<monogr>
+		<title level="m" type="main">Post-Agreement Northern Irish Literature</title>
+		<author>
+			<persName><forename type="first">Birte</forename><surname>Heidemann</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2016">2016</date>
+			<publisher>Palgrave Macmillan</publisher>
+			<pubPlace>Cham</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<monogr>
+		<author>
+			<persName><forename type="first">Judith</forename><surname>Herman</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Lewis</surname></persName>
+		</author>
+		<title level="m">Trauma and Recovery: The Aftermath of Violence-from Domestic Abuse to Political Terror</title>
+		<meeting><address><addrLine>New York</addrLine></address></meeting>
+		<imprint>
+			<publisher>Basic Books</publisher>
+			<date type="published" when="1992">1992</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<analytic>
+		<title level="a" type="main">Bearing Witness or the Vicissitudes of Listening</title>
+		<author>
+			<persName><forename type="first">Dori</forename><surname>Laub</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Testimony: Crisis of Witnessing in Literature, Psychoanalysis, and History</title>
+		<editor>
+			<persName><forename type="first">Shoshana</forename><surname>Felman</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">Dori</forename><surname>Laub</surname></persName>
+		</editor>
+		<meeting><address><addrLine>New York</addrLine></address></meeting>
+		<imprint>
+			<publisher>Routledge</publisher>
+			<date type="published" when="1992">1992</date>
+			<biblScope unit="page" from="57" to="74" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<analytic>
+		<title level="a" type="main">The Irreversible &amp; the Irrevocable: Encircling Trauma in Contemporary Northern Irish Literature</title>
+		<author>
+			<persName><forename type="first">Stephany</forename><surname>Lehner</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">The Famine and the Troubles</title>
+		<editor>
+			<persName><forename type="first">Oona</forename><surname>Frawley</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Syracuse</addrLine></address></meeting>
+		<imprint>
+			<publisher>Syracuse University Press</publisher>
+			<date type="published" when="2014">2014</date>
+			<biblScope unit="volume">3</biblScope>
+			<biblScope unit="page" from="272" to="292" />
+		</imprint>
+	</monogr>
+	<note>rd ed.</note>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<analytic>
+		<title level="a" type="main">The Ascent of Affect</title>
+		<author>
+			<persName><forename type="first">Ruth</forename><surname>Leys</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Genealogy and Critique</title>
+		<imprint>
+			<date type="published" when="2017">2017</date>
+			<publisher>The University of Chicago Press</publisher>
+			<pubPlace>Chicago</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<analytic>
+		<title level="a" type="main">The Politics of Memory in Post-Conflict Northern Ireland</title>
+		<author>
+			<persName><forename type="first">Patricia</forename><surname>Lundy</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Mark</forename><surname>Mcgovern</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/10402650120038116</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Peace Review</title>
+		<imprint>
+			<biblScope unit="volume">13</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="27" to="33" />
+			<date type="published" when="2001">2001</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<analytic>
+		<title level="a" type="main">Multitudes: A Post-Troubles, Cliché-Free, Intimate Portrayal of Northern Ireland</title>
+		<author>
+			<persName><forename type="first">Caroline</forename><surname>Magennis</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">The Irish Times</title>
+		<imprint>
+			<date type="published" when="2016-09-23">September 23, 2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<analytic>
+		<title level="a" type="main">Sex and Violence in Northern Irish Women&apos;s Fiction</title>
+	</analytic>
+	<monogr>
+		<title level="m">The Oxford Handbook of Irish Fiction</title>
+		<editor>
+			<persName><forename type="first">Liam</forename><surname>Harte</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Oxford</addrLine></address></meeting>
+		<imprint>
+			<publisher>Oxford University Press</publisher>
+			<date type="published" when="2020">2020</date>
+			<biblScope unit="page" from="335" to="350" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<monogr>
+		<title level="m">Northern Irish Writing After the Troubles: Intimacies, Affects, Pleasures</title>
+		<meeting><address><addrLine>London</addrLine></address></meeting>
+		<imprint>
+			<publisher>Bloomsbury Academic</publisher>
+			<date type="published" when="2021">2021</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<analytic>
+		<title level="a" type="main">The Autonomy of Affect</title>
+		<author>
+			<persName><forename type="first">Brian</forename><surname>Massumi</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Cultural Critique</title>
+		<imprint>
+			<biblScope unit="volume">31</biblScope>
+			<biblScope unit="page" from="83" to="109" />
+			<date type="published" when="1995">1995</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<monogr>
+		<title level="m">Politics of Affect</title>
+		<meeting><address><addrLine>Cambridge</addrLine></address></meeting>
+		<imprint>
+			<publisher>Polity Press</publisher>
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<analytic>
+		<title level="a" type="main">Dealing with the Past in Northern Ireland: Putting Gender on the Agenda</title>
+		<author>
+			<persName><forename type="first">Catherine</forename><surname>O'rourke</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Knowledge Exchange Seminar Series (KESS</title>
+		<imprint>
+			<biblScope unit="page" from="2014" to="2015" />
+			<publisher>Northern Ireland Assembly</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b27">
+	<analytic>
+		<title level="a" type="main">An Inventory of Shimmers</title>
+		<author>
+			<persName><forename type="first">Gregory</forename><forename type="middle">J</forename><surname>Seigworth</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Melissa</forename><surname>Gregg</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">The Affect Theory Reader</title>
+		<editor>
+			<persName><forename type="first">Melissa</forename><surname>Gregg</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">Gregory</forename><forename type="middle">J</forename><surname>Seigworth</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Durham</addrLine></address></meeting>
+		<imprint>
+			<publisher>Duke University Press</publisher>
+			<date type="published" when="2010">2010</date>
+			<biblScope unit="page" from="1" to="25" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b28">
+	<analytic>
+		<title level="a" type="main">All Over Belfast&apos;: History, Loss, and Potential in Lucy Caldwell&apos;s Where They Were Missed</title>
+		<author>
+			<persName><forename type="first">Dawn</forename><surname>Sherratt-Bado</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Miranda</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Representations of Loss in Irish Literature</title>
+		<editor>
+			<persName><forename type="first">Deirdre</forename><surname>Flynn</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">Eugene O'</forename><surname>Brien</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Cham</addrLine></address></meeting>
+		<imprint>
+			<publisher>Palgrave Macmillan</publisher>
+			<date type="published" when="2018">2018</date>
+			<biblScope unit="page" from="75" to="93" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b29">
+	<analytic>
+		<title level="a" type="main">Feeling, Emotion, Affect</title>
+		<author>
+			<persName><forename type="first">Eric</forename><surname>Shouse</surname></persName>
+		</author>
+		<idno type="DOI">10.5204/mcj.2443</idno>
+	</analytic>
+	<monogr>
+		<title level="m">Terrazas-Gallego, Melania, ed. Trauma and Identity in Contemporary Irish Culture</title>
+		<meeting><address><addrLine>Oxford</addrLine></address></meeting>
+		<imprint>
+			<publisher>Peter Lang</publisher>
+			<date type="published" when="2005">2005. 2020</date>
+			<biblScope unit="volume">8</biblScope>
+			<biblScope unit="page" from="2" to="3" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b30">
+	<analytic>
+		<title level="a" type="main">Writer Lucy Caldwell: &apos;There Is Still So Many More Stories About the Troubles that Need to be Told&apos;</title>
+		<author>
+			<persName><forename type="first">Aine</forename><surname>Toner</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Belfast Telegraph</title>
+		<imprint>
+			<date type="published" when="2021-11-20">November 20, 2021</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

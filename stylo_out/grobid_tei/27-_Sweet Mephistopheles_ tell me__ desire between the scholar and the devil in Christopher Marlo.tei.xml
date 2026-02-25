@@ -1,0 +1,1074 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">&apos;Sweet Mephistopheles, tell me&apos;: desire between the scholar and the devil in Christopher Marlowe&apos;s Doctor Faustus</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author role="corresp">
+							<persName><forename type="first">Yuri</forename><surname>Suzuki</surname></persName>
+							<email>suzuki.y.11a4@m.isct.ac.jp</email>
+							<affiliation key="aff0">
+								<orgName type="department" key="dep1">School of Environment and Society</orgName>
+								<orgName type="department" key="dep2">Institute of Science Tokyo</orgName>
+								<address>
+									<settlement>Tokyo</settlement>
+									<country key="JP">Japan</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">&apos;Sweet Mephistopheles, tell me&apos;: desire between the scholar and the devil in Christopher Marlowe&apos;s Doctor Faustus</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date/>
+						</imprint>
+					</monogr>
+					<idno type="MD5">2152FDBA17222E81242744AF03084E03</idno>
+					<idno type="DOI">10.1080/0950236X.2025.2551326</idno>
+					<note type="submission">Received 9 April 2024; Accepted 17 June 2025</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.0" ident="GROBID" when="2026-02-25T19:55+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term>Christopher Marlowe</term>
+					<term>Doctor Faustus</term>
+					<term>queer studies</term>
+					<term>renaissance drama</term>
+					<term>bibliophilia</term>
+				</keywords>
+			</textClass>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>Christopher Marlowe's life and works have attracted the attention of modern scholars studying Queer Renaissance. While Edward II has often been analysed in queer studies, Doctor Faustus is also a significant example of the convergence of such facets as friendship, homosociality, and sodomy in Elizabethan plays. This essay focuses on the intimate relationship between two male characters in Marlowe's Doctor Faustus. The play's protagonist, Dr. Faustus, summons the devil, Mephistopheles, to fulfil his ambition of understanding the structure of the world and becoming a renowned magician/scholar. Faustus's desire for scholarly and transgressive knowledge, rooted in his bibliophilia and ambition, shapes his deviant yet sweet relationship with Mephistopheles. The word 'sweet' used between two male characters in early modern texts could indicate the possibility of homoerotic desire between the two. Yet, Marlowe has expanded the queer possibility of the word 'sweet' by placing it adjacent to other phrases, such as 'villain' and 'tell me', which provoke scholarly discussions and book sharing, intensifying the ambitious scholar's physical and intellectual closeness with the devil in the study. This essay also explores how his study, the most private, privileged, and homosocial space that a male scholar could have, functions as a device to tighten the intimacy between the two.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="1.">Introduction</head><p>It has been documented that Christopher Marlowe impetuously expressed that 'St John the Evangelist was bedfellow to Christe, that he leaned alwayes in his bosum, that he used him as the synners of Sodoma' and 'all temporal and ecclesiastical lords in the play if Mephistopheles, the aberrant devil, were dragged and exposed to the public.</p><p>Nonetheless, as Mephistopheles makes himself invisible, or at least nondiabolic, almost all the time, no character could easily label their relationship as sodomical, especially when the two are hidden in Faustus's study, in which they read the necromantic books together so that Faustus's desire of acquiring the transcending knowledge can be at least partially satisfied. In his discussion on humanism and sodomy in the early modern period, Alan Stewart points out that '[p]rivate reading together is integral to the friendship' and 'a deviation from the commitment to private reading together comes to signal an absence of true friendship'. <ref type="bibr" target="#b11">12</ref> Besides reading together, a hint of friendship between Faustus and Mephistopheles is ubiquitous in their speeches. Their use of the word 'love', for example, indicates some intimate relationship between the two. One instance is when Mephistopheles voices 'If thou lovest me, think no more of' (II. i. 155) marriage after Faustus asks him to fetch a wife, a desire that is disdained and soon replaced with the necromantic book by Mephistopheles. <ref type="bibr" target="#b12">13</ref> How the term 'lovest' adjoins the rejection of marriage is one of Marlowe's remarkable alternations from the play's primary source, The Historie of the Damnable Life, and Deserued Death of Doctor Iohn Faustus (hereinafter Historie). <ref type="bibr" target="#b13">14</ref> In Historie, Mephistopheles forbids Faustus from getting married because he has already sworn to act against God, to whom the whole idea of marriage belongs.</p><p>Hast not thou (quoth Mephostophiles) sworn thyself an enemy to God and all creatures? To this I answer thee, thou canst not marry; thou canst not serve two masters, God, and my Prince: for wedlock is a chief institution ordained of God, and that hast thou promised to defy, as we do all, and that hast thou also done: <ref type="bibr" target="#b14">15</ref> Historie's Mephistopheles denies marriage, citing the conflict between God-Heaven-Angels and Lucifer-Hell-Devils. Essentially, this devil is so faithful to his prince, Lucifer, that he faces marriage in an abominable yet respectful (to Lucifer) manner.</p><p>Meanwhile, Marlowe's Mephistopheles displays indifference toward the destruction of God's world and does not even value his prince. Rather, he seems to seek a connection with the newly met man somewhat at a personal and emotional level; he does not say 'if thou lovest hell' nor 'us', but singular 'me'. This singular form of love toward a man may be related to the common values that educated men in Early Modern England appreciated when articulating the ideal friendship between two men. Hunt refers to Renaissance humanists who were influenced by classical philosophers such as Aristotle and Cicero, and summarises that 'ideal friendship was a love of two men for one another found rarely, usually only once in a lifetime' for those authors. <ref type="bibr">16</ref> However, one can accuse Faustus and Mephistopheles of deviating from true friendship in the early modern term since 'no friends are true friends unless you, my God, bind them fast to one another through that love which is sown in our hearts by the Holy Ghost, who is given to us' <ref type="bibr" target="#b15">17</ref> and Mephistopheles is inevitably a devil. Hidden in the ostensible friendship of love and reading together, Faustus secretly relishes the fear and pleasure of falling into sodomy; he often oscillates between wishing to repent and enjoying black magic, between fearing hell and rejecting salvation. Sodomy in this context connotes inappropriate closeness, both physically and intellectually, with the heretic other, and only Faustus fully understands that he has placed himself in danger of sodomy. Paradoxically, it is this danger of sodomy that is inextricably connected with the academic knowledge pursued by Faustus, intensifying their exclusive, homosocial bond because Faustus believes that the desired knowledge can be obtained only from Mephistopheles.</p><p>This paper attempts to analyse the queer desire exchanged between Faustus and Mephistopheles. As Goran Stanivukovic introduces that the term queer 'has captured the representation and the discourse of desire and sex that are historically determined in opposition to social regulation' and can 'capture the strangeness of the past to imagine desire, sexuality and the body' <ref type="bibr" target="#b16">18</ref> , this essay will demonstrate how the desire between a scholar and a devil is imagined and represented to intensify male-male intimacy that can be simultaneously sodomical and homoerotic under the ostensible homosocial friendship. In doing so, following Mario DiGangi's insight that queering the Renaissance 'requires us to discover how queerness could subtly, unpredictably, fluctuate into and out of visibility from the very practices and pressures of everyday life', <ref type="bibr" target="#b17">19</ref> I will try to 'queer' not only specific words and rhetoric but also materials such as necromantic books and the scholar's study, physical acts of book sharing and scholarly discussions, and formations of desire for the cosmos and the knowledge of it that any aspiring scholar could have. In other words, this paper focuses on the materiality of books that would both satisfy Faustus's bibliophilic hunger and strengthen the physical and intellectual intimacy between him and Mephistopheles, and further analyses how Faustus's private study functions to intensify and enclose their 'queer' desire.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.">When he voices 'Sweet Mephistopheles' and when they share books</head><p>Throughout the play, Faustus directly calls Mephistopheles by his name or its alternatives thirty-four times. He simply addresses him with his name twenty-three times. The other eleven include four 'sweet Mephistopheles', along with 'great Mephistopheles', 'my good Mephistopheles', 'sweet friend', and 'good servant' once respectively. Faustus also calls him 'wicked Mephistopheles', 'villain', and 'accursèd spirit'. Previous research has pointed out the possibility of homoerotic desire in the word 'sweet'. Jeffrey Masten demonstrates how the word 'sweet' used by male characters addressing other male characters connotes not only 'close' and 'tender' but also 'homoerotic' and 'sodomical' in early modern documents, including Edward II. <ref type="bibr" target="#b18">20</ref> Hunt states that '[t]his context is relevant for assessing Faustus's friendship with Mephistopheles' and that 'a contemporary playgoer or reader could detect a homoerotic overtone' in Faustus's 'sweet friend' combined with his 'for love of thee' (II. i. 53). <ref type="bibr" target="#b19">21</ref> Agreeing that 'sweet' can function as bonding glue, we also need to focus on the process of their complicated bonding: the united flux of how Faustus becomes a learnèd magician and how he shows love and hatred toward Mephistopheles. <ref type="bibr" target="#b20">22</ref> I will argue in the following that Faustus's utterance of 'sweet' is one aspect of their gradual bonding, which is interwoven in and reinforces the inextricable connection between Faustus's transformation into a learnèd magician and his acquisition of knowledge from Mephistopheles through disputing and shared reading.</p><p>Faustus's complicated, obsessive, and long-term relationship with Mephistopheles originates from his obsession with acquiring scholarly and almighty knowledge. Thus, their relationship is not built solely on 'sweet' but with its association with 'tell me' and 'resolve me'. Starting with 'Tell me what is that Lucifer thy lord?' (I. iii. 64) at their first meeting and 'Stay, Mephistopheles, and tell me, what good will my / soul do thy lord?' (II. i. 38-39) at their second, the conversations between the two are filled with words that initiate discussions on scholarly topics in the early modern era, such as cosmology, botany, astrophysics or astrology, and demonology. After the third utterance of 'tell me', which is triggered by Mephistopheles's 'ask what thou wilt' (II. i. 118) to start the discussion on hell, or cosmology in Faustus's perspective, another discussion on cosmology reappears and reaches its peak when Faustus almost simultaneously refers to Mephistopheles as both 'sweet' and 'villain'. Faustus does not particularly seem to place a strong emotional emphasis on the word 'sweet'. He uses this term to convince Mephistopheles to share his secret knowledge of the world's creation, and there is no difference between 'sweet' and 'villain' in terms of the degree of strength of persuasion. For Faustus, Mephistopheles becomes a villain, or an accursèd spirit, when he is about to break his promise of sharing knowledge and becomes a sweet partner when Faustus's persuasion succeeds. Masten argues that 'the linking of persuasion and sweetness is ubiquitous in English' and 'the redoubled instrumentality of the phrase "sweet persuasion" is strongly present in the instances of male friendship'. <ref type="bibr" target="#b21">23</ref> Surely Faustus's persuasion shows its link with sweetness, but this linking between persuasion and sweetness is also, fundamentally and twistedly, concatenated to villainousness, or bitterness. Bitterness could be a fatal danger to undo the unfolding sweet relationship with Mephistopheles, yet his persuasion renders this bitterness a sort of rhetoric of dramatically daring Mephistopheles to share the hidden knowledge desired by Faustus.</p><p>The rhetoric of sweet persuasion, fraught with bitterness, affects Faustus himself, too. The discussion on cosmology above takes its point of departure in Faustus's 'curse thee, wicked Mephistopheles' (II. iii. 2). This is followed by Faustus's soliloquy, delivered in Mephistopheles's presence, in which he wrestles with his inner collision between the fear of damnation and the sweet pleasure of the ancients' poetry and music harmonising with his Mephistopheles. Throughout the speech, Faustus feverishly tames his infuriated despair by reminding himself of his experience in poetry and music. In Marlowe's time, both fields were part of university education; music was one of the quadrivium in the liberal arts, and poetry played an essential role in rhetoric and grammar. Importantly, poetry -and possibly music -helped Marlowe lay the foundation for his academic career, earning him a Parker scholarship to attend Corpus Christi College, Cambridge. The scholarship expected its recipients to have certain skills in music, be well-educated in Latin grammar, and, if possible, be able to make a verse, and Marlowe could 'certainly satisfy the last condition'. <ref type="bibr" target="#b22">24</ref> Consciously or not, Marlowe cast poetry -his 'golden gifts' (Prologue 24) that opened the door to Cambridge for a shoemaker's son in Canterbury -into a figurative power driving Faustus toward devilish delights. <ref type="bibr" target="#b23">25</ref> Overall, the accumulation of calling Mephistopheles 'sweet' and 'accusèd'</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Faust. 'Faustus</head><p>and persistently demanding 'tell me' and 'dispute' works on Faustus himself, like magic spells, to convince, or even hypnotise, him that he should always want Mephistopheles. Nonetheless, nothing seems to remain constant in Faustus's speech. Just as Faustus's fear and deep despair become a reminder that Mephistopheles's magic has also provided him with sweet pleasure, the pleasure of poetry and music changes its form as Faustus's soliloquy transforms into a scholarly dispute with Mephistopheles. In this transition, poetry and music metonymically stand for necromantic and scholarly delight, guiding Faustus to ask yet-unknown astrological questions. In her recent article on queer literary studies, T. Bradway shows how metonymy is queer because of its inherent endlessness, drawing on Roman Jakobson's emphasis on contiguity -rather than causality -as the principle that structures narrative. <ref type="bibr" target="#b24">26</ref> In Faustus's speech, his desperate hope for repentance fades into his growing desire for his Mephistopheles. Then his momentary satisfaction with the demonic delight of poetry and music, two scholarly fields with which Faustus is probably familiar, starts to signal a newer, stranger desire: cosmological knowledge. Whatever Faustus is obsessed with is always transgressive. The objects he hopes to have and the ways he wants to acquire them transcend what 'a man' (I. i. 23) could ever reach, and so does the knowledge that is yet undiscovered by men. When Mephistopheles refuses to answer who made the world because it is against his kingdom (II. iii. 71), Faustus even trespasses on the realm of Lucifer. Through her textual journey to analyse the Hegelian subject and its adaptations, revisions, and dissolution by French philosophers in the twentieth century in Subjects of Desire, Judith Butler interrogates the traditional stereotype in philosophy that discriminates between desiring the world and knowing its meaning and structure. <ref type="bibr" target="#b25">27</ref> Butler then argues that human desire articulates the subject's relationship to what is different, novel, and awaited, and that desire is satisfied when the difference is transformed into identity, the novel is assimilated, and the awaited arrives. <ref type="bibr">28</ref>  At least that is how Faustus satisfies himself. However, we never know whether he actually acquires what he desires. To his question, 'who made the world' (II. iii. 66), Mephistopheles offers no satisfying reply. His unsatisfied desire, however, is once again turned into a new possible delight when expelled Mephistopheles reenters with Lucifer, who brings the pageant of the Seven Deadly Sins, and Beelzebub. The object that Faustus desires and enjoys, as we have seen, endlessly changes its form. This scene ends with Lucifer's other gift to Faustus: a necromantic book. After receiving the book and promising to 'keep as chary as my [his] life' (II. iii. 175), pleased Faustus says 'Farewell, great Lucifer. Come, Mephistopheles' (II. iii. 177), and Faustus and Mephistopheles exit to one side of the stage, hinting to the audience that the two would further pursue the newly acquired book alone. Faustus's suspended desire is now reactivated by the necromantic book, which contains the demonic knowledge that enhances their cognitive alliance.</p><p>Elizabeth Spiller remarks that 'books often seem to be instruments of the devil, and libraries perhaps hard to distinguish from hell itself' in Doctor Faustus, concluding that Marlowe sets 'bibliophilia alongside gluttony, lust, and envy, making it the newest sin of the age of print'. <ref type="bibr" target="#b26">29</ref> The presence of books reminds us of the first summoning of Mephistopheles. Faustus blindly believes that he needs books to conjure the devil. Without 'holding a book' (I. iii. 0 SD) in his physical hand, he could not summon one. <ref type="bibr" target="#b27">30</ref> But is it so? When Faustus asks Mephistopheles why he has succeeded in conjuring him, Mephistopheles implies that no book is needed to conjure a devil. <ref type="bibr" target="#b28">31</ref> Faust. Did not my conjuring speeches raise thee? Speak. Meph. That was the cause, but yet per accidens.</p><p>For when we hear one rack the name of God, Abjure the Scriptures and his Saviour Christ, We fly in hope to get his glorious soul, […] Therefore, the shortest cut for conjuring Is stoutly to abjure the Trinity And pray devoutly to the prince of hell. (I. iii. 46-55)   While Mephistopheles almost ignores the presence of books in practising black magic, Faustus may disregard their contents. Paul Budra points out that Faustus sometimes misreads the contents of the books in his article on how Faustus lives and dies as a bibliophile. <ref type="bibr" target="#b29">32</ref> If books are not necessary to build a relationship with a devil, then why do they appear so often in the play? Budra further notes that Faustus's disregard for -and occasional failure to quote -the contents of the books is juxtaposed with his 'love of books as physical objects'. <ref type="bibr">33</ref> The very idea that the material book itself is the rudiment of practising black arts may be Faustus's fantasy after all.</p><p>No physical book may be required to conjure a devil. Nonetheless, Faustus's obsession with books, both as physical objects and as the source of almighty knowledge, stands at the heart of the inextricable connection between Faustus's becoming a learnèd magician and his inescapable entanglement with Mephistopheles. When Mephistopheles rejects the idea of giving Faustus a wife by begging 'If thou lovest me, think no more of it' (II. i. 155), he proposes another idea: a quantity of courtesans. However, he suddenly changes the subject by presenting a necromantic book with 'Hold, take this book. Peruse it thoroughly' (II. i. 162). The slight desire to have a wife completely disappears from Faustus's mind, and he is enthralled by the physical act of turning the pages of the newly acquired book.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Meph. Here they are in this book.</head><p>There turn to them. Faust. Now would I have a book where I might see all characters and planets of the heavens, that I might know their motions and dispositions. Meph. Here they are too.</p><p>Turn to them. Faust. Nay, let me have one book more -and then I have done -wherein I might see all plants, herbs, and trees that grow upon the earth. Meph. Here they be.</p><p>Turn to them.</p><p>(II. i. 172-180)</p><p>From Mephistopheles's presentation of the book to the turning of the pages together, we can see the necromantic book physically binding the two. In Close Readers, which captions the inextricable link between male friendship and sodomy in Early Modern England, Stewart argues that the humanists Roger Ascham and John Whitney may have read De amicitia together in a shared chamber for weeks and that Ascham resituated 'his reading in a space of male intimacy […] that we now recognize […] as homoerotic' so that he would not be in danger of being accused of political conspiracy. <ref type="bibr" target="#b30">34</ref> Just like the two humanists, Faustus and Mephistopheles relish the shared reading. And the act of shared reading itself foregrounds the two men's physicality and physical closeness. However, the shared reading of Faustus and Mephistopheles entails the danger of sodomy because Faustus is now too closely associated with the devil in both intellectual and physical dimensions. <ref type="bibr" target="#b31">35</ref> Here, books are evidently queer. In addition to the historical fact that books were more easily read and circulated among men than women in the early modern period, the collective books in Doctor Faustus indicate the ambiguity of sweetness and wickedness in the exercise of reading and using physical books. <ref type="bibr" target="#b32">36</ref> Masten analyses that the term sweet 'indicates the fungibility of male friends' and that this fungibility even includes 'the way in which what we have regarded as an identity trope is imagined in this culture as literally embodied'. <ref type="bibr" target="#b33">37</ref> Experiencing the intellectual discussions with Mephistopheles through the sweet persuasions that lead magic to be verbalised, Faustus begins to act as if he is Mephistopheles, imitating Mephistopheles's pedagogic image. By the beginning of Act 4, Faustus successfully acquires Mephistopheles's arcane knowledge and answers astrological questions 'with such learnèd skill' (IV. Chorus 10). But sadly, ' [d]esire is driven from one object to the next in a search for satisfaction, which is necessarily doomed to fail'. <ref type="bibr" target="#b34">38</ref> Faustus's chain of endless desires is doomed to hell in the end. He eventually tries to disconnect his bond with Mephistopheles and magic by burning his books, but the audience never witnesses such an action; after all, the scholar would be satisfied if he could continue walking and disputing with the devil in another hell. As much as the act of shared reading matters for queering Doctor Faustus, so too does the place of shared reading. If Asham and Whitney had read De amicitia in an open space, Asham would not have been concerned about the false accusation against him and his reading partner. Yet he chose a space marked by exclusive intimacy: a shared chamber. Does Doctor Faustus offer any shared chamber? It is Faustus's study, and it becomes a distinguished foundation for queering the two men's relationship because it only belongs to scholars, which is a profession of a few selected literate males, and serves -as Spiller argues -as an extension of hell itself.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.">Faustus's study</head><p>As we have witnessed, Faustus deepens his relationship with Mephistopheles in a manner only a scholar could do. It is the desire for Mephistopheles's knowledge that centres in Faustus's mind. He loves Mephistopheles when he is willing to share what he knows, and curses him when he hesitates to do so. Between the two men, knowledge is passed from one to the other through intellectual disputes and the sharing of books. This is how they grow intimacy, and there is another crucial aspect that makes their relationship exclusive: Faustus's study. Marlowe set the central place of Doctor Faustus in Faustus's study. The story starts with the Chorus pointing at 'the man that in his study sits' (Prologue 28), and Faustus's soliloquy, signing the devil's contract, and sharing the necromantic books with the devil take place inside his study. It is in the forest, not in his study, that Faustus first summons Mephistopheles, but he decides not to contract with the devil there and orders him to 'meet me in my study at midnight' (I. iii. 101). <ref type="bibr" target="#b35">39</ref> Forests are an ideal place to encounter or meet inscrutable individuals or creatures. The audience in the early modern period could easily imagine the forest as a place of danger, especially at night, with a fear of encountering uncertain living things. <ref type="bibr" target="#b36">40</ref> Even if Faustus were to meet and dispute with Mephistopheles in the forest, it would hardly be surprising. <ref type="bibr" target="#b37">41</ref> What happens to the play when Marlowe's Faustus risks letting him vanish and reinvites him to his study? In this section, I will investigate where the two characters build their relationship and why the place, the most private, arcane place a scholar could have in the play, matters.</p><p>Originating in the Latin word 'privatus', the word 'private' started to be used in England no later than the late fourteenth century. 'Private' not only meant 'restricted to or for the use or enjoyment of one particular person or group of people' but also 'set apart by distinct beliefs, religious practices, etc.', but the word was usually used in secular contexts by the sixteenth century. <ref type="bibr" target="#b38">42</ref> 'Private' in Early Modern England, as well as today, also connotes something secretly shared. In Henry VIII, for example, Cardinal Wolsey asks Queen Katherine 'to withdraw / Into your private chamber' (III. i. 27-28) so that they could talk in private. <ref type="bibr" target="#b39">43</ref> Even though Queen affirms that she has done nothing to deserve a corner (III. i. 30-31), Wolsey's attempt implies that the word 'private' is associated with a wish to share a secret with another person or party. In Doctor Faustus, the word 'private' appears once in the conversation between Robin and Rafe when the former claims that 'my master and mistress shall find that I can / read -he for his forehead, she for her private study' (II. ii. 17-18), which is related to some secret knowledge and something sensual. According to the editors, the mistress's 'private study' means what she thinks about in private or reads in her study and suggests the study of her 'private parts'. <ref type="bibr" target="#b40">44</ref> Here, the word 'private' is associated with the ideas of something erotic and something intellectual simultaneously, forecasting the sodomical and academic relationship between Faustus and Mephistopheles in the scholar's closed, private chamber. <ref type="bibr" target="#b41">45</ref> When Faustus's study is said to be a private space, it does not mean that he does not allow anyone to enter the room. Other scholars, including Valdes and Cornelius, visit his room, yet it is only Mephistopheles who stays in the scholar's study alone and directly affects his life by sharing the arcane knowledge. It should be noted that it is plausible for Faustus not to keep the newly acquired knowledge within the study but rather to share it with people outside because this is an unavoidable part of his becoming a renowned magician/scholar. Therefore he is eager to elevate the status of scholars and make people outside academia understand the importance of scholars. In the beginning, he talks to himself that 'I'll have them fill the public schools with silk, / Wherewith the students shall be bravely clad' (I. i. 92-93). When one of the knights makes fun of him by mocking him as 'Master Doctor', he pays him back and warns him to 'speak well / of scholars' (IV. i. 94-95) hereafter. Even though Faustus emphasises the fellowship of scholars from time to time, his attempts to identify with the proud school of scholars almost completely fall apart. Instead, Faustus becomes a part of Mephistopheles's world. When he asks the reason why Lucifer 'tempts us' (II. i. 41) in their second meeting, Faustus uses 'us' to underline a clear difference between us as human beings and them as creatures from hell. However, his notion of belonging gradually changes; he starts to articulate 'us' as 'me, Faustus and thee/you, Mephistopheles' after he cuts his arm 'for love of' (II. i. 53) Mephistopheles and orders him to perform 'All articles prescribed between us both' (II. i. 92). <ref type="bibr" target="#b42">46</ref> As he spends his life with Mephistopheles, repeating 'us' as 'me and you, Mephistopheles' including 'Come, Mephistopheles, let us dispute again' (II. iii. 33), 'There saw we learnèd Maro's golden tomb' (III. i. 13), and 'sweet Mephistopheles, let us make haste' (IV. i. 104), Faustus assimilates himself with Mephistopheles, rather than his fellow scholars.</p><p>Near the end of the twenty-four years of his academic/demonic life, Faustus comes to realise that sharing a private room in academia can profoundly affect one's life. When Faustus despairs of repenting and receiving God's or Christ's protection in Act 5, he cries to one of the visiting scholars, 'Ah, my sweet chamber-fellow! Had I lived with thee, / then had I lived still, but now I die eternally' (V. ii. 3-4). Instead of living with this sweet chamberfellow, Faustus has chosen Mephistopheles. Bevington and Rasmussen analyse that 'Faustus's' study serves as the locus of his "devilish exercises" and their terrible consequences' in both A-and B-texts. <ref type="bibr" target="#b43">47</ref> The crucial aspect is that his study is not for Faustus's sole exercises; his study would not have turned into such a devilish, yet academic-centric, homosocial sphere if Faustus did not choose to spend his life with Mephistopheles.</p><p>Importantly, academia in Early Modern Europe was highly homosocial. During the Elizabethan reign, '[o]nly a tiny minority of English males, and males only, could attend the institutions that trained boys'. <ref type="bibr" target="#b44">48</ref> That said, throughout the sixteenth century, the number of students attending universities increased overall, and universities opened their doors to non-elites like Marlowe, and non-elite males only, too. <ref type="bibr" target="#b45">49</ref> Christopher Marlowe spent almost six-and-a-half years at Corpus Christi College, Cambridge. <ref type="bibr" target="#b46">50</ref> While living in a converted 'Storehouse', he could access 'a few books chained "within the Under-Chamber of the Tenth Chamber on the East"', which archbishop Parker had left for the college. <ref type="bibr" target="#b47">51</ref> Quoting Gabriel Harvey's writing to his friend Edmund Spenser that not everyone could step into a scholar's study, Honan discusses that there was a clear distinction between undergraduates and Bachelors/Fellows with accessibility to certain books at the college. <ref type="bibr">52</ref> Being an undergraduate and then a Bachelor, Marlowe presumably witnessed and experienced that rare books and their storage divided people not by sex, which was only one kind in academia anyway, or social class, but by academic status within the college. This is not to say that no woman ever possessed a study or private space with books or secrets. Just as the play's clown Robin mentions the mistress's 'private study', privileged women could own such a space, and they appear in literature from time to time. In Mary Sidney Wroth's prose romance The Countess of Montgomery's Urania, for example, Pamphilia owns a cabinet room to which her books and writings belong. The history of St. Katherine of Alexandria, which was written in 1447 and printed about 400 years later, exhibits a man named Adrian Roos 'passed from chambre to chambre tyle he come yn to hir secreet study where no creature vsed to come bot hir self allone'. <ref type="bibr" target="#b48">53</ref> In the life of Faustus, and probably of young Marlowe as well, whose parents are 'base of stock' (Prologue 11) and who has spent much time immersing himself in a homosocial clique of academia, it seems unlikely that any privileged woman has appeared for him to share a book in a room devoted to intellectual pursuits.</p><p>I have already discussed how Mephistopheles distracts Faustus's desire for a wife by presenting a necromantic book to 'Pursue it thoroughly' (II. i. 162). The dialogue also reveals that Mephistopheles subtly uses his words to prevent women from entering Faustus's study or spending sufficient time with him there. In the moments preceding the presentation of the book, Mephistopheles refers to the possibility of multiple women, rather than a monogamous wife, by offering 'I'll cut thee out the fairest courtesans / And bring them ev'ry morning to thy bed' (II. i. 156-57). His attempt is to distract Faustus's desire for a wife and marriage by suggesting promiscuous pleasure and then, of course, satisfying Faustus's bibliophilic desire. This promiscuous offer by the devil leads to the fundamental exclusion of women from an insulated place and time for sharing books. Even though he hints at the possibility of Faustus's sexual relationships with women, he will not invite them to the study, where Faustus spends most of his time. Nor will he bring them during the night. Bevington and Rasmussen point out that midnight is 'appropriate to both conjuring and sex' in the footnote to the conversation between Robin and Rafe (II. ii. 29-30). <ref type="bibr" target="#b49">54</ref> Even in his rhetoric, Mephistopheles excludes women from the intimate, masculine space of the study where he and Faustus would spend many days, perhaps many nights, conjuring, disputing, and book sharing.</p><p>The absence of substantial women in the relationship between Faustus and Mephistopheles raises questions about the role of Helen the ghost. Besides the devil dressed like a woman and Lechery in Act 2, Helen is the only woman, if we consider her a woman, whom Mephistopheles allows to appear in Faustus's study. What does she bring to the life of Faustus and Mephistopheles? Or does she cause any change at all? One might assume that the scholar, the devil, and Helen would echo Eve K. Sedgwick's theory on the close-knit relationship of two men and a woman. In Between Men, Sedgwick proposes that there is always a homosocial desire between two men vying for the love or possession of the same woman, which is inseparable from a homosexual desire; yet, this desire is oppressed by apparent homophobia, framing coercive heterosexual love. <ref type="bibr" target="#b50">55</ref> Likewise, in the analysis of the Ciceronian amicitia, Stewart states that traditionally 'relationships between men should be cemented by the exchange of women'. <ref type="bibr" target="#b51">56</ref> In Doctor Faustus, however, Helen is not summoned until near the end of Faustus's life. Her appearance is after Faustus has gone through the bonding process with Mephistopheles, and her presence as a possession exchanged between men is too feeble to strengthen the bond of the scholar and the devil, in contrast to how the necromantic books and scholarly disputes have affected them. <ref type="bibr" target="#b52">57</ref> When neither Sedgwick's theory nor Stewart's can be satisfactorily applied to the pseudo-triangle of Faustus, Mephistopheles, and Helen, what does her presence bring to the scholar and his study? Simon Shepherd discusses that at Helen's second appearance, '[i]n Faustus's gaze Helen changes status from the magic show […] to the object of desire which promises an end to the doubts arising in the real world'. <ref type="bibr" target="#b53">58</ref> Helen's transformation from a magic show into a fatal object of desire is worth noting not because the transformation renders Helen the sole, unique character allowed to appear in the study, but proves otherwise. If she is a sort of magic show, she is not the only or first show brought to Faustus. He has already experienced Lucifer's show of the Seven Deadly Sins, which feeds his soul (II. iii. 166), in his study. This magic show is metonymically transformed, by Lucifer, into a source of the scholar's gluttony, the necromantic book: the object of desire for the bibliophile that promises to answer every question arising in his study and obliquely drags him into hell in the end. So construed, Helen is not the object of desire but one of those objects that at least momentarily satisfy Faustus's thirst for knowledge. We also find a structural parallel between the shift from the fatal weapons to the poetic recollection of Mephistopheles's sweet magic (II. iii. 21-30) and the one from the devil's presenting a dagger to the allusive praise of Helen (V. i. 51-52, 91-109), with Faustus's desire, arising from his scholarly ambition and bibliophilic obsession, at stake in both instances. <ref type="bibr" target="#b54">59</ref> After all, Helen is summoned to fulfil the visiting scholars' curiosity, and Faustus's rhetoric relies on his knowledge of magic and Greek mythology. <ref type="bibr" target="#b55">60</ref> When Faustus utters, 'Here will I dwell, for heaven be in these lips, / And all is dross that is not Helena' (V. i. 96-97), he cries a parodic reiteration of what he has experienced with Mephistopheles from the beginning of the play. His twenty-four years of academic/demonic life with the devil take the point of departure from his overreaching ambition to know and own the world's secrets, leaving the three higher disciplines of university for what is more divine, sweet, and ecstatic in his 'own fantasy' (I. i. 105). For Faustus, law and medicine are 'for petty wits' (I. i. 109), and divinity, in which he was once the golden boy 'graced with doctor's name' (Prologue 17), is the 'basest of the three' (I. i. 110) because now he believes that all that is not Mephistopheles is dross, 'Unpleasant, harsh, contemptible, and vile' (I. i. 111). There he dwells with Mephistopheles, scarcely recalling his once chamber-fellow. Faustus, through his experience, realises that wherever Mephistopheles stays is inseparable from hell because that is where Faustus walks and disputes with Mephistopheles. However, Mephistopheles's definition of hell is queerly unbounded.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Meph. Hell has no limits, nor is circumscribed</head><p>In one self place, for where we are is hell, And where hell is must we ever be.</p><p>[…] All places shall be hell that is not heaven.</p><formula xml:id="formula_0">(II. i. 124-129)</formula><p>Hell is open and endless. This is not only defined by the devil but also experienced by Faustus himself. After he ridicules hell as 'a fable' (II. i. 130), the boundary between hell and the rest is pushed, expanded, and confused as he travels and disputes with the devil. And Faustus's transgressive desires for the world and the knowledge of the world lead him to experience this queer expansion of space. However, it is always in Faustus's study, which is solidly closed and available only to a few educated males, that Faustus asks Mephistopheles to discuss scholarly matters and read necromantic books together. The chamber is haunted by its owner's bibliophilic desire, shaped by its very function: a space for storing and concealing books that tempt ambitious scholars like Faustus. We have seen that Faustus's status as a university scholar renders the play's centre highly private and exclusive; Faustus's study is an arcane place for the devil and the scholar to dwell, and the circulation of knowledge through disputing and book sharing inside it functions to eliminate women, either existing or imagined, instead of desiring or exchanging them. Faustus's study may be difficult to distinguish from hell. However, this hell takes the form of a closed chamber, in which the transgressive scholar immerses himself in a deviant yet sweet relationship with the devil. Their wicked intimacy is intensified by the secrecy of the space and fuelled by necromantic and scholarly knowledge.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="4.">Conclusion</head><p>This paper has discussed the bizarre and somewhat sweet intimacy between a scholar and a devil he conjures. At the bottom of their intimacy lies Faustus's urge, hunger, and desire for knowledge and cosmic power, stimulating Faustus himself to ask questions, dispute, and travel with Mephistopheles. His hunger for knowledge and power is inseparable from the desire for their source, Mephistopheles, whose nature is simultaneously sweet and wicked for Faustus. The most intense drama, in which we witness the concatenation of academic/transgressive knowledge and sweet/wicked Mephistopheles forged by Faustus's passion to become a great magician, happens in Faustus's study. His study is a private and exclusive place in which only Faustus and Mephistopheles are meant to dwell. Referring to Angel Day's writing in 1592 and treating the study and the closet as terminologically exchangeable and indistinguishable, Stewart argues the possibility of the Early Modern closet, or priuate study, as a key locus for the emergence of modern subjectivity with the emphasis on the plural selves in a single closet. <ref type="bibr" target="#b56">61</ref> Faustus's study is intrinsically a single closet for him and the devil -a closet within a university that serves as a realm of academic homosociality, bibliophilic elitism, and devilish practice.</p><p>When a study functions as a closet for the emergent subjectivity of a bibliophilic scholar, this subjectivity, or the emerging self-consciousness that may lead to subjectivity, is a response to and a reflection of the convergence of his multiple desires. Butler points out the possibility of desire as 'a tacit pursuit of identity' and 'an interrogative mode of being, a corporeal questioning of identity and place' in the Hegelian subject's pursuit of itself. <ref type="bibr" target="#b57">62</ref> Importantly, desire always seeks otherness, which is in fact a mode of selfconsciousness, to realise its true satisfaction, even though this otherness is at the same time the source of suffering for the emerging subject. <ref type="bibr">63</ref> Through his constant, painful attempts to identify what is different, novel, and awaited as components of his self-consciousness as a great scholar/magician, Faustus trespasses the boundary between two distinct categories: 'a man' (I. i. 23) with which he used to identify himself and the other, hellish creatures. By pursuing knowledge, Faustus deconstructs these categories and their boundary, repeatedly desiring and then rejecting Mephistopheles and his world of being. Yet, Faustus always finds himself physically and intellectually entwined with Mephistopheles.</p><p>In Sodometries, Jonathan Goldberg notes that sodomy is 'categorical confusion itself' and, taking Edward II as an example of theatrical plays that hold sodomy in its centre with no heterosexualised version of male/ male relationship, argues that '[t]he transgression of the legal system in Edward II starts with the king', who is supposed to found the law. <ref type="bibr" target="#b58">64</ref> What makes Faustus different from Edward is the privateness between Faustus and Mephistopheles. Since Mephistopheles almost always makes himself invisible or non-diabolic in public and Faustus's colleagues do not accuse him of being damned, Faustus holds fear of sodomical damnation within himself, within his study. Faustus's confused self-consciousness reaches its climax in his last words, 'I'll burn my books. Ah, Mephistopheles!' (V. ii. 123). Unlike Historie or the B-text, the A-text never articulates the whereabouts of Faustus's body after damnation. Instead of voicing the rupture of his body and soul with the former staying in the man's world and the latter forever damned in hell, the texts of the play show the possibility of the inseparable bodily concatenation of Faustus and Mephistopheles due to the void presence of their physical bodies. Although Faustus repeatedly attempts to deny Mephistopheles, his study ultimately serves as the threshold to a place in which his desire merges with his yearning for otherness; he never cries 'Come not, Mephistopheles!' but 'Ah, Mephistopheles!' as if it is an erotic, corporeal submission to the devil. In the end, it is not the stranger's hell but 'our hell' (V. i. 78) into which Faustus is probably dragged.</p><p>I have analysed the entwined relationship between the nature of Faustus's desire and his inseparability from Mephistopheles in the private closet of intellectual and bibliophilic pursuits. This may provoke other discussions, such as how Faustus's desire and self-consciousness are related to patriarchy in the play and how this 'patriarchy' is constructed and possibly deconstructed in the homosocial realm of the university. Nonetheless, this reading of Doctor Faustus foregrounds the spatial and material entanglements of knowledge, desire, and otherness experienced by a bibliophile, offering a compelling framework for approaching other early modern texts. In The Tempest, for instance, Prospero's bibliophilic attachment may function as significant leverage in his desires for and relationships with other characters, including Ariel and Caliban. One might want to consider Miranda's desire for independence and escape from patriarchy in relation to her intellectual pursuits. Although Edward II has often been studied with queer perspectives, it is one of Marlowe's early works, Doctor Faustus, that also shows queer desire between men. In Doctor Faustus, Mephistopheles gives Faustus the power to pursue knowledge and self-identification through disputing and book sharing, a process by which Faustus grows his desire for Mephistopheles, in Faustus's study.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Notes</head></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head>Faust.</head><label></label><figDesc>How am I glutted with conceit of this! Shall I make spirits fetch me what I please, Resolve me of all ambiguities, Perform what desperate enterprise I will? I'll have them fly to India for gold, Ransack the ocean for orient pearl, And search all corners of the new-found world For pleasant fruits and princely delicates. I'll have them read me strange philosophy And tell the secrets of all foreign kings. (I. i. 80-89)</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_0"><head>Faust. Well, resolve me in this question: why have we</head><label></label><figDesc></figDesc><table><row><cell>not</cell></row><row><cell>conjunction, oppositions, aspects, eclipses all at one</cell></row><row><cell>time, but in some years we have more, in some less?</cell></row><row><cell>Meph. Per inaequalem motum respectu totius.</cell></row><row><cell>Faust. Well, I am answered. Tell me who made the world.</cell></row><row><cell>Meph. I will not.</cell></row><row><cell>Faust. Sweet Mephistopheles, tell me.</cell></row><row><cell>Meph. Move me not, for I will not tell thee.</cell></row><row><cell>Faust. Villain, have I not bound thee to tell me anything?</cell></row><row><cell>[…]</cell></row><row><cell>Faust. Ay, go, accursèd spirit, to ugly hell!</cell></row><row><cell>(II. iii. 62-75)</cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_2"><head></head><label></label><figDesc>Faust.With ravishing sound of his melodious harp Made music with my Mephistopheles? Why should I die, then, or basely despair? I am resolved Faustus shall ne'er repent. Come, Mephistopheles, let us dispute again And argue of divine astrology.</figDesc><table /><note><p><p>Tell me, are there many heavens above the moon? (II. iii.</p>29-35)   </p></note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_3"><head></head><label></label><figDesc>At the beginning of Doctor Faustus, Faustus believes himself superior to ordinary scholars, having mastered analytics, logic, medicine, law, and divinity. His arrogance leaves him with a new desire to understand the cosmological structure and cosmic power. As Faustus tries to assuage his hunger for cosmic knowledge by disputing and reading with Mephistopheles, he also tries to gather every-</figDesc><table /><note><p><p><p>thing on earth into his own hands. As seen in Act 4 Scene 2, in which Faustus is repeatedly addressed as 'Master Doctor' (IV. ii.</p>1, 8, 18, 29, 38)</p>, commands Mephistopheles to fetch ripe grapes from 'the contrary circle' (IV. ii. 24), and delivers a proud lecture on how 'the whole world' (IV. ii. 23) exists to the Duke and the Duchess, his urge for knowledge, ambition to become a renowned magician, and desire for the world are all merged. In his journey to know the world's structure, the awaited secret knowledge arrives, and the novel necromancy becomes part of his skill.</p></note></figure>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="2" xml:id="foot_0"><p>Y. SUZUKI</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="20" xml:id="foot_1"><p>Y. SUZUKI</p></note>
+		</body>
+		<back>
+			<div type="annex">
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Disclosure statement</head><p>No potential conflict of interest was reported by the author(s).</p></div>			</div>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<monogr>
+		<author>
+			<persName><forename type="first">Constance</forename><surname>Brown Kuriyama</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Christopher</forename><surname>Marlowe</surname></persName>
+		</author>
+		<title level="m">A Renaissance Life</title>
+		<meeting><address><addrLine>Ithaca, NY</addrLine></address></meeting>
+		<imprint>
+			<publisher>Cornell University Press</publisher>
+			<date type="published" when="2002">2002</date>
+			<biblScope unit="page">227</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<title level="a" type="main">Edward II</title>
+	</analytic>
+	<monogr>
+		<title level="m">Some of the articles that summarise the critical history of the interplay of homoeroticism, sodomy, and politics in Edward II include the following: Thomas Cartelli</title>
+		<editor>
+			<persName><forename type="first">Christopher</forename><surname>Marlowe</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">Martin</forename><surname>Wiggins</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Cambridge; Stephen Guy-Bray; Stephen Guy-Bray; London</addrLine></address></meeting>
+		<imprint>
+			<publisher>Bloomsbury Publishing</publisher>
+			<date type="published" when="1991">2004 = 2009. 1991. 2014</date>
+			<biblScope unit="volume">17</biblScope>
+			<biblScope unit="page" from="vii" to="xxviii" />
+		</imprint>
+	</monogr>
+	<note>Edward II</note>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title level="a" type="main">The play has also been studied in relation to the emergence of self-defining identity. See, for example</title>
+		<author>
+			<persName><forename type="first">David</forename><surname>Stymeist</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Status</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Sodomy</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><forename type="middle">I</forename><surname>Theater In Marlowe's Edward</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="s">Studies in English Literature</title>
+		<editor>
+			<persName><forename type="first">Darryll</forename><surname>Grantley</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">Peter</forename><surname>Roberts</surname></persName>
+		</editor>
+		<imprint>
+			<biblScope unit="page" from="172" to="197" />
+			<date type="published" when="1500">1500-1900, 44.2 (2004. 2016. 1996</date>
+			<publisher>Scolar Press</publisher>
+			<pubPlace>Michael G. Cornelius, Edward; Lanham, MD; Aldershot</pubPlace>
+		</imprint>
+		<respStmt>
+			<orgName>Christopher Marlowe and English Renaissance Culture</orgName>
+		</respStmt>
+	</monogr>
+	<note>What Passions Call You These?&apos;: Edward II and James VI</note>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<monogr>
+		<author>
+			<persName><forename type="first">Wilbur</forename><surname>Sanders</surname></persName>
+		</author>
+		<title level="m">The Dramatist and the Received Idea: Studies in the Plays of Marlowe and Shakespeare</title>
+		<meeting><address><addrLine>Cambridge</addrLine></address></meeting>
+		<imprint>
+			<publisher>Cambridge University Press</publisher>
+			<date type="published" when="1968">1968</date>
+			<biblScope unit="page">242</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title level="a" type="main">Friendship in Marlowe&apos;s Dr. Faustus and The Jew of Malta</title>
+		<author>
+			<persName><forename type="first">Maurice</forename><forename type="middle">A</forename><surname>Hunt</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Medieval &amp; Renaissance Drama in England</title>
+		<imprint>
+			<biblScope unit="volume">29</biblScope>
+			<biblScope unit="page">111</biblScope>
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<monogr>
+		<title/>
+		<author>
+			<persName><surname>Ibid</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="page">112</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<monogr>
+		<author>
+			<persName><forename type="first">Jeffrey</forename><surname>Masten</surname></persName>
+		</author>
+		<title level="m">Queer Philologies: Sex, Language, and Affect in Shakespeare&apos;s Time</title>
+		<meeting><address><addrLine>Philadelphia, PA</addrLine></address></meeting>
+		<imprint>
+			<publisher>University of Pennsylvania Press</publisher>
+			<date type="published" when="2016">2016</date>
+			<biblScope unit="page" from="171" to="172" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title level="a" type="main">Marlowe and Queer Theory</title>
+		<author>
+			<persName><forename type="first">David</forename><surname>Clark</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Christopher Marlowe in Context</title>
+		<editor>
+			<persName><forename type="first">Emily</forename><forename type="middle">C</forename><surname>Bartels</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">Emma</forename><surname>Smith</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Cambridge</addrLine></address></meeting>
+		<imprint>
+			<publisher>Cambridge University Press</publisher>
+			<date type="published" when="2013">2013 = 2015</date>
+			<biblScope unit="page">234</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title level="a" type="main">Bray also mentions that sodomy was such a felony because it was placed outside the world created and ordered by God, whose creation included not only heaven and earth but also hell, referring to Renaissance writers such as</title>
+		<author>
+			<persName><forename type="first">Alan</forename><surname>Bray</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">The</forename><surname>Friend</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Homosexuality in Renaissance England</title>
+		<editor>
+			<persName><forename type="first">Michael</forename><surname>Drayton</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">Thomas</forename><surname>Browne</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">Richard</forename><surname>Hooker</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">Alan</forename><surname>See</surname></persName>
+		</editor>
+		<editor>
+			<persName><surname>Bray</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Chicago, IL and London; London</addrLine></address></meeting>
+		<imprint>
+			<publisher>Gay Men&apos;s Press</publisher>
+			<date type="published" when="1982">2003. 1982</date>
+			<biblScope unit="page" from="22" to="25" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<monogr>
+		<title level="m">Edward II</title>
+		<editor>
+			<persName><forename type="first">Christopher</forename><surname>Marlowe</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">Martin</forename><surname>Wiggins</surname></persName>
+		</editor>
+		<meeting><address><addrLine>London</addrLine></address></meeting>
+		<imprint>
+			<publisher>Bloomsbury Publishing</publisher>
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title level="a" type="main">Laurie Shannon, referring to such scholars as L. J. Mills, Bray, and Goldberg, focuses on the dichotomy between the king who &apos;wants to act like a private person by choosing exclusive, utopian friendship&apos; and his enemies who &apos;want him to be a king&apos; in public</title>
+		<author>
+			<persName><surname>Stymeist</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Figures of Friendship in Shakespearean Contexts</title>
+		<meeting><address><addrLine>New York; Laurie Shannon, Sovereign Amity; Chicago, IL and London</addrLine></address></meeting>
+		<imprint>
+			<publisher>The University of Chicago Press</publisher>
+			<date type="published" when="1992">1992 = 2010. 2002</date>
+			<biblScope unit="page">162</biblScope>
+		</imprint>
+	</monogr>
+	<note>Modern Sexualities</note>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<monogr>
+		<author>
+			<persName><forename type="first">Alan</forename><surname>Stewart</surname></persName>
+		</author>
+		<title level="m">Close Readers: Humanism and Sodomy in Early Modern England</title>
+		<meeting><address><addrLine>Princeton, NJ</addrLine></address></meeting>
+		<imprint>
+			<publisher>Princeton University Press</publisher>
+			<date type="published" when="1997">1997</date>
+			<biblScope unit="page">153</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<monogr>
+		<title level="m">Doctor Faustus Aand B-texts</title>
+		<editor>
+			<persName><forename type="first">Christopher</forename><surname>Marlowe</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">David</forename><surname>Bevington</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">Eric</forename><surname>Rasmussen</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Manchester</addrLine></address></meeting>
+		<imprint>
+			<publisher>Manchester University Press</publisher>
+			<date type="published" when="1604">1604, 1616. 1993 = 1995</date>
+			<biblScope unit="page" from="103" to="198" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<title level="a" type="main">The translator is one P.F., and the date of the first edition is unknown. The earliest surviving copy is of 1592, yet Park Honan suggests that Marlowe could have seen a now-lost copy of Historie in 1587 or 1588</title>
+	</analytic>
+	<monogr>
+		<title level="m">Historia von D. Johann Fausten, published in 1587</title>
+		<meeting><address><addrLine>Park Honan, Christopher Marlowe; Oxford</addrLine></address></meeting>
+		<imprint>
+			<publisher>Oxford University Press</publisher>
+			<date type="published" when="2005">2005 = 2007</date>
+			<biblScope unit="page">199</biblScope>
+		</imprint>
+	</monogr>
+	<note>Historie was translated from the German book</note>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<monogr>
+		<author>
+			<persName><forename type="first">William</forename><surname>Rose</surname></persName>
+		</author>
+		<title level="m">History of the Damnable Life and Deserved Death of Doctor John Faustus</title>
+		<meeting><address><addrLine>Whitefish, MT</addrLine></address></meeting>
+		<imprint>
+			<publisher>Kessinger Publishing</publisher>
+			<date type="published" when="2003">2003</date>
+			<biblScope unit="page">81</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">Saint</forename><surname>Augustine</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Trans</forename><forename type="middle">R S</forename><surname>Confessions</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Pine-Coffin</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1961">1961</date>
+			<publisher>Penguin Books</publisher>
+			<biblScope unit="page">75</biblScope>
+			<pubPlace>Book IV</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<title level="a" type="main">Introduction: Queer Shakespeare -Desire and Sexuality</title>
+		<author>
+			<persName><forename type="first">Goran</forename><surname>Stanivukovic</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Queer Shakespeare: Desire and Sexuality</title>
+		<editor>
+			<persName><forename type="first">Goran</forename><surname>Stanivukovic</surname></persName>
+		</editor>
+		<meeting><address><addrLine>London</addrLine></address></meeting>
+		<imprint>
+			<publisher>Bloomsbury Publishing</publisher>
+			<date type="published" when="2017">2017 = 2019</date>
+			<biblScope unit="page" from="7" to="17" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<analytic>
+		<title level="a" type="main">Will Tosh also mentions that &apos;[s]ame-sex contact between men was part of the fabric of everyday life&apos; in his analysis of &apos;the complicated affectional transactions&apos; that underlay the friendships between Antony Bacon, who was charged with sodomy, and four close men</title>
+		<author>
+			<persName><forename type="first">Mario</forename><surname>Digangi</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Male Friendship and Testimonies of Love in Shakespeare&apos;s England</title>
+		<editor>
+			<persName><forename type="first">Katherine O'</forename><surname>Donnell</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">O'</forename><surname>Michael</surname></persName>
+		</editor>
+		<editor>
+			<persName><surname>Rourke</surname></persName>
+		</editor>
+		<meeting><address><addrLine>New York; London</addrLine></address></meeting>
+		<imprint>
+			<publisher>Palgrave Macmillan</publisher>
+			<date type="published" when="2016">2003=2007. 2016</date>
+			<biblScope unit="page" from="5" to="7" />
+		</imprint>
+	</monogr>
+	<note>Love, Sex, Intimacy and Friendship Between Men</note>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<analytic>
+		<title level="a" type="main">Toward a Queer Address: The Taste of Letters and Early Modern Male Friendship</title>
+		<author>
+			<persName><forename type="first">Jeffrey</forename><surname>Masten</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">GLQ: A Journal of Lesbian and Gay Studies</title>
+		<imprint>
+			<biblScope unit="volume">10</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page">106</biblScope>
+			<date type="published" when="2004">2004</date>
+			<publisher>Masten, Queer Philologies</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<monogr>
+		<title/>
+		<author>
+			<persName><surname>Hunt</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="page" from="106" to="107" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<analytic>
+		<title level="a" type="main">Raffael Hirt has analysed second-person pronouns in Doctor Faustus and The Jew of Malta to demonstrate that Marlowe purposefully differentiated T and V pronouns to convey information about the characters&apos; social relations and emotions. Raffael Hirt</title>
+	</analytic>
+	<monogr>
+		<title level="j">English Studies</title>
+		<imprint>
+			<biblScope unit="volume">99</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="243" to="254" />
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+	<note>Is Not Thy Soul Thine Own?&quot;: An Analysis of Second-Person Pronouns in Christopher Marlowe&apos;s Doctor Faustus and The Jew of Malta</note>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<monogr>
+		<title level="m" type="main">Queer Philologies</title>
+		<author>
+			<persName><surname>Masten</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="page">77</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<monogr>
+		<author>
+			<persName><forename type="first">Frederick</forename><forename type="middle">S</forename><surname>Boas</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Christopher</forename><surname>Marlowe</surname></persName>
+		</author>
+		<title level="m">A Biographical and Critical Study</title>
+		<meeting><address><addrLine>Oxford</addrLine></address></meeting>
+		<imprint>
+			<publisher>The Clarendon Press</publisher>
+			<date type="published" when="1940">1940</date>
+			<biblScope unit="page">12</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<analytic>
+		<title level="a" type="main">The linkage between poetry and theological corruption may seem ironical when one notes that the Parker Scholarships were probably created &apos;to encourage academically talented youths to pursue ecclesiastical careers</title>
+	</analytic>
+	<monogr>
+		<title level="j">Kuriyama</title>
+		<imprint>
+			<biblScope unit="page">38</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<monogr>
+		<title level="m" type="main">Queer Narrative Theory and the Relationality of Form&apos;, PMLA/Publications of the Modern Language Association of America</title>
+		<author>
+			<persName><forename type="first">Teagan</forename><surname>Bradway</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2021">2021</date>
+			<biblScope unit="volume">136</biblScope>
+			<biblScope unit="page" from="717" to="718" />
+		</imprint>
+	</monogr>
+	<note>pusblished as Tyler Bradway</note>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<monogr>
+		<author>
+			<persName><forename type="first">Judith</forename><surname>Butler</surname></persName>
+		</author>
+		<title level="m">Subjects of Desire: Hegelian Reflections in Twentieth-Century France</title>
+		<meeting><address><addrLine>New York</addrLine></address></meeting>
+		<imprint>
+			<publisher>Columbia University Press</publisher>
+			<date type="published" when="1987">1987 = 2012</date>
+			<biblScope unit="page" from="1" to="15" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<analytic>
+		<title level="a" type="main">Marlowe&apos;s Libraries: A History of Reading</title>
+		<author>
+			<persName><forename type="first">Elizabeth</forename><surname>Spiller</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Christopher Marlowe in Context</title>
+		<editor>
+			<persName><forename type="first">Smith</forename><surname>Bartels</surname></persName>
+		</editor>
+		<imprint>
+			<biblScope unit="page">108</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b27">
+	<monogr>
+		<title level="m" type="main">&apos;s Historie, no book is used to conjure Mephistopheles</title>
+		<author>
+			<persName><forename type="first">In</forename><forename type="middle">P F</forename></persName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b28">
+	<analytic>
+		<title level="a" type="main">Sofer suggests that &apos;Mephistopheles insists that in efficacious performative speech acts […] perlocution trumps illocution&apos;, directly linking the performative speech acts to magic itself. Andrew Sofer</title>
+		<author>
+			<persName><forename type="first">Andrew</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Theatre Journal</title>
+		<imprint>
+			<biblScope unit="volume">61</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page">15</biblScope>
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+	<note>How to Do Things with Demons: Conjuring Performatives in Doctor Faustus</note>
+</biblStruct>
+
+<biblStruct xml:id="b29">
+	<analytic>
+		<title level="a" type="main">Doctor Faustus: Death of a Bibliophile</title>
+		<author>
+			<persName><forename type="first">Paul</forename><surname>Budra</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Connotations</title>
+		<imprint>
+			<biblScope unit="volume">1</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page">3</biblScope>
+			<date type="published" when="1991">1991</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b30">
+	<monogr>
+		<title level="m" type="main">Close Readers</title>
+		<author>
+			<persName><surname>Stewart</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="page">160</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b31">
+	<monogr>
+		<title level="m" type="main">David Riggs states that sodomy was visible in connection with such offenses as blasphemy, treason, counterfeiting, and sorcery</title>
+		<imprint>
+			<date type="published" when="2004">2004</date>
+			<publisher>Faber and Faber</publisher>
+			<biblScope unit="page">76</biblScope>
+			<pubPlace>David Riggs, The World of Christopher Marlowe; London</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b32">
+	<analytic>
+		<title level="a" type="main">Sarah Wall-Randell argues that the book Faustus receives from Mephistopheles is a complete, printed encyclopedia of magic which reflects &apos;early modern writers&apos; trepidation about the power of print technology&apos;, which was associated with magic, even though it &apos;records their rapt fascination with the book as form&apos;. Sarah Wall-Randell</title>
+	</analytic>
+	<monogr>
+		<title level="j">Doctor Faustus and the Printer&apos;s Devil</title>
+		<imprint>
+			<biblScope unit="volume">48</biblScope>
+			<biblScope unit="page" from="270" to="271" />
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+	<note>Studies in English Literature</note>
+</biblStruct>
+
+<biblStruct xml:id="b33">
+	<analytic>
+		<title level="a" type="main">Scholars have pointed out that the ideal friendship in the early modern period was often described as the spiritual unity of two males who would look for the other half</title>
+		<author>
+			<persName><forename type="first">Queer</forename><surname>Masten</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">;</forename><surname>Philologies</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">John</forename><forename type="middle">S</forename><surname>Garrison</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">xiii; Jeffrey Masten, Textual Intercourse: Collaboration, Authorship, and Sexualities in Renaissance Drama</title>
+		<editor>
+			<persName><forename type="first">Jonathan</forename><surname>Goldberg</surname></persName>
+		</editor>
+		<meeting><address><addrLine>London and New York; Cambridge; Durham, NC</addrLine></address></meeting>
+		<imprint>
+			<publisher>Duke University Press</publisher>
+			<date type="published" when="1994">2014 = 2019. 1997. 1994</date>
+			<biblScope unit="page" from="124" to="140" />
+		</imprint>
+	</monogr>
+	<note>Queering the Renaissance</note>
+</biblStruct>
+
+<biblStruct xml:id="b34">
+	<monogr>
+		<title/>
+		<author>
+			<persName><surname>Bradway</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="page">717</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b35">
+	<analytic>
+		<title level="a" type="main">It seems that Marlowe followed Historie&apos;s plot in this regard, even though Historie&apos;s Faustus commands that &apos;the next morning at twelve of the clock he should appear to him at his house</title>
+	</analytic>
+	<monogr>
+		<title level="j">Historie</title>
+		<imprint>
+			<biblScope unit="page" from="69" to="70" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b36">
+	<analytic>
+		<title level="a" type="main">Stuart Daley concludes that the Forest of Arden scenes can be divided into two milieux: &apos;One features dark, perilous woods, hunters, native deer (and other, still more emblematic beasts), a brawling brook, and a cave of self-knowing. The other is characterized by sunny fields, shepherds, sheep (and goats), a murmuring stream, and a cottage fenced with olives&apos;. The glove in Doctor Faustus serves as the former</title>
+	</analytic>
+	<monogr>
+		<title level="j">Shakespeare Quarterly</title>
+		<editor>
+			<persName><forename type="first">A</forename><forename type="middle">Stuart</forename><surname>Daley</surname></persName>
+		</editor>
+		<imprint>
+			<biblScope unit="volume">34</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page">180</biblScope>
+			<date type="published" when="1983">1983</date>
+		</imprint>
+	</monogr>
+	<note>Where are the Woods In As You Like It?</note>
+</biblStruct>
+
+<biblStruct xml:id="b37">
+	<analytic>
+		<title level="a" type="main">it is in the forest where Lavinia is raped and has her tongue and hands severed. In A Midsummer Night&apos;s Dream, the forest fosters misunderstandings and confusion, while the comedy&apos;s happy ending for the human characters is set within an arteficial palace</title>
+	</analytic>
+	<monogr>
+		<title level="m">Titus Andronicus</title>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b38">
+	<monogr>
+		<idno type="DOI">10.1093/OED/7263135346</idno>
+		<ptr target="https://doi.org/10.1093/OED/7263135346" />
+		<title level="m">Oxford English Dictionary</title>
+		<editor>
+			<persName><forename type="first">Adj</forename><surname>Private</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">Adv</forename></persName>
+		</editor>
+		<imprint>
+			<publisher>Oxford University Press</publisher>
+			<date type="published" when="2025-06-14">14 June 2025</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b39">
+	<analytic>
+		<title level="a" type="main">King Henry VIII</title>
+		<author>
+			<persName><forename type="first">William</forename><surname>Shakespeare</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">John</forename><surname>Fletcher</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Gordon</forename><surname>Mcmullan</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="s">The Arden Shakespeare</title>
+		<imprint>
+			<biblScope unit="volume">3</biblScope>
+			<date type="published" when="2000">2000</date>
+			<publisher>Bloomsbury Publishing</publisher>
+			<pubPlace>London</pubPlace>
+		</imprint>
+	</monogr>
+	<note>rd Series</note>
+</biblStruct>
+
+<biblStruct xml:id="b40">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">Rasmussen</forename><surname>Bevington</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="page">148</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b41">
+	<analytic>
+		<title level="a" type="main">The research in history of gender and science has been shedding light on those women who were interested in academic subjects, were engaged in scientific practices, or hosted their own academic circles. Still, universities in Early Modern England did not allow women to study within universities. See, for example, Londa Schiebinger</title>
+	</analytic>
+	<monogr>
+		<title level="m">The Mind Has No Sex?: Women in the Origins of Modern Science</title>
+		<meeting><address><addrLine>Cambridge, MA</addrLine></address></meeting>
+		<imprint>
+			<publisher>Harvard University Press</publisher>
+			<date type="published" when="1989">1989</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b42">
+	<monogr>
+		<title level="m">Mephistopheles repeats the phrase &apos;between us&apos;</title>
+		<imprint/>
+	</monogr>
+	<note>return. II. i. 94) to emphasise that their promise is irreversible and irretrievable</note>
+</biblStruct>
+
+<biblStruct xml:id="b43">
+	<monogr>
+		<title level="m" type="main">Introduction</title>
+		<author>
+			<persName><forename type="first">Rasmussen</forename><surname>Bevington</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="page">43</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b44">
+	<analytic>
+		<title level="a" type="main">Education, the University, and Marlowe</title>
+		<author>
+			<persName><forename type="first">Elizabeth</forename><surname>Hanson</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Christopher Marlowe in Context</title>
+		<editor>
+			<persName><forename type="first">Smith</forename><surname>Bartels</surname></persName>
+		</editor>
+		<imprint>
+			<biblScope unit="page">182</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b45">
+	<monogr>
+		<title/>
+		<author>
+			<persName><surname>Ibid</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="page" from="183" to="184" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b46">
+	<monogr>
+		<title level="m" type="main">Marlowe was absent from Cambridge from time to time</title>
+		<author>
+			<persName><surname>However</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="page" from="xiv" to="xv" />
+		</imprint>
+	</monogr>
+	<note>See Kuriyama</note>
+</biblStruct>
+
+<biblStruct xml:id="b47">
+	<monogr>
+		<title/>
+		<author>
+			<persName><surname>Honan</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="page">75</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b48">
+	<analytic>
+		<title level="a" type="main">The story continues as &apos;he sawe where sate þe fayrest creature and þe moost goodly þat euer creature behelde&apos;, hinting to its reader that a study is a place with something hidden or to be secretly discovered</title>
+	</analytic>
+	<monogr>
+		<title level="m">The Life and Martyrdom of Saint Katherine of Alexandria, Virgin and Martyr</title>
+		<editor>
+			<persName><forename type="first">Henry</forename><surname>Hucks</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">Gibbs</forename></persName>
+		</editor>
+		<meeting><address><addrLine>London</addrLine></address></meeting>
+		<imprint>
+			<publisher>Nichols and Sons</publisher>
+			<date type="published" when="1884">1884</date>
+			<biblScope unit="page">14</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b49">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">Rasmussen</forename><surname>Bevington</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="page">149</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b50">
+	<monogr>
+		<author>
+			<persName><forename type="first">Eve</forename><forename type="middle">K</forename><surname>Sedgwick</surname></persName>
+		</author>
+		<title level="m">Between Men: English Literature and Male Homosocial Desire</title>
+		<meeting><address><addrLine>New York</addrLine></address></meeting>
+		<imprint>
+			<publisher>Columbia University Press</publisher>
+			<date type="published" when="1985">1985 = 2016</date>
+			<biblScope unit="page">25</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b51">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">Close</forename><surname>Stewart</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Readers</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="page">124</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b52">
+	<analytic>
+		<title level="a" type="main">Faustus meets and has sexual intercourse with several women, whom he asks Mephistopheles to bring. When he commands Mephistopheles to bring the fair Helena, he &apos;fell in love with her, and made her his common Concubine and bedfellow&apos;, and &apos;in time she was with child, and in the end brought him a man child, whom Faustus named Justus Faustus</title>
+	</analytic>
+	<monogr>
+		<title level="m">Historie</title>
+		<imprint>
+			<biblScope unit="page">194</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b53">
+	<monogr>
+		<title level="m" type="main">Women&quot; and Males: Gender Relations in Marlowe</title>
+		<author>
+			<persName><forename type="first">Simon</forename><surname>Shepherd</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">'</forename><surname>Representing</surname></persName>
+		</author>
+		<editor>Christopher Marlowe</editor>
+		<imprint>
+			<date type="published" when="1999">1999</date>
+			<publisher>Longman</publisher>
+			<biblScope unit="page">69</biblScope>
+			<pubPlace>New York</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b54">
+	<analytic>
+		<title level="a" type="main">106-07) and Mephistopheles&apos;s corresponding a possible concubine with Lucifer before his fall (II. i. 161) and concludes that the ideal beauty as male should be very attractive especially for someone like Marlowe, referring to Stephen Orgel&apos;s book on the Renaissance stage and its surroundings. Hunt</title>
+	</analytic>
+	<monogr>
+		<title level="m">The Authentic Shakespeare: And Other Problems of the Early Modern Stage</title>
+		<meeting><address><addrLine>Stephen Orgel; New York</addrLine></address></meeting>
+		<imprint>
+			<publisher>Routledge</publisher>
+			<date type="published" when="2002">2002</date>
+			<biblScope unit="page">225</biblScope>
+		</imprint>
+	</monogr>
+	<note>Hunt points out Faustus&apos;s correlating Helen with Jupiter</note>
+</biblStruct>
+
+<biblStruct xml:id="b55">
+	<analytic>
+		<title level="a" type="main">Orgel points out that conjuring Helen is the two scholars idea and that what Faustus wants is &apos;a literary allusion, a paragon from his classical education, Homer&apos;s ideal</title>
+	</analytic>
+	<monogr>
+		<title level="j">Orgel</title>
+		<imprint>
+			<biblScope unit="page">228</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b56">
+	<analytic>
+		<title level="a" type="main">The Early Modern Closet Discovered</title>
+		<author>
+			<persName><forename type="first">Alan</forename><surname>Stewart</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Representations</title>
+		<imprint>
+			<biblScope unit="volume">50</biblScope>
+			<biblScope unit="page" from="82" to="83" />
+			<date type="published" when="1995">1995</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b57">
+	<monogr>
+		<title/>
+		<author>
+			<persName><surname>Butler</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="page">9</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b58">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">Sodometries</forename><surname>Goldberg</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="page">122</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

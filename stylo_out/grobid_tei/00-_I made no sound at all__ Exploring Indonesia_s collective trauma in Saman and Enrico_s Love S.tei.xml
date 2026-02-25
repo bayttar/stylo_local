@@ -1,0 +1,568 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">&quot;I made no sound at all&quot;: Exploring Indonesia&apos;s collective trauma in Saman and Enrico&apos;s Love Story by Ayu Utami</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author role="corresp">
+							<persName><forename type="first">Silvia</forename><surname>Mayasari-Hoffert</surname></persName>
+							<email>mayasari-hoffert@em.uni-frankfurt.de</email>
+							<idno type="ORCID">0000-0003-1052-2761</idno>
+						</author>
+						<author>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Southeast Asian Studies</orgName>
+								<orgName type="institution">Goethe-Universität Frankfurt am Main</orgName>
+								<address>
+									<settlement>Frankfurt am Main</settlement>
+									<country key="DE">Germany</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff1">
+								<orgName type="department">Department of Southeast Asian Studies</orgName>
+								<orgName type="institution">Goethe-Universität Frankfurt am Main</orgName>
+								<address>
+									<addrLine>Rostocker Straße 2</addrLine>
+									<postCode>60323</postCode>
+									<settlement>Frankfurt am Main</settlement>
+									<country key="DE">Germany</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">&quot;I made no sound at all&quot;: Exploring Indonesia&apos;s collective trauma in Saman and Enrico&apos;s Love Story by Ayu Utami</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date/>
+						</imprint>
+					</monogr>
+					<idno type="MD5">5487D6F2169D6BABC87FD566B80673F6</idno>
+					<idno type="DOI">10.1080/17449855.2026.2623174</idno>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.0" ident="GROBID" when="2026-02-25T19:50+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term>Ayu Utami</term>
+					<term>Indonesian literature</term>
+					<term>Maurice Halbwachs</term>
+					<term>Endel Tulving</term>
+					<term>1965-66 mass killings</term>
+					<term>Cold War</term>
+				</keywords>
+			</textClass>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>This article examines the literary response to collective trauma in Ayu Utami's Saman (1998), which focuses on the final years of Indonesia's New Order regime , and Enrico's Love Story (2012), which covers Indonesia's broader political history from 1958 to 2008. Analysing them in the Cold War context, the article argues that they expose the mass killings of suspected communist supporters in 1965-66 as foundational to the New Order's repression. Drawing on Maurice Halbwachs's theory of collective memory and Endel Tulving's theory of implicit memory, it shows how trauma is carried through silence -a social practice that both mirrors repression and preserves the memory of it across generations. However, although the novels address trauma and silence, they are silent about the global ideological struggle that contributed to these histories of violence. This selective mutism shows how Cold War frameworks continue to shape what remains unsaid in Indonesian literature.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Introduction: Cold war polarization</head><p>After the former Dutch colony Indonesia declared independence in 1945 under President Soekarno's leadership, the political landscape remained volatile. Indonesia was marked by economic instability and navigated a world increasingly polarized by the Cold War as the USA and the USSR sought to expand their ideological influence. As part of its strategy to counter communism, the USA intervened in the development of Indonesian literature and culture. Through institutions like the Congress for Cultural Freedom (CCF) and philanthropic organizations like the Rockefeller Foundation, the USA sought to dismantle leftist cultural movements. This intervention included financing translations of antileftist literature and fostering alliances with anti-leftist intellectuals. As Wijaya <ref type="bibr" target="#b9">Herlambang (2011)</ref> demonstrates, such intervention reshaped Indonesia's literary field to normalize the anti-leftist mass killings of 1965-66, which accompanied the transition from Soekarno's government to <ref type="bibr">Soeharto's New Order (1966-98)</ref>  <ref type="bibr">(2011,</ref><ref type="bibr">(5)</ref><ref type="bibr">(6)</ref>. This authoritarian "New Order" government -so named to contrast with Soekarno's disparaged "Old Order" -emerged during the Cold War and entrenched a cultural legacy that outlived the New Order itself. Ayu <ref type="bibr" target="#b26">Utami's (2005)</ref> 1 Saman and Enrico's Love Story <ref type="bibr" target="#b27">(Utami 2012)</ref> arose from this Cold War-shaped literary landscape; as a result, while they challenge state repression, they remain relatively silent about the global ideological struggle behind it. Analyses of other post-New Order literary texts suggest that such silences are not unique to <ref type="bibr">Utami's writing (Mayasari-Hoffert 2024, 1, 6)</ref>, but in this article Utami is taken as a case study within what appears to be a broader cultural tendency to foreground domestic repression while leaving Cold War geopolitics largely unaddressed.</p><p>Utami's work is a compelling case in point; while she challenges taboos on female sexuality and state violence, her limited engagement with Cold War dynamics reveals how institutionalized silences under Cold War cultural politics remain deeply entrenched. This article does not argue that Utami should have engaged with ideological struggles; rather, it argues that silences in the texts are symptomatic of Cold War cultural frameworks that still shape how Indonesia's past is narrated. Such silence cannot be explained by trauma alone; it also reflects Cold War legacies. As Herlambang has shown, many of Indonesia's cultural figures who rose to prominence from 1966 onwards were closely aligned with western-backed cultural movements. This group normalized violence against the left under the New Order regime, a process that <ref type="bibr">Herlambang (2011, 5-6, 38-40, 214-215)</ref> traces to their connections with and financing from the western bloc. Building on this analysis, I argue that their dominance also shaped a cultural memory in which the New Order is framed primarily in terms of domestic authoritarianism and exploitation, while western involvement remains largely downplayed.</p><p>To understand the context of both novels, it is important to consider the political climate preceding the 1965-66 mass killings. Central to this period was the nonalignment policy of Indonesia's first president, Soekarno. First articulated at the 1955 Bandung Conference, a landmark meeting of newly independent Asian and African states, this stance sought to keep Indonesia independent from both the western and eastern blocs. Rather than choosing sides in the Cold War, Soekarno advocated antiimperialist cooperation among newly decolonized nations in Asia and Africa, economic self-reliance, and "neutralism" in foreign affairs -a position that western powers interpreted as tacit sympathy towards communism amid the Cold War's rigid "us versus them" ideological framework. Combined with partnerships he had forged with socialistleaning countries, the policy made Soekarno an unpopular figure in Washington, with Time magazine disparagingly referring to him as "The Rooster", portraying the president as arrogant and disruptive <ref type="bibr">(Time 1958, 18-22)</ref>. American suspicion was further strengthened by the growing influence of the Communist Party of Indonesia (PKI), which had become the largest communist party outside the USSR and China. This dynamic laid the groundwork for tensions that culminated in covert interventions by the USA aimed at destabilizing Soekarno's government in a bid to counter the perceived spread of communism in Southeast Asia.</p><p>Dissatisfaction with Soekarno's administration in Sumatra and Sulawesi led local military commanders to form the Revolutionary Government of the Republic of Indonesia (PRRI) in 1958. Their rebellion against Soekarno's government unfolded within Cold War geopolitics, where the CIA (Central Intelligence Agency) covertly supported the PRRI by supplying pilots to conduct bombing missions. This secret operation was dramatically exposed when American pilot Allen Pope was captured during a bombing run in May 1958, revealing direct foreign involvement in the conflict <ref type="bibr">(Conboy and Morrison 1999, 87-92, 131-134)</ref>. These events form the historical background of Enrico's Love Story, which engages with the PRRI Rebellion through its themes of trauma. Yet the novel omits the pivotal episode of the CIA covert action, illustrating how cultural memory foregrounds certain conflicts whilst omitting others.</p><p>Following the killings of six high-ranking generals on October 1, 1965 -an event the military attributed to the PKI and used as justification for a nationwide purge -a large-scale anti-leftist campaign was launched under General Soeharto and carried out by the Indonesian Army in coordination with civilian militias and local paramilitary groups <ref type="bibr">(Robinson 2018, 122-128, 163-170;</ref><ref type="bibr">Roosa 2020, 25-31, 75-80)</ref>. This heralded a rapid political shift from Soekarno's socialist state to Soeharto's authoritarian capitalist regime, which not only opened Indonesia to foreign investment but also reinforced the western bloc's Cold War strategy in Southeast Asia. American support internationally legitimized the killings carried out under Soeharto's leadership: for example, the NBC (National Broadcasting Company) documentary Indonesia: The Troubled Victory <ref type="bibr" target="#b29">(Yates 1967</ref>) depicts Soeharto's rise as a victory over communism, allowing the regime to frame the genocide as part of a global anti-communist struggle. This ideological justification enabled Soeharto to consolidate power by embedding surveillance and fear in everyday life. Policies such as the "Clean Self, Clean Environment" campaign required individuals to demonstrate that they and their families were free of PKI associations in order to qualify for civil service or military posts. The resulting collective trauma reverberates in both Saman and Enrico's Love Story, where it is reflected in characters' silences about state repression and in fragmented memories of the 1965-66 violence that reshaped Indonesia's social fabric. Reading Utami's novels against this backdrop reveals how their silences about Cold War geopolitics parallel the silences enforced during the New Order, even while the novels criticize its legacy of repression. Under Soeharto's New Order government, any discussion of the 1965-66 mass killings was taboo. This enforced silence stifled intergenerational dialogue, leaving many Indonesians with fragmented memories of the period. Benedict Anderson, a leading scholar of Indonesian politics who was banned from entering the country following his 1966 interpretation of the generals' killings that diverged from the official state narrative, has described Indonesia's post-1965 condition as one of "historical amnesia" <ref type="bibr">(Anderson, quoted in Sherman 2001, n.p.)</ref>. Such "historical amnesia", in which silence extends beyond the immediate victims and becomes embedded within the national consciousness, is also reflected in Indonesian literature, where references to the purge are virtually absent or, when present, remain implicit. For example, Saman, published at the end of the New Order period, does not mention the killings but depicts the lingering impact through characters who fear being associated with the left. In Enrico's Love Story, the purge is referenced more directly: for instance, the titular protagonist recalls how his father feared arrest simply for owning a record of Lilis Suryani's popular songs praising Soekarno, because "anyone who still owned the record -especially if he was a public servant or a soldier -would immediately be under suspicion of being a supporter of Soekarno, or even involved in the Indonesian Communist Party" <ref type="bibr">(Utami 2012, 99)</ref>. Enrico himself keeps silent about the record for 25 years, exemplifying what Maurice <ref type="bibr" target="#b8">Halbwachs (1992)</ref> describes as the social framing of memory -the idea that even individual recollections are shaped by prevailing social and ideological contexts (51)and how Cold War ideology continued to regulate memory long after the violence itself.</p><p>As Soeharto's government opened the economy to western investment, Indonesia saw a surge of capital inflows. However, this shift came at a cost. While foreign direct investment contributed to economic growth in Indonesia, it also resulted in exploitation and oppression -the backdrop against which Saman emerged. The emphasis on exportoriented industries resulted in the suppression of workers' rights, which was exemplified in the case of Marsinah, a factory worker who was murdered in 1993 after having led a strike. Investigations suggested military involvement, but the perpetrators were never held accountable, highlighting "the state's denial of justice to workers and the power of the military in industrial affairs" <ref type="bibr">(Blackburn 2004, 185)</ref>. Saman references the case of Marsinah, illustrating journalist Seno Gumira Adjidarma's (1997) well-known statement at the end of the New Order period that "when journalism is silenced, literature must speak" (1). Yet even after the regime's fall, Indonesian literature has been reluctant to confront the Cold War dynamics that legitimized anti-communist violence.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>The interplay of collective trauma and implicit memory in Indonesian literature</head><p>Laurie <ref type="bibr" target="#b18">Sears's (2007)</ref> analysis of Utami's novels supports a focus on the New Order's manipulation of collective memory. According to Sears, Utami's use of fragmented narrative functions as a counter-archive, as her novels "add to academic debates about trauma and the construction and deconstruction of Indonesian archives" (19). This section builds on Sears's analysis by showing how Utami's two novels criticize the manipulation of collective memory and portray how the effects of this manipulation persist across generations. As will be examined below, the trauma depicted in the novels manifests collectively and implicitly, with characters exhibiting self-censorship in politically charged situations. The fact that trauma is remembered differently has led to varying degrees of resistance to state repression in Indonesia. This complexity is reflected in both Saman, Utami's debut novel, and Enrico's Love Story, her fifth novel, where characters react to the memory of political violence differently. Saman interweaves the stories of a Catholic priest-turned-activist and four urban women -Laila, Shakuntala, Yasmin, and Cok -during Indonesia's late New Order period, exploring state violence, political repression, and sexuality. Meanwhile, Enrico's Love Story traces the life of Enrico, born during the PRRI Rebellion, whose experiences include a childhood under Soekarno's Guided Democracy, student activism under the New Order, a complex relationship with his mother, and his later romance with an artist. While silence is a common starting point for each novel, characters eventually speak out, each in their own way.</p><p>To analyse Utami's Saman and Enrico's Love Story in terms of collective trauma, this article brings together two perspectives: Halbwachs's theory of collective memory and Endel <ref type="bibr" target="#b21">Tulving's (1994)</ref> theory of implicit memory. As Halbwachs observes, "the past is not preserved but is reconstructed on the basis of the present" <ref type="bibr">(1992,</ref><ref type="bibr">40)</ref>. This reconstruction, he explains, is never neutral, since society "obligates people not just to reproduce in thought previous events but also to touch them up, to shorten them, or to complete them" (51). In this sense, memory is always socially situated: "it is in society that people normally acquire their memories. It is also in society that they recall, recognize, and localize their memories" (38). In other words, collective memory is shaped by specific sociopolitical conditions. What a society chooses to remember is guided by the values and pressures of the present. Memory, for Halbwachs, is therefore not a record of the past but a product of ongoing negotiation among individuals as well as the society to which they belong. Halbwachs's theory is particularly relevant to the Indonesian context, where the New Order government shaped collective memory by reframing the 1965-66 anti-leftist purge as a righteous struggle against a perceived threat of communism and silenced narratives of dissent.</p><p>Expanding the discussion from the social to the cognitive dimension, Tulving's theory of implicit memory considers how experiences that are not consciously recalled nonetheless shape behaviour, emotion, and perception. As he explains, "implicit memory is revealed when previous experiences facilitate performance on a task that does not require conscious or intentional recollection of those experiences" <ref type="bibr">(Tulving 1994, 7)</ref>. This form of memory contrasts with explicit memory, which involves intentional remembering <ref type="bibr">(Tulving 1983, 21)</ref>. Implicit memory operates outside awareness but continues to shape how individuals react -manifesting as habits, emotional responses, or fears that are not linked to any consciously remembered experience. Tulving maintains further that implicit memory "represents a ubiquitous occurrence in everyday life" <ref type="bibr">(Tulving and Schacter 1990, 302)</ref>. In collective or historical settings, shared but unspoken experiences can shape a whole community's attitudes long after the original events. In the Indonesian context, the trauma of the 1965-66 mass killings and the subsequent decades of authoritarian repression have fostered an implicit memory of fear, passed down through generations and resulting in a widespread silence that Anderson called "historical amnesia".</p><p>These frameworks highlight both the social shaping of memory and the ways memory lingers beyond deliberate recall. While Halbwachs's concept of collective memory is applicable to how state-sanctioned narratives shape national perception, Tulving's implicit memory accounts for the fragmented, personal recollections of trauma. Together, these theories explain how the fragmented memory of the past is continually reworked to meet present needs. This combined theoretical approach takes on a sharper meaning when read against Utami's writings, which vividly illustrate a dynamic of silence and recollection in the representation of collective memory within individual contexts. Read side by side, the theories also align with Carol Kildron's insight that "silence may be seen as a powerful and effective conduit of memory, maintaining the imminent presence of the past in the present" <ref type="bibr">(2009,</ref><ref type="bibr">15</ref>). Kildron's argument underscores how silence can preserve, rather than efface, trauma.</p><p>Utami's novels render this dynamic of memory and silence in narrative form. The transformation of political memory into personal recollection reflects what Halbwachs describes as the social framing of memory, in which an individual's remembrance of the past is shaped by the collective contexts available to them. At the same time, the unspoken emotional residue of political violence persists as implicit memory in Tulving's sense -felt but not consciously articulated. In both Saman and Enrico's Love Story, the fragments of various characters' recollections entwine personal experience with broader historical knowledge. Saman, a Catholic priest, fears being branded a communist and persecuted as a result, whereas Laila, his friend, suspects that her lover, an executive at a multinational company, was murdered by a state-backed assassin when he suddenly becomes unreachable. Though initially doubtful, Laila's friend Shakuntala comes to believe her because it echoes widely known cases of arbitrary killings under the regime. As Shakuntala muses: I've read about Dietje, the model who was murdered outside the Kalibata rubber plantation, after her love affair with a politician. And about Marsinah, the factory worker who was tortured to death [ . . . ] And I start to believe Laila because I've never seen her so worked up before. <ref type="bibr">(Utami 1998, 116)</ref> In reality, there is a much more ordinary explanation: Laila's lover was with his wife, but the women's readiness to assume a political killing shows how collective memory of New Order violence predisposes them to read a person's momentary unavailability as state terror rather than as an innocuous incident. This interplay of personal and collective frameworks also becomes clear in Enrico's remembrance: for instance, he recalls the unsettling PRRI Rebellion mostly through his mother's memory of his birth which happened during the unrest <ref type="bibr">(Utami 2012, 22)</ref>. The rebellion thus enters his consciousness as a family story of origin rather than a political conflict. Later, as a child, Enrico joins his friends in calling an unnamed skin disease "Gestapu fever", adopting this term for the alleged PKI coup without understanding its meaning. The name itself referred to the killings of the generals -attributed to the PKI -which actually took place in the early hours of October 1, 1965, but which the New Order regime deliberately dated to September 30 to produce the abbreviation "Gestapu" (Gerakan Tiga Puluh September, or September 30 Movement). The name's phonetic resemblance to "Gestapo" -the fearsome Nazi secret police known for surveillance and repression -intensified public fear of the PKI through suggestion and association. As Enrico recalls, "Gestapu was a name that struck fear into the hearts of the children of Padang" <ref type="bibr">(Utami 1998, 101)</ref>. These examples in the novel underscore how fears are shaped less by individual circumstances than by the political climate of the New Order, revealing the transmission of collective emotions into the implicit memory of individuals, as Halbwachs and Tulving suggest.</p><p>Just as fear is socially transmitted as a trace of trauma, silence remains its implicit residue. A recurring motif in Saman and Enrico's Love Story is the figure of the silent mother. In both novels, maternal silence follows a tragic loss: Enrico's mother withdraws into silence after her daughter's death, while Saman's mother, after losing three babies, is described as retreating into an "emptiness" where "conversation could not reach her" <ref type="bibr">(Utami 2005, 42)</ref>. These losses are not themselves political events; instead, the novels suggest that intimate grief gives rise to silence that resonates with a culturally inherited mode of silence shaped by the unprocessed trauma of the New Order. At the same time, this silence is not merely individual as even the most private memories are socially framed <ref type="bibr">(Halbwachs 1992, 38)</ref>. The mothers' silence becomes an allegory for the nation's own muted voice, where speaking of loss -of civil liberties in the Indonesian context -risked punishment under the New Order. The silent mothers in Utami's novels thus take on a greater symbolism because the nation is seen as a mother and officially referred to as Ibu Pertiwi (Mother Homeland). They mirror Ibu Pertiwi herself, embodying the nation's unspoken traumas. Yet silence in these novels does not signal passivity; rather, it becomes the ground from which resistance emerges.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>From silence to resistance: Navigating oppression in Ayu Utami's Saman</head><p>In Saman, Utami examines how individuals react to the systematic oppression of Indonesia's New Order government, representing a society shaped by state-enforced fear. In May 1998, Soeharto stepped down amidst developments that unfolded simultaneously in the final months of the New Order: student-led demonstrations, the regime's scapegoating of ethnic Chinese during the economic crisis, and growing international pressure <ref type="bibr">(Eklof 1999, 5, 122, 154)</ref>. However, Saman was published in April 1998 after having won the 1997 Jakarta Art Institute novel writing contest, while Soeharto's government was still in power. For this reason, its publication was deemed brave within Indonesian literary circles, since criticism of the regime could lead to censorship, intimidation, or disappearance, as in the case of the poet Wiji Thukul, whose writing was openly critical of the Indonesian government and who is still missing since his disappearance in February 1998. In 1998, Saman won the Jakarta Arts Council Novel Competition, and in 2000 it received international recognition with the Prince Claus Award -an accolade granted to creative artists in Africa, Asia, Latin America, and the Caribbean, where, in the Prince Claus Fund's description, "culture is under pressure" (n.p.). Umar Kayam, a well-known literary figure, praised the novel in the blurb as "Saya kira susah ditandingi penulis-penulis muda sekarang" (unparalleled among young writers) <ref type="bibr">(Utami 1998, 216</ref>; my translation). The novel was translated into Dutch in 2001 and English in 2005, so cementing its influence beyond Indonesia. Saman launched Utami (previously unknown as a writer) into immediate literary prominence given its timely engagement with taboo subjects, including criticism of state oppression and discussions of female sexuality.</p><p>The novel notably criticizes economic practices under the New Order government, where foreign investment did not translate to prosperity for local workers but rather reinforced exploitation and oppression. It highlights, for example, that "while most companies in Indonesia claim that they can't afford to pay workers an appropriate wage, a significant percentage of their budget consists of 'hidden costs', such as bribes to officials and functionaries" <ref type="bibr">(Utami 2005, 179)</ref>. In another example, it describes how farmers in the real village of Perabumulih were exploited under the government's Perkebunan Inti Rakyat (People's Nucleus Plantation) project -a programme implemented in the New Order era -using a fictional narrative to depict historically documented practices of forced debt, whereby "every time they [farmers] sold latex to the company, thirty percent was deducted from their payment to pay off the debt" (78). Furthermore, the novel criticizes how foreign-backed companies, supported by the state, pressured villagers into signing blank agreements and imposed land conversions -from subsistence farming to monocrop rubber plantations -that displaced communities. Yet what is most telling is not the corruption itself, but the villagers' muted response in the novel's depiction of how repression operates as implicit memory: people have learned that outward protest carries the risk of them being branded subversive.</p><p>In Saman, this logic of repression becomes most apparent in the character development of Wisanggeni, a priest, who later takes the name Saman and becomes an underground activist resisting New Order oppression. His transformation, however, is marked not by heroism but by hesitation. Through his ministry among plantation workers employed by Texcoil, Saman becomes aware of the multinational company's structural violence and its collusion with the New Order government. His initial response remains confined to moral reflection rather than action, a hesitation due to the way authoritarian rule inscribes fear as a kind of implicit memory, shaping what individuals perceive as permissible. Thus Saman excuses himself from leadership by falsely claiming: "I've only just got here, I don't know what's been happening" <ref type="bibr">(Utami 2005, 93)</ref>. Resistance is delayed because the memory of state violence has conditioned fear as the default response. In this sense, Saman embodies Halbwachs's idea of socially framed memory and Tulving's notion of trauma that survives implicitly: the past violence of the regime conditions behaviour in the present.</p><p>Saman even dissuades workers from demonstrating, calling protests an act of violence and rationalizing his stance in language shaped by the implicit memory of fear: "However much we are provoked, violence would only result in our actions being branded as terrorism and us being labeled criminal or subversive" <ref type="bibr">(Utami 2005, 168)</ref>. His anxiety is inseparable from the New Order's political climate; he articulates his fear of being labelled a leftist through the Church's reluctance to be associated with communist sympathies. As he notes, "the Church itself is in a compromised position. The congregation is frightened by the spectre of Communism" (112), echoing historical accounts of the Catholic Church's response to the 1965-66 violence. As the ethnographer Justin Wejak (2022) observes, "the Church did not directly challenge the Army, even in religious matters" (3), as when, on the island of Flores, for example, Catholics accused of communism were denied the last rites before execution. By aligning Saman's personal fears with the Church's institutional caution, Utami highlights how silence functions as a strategy of survival under the New Order -a dynamic consistent with Halbwachs's argument that memory and action are socially framed within dominant institutions. Hesitation over acting is not only institutional but also generational. Saman, in his early thirties by the mid-1990s, would have been a toddler during the anti-leftist purge and thus unlikely to remember its brutality directly. As an Indonesian living under the New Order, however, he has been conditioned to equate protest with leftist ideology and persecution. His silence therefore reveals how memory operates less through explicit knowledge or first-hand experience than through implicit fear transmitted across generations.</p><p>The turning point for Saman is the death of Upi, a disabled teenager, in a fire set by military-looking men sent by Texcoil, as "the death of the girl seemed to change everything: he was no longer afraid about what might happen to him" <ref type="bibr">(Utami 2005, 102)</ref>. It propels him to take action which places him in direct conflict with the ruling elites and starting a sequence of events that illustrate how state violence operates not only by silencing individuals but by imposing ready-made narratives onto those who resist. With Yasmin, a corporate lawyer, Saman "arrange <ref type="bibr">[d]</ref> for their friends in the media to expose the issue. It wasn't easy. <ref type="bibr">[They]</ref> suspected that in the beginning Texcoil tried to cover up the case by bribing the police and the public prosecutor" (33). Among these friends is the journalist Laila, who has previously been reluctant to question injustice or authority. This attempt to expose injustice leads to Saman's arrest and torture, where he is pressured into signing a fabricated confession that "satisfied his torturers: He was actually a Communist disguised as a priest" (103). Assisted by his allies, Saman escapes, but is forced into exile in New York, where he runs an NGO (non-governmental organization). Even in exile, however, he continues to be read through Cold War frameworks: "his organization is considered radical. A military intelligence officer once said that his name, Saman, had a left feel about it" (23: my emphasis). In Halbwachs's terms, memory is socially framed, and here the "frame" is coercively provided by the Indonesian state itself. Yet although Saman was coerced into signing a false confession under torture before his escape, his resistance in exile reveals how fear can be reworked into resistance through communal solidarity. In other words, implicit memory, while internalized, is not purely individual, showing that implicit memory, while internalized, is not purely individual. Rather, as Halbwachs emphasizes, it is sustained and reactivated through collective ties.</p><p>This dynamic is even more evident when it comes to the same-generation female characters in the novel. The novel's polyphonic structure foregrounds gendered experiences of trauma, revealing how women in particular navigate fear under the New Order. As state ideology reinforced traditional gender roles by confining women to domestic, apolitical roles as wives and mothers, silence weighed especially heavily on women. Although the novel bears Saman's name as the figure who openly confronts the New Order, these women's voices are central as their subtler opposition allows Saman's political actions to unfold. The novel depicts the varied ways they process collective trauma, here considered in order of their differing degrees of resistance. Laila, a journalist, embodies conformity: despite belonging to a generation that did not personally experience the 1965-66 killings, she remains fearful of questioning injustice and is detached from politics, focusing instead on fulfilling traditional expectations by being "on a mission to find a suitable man with whom she could make a family and please her parents" <ref type="bibr">(Utami 2005, 126)</ref>. By contrast, Shakuntala (an artist), Yasmin (a lawyer), and Cok (a hotelier) articulate different forms of non-conformity shaped by their social positions. Most visibly, they resist societal norms regarding female sexuality, which emphasize female chastity. They all casually engage in non-marital sexual relationships, with Shakuntala -whose early and openly declared rebellion against sexual norms sets her apart -especially being labelled as sexually promiscuous, as she recounts: "My father and my sister call me a whore because I've slept with a number of men and a number of women" (114). While more outspoken than Laila, these women's resistance remains circumscribed as they refrain from directly confronting state authorities.</p><p>Saman's female characters articulate forms of "quiet" resistance that gain significance when understood as interrelated, illustrating how personal acts of defiance contribute to a broader collective framework of memory. As an international artist, Shakuntala, for example, uses her freedom abroad to voice criticism of authoritarianism while avoiding direct political opposition. In the Netherlands, she redefines her identity by refusing to use her father's surname, instead dividing her own name into two -"First name: Shakun. Surname: Tala" (Utami 2005, 137) -a symbolic rejection of patriarchal lineage and, by extension, the norms reinforced by the New Order. Her assertion of autonomy emboldens the more hesitant members of the group, especially Laila. Yasmin, a corporate lawyer, also hesitates to challenge the government's corruption publicly. Her interactions with Saman gradually inspire her to begin questioning authority, leading her to redefine her professional path: she transitions away from her corporate role, no longer using her legal expertise to support the oppressors. Instead, she "often works for a legal aid team that provides legal services for the poor and the underprivileged" (23) serving as an advocate for marginalized communities.</p><p>Alongside Yasmin, Cok, a hotelier, also helps Saman escape to New York after he exposes Texcoil's exploitation. Her decision to assist a political fugitive contrasts with the prevailing fear of associating with those deemed subversive among Indonesians. This resistance is striking given her past punishment for violating social norms: her parents abruptly remove her from school after finding a condom in her bag. Her sudden disappearance is recalled by classmates when "one day without warning her desk was empty" <ref type="bibr">(Utami 2005, 149)</ref>. This removal echoes the practice of New Order repression where individuals who failed to conform could vanish without explanation -a fate that befell many student activists during the regime's final years. The stories of the four women reveal more than individual ways of coping with trauma or confronting taboos. Taken together, they show how personal experiences and connections coalesce into a collective framework of action and memory. Each woman brings a different resource -Laila as a journalist, Yasmin with legal expertise, Cok with business networks, and Shakuntala through her refusal to conform to the New Order's gendered expectations that emboldens the group. Their interactions not only support Saman's resistance but also constitute a shared space in which fear is negotiated, silence is broken, and political agency becomes possible. In this sense, their actions and conversations create what Halbwachs calls a "social framework" of memory, where the past is not carried by one individual but sustained, shared, and acted upon in community.</p><p>The women's initial reluctance, like Saman's, to act openly against the regime mirrors the collective memory of a society conditioned by fear. As Astrid Erll's (2022) concept of "schematized memorata" suggests, the transmission of trauma often remains "not intentional, non-conscious, and not visible" (5) and Saman depicts how such implicit fear can tip anytime into conscious defiance. This tension between silence and defiance also underpins the novel's reception. Critics such as Marshall <ref type="bibr" target="#b4">Clark (2007)</ref> and Sebastian <ref type="bibr" target="#b13">Partogi (2018)</ref> have rightly celebrated the novel's taboo-breaking interventions. Clark notes that Utami "highlight[s] the full complexity of previously shunned issues such as female sexuality and the struggle between personal faith and political action" (2007, n.p.), and, two decades later, Partogi still praised the novel for breaking taboos, explaining that "the novel sheds light on issues considered taboo during the New Order era, such as military violence, corporate despotism and the repression of women's sexuality" <ref type="bibr">(2018, n. p.)</ref>. Yet this commendation also risks overshadowing Saman's silences: while exposing domestic repression, Utami does not engage with the Cold War dynamics that enabled it. This omission does not lessen the novels' importance but highlights the limits of Indonesian literature in reckoning with the global dimensions of the 1965-66 mass killings.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Political upheavals and silence in Enrico's Love Story</head><p>Enrico's Love Story continues Utami's exploration of Indonesia's suppressed histories, this time spanning a broader temporal arc that includes the PRRI Rebellion in 1958, the mass killings of 1965-66, student protests during the New Order, and Soeharto's resignation in 1998. Enrico's Love Story is not the first novel by Utami to address the massacre in <ref type="bibr">1965-66;</ref><ref type="bibr">her earlier novel Larung (2001)</ref>, the sequel to Saman, also mentions the mass killings and the lasting collective trauma they inflicted. However, Enrico's Love Story appeared as part of a new wave of Indonesian novels revisiting 1965 as the 50th anniversary of the events approached in 2015, the most prominent being Laksmi Pamuntjak's (2012) Amba and Leila Chudori's (2012) Pulang, both published in 2012. While Amba and Home focus primarily on the direct impact of 1965 on individuals and their families, Enrico's Love Story traces Indonesian history over a broader period, situating 1965 within a longer continuum.</p><p>Although <ref type="bibr">Sears (2007, 21, 38)</ref> does not discuss Enrico's Love Story, it follows her observation that Utami's novels create a space for confronting silenced histories. This approach is evident in the novel through Enrico's lifelong entanglement with Indonesia's political upheavals. The novel's depiction of Enrico's childhood during political rebellion and his subsequent experiences of love and loss reflect the implicit memory of fear and the enduring impact of collective memory of trauma, where narratives from previous generations dominate the present. Enrico's identity is largely shaped by the PRRI Rebellion, which he describes as a "revolution" in order to position himself against Soekarno's policies. Raised during this period of political instability, he witnesses the devastation of his home town, which leaves him with deeply ingrained fears and avoidance behaviours in adulthood, such as distancing himself from his home town and struggling to form lasting attachments.</p><p>Enrico's primary coping mechanism is repression: staving off traumatic experiences as if they never happened, as reflected in his response to his sister's death from an illness in childhood, conveyed in the chapter appropriately titled "Lost Memories", where he states: "I have no recollection of her death. I don't know how it is that she has been erased from my memory" <ref type="bibr">(Utami 2012, 47)</ref>. His personal amnesia echoes Anderson's description of Indonesia's "historical amnesia", as both individual and collective memories of trauma are suppressed or overwritten by dominant narratives. Enrico's silence, presented as another primary response to trauma alongside repression, is a recurring motif in the novel. His silence begins with his own traumatic birth during the PRRI Rebellion: "When I was born I was silent. I did not cry. I made no sound at all" (20). This pattern is reaffirmed after the death of his sister: "I did not cry. I said nothing. Just like when I was born" (50), thus signalling a lifelong tendency to retreat into silence following distressing events. The same coping mechanism is adopted by his mother, who, after her daughter's death, "did not speak of her sadness. It was a lesson she had learnt from [Enrico's] birth" (51). The novel shows that silence, however, cannot resolve trauma. Enrico notes that his mother "became hard and bitter. She grew a shell to protect the wound in her soul" (52). For Enrico, trauma manifests in recurring nightmares and fragmented recollections when "pieces of [his] past came to [him] in [his] dreams, as if they'd been hidden away all this time in a cave at the bottom of the lake" (185). Silence itself is transmitted as a familial pattern, and historical amnesia is reproduced not only by official narratives but also through intergenerational habits of forgetting.</p><p>As Halbwachs suggests, silence functions not only as repression but also as a practice of memory -that takes the form of silence -sustained within a social framework. Enrico's reflections on the anti-leftist purge show how collective trauma enters the family through silence in his parents' refusal to speak which leaves him believing that "Gestapu" was a skin disease. Silence recurs in the hidden record of Lilis Suryani's pro-Soekarno songs about which Enrico has vowed to "keep [his] mouth shut [ . . . ] for twenty-five years" <ref type="bibr">(Utami 2012, 99)</ref>. Both these acts capture how the unspeakable history of 1965 was displaced onto everyday life. By the end of the novel, however, silence is refigured through narration as Enrico entrusts his story to his wife. Her act of writing, transforming Enrico's trauma into speech, is "a process that has helped [him] find peace" (235). Utami seems to suggest that memory does not move from latency to expression in isolation but only within personal and relational settings. Geopolitical events -the PRRI Rebellion, the May 1968 student and workers' uprising in France, the fall of the USSR, and Soeharto's resignation -appear only as distant markers in Enrico's story, while the focus remains on his bond with his mother. Silence is not a void but a practice through which trauma is transmitted and reshaped across generations. What the novel adds to trauma theory, then, is the recognition that silence is not just the absence of memory but one of its most enduring forms -it becomes a way of remembering that carries the emotional weight of the past even when it cannot be spoken. Like Saman, however, Enrico's Love Story engages minimally with relevant international contexts despite its powerful engagement with political trauma.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Unspoken geopolitics in Ayu Utami's Saman and Enrico's Love Story</head><p>Saman and Enrico's Love Story, while widely read as interventions against New Order repression, frame political violence primarily as a domestic failure and leave the Cold War's international power structures largely unexamined. This tension becomes especially visible in the reception of Saman. While the novel gained wide acclaim in Indonesia and internationally, some critics argued that these endorsements were due to its engagement with literary politics. For example, Katrin <ref type="bibr">Bandel (2003, 111)</ref> notes that the novel's success could be linked to the institutional influence of Komunitas Utan Kayu (KUK)a prominent Jakarta-based literary and cultural collective -and its cultural networks, particularly in Europe, which helped shape what was promoted as "Indonesian literature" abroad. The claim that Utami's novels offer bold reconstructions of suppressed histories in their criticism of repression therefore warrants a more nuanced assessment. While the novels challenge the New Order's politics, they do so within certain boundaries. Utami's literary networks, such as KUK, were shaped by figures whose positions were aligned with pro-western currents in Cold War cultural politics. Under the New Order government, KUK was permitted to operate within certain constraints, as its perspectives aligned with the government's anti-leftist stance <ref type="bibr">(Herlambang 2011, 5-6)</ref>. This affiliation is reflected in Enrico's Love Story, when Enrico praises Teater Utan Kayu -a cultural hub within KUK -as "a terrific place" <ref type="bibr">(Utami 2012, 172)</ref>. Saman does not reference KUK within its narrative, but the novel is dedicated to the collective <ref type="bibr">(Utami 2005: vii)</ref>. On the whole, Utami's narratives leave the western bloc's involvement in Indonesia during the Cold War largely unexamined, despite the bloc's well-documented role in shaping the conditions that enabled Soeharto's rise. For example, the so-called Gilchrist Document, leaked in 1965, suggested USA-UK coordination with Indonesian military figures to undermine Soekarno. Former CIA officer Ralph McGehee also revealed that the CIA provided lists of communists to the Indonesian military, aiding the 1965-66 anti-leftist purge that brought Soeharto to power <ref type="bibr">(Scott 1990, 302)</ref>. These revelations of foreign involvement in Indonesian politics, now exposed through historical documents, long predate Utami's writings, but they remain absent from Saman and Enrico's Love Story.</p><p>In Saman, this elision is particularly pronounced. Although the novel foregrounds multinational corporations, military repression, and labour exploitation, these forces appear as initiatives of the New Order regime rather than as elements of a Cold War political economy. Enrico's Love Story, published 14 years after Saman, engages somewhat more directly with international involvement, as shown in Enrico's statement: geopolitics are patterned; and third, that these silences function as forms of implicit collective memory conditioned by Cold War cultural frameworks. Saman criticizes domestic mechanisms of oppression under Soeharto's New Order but leaves unaddressed the Cold War geopolitics that enabled the regime's rise. By contrast, Enrico's Love Story reproduces Cold War-era anti-Soekarno discourses, particularly those reinforced by the western bloc. Together, the novels criticize domestic repression while remaining silent on the Cold War geopolitics that shaped it.</p><p>Saman and Enrico's Love Story show how silences emerge not as gaps but as active elements of current memory: they inform how the past is negotiated in the present. According to Halbwachs, silence reflects the social framing of what can be remembered, while in Tulving's terms it functions as implicit memory. Indonesian literature continues to grapple with political trauma within patterns of remembering still influenced by Cold War cultural politics. By drawing upon the theories of collective and implicit memory, this article has argued that Indonesian literature can simultaneously contest authoritarian repression and reproduce Cold War silences, thus revealing the enduring power of geopolitical frameworks in shaping what can -and cannot -be said. Narrative reckoning here operates as a reading experience shaped by silence and omission: whether deliberate or not, the novels position the reader within the same constraints of partial knowledge and inherited fear that govern the characters' experiences. In doing so, the novels do not resolve historical trauma but enact its ongoing negotiation, making the reader a participant in an ongoing process of remembering. </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Disclosure statement</head><p>No potential conflict of interest was reported by the author(s).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Funding</head><p>The author(s) reported there is no funding associated with the work featured in this article.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Notes on contributor</head><p>Silvia Mayasari-Hoffert is a fellow in Southeast Asian studies at Goethe University Frankfurt, where she also earned her PhD. Her research examines the intersections of literature, culture, and sociopolitical power, with a particular focus on postcolonialism and the role of narrative in shaping national identity. She is the author of The Cold War and Its Legacy in Indonesia: Literary Representation of the Red Scare (2024). She has also contributed chapters to Decolonizing Comparative Literature: Reading Across Southeast Asian Literatures (2025), A Space of Their Own: <ref type="bibr">Women, Writing and Place 1850</ref><ref type="bibr">-1950</ref><ref type="bibr">(2023)</ref>, Subaltern Women's Narratives: Strident Voices, Dissenting Bodies (2021), and Literature Education in the Asia-Pacific: <ref type="bibr">Policies, Practices and Perspectives in Global Times (2018)</ref>. Her broader research interests include cultural politics, censorship, trauma, and gender in Southeast Asia.</p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head>Note 1 .</head><label>1</label><figDesc>All reference to Saman are to the translation by Allen (Utami 2005) of the same title.</figDesc></figure>
+		</body>
+		<back>
+			<div type="annex">
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>General Soeharto became president after taking power from the hands of Soekarno. Under Soeharto, Indonesia became the favourite child of the Western bloc. American capital flowed in, both to strengthen the regime and to finance businesses that were plundering the country's natural resources. <ref type="bibr">(Utami 2012, 226)</ref> This reference is brief, isolated, and largely descriptive rather than critical. The novel still attributes Indonesia's sociopolitical problems mainly to domestic leadership rather than to the broader geopolitical context. This framing is underscored when Enrico's wife tells him: "You're the bastard child of the Soekarno regime. I'm the eldest child of the Soeharto regime" (226). Applying the term "regime" to Soeharto is historically warranted, given his rise through the 1965-66 mass killings and the subsequent decades of authoritarianism and military repression. Using "regime" in relation to Soekarno, however, echoes Cold War portrayals that sought to delegitimize non-aligned states, a tendency evident in western representations of Soekarno's government as authoritarian. American diplomatic documents, for example, framed Soekarno's Guided Democracy as a means to "destroy the governmental institutional bases for opposition" (US Department of <ref type="bibr">State 1961-63, n.p.)</ref>.</p><p>What emerges, then, is a narrative that emphasizes internal failures. Even as Enrico's Love Story briefly mentions international complicity, it ultimately recentres domestic dysfunction as the primary cause of Indonesia's political failures. For example, while the novel mentions Soekarno's seizure of West Papua in 1963 <ref type="bibr">(Utami 2012, 65)</ref>, it overlooks how the region's resources were opened to foreign corporate control after Soeharto came to power, as his pro-western policies enabled USA-based Freeport-McMoRan to secure rights over Papua's Grasberg mine in 1967. Enrico directs his anger at Soeharto, however, recalling his time as an oil engineer: "after a year I felt as if I was turning into a broiler hen. What made it worse was that the seed, food and medicine for such creatures were all controlled by General Soeharto and his cronies" (155). With no competing perspectives offered in the narrative -particularly perspectives that situate Soeharto's authoritarianism within Cold War geopolitics and western economic and political support -Enrico's voice becomes the dominant frame through which readers encounter the past, echoing western discourses that simplify Indonesia's troubled history to regimes headed by Soekarno and Soeharto.</p><p>By the late 1990s, shifting international priorities placed greater emphasis on human rights, bringing Soeharto's administration -marked by human rights abuses -into increasing tension with global norms. As Anderson observes, "the irony of Soeharto's story is that he was finally undone by the forces that had made his long dictatorship possible" <ref type="bibr">(2008, n.p.)</ref>. Thus, while the west initially viewed Soeharto as a strategic ally within the Cold War framework, evolving political developments in the 1990s led to a reevaluation of his government on the international stage. Utami's criticism of the New Order in Saman suggests an awareness of waning international support of Soeharto, though this remains speculative. Ultimately, despite differing emphases, the two novels confine their engagement with collective trauma and silence to domestic politics.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Conclusion: The challenges of narrative reckoning</head><p>This article has shown, first, that Utami's novels represent political trauma primarily through domestic frames of repression; second, that their silences regarding Cold War</p></div>			</div>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<monogr>
+		<title level="m" type="main">Ketika Jurnalisme Dibungkam Sastra Harus Bicara</title>
+		<author>
+			<persName><forename type="first">Seno</forename><surname>Ajidarma</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Gumira</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1997">1997</date>
+			<publisher>Yayasan Benteng Budaya</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<title level="a" type="main">Exit Soeharto</title>
+		<author>
+			<persName><forename type="first">Benedict</forename><surname>Anderson</surname></persName>
+		</author>
+		<idno type="DOI">10.64590/jeh</idno>
+		<ptr target="https://doi.org/10.64590/jeh" />
+	</analytic>
+	<monogr>
+		<title level="j">New Left Review</title>
+		<imprint>
+			<biblScope unit="volume">50</biblScope>
+			<biblScope unit="page" from="27" to="59" />
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title level="a" type="main">Politik Sastra Komunitas Utan Kayu di Eropa</title>
+		<author>
+			<persName><forename type="first">Katrin</forename><surname>Bandel</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Sastra Nasionalisme Pascakolonialitas</title>
+		<editor>
+			<persName><forename type="first">Saut</forename><surname>Situmorang</surname></persName>
+		</editor>
+		<imprint>
+			<publisher>Pustaka Harian</publisher>
+			<date type="published" when="2003">2003</date>
+			<biblScope unit="page" from="97" to="114" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<author>
+			<persName><forename type="first">Susan</forename><surname>Blackburn</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Women and the State in Modern Indonesia</title>
+		<meeting><address><addrLine>Chudori, Leila</addrLine></address></meeting>
+		<imprint>
+			<publisher>Cambridge University Press</publisher>
+			<date type="published" when="2004">2004. 2012</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<monogr>
+		<author>
+			<persName><forename type="first">Marshall</forename><surname>Clark</surname></persName>
+		</author>
+		<ptr target="https://www.insideindonesia.org/editions/edition-5750/saman-a-sensation" />
+		<title level="m">Saman, a Sensation!&quot; The Jakarta Post</title>
+		<imprint>
+			<date type="published" when="2007-09-22">2007. September 22</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<monogr>
+		<title level="m" type="main">Feet to the Fire: CIA Covert Action in Indonesia, 1957-1958</title>
+		<author>
+			<persName><forename type="first">Kenneth</forename><surname>Conboy</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">James</forename><surname>Morrison</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1999">1999</date>
+			<publisher>Naval Institute Press</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<monogr>
+		<title level="m" type="main">Indonesian Politics in Crisis: The Long Fall of Soeharto, 1996-98</title>
+		<author>
+			<persName><forename type="first">Steffan</forename><surname>Eklof</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1999">1999</date>
+			<publisher>NIAS Press</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title level="a" type="main">The Hidden Power of Implicit Collective Memory</title>
+		<author>
+			<persName><forename type="first">Astrid</forename><surname>Erll</surname></persName>
+		</author>
+		<idno type="DOI">10.1017/mem.2022.7</idno>
+		<ptr target="https://doi.org/10.1017/mem.2022.7" />
+	</analytic>
+	<monogr>
+		<title level="j">Memory, Mind &amp; Media</title>
+		<imprint>
+			<biblScope unit="volume">1</biblScope>
+			<biblScope unit="issue">14</biblScope>
+			<biblScope unit="page" from="1" to="17" />
+			<date type="published" when="2022">2022</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<monogr>
+		<title level="m" type="main">On Collective Memory</title>
+		<author>
+			<persName><forename type="first">Maurice</forename><surname>Halbwachs</surname></persName>
+		</author>
+		<editor>Lewis A. Coser</editor>
+		<imprint>
+			<date type="published" when="1992">1992</date>
+			<publisher>University of Chicago Press</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<monogr>
+		<title level="m" type="main">Cultural Violence: Its Practice and Challenge in Indonesia</title>
+		<author>
+			<persName><forename type="first">Wijaya</forename><surname>Herlambang</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2011">2011</date>
+			<publisher>VDM Verlag Dr. Müller</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title level="a" type="main">Toward an Ethnography of Silence</title>
+		<author>
+			<persName><forename type="first">Carol</forename><surname>Kildron</surname></persName>
+		</author>
+		<idno type="DOI">10.1086/595623</idno>
+		<ptr target="https://doi.org/10.1086/595623" />
+	</analytic>
+	<monogr>
+		<title level="j">Current Anthropology</title>
+		<imprint>
+			<biblScope unit="volume">50</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="5" to="27" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<monogr>
+		<author>
+			<persName><forename type="first">Silvia</forename><surname>Mayasari-Hoffert</surname></persName>
+		</author>
+		<title level="m">The Cold War and Its Legacy in Indonesia. Literary Representation of the Red Scare</title>
+		<imprint>
+			<publisher>Routledge</publisher>
+			<date type="published" when="2024">2024</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">Laksmi</forename><surname>Pamuntjak</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Amba. Gramedia</title>
+		<imprint>
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<monogr>
+		<title level="m" type="main">Ayu Utami: On the Reform Era, 20th Anniversary of &apos;Saman&apos;</title>
+		<author>
+			<persName><forename type="first">Sebastian</forename><surname>Partogi</surname></persName>
+		</author>
+		<ptr target="https://www.thejakartapost.com/life/2018/06/25/ayu-utami-on-the-reform-era-20th-anniversary-of-saman.html" />
+		<imprint>
+			<date type="published" when="2018-06-25">2018. June 25, 2018</date>
+		</imprint>
+	</monogr>
+	<note>The Jakarta Post</note>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<monogr>
+		<title level="m" type="main">About the Prince Claus Fund</title>
+		<author>
+			<persName><forename type="first">Prince</forename><surname>Claus</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Fund</forename></persName>
+		</author>
+		<ptr target="https://princeclausfund.nl/about" />
+		<imprint>
+			<date type="published" when="2025-10-21">October 21, 2025</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<monogr>
+		<author>
+			<persName><forename type="first">Geoffrey</forename><forename type="middle">B</forename><surname>Robinson</surname></persName>
+		</author>
+		<title level="m">The Killing Season: A History of the Indonesian Massacres</title>
+		<imprint>
+			<publisher>Princeton University Press</publisher>
+			<date type="published" when="2018">2018</date>
+			<biblScope unit="page" from="1965" to="1966" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<monogr>
+		<title level="m" type="main">Buried Histories: The Anticommunist Massacres of 1965-1966 in Indonesia</title>
+		<author>
+			<persName><forename type="first">John</forename><surname>Roosa</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2020">2020</date>
+			<publisher>University of Wisconsin Press</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<analytic>
+		<title level="a" type="main">How I Came to Jakarta</title>
+		<author>
+			<persName><forename type="first">Peter</forename><surname>Scott</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Dale</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Agni</title>
+		<imprint>
+			<biblScope unit="volume">31</biblScope>
+			<biblScope unit="page" from="297" to="304" />
+			<date type="published" when="1990">1990</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<analytic>
+		<title level="a" type="main">Reading Ayu Utami: Notes Toward a Study of Trauma and the Archive in Indonesia</title>
+		<author>
+			<persName><forename type="first">Laurie</forename><forename type="middle">J</forename><surname>Sears</surname></persName>
+		</author>
+		<ptr target="https://www.jstor.org/stable/40376412" />
+	</analytic>
+	<monogr>
+		<title level="j">Indonesia</title>
+		<imprint>
+			<biblScope unit="volume">83</biblScope>
+			<biblScope unit="page" from="17" to="39" />
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<analytic>
+		<title level="a" type="main">Djago: The Rooster</title>
+		<author>
+			<persName><forename type="first">Scott</forename><surname>Sherman</surname></persName>
+		</author>
+		<ptr target="http://linguafranca.mirror.theinfo.org/print/0110/feature.html" />
+	</analytic>
+	<monogr>
+		<title level="j">Civil War in Asia. Time, March</title>
+		<imprint>
+			<biblScope unit="volume">11</biblScope>
+			<biblScope unit="page" from="18" to="22" />
+			<date type="published" when="1958">2001. October 8. 1958</date>
+		</imprint>
+	</monogr>
+	<note>Lingua Franca</note>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<monogr>
+		<title level="m" type="main">Elements of Episodic Memory</title>
+		<author>
+			<persName><forename type="first">Endel</forename><surname>Tulving</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1983">1983</date>
+			<publisher>Clarendon Press</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<monogr>
+		<title level="m" type="main">Memory Systems</title>
+		<author>
+			<persName><forename type="first">Endel</forename><surname>Tulving</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1994">1994</date>
+			<publisher>MIT Press</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<analytic>
+		<title level="a" type="main">Priming and Human Memory Systems</title>
+		<author>
+			<persName><forename type="first">Endel</forename><surname>Tulving</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Daniel</forename><surname>Schacter</surname></persName>
+		</author>
+		<idno type="DOI">10.1126/science.2296719</idno>
+		<ptr target="https://doi.org/10.1126/science.2296719" />
+	</analytic>
+	<monogr>
+		<title level="j">Science</title>
+		<imprint>
+			<biblScope unit="volume">247</biblScope>
+			<biblScope unit="issue">4940</biblScope>
+			<biblScope unit="page" from="301" to="306" />
+			<date type="published" when="1990">1990</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<monogr>
+		<title level="m" type="main">Foreign Relations of the United States, 1961-1963</title>
+		<ptr target="https://history.state.gov/historicaldocuments/frus1961-63v23/d169" />
+		<imprint>
+			<publisher>US Department of State</publisher>
+			<biblScope unit="volume">XXIII</biblScope>
+			<biblScope unit="page" from="1961" to="1963" />
+			<pubPlace>Southeast Asia</pubPlace>
+		</imprint>
+	</monogr>
+	<note>Document 169. Office of the Historian</note>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">Ayu</forename><surname>Utami</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1998">1998</date>
+			<publisher>Saman. Gramedia</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<monogr>
+		<author>
+			<persName><forename type="first">Ayu</forename><surname>Utami</surname></persName>
+		</author>
+		<title level="m">Larung. Gramedia</title>
+		<imprint>
+			<date type="published" when="2001">2001</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<monogr>
+		<title level="m" type="main">Saman</title>
+		<author>
+			<persName><forename type="first">Ayu</forename><surname>Utami</surname></persName>
+		</author>
+		<editor>Pamela Allen. Gramedia</editor>
+		<imprint>
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b27">
+	<monogr>
+		<title level="m" type="main">Enrico&apos;s Love Story</title>
+		<author>
+			<persName><forename type="first">Ayu</forename><surname>Utami</surname></persName>
+		</author>
+		<editor>Pamela Allen. Gramedia</editor>
+		<imprint>
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b28">
+	<monogr>
+		<title level="m" type="main">Catholic Church and Killings of 1965-66 in Flores, Eastern Indonesia</title>
+		<author>
+			<persName><forename type="first">Justin</forename><forename type="middle">L</forename><surname>Wejak</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2022-06">2022. June</date>
+			<publisher>Academia Letters</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b29">
+	<analytic>
+		<title level="a" type="main">Indonesia: The Troubled Victory</title>
+		<author>
+			<persName><forename type="first">Ted</forename><surname>Yates</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">NBC News. Documentary film</title>
+		<imprint>
+			<date type="published" when="1967">1967</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

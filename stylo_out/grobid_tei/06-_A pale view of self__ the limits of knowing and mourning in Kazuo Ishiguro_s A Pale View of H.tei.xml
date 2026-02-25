@@ -1,0 +1,1407 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">&apos;A pale view of self&apos;: the limits of knowing and mourning in Kazuo Ishiguro&apos;s A Pale View of Hills</title>
+				<funder>
+					<orgName type="full">China Scholarship Council</orgName>
+				</funder>
+				<funder ref="#_RqMU5z6">
+					<orgName type="full">unknown</orgName>
+				</funder>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author role="corresp">
+							<persName><forename type="first">Zengjing</forename><surname>Li</surname></persName>
+							<email>zengjing_li@outlook.com</email>
+							<affiliation key="aff0">
+								<orgName type="department">School of Foreign Languages</orgName>
+								<orgName type="institution">Shanghai Jiao Tong University</orgName>
+								<address>
+									<settlement>Shanghai</settlement>
+									<country>People&apos;s Republic of China</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">&apos;A pale view of self&apos;: the limits of knowing and mourning in Kazuo Ishiguro&apos;s A Pale View of Hills</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date/>
+						</imprint>
+					</monogr>
+					<idno type="MD5">6B3E8FFD6997E0034B60DC4E883D35FC</idno>
+					<idno type="DOI">10.1080/0950236X.2025.2608850</idno>
+					<note type="submission">Received 18 October 2024; Accepted 31 October 2025</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.0" ident="GROBID" when="2026-02-25T19:52+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>Kazuo Ishiguro's first-person narrators are known for their self-deception, and more generally for their lack of self-knowledge. As narrators who are 'supposed to know', they complicate the category of narrative unreliability. Taking A Pale View of Hills as a case study, the essay explores narratorial ignorance concerning Etsuko's hindered process of mourning and its ethical and socio-political implications. Knowledge is largely obscured by Etsuko's repressed grief over her dead daughter, Keiko, and by her ambiguous account of herself that serves to secure her motherhood. Etsuko's disavowal of grief bears on societal prohibition on mourning in postwar Japan and social expectations for 'good immigrants' in the 1980s UK. As a mother, her recollection of personal history falls short of confronting the 'differend' between her status as a war survivor and her decision to emigrate, which is sequentially linked to Keiko's suicide rather than being its direct cause. Etsuko's compromised ability to know and to mourn reveals the tension in Ishiguro's oeuvre (and in novelistic discourse more broadly) between individual agency and the structural constraints within complex social backdrops.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Introduction</head><p>Shortly after the beginning of Kazuo Ishiguro's A Pale View of Hills (1982), the first-person narrator Etsuko is presented as looking out of the window at night. A Japanese woman living alone in England, Etsuko has recently lost her elder daughter, Keiko, and received a visit from the younger one, Niki. 'That same evening I was standing at the windows, looking out into the darkness, when I heard Niki say behind me; "What are you thinking about now, Mother?" She was sitting across the settee, a paperback book on her knee'. <ref type="bibr">1</ref> This scene draws on a familiar trope of looking at oneself in the mirror.</p><p>In the literary tradition, the mirror trope usually calls attention to one's relationship with the self, especially when the viewer's mirror image is distorted or absent. Think of two symbolic moments of identity crisis when Jane Eyre perceives her reflection as either a phantom (during her confinement in the red-room) or a stranger (before her wedding). In Bram Stoker's Dracula (1897), the vampire's unseen face in the mirror reveals the moral blindness of human characters to the evil within themselves. <ref type="bibr">2</ref> Mirrors and mirroring also figure prominently in psychoanalysis. Psychoanalytic self-reflection, according to Sigmund Freud, is analogous to the uneasy experience of seeing oneself in the mirror. <ref type="bibr">3</ref> Of greater relevance here is Jacques Lacan's account of the mirror stage, a phase in mental development when infants identify with their mirror image. It is the moments of méconnaissances (failure to recognise) 'that constitute the ego, the illusion of autonomy to which it entrusts itself'. <ref type="bibr">4</ref> Lacan's theory, in capturing our illusional sense of self, reveals the structural limits of self-knowledge.</p><p>Common sense tells us that when one looks out of the window at night in a lighted room (Niki's act of reading indicates that there is light in the room), what is visible, apart from the dark outside, is a dim specular image of oneself. Readers would expect Etsuko to have noticed her image at this point, yet she somehow ignores it, whether intentionally or not. The striking absence of her reflection, along with the foregrounded darkness outside, hints at an opacity to herself. The sense of self-estrangement is further strengthened by Etsuko's response to Niki's question: '"I was thinking about someone I knew once. A woman I knew once"'. <ref type="bibr">5</ref> A mother supposed to be mourning her elder daughter, Etsuko's reply is significantly unusual and unexpected in giving no acknowledgement of her loss and grief. The mirror trope is usually concerned with 'the limits of self-knowledge, and the probable -even fatal -consequences of self-realisation', as is the case in Ovid's myth of Narcissus. <ref type="bibr">6</ref> The same applies to Ishiguro's 'window trope' 7 in Pale View. 'Throughout these recollections Etsuko acts mostly [as] an observer of others, often looking out of windows at the world outside, the window framing her view and separating her from the events outside'. <ref type="bibr" target="#b1">8</ref> This probing account of Etsuko's consistent focus on the external world confirms the otherness within herself, a self that remains largely unknowing throughout her narration. <ref type="bibr" target="#b2">9</ref> The window also bars Etsuko from understanding her inner world, including her beliefs and desires.</p><p>Recent scholarship on Ishiguro calls for a rereading of his fictional works. 'Now is the time to ask new questions of his fiction, and to return to our strongest and most lasting critical engagements with his work and to see all that they were blind to'. <ref type="bibr" target="#b3">10</ref> In the first book-length study on Ishiguro, Brian Shaffer notes that the writer's 'first-person protagonists make for "unreliable" narrators -narrators, in Wayne Booth's influential term'. <ref type="bibr" target="#b4">11</ref> Since then, the issue of Ishiguro's narrative unreliability has remained a sustained focus of inquiry. Based on the aforementioned mirror/window trope, Etsuko's blindness to her reflection is representative of Ishiguro's 'unreliable' first-person narrators who do 'not always [know] what to seek, … and stumble through a life they do not always understand'. <ref type="bibr" target="#b5">12</ref> Sometimes these narrators would remind readers of their limited ability to know and to report accurately. Etsuko admits the fallibility of her recollections in Pale View: 'Memory, I realise, can be an unreliable thing; often it is heavily coloured by the circumstances in which one remembers, and no doubt this applies to certain of the recollections I have gathered here'. <ref type="bibr" target="#b6">13</ref> In An Artist of the Floating World (1986), Ono, the disgraced war painter, attempts to justify his potentially biased account of himself, claiming that 'I cannot recall any colleague who could paint a self-portrait with absolute honesty; however accurately one may fill in the surface details of one's mirror reflection, the personality represented rarely comes near the truth as others would see it'. <ref type="bibr" target="#b7">14</ref> The butler Stevens in The Remains of the Day (1989) holds that '[t]here is, after all, a real limit to how much ordinary people can learn and know'. <ref type="bibr" target="#b8">15</ref> Attributing their unreliability to the limits of knowing through memory and self-reflection, Ishiguro's narrators recall a particular literary phenomenon wherein narrators, as Andrew Bennett observes in Ignorance: Literature and Agnoiology (2009), 'can be characterised in terms of their inability to do what their titles should, etymologically, entitle them to do -to know'. <ref type="bibr" target="#b9">16</ref> Ishiguro's first-person narrators are skilfully positioned between states of knowing and not-knowing, which usually leads to an eventual 'acceptance that the understanding [of the past] is now futile knowledge'. <ref type="bibr" target="#b10">17</ref> The embrace of uncertainty shifts readers' focus from the fixation on a hidden story to the reasons behind these narrators' ambivalent and limited comprehension of life.</p><p>In the context of postcritique, scholars have noted how the reader's recognition and engagement of the status of (un)knowing can prompt political and ethical inquiries about the epistemic uncertainty of Ishiguro's characters. 18 Dominic Dean, for example, views the unknowability of the child in Pale View as embodying national anxiety about its identity. <ref type="bibr" target="#b12">19</ref> Alessandra Boller argues that Ishiguro's later works contribute to 'a negotiation of an ethics of (non)-knowledge in relation to narrative ethics, exposing how ignorance is structurally produced in a matrix of power relations and with regard to the pursuance of certain political or economic aims via pervasive state and social practices'. <ref type="bibr" target="#b13">20</ref> Aware that my point of departure shares a similar ground with Boller, I try to unpack the profound implications of narratorial ignorance in Ishiguro's fictional writings. His debut novel, Pale View, makes a suitable case study, for its mirror trope, its unreliable narrator whose limited self-knowledge cannot be separated from her manifold identities (as a mother, war survivor, and immigrant), and its psychological depth that distinguishes it within Ishiguro's oeuvre.</p><p>In the following, I show how Ishiguro's narrators, in defying conventional ideas of the (unreliable) narrator, are only 'supposed to know'. <ref type="bibr" target="#b14">21</ref> In Pale View, knowledge is suppressed by the unacknowledged loss (Keiko's suicide) and Etsuko's ambiguous account of herself to secure her maternal identity. Her public roles as a war survivor and an immigrant contribute respectively to her disavowal of grief, which invites readers to acknowledge the imprint of social conditions on individual lives. Misled by their individualistic orientation and fixation on narrative knowledge, the first-person unreliable narrators in Ishiguro's early novels exhibit limited ability to know and to mourn. The limits of knowing thus inhere in Pale View in terms of narrative form, ethics, politics, and the reader's experience. Ishiguro refuses to pass judgment on his narrator-protagonists who 'don't have extraordinary insight into life' as well as historical and political matters. <ref type="bibr" target="#b15">22</ref> While his use of first-person narrators tends to foreground the consequences of individuals' actions and perceptions, their limited ability to know and to act under certain social conditions suggests that there is no definitive answer to their predicaments and to our interpretations of them.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Narrators as 'supposed to know'</head><p>Of the storyteller, Walter Benjamin writes:</p><p>[h]is gift is the ability to relate his life; his distinction, to be able to tell his entire life … he is the man who could let the wick of his life be consumed completely by the gentle flame of his story. This is the basis of the incomparable aura about the storyteller, in Leskov as in Hauff, in Poe as in Stevenson. The storyteller is the figure in which the righteous man encounters himself. <ref type="bibr" target="#b16">23</ref> According to Benjamin, the storyteller can be characterised in terms of his technical and moral competence: his words do justice to his past and give credit to his wisdom. That the storyteller knows about himself is in accordance with the etymological roots of the verb 'narrate', which derives from two Latin words: narrāre, which means to relate and recount, and gnārus, knowing and skilled. <ref type="bibr" target="#b17">24</ref> In Western literary tradition, narration as a storytelling activity generally assumes the acquisition of certain knowledge. Dating back to the classical era, the Greeks were the first to notice the significance of recognition in story plots. <ref type="bibr" target="#b18">25</ref> Anagnorisis, the Greek word for recognition, is used by Aristotle in Poetics to denote a turning point in tragedy when the hero comes to an unforeseen, and often belated, realisation of the actual circumstance. Featuring 'a change from ignorance to knowledge', <ref type="bibr" target="#b19">26</ref> the literary technique of anagnorisis links the unfolding of the story with the revelation of truth, thus foregrounding epistemological issues in the art of poetry. <ref type="bibr" target="#b20">27</ref> In most cases, however, Ishiguro is less interested in the moments of anagnorisis than what Bennett calls 'narratorial nescience', <ref type="bibr" target="#b21">28</ref> for reasons that his narrators generally remain unaware of their inner world and their place in the world beyond themselves.</p><p>Ishiguro's narrative situation not only eschews anagnorisis, but also sits uneasily with Booth's definition of the unreliable narrator. No longer a 'righteous man' with 'the incomparable aura' in Benjamin's phrase, the unreliable narrator 'tells lies, conceals information, misjudges with respect to the narrative audience -that is, one whose statements are untrue … by the standards of his own narrative audience'. <ref type="bibr" target="#b22">29</ref> In doing so, the unreliable narrator attempts to suppress knowledge and confuse the implied reader, attesting to the epistemological boundaries in narrative form. Kathleen Wall, for instance, shows how the varying degrees of Stevens' unreliability in The Remains of the Day resist 'an authoritative version of events' that the implied reader in conventional unreliable narration would cleverly construct. <ref type="bibr" target="#b23">30</ref> Whereas his reading of the perfect unreliability in The Remains of the Day deviates from Wall's, Elke D'hoker holds that Ishiguro's first two novels, Pale View and An Artist of the Floating World, attain a higher degree of unreliability through 'the aporia and contradictions that are left unresolved'. For D'hoker, since 'the degree and kind of unreliability in Ishiguro's novels differs considerably', unreliability might be 'only one -and perhaps an increasingly unlikely -paradigm by which narrative inconsistencies or oddities in the texts can be made sense of'. <ref type="bibr" target="#b24">31</ref> Therefore, to return to the issue of Ishiguro's 'unreliable' narrators is to look for different approaches to account for their limits and potentials.</p><p>The issue of unreliability raises the question of whether narrative can lead to self-knowledge. The narrative approach to the self, endorsed by the 'narrativist turn', has become quite popular in modern times, especially in the field of cognitive psychology where 'a great deal of attention is being directed to the role of narrative in perception, memory, learning, speech, and thought in general'. <ref type="bibr" target="#b25">32</ref> The idea is to construe selfhood through the act of narration, since '[n]arrative ability allows us to understand ourselves as extended over time … It also … contributes to a host of the complicated cognitive capacities that are characteristic of human selves'. <ref type="bibr" target="#b26">33</ref> Meanwhile, opponents of the narrative approach hold that 'there are limits to the kind of understanding of self and others that narratives can provide'. <ref type="bibr" target="#b27">34</ref> For philosopher and literary critic Galen Strawson, one can hardly achieve a better understanding of oneself by telling stories, given the 'tendency to look for story or narrative coherence in one's life'. Therefore, 'the more you recall, retell, narrate yourself, the further you risk moving away from accurate self-understanding, from the truth of your being'. <ref type="bibr" target="#b28">35</ref> Whether narratives can foster a deeper comprehension of oneself is a question that also concerns psychoanalytic practices and theories. From its inception, psychoanalysis has been wavering between two ends of the scale. On the one hand, the clinical experience of the 'talking cure' is based upon the conviction that a coherent and meaning-making narrative can emerge from the patient's impromptu and disjointed report of whatever comes to mind. This may attest to the therapeutic value of telling one's story, as patients like Anna O experience varying degrees of symptom alleviation after the treatment. On the other hand, the basic Freudian concept of the unconscious (1915) constantly reminds us of the inaccessibility of repressed thoughts. Although Freud views the talking cure as a possible route to the unconscious, it remains unclear to what extent such a reconstructed narrative can reveal the true self. The belief that the analyst can retrieve hidden information from the patient's rambling monologues is further dispelled by Lacan. In view of the Lacanian expression of 'the subject who is supposed to know', the analyst, rather than in full possession of knowledge, is only presumed by the analysand to know: 'no psychoanalyst can claim to represent, in however slight a way, a corpus of absolute knowledge'. <ref type="bibr" target="#b29">36</ref> That said, to initiate the analytic process, the analyst still needs to behave as if he is fully informed about the situation. The subject-supposed-to-know cautions us about the epistemological authority conventionally attributed to the analyst. In fact, it is through his presence, instead of the actual equipment of knowledge, that 'the unconscious … manifested via the analysand' as 'the ultimate authority' <ref type="bibr" target="#b30">37</ref> during the treatment. The analyst's knowledge of the patient is only an illusion that must be sustained by both parties.</p><p>A similar scenario exists when the reader makes sense of the text under the assumption that the narrator knows. Generally speaking, the firstperson narrators 'are both inherently limited in their perspective and potentially untrustworthy: they have an agenda when telling their stories, which could come into conflict with a true representation of what happened'. <ref type="bibr" target="#b31">38</ref> This underscores Etsuko's inherent unreliability, making her the narrator who is formally 'supposed to know', yet is de facto limited in her ability to know. Narrators as 'supposed to know' can be viewed as an alternative approach to Ishiguro's narrative unreliability.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Etsuko's dilemma</head><p>In Freud's seminal paper, 'Mourning and Melancholia' (1917), melancholia is differentiated from mourning in terms of 'the unknown loss', because the melancholic 'knows whom he has lost but not what he has lost in him'. This stands in contrast to the normal process of mourning, in which everything about the loss is conscious. <ref type="bibr" target="#b32">39</ref> Etsuko's first-person narrative in Ishiguro's Pale View unfolds in the wake of Keiko's suicide, but there is scant information provided about it. Etsuko's silence on this matter can be regarded as a sign of her narratorial nescience concerning the death of Keiko.</p><p>To begin with, Keiko's self-inflicted death is by nature unknowable. There exists 'fundamental epistemic obscurity', Bennett remarks, 'on suicide as a profound, unfathomable denial, destruction, or negation of the self'. <ref type="bibr" target="#b33">40</ref> On hearing the news of Keiko's suicide, Etsuko cannot help but imagine the death scene.</p><p>It may seem morbid of a mother to have such thoughts, but on hearing of her suicide, the first thought that ran through my mind -before I registered even the shock -was to wonder how long she had been there like that before they had found her … I have found myself continually bringing to mind that picture -of my daughter hanging in her room for days on end. The horror of that image has never diminished, but it has long ceased to be a morbid matter; as with a wound on one's own body, it is possible to develop an intimacy with the most disturbing of things. <ref type="bibr" target="#b34">41</ref> Etsuko's thought ('how long she had been there') captures 'a key impulse behind contemporary suicide narratives [that] involves the drive to know, the impossible, empathic desire to experience suicide -the quest to know what it is "like", how it feels, as well as why it happens and what it means'. <ref type="bibr" target="#b35">42</ref> Intrinsically enigmatic, the act of suicide triggers a series of questions whose answers remain unavailable in the absence of the deceased. Perhaps, Etsuko's tragedy, apart from losing her daughter, also involves her doomed failure to figure out the motive behind Keiko's extreme choice. The scene is made more poignant by Ishiguro's description of Etsuko's morbid mental image via her unusually calm tone. Apart from its great emotional force, her choice to present the death scene through picturization instead of narration also, in a way, compensates for her restricted knowledge regarding this conundrum. <ref type="bibr" target="#b36">43</ref> Next, Etsuko's unknown loss should not be separated from her disavowal of grief through her narrative account of herself. In Grief: A Philosophical Guide (2022), Michael Cholbi regards grief as 'a privileged epistemic route' to our past and future: 'it can be seen as an activity of revising one's existing life narrative in light of the death of one of that narrative's principal characters. The questions "who were they to me?" and "how can I go on?" are thus pursued in the service of a larger question: "who shall I be in light of who I have been?"'. <ref type="bibr" target="#b37">44</ref> Keiko's death prompts Etsuko to reexamine her past, which assigns Etsuko the dual role of the narrator and the protagonist of her story. This type of first-person narration features a narrating-I, 'the older self who recounts the experiences undergone by the earlier "experiencing-I"'. <ref type="bibr" target="#b38">45</ref> Here, Etsuko's narrating-I is an immigrant living alone in rural England who has recently lost her daughter, and her experiencing-I is the newly-wed pregnant with Keiko in postwar Japan. The story of the former is framed, and interrupted at times, by events that happened to the latter. Monika Fludernik defines the narrating-I, or the 'narrating-self', as generally 'a now older and wiser narrator … [who] often indulges in retrospection, evaluation and the drawing of moral conclusions'. <ref type="bibr" target="#b39">46</ref> Etsuko's narrative contains no clear indication that her elderly narrating-I is wiser, let alone moments of anagnorisis. Instead, she relies on the first-person narration to bypass her emotional upheavals and to disavow her grief.</p><p>Etsuko's account of herself functions to restore and secure a sense of self, to reconcile with her troubling past rather than uncover the root of her tragedy. Kenneth J. Doka uses the term 'disenfranchised grief' (1989) to denote grief that is 'not openly acknowledged, socially validated, or publicly observed'. <ref type="bibr" target="#b40">47</ref> He observes two kinds of disenfranchisement: '[w]hile in societal disenfranchised grief the source of the disenfranchisement is the failure of others to acknowledge and recognise the grief, in self-disenfranchised grief the source is one's own lack of acknowledgment and recognition of it'. <ref type="bibr" target="#b41">48</ref> This section is mainly concerned with Etsuko's disenfranchisement of grief at the individual level, taking her as 'the agent carrying out the sanctions against the self'. <ref type="bibr" target="#b42">49</ref> Etsuko's self-disenfranchised grief, discernible in both her narrating-I and experiencing-I, hints at her inability to confront and fully process her emotions. I have adopted a psychoanalytic approach to elucidate Etsuko's failure in mourning her mother elsewhere, interpreting the story as a family case of transgenerational haunting as procured by cryptic mourning. <ref type="bibr" target="#b43">50</ref> Specifically, Etsuko's experiencing-I unconsciously incorporated the loss of her mother and denied herself the right to mourn, which eventually led to the family tragedy of Keiko's suicide. Provided that Etsuko's narrating-I has drawn lessons from her recollection, she would at least have some awareness of her traumatic past. She may come to realise her emotional restraints, and try to figure out the causes behind this. Unfortunately, Etsuko's narrating-I fails at both.</p><p>In the narrative present, Etsuko avoids talking about Keiko's death, and is extremely reticent whenever Niki ventures to start the conversation. Their opening dialogue is revealing of this: [-Niki] 'I just remember her as someone who used to make me miserable. That's what I remember about her. But I was sad though, when I heard. <ref type="bibr" target="#b44">51</ref> Their expressions, which stand in sharp contrast to each other, are telling of their mental states. Unlike Niki, who faces up to her complicated feelings ('upset', 'embarrassed', 'miserable', 'sad'), Etsuko's responses are remarkably detached and indirect ('I didn't really think', 'I never expected', 'it's quite a time since'), sidestepping the central issue here. The conversation soon ends with Niki reflecting on her troubled relationship with Keiko, and Etsuko, without replying, veers into speculation about the reason for Niki's brief stay: 'Perhaps it was not just the quiet that drove my daughter back to London. For although we never dwelt long on the subject of Keiko's death, it was never far away, hovering over us whenever we talked'. The use of the first-person plural pronouns ('we', 'us') serves to conceal Etsuko's own reluctance to address Keiko's tragedy. Etsuko's narrating-I then hastily moves on to another topic: 'I have no great wish to dwell on Keiko now, it brings me little comfort. I only mention here because those were the circumstances around Niki's visit this April, and because it was during that visit I remembered Sachiko again … '. <ref type="bibr">52</ref> Her excuses appear unconvincing, and only betray her uneasiness over Keiko's death. Suppressed emotions like grief prevent insight into one's past experience. Through self-disenfranchisement, Etsuko fails to acknowledge her grief and to gain self-knowledge.</p><p>Keiko's death accounts for a 'crisis of meaning' in bereavement, when the unfamiliar world 'radically shakes or severs those taken-for-granted "realities" in which we are rooted, and on which we rely for a sense of secure purpose and connection'. <ref type="bibr" target="#b45">53</ref> To cope with the threat brought by Keiko's suicide to her motherhood, Etsuko relates a story of another mother-daughter pair for comfort. Etsuko's account of Sachiko, a scapegoat for Etsuko's personal guilt, <ref type="bibr" target="#b46">54</ref> allows her to dispel her maternal guilt and to '[preserve] her integrity as a notionally "good mother"'. <ref type="bibr" target="#b47">55</ref> In the midst of Etsuko's narration, she makes the following announcement: '[m]y motives for leaving Japan were justifiable, and I know I always kept Keiko's interests very much at heart. There is nothing to be gained in going over such matters again'. <ref type="bibr" target="#b48">56</ref> However, Etsuko's claim to have prioritised Keiko is undercut by the manner of speech that uncannily resonates with Sachiko's insistence on her utmost care for Mariko. <ref type="bibr" target="#b49">57</ref> Etsuko's adaptation of her past life into another story, in the words of Yugin Teo, 'allows her to come to some sense of recognition of her repressed feelings of guilt concerning Keiko'. Teo also comments on the limitations of such self-recognition, adding that '[t]he sense of recognition experienced by [Ishiguro's] protagonists, however, does not necessarily result in a change to their outlook on life'. <ref type="bibr" target="#b50">58</ref> If we view Etsuko's story as an alternative way to reckon with her past, her self-narrative as a good mother would emerge from her biased account of Sachiko as selfish and irresponsible. This 'dialectic between the narratives that generate identities and the narratives that describe them' is characteristic of Ishiguro's early novels. <ref type="bibr" target="#b51">59</ref> Etsuko's justification for her immigrant decision, that she leaves Japan for the well-being of her daughter, does not withstand scrutiny, given the reality of Keiko's death. Such a strategy of merging different stories, from Ishiguro's perspective, makes his 'readers … no longer confident of knowing a fact or a character when they see one'. <ref type="bibr">60</ref> Not only the readers, but also Etsuko herself gets confused in her narrative account of self, as evidenced by her occasional slips and misuse of pronouns. <ref type="bibr" target="#b52">61</ref> For Etsuko, the story of another mother-daughter pair with parallel experiences exempts her from the maternal obligation to reexamine her past. Her evasion is telling of a mother of a guilty conscience, and her occasional confession of fallible memory, as Cynthia F. Wong writes, 'possibly reroutes the painful story of maternal culpability towards a more ameliorating version'. <ref type="bibr" target="#b53">62</ref> Nevertheless, is this the whole picture? As readers, are we to align with the narrator and hold her unequivocally accountable for Keiko's tragedy?</p><p>Perhaps the situation is more complicated and needs further consideration. Etsuko's lack of self-knowledge is closely related to her disenfranchised grief over her unknown loss. Her state of unknowing and repression requires the reader to suspend their belief. Unable to properly process her emotions, Etsuko's judgment on the matter of Keiko's self-inflicted death is likely not to be trusted either. She innocently believes that the root of her ethical dilemma regarding her daughter's suicide lies within herself, and her path out of it hinges on examining her life. When Pale View ends with Niki leaving hastily and Etsuko being alone again, it conveys no sense of closure to either Etsuko or the reader, suggesting that Etsuko's attempt to resolve her ethical problem through her retrospective first-person narrative has eventually failed. In what follows, I explore Etsuko's lack of self-knowledge and disenfranchised grief as incurred, to some extent, by the individual's lack of agency in the turbulent social environment. This interpretation helps shed light on Ishiguro's unravelling of the intricate relationships between the personal and the socio-political/historical.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Ishiguro's 'misleading' narratives</head><p>Ishiguro's first-person narrators, with a limited understanding of their lives, are not solely psychological cases of self-deception. The author remarks in an interview that '[a]lthough [his] novels tend to focus primarily on the development of characters and their psychological and emotional relationship with the past, there is at the same time … some kind of broader relationship to politics'. <ref type="bibr" target="#b54">63</ref> This section focuses on the interconnectedness between individuals and the broader context through Pale View's exploration of loss and mourning. Based on this, Etsuko's lack of self-knowledge might be attributed to her social roles as a war survivor in Japan and an immigrant to the UK. Her early life in postwar Japan is shadowed by mass death and insufficient social support for mourning, and the need to fit into a new society discourages her from mourning her past elsewhere. <ref type="bibr" target="#b55">64</ref> In addition to Etsuko's emotional restraints and her problematic account of the past, it can be argued that her ability to know and to mourn is also profoundly, and perhaps structurally, compromised by the individual's lack of agency in the midst of political upheavals. <ref type="bibr" target="#b56">65</ref> 'Ishiguro's novels are undergirded', as Timothy Wright puts it, 'by a common concern with individual and collective forms of a kind of knowing not-knowing: of willed ignorance, self-delusion, and misapprehension amid social and historical forces'. <ref type="bibr" target="#b57">66</ref> This kind of (not-)knowing is mainly, and often obliquely, conveyed through the failure to grasp the political implications of personal loss. Put otherwise, Ishiguro's first-person narrators' lack of self-knowledge should not be separated from the impact of political concerns on individual matters. For self-disenfranchised grief, '[o]neself is the agent carrying out the sanctions against the self and operating psychologically on behalf of societal grief expectations'. <ref type="bibr" target="#b58">67</ref> When the self is merely a pseudo-agent whose choices align with social expectations to different degrees, self-disenfranchisement is more than a psychological phenomenon -it is an effect of and a witness to the social disregard for individuals' right to mourn. Narratorial ignorance in Ishiguro's novels thus offers a glimpse into the crisis of knowing and mourning when individuals fail to register the powerful influence of social conditions upon their lives.</p><p>Etsuko's experiencing-I has been constantly discouraged from expressing her sorrow. Mrs. Fujiwara, an elderly widow running a noodle shop, embodies the social disavowal of mourning in postwar Japan. She disapproves of visits to the cemetery, a place where grief can be articulated.</p><p>[-Mrs. Fujiwara] ' … It's a shame, a pregnant girl and her husband spending their Sundays thinking about the dead, I know they're being respectful, but all the same, I think it's a shame. They should be thinking about the future'.</p><p>[-Etsuko] 'I suppose she finds it hard to forget'. [-Mrs. Fujiwara] 'I suppose so. I feel sorry for her. But they should be thinking ahead now. That's no way to bring a child into the world, visiting the cemetery every week'. [-Etsuko] 'Perhaps not'. [-Mrs. Fujiwara] 'Cemeteries are no places for young people … ' <ref type="bibr" target="#b59">68</ref> Mrs. Fujiwara's statement is a veiled reminder to urge Etsuko to move on, given that the young girl who is pregnant and gloomy ostensibly mirrors Etsuko's situation at that time. Etsuko appears persuaded, making concessions to Mrs. Fujiwara's view that grieving is harmful and should not be encouraged. 'However much Ishiguro's early novels may focus on the internal psychologies of his protagonists, their acts of repression and omission are caused or aggravated by a common historical origin: war'. <ref type="bibr" target="#b60">69</ref> The cemetery bears witness to Japan's mass death caused by atomic bombings and the war, and, at the same time, alludes to the national ignominy of defeat and occupation. Individualised mourning is usually complicated or undermined by mass death, whose anonymity, immense scale, and impersonal nature defy comprehension. <ref type="bibr" target="#b62">70</ref> Etsuko's repression and omission bespeak how private expressions of grief are implicitly regulated and even silenced by the collective attitude toward death.</p><p>The prohibition on mourning in post-war Japan is also implied in the social urge to move on. Scholars make the following observation on Japan's failed mourning after World War II: '[w]hen there is a loss that affects the whole society, instead of mourning, there is a manic defense of reconstruction'. <ref type="bibr" target="#b63">71</ref> Pale View portrays a similar scene in which the immense energy invested into rebuilding contrasts with a subtle presence of inadequately mourned societal loss. On an outing to a hilly area near Nagasaki, Etsuko's experiencing-I finds the ongoing bustling reconstruction at the harbour 'not unpleasing; they were the sound of recovery and they were still capable then of bringing a certain uplifting feeling to one's spirits'. <ref type="bibr" target="#b64">72</ref> She convinces herself that it is the optimistic attitude of looking forward that makes all the difference. Unaware that such buoyancy arises from the shadow of incomplete national mourning, Etsuko's resolution to leave the sorrow behind is inevitably influenced by social injunctions of loss. Japan's prioritisation of rapid closure over proper mourning leaves its imprint on every individual.</p><p>Etsuko's internalisation of the societal demands of closure is further hinted at by her experiencing-I's attribution of ghostliness to Yasuko, Sachiko's bereaved cousin. The novel's depiction of their first encounter carries the undertone of a ghost story.</p><p>… I was gazing towards the cottage in a somewhat confused state of mind. With no apparent provocation, that chilling image [of a little girl found hanging from a tree] intruded into my thoughts, and I came away from the window with a troubled feeling … It was an hour or so later I saw the figure walking across the wasteground towards the cottage. I shaded my eyes to see more clearly; it was a woman -a thin figure -and she walked with a slow deliberate step. The figure paused outside the cottage for some time, then disappeared behind the sloping roof. I continued to watch, but she did not re-emerge; to all appearances, the woman had gone inside.</p><p>Here, the tension is heightened in light of several antecedent images of mysterious women, including Mariko's mysterious babysitter across the river, a strange woman staring at Mariko on the train, and the woman in Tokyo who drowns her baby. The suspense of the unknown lingers as the next chapter opens with Etsuko entering the cottage. 'There was an old woman sitting on the tatami … Her face was thin, and had a chalky paleness about it which at first quite unnerved me … Her kimono was of a dark sombre colour, the kind normally worn in mourning. Her eyes were slightly hooded and watched me with no apparent emotion'. <ref type="bibr">73</ref> Etsuko's depiction of Yasuko's face uncannily resembles that of the dead. Dressed in mourning clothes, Yasuko's bereavement speaks volumes about her disobedience under the social prohibition of mourning, which is set against Etsuko's compliance.</p><p>In addition, Etsuko's immigration experience plays a crucial role in her disavowal of grief. In his inspiring work, Dean maintains that 'Ishiguro's first novel explore[s] some undercurrents in early Thatcher-Era Britain's hostility to migration'. <ref type="bibr" target="#b65">74</ref> Indeed, British migration policy in the 1970s and the 1980s is known to be 'as restrictive as it can possibly be'. <ref type="bibr" target="#b66">75</ref> The tension can be told from Etsuko's awkward encounter with a local. Asked by Mrs Waters about Keiko, Etsuko offers misleading information to withhold Keiko's death, replying that 'she went to live in Manchester' and 'I haven't heard from her recently'. The reason for Etsuko's dishonesty, except for her repression, has to do with her concern that Keiko's self-inflicted death might reinforce the racial stereotype that '[t]he English are fond of their idea that our race has an instinct for suicide', an observation made by Etsuko at the very beginning of her narrative. It is also likely that Etsuko's circumvention, like her unwillingness to give Keiko a Japanese name in the first place, arises from her 'selfish desire not to be reminded of the past'. <ref type="bibr" target="#b67">76</ref> To be a 'good immigrant', Etsuko is expected to display loyalty to the host society. Because of this, her mourning for a daughter of pure Japanese origin can be easily misread or overstated as her discontent with the present life. Therefore, her selfishness is but an immigrant's effort to conform to social expectations. In Ishiguro's first three novels, representations of personal loss have a strong resonance with what is happening on a larger scale, and are thus imbued with multifold implications (personal, familial, collective, societal, and national). More often than not, Ishiguro's early narrator-protagonists' losses coincide with the dark and turmoil occurrences in the greater world, but they fail to make such connections. <ref type="bibr" target="#b68">77</ref> Etsuko's response to the loss of her mother and daughter largely abides by the social order of moving on in postwar Japan. Ono's gain and loss of social status as a war painter coincides with the rise and fall of Japanese imperialism. The English Butler Stevens forgoes the opportunity to find true love in favour of a career potentially complicit in the impending World War II. These narrator-protagonists' failure to varying degrees to identify the political influence on their lives is perhaps no coincidence. In The Rise of the Novel (1957) by Ian Watt, the novel is defined as 'the form of literature which most fully reflects this individualist … reorientation', carrying the trace of modern realism that 'begins from the position that truth can be discovered by the individual through his senses'. <ref type="bibr" target="#b69">78</ref> The commitment to the individualist belief in modern fiction is subtly mocked by Ishiguro's early narrators. Whereas his first-person narrators grant access to their private perspectives and desires, their indifference to the outer world makes it hard for them to forge connections with others. Despite their self-independence in the attempts to come to terms with their loss through introspection and retrospection, their fixation on narrating the self leads to a sense of irresolution rather than meaningful results. In Ishiguro's later novels, the individualist orientation is further complicated by its entanglement with altruism. In When We Were Orphans (2000), Christopher Banks is convinced that he will stop the forces of evil in the world once the mystery of his parents' disappearance is solved. Klara, the artificial friend in Klara and the Sun (2021), entertains the idea that if she prays to the sun for its nourishment, Josie will be saved.</p><p>Etsuko, Ono, and Stevens share a common (mis)belief that, by examining their lives, they can finally come to terms with themselves, or at least attain a degree of solace. Their first-person narratives, while generating sympathy from readers, leave an impression that Ishiguro's narrator-protagonists are facing the consequences of their own choices and actions -put simply, they reap what they sow. As a result, both the narrator and the reader tend to concentrate on personal matters, while neglecting, to some extent, that personal lives can be shaped -and often destabilised -by the forces of historical and socio-political changes. This also calls into question Ishiguro's own description of his narrator-protagonists as 'agents in these larger tides'. <ref type="bibr" target="#b70">79</ref> Perhaps, 'pseudo-agents' or 'proxy-agents' would be a more accurate expression here. Ignorant of their lack of agency in a volatile social climate, the point of departure for Ishiguro's narrator-protagonists is tacitly misguided in the first place, making their subsequent actions doomed to fail.</p><p>Unknowing that her hands are largely tied, Etsuko's confrontation with her ethical dilemma concerning her daughter's suicide evokes the situation that Jean-François Lyotard refers to as the 'differend'. According to Lyotard, 'a differend [différend] would be a case of conflict between (at least) two parties, that cannot be equitably resolved for lack of a rule of judgment applicable to both arguments'. <ref type="bibr" target="#b71">80</ref> Etsuko's life showcases the differend where her ethical dilemma is intertwined with Japan's defeat in World War II. On the one hand, she cannot help but question if she is a 'bad' mother whose 'wrong' choice to leave Japan, made almost two decades ago, has eventually claimed her daughter's life. On the other hand, she remains unaware that her agency is undermined by the unstable social environment in postwar Japan and by her immigration experience in the UK (This, of course, should not be taken as a dismissal of her individual responsibility). Barely recovered from the catastrophic bombing, the nation rushed into reconstruction with little time for healing, giving Etsuko the impression of 'an unmistakable air of transience there, as if we were all of us waiting for the day we could move to something better'. <ref type="bibr" target="#b72">81</ref> As a war survivor, Etsuko's personal decision to emigrate, which precedes Keiko's tragedy, does not conform to any universal standard of judgment.</p><p>It could be argued that Ishiguro's narratives tend to be 'misleading' on two levels. His first-person narrators are misguided in their vain efforts to fix the current crisis through personal accounts. Likewise, readers are tempted to fall into the same pitfall as Ishiguro's narrators, and, consequently, fail to identify and bear witness to the veiled historical and socio-political violence that unavoidably yet inconspicuously shapes one's life.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Concluding remarks</head><p>Concerning the endings in his novels, Ishiguro remarks: my novels usually end with kind of a partial accommodation on the part of the narrator of the painful things he or she has come to accept, that he or she couldn't accept earlier on. But usually there's still an element of self-deception or something left there, just enough to survive, because one of the sad things about people's lives is that they are rather short. If you make a hash of it, often there isn't time for another go. <ref type="bibr" target="#b73">82</ref> Partial accommodation and self-deception manifest themselves at two points in Pale View's concluding chapter. For the first time, Etsuko tries to claim her responsibility for Keiko's death: 'But you see, Niki, I knew all along. I knew all along she wouldn't be happy over here. But I decided to bring her just the same'. Her words of confession are not endorsed by Niki.</p><p>[-Niki] 'Don't be silly', she said, turning to me, 'how could you have known? And you did everything you could for her. You're the last person anyone could blame'. [-Etsuko] I remained silent. Her face, devoid of any make-up, looked very young.</p><p>[-Niki] 'Anyway', she said, 'sometimes you've got to take risks. You did exactly the right thing. You can't just watch your life wasting away'. … [-Niki] 'It would have been so stupid', Niki went on, 'if you'd just accepted everything the way it was and just stayed where you were. At least you made an effort'. [-Etsuko] 'As you say. Now let's not discuss it any further'. [-Niki] 'It's so stupid the way people just waste away their lives'. [-Etsuko] 'Let's not discuss it any further' I said, more firmly. 'There's no point in going over all that now'. <ref type="bibr" target="#b74">83</ref> While Etsuko blames herself for taking Keiko to England, 'knowing' that things would not work out well, Niki reminds her that this is a hindsight conclusion: Etsuko was unable to foresee the consequences of her decision at that time. Yet Etsuko's insistence on wrapping up the conversation reveals her reserved attitude -it can be a sign of disagreement or uncertainty. After all, there is a point in 'going over all that now', which has less to do with judging Etsuko's immigration choice than her coming to see her hindered ability to know, considering the limits of individual perspective in the larger picture. The conversation ends with Etsuko's disavowal of her grief over Keiko's death again, blocking the possibility of mourning that might lead to a better understanding of oneself. Asked if the quietness in the town ever bores her, Etsuko denies it at once: ' … I enjoyed the quiet, Niki. I always think it's so truly like England out here'. <ref type="bibr">84</ref> Is Etsuko really satisfied with her current life in England? Her later mention of selling the house suggests otherwise, hinting at the persistence of self-deception.</p><p>In Etsuko's retrospective first-person narrative, the lack of self-knowledge is related to the phenomenon of disenfranchised grief. Her suppression of grief can be viewed as a strategy to secure her identity as a good mother. This renders her narrative biased and partial, offering a limited and subjective understanding of her psychological status for both herself and the reader. Ono and Stevens' recollections contain traces, respectively, of the imperialistic ethos of 1930s Japan and the appeasement with Nazi Germany prior to World War II. Likewise, Etsuko's disavowal of loss and grief, consciously or not, is implicitly regulated by the social demand for closure in postwar Japan and the social expectations of the 'good immigrant' in the 1980s UK. Through narratorial nescience of disenfranchised grief, Pale View directs our attention to the limitations on self-knowledge in Etsuko -and more generally, in Ishiguro's first-person narrators -that carry ethical and socio-political implications. To view Ishiguro's narratives as 'misleading' is thus to acknowledge the limits on an individual's ability to know and to take actions under certain normative forces within a broader context. </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Notes</head></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head>[</head><label></label><figDesc>-Niki] 'Did you expect me to be there?' … 'At the funeral, I mean'. [-Etsuko] 'No, I suppose not, I didn't really think you'd come'. [-Niki] 'It did upset me, hearing about her [Keiko]. I almost came'. [-Etsuko] 'I never expected you to come'. [-Niki] 'People didn't know what was wrong with me', … 'I didn't tell anybody. I suppose I was embarrassed. They wouldn't understand really, … I don't even remember what she looked like now'. [-Etsuko] 'Yes, it's quite a time since you saw her'.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_0"><head></head><label></label><figDesc>1. Kazuo Ishiguro, A Pale View of Hills (London: Faber and Faber, 1982), p. 10. 2. Carol A. Senf, '"Dracula": The Unseen Face in the Mirror', The Journal of Narrative Technique, 9.3 (Fall 1979), pp. 160-70. 3. Sigmund Freud, 'On Psycho-Analysis', in The Standard Edition of the Complete Psychological Works of Sigmund Freud, Vol. XII (1911-1913), translated by James Strachey, in collaboration with Anna Freud, assisted by Alix Strachey and Alan Tyson (London: The Hogarth Press, 1964), pp. 207-11 (210). 4. Jacques Lacan, Ecrits: A Selection, translated by Alan Sheridan (London: Tavistock, 1977), p. 6. 5. Ishiguro, Pale View, p.10. 6. Leila Rahimi Bahmany, Mirrors of Entrapment and Emancipation: Forugh Farrokhzad and Sylvia Plath (Leiden: Leiden University Press, 2015), p. 21, original emphasis. 7. Michael R. Molino points out that Etsuko is perhaps the character who most frequently looks out of window, and codes the image of windows in Pale View as 'a form of liminal space between absent and present memories or individual and social contexts of memories' ('Traumatic Memory and Narrative Isolation in Ishiguro's A Pale View of Hills', Critique: Studies in Contemporary Fiction, 53.4 (2012), pp. 322-36 (335), https://doi.org/10.1080/00111619.2010.494258). See also Ivan Stacy's original analysis of the primacy of suface (such as reflective glasses) in Klara and the Sun: it is 'not simply the negative counter-term to</figDesc><table /></figure>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="2" xml:id="foot_0"><p>Z. LI</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="4" xml:id="foot_1"><p>Z. LI</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="18" xml:id="foot_2"><p>Z. LI</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="20" xml:id="foot_3"><p>Z. LI</p></note>
+		</body>
+		<back>
+
+			<div type="acknowledgement">
+<div><head>Acknowledgements</head><p>I would like to thank <rs type="person">Professor Andrew Bennett</rs> for his insightful suggestions and constructive feedback on this essay during my visit at <rs type="institution">University of Bristol</rs>. I'm also grateful to anonymous reviewers for their diligent reading and enlightening comments.</p></div>
+			</div>
+			<div type="funding">
+<div><head>Funding</head><p>This work was supported by <rs type="funder">China Scholarship Council</rs> under grant [202306230318].</p></div>
+<div><head>ORCID</head><p>Zengjing Li http://orcid.org/<rs type="grantNumber">0009-0001-8482-0895</rs></p></div>
+			</div>
+			<listOrg type="funding">
+				<org type="funding" xml:id="_RqMU5z6">
+					<idno type="grant-number">0009-0001-8482-0895</idno>
+				</org>
+			</listOrg>
+			<div type="annex">
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Disclosure statement</head><p>No potential conflict of interest was reported by the author(s).</p></div>			</div>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<analytic>
+		<title level="a" type="main">the medium by which depth … can apprehended, or at least approximated or inferred. Rather, surface is the means by which depth can be rendered recognizable and hence shareable&apos; (&apos;Mirrors and Windows: Synthesis of Surface and Depth in Kazuo Ishiguro&apos;s Klara and the Sun</title>
+		<idno type="DOI">10.1080/00111619.2022.2146479</idno>
+		<ptr target="https://doi.org/10.1080/00111619.2022.2146479" />
+	</analytic>
+	<monogr>
+		<title level="j">Critique: Studies in Contemporary Fiction</title>
+		<imprint>
+			<biblScope unit="volume">65</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="102" to="116" />
+			<date type="published" when="2024">2024</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<monogr>
+		<title level="m" type="main">Traumatic Memory</title>
+		<author>
+			<persName><surname>Molino</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="page">327</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<monogr>
+		<title level="m" type="main">Our ignorance of others: Middlemarch and Great Expectations&apos; in his Ignorance: Literature and Agnoiology</title>
+		<imprint>
+			<date type="published" when="2009">2009</date>
+			<publisher>Manchester University Press</publisher>
+			<biblScope unit="page" from="100" to="131" />
+			<pubPlace>Manchester</pubPlace>
+		</imprint>
+	</monogr>
+	<note>My interpretation is mainly inspired by Andrew Bennett&apos;s chapter entitled</note>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title level="a" type="main">On Rereading Kazuo Ishiguro</title>
+		<author>
+			<persName><forename type="first">Chris</forename><surname>Holmes</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Kelly</forename><surname>Mee</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Rich</forename></persName>
+		</author>
+		<idno type="DOI">10.1353/mfs.2021.0000</idno>
+		<ptr target="https://doi.org/10.1353/mfs.2021.0000" />
+	</analytic>
+	<monogr>
+		<title level="j">MFS Modern Fiction Studies</title>
+		<imprint>
+			<biblScope unit="volume">67</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="1" to="19" />
+			<date type="published" when="2021">Spring 2021</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title level="a" type="main">See also Rebecca L. Walkowitz (&apos;Ishiguro&apos;s Floating Worlds</title>
+		<author>
+			<persName><forename type="first">Brian</forename><forename type="middle">W</forename><surname>Shaffer</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Understanding Kazuo Ishiguro</title>
+		<meeting><address><addrLine>Columbia</addrLine></address></meeting>
+		<imprint>
+			<publisher>English Literary History</publisher>
+			<date type="published" when="1067">1998. 2001. 1067</date>
+			<biblScope unit="volume">68</biblScope>
+			<biblScope unit="page" from="1049" to="1076" />
+		</imprint>
+		<respStmt>
+			<orgName>University of South Carolina</orgName>
+		</respStmt>
+	</monogr>
+	<note>for a similar point</note>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">F</forename><surname>Cynthia</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Wong</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Kazuo Ishiguro</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2019">2019</date>
+			<publisher>Liverpool University Press</publisher>
+			<biblScope unit="volume">3</biblScope>
+			<biblScope unit="page">20</biblScope>
+			<pubPlace>Liverpool</pubPlace>
+		</imprint>
+	</monogr>
+	<note>rd ed.</note>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">Pale</forename><surname>Ishiguro</surname></persName>
+		</author>
+		<author>
+			<persName><surname>View</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="page">156</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">Kazuo</forename><surname>Ishiguro</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">An Artist of the Floating World</title>
+		<imprint>
+			<biblScope unit="page">67</biblScope>
+			<date type="published" when="1986">1986</date>
+			<publisher>Faber and Faber</publisher>
+			<pubPlace>London</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<monogr>
+		<author>
+			<persName><forename type="first">Kazuo</forename><surname>Ishiguro</surname></persName>
+		</author>
+		<title level="m">The Remains of the Day</title>
+		<meeting><address><addrLine>London</addrLine></address></meeting>
+		<imprint>
+			<publisher>Faber and Faber</publisher>
+			<date type="published" when="1989">1989</date>
+			<biblScope unit="page">194</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">Ignorance</forename><surname>Bennett</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="page">2</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<monogr>
+		<title level="m" type="main">Wong also notes that &apos;Stevens&apos;s narrative incorporates both his knowledge of and his blindness to the events he recounts&apos; (p. 52). I also want to acknowledge here that Ishiguro&apos;s recent novels</title>
+		<author>
+			<persName><forename type="first">Kazuo</forename><surname>Wong</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Ishiguro</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2021">2021</date>
+			<biblScope unit="page" from="52" to="53" />
+		</imprint>
+	</monogr>
+	<note>such as Klara and the Sun. seem to have become increasingly concerned with the material limitations of knowledge</note>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title level="a" type="main">Y]ou&apos;ve been told and not told&quot; -The Ethics and Aesthetics of (Non-)Knowledge in Kazuo Ishiguro&apos;s Recent Novels</title>
+		<author>
+			<persName><forename type="first">Alessandra</forename><surname>See</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Boller</surname></persName>
+		</author>
+		<idno type="DOI">10.1111/bjp.12863</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Anglistik: International Journal of English Studies</title>
+		<imprint>
+			<biblScope unit="volume">33</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="751" to="764" />
+			<date type="published" when="2022">Summer 2022. 2023</date>
+		</imprint>
+	</monogr>
+	<note>British Journal of Psychotherapy</note>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<monogr>
+		<author>
+			<persName><forename type="first">Dominic</forename><surname>Dean</surname></persName>
+		</author>
+		<title level="m">Killing Children in British Fiction: Thatcherism to Brexit</title>
+		<meeting><address><addrLine>Albany</addrLine></address></meeting>
+		<imprint>
+			<publisher>State University of New York Press</publisher>
+			<date type="published" when="2024">2024</date>
+			<biblScope unit="page" from="173" to="247" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<monogr>
+		<title level="m" type="main">Ethics and Aesthetics</title>
+		<author>
+			<persName><surname>Boller</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="page">169</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">Ignorance</forename><surname>Bennett</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="page">160</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title level="a" type="main">An Interview with Kazuo Ishiguro</title>
+		<author>
+			<persName><forename type="first">Allan</forename><surname>Vorda</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Kim</forename><surname>Herzinger</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Mississippi Review</title>
+		<imprint>
+			<biblScope unit="volume">20</biblScope>
+			<biblScope unit="issue">1/2</biblScope>
+			<biblScope unit="page" from="151" to="152" />
+			<date type="published" when="1991">1991</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<title level="a" type="main">The Storyteller: Reflections on the Works of Nikolai Leskov</title>
+		<author>
+			<persName><forename type="first">Walter</forename><surname>Benjamin</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Illuminations</title>
+		<editor>
+			<persName><forename type="first">Hannah</forename><surname>Arendt</surname></persName>
+		</editor>
+		<meeting><address><addrLine>New York</addrLine></address></meeting>
+		<imprint>
+			<publisher>Schocken Books</publisher>
+			<date type="published" when="1968">1969. 1968</date>
+			<biblScope unit="page" from="108" to="109" />
+		</imprint>
+	</monogr>
+	<note>translated by Harry Zohn</note>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<monogr>
+		<author>
+			<persName><forename type="first">V</forename><surname>Narrate</surname></persName>
+		</author>
+		<idno type="DOI">10.1093/OED/9661051925</idno>
+		<ptr target="https://doi.org/10.1093/OED/9661051925" />
+		<title level="m">Oxford English Dictionary</title>
+		<imprint>
+			<publisher>Oxford University Press</publisher>
+			<date type="published" when="2024-09-08">September 2024. 8 Oct 2024</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<monogr>
+		<title level="m" type="main">Anagnorisis: Scenes and Themes of Recognition and Revelation in Western Literature</title>
+		<author>
+			<persName><forename type="first">Piero</forename><surname>Boitani</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2021">2021</date>
+			<publisher>Brill</publisher>
+			<biblScope unit="page">4</biblScope>
+			<pubPlace>Leiden; Rodopi</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<monogr>
+		<title level="m" type="main">The Poetics of Aristotle</title>
+		<author>
+			<persName><forename type="first">Aristotle</forename></persName>
+		</author>
+		<editor>Samuel Henry Butcher</editor>
+		<imprint>
+			<date type="published" when="1907">1920. 1907</date>
+			<publisher>Macmillan</publisher>
+			<biblScope unit="volume">4</biblScope>
+			<biblScope unit="page">1452</biblScope>
+			<pubPlace>London</pubPlace>
+		</imprint>
+	</monogr>
+	<note>th ed.</note>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<analytic>
+		<title level="a" type="main">I suggest that their statement applies to almost all Ishiguro&apos;s protagonists</title>
+		<author>
+			<persName><forename type="first">Sebastian</forename><surname>Groes</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Barry</forename><surname>Lewis</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Ono</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Kathy</forename><forename type="middle">H</forename><surname>Stevens</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Kazuo Ishiguro: New Critical Visions of the Novels</title>
+		<editor>
+			<persName><forename type="first">Sebastian</forename><surname>Groes</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">Barry</forename><surname>Lewis</surname></persName>
+		</editor>
+		<meeting><address><addrLine>London</addrLine></address></meeting>
+		<imprint>
+			<publisher>Palgrave Macmillan</publisher>
+			<date type="published" when="2011">2011</date>
+			<biblScope unit="page">3</biblScope>
+		</imprint>
+	</monogr>
+	<note>never quite reach the point of anagnorisis. including Etsuko</note>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">Ignorance</forename><surname>Bennett</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="page">127</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<analytic>
+		<title level="a" type="main">Truth in Fiction: A Reexamination of Audiences</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Peter</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Rabinowitz</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Critical Inquiry</title>
+		<imprint>
+			<biblScope unit="volume">4</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="121" to="141" />
+			<date type="published" when="1977">1977</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<analytic>
+		<title level="a" type="main">The Remains of the Day&quot; and Its Challenges to Theories of Unreliable Narration</title>
+		<author>
+			<persName><forename type="first">Kathleen</forename><surname>Wall</surname></persName>
+		</author>
+		<ptr target="https://www.jstor.org/stable/30225397" />
+	</analytic>
+	<monogr>
+		<title level="j">The Journal of Narrative Technique</title>
+		<imprint>
+			<biblScope unit="volume">24</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="18" to="42" />
+			<date type="published" when="1994">1994</date>
+			<pubPlace>Winter</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<analytic>
+		<title level="a" type="main">Unreliability between Mimesis and Metaphor: The works of Kazuo</title>
+		<author>
+			<persName><forename type="first">Elke D'</forename><surname>Hoker</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Narrative Unreliability in the Twentieth-Century First-Person Novel</title>
+		<editor>
+			<persName><forename type="first">Elke</forename><forename type="middle">D</forename></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">'</forename></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">Gunther</forename><surname>Martens</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Berlin</addrLine></address></meeting>
+		<imprint>
+			<publisher>Walter de Gruyter</publisher>
+			<date type="published" when="2008">2008</date>
+			<biblScope unit="volume">160</biblScope>
+			<biblScope unit="page">155</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<analytic>
+		<title level="a" type="main">Trusting the Tale: The Narrativist Turn in the Human Sciences</title>
+		<author>
+			<persName><forename type="first">Martin</forename><surname>Kreiswirth</surname></persName>
+		</author>
+		<ptr target="http://www.jstor.com/stable/469223" />
+	</analytic>
+	<monogr>
+		<title level="j">History, Politics, and Culture, special issue of New Literary History</title>
+		<imprint>
+			<biblScope unit="volume">23</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="629" to="657" />
+			<date type="published" when="1992">1992</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<analytic>
+		<title level="a" type="main">The Narrative Self</title>
+		<author>
+			<persName><forename type="first">Marya</forename><surname>Schechtman</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">The Oxford Handbook of the Self</title>
+		<editor>
+			<persName><forename type="first">Shaun</forename><surname>Gallagher</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Oxford</addrLine></address></meeting>
+		<imprint>
+			<publisher>Oxford University Press</publisher>
+			<date type="published" when="2011">2011</date>
+			<biblScope unit="volume">399</biblScope>
+			<biblScope unit="page" from="395" to="416" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b27">
+	<analytic>
+		<title level="a" type="main">Self and Other: The Limits of Narrative Understanding</title>
+		<author>
+			<persName><forename type="first">Dan</forename><surname>Zahavi</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Narrative and Understanding Persons</title>
+		<editor>
+			<persName><forename type="first">D</forename><surname>Daniel</surname></persName>
+		</editor>
+		<editor>
+			<persName><surname>Hutto</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Cambridge</addrLine></address></meeting>
+		<imprint>
+			<publisher>Cambridge University Press</publisher>
+			<date type="published" when="0201">2007. 201</date>
+			<biblScope unit="page" from="179" to="201" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b28">
+	<monogr>
+		<title level="m" type="main">Against Narrativity</title>
+		<author>
+			<persName><forename type="first">Galen</forename><surname>Strawson</surname></persName>
+		</author>
+		<idno type="DOI">10.1111/j.1467-9329.2004.00264.x</idno>
+		<ptr target="https://doi.org/10.1111/j.1467-9329.2004.00264.x" />
+		<imprint>
+			<date type="published" when="2004">2004</date>
+			<biblScope unit="volume">17</biblScope>
+			<biblScope unit="page" from="428" to="452" />
+			<pubPlace>Ratio</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b29">
+	<monogr>
+		<author>
+			<persName><forename type="first">Jacques</forename><surname>Lacan</surname></persName>
+		</author>
+		<title level="m">The Seminar of Jacques Lacan, Book XI. The Four Fundamental Concepts of Psychoanalysis</title>
+		<editor>
+			<persName><forename type="first">Jacques-Alain</forename><surname>Miller</surname></persName>
+		</editor>
+		<meeting><address><addrLine>New York</addrLine></address></meeting>
+		<imprint>
+			<publisher>Norton</publisher>
+			<date type="published" when="1981">1998. 1981</date>
+			<biblScope unit="page">232</biblScope>
+		</imprint>
+	</monogr>
+	<note>translated by Alan Sheridan</note>
+</biblStruct>
+
+<biblStruct xml:id="b30">
+	<analytic>
+		<title level="a" type="main">The Analytic Relationship</title>
+		<author>
+			<persName><forename type="first">Bruce</forename><surname>Fink</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">The Subject of Lacan: A Lacanian Reader for Psychologists</title>
+		<editor>
+			<persName><forename type="first">Kareen</forename></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">Ror</forename><surname>Malone</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">Stephen</forename><forename type="middle">R</forename><surname>Friedlander</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Albany</addrLine></address></meeting>
+		<imprint>
+			<publisher>State University of New York Press</publisher>
+			<date type="published" when="2000">2000</date>
+			<biblScope unit="page" from="157" to="172" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b31">
+	<monogr>
+		<title level="m" type="main">An Introduction to Narratology</title>
+		<author>
+			<persName><forename type="first">Monika</forename><surname>Fludernik</surname></persName>
+		</author>
+		<editor>Patricia Häusler-Greenfield and Monika Fludernik</editor>
+		<imprint>
+			<date type="published" when="2009">2009</date>
+			<publisher>Routledge</publisher>
+			<biblScope unit="page">153</biblScope>
+			<pubPlace>London</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b32">
+	<monogr>
+		<title level="m" type="main">The Standard Edition of the Complete Psychological Works of Sigmund Freud</title>
+		<author>
+			<persName><forename type="first">Sigmund</forename><surname>Freud</surname></persName>
+		</author>
+		<editor>James Strachey, with Anna Freud, Alix Strachey, Alan Tyson, et al</editor>
+		<imprint>
+			<date type="published" when="1914">1914-1916. 1957</date>
+			<publisher>The Hogarth Press</publisher>
+			<biblScope unit="volume">XIV</biblScope>
+			<biblScope unit="page" from="243" to="258" />
+			<pubPlace>London</pubPlace>
+		</imprint>
+	</monogr>
+	<note>Mourning and Melancholia. original emphasis</note>
+</biblStruct>
+
+<biblStruct xml:id="b33">
+	<monogr>
+		<author>
+			<persName><forename type="first">Andrew</forename><surname>Bennett</surname></persName>
+		</author>
+		<title level="m">Suicide Century: Literature and Suicide from James Joyce to David Foster Wallace</title>
+		<meeting><address><addrLine>Cambridge</addrLine></address></meeting>
+		<imprint>
+			<publisher>Cambridge University Press</publisher>
+			<date type="published" when="2017">2017</date>
+			<biblScope unit="page">2</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b34">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">Pale</forename><surname>Ishiguro</surname></persName>
+		</author>
+		<author>
+			<persName><surname>View</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="page">54</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b35">
+	<monogr>
+		<title level="m" type="main">Suicide Century</title>
+		<author>
+			<persName><surname>Bennett</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="page">24</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b36">
+	<monogr>
+		<title level="m" type="main">I am grateful to one of the reviewers for his comment on the relations between picturing and narrating here</title>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b37">
+	<monogr>
+		<author>
+			<persName><forename type="first">Michael</forename><surname>Cholbi</surname></persName>
+		</author>
+		<title level="m">Grief: A Philosophical Guide</title>
+		<meeting><address><addrLine>Princeton, NJ</addrLine></address></meeting>
+		<imprint>
+			<publisher>Princeton University Press</publisher>
+			<date type="published" when="2022">2022</date>
+			<biblScope unit="page">82</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b38">
+	<analytic>
+		<title level="a" type="main">Narrating-I</title>
+		<author>
+			<persName><forename type="first">Manfred</forename><surname>Jahn</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Routledge Encyclopedia of Narrative Theory</title>
+		<editor>
+			<persName><forename type="first">David</forename><surname>Herman</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">Manfred</forename><surname>Jahn</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">Marie-Laure</forename><surname>Ryan</surname></persName>
+		</editor>
+		<meeting><address><addrLine>London</addrLine></address></meeting>
+		<imprint>
+			<publisher>Routledge</publisher>
+			<date type="published" when="2005">2005</date>
+			<biblScope unit="page">339</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b39">
+	<monogr>
+		<title level="m" type="main">Introduction</title>
+		<author>
+			<persName><surname>Fludernik</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="page">90</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b40">
+	<analytic>
+		<title level="a" type="main">Introduction</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Kenneth</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Doka</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Disenfranchised Grief: New Directions, Challenges, and Strategies for Practice</title>
+		<editor>
+			<persName><forename type="first">J</forename><surname>Kenneth</surname></persName>
+		</editor>
+		<editor>
+			<persName><surname>Doka</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Champaign, IL</addrLine></address></meeting>
+		<imprint>
+			<publisher>Research Press</publisher>
+			<date type="published" when="2002">2002</date>
+			<biblScope unit="page" from="5" to="22" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b41">
+	<analytic>
+		<title level="a" type="main">Intrapsychic Dimensions of Disenfranchised Grief</title>
+		<author>
+			<persName><forename type="first">Jefferey</forename><surname>Kauffman</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Disenfranchised Grief: Recognizing Hidden Sorrow</title>
+		<editor>
+			<persName><forename type="first">J</forename><surname>Kenneth</surname></persName>
+		</editor>
+		<editor>
+			<persName><surname>Doka</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Lanham, MD</addrLine></address></meeting>
+		<imprint>
+			<publisher>Lexington Books</publisher>
+			<date type="published" when="1989">1989</date>
+			<biblScope unit="volume">25</biblScope>
+			<biblScope unit="page" from="25" to="29" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b42">
+	<analytic>
+		<title level="a" type="main">The Psychology of Disenfranchised Grief: Liberation, Shame, and Self-Disenfranchisement</title>
+		<author>
+			<persName><forename type="first">Jefferey</forename><surname>Kauffman</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Disenfranchised Grief: New Directions, Challenges, and Strategies for Practice (Champaign</title>
+		<editor>
+			<persName><forename type="first">J</forename><surname>Kenneth</surname></persName>
+		</editor>
+		<editor>
+			<persName><surname>Doka</surname></persName>
+		</editor>
+		<imprint>
+			<publisher>IL: Research Press</publisher>
+			<date type="published" when="2002">2002</date>
+			<biblScope unit="volume">61</biblScope>
+			<biblScope unit="page" from="61" to="77" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b43">
+	<analytic>
+		<title level="a" type="main">A Pale View or a Cryptic View</title>
+		<author>
+			<persName><surname>For</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Li</forename><surname>Zengjing</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/00111619.2024.2378959</idno>
+		<ptr target="https://doi.org/10.1080/00111619.2024.2378959" />
+	</analytic>
+	<monogr>
+		<title level="j">Critique: Studies in Contemporary Fiction</title>
+		<imprint>
+			<biblScope unit="volume">66</biblScope>
+			<biblScope unit="page" from="671" to="681" />
+			<date type="published" when="2025">2025</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b44">
+	<monogr>
+		<title level="m" type="main">Pale View</title>
+		<author>
+			<persName><surname>Ishiguro</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="page" from="9" to="10" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b45">
+	<analytic>
+		<title level="a" type="main">Meaning Reconstruction in Bereavement: From Principles to Practice</title>
+		<author>
+			<persName><forename type="first">Robert</forename><forename type="middle">A</forename><surname>Neimeyer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Diana</forename><forename type="middle">C</forename><surname>Sands</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Grief and Bereavement in Contemporary Society: Bridging Research and Practice</title>
+		<editor>
+			<persName><forename type="first">Robert</forename><forename type="middle">A</forename><surname>Neimeyer</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">Darcy</forename><forename type="middle">L</forename><surname>Harris</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">Howard</forename><forename type="middle">R</forename><surname>Winokuer</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">Gordon</forename><forename type="middle">F</forename><surname>Thornton</surname></persName>
+		</editor>
+		<meeting><address><addrLine>New York</addrLine></address></meeting>
+		<imprint>
+			<publisher>Routledge</publisher>
+			<date type="published" when="2011">2011</date>
+			<biblScope unit="page" from="9" to="22" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b46">
+	<monogr>
+		<author>
+			<persName><forename type="first">Brian</forename><forename type="middle">W</forename><surname>Shaffer</surname></persName>
+		</author>
+		<title level="m">Understanding Kazuo Ishiguro</title>
+		<meeting><address><addrLine>Columbia</addrLine></address></meeting>
+		<imprint>
+			<publisher>University of South Carolina Press</publisher>
+			<date type="published" when="1998">1998</date>
+			<biblScope unit="page">24</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b47">
+	<analytic>
+		<title level="a" type="main">Diaspora, trauma, spectrality and world literary writing in A Pale View of Hills</title>
+		<author>
+			<persName><forename type="first">Emily</forename><surname>Horton</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Kazuo Ishiguro</title>
+		<editor>
+			<persName><forename type="first">Kristian</forename><surname>Shaw</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">Peter</forename><surname>Sloane</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Manchester</addrLine></address></meeting>
+		<imprint>
+			<publisher>Manchester University Press</publisher>
+			<date type="published" when="2023">2023</date>
+			<biblScope unit="volume">26</biblScope>
+			<biblScope unit="page" from="17" to="39" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b48">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">Pale</forename><surname>Ishiguro</surname></persName>
+		</author>
+		<author>
+			<persName><surname>View</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="page">91</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b49">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">See</forename><surname>Ishiguro</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Pale</forename><surname>View</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="page">112</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b50">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">Yugin</forename><surname>Teo</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Kazuo Ishiguro and Memory</title>
+		<imprint>
+			<biblScope unit="page">65</biblScope>
+			<date type="published" when="2014">2014</date>
+			<publisher>Palgrave Macmillan</publisher>
+			<pubPlace>Basingstoke</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b51">
+	<monogr>
+		<title level="m" type="main">Ishiguro&apos;s Floating Worlds</title>
+		<author>
+			<persName><surname>Walkowitz</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="page">1052</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b52">
+	<monogr>
+		<title level="m" type="main">s identification with Sachiko is apparent as she indirectly defends the latter: &apos;It was never my intention to appear unfriendly, but it was probably true that I made no special effort to seem otherwise&apos; (Ishiguro, Pale View</title>
+		<imprint>
+			<biblScope unit="page">182</biblScope>
+		</imprint>
+	</monogr>
+	<note>Etsuko also confuses Mariko with Keiko. When she tries to assures Mariko of a promising future in a foreign country, she seems to mistake her for Keiko in using &apos;we&apos; instead of &apos;you. When she recalls the daytrip with Mariko, she refers to her as &apos;Keiko&apos; (p.</note>
+</biblStruct>
+
+<biblStruct xml:id="b53">
+	<analytic>
+		<title level="a" type="main">Eloquence and empathy in A Pale View of Hills and An Artist of the Floating World</title>
+		<author>
+			<persName><forename type="first">Cynthia</forename><forename type="middle">F</forename><surname>Wong</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Kazuo Ishiguro</title>
+		<editor>
+			<persName><forename type="first">Kristian</forename><surname>Shaw</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">Peter</forename><surname>Sloane</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Manchester</addrLine></address></meeting>
+		<imprint>
+			<publisher>Manchester University Press</publisher>
+			<date type="published" when="2023">2023</date>
+			<biblScope unit="page" from="40" to="60" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b54">
+	<monogr>
+		<title level="m" type="main">Kazuo Ishiguro&apos;s Interior Worlds&apos;, Interview by Nermeen Shaikh</title>
+		<author>
+			<persName><forename type="first">Kazuo</forename><surname>Ishiguro</surname></persName>
+		</author>
+		<ptr target="https://asiasociety.org/kazuo-ishiguros-interior-worlds" />
+		<imprint>
+			<date type="published" when="2012-01-09">9 Jan 2012. 5 May 2024</date>
+			<publisher>The Asia Society</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b55">
+	<monogr>
+		<title level="m" type="main">I am thankful to one of the reviewers for drawing my attention to how mass death undermines individualised mourning, and to social expectations of immigrants in the 1980s UK. The two aspects will be addressed respectively in the following</title>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b56">
+	<monogr>
+		<title level="m" type="main">It offers a possible approach to account for Ishiguro&apos;s narrators with limited ability to know and to act, which is grounded in Ishiguro&apos;s concern with the social impact on individuals. As noted by one of the reviewers, &apos;[a]mbiguity over the consequences of individual actions is key to events in (at least) Ishiguro&apos;s first three novels&apos;. Therefore, my analysis of Etsuko&apos;s inability to mourn in the third section (&apos;Etsuko&apos;s dilemma&apos;) concentrates on individual responsibility, before I exploring how her dilemma also carries the imprint of the society at large. In doing so, I do not intend to negate or understate individual responsibility for their words and deeds</title>
+		<imprint/>
+	</monogr>
+	<note>My argument is more explorative than definitive here. and I hope my reading discourages attempts at passing judgment to Ishiguro&apos;s narrators</note>
+</biblStruct>
+
+<biblStruct xml:id="b57">
+	<analytic>
+		<title level="a" type="main">No Homelike Place: The Lesson of History in Kazuo Ishiguro&apos;s An Artist of the Floating World</title>
+		<author>
+			<persName><forename type="first">Timothy</forename><surname>Wright</surname></persName>
+		</author>
+		<idno type="DOI">10.1353/cli.2014.0009</idno>
+		<ptr target="https://doi.org/10.1353/cli.2014.0009" />
+	</analytic>
+	<monogr>
+		<title level="j">Contemporary Literature</title>
+		<imprint>
+			<biblScope unit="volume">55</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="58" to="88" />
+			<date type="published" when="2014">Spring 2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b58">
+	<monogr>
+		<title level="m" type="main">Psychology of Disenfranchised Grief</title>
+		<author>
+			<persName><surname>Kauffman</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="page">61</biblScope>
+		</imprint>
+	</monogr>
+	<note>original emphasis</note>
+</biblStruct>
+
+<biblStruct xml:id="b59">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">Pale</forename><surname>Ishiguro</surname></persName>
+		</author>
+		<author>
+			<persName><surname>View</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="page">25</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b60">
+	<analytic>
+		<title level="a" type="main">Repression and Omission in Kazuo Ishiguro&apos;s A Pale View of Hills</title>
+		<author>
+			<persName><forename type="first">Kenneth</forename><surname>Eckert</surname></persName>
+		</author>
+		<idno type="DOI">10.1515/9783110775884-008</idno>
+		<ptr target="https://doi.org/10.1515/9783110775884-008" />
+	</analytic>
+	<monogr>
+		<title level="m">Symbolism: An International Annual of Critical Aesthetics</title>
+		<editor>
+			<persName><forename type="first">Florian</forename><surname>Klaeger</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">Klaus</forename><surname>Stierstorfer</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">Marlena</forename><surname>Tronicke</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Berlin</addrLine></address></meeting>
+		<imprint>
+			<publisher>De Gruyter</publisher>
+			<date type="published" when="2022">2022</date>
+			<biblScope unit="volume">125</biblScope>
+			<biblScope unit="page" from="121" to="142" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b61">
+	<monogr>
+		<title level="m" type="main">Eckert&apos;s emphasis on how repression and omission &apos;function at a community, interpersonal, and private level for Etsuko&apos; (p. 125) shares a similar ground with my argument</title>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b62">
+	<monogr>
+		<author>
+			<persName><forename type="first">Alon</forename><surname>See</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Confino</surname></persName>
+		</author>
+		<title level="m">Between Mass Death and Individual Loss: The Place of the Dead in Twentieth-century Germany</title>
+		<editor>
+			<persName><forename type="first">Paul</forename><surname>Betts</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">Dirk</forename><surname>Schumann</surname></persName>
+		</editor>
+		<meeting><address><addrLine>New York</addrLine></address></meeting>
+		<imprint>
+			<publisher>Berghahn Books</publisher>
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b63">
+	<monogr>
+		<title level="m" type="main">The Tripartite Matrix in the Developing Theory and Expanding Practice of Group Analysis. The Social Unconscious in Persons</title>
+		<author>
+			<persName><forename type="first">Kai</forename><surname>Ogimoto</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Tomas</forename><surname>Plaenkers</surname></persName>
+		</author>
+		<editor>Earl Hopper</editor>
+		<imprint>
+			<date type="published" when="2023">2023. 225</date>
+			<publisher>Routledge</publisher>
+			<biblScope unit="volume">4</biblScope>
+			<biblScope unit="page" from="222" to="230" />
+			<pubPlace>Abingdon</pubPlace>
+		</imprint>
+	</monogr>
+	<note>The manic defense of reconstruction and the inability to mourn in post-war Japan</note>
+</biblStruct>
+
+<biblStruct xml:id="b64">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">Pale</forename><surname>Ishiguro</surname></persName>
+		</author>
+		<author>
+			<persName><surname>View</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="page">103</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b65">
+	<monogr>
+		<author>
+			<persName><forename type="first">Dominic</forename><surname>Dean</surname></persName>
+		</author>
+		<title level="m">Killing Children in British Fiction: Thatcherism to Brexit</title>
+		<meeting><address><addrLine>Albany</addrLine></address></meeting>
+		<imprint>
+			<publisher>State University of New York Press</publisher>
+			<date type="published" when="2024">2024</date>
+			<biblScope unit="page">228</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b66">
+	<monogr>
+		<author>
+			<persName><forename type="first">Randall</forename><surname>Hansen</surname></persName>
+		</author>
+		<title level="m">Citizenship and Immigration in Postwar Britain</title>
+		<meeting><address><addrLine>Oxford</addrLine></address></meeting>
+		<imprint>
+			<publisher>Oxford University Press</publisher>
+			<date type="published" when="2000">2000</date>
+			<biblScope unit="page">222</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b67">
+	<monogr>
+		<title level="m" type="main">Pale View</title>
+		<author>
+			<persName><surname>Ishiguro</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="volume">10</biblScope>
+			<biblScope unit="page">9</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b68">
+	<monogr>
+		<title level="m" type="main">In Ishiguro&apos;s later novels, the theme of loss is explored in terms of remembering and forgetting, such as the protagonists&apos; amnesia in The Unconsoled and The Buried Giant. Other novels such as Never Let Me Go and The Klara of the Sun ask whether loss can be retrieved or substituted</title>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b69">
+	<monogr>
+		<author>
+			<persName><forename type="first">Ian</forename><surname>Watt</surname></persName>
+		</author>
+		<title level="m">The Rise of the Novel: Studies in Defoe, Richardson and Fielding</title>
+		<meeting><address><addrLine>Berkeley</addrLine></address></meeting>
+		<imprint>
+			<publisher>University of California Press</publisher>
+			<date type="published" when="1957">1957</date>
+			<biblScope unit="page">12</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b70">
+	<monogr>
+		<title level="m" type="main">Interior Worlds</title>
+		<author>
+			<persName><surname>Ishiguro</surname></persName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b71">
+	<monogr>
+		<author>
+			<persName><forename type="first">Jean-François</forename><surname>Lyotard</surname></persName>
+		</author>
+		<title level="m">The Differend: Phrases in Dispute</title>
+		<meeting><address><addrLine>Manchester</addrLine></address></meeting>
+		<imprint>
+			<publisher>Manchester University Press</publisher>
+			<date type="published" when="1983">1988. 1983</date>
+			<biblScope unit="page">p. xi</biblScope>
+		</imprint>
+	</monogr>
+	<note>translated by Georges Van Den Abbeele</note>
+</biblStruct>
+
+<biblStruct xml:id="b72">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">Pale</forename><surname>Ishiguro</surname></persName>
+		</author>
+		<author>
+			<persName><surname>View</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="page">12</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b73">
+	<monogr>
+		<title level="m" type="main">Interior Worlds</title>
+		<author>
+			<persName><surname>Ishiguro</surname></persName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b74">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">Pale</forename><surname>Ishiguro</surname></persName>
+		</author>
+		<author>
+			<persName><surname>View</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="page">176</biblScope>
+		</imprint>
+	</monogr>
+	<note>my emphasis</note>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

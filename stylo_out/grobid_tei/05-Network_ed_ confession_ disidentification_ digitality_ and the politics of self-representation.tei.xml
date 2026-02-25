@@ -1,0 +1,962 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Network(ed) confession: disidentification, digitality, and the politics of self-representation in the work of Kathy Acker and Joanna Walsh</title>
+				<funder>
+					<orgName type="full">UKRI</orgName>
+				</funder>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author role="corresp">
+							<persName><forename type="first">Max</forename><surname>Shirley</surname></persName>
+							<email>max.shirley@mac.com</email>
+							<affiliation key="aff0">
+								<orgName type="department">School of Humanities</orgName>
+								<orgName type="institution">University of Westminster</orgName>
+								<address>
+									<settlement>London</settlement>
+									<country key="GB">UK</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff0">
+								<orgName type="department">School of Humanities</orgName>
+								<orgName type="institution">University of Westminster</orgName>
+								<address>
+									<settlement>London</settlement>
+									<country key="GB">UK</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Network(ed) confession: disidentification, digitality, and the politics of self-representation in the work of Kathy Acker and Joanna Walsh</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date/>
+						</imprint>
+					</monogr>
+					<idno type="MD5">A7C216A34954F821A73D581EF81864F9</idno>
+					<idno type="DOI">10.1080/0950236X.2025.2608003</idno>
+					<note type="submission">Received 1 November 2024; Accepted 17 October 2025</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.0" ident="GROBID" when="2026-02-25T19:51+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term>Life-writing</term>
+					<term>confession</term>
+					<term>networks</term>
+					<term>algorithms</term>
+					<term>Kathy Acker</term>
+					<term>Joanna Walsh</term>
+				</keywords>
+			</textClass>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>This essay examines the intersection of life-writing, network systems, and literary experimentation. Confessional forms of literature have inevitably transformed with the proliferation of mass communications technologies and distributed computing networks. New media, particularly social media networks -as noted by Seb Franklin, Wendy Hui Kyong Chun, and othersovertly privilege the individual over forms of collectivity and solidarity. Tracing a lineage from the avant-garde writer Kathy Acker to the multimedia artist Joanna Walsh, this essay explores how the aesthetic politics of formal experimentation enables authors to bypass neoliberal society's obsession with transparency and the 'inner' self. Building on the work of José Esteban Muñoz, I argue that, in their respective texts, Acker and Walsh present a counter-or non-confessional aesthetic mode underwritten by disidentificatory textual practice. Refuting both autobiographical genre conventions and the data capture systems of networks, Acker and Walsh model new forms of self-representation for the information age. Comparative close reading demonstrates the continuing significance of Acker's work and the possibility of new networks of experimental writers and artists who challenge what is normative or ordinary.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Reviewing Kathy Acker's posthumously published email correspondence for</head><p>The Guardian, Joanna Walsh remarks 'Acker might have seemed made for the internet age'. <ref type="bibr" target="#b0">1</ref> Intellectual and flirtatious in equal measure, the missives collected in I'm Very Into You (2015) recount the early courtship of Acker and media theorist McKenzie Wark in the 1990s. The assembled messages, Walsh surmises, demonstrate Acker's underlying perception of the intertwinement of her work and life. Tellingly, in one email to Wark, Acker wryly asserts: 'the KATHY ACKER that YOU WANT (as you put it), is another MICKEY MOUSE, you probably know her better than I do. It's media, […] It's not me'. <ref type="bibr" target="#b1">2</ref> Acker conveys, in her message, a wariness regarding the limits of self-representation and one's portrayal by others. Questions of self-identity likewise arise across her oeuvre: from early textual experiments written under the guise of The Black Tarantula to her later novels, notably the aptly titled In Memoriam to Identity (1990), Acker examines the instability of received identity categories and the (im)possibility of self-knowledge, anticipating contemporary considerations of life-writing forms and individual authenticity. <ref type="bibr" target="#b2">3</ref> In the past, the reception of and response to Acker's work has been marred by her public image or representation in the media, as she notes to Wark. For example, Joe Moran attests that Acker's writing and literary celebrity are frequently conflated with her 'punk' style, rendered prominently in portraits of the author that adorn the covers of the Grove Press editions of her work. <ref type="bibr" target="#b3">4</ref> Ungenerous interpretations gesture to these visuals as indications that the notoriety of Acker's work, within and beyond the academy, stems from a deliberate cultivation of her radical image. Such overdetermined readings of Acker's public persona risk reducing her literary experiments to pure biography, obfuscating the technical innovations of her writing and endeavour to move beyond the innately personal. With reference to archival material, draft manuscripts, and correspondence, this essay illuminates how Acker elides preconceptions of authorial and individual sovereignty. I position Acker's The Childlike Life of the Black Tarantula by the Black Tarantula (1973) as a foundational avant-garde text that critiques autobiographical conventions and the technologies of selfhood through the aesthetic politics of formal experimentation. Several critics, including Naomi Jacobs, have attended to the written 'I' in Acker's work, while Tessel Veneboer has accounted for Acker's want to 'deindividualize subjectivity'. <ref type="bibr" target="#b4">5</ref> In his biography of the author, Jason McBride notes that 'Acker was loath to subscribe to any essential, totalizing identity, feminist or otherwise […] Late in life, she called identity politics "repulsive"'. <ref type="bibr" target="#b5">6</ref> In her work, Acker models textual forms of resistance to the social and cultural obsession with the individual.</p><p>This essay is concerned with the afterlives of Acker's early work: though her biography is often foregrounded in scholarship, little critical attention has been given to the legacy of Acker's innovative literature. Published some fifty years after Acker's serial novel, Walsh's Girl Online: A User Manual (2022) is a clear inheritor of the avant-gardist's compositional techniques and thematic interests. 'I like Acker's methods', Walsh explains to Natalie Helberg in an interview, '[i]n The Childlike Life of the Black Tarantula, there's nothing coldly experimental about the way she rewrites classic texts, and […] her work, commenting on what it remakes, is always criticism as well as fiction'. <ref type="bibr" target="#b6">7</ref> Arguably, in Girl Online, we witness an aesthetic inheritance as Walsh shares Acker's broad interest in intertextuality, and also expunges the boundaries between fact and fiction, theory and literature.</p><p>This essay makes a novel critical intervention by bringing the study of lifewriting and experimental literature into dialogue with recent work on digitality and network architectures. First, I take up Rita Felski's comprehension of feminist aesthetics and the late queer scholar José Esteban Muñoz's conceptualisation of disidentification alongside several studies of the digital logic of networks. Just as life narratives and written confessional forms require individuals to be transparent, the proliferation of social media networks has led us all to constantly present versions of ourselves online. This growing incitement to 'share' our daily lives online has resulted in new networks of confession. Resultingly, I argue, The Childlike Life of the Black Tarantula and Girl Online offer a non-or counter-confessional aesthetic mode, underwritten by a disidentificatory textual practice. Next, this essay explores the purview of the counter-confessional aesthetic present in Acker's and Walsh's texts, which is characterised by their depiction of a plural and changeable narrative 'I'; subversion of notions of authorial sovereignty through pseudonymous writing; and critique of binary structures of being. Finally, I turn to consider the textual resistance protocols through which Acker and Walsh strive toward new modes of knowledge production. This essay pays particular attention to the avant-garde form of The Childlike Life of the Black Tarantula and Girl Online, highlighting their nonlinear textual compositions, and use of wordplay and repetition. Disidentificatory politics are subtended by such instances of formal innovation, which additionally foment a reciprocal textual space as literary experimentation involves the reader in the act of meaning-making. Ultimately, Acker and Walsh produce social texts bound by an oppositional politics, enabling an alternative form of the network.</p><p>In response to a society that demands constant acts of confession or sharing, Acker and Walsh refuse to perform a coherent or essentialised identity in their texts. This essay explores moments of convergence and contrast in Girl Online and The Childlike Life of the Black Tarantula to chronicle the parameters of a counter-confessional textual practice. Read comparatively, Acker's and Walsh's work evidence a lineage of feminist experimental narratives that offer new forms of self-representation and nonunitary modes of being. The purpose of my comparative methodological approach is twofold: first, it invites a consideration of Acker as a vanguard for experimental writing in the present. Secondly, through comparative close reading, I attend to the relevance and resonances of Acker's textual experiments for the so-called digital age: The Childlike Life of the Black Tarantula offers potential solutions or methods of resistance to the demands of a networked or surveillant culture. In the twenty-first century, the silk web of Acker's tarantula becomes the online web in Walsh's hybrid life-writing text.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Networks of confession</head><p>The latter half of the twentieth century saw a discernible increase in the production and reception of life narratives. For Felski, this amplification of autobiographical writing reflects the development of late capitalism and bourgeois subjectivities, which are preoccupied 'with the self and the personal sphere'. <ref type="bibr" target="#b7">8</ref> In Beyond Feminist Aesthetics (1989), Felski attends to the value of women's confessional literature as a social practice of consciousness-raising, which maintains 'the relationship between personal experience and political goals within feminism as a whole'. <ref type="bibr" target="#b8">9</ref> Implicit in Felski's argument is the idea, developed initially by Philippe Lejeune, that the autobiographical is a modality of reading as the confessional text 'encodes an audience'. <ref type="bibr" target="#b9">10</ref> The written 'I' of the confessional text is affirmed by a collective readership with shared anecdotal experience. Felski educes (via Nancy Fraser) that this intersubjective entanglement of the writer and reader underlines the capacity of confessional writing to engender a discursive feminist counterpublic sphere. In recent years, forms of confession have transformed due to the expansion of mass communications technologies and distributed computing networks. From blogs to social media platforms, emails to chat forums, acts of self-presentation increasingly occur in online environments. Digital mediums have steered autobiographical writing, Kaye Mitchell observes, 'in directions that might be sentimental, subjective, individualising, self-absorbed, girlish, preoccupied with "personal experience" to the detriment or in the absence of clear "political goals"'. <ref type="bibr" target="#b10">11</ref> Mitchell is alert to untenable forms of solidarity that emerge from the false sense of intimacy provided by connections on social media sites. Or, as Wendy Hui Kyong Chun insists, 'Networks dream of communication without community'. <ref type="bibr" target="#b11">12</ref> Alterations in the organisation and accumulation of capital precipitate the changing parameters of confession. According to Seb Franklin, 'an epistemic shift that reformulates concepts of the human and sociality around computational metaphors' has occurred. <ref type="bibr" target="#b12">13</ref> The ubiquity of networks, in both material and more imagined forms, underwrites this transition as network systems now exercise control over the individual. I want to suggest that examining the intersection of life-writing and network studies is necessary, as the production and reception of autobiographical forms are now intertwined with a series of computational operations. As Joanna Zylinska and Sarah Kember note, 'life itself is to be perceived as, or, more accurately, reduced to a medium'. <ref type="bibr" target="#b13">14</ref> Crucially, contemporary life-writing intersects with several common network types, including the digital platforms that enable modern-day communication, one's social or relational networks, and the virtual and physical infrastructures of book publishing. One consequence of this new episteme, Franklin contends, is that 'disconnection from channels of communication appear[s] aberrant or pathological and thus lead[s] to expulsion from circuits of representation and inclusion'. <ref type="bibr">15</ref> Networks demand confession. Acker and Walsh, in response to a networked culture that requires constant self-disclosure and participation, refuse to present the discrete individual in their texts. They disidentify, that is, with the frameworks of representation afforded by the confessional form and the version of subjectivity represented through those frameworks.</p><p>Rather than abandon the confessional form entirely, Acker and Walsh adopt a disidentificatory textual politics that reimagines the generic boundaries of autobiographical writing. This essay builds on the work of Muñoz to consider disidentification as a life-writing practice that offers political potential in a contemporary networked society. <ref type="bibr" target="#b14">16</ref> As an experimental textual practice, disidentification comprises 'working on and against' an aesthetic object or ideology to 'transform a cultural logic from within'. <ref type="bibr" target="#b15">17</ref> To Muñoz, disidentificatory performances and practices entail a hermeneutical process of decoding received modes of knowledge production, or the 'recycling and rethinking [of] encoded meaning' to create new ways of being in the world. <ref type="bibr" target="#b16">18</ref> Acts of disidentification do not disavow everyday modes of being or mainstream aesthetics, but repurpose and restructure linguistic and formal conventions to new ends. To disidentify, in other words, encompasses neither the assimilation nor rejection of hegemonic subjection positions, but the reworking of a cultural artefact to establish 'identities-in-difference'. <ref type="bibr" target="#b17">19</ref> In this regard, restrictions placed upon the parameters of selfhood, 'the code of the majority', provide the 'raw material for representing disempowered politics or positionality'. <ref type="bibr" target="#b18">20</ref> Through disidentification, dominant modes of expression are not effaced but reproduced with a difference.</p><p>Muñoz's queer theory of disidentification finds a surprising correlation in contemporary network studies: namely, Alexander R. Galloway's and Eugene Thacker's work on the exploit, the method through which hackers disrupt code architectures. Developing a 'liberated computer language', Galloway and Thacker proffer a series of protocols that respond to the constraints of today's technologically mediated society, including the command 'disidentify ENTITY', which 'removes all unique IDs, profile data, and other quantitative identifiers for the specified entity'. <ref type="bibr" target="#b19">21</ref> The anti-identitarian project of queer studies proves useful for media theorists grappling with network systems and digital infrastructures that mandate acts of disclosure and self-expression. In the information economy, where the subject is (over)determined by preferences plucked from drop-down boxes on sites such as Facebook, acts of disidentification take on new precedence: to escape the logic of capture that underpins big data analytics and distributed network systems, users must continually adopt new avatars and perform 'identities-in-difference' as such mobile tactics challenge the algorithmic recommender systems that proscribe and prescribe online actions. The obfuscating nature of Acker's and Walsh's anti-or counter-confessional aesthetic finds a compelling counterpart in Galloway's and Thacker's assertion that 'Future avantgarde practices will be those of nonexistence'. <ref type="bibr" target="#b20">22</ref> The following analysis highlights the aesthetic and formal dimensions of Acker's and Walsh's non-confessional practice. While this comparative analysis intends to elicit the significance of Acker's innovations for contemporary writers such as Walsh, I also explore the extent to which avant-garde textualities offer strategies to circumvent the algorithmic logic of capture that undergirds the digital economy.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>The counter-confessional 'I'</head><p>Where confessional literature presupposes the presence of a singular focal perspective for readers to identify with, Acker and Walsh conceive of the written 'I' as a changeable and plural entity. Fixed acts of identification are inhibited by Acker's and Walsh's counter-confessional practices, which probe how discursive subjects come into being. Rather than personal experience, language itself becomes the texts' principal concern. Wordplay, in Girl Online, fractures the coherence of the 'I' and blurs the boundary between offline and online identities, while The Childlike Life of the Black Tarantula employs a cut-up formal procedure to juxtapose disparate identities and challenge the individuality of the first-person pronoun. Connoted by the noun 'manual' in the book's subtitle, Walsh's Girl Online offers a series of technical insights to reveal how computational operations and algorithmic functions mediate the production and reception of identity. The text highlights a dialectical tension between one's offline and online sense of self: I am sitting in front of a screen in order to find the words to say "I am" onscreen. Or, to say "I am", the screen demands there is already an "I" to sit here.</p><p>[…] Nauseated by this I-voice there is nowhere to escape it, there is nowhere not to escape it. It expands to, and is expanded into by, every thing. How can "I" be specific here? (15)   Exposing the divergence between offline and online subjectivities, Walsh refuses to present the singular 'I' that network architectures demand and readers might identify with. A linguistic opacity emerges in the extract as the signifier is abstracted and lacks a fixed referent, simultaneously indicating a physical or material subject and a disembodied digital persona. This instability of the narrative 'I' is paradigmatic of the text and further underscored by Walsh's use of repetition and scare quotes, which illustrate that the first-person pronoun functions as little more than a grammatical placeholder on the page. In moments of self-reflectivity, Walsh disturbs the autonomy of the pronoun, transforming the 'I' from the agential subject that progresses the text to the sentence's object of study. The cacophony of 'Ivoices' in Girl Online reflects the proliferation of avatars and personas in digital spaces. Anonymity can be found in avatars that purposefully do not reflect one's sense of self: as users continue to cycle through various online identities, they disrupt the supposedly singular nature of the sovereign individual, which autobiographical narratives require. The alterability of the text's speaker is counter-confessional: Walsh does not present a unitary identity but the 'subject-as-continuous-process', being made and remade in various contexts (10).</p><p>For Walsh, the expression of an online persona or digital 'I' is always a reiteration of existing models of selfhood. In Girl Online, Walsh glosses the impact of 'if this, then that' algorithms, the black box systems that social media platforms use to present users with content based on their prior (inter)actions and provide 'the illusion of subjectivity' (10). Abbreviated to IFTTT in the text, these protocols are predicated upon feedback loops that affect what appears on one's timeline, eventually reducing a person's worldview to only that visible onscreen. Indeed, when responding to digital content, social media users often exclaim, 'I feel seen!'. That a person's feed not only echoes but manages their interests is a result, Chun notes, of the fact that social media's recommendation systems are 'not simply predictive' but 'also prescriptive'. <ref type="bibr" target="#b21">23</ref> Algorithms shape the choices available to users, giving way to what Chun terms 'algorithmic authenticity', which describes how 'users are validated and authenticated by network algorithms'. <ref type="bibr" target="#b22">24</ref> Through grammatical inflection, Walsh summarises the constraining function of algorithms in her text: 'I am shown the self-similar, similar to the self the algorithms I enter record, until I am like what I like onscreen' (10). Walsh emphasises the duality of the term 'like', which serves as both an adjective (to be similar) and a verb (to enjoy). Here, wordplay facilitates a hermeneutical decoding, revealing the computational operations and metaphors through which society is organised. Such linguistic opacity also has a generative potential, expanding the meaning(s) that can be inferred from the text. Individuals' online presence is underwritten, Walsh notes, by the 'affective coin' of social media engagements (11). Entering the virtual realm, the user experiences discretisation as data capture processes transform the subject into a quantified and quantifiable object. Franklin concurs that the extension of computational metaphors into everyday life recasts the 'figure of the human as [a] programmable object'. <ref type="bibr" target="#b23">25</ref> Becoming legible in the digital sphere requires the reproduction of set norms: 'the "real" becomes the re-playable' (13).</p><p>Arguably, a literary and historical precedent for Walsh's Girl Online can be found in Acker's early textual experiments, which share a comparable interest in subverting the stability of the written 'I'. In an interview with Sylvère Lotringer, Acker explains that, in The Childlike Life of the Black Tarantula, she 'wanted to explore the use of the word "I,"' and 'tried to figure out who [she] wasn't', by placing personal diary material next to appropriated excerpts from the biographies of murderesses. <ref type="bibr" target="#b24">26</ref> Acker 'changed [the biographies] into the first person, […] not caring if the writing was good or bad, and put the fake first person next to the true first person'. <ref type="bibr" target="#b25">27</ref> Identifying with subversive figures, Acker refutes the singular perspective of autobiographical writing and inhabits a myriad of I-voices, a strategy that Alex Houen characterises as 'allobiography -the writing of one's life as other'. <ref type="bibr" target="#b26">28</ref> The adjacency of 'fake' and 'true' narrative personas epitomises the counter-or non-confessional nature and disidentificatory politics of Acker's experimental work. By collapsing one narrative speaker into another, Acker abstracts the focal 'I' of the text and disallows any fixed forms of readerly identification. Acker's draft materials and marginalia further signal her intention to move beyond the personal. The following paradoxical statement from Acker's notebook evidences her contestation of the confessional nature of the first-person pronouns: 'I AM NOT ME'. <ref type="bibr" target="#b27">29</ref> Drawn from the narrative experiments of William Burroughs and Brion Gysin, the cut-up composition of The Childlike Life of the Black Tarantula facilitates a disidentificatory practice. <ref type="bibr" target="#b28">30</ref> Acker's disjunctive juxtapositions might seem to parallel the action of becoming 'like' another on social media platforms, but the prescriptive nature of the 'if this, then that' algorithm is superseded by a more agential formal procedure in the text. On the cover of her preparatory notebook, Acker wrote and circled the word 'LOGIC', ostensibly demarcating her interest in highly constructed textual compositions. <ref type="bibr" target="#b29">31</ref> The almost mathematical arrangement of Acker's work is more apparent in Kathy Goes Haiti (1978), which is structured around alternating chapters of pornography and travelogue. The nonlinear composition of Acker's text resonates with the use of 'cuts' across other artistic practices, including photography and filmmaking. Zylinska and Kember define the cut as a 'technical process that involves transforming matter' as well as 'an ethical imperative (the command: "Cut!")', and this gives rise to their appeal for the practice of 'cutting well'. <ref type="bibr" target="#b30">32</ref> Artistic practices such as photography merge creativity with technology and encompass an 'agential cut' as one chooses what to capture. <ref type="bibr">33</ref> Photography 'produces life forms, rather than merely recording them'. <ref type="bibr" target="#b31">34</ref> To cut well portends an act of becoming whereby one can create avenues of possibility through choosing to 'cut' certain elements or materials together. In this context, the cut becomes a disidentificatory aesthetic practice, recombining existing cultural material to establish identities-in-difference. Acker's cut-up or, to use computational terms, cut-and-paste strategy expands potential frameworks of representation. Avant-garde formal experimentation disrupts any algorithmic prescription of individual actions.</p><p>Acker privileges the diversity of acts of becoming over the static nature of the written 'I'. The first edition of her serial work begins with a paratext, which delineates the parameters of her experiment: 'Intention: I become a murderess by repeating in words the lives of other murderesses' (2). It is this act of verbal repetition that destabilises or unmakes one's sense of self. The inherent dynamism of Acker's innovative strategy provides a possible alternative to network systems that attempt to capture and constrain the individual user. The mutability of the first-person speaker also fosters a participatory or reciprocal textual space. Courtney Foster argues that Acker promotes 'reading as an embodied performance'. <ref type="bibr" target="#b32">35</ref> Highlighting the influence of conceptual artists such as Eleanor Antin on Acker's craft, Foster suggests that when reading, both aloud and in our heads, the illocutionary utterances 'I'm born … ', 'I become … ', 'My name is … ', we reiterate Acker's textual politics, create felicitous speech acts, and become part of the work's performance of a collaborative (dis)identity. The Childlike Life of the Black Tarantula thus establishes a networked relationship between the writer and reader, but also extends this web to encompass the appropriated works of authors and historical figures that Acker uses. Further, the recurrence of phrases such as 'I'm born … ' throughout the text lends itself to a circular or looping narrative structure through which Acker disidentifies with the traditionally linear development arc of generic autobiographical texts. Indeed, Acker denies any sense of narrative closure by serialising her work. The repetitive, aleatory construction of the cut-up disrupts the reader's ability to extract a singular meaning from a text, shifting one's focus from the personal content to the procedural and formal aspects of the work.</p><p>By juxtaposing disparate narrative material, Acker rebuffs the individuality of conventional life narratives and portrays the creative potential of the cut. Appropriated excerpts differ from the material culled from Acker's diaries stylistically and thematically. Take, for instance, this passage from early in 'Some Lives of Murderesses': I don't remember any of my childhood before I was 6 years old when I start learning to read. My eldest sister marries a baronet and lives in England; my second elder sister marries a doctor and moves to Scotland. I'm an obedient child: I stubbornly do what my parents and their associates want me to do.</p><p>[…] (I call up D in Los Angeles do you want to sleep with me with me when and where there why don't you spend a few days with me I'll call you tomorrow. […] I call Friday call Saturday Sunday this is Kathy O uh do you want to spend a night with me again are you too busy I'm too busy uh goodbye have a good time in New York uh goodbye.) (3-4)   In the passage, the boundary between textual voices is distinct as Acker maintains differences between the speakers. Placed in parentheses, excerpts from Acker's diaries feature a modernist style of stream-of-consciousnesses, seemingly unrelenting and unpunctuated sentences with frequent repetitions and chunks of dialogue inserted throughout. Sections lifted from the murderesses' biographies are reproduced in clear and grammatically correct prose, lacking the affective interjections 'O' and 'uh' present in Acker's material. The adjacent passages differ not just stylistically but also in content: the appropriated material represents a more traditional life narrative, relaying basic information such as family relations and life milestones. On the other hand, Acker obscures any familial networks using single letters to denote names. As I discuss below, a politics of (un)naming is central to the counter-confessional practice. In her text, Acker offers less a life rendered in writing than an appropriation of others' lives through writing. Both The Childlike Life of the Black Tarantula and Girl Online refute the alleged discreteness of the written 'I' by articulating a non-confessional aesthetic. Individual authenticity is revealed to be a ruse: through wordplay, Walsh discloses how the construction of an 'I' online requires repetition, while Acker's compositional innovation combines and confuses 'fake' and 'true' identities.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Disidentificatory codenames</head><p>That the counter-confessional aesthetic reveals both identity and the narrative 'I' to be mutable entities is reinforced by the inclusion of pseudonyms and avatars in The Childlike Life of the Black Tarantula and Girl Online. Disidentification, Muñoz writes, 'cannot be conceptualized as a […] "masterfully" fixed mode of identification'. <ref type="bibr">36</ref> Acker's and Walsh's disidentificatory textualities incorporate conspicuous pen names and codenames to challenge the presumed authority of the author and their mastery over the text. For Walsh, virtual identities are encapsulated by the figure of 'AI Alice' or the girl online who 'is an avatar for everyone' (7). Less a specific subject position, the girl online represents a manufactured mould that anyone might fill, modifying their sense of self to adhere to the framework of girl-being. Ubiquitous in digital space, girl identity precludes individuality as one becomes 'the voice of many people' and non-confessional (19). In the work of Ann K. Clark, the girl is defined as a 'rhetoric of desire' and 'aesthetic object' that is 'projected as the image of normality'. <ref type="bibr" target="#b33">37</ref> Clark clarifies, here, the gendered and normative dimensions of girlhood, a subjectivity that must conform to an objectifying and regulating gaze. Though Walsh acknowledges that one may 'shrink' their identity to become a girl online, the avatar represents a capaciousness and universality that is privileged in the text (12). Walsh foregrounds the malleability of girl identity, regarding the persona as a 'flexible object' and insisting that it can be 'useful to write as a girl online' (102). Crucially, the girl online appears to be inhabited through processes of disidentification: one can rework the alleged normativity of this 'flexible' mode of being to engender possibility. It is this evident lack of uniqueness that underwrites the counter-confessional status of the girl online. The 'girl is all concept', Walsh writes, devoid of the material particularities and complexities of any given life (8).</p><p>The legibility of the girl online is affirmed through acts of self-representation. In her work, Walsh alludes to the discursive or rhetorical nature of online identities, which are performed and secured 'via girl genres', such as the diary or online blog (98). Previously confidential forms of self-expression have mutated into publicly accessible web pages where internality is superseded by textuality. In a subsection of Girl Online, titled 'Drag Diary', Walsh concludes that 'Girl identity is established via word-based personal revelations whose confessional tone relies, like the blog, on a shared understanding of what is "private"' (97). Becoming a girl online is a performative process predicated on the dual operation of repetition and reception: one must constantly enact or embody a specific mode of being that is perceived by others as representative of the figure of the girl. Note, here, how readers maintain a role in establishing the identity of the author. The intertitle's incongruous pairing of 'drag' and 'diary' emphasises the performative nature of digital life-writing, which parodies traditional confessional modes. Walsh critiques the digitisation of life-writing for fostering a homogenised 'you' and curtailing individuals' self-expression, but girl genres also render readable unspeakable aspects of girl-being through 'trauma talk' (98). The transformation of diary material from private to public makes visible parts of life that were previously hidden; the limitations of so-called girl genres can be enabling, Walsh seems to suggest. Gendered and networked literary forms may delimit self-representation, but working within the confines of these generic boundaries allows one to 'pass' for a normative subject position. Girl genres can, in other words, facilitate acts of disidentification and counter-confession: trans and queer individuals, for example, may abide by and experiment with the boundaries of the form to achieve representation in a virtual environment that typically privileges hegemonic subjectivities.</p><p>While the girl online is a universal moniker for anyone engaging with digital confessional forms, Acker's 'The Black Tarantula' is a nongendered pseudonym that obscures her authorial identity. Across its six instalments, The Childlike Life of the Black Tarantula features at least thirteen disparate narrative voices, and, in self-referential and parenthetical remarks, Acker introduces 'K A', 'Kathy', and 'the Black Tarantula', among other noms de plume. If each anonym pertains to a different speaker, then the concentration of authorial and narrative voices in the text continues to increase. Moreover, the pamphlet claims to be written 'by the Black Tarantula', but Acker is listed as the author of Grove Press's Portrait of an Eye (1998). Other texts from the writer's corpus carry additional aliases, such as the metonymic pseudonym Rip-off Red, which gestures toward Acker's appropriative textual strategy. These numerous pen names establish the texts' counter-confessional aesthetic and act as a riposte to interpretations that foreground a singular presentation of Acker's literary celebrity. In the 1970s, Acker mailed copies of her serial pamphlets to hundreds of monthly readers, building a social network through the postal service. On one level, this can be viewed as an analogue version of posting updates to one's blog site; nonetheless, the act of mailing material objects forges physical connections between individuals, which are typically elided by the false sense of proximity provided by distributed digital networks. Each edition of The Childlike Life of the Black Tarantula concludes with a list of references that, as Foster notes, becomes an evolving record of Acker's writing and reading. <ref type="bibr" target="#b34">38</ref> The first chapbook closes: 'All the above events are taken from myself, Enter Murderers! By E. H. Bierstadt, Murder for Profit by W. Bolitho, Blood in the Parlor by D. Dunbar, Rogues and Adventuresses by C. Kingston' (22). Here, authorial identity is established through citation: Acker foregrounds her appropriative textual practice and introduces further authors/voices into the work, challenging any correlation between life-writing and individual authenticity. Acker's inclusion of herself in the above list underscores what Martina Sciolino has termed the technique of 'autoplagiarism', whereby Acker presents her life as if it, too, were a stolen text. <ref type="bibr" target="#b35">39</ref> Through an avant-garde practice of citation, Acker continues to underline the intertextual composition of The Childlike of the Black Tarantula rather than its content.</p><p>The figure of The Black Tarantula is more than a pseudonym; the moniker reflects Acker's reading practice and aesthetic intentions. In a series of letters to Alan Sondheim, Acker details a collaborative project that eventually became the Blue Tapes (1974). Throughout these letters, Acker employs grammatical inflection as the noun 'tarantula' functions as a verb. A feedback loop is constructed between the activities of reading and writing as Acker requests that the pair share 'as much information about ourselves as possible' for her to begin 'overwriting, redoing (as in TARANTULAs) etc'. <ref type="bibr" target="#b36">40</ref> Paragraphs later, Acker repeats this sentiment, stating that she will 'read your stuff do a TARANTULA on it (since that's how I read carefully)'. <ref type="bibr" target="#b37">41</ref> Each letter is signed 'Love TBT', complicating any division between Acker and her textual personas, and highlighting her counter-confessional practice. The cannibalistic nature of Acker's tarantula writing practice produces a textual form of self-expression that is not singular, but communal and an amalgamation of multiple lives. Recursive actions of 'overwriting' and 'redoing' of found material recall Muñoz's conviction that disidentification entails the 'rewriting of a dominant script'. <ref type="bibr" target="#b38">42</ref> Acker's and Walsh's authorial personas, The Black Tarantula and the figure of the girl, depend upon disidentification: both pen names work on and against existing cultural forms to create new possibilities of being in the world. Disidentification, in Walsh's text, is an effect of the medium through which one writes: the internet. Meanwhile, in Acker's work, disidentification appears embedded in the procedural composition of the text. The counter-confessional aesthetic mode, embodied here through pseudonymous writing, reveals that the author can be anyone or, indeed, everyone.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Hermeneutical decoding of binaries</head><p>Acker's and Walsh's counter-confessional codenames challenge binary relations between the writer and reader, and between the acts of writing and reading as the practices become intertwined in their work. The disidentificatory politics of The Childlike Life of the Black Tarantula and Girl Online entail a decoding of binary or dichotomous logics of social organisation. Both texts query divisions of public and private, expression and feeling. In Girl Online, Walsh depicts the polysemic or oxymoronic nature of the contranym 'screen', which can simultaneously denote the act of making visible and obscuring an object: '[T]o screen from view, as well as the opposite, to cause something to appear' (5). This twofold definition of the transitive verb corresponds to the dualistic nature of the computer (on/off) and binary logic (true/false). To Walsh, screens erect a divide between the public and private. After all, 'screen' is a noun, indexing a monitor or interface, and such mediating entities affect one's self-narration. 'Screens suggest a split', Walsh writes, and 'spliterity can be self-othering: depersonalisation' (58-59). With its combination of the words 'split' and 'alterity', Walsh's neologism 'spliterity' demarcates how projecting oneself into an online environment requires a process of abstraction: the logic of digitality transforms the subject into a series of zeroes and ones.</p><p>Walsh's making legible of previously hidden algorithmic procedures, which manage the production and organisation of identity in the digital sphere, is a disidentificatory practice of hermeneutical decoding. Interludes titled 'Thought Experiments' bookend each chapter of Girl Online and provide a discursive space for Walsh to question generic computational functions and metaphors. 'Thought Experiment #5: Work' is theoretical in tone and employs terminology from the world of software development. In this subsection, Walsh returns to the divergent relationship between one's offline and online presentation of identity:</p><p>A woman sits in front of a screen, which is a logic gate. Each XOR is exclusive: something of her must be excluded. Each OR is non-exclusive allowing for compromise.</p><p>Which is like the composition of self as writing, each word a binary gate. (66</p><formula xml:id="formula_0">)</formula><p>The passage is indicative of the 'thought experiments' in Girl Online. In this case, life-writing (or 'self as writing') is brought into dialogue with the binary logic of the digital sphere. From dual inputs, logic gates relay a single output and, as Walsh notes, the exclusive gate XOR allows only one condition to be true. Such limited operations of logic gates negate the complexity and polyvalences of subjecthood. As Franklin argues, 'the logic of selection and definition that undergirds digitality is necessarily also a logic of exclusion'. <ref type="bibr" target="#b39">43</ref> That something of oneself 'must be excluded' when entering the virtual realm underscores such a constraining logic of selection. The computational mechanism of making life binary has several social and cultural correlatives, most obviously in terms of gendering: individuals are required to conform to a binary gender framework, and online users must likewise select predefined identity categories from a drop-down list on social media sites. Not for nothing, however, Walsh professes the potential of 'codeswitching' in Girl Online (62). Adopting logic gates as signifiers in the body of the text, conjunctions such as AND, OR, and XOR, is one example of 'code-switching', as Walsh redeploys computational protocols in a new discursive context. Walsh exposes the regulatory function of these codes and their ability to curtail one's self-expression, but also reimagines their use. Her 'thought experiments' become counter-discursive spaces where dominant terms can be reconsidered and binary logics contested.</p><p>The interpolation of code architectures into the written text mimics how computational functions and operations are now inherently interlinked with literary production and the publishing industry, a shift that N. Katherine Hayles theorises as the emergence of postprint. <ref type="bibr" target="#b40">44</ref> The term postprint indexes not just the transition from material texts to digitised manuscripts on devices such as Amazon's Kindle, but a whole framework of transformations in how a codex is conceived and perceived. Walsh has collaborated with generative AI to produce several texts, emphasising the centrality of computation to her textual practice. <ref type="bibr" target="#b41">45</ref> Additionally, her transmedia project Seed (2017) is available in two different print formats, as well as an online visual and interactive edition, demonstrating how the material form of a text impacts or alters our interpretations. <ref type="bibr" target="#b42">46</ref> Acker's work provides one possible antecedent to Walsh's investigation of the interfaces that divide the public and private. In an unpublished typescript titled Breaking Through Memories into Desire: I become Jane Eyre who rebelled against everyone, Acker explicitly questions the extent to which dualisms govern subjectivity. Written in late 1973 as the fourth serial in The Black Tarantula series, Acker depicts the speaker's psychic deterioration by repeating the word 'split' in the typescript: 'I'm split: I don't want to be alone all the time […] I've split and therefore I'm powerless'. <ref type="bibr" target="#b43">47</ref> The split indexes the divergence between one's internal sense of being and verbal acts of self-presentation. Acker queries whether public and private comprehensions of self-identity can be reconciled. For example, the speaker states, 'my mother split me into inside-me and outside-me' and 'They want to make the inside-outside split permanent'. <ref type="bibr" target="#b44">48</ref> For Acker, conventional language, relying on grammatical rules and codes, inhibits a person's ability to accurately represent themselves. Acker gestures toward the limits of language syntactically through a comma splice in the following sentence: 'expressions are splits from, feelings-events-thoughts'. <ref type="bibr" target="#b45">49</ref> Affective experience appears at a discord from what can be outwardly expressed. In The Childlike Life of the Black Tarantula, Acker attempts to challenge ordinary discursive structures and return to everyday feeling, or 'to get away from self-expression but not from personal life' (86). Nevertheless, Acker remains alert to the fact that her citational avant-garde practice requires, and results in, the replication of existing language and texts. As the speaker rhetorically remarks, 'This is a failure. All I'm causing is my own disintegration. What'm I trying to do?' (50).</p><p>Disjunctive juxtapositions create a transitory textual space in The Childlike Life of the Black Tarantula that allows for multiple, simultaneous identifications, challenging traditional binary models of being. In the serial work, intertextual juxtapositions give way to duality: 'Now I'm two people' (11) and 'I'm two people and two people are making love to each other' (29). Such a heterogeneous form of subjectivity continues Acker's literary project of examining the pronoun 'I' and her refusal to represent a cohesive version of selfhood that confessional texts require. Moreover, references to twoness subvert the binarisation of life and the rational logic of computation. Acker models an intersubjective form that is not based, to employ the language of binary gates from Girl Online, on the exclusionary logic of the XOR gate. Instead, The Childlike Life of the Black Tarantula presents an additive form of personhood, an AND gate that maintains an openness toward others. A collective 'we' arises from the text in opposition to late capitalism's focus on the privatised 'you'. Elsewhere, the speaker transitions (or 'codeswitches') explicitly from a male to a female body and vice versa: 'I became a man and a woman' (49). The binary gender framework is destabilised as Acker disidentifies with normative identity categories. In their respective texts, Acker and Walsh demonstrate an interest in the mediating forces that affect acts of self-presentation. For Walsh, the computational interfaces and logic gates one must pass through to enter the online sphere prove exclusionary, while Acker encounters the limitations of ordinary verbal expression.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Resistance protocols</head><p>In light of abstracting and exclusionary binary logics, Acker and Walsh privilege a return to materiality, to the flesh and the body, at the close of their texts. Logics of selection give way to experiential representation, as The Childlike Life of the Black Tarantula and Girl Online project felt intimacy as a site of knowledge production. The final part of this essay considers textual forms of resistance or the 'survival strategies' through which one can 'negotiate a phobic majoritarian public sphere', as Muñoz writes. <ref type="bibr" target="#b46">50</ref> Walsh's Girl Online ends with a 'Post-Girl Manifesto'. Offering an ethics of internet use, the manifesto's purpose is characterised as 'reworki [ing]  the fit between word and world, and this work is its work' (139). The manifesto projects a disidentificatory tactic: reworking the relation between a cultural artefact (the word) and the social (the world), the manifesto establishes new methods of meaning-making and ways of being. Kathi Weeks argues for the manifesto as a utopian document that allows us to 'detach cognitively and affectively from the present' to encourage 'the production of political desire for a better possible future'. <ref type="bibr" target="#b47">51</ref> In this sense, the manifesto restructures the quotidian to foster political possibility. Closing her text with a manifesto, Walsh generates an energised and collective 'we' with her reader, countering neoliberal culture's overwhelming focus on the individual.</p><p>While Walsh does not elucidate upon the content of this utopian and disidentificatory political text, she is actively invested in the form that a postgirl, post-internet manifesto may take. 'Tripping and halting will be its genre of generating genres […] It will generate degenerate genres that pose aporias' (141). Computational metaphors continue to be deployed in Girl Online, but Walsh opts for terms that represent unsuccessful protocols; the halting of a computer programme, for instance, indicates a fault caused by an unsolvable problem or contradiction. Walsh thus rejects the teleological and predetermined functions of successful algorithms in favour of halting programmes and aporias, which offer states of indeterminacy and a plurality of possibilities. The 'degenerate genres' of Walsh's manifesto signify an attempt to unmake conventional computer and aesthetic codes. Indeed, as we have seen, the avant-garde composition of Girl Online enables the unand remaking of conventional literary genres. To close, Walsh fabricates a 'logic gate [that] will not be binary but autoepistemic', creating a new relationship between the physical and virtual worlds (141). Here, knowledge and expression arise from the subject in opposition to the single output of a rational computational system. At the end of Girl Online, we are left with a sense that digital economies and networks can operate differently. Throughout her text, Walsh employs technological language and wordplay to expose the impact of algorithms and computational protocols on the individual, but also to reframe and reimagine how these terms and operations can be used.</p><p>Acker is comparably invested in textual protocols that might alter the relationship between the body and conventional (language) codes. Acker's essay 'Seeing Gender' (1995) can productively be read in proximity with Walsh's formularisation of an autoepistemic logic. In the essay, Acker details her desire for a language that she 'cannot create or even create in' and considers this to be a language that 'moves through me or in me'. <ref type="bibr" target="#b48">52</ref> Her example is a language that emerges from masturbation and orgasm. As Teagan Bradway argues, Acker attempts not to 'conceive the materiality of the body through its discursive inscription' but 'imagines language itself as a force of non-dialectical intensity'. <ref type="bibr" target="#b49">53</ref> For Acker, sexual representation resists the discursive constraints of ordinary language. Scholars typically locate Acker's turn to bodily sensation in her later texts, but a similar concern is also evident in early experiments. The speaker in The Childlike Life of the Black Tarantula declares, for example, 'I use my writing to get rid of all feelings of identity that aren't my sexuality' (50). The writing of desire undoes any split between expression and experience.</p><p>In her work, Acker's interest in subjectivity transitions from a linguistic study to an affective exploration. The text's most overtly autobiographical and final instalment, 'The Story of My Life', provides a historical timeline, beginning with Acker's birth year, 1947. For the 1970 entry, she writes, 'I begin to live solely according to my desires' (78). Acker turns to masturbation as a corporeal activity that collapses the dyadic separation between the inside and outside and provides a nonreproductive method to experience the limits of the body. In a circular and self-referential statement, the narrator explains: 'I touch myself again alone I know who I am' (42). Subjectivity is no longer dependent on acts of inscription but on the sensorial. At the moment of orgasm, the individual, all identities, and the world recede, leaving only pure experience and sensation: 'for hours I come and come until there's no difference between coming and reality' (49). With a blue pencil, Acker adds a small addition to the corner of a page in her draft notebook: 'sensation destroys my memories thought identity I come'. <ref type="bibr" target="#b50">54</ref> This final declaration, 'I come', is both a sexual climax and a repurposing of the constraints of a static and singular identity. A new written 'I' does indeed come or emerge from the aftermath of masturbation: la petite mort.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Concluding remarks</head><p>In a note accompanying a draft of her essay 'Writing, Identity, and Copyright in the Net Age' (1995), Acker states, 'I do not regard a text as an object'. <ref type="bibr" target="#b51">55</ref> She resolves, 'To write is to write to another'. <ref type="bibr" target="#b52">56</ref> Literature provides an interface for interrelations and intercommunication. Acker criticises copyright law for delimiting the communal or reciprocal aspects of the written text and predicts that the development of the World Wide Web may result in the cessation of regulations. <ref type="bibr" target="#b53">57</ref> To be sure, Web 2.0, with its focus on user-generated material and interactive content, foregrounds the capacity of a collaborative digital sphere, but recent concerns regarding generative artificial intelligence (AI) and ethical issues of ownership indicate that Acker's copyright-free age has not been realised. Nevertheless, as we have seen, Walsh's Girl Online inherits Acker's project and continues to imagine the ability of a textual assemblage to exceed its object status and become a piece of interactive media. Walsh emerges as one node in a network of contemporary writers influenced by Acker.</p><p>Though Acker and Walsh present a counter-confessional aesthetic in their respective texts, underwritten by disidentificatory politics, both writers take up the radical feminist work of consciousness-raising. The Childlike Life of the Black Tarantula and Girl Online expose how discursive and regulatory technologies, linguistic convention and algorithmic codes, effectively curtail our forms of self-expression. But, through formal innovation and avant-garde textual strategies, Acker and Walsh de-and recode how such received terms and protocols can be used. They work within and against imposed constraints, maintaining a sense of openness in their work and rejecting the structuring logic of dualisms, including the hierarchy of the writer over the reader. Ultimately, comparative close reading engenders an inclusive network of experimental writers who challenge hegemonies and the exclusionary logic of digitality. Sam McBean has similarly called for investigations into the 'queer possibilities' of network aesthetics and architectures. <ref type="bibr" target="#b54">58</ref> Imagining a more radical capacity of the network form necessarily allows us to reframe our conceptions and the language of networks outside the spheres of computation and post-Fordist capital. If, as Chun notes, networks privilege communication over community, new experimental and experiential networks can return us to collective politics and the possibilities of intimacy.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Notes</head></div>		</body>
+		<back>
+
+			<div type="acknowledgement">
+<div><head>Acknowledgements</head><p>I would like to thank Acker's literary executor, <rs type="person">Matias Viegener</rs>, for permission to use archival material. Thanks also to <rs type="person">Georgina Colby</rs> for advice and feedback.</p></div>
+<div><head>Disclosure statement</head><p>No potential conflict of interest was reported by the author(s).</p></div>
+			</div>
+			<div type="funding">
+<div><head>Funding</head><p>This work was supported by the <rs type="funder">UKRI</rs> under a TECHNE PhD studentship.</p></div>
+			</div>
+			<listOrg type="funding">
+			</listOrg>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<analytic>
+		<title level="a" type="main">Kathy Acker&apos;s pioneering adventures in the internet&apos;s erogenous zone</title>
+		<author>
+			<persName><forename type="first">Joanna</forename><surname>Walsh</surname></persName>
+		</author>
+		<ptr target="&lt;theguardian.com/books/booksblog/2015/apr/21/kathy-acker-internet-erogenous-zone-emails-book&gt;" />
+	</analytic>
+	<monogr>
+		<title level="j">The Guardian</title>
+		<imprint>
+			<date type="published" when="2015-09-10">2015. 10 September 2024</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<monogr>
+		<title level="m" type="main">I&apos;m Very Into You: Correspondence 1995-1996</title>
+		<author>
+			<persName><forename type="first">Kathy</forename><surname>Acker</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Mckenzie</forename><surname>Wark</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2015">2015</date>
+			<publisher>Semiotext</publisher>
+			<biblScope unit="page">47</biblScope>
+			<pubPlace>South Pasadena, CA</pubPlace>
+		</imprint>
+	</monogr>
+	<note>original emphasis</note>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title level="a" type="main">A growing body of criticism is re-examining Acker&apos;s texts in light of the popularisation of hybrid autobiographical forms such as autofiction and autotheory. For comparisons of Acker&apos;s work and Olivia Laing&apos;s autofictional novel Crudo (2018), see Anna Ioanes</title>
+		<author>
+			<persName><forename type="first">Raili</forename><surname>Marling</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Feminine Cognitive Embodiment in Kathy Goes to Haiti</title>
+		<imprint>
+			<biblScope unit="volume">53</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="220" to="231" />
+			<date type="published" when="2022">2024. 2022. 2022</date>
+		</imprint>
+	</monogr>
+	<note>Critique: Studies in Contemporary Fiction</note>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<monogr>
+		<author>
+			<persName><forename type="first">See</forename><surname>Joe Moran</surname></persName>
+		</author>
+		<title level="m">Star Authors: Literary Celebrity in America</title>
+		<meeting><address><addrLine>London</addrLine></address></meeting>
+		<imprint>
+			<publisher>Pluto Press</publisher>
+			<date type="published" when="2000">2000</date>
+			<biblScope unit="page">137</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title level="a" type="main">Kathy Acker and the Plagiarized Self</title>
+		<author>
+			<persName><forename type="first">See</forename><surname>Naomi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Jacobs ; Tessel</forename><surname>Veneboer</surname></persName>
+		</author>
+		<idno type="DOI">&lt;doi.org/10.1080/10894160.2023.2294567</idno>
+	</analytic>
+	<monogr>
+		<title level="m">The Review of Contemporary Fiction</title>
+		<imprint>
+			<date type="published" when="1989">1989. 2024</date>
+			<biblScope unit="volume">9</biblScope>
+			<biblScope unit="page" from="50" to="55" />
+		</imprint>
+	</monogr>
+	<note>Kathy Acker&apos;s sex negativity</note>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<monogr>
+		<author>
+			<persName><forename type="first">Jason</forename><surname>Mcbride</surname></persName>
+		</author>
+		<title level="m">Eat Your Mind: The Radical Life and Work of Kathy Acker</title>
+		<meeting><address><addrLine>New York</addrLine></address></meeting>
+		<imprint>
+			<publisher>Simon &amp; Schuster</publisher>
+			<date type="published" when="2022">2022</date>
+			<biblScope unit="page">247</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title level="a" type="main">On Pan(Dora)&apos;s Box and Refusing to Coalesce: An Interview with Joanna Walsh</title>
+		<author>
+			<persName><forename type="first">Natalie</forename><surname>Helberg</surname></persName>
+		</author>
+		<ptr target="&lt;numerocinqmagazine.com/2015/11/03/on-pandoras-box-and-refusing-to-coalesce-an-interview-with-joanna-walsh-natalie-helberg/" />
+	</analytic>
+	<monogr>
+		<title level="j">Numéro Cinq</title>
+		<imprint>
+			<date type="published" when="2015-06-19">2015. 19 Jun 2024</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<monogr>
+		<author>
+			<persName><forename type="first">Rita</forename><surname>Felski</surname></persName>
+		</author>
+		<title level="m">Beyond Feminist Aesthetics: Feminist Literature and Social Change</title>
+		<meeting><address><addrLine>Cambridge, MA</addrLine></address></meeting>
+		<imprint>
+			<publisher>Havard University Press</publisher>
+			<date type="published" when="1989">1989</date>
+			<biblScope unit="page">106</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<monogr>
+		<title/>
+		<author>
+			<persName><surname>Ibid</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="page">89</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<monogr>
+		<title/>
+		<author>
+			<persName><surname>Ibid</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="page">99</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title level="a" type="main">This is not a memoir&apos;: Feminist Writing from Life</title>
+		<author>
+			<persName><forename type="first">Kaye</forename><surname>Mitchell</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">The New Feminist Literary Studies</title>
+		<editor>
+			<persName><forename type="first">Jennifer</forename><surname>Cooke</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Cambridge</addrLine></address></meeting>
+		<imprint>
+			<publisher>Cambridge University Press</publisher>
+			<date type="published" when="2020">2020</date>
+			<biblScope unit="page">220</biblScope>
+		</imprint>
+	</monogr>
+	<note>original emphasis</note>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<monogr>
+		<author>
+			<persName><forename type="first">Wendy</forename><surname>Hui</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Kyong</forename><surname>Chun</surname></persName>
+		</author>
+		<title level="m">Discriminating Data: Correlation, Neighbourhoods, and the New Politics of Recognition</title>
+		<meeting><address><addrLine>Cambridge, MA</addrLine></address></meeting>
+		<imprint>
+			<publisher>MIT Press</publisher>
+			<date type="published" when="2021">2021</date>
+			<biblScope unit="page">235</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<monogr>
+		<author>
+			<persName><forename type="first">Seb</forename><surname>Franklin</surname></persName>
+		</author>
+		<title level="m">Control: Digitality as Cultural Logic</title>
+		<meeting><address><addrLine>Cambridge, MA</addrLine></address></meeting>
+		<imprint>
+			<publisher>MIT Press</publisher>
+			<date type="published" when="2015">2015</date>
+			<biblScope unit="page">91</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<author>
+			<persName><forename type="first">Joanna</forename><surname>Zylinska</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Sarah</forename><surname>Kember</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Life After New Media: Mediation as Vital Process</title>
+		<title level="s">p.xiii, original emphasis. 15. Ibid</title>
+		<meeting><address><addrLine>Cambridge, MA</addrLine></address></meeting>
+		<imprint>
+			<publisher>MIT Press</publisher>
+			<date type="published" when="2012">2012</date>
+			<biblScope unit="page">84</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<title level="a" type="main">For more on the avant-garde aesthetics of a disidentificatory writing practice, see Georgina Colby</title>
+	</analytic>
+	<monogr>
+		<title level="m">The Contemporary Small Press: Making Publishing Visible</title>
+		<editor>
+			<persName><surname>Colby</surname></persName>
+		</editor>
+		<meeting><address><addrLine>London</addrLine></address></meeting>
+		<imprint>
+			<publisher>Palgrave Macmillan</publisher>
+			<date type="published" when="2020">2020</date>
+			<biblScope unit="page" from="237" to="270" />
+		</imprint>
+	</monogr>
+	<note>The Small Press, Avant-Garde Aesthetics and the Politics of Disidentification</note>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<monogr>
+		<author>
+			<persName><forename type="first">Esteban</forename><surname>José</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Muñoz</surname></persName>
+		</author>
+		<title level="m">Disidentifications: Queers of Colour and the Performance of Politics</title>
+		<meeting><address><addrLine>Minneapolis &amp; London</addrLine></address></meeting>
+		<imprint>
+			<publisher>University of Minnesota Press</publisher>
+			<date type="published" when="1999">1999</date>
+			<biblScope unit="page">11</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<monogr>
+		<title/>
+		<author>
+			<persName><surname>Ibid</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="page">31</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<monogr>
+		<title/>
+		<author>
+			<persName><surname>Ibid</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="page">7</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<monogr>
+		<title/>
+		<author>
+			<persName><surname>Ibid</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="page">31</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<monogr>
+		<author>
+			<persName><forename type="first">R</forename><surname>Alexander</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Eugene</forename><surname>Galloway</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Thacker</surname></persName>
+		</author>
+		<title level="m">The Exploit: A Theory of Networks</title>
+		<meeting><address><addrLine>Minneapolis &amp; London</addrLine></address></meeting>
+		<imprint>
+			<publisher>University of Minnesota Press</publisher>
+			<date type="published" when="2007">2007</date>
+			<biblScope unit="page">164</biblScope>
+		</imprint>
+	</monogr>
+	<note>original emphasis</note>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<monogr>
+		<title/>
+		<author>
+			<persName><surname>Ibid</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="page">136</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">Chun</forename></persName>
+		</author>
+		<imprint>
+			<biblScope unit="page">103</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<monogr>
+		<title/>
+		<author>
+			<persName><surname>Ibid</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="page">144</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">Franklin</forename></persName>
+		</author>
+		<imprint>
+			<biblScope unit="page">138</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<analytic>
+		<title level="a" type="main">Devoured by Myths</title>
+		<author>
+			<persName><forename type="first">Kathy</forename><surname>Acker</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Sylvère</forename><surname>Lotringer</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Kathy Acker: The Last Interview and Other Conservations</title>
+		<editor>
+			<persName><forename type="first">Amy</forename><surname>Scholder</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">Douglas</forename><forename type="middle">A</forename><surname>Martin</surname></persName>
+		</editor>
+		<meeting><address><addrLine>London</addrLine></address></meeting>
+		<imprint>
+			<publisher>Melville House</publisher>
+			<date type="published" when="2018">2018</date>
+			<biblScope unit="page">79</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<monogr>
+		<title/>
+		<author>
+			<persName><surname>Ibid</surname></persName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<monogr>
+		<author>
+			<persName><forename type="first">Alex</forename><surname>Houen</surname></persName>
+		</author>
+		<title level="m">Powers of Possibility: Experimental American Writing since the 1960s</title>
+		<meeting><address><addrLine>Oxford</addrLine></address></meeting>
+		<imprint>
+			<publisher>Oxford University Press</publisher>
+			<date type="published" when="2012">2012</date>
+			<biblScope unit="page">152</biblScope>
+		</imprint>
+	</monogr>
+	<note>original emphasis</note>
+</biblStruct>
+
+<biblStruct xml:id="b27">
+	<analytic>
+		<title level="a" type="main">References to Acker&apos;s notebooks in this essay correspond to their reproduction in the large format text</title>
+	</analytic>
+	<monogr>
+		<title level="m">Kathy Acker: GET RID OF MEANING</title>
+		<editor>
+			<persName><forename type="first">Anja</forename><surname>Casser</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">Matias</forename><surname>Viegener</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Germany</addrLine></address></meeting>
+		<imprint>
+			<publisher>Verlag der Buchhandlung Walther Konig</publisher>
+			<date type="published" when="2022">2022</date>
+			<biblScope unit="page">175</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b28">
+	<analytic>
+		<title level="a" type="main">For a discussion of Acker&apos;s evolving use of the cut-up aesthetic across her oeuvre</title>
+	</analytic>
+	<monogr>
+		<title level="m">Shift Linguals</title>
+		<editor>
+			<persName><forename type="first">Edward</forename><forename type="middle">S</forename><surname>Robinson</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Amsterdam</addrLine></address></meeting>
+		<imprint>
+			<publisher>Editions Rodopi</publisher>
+			<date type="published" when="2011">2011</date>
+			<biblScope unit="page" from="151" to="198" />
+		</imprint>
+	</monogr>
+	<note>Kathy Acker: Plagiarism and Adaptation -From Cut-Up to Cut-and-Paste</note>
+</biblStruct>
+
+<biblStruct xml:id="b29">
+	<monogr>
+		<title level="m" type="main">GET RID OF MEANING</title>
+		<author>
+			<persName><forename type="first">Kathy</forename><surname>Acker</surname></persName>
+		</author>
+		<imprint/>
+	</monogr>
+	<note>front cover</note>
+</biblStruct>
+
+<biblStruct xml:id="b30">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">Kember</forename><surname>Zylinska</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="page">83</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b31">
+	<monogr>
+		<title/>
+		<author>
+			<persName><surname>Ibid</surname></persName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b32">
+	<analytic>
+		<title level="a" type="main">Repetition and Embodiment: Performative Reading in Kathy Acker&apos;s &quot;The Childlike Life of the Black Tarantula by the Black Tarantula</title>
+		<author>
+			<persName><forename type="first">Courtney</forename><surname>Foster</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Tulsa Studies in Women&apos;s Literature</title>
+		<imprint>
+			<biblScope unit="volume">36</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page">28</biblScope>
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b33">
+	<analytic>
+		<title level="a" type="main">The girl: A rhetoric of desire</title>
+		<author>
+			<persName><forename type="first">Ann</forename><forename type="middle">K</forename><surname>Clark</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Cultural Studies</title>
+		<imprint>
+			<biblScope unit="volume">1</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page">200</biblScope>
+			<date type="published" when="1987">1987</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b34">
+	<monogr>
+		<title/>
+		<author>
+			<persName><surname>Foster</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="page">138</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b35">
+	<analytic>
+		<title level="a" type="main">Confessions of a Kleptoparasite</title>
+		<author>
+			<persName><forename type="first">Martina</forename><surname>Sciolino</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Review of Contemporary Fiction</title>
+		<imprint>
+			<biblScope unit="volume">9</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page">63</biblScope>
+			<date type="published" when="1989">1989</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b36">
+	<monogr>
+		<author>
+			<persName><forename type="first">Kathy</forename><surname>Acker</surname></persName>
+		</author>
+		<title level="m">Kathy Acker</title>
+		<editor>
+			<persName><forename type="first">Justin</forename><surname>Gajoux</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Paris</addrLine></address></meeting>
+		<imprint>
+			<publisher>éditions Ismael</publisher>
+			<date type="published" when="1971">2-3/1974. 1971-1975. 2019</date>
+			<biblScope unit="page">442</biblScope>
+		</imprint>
+	</monogr>
+	<note>Letters to Alan Sondheim</note>
+</biblStruct>
+
+<biblStruct xml:id="b37">
+	<monogr>
+		<title/>
+		<author>
+			<persName><surname>Ibid</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="page">443</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b38">
+	<monogr>
+		<title/>
+		<author>
+			<persName><surname>Muñoz</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="page">23</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b39">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">Franklin</forename></persName>
+		</author>
+		<imprint>
+			<biblScope unit="page">27</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b40">
+	<monogr>
+		<author>
+			<persName><forename type="first">N</forename></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Katherine</forename><surname>Hayles</surname></persName>
+		</author>
+		<title level="m">Postprint: Books and Becoming Computational</title>
+		<meeting><address><addrLine>New York</addrLine></address></meeting>
+		<imprint>
+			<publisher>Columbia University Press</publisher>
+			<date type="published" when="2021">2021</date>
+			<biblScope unit="page">2</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b41">
+	<monogr>
+		<author>
+			<persName><forename type="first">See</forename><surname>Joanna</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Walsh</forename></persName>
+		</author>
+		<title level="m">Miss-Communication</title>
+		<meeting><address><addrLine>London: JOAN</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2022">2022. 2022</date>
+		</imprint>
+	</monogr>
+	<note>and Autobiology (Kansas: Inside the Castle</note>
+</biblStruct>
+
+<biblStruct xml:id="b42">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">Joanna</forename><surname>Walsh</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Seed</forename></persName>
+		</author>
+		<ptr target="&lt;seed-story.com/contents&gt;" />
+		<imprint>
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b43">
+	<monogr>
+		<title level="m" type="main">First Part of Breaking through Memories into Desire (11/1973</title>
+		<author>
+			<persName><surname>Acker</surname></persName>
+		</author>
+		<editor>Kathy Acker</editor>
+		<imprint>
+			<date type="published" when="1971">1971-1975</date>
+			<biblScope unit="page">380</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b44">
+	<monogr>
+		<title/>
+		<author>
+			<persName><surname>Ibid</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="page" from="382" to="383" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b45">
+	<monogr>
+		<title/>
+		<author>
+			<persName><surname>Ibid</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="page">380</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b46">
+	<monogr>
+		<title/>
+		<author>
+			<persName><surname>Muñoz</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="page">4</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b47">
+	<analytic>
+		<title level="a" type="main">The Critical Manifesto: Marx and Engels, Haraway, and Utopian Politics</title>
+		<author>
+			<persName><forename type="first">Kathi</forename><surname>Weeks</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Utopian Studies</title>
+		<imprint>
+			<biblScope unit="volume">24</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page">218</biblScope>
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b48">
+	<analytic>
+		<title level="a" type="main">Bodies of Work: Essays</title>
+		<author>
+			<persName><surname>Acker</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Serpent&apos;s Tail</title>
+		<imprint>
+			<biblScope unit="page" from="166" to="167" />
+			<date type="published" when="1997">1997</date>
+			<pubPlace>London</pubPlace>
+		</imprint>
+	</monogr>
+	<note>original emphasis</note>
+</biblStruct>
+
+<biblStruct xml:id="b49">
+	<monogr>
+		<author>
+			<persName><forename type="first">)</forename><surname>Tyler (teagan</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Bradway</surname></persName>
+		</author>
+		<title level="m">Queer Experimental Writing: The Affective Politics of Bad Reading</title>
+		<meeting><address><addrLine>New York</addrLine></address></meeting>
+		<imprint>
+			<publisher>Palgrave Macmillan</publisher>
+			<date type="published" when="2017">2017</date>
+			<biblScope unit="page">114</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b50">
+	<monogr>
+		<title level="m" type="main">GET RID OF MEANING</title>
+		<author>
+			<persName><forename type="first">Kathy</forename><surname>Acker</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="page">314</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b51">
+	<analytic>
+		<title level="a" type="main">Address to the Author&apos;s Guild: Copyright Now&apos; typescript</title>
+		<author>
+			<persName><surname>Acker</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Folder 10, David M. Rubenstein Rare Book &amp; Manuscript Library</title>
+		<imprint>
+			<date type="published" when="1995">1995</date>
+			<biblScope unit="volume">21</biblScope>
+		</imprint>
+		<respStmt>
+			<orgName>Duke University</orgName>
+		</respStmt>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b52">
+	<monogr>
+		<title level="m" type="main">Bodies of Work</title>
+		<author>
+			<persName><surname>Acker</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="page">104</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b53">
+	<monogr>
+		<title/>
+		<author>
+			<persName><surname>Ibid</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="page">101</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b54">
+	<analytic>
+		<title level="a" type="main">The Queer Network Novel</title>
+		<author>
+			<persName><forename type="first">Sam</forename><surname>Mcbean</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Contemporary Literature</title>
+		<imprint>
+			<biblScope unit="volume">60</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page">449</biblScope>
+			<date type="published" when="2019">2019</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

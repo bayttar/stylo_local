@@ -1,0 +1,452 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Entropy, melody, beauty: composing with information theory</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author role="corresp">
+							<persName><forename type="first">Thomas</forename><surname>Patteson</surname></persName>
+							<email>thomas.patteson@gmail.com</email>
+						</author>
+						<title level="a" type="main">Entropy, melody, beauty: composing with information theory</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date/>
+						</imprint>
+					</monogr>
+					<idno type="MD5">36E9DA36ECC8DC76A5497620D695D3BF</idno>
+					<idno type="DOI">10.1080/14735784.2024.2343700</idno>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.0" ident="GROBID" when="2026-02-25T19:54+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term>Information theory</term>
+					<term>computer music</term>
+					<term>experimental music</term>
+				</keywords>
+			</textClass>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>Within a few years of information theory's popularisation through the writings of Claude Shannon and Norbert Wiener, its basic framework was adopted and adapted by a loose network of music theorists, composers, and aestheticians, for whom a core principle of information theory -that 'the aesthetic content of music can be treated in terms of fluctuations between the two extremes of total randomness and total redundancy' (Hiller and  Isaacson 1959, 110)  -became an article of faith. Although it was sometimes imagined to offer a neutral conceptual framework for thinking about artmaking or a scientific alternative to the vagueness of previous artistic discourses, information theory was necessarily embroiled in the aesthetic debates of its time. In this paper I examine the encounter between information theory and musical composition in the middle of the twentieth century, paying special attention to the question of how the reception of information-theoretical concepts among composers and theorists inflected pre-existing debates about the nature and function of music in modernity.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Music as information</head><p>Almost as soon as information theory emerged as a discipline in the mid-twentieth century, its core principles were seized upon and adapted by a number of composers, music theorists, and philosophers working in academic contexts in Europe and North America. These figures saw information theory as an effective, scientifically grounded approach to the study and creation of music, with the central variable of 'information' offering a way to quantify and fine-tune a previously elusive quality of musical complexity. However, these thinkers were at odds concerning the aesthetic and ethical value of musical complexity, and so the debates about information theory's relevance for the analysis and composition of music were from the outset tangled up with philosophical assumptions and value judgments that stood outside the ambit of empirically verifiable claims.</p><p>The quantification of music was not an achievement of the twentieth century. Some preconditions for information theory's influence on music can be found in much older traditions that conceived of music in formal or mathematical terms. Examples of quantitative or combinatorial thinking in music include the centuries-old practice of change ringing, in which series of church bells are tolled according to rigorous permutational formulas, the writings of seventeenth-century savants such as Marin Mersenne and Athanasius Kircher, and the musical dice games of the late eighteenth century. As Douglas Kahn notes, 'the discrete character of [music's] symbolic elements, its absence of semantic content, its long tenure with mathematics, [all] rendered it conducive to quantising, to information theory and computation' <ref type="bibr">(Kahn 2007, 438)</ref>. Indeed, the progressive quantification of European music took place in tandem with the development of notation, which imposed an ever-greater degree of specificity on the musical phenomena it encoded.</p><p>Another phase in the romance of music and information can be seen in the development of formalist aesthetics undertaken in the influential writings of the nineteenthcentury critic Eduard <ref type="bibr">Hanslick (1825</ref><ref type="bibr">Hanslick ( -1904))</ref>. In keeping with the positivist spirit of his times, Hanslick sought to reorient the aesthetics of music around the self-contained form of the music in question, rather than around the subjective reactions (images, thoughts, feelings) that it evokes in its listeners. The beautiful in music is, for Hanslick, 'independent and not in need of an external content, something that resides solely in the tones and their artistic connection' <ref type="bibr">(Rothfarb and Landerer 2018, 40)</ref>. In this view, as in information theory, the problem of meaning is set aside for the sake of objectivity; the subjective dimension is not denied, but rather treated as unsusceptible to scientific treatment. In the early twentieth century, Hanslick's writings became especially influential in the Anglo-American sphere, and concern for 'the music itself' became the watchword of musical formalism, which became the dominant aesthetic position by midcentury, at least within academic circles <ref type="bibr" target="#b20">(Wilfing 2019)</ref>.</p><p>While Hanslick banished 'extra-musical' (that is, semantic) meanings from the domain of aesthetic consideration, at the same time he enthroned a thoroughly syntactic understanding of musical listening, whose essence lay in 'the intellectual gratification that the listener finds in continuously following and anticipating the intentions of the composer' <ref type="bibr">(Rothfarb and Landerer 2018, 89)</ref>. For Hanslick and the aesthetic tradition that followed him, the linguistic character of music is rooted not in its capacity for symbolic reference, but rather in its abstract syntactic structure. In this view, music functions linguistically in that it is governed by specific rules and conventions determining the order in which its syntactic units (notes, phrases, chords) can appear. This implicit 'grammar' of music was coterminous with what music theorists call common-practice tonality, a system of compositional conventions that was abstracted from the music of the Baroque and Classical periods and formalised in the music-theoretical writings of the nineteenth century. A simple example of this is found in a harmonic progression in which the dominant chord resolves not to the expected tonic, but to the submediant -tellingly known as a 'deceptive cadence', highlighting the extent to which tonal music traffics in concepts of probability and expectation.</p><p>Information theory, like the formalist aesthetics of music, was predicated on a model of language as, essentially, all syntax and no semantics. Information is a measure of the possible options or choices in the construction of a message, which in turn is a question of the relationship of given utterances to the language from which they are drawn. As Weaver explained, 'information … relates not so much to what you do say, as to what you could say … the concept of information applies not to the individual messages (as the concept of meaning would), but rather to the situation as a whole' <ref type="bibr">(Shannon and Weaver 1964, 8-9)</ref>. The validity of information theory as a model for understanding music hinged on the analogy between music and language as non-semantic, probabilistically governed symbol sequences.</p><p>Midcentury music theorists, for whom Hanslick's formalism was mother's milk, saw information theory as a way to put meat on the bones of otherwise nebulous musicological concepts. Crucial historiographical categories such as musical style could now be pinned down as 'complex systems of probability relationships in which the meaning of any term or series of terms depends upon its relationships with all the other terms within the style system' (quoted in <ref type="bibr">Cohen 1962, 141)</ref>. With the methods of information theory, these relationships could be quantified and compared with empirical rigour, allowing theorists to uncover musical deep structures such as 'the essential rhythmic and harmonic elements that underlie all simple melodies' <ref type="bibr">(Pinkerton 1956, 84)</ref>. (Melody was an obvious starting point in these inquiries because it allowed theorists to sidestep the complications of polyphonic music: like language, it could be treated as a unilinear stream of symbols.)</p><p>The development of compositional technique in twentieth-century music in many ways paralleled this tendency for syntax to outweigh semantics. In terms more germane to the discourses of modernist aesthetics, music was increasingly conceived in terms of 'structure' rather than 'expression'. This process had begun earlier: already in the work of many composers in the early part of the century, a cleft had opened up -often unwittingly -between advanced compositional technique and the ideal of music as a quasi-linguistic communicative utterance. The best example of this is the work of Arnold Schoenberg, who clung to a model of music as an expressive language even as he invented an approach to composition (the twelve-tone technique) that, in information theoretical terms, brought about a drastic reduction in musical redundancy, rendering his work all but incoherent for most listeners. After World War II, the radicalisation of earlier trends threw the very premise of communication into doubt. New compositional techniques such as serialism and indeterminacy lent themselves to the creation of sonic textures that were seemingly irreconcilable with the rhetorical and expressive structures of earlier music in the European classical tradition. Other tendencies such as elektronische Musik and Klangkomposition went further still, challenging the status of the discrete tone as the basic phonemic unit of musical form, without which the music-as-language hypothesis toppled like a house of cards. As M. J. Grant suggests, for many composers of this period, music 'no longer aims to convey an unequivocal message but to excite in the observer a recognition of the complexity of reality' <ref type="bibr">(Grant 2001, 215)</ref>. In this context, information theory provided a welcome intervention for those musicians and theorists who were already thinking in formalistic and quantitative terms.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Create a random universe</head><p>As it was formulated by Shannon and Weaver, information theory had a clear purpose: to precisely define and quantify the information content of messages in order to more efficiently transmit them through existing technical communication channels. But one of the key precepts of information aesthetics was that the same model that allowed language to be modelled as a stochastic process could also be used as a generative mechanism. Indeed, Shannon gave a memorable example of this in the 'Series of Approximations' section of the Mathematical Theory of Communication. He created a number of written messages based first on the equiprobable (fully random) appearance of all 26 characters of the English alphabet, then on the use of n-grams (multiple-letter sequences where the last letter is chosen based on its statistical probability of following what came before) of various length, then finally on the same principles applied to sequences of words, rather than letters <ref type="bibr">(Shannon and Weaver 1964, 43-44)</ref>. This underlying conceptual framework, in which messages are conceived as probabilistically selected from an ensemble of possible alternatives, would be generalised by composers and theorists as a mechanism of artificial creativity, an 'imagination machine' consisting of a random source and a filtration mechanism, corresponding to the human faculties of imagination and intention, respectively <ref type="bibr">(Moles 1962, 106-107)</ref>.</p><p>To take a crude example: imagine a melody whose successive notes are determined by the roll of a twelve-sided die, with each number on the die corresponding to the next note of the chromatic scale (1 = C, 2 = C#, 3 = D, etc.). Such a melody would contain (after a certain length, in accordance with the law of large numbers) all twelve pitches of the chromatic octave in equal frequency: it would, within the confines of twelve-tone equal temperament (and disregarding rhythm and other variables), possess maximal information. But precisely because no pattern or expectation emerges out of a string of random pitches -save the paradoxical expectation of continued randomness -such a fully random melody is generally not seen as aesthetically desirable. A simple way of reducing this information and increasing redundancy would be to reroll certain numbers so that fewer different pitches were chosen by the die rolls. For example, if a rule was created that said to reroll the numbers 2, 4, 7, 9, and 11 (corresponding to the pitches C#, D#, F#, G#, and A#), the result would be a random melody whose notes conform to the C major scale. This process could be nuanced in many ways, including the use of weighted probabilities and transitions, to create random progressions within strictly controlled musical paramters -in other words, not consciously chosen by the composer on a note-by-note basis, but constrained to conform to a certain stylistic idiom, whether historical or synthetic. The composer Iannis Xenakis described this approach as 'a formal archetype of composition in which the basic aim is to attain the greatest possible asymmetry (in the etymological sense) and the minimum of constraints, causalities, and rules', from which the composer can 'redescend the ladder of forms by introducing progressively more numerous constraints, i.e. choices, restrictions, and negations' <ref type="bibr">(Xenakis 1992, 23-24)</ref>.</p><p>This was essentially the procedure undertaken by the American composers Lejaren Hiller and Leonard Isaacson in their Illiac Suite <ref type="bibr">(1959)</ref> for string quartet, one of the first major compositions created by applying the tenets of information theory. Drawing directly on Shannon and Weaver's treatise, the composers developed a model of composition as an essentially subtractive process in which form emerges from an initial state of randomness through the introducction of constraints that limit the spectrum of possibility. 'The process of creative composition can be … viewed as an imposition of order upon an infinite variety of possibilities' <ref type="bibr">(Hiller and Isaacson 1959, 2)</ref>. Each of the four movements (labelled 'experiments') of the Iliac Suite is based either on historical norms of composition (such as the voice-leading rules of the classic eighteenth-century textbook Gradus ad Parnassum) or on more abstract principles such as weighted transition probabilities and Markov chains. Hiller and Isaacson also introduced a new variable of 'meaningfulness', which corresponds to a reduction in the number of possible choices or states, and therefore a reduction of information (31). Meaningfulness increased as randomness decreased, confirming Weaver's suggestion that information and meaning were -counterintuitively -inversely related <ref type="bibr">(Shannon and Weaver 1964, 28)</ref>.</p><p>Other researchers found themselves drawn to disorder not as a mere theoretical postulate or creative starting point, but as a phenomenon that could be heard and experienced. Many works of the period, and not only those that explicitly invoke information theory, seem to hazard the impossible task of representing chaos. This was the radical twist that distinguished the music of the post-World War II years from what came before. While earlier modernist music might have seemed random, listeners were nonetheless assured that it was in fact rational and orderly, and that their experience of aesthetic disorder was a product of their ignorance or insensitivity, which could be overcome by retracing the composer's creative process. (Schoenberg's work presents the classic case of this syndrome.) But in many experiments of the 1950s and '60s, music was essentially, intentionally random, and listeners were entreated to hear it as such and appreciate its peculiar charm -which encompassed the realisation that randomly generated music could itself be highly differentiated, suggesting a parallel to the acoustic phenomenon of the colours of noise.</p><p>Such experiments led to what French information theorist and aesthetician Abraham Moles called 'music of the gods' <ref type="bibr">(Moles 1973, 204-205)</ref>. This was not meant as praise: for Moles it describes music composed with Olympian disregard for the perceptual and cognitive limitations of mere mortal ears. For others, however, the horizon of maximal information beckoned as an ideal to which music should aspire, if only as an asymptotic limit that could be seen as the logical endgame of musical formalism. The German philosopher Max Bense, who of all the theorists of information aesthetics was the most firmly allied with the radical avant-garde, defended the project of 'the completely dehumanised artwork', shorn not only of language but of anything beyond sheer phenomenal existence:</p><p>Works of art constitute a realm of existence that is independent from other domains such as nature, technology, mathematics, or morals, likely also from the domain of the human. This determination leads to a concept of the artwork that no longer has anything to do with the existence of human beings in either an emotional or a spiritual sense. <ref type="bibr">(Bense 1982, 138;</ref><ref type="bibr"></ref> translation by the author)</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Opposites attract</head><p>The two poles of 'total randomness and total redundancy' <ref type="bibr">(Hiller and Isaacson 1959, 110)</ref> exerted a magnetic attraction on artists of the 1950s and '60s. It would be tempting to explain developments in post-World War II music in terms of these extremes -to see avant-garde art as a tendency toward either 'all' or 'nothing'. But such an interpretation would obscure the fact that in practice these extremes were found to converge in bewildering ways: maximum information could collapse into homogeneity, and maximum redundancy could reveal unsuspected perceptual depths. Highlighting the continuity between these diametric poles, the American theorist John R. Pierce noted that without redundancy, novelty itself cannot exist: 'To be able to call a thing new, <ref type="bibr">[one]</ref> must be able to distinguish it from that which is old. To be distinguishable, sounds must be to a degree familiar <ref type="bibr">' (1980, 251)</ref>.</p><p>It was quickly realised that there is such a thing as 'too much information', if music is considered in relation to the cognitive-perceptual horizons of actual listeners. For Moles, this informational maximum could be imagined as 'the message most difficult to transmit', which 'exceeds our capacity for understanding and creates boredom' <ref type="bibr">(1968,</ref><ref type="bibr">(61)</ref><ref type="bibr">(62)</ref>. As Pierce explains, 'a completely random visual pattern, like a completely random acoustic wave or a completely random sequence of letters, is mathematically the most surprising, the least predictable of all patterns. Alas, a completely random pattern is also the dullest of all patterns, and to a human being one random pattern looks just like another <ref type="bibr">' (1980, 264)</ref>. Thus, the quantifiable information of a piece of music cannot simply be conflated with its (admittedly subjective) level of perceptual complexity or aesthetic richness. For a listener who is unable to appreciate the nuances of the twelve-tone technique (or for that matter, to distinguish between the music of Haydn and Mozart), entire bodies of work will all sound the same. Despite its elaborate and foreboding technical apparatus, the music of the postwar period was often criticised (even by sympathetic observers, including some the composers themselves) for producing results of startling uniformity <ref type="bibr" target="#b8">(Grant 2001)</ref>. The realisation that intended complexity of design does not neatly equate to richness of experience drove some composers back into the arms of more traditional approaches, but more often compelled them to abandon the atomic unit of the musical note and begin thinking in terms of higher-order perceptual structures such as 'groups' (Stockhausen), 'webs' (Ligeti), or 'masses' (Xenakis) -a move that can only be described as information-reducing in the strict sense, and which was widely seen to usher in a more communicative (albeit hardly conventional) musical idiom.</p><p>While a surfeit of information could easily result in a loss of perceived complexity, the inverse was also true: the radical reduction of information could, under the right circumstances, generate unexpectedly complex phenomena. American minimalist composers, for example, were not generally steeped in information theoretical thinking, but their polemics often implicitly invoked the relevant conceptual vocabulary. Much of this music was explicitly conceived in reaction to the 'too muchness' of the European avant-garde, as explained by Philip Glass: 'Our music turned out to be the opposite of what, say, Berio or Boulez did. Their music never repeated, ours repeated all the time; their rhythms were non-predictable, ours were extremely steady and predictable; their music was atonal, ours was tonal' (Glass, quoted in <ref type="bibr">Smith and Smith 1995, 133-134)</ref>. But although a minimalist composition such as Glass's Music in Fifths (1969) is strictly speaking extremely redundant, such music may nonetheless appear subjectively complex to a listener who attempts to follow the subtle patterns underlying its seemingly endless repetitions. In a context of extreme redundancy, small changes or perceptual fluctuations take on an outsize effect. Many musical works of the 1950s and '60s explored the counterintuitive phenomenon described by Terry Riley: 'Things didn't sound the same when you heard them more than once. And the more you heard them, the more different they did sound' (quoted in <ref type="bibr">Schwarz 1996, 35)</ref>. The most extreme manifestations of this tendency reduced musical performance to a single, indefinitely repeated gesture, as in La Monte Young's Arabic Numeral (Any Integer) for Henry <ref type="bibr">Flynt (1960)</ref>, a work that invokes the ancient Heraclitean critique of ontological continuity in order to transcend the drastically constrained ambit of its compositional vocabulary.</p><p>The appeal of information theory lay above all in its scientific purity: in the words of Alan Fabian, it 'seemed to offer the possibility of an "objective", entirely "subject-free" comparative measure for art music, as well as a likewise "objective" creative measure' (2013, 250; translation by the author). But a central premise of information theory is that information is not simply a property of a particular message; rather, it can be measured only in reference to the potential messages offered by a given symbolic system. As Moles put it, 'information depends upon the repertoire that is shared by the sender and receiver <ref type="bibr">' (1971, 14)</ref>. Information came to appear not as a precise scientific measure, but as an interference pattern that emerges from the interaction between the phenomena in question and the human being who observes it. Weaver, in his introduction to Shannon's classic treatise, invoked Arthur Eddington's declaration that entropy (which was generally equated with information in the discourses of the time) has more in common with 'beauty and melody' than with 'distance, mass, or electric force'. Eddington suggested that this was the case because entropy, like these other qualities, is found only 'when the parts are viewed in association'; it is not a property of disconnected objects, but rather a 'feature of arrangement' (quoted in <ref type="bibr">Shannon and Weaver 1964, 28)</ref>. In other words, the 'bizarre' reality that information theory 'deals not with a single message but rather with the statistical character of a whole ensemble of messages' (27) -at the same time constitutes its link to the subjective domain of aesthetics.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>In defense of redundancy</head><p>Easily overlooked amid the experiments of the avant-garde were the significant number of theorists who plied information theory in the service of more conservative ends. The value of the theory lay, in their view, in its ability to formalise the rules of good music by precisely determining the ideal equilibrium between novelty and repetition in order to confirm the wisdom passed by from earlier generations of composers as intuitive rules of thumb. As one researcher plainly put it, 'The composer of a melody must make the entropy of his music low enough to give it an apparent pattern and at the same time high enough so that it has sufficient complexity to be interesting. The question is, how high should the entropy be, and how can it be measured?' <ref type="bibr">(Pinkerton 1956, 78)</ref> Pierce's prescription for the 'information-theoretic composer' is to use the theory for the preservation of good taste: How, then, can a composer make his compositions distinctive to an audience? Only by keeping their entropy, their information rate, their variety within the bounds of the human ability to make distinctions. Only when he doles his variety out at a rate of a very few bits per second can he expect an audience to recognise and appreciate it. The information-theoretic composer … will make up his composition of larger units which are already familiar in some degree to listeners through the training they have received in listening to other compositions. These units will be ordered so that, to a degree, a listener expects what comes next and isn't continually thrown off the track. Perhaps the composer will surprise the listener a bit from time to time, but he won't try to do that continually. To a degree, too, the composer will introduce entirely new material sparingly. He will familiarise the listener with this new material and then repeat the material in somewhat altered forms. To use the analogy of language, the composer will write in a language which the listener knows. He will produce a well-ordered sequence of musical words in a musically grammatical order. The words may be recognisable chords, scales, themes, or ornaments. They will succeed one another in the equivalents of sentences or stanzas, usually with a good deal of repetition. They will be uttered by the familiar voices of the orchestra. If he is a good composer, he will in some way convey a distinct and personal impression to the skilled listener. If he as at least a skillful composer, his composition will be intelligible and agreeable. <ref type="bibr">(Pierce 1980, 252)</ref> Moles likewise concluded that the ideal artwork should just slightly stretch the processing capabilities of its audience: 'The ontological goal pursued by the work of art is always to give the receptor "a little too much'" information, a little too much originality; this '"too much" is what is called the perceptual richness of the work of art, but the excess must be moderate <ref type="bibr">' (1968, 162)</ref>. Both Pierce and Moles also called attention to the difficulty of creating large-scale structures by information-theoretical means. Moles introduced a distinction between 'proximal order' (such as that generated by the use of Markov chains) and 'remote order' (large-scale structure), noting that interest in the former at the expense of the latter predominates in much modern art <ref type="bibr">(1973,</ref><ref type="bibr">53)</ref>. Pierce suggested that the use of Markov chains imposed a kind of formal myopia, arguing that 'it is foolish to try to attain long-range structure simply by relating a note to the immediately preceding notes by digram, trigram, and higher probabilities. The relation must be among parts of the composition, not simply among notes' <ref type="bibr">(1980,</ref><ref type="bibr">(259)</ref><ref type="bibr">(260)</ref>. For Pierce, information theory could provide, at most, a set of guidelines for the composer. He sums up his critique of 'stochastic art' by conceding that it might furnish, 'in some age of bad art … an alternative to the stale product of human artisans' (267).</p><p>In fact, what Hiller and Isaacson called 'the efficient production of banal commercial music' was a major area of speculation during the first flush of enthusiasm around information theory <ref type="bibr">(1959,</ref><ref type="bibr">176)</ref>. Practical work along these lines began in most cases with the analysis of a pre-existing repertoire, in a process similar to that undertaken under more artistic auspices by Hiller and Isaacson. The analysed works could then could furnish 'rules' to guide the creation of new music in the style of the old. One of the earliest researchers in this field devised what he called a 'banal tune-maker', essentially a flowchart whose note-to-note transition probabilities were derived from the analysis of a number of nursery songs <ref type="bibr">(Pinkerton 1956, 78)</ref>. More typical, however, was the notion of reverse-engineering the music of great composers: Moles asked, somewhat cheekily, 'And if Brahms had not written all the "Brahms" that he could have, must we not seek a composition machine <ref type="bibr">[and]</ref> analyse his stylistic forms and note-combinations, in order to find other, supplementary, and perhaps more charming ones?' <ref type="bibr">(1973,</ref><ref type="bibr">132)</ref>. But this, too, was a contentious matter, leading another theorist to question 'whether a computer capable of turning out a Mozart symphony -or a hundred Mozart symphonies every day -would be a boon to mankind' <ref type="bibr">(Attneave 1959, 509)</ref>.</p><p>Although these experiments were at first decidedly pen-and-paper affairs, they (like information theory generally) were soon linked with the possibilities offered by the digital computer. 'Melody, rhythm, and harmony can all be fitted into a statistical scheme. The clear implication is that we can build machines which will create music … having any degree of inherent entropy, redundancy, and periodicity we might desire' <ref type="bibr">(Pinkerton 1956, 86)</ref>. With the increasing availability of the digital computer, the 'abstract machine' described by theorists such as Alan Turing and Ross Ashby became an actual music-making apparatus:</p><p>Suppose that each variety of lawfulness in the catalogue … were represented by a knob on a large control panel. Adjustment of these controls would give any desired combination and weighting of the possible rules. Such a device would offer extraordinary opportunities for artistic exploration and experimentation. It would function essentially as a tool or extension of the user's imagination, and throw a correspondingly greater burden upon his evaluative or critical capacities. <ref type="bibr">(Attneave 1959, 510)</ref> The most ambitious thinking in this direction was undertaken by Moles, who argued that the prospect of 'artificial music' might create a new social function for art in the modern age. Against the maximalist avant-garde ideal that he dismissed as 'the music of the gods', Moles championed the 'music of mankind', mass-produced and unabashedly aimed at the masses. In his book Art et ordinateur <ref type="bibr">(1971)</ref>, one of the last documents from the heroic age of information aesthetics, Moles envisioned an information-theoretical music factory, tasked with churning out objects of aesthetic enjoyment for the largest possible audience. In his view, the singular masterpiece, a work of creative genius, was an artifact of a bygone time. Modern humanity's need for artistic stimulation could only be satisfied by modern means: 'No more prostrating before masterpieces! We need a consumer art: a means of creating the output required by the masses' <ref type="bibr">(Moles 1973, 267)</ref>. Information theory, abetted by computer technology, finds its true purpose in the creation of elaborate research centers in which artist-technicians could carefully calibrate new artistic offerings and, by generating random variations on general models, reconcile on a grand scale the desiderata of information and redundancy, the new and the familiar.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Conclusion</head><p>The vogue for information theory had largely blown over by the end of the 1960s. Even so, mathematically inclined a composer as Xenakis could declare in 1967 that 'identifications of music with message, with communication, and with language are schematisations whose tendency is towards absurdities and dessications' <ref type="bibr">(Xenakis 1992, 180)</ref>. The consensus emerged that the most that information theory could offer was a handful of concepts and guidelines -what Pierce called a 'minimum philosophy of art <ref type="bibr">' (1980, 266)</ref>. As Joel Cohen noted, information theory cannot truly ground a compositional or analytical approach to music because it 'cannot say what the nature of the musical experience is <ref type="bibr">' (1962, 162)</ref>. The ideal of a scientifically grounded compositional technique lost its lustre.</p><p>Still, it would be foolish to dismiss the influence of information theory. Its basic concepts were by the mid-1960s widely invoked in the discourse of experimental art, sometimes with great theoretical rigour, sometimes as mere buzzwords. Further, information theory furnished composers and theorists with a conceptual framework that allowed them to better perceive both the potential and the limits of the systems in which they worked. Above all, however, information theory provided a powerful new image of the creative process: instead of writing music in conversation with their historical forebears, composers now generated their work from the infinite and overwhelming source of potential forms that Hiller called the 'total matrix of possibilities' (quoted in <ref type="bibr">Gagne and Caras 1982, 243)</ref>.</p><p>A final, more deeply philosophical implication of the musical use of information theory has to do with the question of agency. Underneath all the jargon and technicalities, information aesthetics had broached the fateful possibility of music without a composer -and, in the case of computer-generated sounds, without a performer either. In his 1961 book on information theory, Pierce argued that 'audiences want to have a sense of authorship, a sense of an individual, in connection with works of art. To bring appreciation to an artist, his work must have enough consistency so that it is recognisable as his'. The clear implication was that stochastically generated art could not possibly satisfy the audience's need for an authorial presence behind the work. But a decade earlier, Pierce had provocatively suggested that the lack of an author (read: composer) might rather constitute a unique charm, rather than a deficit to be lamented. In the stochastically generated prose of Shannon's pseudo-English, Pierce noted, There is no feeling of the author or artist to be conveyed. That which is found is like the rhythm of dripping water, the face on the rock, the scene in the stains on a wall; it is in the mind of the beholder. […] Such chance products as these give an unalloyed opportunity for what one might call creative appreciation. The enjoyment comes from within; it is the enjoyer's own, and this should make it all the more valuable to him. <ref type="bibr">(Coupling 1950, 87)</ref> In other words, precisely because stochastic art is not laden by its creators with meanings, we are free to enjoy it in a more personal way than is possible with conventional objects of art. In stark contrast to dominant theories of both language and music, meaning is here no longer a question of intentionality. Aesthetic perception is not (or not necessarily) a symmetrical process of decoding a message that has been planted in the work; it is an independent response whose expressive force is quickened by the artwork's very lack of a looming authorial presence. This redemptive interpretation of the phenomenon Jean-Pierre Dupuy ominously called 'subjectless cognition <ref type="bibr">' (2009, 19)</ref> remains relevant amid the current debates about artificial intelligence and art.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Disclosure statement</head><p>No potential conflict of interest was reported by the author(s).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Notes on contributor</head><p>Thomas Patteson is a specialist in twentieth-century music. He is author of the book Instruments for New <ref type="bibr">Music (University of California Press, 2016)</ref>, a study of experimental sound technologies developed in Germany during the Weimar Republic, which received the 2017 Lewis Lockwood Award from the American Musicological Society. His translations of essays by Theodor Adorno and Carl Dahlhaus recently appeared in the Oxford Handbook of Timbre (2021).</p></div>			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="4" xml:id="foot_0"><p>T. PATTESON</p></note>
+		</body>
+		<back>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<analytic>
+		<title level="a" type="main">Stochastic Composition Processes</title>
+		<author>
+			<persName><forename type="first">Fred</forename><surname>Attneave</surname></persName>
+		</author>
+		<idno type="DOI">10.2307/428223</idno>
+		<ptr target="https://doi.org/10.2307/428223" />
+	</analytic>
+	<monogr>
+		<title level="j">The Journal of Aesthetics and Art Criticism</title>
+		<imprint>
+			<biblScope unit="volume">17</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="503" to="510" />
+			<date type="published" when="1959">1959</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">Max</forename><surname>Bense</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1965">1982. 1965</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<monogr>
+		<title level="m" type="main">Einführung in die neue Aesthetik</title>
+		<author>
+			<persName><surname>Aesthetica</surname></persName>
+		</author>
+		<imprint>
+			<publisher>Agis-Verlag</publisher>
+			<pubPlace>Baden-Baden</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title level="a" type="main">Information Theory and Music</title>
+		<author>
+			<persName><forename type="first">Joel</forename><surname>Cohen</surname></persName>
+		</author>
+		<idno type="DOI">10.1002/bs.3830070202</idno>
+		<ptr target="https://doi.org/10.1002/bs.3830070202" />
+	</analytic>
+	<monogr>
+		<title level="j">Behavioral Science</title>
+		<imprint>
+			<biblScope unit="volume">7</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="137" to="163" />
+			<date type="published" when="1962">1962</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title level="a" type="main">Art for Science&apos;s Sake</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">J</forename><surname>Coupling</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>John</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Pierce</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Astounding Science Fiction</title>
+		<imprint>
+			<biblScope unit="volume">46</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="83" to="92" />
+			<date type="published" when="1950">1950</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<monogr>
+		<title level="m" type="main">On the Origins of Cognitive Science. The Mechanization of the Mind</title>
+		<author>
+			<persName><forename type="first">Jean-Pierre</forename><surname>Dupuy</surname></persName>
+		</author>
+		<editor>M. B. DeBevoise</editor>
+		<imprint>
+			<date type="published" when="1994">2009. 1994</date>
+			<publisher>MIT Press</publisher>
+			<pubPlace>Cambridge, MA</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<monogr>
+		<title level="m" type="main">Eine Archäologie der Computermusik: Wissen über Musik und zum Computer im angehenden Informationszeitalter</title>
+		<author>
+			<persName><forename type="first">Alan</forename><surname>Fabian</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2013">2013</date>
+			<publisher>Kadmos</publisher>
+			<pubPlace>Berlin</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">Cole</forename><surname>Gagne</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Tracy</forename><surname>Caras</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Soundpieces. Interviews with American Composers</title>
+		<imprint>
+			<date type="published" when="1982">1982</date>
+			<publisher>Scarecrow Press</publisher>
+			<pubPlace>Metuchen, NJ</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<monogr>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">J</forename><surname>Grant</surname></persName>
+		</author>
+		<title level="m">Serial Music, Serial Aesthetics. Compositional Theory in Post-War Europe</title>
+		<meeting><address><addrLine>Cambridge</addrLine></address></meeting>
+		<imprint>
+			<publisher>Cambridge University Press</publisher>
+			<date type="published" when="2001">2001</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<monogr>
+		<title level="m" type="main">Experimental Music. Composing with an Electronic Computer</title>
+		<author>
+			<persName><forename type="first">Lejaren</forename><surname>Hiller</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Leonard</forename><surname>Isaacson</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1959">1959</date>
+			<publisher>McGraw-Hill</publisher>
+			<pubPlace>New York</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title level="a" type="main">Between a Bach and a Bard Place: Productive Constraint in Early Computer Arts</title>
+		<author>
+			<persName><forename type="first">Douglas</forename><surname>Kahn</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Media Art Histories</title>
+		<editor>
+			<persName><forename type="first">Oliver</forename><surname>Grau</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Cambridge, MA</addrLine></address></meeting>
+		<imprint>
+			<publisher>MIT Press</publisher>
+			<date type="published" when="2007">2007</date>
+			<biblScope unit="page" from="423" to="452" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<monogr>
+		<author>
+			<persName><forename type="first">Abraham</forename><surname>Moles</surname></persName>
+		</author>
+		<title level="m">The New Relationship Between Music and Mathematics</title>
+		<imprint>
+			<date type="published" when="1962">1962</date>
+			<biblScope unit="page" from="23" to="24" />
+		</imprint>
+	</monogr>
+	<note>Gravesaner Blätter</note>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<monogr>
+		<title level="m" type="main">Information Theory and Aesthetic Perception</title>
+		<author>
+			<persName><forename type="first">Abraham</forename><surname>Moles</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1958">1968. 1958</date>
+			<publisher>University of Illinois Press</publisher>
+			<pubPlace>Urbana, IL</pubPlace>
+		</imprint>
+	</monogr>
+	<note>Translated by Joel E. Cohen</note>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">Abraham</forename><surname>Moles</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Kunst und Computer</title>
+		<imprint>
+			<date type="published" when="1971">1973. 1971</date>
+			<publisher>Cologne: Verlag M. DuMont Schauberg</publisher>
+		</imprint>
+	</monogr>
+	<note>Translated by Barbara Ronge</note>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<monogr>
+		<author>
+			<persName><forename type="first">John</forename><forename type="middle">R</forename><surname>Pierce</surname></persName>
+		</author>
+		<title level="m">An Introduction to Information Theory. Symbols, Signals, and Noise</title>
+		<meeting><address><addrLine>New York</addrLine></address></meeting>
+		<imprint>
+			<publisher>Dover</publisher>
+			<date type="published" when="1961">1980. 1961</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title level="a" type="main">Information Theory and Melody</title>
+		<author>
+			<persName><forename type="first">Richard</forename><forename type="middle">C</forename><surname>Pinkerton</surname></persName>
+		</author>
+		<idno type="DOI">10.1038/scientificamerican0256-77</idno>
+		<ptr target="https://doi.org/10.1038/scientificamerican0256-77" />
+	</analytic>
+	<monogr>
+		<title level="j">Scientific American</title>
+		<imprint>
+			<biblScope unit="volume">194</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="77" to="87" />
+			<date type="published" when="1956">1956</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<monogr>
+		<title level="m" type="main">Eduard Hanslick&apos;s On the Musically Beautiful. A New Translation</title>
+		<author>
+			<persName><forename type="first">Lee</forename><surname>Rothfarb</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Christoph</forename><surname>Landerer</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2018">2018</date>
+			<publisher>Oxford University Press</publisher>
+			<pubPlace>New York</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">K</forename><surname>Schwarz</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Robert</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1996">1996</date>
+			<publisher>Phaidon</publisher>
+			<pubPlace>London</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<monogr>
+		<author>
+			<persName><forename type="first">Claude</forename><forename type="middle">E</forename><surname>Shannon</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Warren</forename><surname>Weaver</surname></persName>
+		</author>
+		<title level="m">The Mathematical Theory of Communication</title>
+		<meeting><address><addrLine>Urbana, IL</addrLine></address></meeting>
+		<imprint>
+			<publisher>University of Illinois Press</publisher>
+			<date type="published" when="1949">1964. 1949</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<monogr>
+		<title level="m" type="main">New Voices. American Composers Talk About Their Music</title>
+		<author>
+			<persName><forename type="first">Geoff</forename><surname>Smith</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Nicola</forename><forename type="middle">Walker</forename><surname>Smith</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1995">1995</date>
+			<publisher>Amadeus Press</publisher>
+			<pubPlace>Portland</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<monogr>
+		<title level="m" type="main">Re-Reading Hanslick&apos;s Aesthetics. Die Rezeption Eduard Hanslicks im englischen Sprachraum und ihre diskursiven Grundlagen</title>
+		<author>
+			<persName><forename type="first">Alexander</forename><surname>Wilfing</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2019">2019</date>
+			<publisher>Hollitzer Verlag</publisher>
+			<pubPlace>Vienna</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">Iannis</forename><surname>Xenakis</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1971">1992. 1971</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<monogr>
+		<title level="m" type="main">Thought and Mathematics in Composition</title>
+		<author>
+			<persName><forename type="first">Formalized</forename><surname>Music</surname></persName>
+		</author>
+		<imprint>
+			<publisher>University of Indiana Press</publisher>
+			<pubPlace>Bloomington, IN</pubPlace>
+		</imprint>
+	</monogr>
+	<note>Revised edition</note>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

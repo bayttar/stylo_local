@@ -1,0 +1,589 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Hopegoing: Animist metaphor as deferred hope in Yaa Gyasi&apos;s Homegoing</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author role="corresp">
+							<persName><forename type="first">Jay</forename><surname>Rajiva</surname></persName>
+							<email>jay.rajiva@usask.ca</email>
+							<affiliation key="aff0">
+								<orgName type="department">Department of English</orgName>
+								<orgName type="institution">University of Saskatchewan</orgName>
+								<address>
+									<settlement>Saskatoon</settlement>
+									<country key="CA">Canada</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff1">
+								<orgName type="department">Department of English</orgName>
+								<orgName type="institution">University of Saskatchewan</orgName>
+								<address>
+									<addrLine>Arts Building 315, 9 Campus Drive</addrLine>
+									<postCode>S7N 5A5</postCode>
+									<settlement>Saskatoon</settlement>
+									<region>SK</region>
+									<country key="CA">Canada</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff2">
+								<orgName type="department">JOURNAL OF POSTCOLONIAL WRITING</orgName>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Hopegoing: Animist metaphor as deferred hope in Yaa Gyasi&apos;s Homegoing</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date/>
+						</imprint>
+					</monogr>
+					<idno type="MD5">75B60AB08ABC1CF252A82D7A3140FCFD</idno>
+					<idno type="DOI">10.1080/17449855.2026.2621675</idno>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.0" ident="GROBID" when="2026-02-25T19:50+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term>Trauma</term>
+					<term>decolonize</term>
+					<term>animism</term>
+					<term>hope</term>
+					<term>postcolonial</term>
+					<term>Yaa Gyasi</term>
+				</keywords>
+			</textClass>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>This article argues that Yaa Gyasi's novel Homegoing (2016) offers an animist model of deferred hope that considers the spiritual, conscious, and "speaking" elements of non-human matter. Drawing on Harry Garuba's notion of animism's excessive aesthetic presence, which possesses a "spirit of constant awareness [that] functions on a logic of inclusion rather than exclusion", it analyses the "portability" of both literal and metaphoric fire in Homegoing (2003): in particular, Effia, Esi, and the dream firewoman whose presence leads to Akua accidentally inflicting violence on her children. Reading Homegoing for animist structure makes provisionality and interconnection central to decolonial hope, fulfilling Dominick LaCapra's call for a literary trauma aesthetic that resists Christian notions of redemption and Christof Mauch's conception of slow hope, a measured and deferred model of thinking through the future. In this way, Homegoing becomes a "hopegoing" that gains a planetary dimension.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>Critical attention has generally dwelt on the relationship between liminal space and healing in Gyasi's novel. For Rogers <ref type="bibr" target="#b1">Asempasah, Christabel Aba Sam, and Bertrand Azagsizua Abelumkemah (2022)</ref>, the border space of the castle by the sea "marks the place of separation of the sisters into two continents leading to the formation of two identities", while it is also "the same place that marks a reunion" (8). Dirk <ref type="bibr" target="#b23">Van Rens (2023)</ref>, conversely, argues that Homegoing locates "its structure from the way individual memory is always embedded in family memory" (773). However, these and other readings still reify, in some measure, a human-nature duality in their interpretation of the novel's structure and conclusion. Healing, in this view, risks sedimenting into the type of tidy resolution that provides nothing more than a vague "politics of utopian hope" <ref type="bibr">(LaCapra 2001, 145)</ref>.</p><p>This article argues that while Homegoing appears to provide healing in both its narrative arc and resolution, it actually offers an animist model of deferred hope that considers the spiritual, conscious, and "speaking" elements of non-human matter at a narrative level. In this endeavour, it argues that close reading "allows for the here of animist thought to retain its legibility and grounding, attentive to the texture of words and their immediate sense-relation to the reader" <ref type="bibr">(Rajiva 2020, 15;</ref><ref type="bibr">original emphasis)</ref>. In other words, the article relies consciously and intentionally on sustained close reading to offer an aesthetic reframing of decolonial hope.</p><p>The first part of this article engages with Harry <ref type="bibr" target="#b4">Garuba's (2003)</ref> reading of animism's excessive aesthetic presence, which possesses a "spirit of constant awareness <ref type="bibr">[that]</ref> functions on a logic of inclusion rather than exclusion" (276). Garuba's animist materiality frames a detailed close reading of the novel that analyses the "portability" of both its literal and metaphoric fire, focusing primarily on Effia and Esi. It then considers the firewoman whose presence in the dreams of Akua, Marjorie's grandmother leads Akua to accidentally inflicting violence on her children by setting fire to her hut. As the figure of the firewoman speaks its animist prominence in Akua's dreams, provisionality and interconnection become central to decolonial hope, encouraging readers to look beyond the narrative resolution of Marjorie's and Marcus's stories. Lastly, I demonstrate how an animist reading of Homegoing fulfils Dominick <ref type="bibr" target="#b14">LaCapra's (2001)</ref> call for a literary trauma aesthetic "that cannot be equated with salvation or redemption" (55). I draw on Christof <ref type="bibr" target="#b17">Mauch's (2019)</ref> conception of slow hope, a measured and deferred model of thinking through the future in which "the action that we need to take will at times -as paradoxical as it may sound -necessitate inaction" (39). Reading Homegoing for animist structure recasts the apparently dualist and symbolic representations of fire and water as evidence of a non-hierarchical and decolonial impulse that defers hope, rather than presenting it as teleology. The reading thus aligns with Goutam <ref type="bibr" target="#b13">Karmakar's (2025)</ref> vision of a "nonanthropocentric, non-hegemonic, inclusive approach to [ . . . ] collective planetary solidarity" (318), re-conceiving "imagination as a relational space that is informed by the objects and subjects with which it is entangled" <ref type="bibr">(Yusoff and Gabrys 2011, 516)</ref>. In this way, Homegoing becomes a "hopegoing" that gains a planetary dimension.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Against "unlocalized" spirituality</head><p>This article begins with some key definitions of animism, which, at its broadest, is an ontology in which "nature and its objects are endowed with a spiritual life both simultaneous and coterminous with their natural properties" <ref type="bibr">(Garuba 2003, 267)</ref>. In other words, there is no separation of non-human from human matter on any spiritual basis. On the contrary: as George <ref type="bibr" target="#b8">Hagan (1978)</ref> notes of Akan spiritual practices, "water connects all living things directly to the Supreme Being", demonstrating "the importance of the divine in human survival" (2). Graham <ref type="bibr" target="#b9">Harvey (2014)</ref> offers a correspondingly broad definition of animism as a set of "claimed beliefs about spirits" that engages with "questions of what enlivens beings" (4). For Isabelle <ref type="bibr" target="#b22">Stengers (2012)</ref>, however, defining animism means first acknowledging the positionality of her training in philosophy, which puts her "on one side of the divide, the side that characterizes 'others' as 'animists' " (1); through this self-scrutiny, Stengers then urges readers "to consider new transversal connections, resisting all reduction, unlike this sad term 'natural', which in fact means 'no trespassing: available for scientific explanation only', and also unlike the symbolic, which covers [just] about everything else" (8). Correspondingly, Caroline <ref type="bibr" target="#b21">Rooney (2000)</ref> demonstrates how animism might interrogate western temporality -"what the thought of time forgets or represses" -in order to confirm animism as "the mattering of the aliveness of life rather than the counting of time" (7).</p><p>From the foregoing, a number of animist concepts become relevant to this article's reading of Homegoing. If hierarchical distinctions between forms of matter are untenable, we are left with a conception of all matter as vitalized or "enlivened" being, which challenges anthropocentric social, political, and cultural orders. But acceding to an animist ontology can only occur by scrutinizing the very western intellectual formations that have historically conspired to reduce animism to the status of a "primitive" belief. This scrutiny, then, helps establish a temporal scale for Gyasi's novel, an acknowledgement that "all stories are matter [according to] what forms of marginalized expression find expression within their walls" <ref type="bibr">(Rajiva 2020, 13)</ref>; furthermore, animist concepts are Indigenous ontologies arising from what Linda Hogan (2014) refers to 3 as "an authentic science gained from direct observation and relationship with the world around us" (17). The endowment that Garuba speaks of, then, is material and spiritual, but dispersed beyond particular religions and highly localized to specific sites. For example, the metaphorical significance of rivers is always tied to a specific material and textual site, and how one approaches them evokes the localized quality of what Garuba refers to as animist realism, the widespread "[pan-African] cultural practice of according a physical, often animate material aspect to what others may consider an abstract idea" <ref type="bibr">(2003,</ref><ref type="bibr">274</ref>). Garuba's theory fits with what Sandew Hira (2023) refers to as "conceptual thinking", which resists "deductive logic" in favour of "positionality, experientiality, and subjective comprehension of nature and reality" <ref type="bibr">(Karmakar 2025, 316)</ref>.</p><p>This article invites a consideration of what it means, in aesthetic terms, for literary studies to embrace a belief system like animism that refuses "unlocalized, unembodied, unphysicalized gods and spirits" <ref type="bibr">(Garuba 2003, 267)</ref>. Animist embeddedness and relationality provide a decolonial frame for reading the aesthetics of hope in Homegoing, one that aims to counter "the hegemony in knowledge production and dissemination that has occurred with colonial modernity" <ref type="bibr">(Karmakar 2025, 322)</ref>. It will examine the contours of the novel's interleaved narrative structure, which alternates between Maame's descendants on both Effia's and Esi's sides of the family tree in each generation, with a different focalizer for every chapter. Tracing out this structure is crucial to thinking through the relationship between structure and hope in Gyasi's novel. Initially, Effia's branch is heavily implicated in the slave trade, as Effia marries James Collins, the governor of Cape Coast Castle, and their son, Quey, inherits a similar occupation. This branch is subsequently marked by flight (Quey's son), indoctrination in the Christian church (Abena and then Akua), and the legacy of violence (Yaw). His daughter Marjorie develops a close relationship with "Old Lady" Akua, visiting her in Ghana every summer to hear the origin story of their family, which alleviates some of the "tension between pre-migration ethnic identity and post-migration racial identity" <ref type="bibr">(Landry 2018, 138)</ref> that Marjorie experiences as a Ghanaian American. Esi's branch, conversely, suffers the most intense effects of enslavement and its generational legacies across continents. Both Esi and her daughter Nes are enslaved, while their descendants (H, Willie, and Carson) grapple with systemic racism in the decades after the end of slavery. Carson's son Marcus goes on to attend Stanford, meeting Marjorie at a friend's party. The trip Marjorie and Marcus take to the Cape Coast Castle in Ghana concludes the novel, "reuniting" the two sides of the family. The family tree, as Nonki Motahane, Oliver Nyambi, and Rodwell Makombe (2021) argue, is thus "the subject compass of the novel", its "branches' roots and 'lifeblood' [ . . . ] firmly grounded in Africa in the symbolic figure of the matriarch Maame" <ref type="bibr">(22)</ref>.</p><p>In this sense, the novel consciously echoes the relational structure indicated in the Akan proverb that serves as the novel's epigraph: "The family is like the forest: if you are outside it is dense; if you are inside you see that each tree has its own position" <ref type="bibr">(Gyasi 2016, 1)</ref>. More broadly, its generational structure also encompasses the Akan concept of community, which includes the "akra ateasefo (spirits of earthly existence), awu ako (the dead and gone) and the yet to arrive on earth, future generations" <ref type="bibr">(Hagan 1978, 10;</ref><ref type="bibr">original emphasis)</ref>. Such a structure invites a consideration of narrative presence at every stage, since what is near and far is determined by interlocking forms of movement: contrapuntal, back and forth across the family tree; historical and chronological, over the period from Effia's and Esi's birth to Marjorie and Marcus's reunion in contemporary Ghana; and regional-spatial, alternating between the US and the Gold Coast (later Ghana). Through this structure, the novel also encourages readers to look beyond the anthropocentric to consider "a holistic future" in which "coexistence", following Arturo Escobar's (2020) concept of pluriversal politics, is "conducive to cultivating partnerships among varied worlds" <ref type="bibr">(Karmakar 2025, 323)</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Hope and metaphor</head><p>Fire, as a textual element, has kinetic dimensions, moving from character to character, and seemingly erasing any trace of hope. This travel is not universal in access or intensity. The novel's opening fire, for example, becomes an extended metaphor for how animist narrative elements "speak":</p><p>The night Effia Otcher was born into the musky heat of Fanteland, a fire raged through the woods just outside her father's compound. It moved quickly, tearing a path for days. It lived off the air; it slept in caves and hid in trees; it burned, up and through, unconcerned with what wreckage it left behind, until it reached an Asante village. There, it disappeared, becoming one with the night. <ref type="bibr">(Gyasi 2016, 3)</ref> This fire is directly tied to both the slave trade, in which Effia's father participates, and the patriarchal system in which Maame is raped by Effia's father. It is highly personal, localized in the birth of Cobbe's daughter, yet also highly mobile, since it immediately cuts a swift and brutal path towards the village where Effia's half-sister Esi will eventually be born. Later, Esi is captured in an Asante raid, displaying the charged and specific metaphoric association of fire with pain, trauma, and enslavement. However, following Garuba, the fire is localized in two specific places (the homes of the two sisters) and personified, assuming an almost human form with human needs: breathing air, sleeping in caves, hiding in trees, and, like many characters, "unconcerned with what wreckage" it leaves in its wake. Effia is "born into the musky heat of Fanteland" alongside the initial fire that takes shape "through the woods just outside [her] father's compound". This birth touches on the eventual conditions of her sister's enslavement indirectly, as the fire is the locus for the events that later lead to Esi being captured and enslaved.</p><p>Although the uncontrolled fire mimics slavery in the breadth of its destructive effects, it does so in ironic contrast to the spatial and corporeal practice of slavery, which by definition seeks to exert control over others. Fire, in other words, must speak beyond the aesthetic criteria of realism; it must assume animist personhood to demonstrate both literal and figurative limitations on the representation of hope. The figuration draws on the literal, even though it is not strictly metonymic, since its literal form later changes or evolves. For example, Effia's son Quey feels as if he is being "roasted" by the heat and humidity at night, as he ponders whether to meet his old friend Cudjo, with whom he had fallen in love as a young man <ref type="bibr">(Gyasi 2016, 50)</ref>. Here, fire manifests through the transitive property of heat, which very quickly leads Quey to wonder whether the mosquitoes he imagines "crawling up his feet to his legs to his stomach, to rest at the watering hole of his navel [ . . . ] drink sweat <ref type="bibr">[or]</ref> blood" (50). Fire creates first heat, then sweat, and finally the conditions in which mosquitoes draw his blood, which Quey immediately connects to "the prisoners being brought into the cellars by the tens and the twenties, their hands and feet bound and bleeding" (50). The natural world becomes co-implicated with human matter, troubling discrete boundaries between the two.</p><p>Correspondingly, Cobbe's rape of Maame indicates that proximity alone is no guarantee of hope within the terms of individual resistance. Maame, near to hand in Cobbe's household, is victimized by its patriarchal head, giving birth to Effia before fleeing the village and later marrying again. As Maame flees, the fire flees with her in symbolic terms, spilling over into the second branch of her line. This spilling over is reflected in Abronoma, the servant girl in Esi's household who first reveals to Esi that she has a sister, and that her mother was once enslaved. Abronoma functions as a narrative supplement for Maame, the two sharing a similar background of experience. However, when the attack comes on Esi's village, it liberates Abronoma but ends in Esi's capture.</p><p>Maame sets the fire in literal terms but does not create the larger pattern of enslavement. During the attack on Esi's village, Maame relives the night of Effia's birth, finally confessing to Esi that it was she who started the fire. This confession, quite naturally, remains opaque to Esi, who is ignorant of the circumstances surrounding Maame's past flight:</p><p>Esi stared at her mother then, and it was as though she were seeing her for the first time. Maame was not a whole woman. There were large swaths of her spirit missing, and no matter how much she loved Esi, and no matter how much Esi loved her, they both knew in that moment that love could never return what Maame had lost. And Esi knew, too, that her mother would rather die than run into the woods ever again, die before capture, die even if it meant that in her dying, Esi would inherit that unspeakable sense of loss, learn what it meant to be un-whole. <ref type="bibr">(Gyasi 2016, 42)</ref> Since there is no hope for Esi in conventional terms, readers are forced to look beyond individual salvation. Instead, hope turns on recognizing a specific enmeshment with the material world, manifested in the absent "swaths" of spirit but also in the material suffering that Maame has endured. Esi receives the black stone 4 from her mother only because the material consequence of enslavement -reprisal from Abronoma's village for her abduction -has finally arrived; later, she ingests the stone in an unsuccessful attempt to conceal it from the British soldiers who rape her in the dungeon. When it comes, the reprisal reveals those missing pieces of Maame's spirit by negation and indirection. The intensity of the attack, and of Maame's experience, both spill into Esi's revelation: the daughter is granted narrative access to her mother's lived experience, in a moment occasioned by events that reject a human-nature duality. As Maame reaches this point of transformation, her eyes gradually turn "blank, emptying somehow of something" <ref type="bibr">(Gyasi 2016, 42)</ref>. Esi gains a dimension of insight based on a shared moment of animist connection, producing a form of knowledge shaped by the "spirits" near at hand -the fire and the stone -that take on representational intensity just as Maame's eyes are emptied of feeling. The story has "come alive" here, in animist terms, a narrative and figurative move that directs reader attention towards hope as something more than strictly human, and, indeed, as something that implicates both human and non-human matter.</p><p>This section is further mediated by its status as a memory, since Esi begins the chapter already enslaved in the Cape Coast Castle. Esi uses memory as a means of surviving enslavement and rape, though she derives no pleasure from the experience, characterizing the dungeon as "Hell", a site of tormented memory in which "each beautiful moment passed through the mind's eye until it fell to the ground like a rotten mango, perfectly useless, uselessly perfect" <ref type="bibr">(Gyasi 2016, 28)</ref>. Memory becomes an animist strategy to make excessive matter find its presence in human lifeworlds, carrying hope past the point of Esi's own physical and textual span.</p><p>The rotten mango of memory is a metaphor for the tension of opposed states bound by the mango's surface, which conceals the internal decay. This memory enters the novel obtrusively, summoned deliberately by Esi as a way to cope with the daily trauma of enslavement. It also mirrors how her daughter, Ness, recalls her experiences of working on her first plantation, since both are referred to as "Hell". These kinds of mirrored, material narratives form an animist pattern of meaning in Gyasi's novel, though they are not consistently sutured to specifically religions or pieces of religious iconography. They are detached from any single religious context. This is not to say that such a detachment is purely secular. Indeed, open forms of religious worship are prevalent in the novel, with Christianity acting as a locus of trauma for Abena and her daughter Akua, who are both abused by missionaries, but also as a means of healing and survival for Willie, whose faith allows her to cope with the systemic racism that results in her first partner, Robert, fleeing the family to pass as white. However, while religion does form an initial basis for much of the representational intensity given to objects in Homegoing, the "social and cultural meanings" of these objects ultimately "break off from the purely religious and acquire an existence of their own as part of the general process of signification in society" <ref type="bibr">(Garuba 2003, 267)</ref>.</p><p>Enslavement is characterized as "Hell" by Esi, and that same image is reproduced in Ness's memory of her first plantation, with the overseer referred to as "the Devil". Though Ness is trapped within Christian images of hell, the text allows her memory to live and grow beyond the confines of the plantation, in a move that is liberating and hopeful, exceeding the violent limits set on enslaved bodies on the plantation. However, this narrative lingering also encodes an indelible reminder of plantation trauma through the structuring function of animist realism. If objects live and breathe, they do so in relation to much that is violent and oppressive. Ness's memories of the past are focalized in the present tense, as if a time lag has pulled her back to a prior state, with the fire imagery of Hell recalling the "original" fire that opens the novel, while generating a sense of forced physical proximity with her lover Sam: "Breath leaves his mouth and enters hers, and they lie together until the roosters crow" <ref type="bibr">(Gyasi 2016, 81)</ref>. At this point, animist fire imagery, still uncontrolled, saturates both the narrative and Ness's lived experience, even though it is nominally framed as memory, and it is this tension between the supposed evanescence of memory and its visceral animist representation, that constitutes a key aesthetic feature of hope in Homegoing.</p><p>Through narrative and symbolic "leakages" from chapter to chapter, and crucially, from generation to generation, metaphors of generational trauma carry hope forward, deferring its resolution and preventing any unearned working through of trauma. Thus, when James Collins sees children "dancing around the fire, their smooth, naked bellies glistening like little balls catching light" <ref type="bibr">(Gyasi 2016, 88)</ref>, his chapter inherits a sense of fire that is markedly different from the preceding chapter, which finds Ness looking back on the memory of the "Devil" overseer after a failed attempt at escape that results in Sam being hanged while she is forced to watch (87). From the suffocating heat of "hell", we move to fire nurturing children while James, who is implicated in the slave trade, watches from a distance. Ness's hope for a better future turns the act of picking cotton, as she waits for punishment from her current overseer, into a seemingly conventional Christian prayer that also involves protecting her son, "wherever he may be" (87). Although Ness is trapped within an oppressive system that is explicitly drawn in Christian imagery -the plantation as hell, the overseers as "the Devil" -she also allows memory to live and grow beyond the parameters of enslavement. The environment, so saturated by the trauma of enslavement, does not have the final word, though Ness's prayer, which she speaks out loud, concludes her chapter. Recalling Garuba, the text takes an initially Christian starting-point for hope and modulates it into an animist enmeshment in which spiritual lifeworlds begin to "stain" what we may call narrative matter.</p><p>The text vibrates, in these chapters, with prayer, yet Christianity as a means of salvation is quickly deferred, since Ness is given no hope for herself, remaining enslaved, and the next chapter follows not her son, Kojo, but James, who has no material experience of enslavement. It is thus significant that James watches the children dancing around the fire at a distance, while the novel makes clear just how limited he is by his family structure: the son of Quey and apparent heir to the business of trafficking in enslaved Asante peoples <ref type="bibr">(Gyasi 2016, 89)</ref>. Although we begin with an image of fire as succour and hope, James swiftly realizes that he cannot live an ethical and moral life as long as he remains in his current position, a reality made clear when he encounters Akosua, whom he will later marry, a young woman who openly refuses to "shake the hand of a slaver" (96) and who, like James, is looking for a way to exist in relation to others without causing harm. To be sure, Ness is enslaved in the American South, while James is part of a relatively affluent Gold Coast family that traffics in enslaved people. However, despite the substantial differences in their respective positions, the text's animist materiality binds them. James's successful flight is animated by the narrative resemblance to Ness's unsuccessful flight. Where Ness "speaks" through the fluidity and transmissibility of fire as an animist metaphor, James's eventual flight from his village and towards Asanteland, in search of Akosua and a life free from slave trafficking, directly replicates the fire movement that opens the novel: "He slept in caves and hid in trees" (110). Fire, then, becomes the animist locus for the spirit of Ness to speak through James across the family branch, to "act out a drama of historical selfexamination and communal soul searching" <ref type="bibr">(Garuba 2003, 275)</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Animist loss, absence, and lack</head><p>Through its focus on community and family, animism assists in the process of decolonizing hope by making visible alternative structures of meaning, which challenge western conventions at ethical as well as narrative levels. In Writing History, Writing Trauma, Dominick LaCapra (2001) cautions against taking the western, Judeo-Christian "fall" narrative -in which a pure beginning leads to losses and trials but is ultimately regained in some measure by story's end -as the de facto basis for trauma narratives. This tendency, he suggests, becomes pronounced when one erases the distinction between three elements: loss, absence, and lack. Loss, for LaCapra, is an affective response to a past historical phenomenon, such as mourning the lives lost in a war. Absence, conversely, is a historical phenomenon that is rendered "transhistorical", frequently in "performative or regulatory fashion", which is unconfined "to a given period of time and whose recurring inflections may even be defining characteristics of the culture" <ref type="bibr">(La Capra 2001, 48-49 n. 7</ref>). The third element, lack, is similar to loss but oriented towards the future, not the past, expressed as a "felt need or a deficiency" that suggests "something that ought to be there but is missing" (53). Conflating loss, absence, and lack, in narrative terms, risks reifying a type of aesthetic ethnocentrism, whereby "something presumably distinctive of, or unique to, one's own culture" is elevated to the status of universal at the expense of non-western cultures in which "forms comparable to the novel [may instead be] absent rather than lacking" (54). Against this tendency, LaCapra argues for the importance of narrative forms that do not problematically prioritize "resonant closure or uplift" (54), which frequently requires the sacrifice, whether literal or conceptual, of marginalized subjects in order to generate a falsely universal hope for a better future.</p><p>In Homegoing, LaCapra's inquiry enables a decolonial reading of hope through the representation of Akua, the woman who accidentally sets fire to her hut, killing her daughters and scarring her son, Yaw, but who also becomes a source of wisdom for both Yaw and her granddaughter Marjorie. DeLinda <ref type="bibr" target="#b16">Marzette (2021)</ref> suggests that Gyasi mobilizes both "a kind of literary ancestor worship" and the "natural elements of fire, water, and stone" to generate a novel of "healing" within which "themes of motherhood, Diasporic migration, and home" can be housed ( <ref type="formula">102</ref>). Yet "a kind of literary ancestor worship" seems too casual a way to describe the novel's guiding principle. It is literary, an animist structuring of meaning at an aesthetic level, in which worship is both presented as an aspect of dramatic irony for readers and challenged at the same time. Through the firewoman of Akua's dreams, Homegoing mobilizes animist materiality to embed a specific instance of loss within a complex transhistorical metaphor of absence. "Maame" is visiting one of her descendants in a highly metaphorized form: as a "firewoman" whose encroaching presence in Akua's mind culminates in destruction and harm, a supremely ambivalent metaphor. On the one hand, the firewoman makes visible a non-rational connection to the generational trauma of the whole family, which is contiguous with Akua's own traumatic experience of being raised and abused by Christian missionaries. On the other hand, she herself is the figurative and aesthetic catalyst for further trauma, in the form of the violence that Akua unknowingly inflicts on her children. Both Maame and Akua might be seen as haunted by an Akan sasa, the residual spiritual energy of a dead person that tends to afflict those who take lives, such as hunters, butchers, or executioners <ref type="bibr">(Akesson 1965, 287-288)</ref>.</p><p>Because there is no Christian "unity" to Akua's narrative, no sense of a fall marked by a return to wholeness, the question of hope is detached from any form of individual, human-centred personal salvation, which would risk erasing her multiply marginalized experience. Instead, hope surfaces in the excessive materiality of Akua's connection to the natural world. At the moment when the fire starts, she imagines herself, in her hut, "lying on the sand of the beaches of Cape Coast", which prefigures her entry into the dream of the firewoman. In her dream, she recalls being taken to this same beach by the missionaries, only to be attracted to water, whose "color she had never had a word for because nothing like it appeared in her world" <ref type="bibr">(Gyasi 2016, 196)</ref>. Akua, tellingly, has no name for the water's colour; she therefore has no opportunity to label, categorize, and produce stable meaning. Dream, memory, and materiality are interwoven here in animist terms without privilege, at a specific site: the Cape Coast shoreline, evoked in memory and as a doubled site of animist realism, as present in dream form as in the material world inhabited by the characters. Hope is thus drawn outward from Akua herself within a specific material, human, and family relation.</p><p>Lest the novel be seen as idealizing nature, it is worth noting that Akua's own healing takes a long time. She is demonized by her village and spends decades as a recluse, until the reconciliation with her son Yaw. Here, it is worth recalling the haunting sasa: the dead ancestors on Esi's side of the family, those who perished from enslavement on Effia's side. Akua, as Effia's descendant, loses her own daughters to the same metaphoric fire that resulted in Esi's enslavement. Accordingly, Akua is haunted by the osamang ("ghost-souls or the spirits of the dead") until the appropriate "medicine" has been applied <ref type="bibr">(Akesson 1965, 290, 288)</ref>. Significantly, she appears in his chapter as a figure whom Yaw must decipher on his own to make sense of her past actions. This interweaving of Akua's and Yaw's stories demonstrates an animist materiality, which "rejects linearity" in order to attend to the "complex embeddedness" of multiple forms of time, "discordant discursive formations, and different epistemological perspectives within the same historical moment" <ref type="bibr">(Garuba 2012, 7)</ref>. Such a materiality gives us, as Caroline <ref type="bibr">Rooney (2000, 4)</ref> puts it, "an extreme experience of the real: being at one with life". In maintaining the distinction between loss, absence, and lack, the animist structure of Akua's story addresses the "embedded injustices" <ref type="bibr">(Karmakar 2025, 320)</ref> of its characters at an aesthetic level. More broadly, the text begins to gesture to the creative and "generative power of hope" that offers "the outlines of a better world" <ref type="bibr" target="#b2">(Bloch 1996;</ref><ref type="bibr">quoted in Mauch 2019, 19)</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Homegoing as hopegoing</head><p>Thus far, this article has argued that both human and non-human matter, in Homegoing, partake of a mutually constitutive and implicative relation. This aesthetic openness is where the question of hope, or what is called a hopegoing, may be expanded. Here, I draw on Mauch's conception of slow hope, which rejects any swift and potentially exhausting action in favour of an "ecological and social deceleration" or "stretching of the present"as well as the acknowledgement "that we may need to slow down ourselves" <ref type="bibr">(2019,</ref><ref type="bibr">39)</ref>. In this way, slow hope turns Homegoing away from purely ecological and anthropocentric orientations, replacing the linear time of "healing" from trauma with an animist and planetary sense of time that is "both malleable and infinite" (40).</p><p>Discussing the conclusion to Homegoing, Asempasah, Sam, and Abelumkemah argue that the "reunion [ . . . ] has little to do with the human characters, Marjorie and Marcus, and more to do with the sea that separated their common ancestry (2022, 5). Indeed, matter of all kinds exerts a considerable pressure on anthropocentric ideas of human agency and their attendant reliance on individualist notions of hope. However, I want to challenge the notion that hope in Gyasi's text has "little to do" with the characters involved. Such a human-nature duality, I suggest, is itself evidence of an anthropocentric inflection to criticism of Homegoing. Although each chapter has the title of a character, hope inevitably widens beyond character title, agency, and intentionality. In the remainder of the article, I argue that Homegoing builds a series of apparently hopeless historical accounts of the trauma of the oppressed into its conclusion, where "crises [become] the antithesis to a status quo <ref type="bibr">[and]</ref> every hopeful synthesis forms a new level" <ref type="bibr">(Mauch 2019, 23)</ref>.</p><p>Non-human matter, in Homegoing, exerts pressure on the literary dimension of narrative agency, since it acts as both character and site for transformation. In this move, it offers a powerful decolonial representation of hope which is not tied to sites of human agency. Hope, as the examples of Akua and Ness illustrate, is deferred past the point of temporal action in the present, the co-respondent nature of the novel militating against any conception of hope tied to modernity, humanity, and Enlightenment-era rational progress. The connections that Marcus and Marjorie form at the end of the novel are tensive and provisional. Just as significantly, they have little to do with individual resilience. The trigger for Marcus's trauma is given within third-person internal focalization, not spoken aloud:</p><p>How could he explain to Marjorie that he wasn't supposed to be here? Alive. Free. That the fact that he had been born, that he wasn't in a jail cell somewhere, was not by dint of his pulling himself up by the bootstraps, not by hard work or belief in the American Dream, but by mere chance. He had only heard tell of his great-grandpa H from Ma Willie, but those stories were enough to make him weep and to fill him with pride. Two-Shovel H they had called him. But what had they called his father or his father before him? What of the mothers? They had been products of their time, and walking in Birmingham now, Marcus was an accumulation of these times. <ref type="bibr">(Gyasi 2016, 296)</ref> The conversation with Marjorie occurs before they journey to Ghana to visit the burnedout relic of the Cape Coast Castle. At this late stage in the novel, reader experience adds a layer of dramatic irony to the scene, based on greater knowledge about any of Marcus's ancestors than Marcus himself, including the fact that his distant ancestor, Esi, was once enslaved. Nonetheless, Marcus is still aware that he is an "accumulation" of the times that precede him, and, insofar as those times bear material weight, they exist in him, spilling over into his consciousness.</p><p>It is possible to read Marcus's fear of water as evidence of how Homegoing "traces the cross-generational epigenetic transmission of emotional trauma and resilience triggered by slavery and anti-Black racism" <ref type="bibr">(Mikić 2023, 103</ref>). Gyasi's novel certainly draws attention to that possibility when Marcus, just after reflecting on his family's traumatic history, tells Marjorie that he dislikes the ocean because he has "no idea where it begins" (296). However, the novel's relationship with generational trauma is both material and metaphoric, represented by the black stones on both sides of the family tree. These stones are literal, tangible reminders of the traumatic inheritance that Marcus and Marjorie receive in different forms: Marjorie retains her stone, while Marcus does not have possession of his, since it was lost during Esi's enslavement. Here, in Marcus's unvoiced thoughts about his ancestors, dialogic voices are lodged in his focalization. Intimacy with the past is not simply inferred or gestured to; it is articulated within an excessive textual consciousness, making ancestral spirits "dwell" in Marcus's thoughts, and enfolding readers into this relation, and thereby undermining "the long-established division between [ . . . ] living beings and things, between human subjects and nonhuman objects" <ref type="bibr">(Mauch 2019, 28</ref>).</p><p>Mauch's concept of slow hope finds expression not just in Marcus's survival, but also in how the narrative accretion of stories in Homegoing builds an "open-ended" vision of the future <ref type="bibr">(Mauch 2019, 24)</ref>. Marcus is indeed an accretion of ancestor spirits, though he is still his own person. Conversely, Marjorie's grandmother, Akua, speaks directly to her until her death, acting as a conduit between Marjorie and her ancestors. Akua's textual centrality keeps alive the distinction between absence, loss, and lack, offering an alternative method of fulfilling LaCapra's vision of an "unfinished, unfinalizable interplay of forces involving a series of substitutions without origin" <ref type="bibr">(2001,</ref><ref type="bibr">55)</ref>. In narrative and spiritual terms, Akua serves as the animist locus of the text: looking back to both historical loss and transhistorical absence, and looking ahead to a future in which hope must speak to more than just the individual traumas of the two descendants of Effia and Esi. Since ancestral spirits, including Akua, are speaking through and to Marjorie and Marcus, they are decentred without being trivialized or cut off from the broader context of their ancestral past.</p><p>Marcus's resilience, ultimately, is not merely his own; he has inherited not just trauma, but a fulcrum for his eventual re-enchantment with his own surroundings, which only takes place once he is immersed in the water that he has feared his whole life. This immersion occurs just moments after he has fled the Cape Coast Castle, but also after he has helped Marjorie overcome her own fear by guiding her towards and past two men "building a dazzling fire with flames that licked out and up, crawling toward the water" <ref type="bibr">(Gyasi 2016, 299)</ref>. Fire and water are explicitly juxtaposed, with Marcus noting that his fear is "like the fire, a wild thing that could still be controlled, contained". Control and containment proceed out of an animist aesthetic, keyed to the specific site of the waters near the Cape Coast Castle, providing hope in the relational and the material, not simply for Marcus and Marjorie. Fire can only be controlled in proximity to water at this place, in this historical and cultural moment, not universally across time. Marcus, with Marjorie's help, gives himself over to "all the water before him", and the two of them laugh, finding some release from their pain (300). At this moment, Marcus prioritizes "speaking differently" over "arguing well" (Richard Rorty quoted in <ref type="bibr">Mauch 2019, 18)</ref>, since he gives up rationalizing his feelings without succumbing to the imprint of his generational trauma. Effia's black stone necklace, first encountered at the beginning of the novel in the 18th-century Gold Coast, is present here in contemporary Ghana, as Marcus observes how "the glints of gold come off it, shining in the sun", immediately before Marjorie places it around his neck. In this provisional moment, hope gains its strongest enmeshment in the spiritual and the material, which implicates and includes humans without granting them mastery, or even the certainty of resolution.</p><p>If Louise Green's (2018) discussion of the animist fetish object is considered as "something that acts on and constrains conduct" while resisting "any universalizing impulse" (317), it is possible to see how the black stone necklace signifies a modulating form of animist time whenever it appears. The present has been "stretched", to use Mauch's word, so that the osamang may be finally appeased. This structural and aesthetic move draws us into a planetary scale, given the scope of the novel, which has moved between the African and North American continents over a span of hundreds of years only to end at the same shoreline where the Cape Coast Castle once contained enslaved people, in the contemporary moment, with Marcus characterizing the water before him as "the vast expanse of time and space" <ref type="bibr">(Gyasi 2016, 300)</ref>. If bodies of water, in Akan terms, "play a role in rites of individual and collective transitions from the profane to the sacred state" <ref type="bibr">(Hagan 1978, 2)</ref>, then Marcus's immersion here gestures to the collective in both symbolic and material terms. Hope is not yet here, but is emergent in a planetary and animist sense of time, which Marcus experiences without the illusion of closure.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Conclusion: Hope as a going-towards</head><p>This article has argued that Homegoing makes animist materiality central to the representation of decolonial hope. Rather than being driven by "unforeseen rescues by an extraordinary figure" <ref type="bibr">(Karmakar 2025, 326</ref>), Gyasi's novel takes place within a realm of "stories, visions, and actions that work quietly towards a more hopeful future" <ref type="bibr">(Mauch 2019, 20)</ref>. In foregrounding the provisionality of healing, Homegoing conceptualizes hope without succumbing to anthropogenic notions of human primacy, subtended by an animist consciousness "constructed on a relationship between the object world and a self that is mediated by meaning" <ref type="bibr">(Garuba 2003, 279)</ref>. This foregrounding also widens the hope inherent in the task of working through trauma. Hope is a going-towards, a self-object relationship continually in process and mirrored in the gerund of the novel title, undoing notions of human-nature duality. It is thus a slow hope, with a pace that matches the "creeping character" of the slow violence that occasions it <ref type="bibr">(Mauch 2019, 20)</ref>. Matter stains the novel, forcing it to be corespondent with animist pathways of meaning, which are partial structures, neither wholly open nor wholly closed. In this way, the animist hopegoing of Homegoing helps orient us towards "the continuous interrelation of all beings or of matter itself" <ref type="bibr">(Harvey 2014, 6)</ref>. Hope, in other words, must always contain more than the human.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Notes</head><p>1. The Cape Coast Castle and other real-life sites of enslavement "were designated as national monuments in 1972," and later "inscribed on the UNESCO World Heritage list for their historic role in European-African interactions and the emergence of the globalised world" <ref type="bibr">(Kankpeyeng 2009, 209-210)</ref>. 2. "Diasporic Africans" now view sites such as the Cape Coast Castle "as places of pilgrimage"</p><p>and "centres of spiritual reverence," which provide concrete connections to both literal (ancestral) and symbolic homelands <ref type="bibr">(Kankpeyeng 2009, 210)</ref>. 3. Although Hogan has reservations about the term "animism", preferring instead to refer to it as a tradition, it is retained because it is used most frequently in scholarship. 4. Read in conventional terms, something appears to have materialized out of nothing in aesthetic terms. But here, the novel conforms to an animist reading of continuity theory, which contends that "consciousness co-emerged with matter and co-evolves with it" <ref type="bibr">(Velmans 2014, 371)</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Disclosure statement</head><p>No potential conflict of interest was reported by the author(s).</p></div>		</body>
+		<back>
+
+			<div type="funding">
+<div><head>Funding</head><p>The author(s) reported there is no funding associated with the work featured in this article.</p></div>
+<div><head>Notes on contributor</head><p><rs type="person">Jay Rajiva</rs> (he/him) is assistant professor of decolonizing, transnational, and diasporic literatures at the <rs type="institution">University of Saskatchewan</rs>. His second book, Toward an Animist Reading of Postcolonial Trauma Literature (2020), uses the conceptual framework of animism, the belief in the spiritual qualities of non-human matter, to analyse representations of trauma in postcolonial fiction from Nigeria and <rs type="person">India. He</rs> is also the author of Postcolonial Parabola: Literature, Tactility, and the</p></div>
+			</div>			<div type="annex">
+<div xmlns="http://www.tei-c.org/ns/1.0"> <ref type="bibr">Ethics of Representing Trauma (2017)</ref><p>. His scholarship has appeared in journals such as Studies in the Novel, 20th-century Literature, ARIEL, and Angelaki: Journal of the Theoretical Humanities.</p></div>			</div>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<analytic>
+		<title level="a" type="main">The Akan Concept of the Soul</title>
+		<author>
+			<persName><forename type="first">Sam</forename><forename type="middle">K</forename><surname>Akesson</surname></persName>
+		</author>
+		<idno type="DOI">10.1093/oxfordjournals.afraf.a095431</idno>
+		<ptr target="https://doi.org/10.1093/oxfordjournals.afraf.a095431" />
+	</analytic>
+	<monogr>
+		<title level="j">African Affairs</title>
+		<imprint>
+			<biblScope unit="volume">64</biblScope>
+			<biblScope unit="issue">257</biblScope>
+			<biblScope unit="page" from="280" to="291" />
+			<date type="published" when="1965">1965</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<title level="a" type="main">A Postcolonial Ecocritical Reading of Yaa Gyasi&apos;s Homegoing (2016) and Kwakuvi Azasu&apos;s The Slave Raiders</title>
+		<author>
+			<persName><forename type="first">Rogers</forename><surname>Asempasah</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Christabel</forename><forename type="middle">Aba</forename><surname>Sam</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Bertrand</forename><surname>Azagsizua</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Abelumkemah</forename></persName>
+		</author>
+		<idno type="DOI">10.1080/23311983.2022.2145669</idno>
+		<ptr target="https://doi.org/10.1080/23311983.2022.2145669" />
+	</analytic>
+	<monogr>
+		<title level="j">Cogent Arts &amp; Humanities</title>
+		<imprint>
+			<biblScope unit="volume">9</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="1" to="13" />
+			<date type="published" when="2004">2022. 2004</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<monogr>
+		<author>
+			<persName><forename type="first">Ernst</forename><surname>Bloch</surname></persName>
+		</author>
+		<title level="m">The Principle of Hope. Third American</title>
+		<imprint>
+			<publisher>MIT Press</publisher>
+			<date type="published" when="1996">1996</date>
+			<biblScope unit="volume">2</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<monogr>
+		<author>
+			<persName><forename type="first">Arturo</forename><surname>Escobar</surname></persName>
+		</author>
+		<title level="m">Pluriversal Politics: The Real and the Possible</title>
+		<imprint>
+			<publisher>Duke University Press</publisher>
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title level="a" type="main">Explorations in Animist Materialism: Notes on Reading/Writing African Literature, Culture, and Society</title>
+		<author>
+			<persName><forename type="first">Harry</forename><surname>Garuba</surname></persName>
+		</author>
+		<idno type="DOI">10.1215/08992363-15-2-261</idno>
+		<ptr target="https://doi.org/10.1215/08992363-15-2-261" />
+	</analytic>
+	<monogr>
+		<title level="j">Public Culture</title>
+		<imprint>
+			<biblScope unit="volume">15</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="261" to="285" />
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title level="a" type="main">On Animism, Modernity/Colonialism, and the African Order of Knowledge: Provisional Reflections</title>
+		<author>
+			<persName><forename type="first">Harry</forename><surname>Garuba</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">E-Flux</title>
+		<imprint>
+			<biblScope unit="volume">36</biblScope>
+			<biblScope unit="page" from="1" to="9" />
+			<date type="published" when="2012-07">2012. July</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title level="a" type="main">Thinking outside the Body: New Materialism and the Challenge of the Fetish</title>
+		<author>
+			<persName><forename type="first">Louise</forename><surname>Green</surname></persName>
+		</author>
+		<idno type="DOI">10.1017/pli.2018.13</idno>
+		<ptr target="https://doi.org/10.1017/pli.2018.13" />
+	</analytic>
+	<monogr>
+		<title level="j">Cambridge Journal of Postcolonial Literary Inquiry</title>
+		<imprint>
+			<biblScope unit="volume">5</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="304" to="317" />
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">Yaa</forename><surname>Gyasi</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<monogr>
+		<title level="m" type="main">Water and Spirituality in Some African Cultures and Traditions</title>
+		<author>
+			<persName><forename type="first">George</forename><surname>Hagan</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Panyin</surname></persName>
+		</author>
+		<ptr target="https://www.humandevelopment.va/content/dam/sviluppoumano/water-resources/33.pdf" />
+		<imprint>
+			<date type="published" when="1978">1978</date>
+		</imprint>
+	</monogr>
+	<note>Human Development: 1-20. Online article</note>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title level="a" type="main">Introduction</title>
+		<author>
+			<persName><forename type="first">Graham</forename><surname>Harvey</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">The Handbook of Contemporary Animism</title>
+		<editor>
+			<persName><forename type="first">Graham</forename><surname>Harvey</surname></persName>
+		</editor>
+		<imprint>
+			<publisher>Routledge</publisher>
+			<date type="published" when="2014">2014</date>
+			<biblScope unit="page" from="1" to="12" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<monogr>
+		<title level="m" type="main">Decolonizing the Mind</title>
+		<author>
+			<persName><forename type="first">Sandew</forename><surname>Hira</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2023">2023</date>
+			<publisher>Amrit Publishers</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title level="a" type="main">We Call It Tradition</title>
+		<author>
+			<persName><forename type="first">Linda</forename><surname>Hogan</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">The Handbook of Contemporary Animism</title>
+		<editor>
+			<persName><forename type="first">Graham</forename><surname>Harvey</surname></persName>
+		</editor>
+		<imprint>
+			<publisher>Routledge</publisher>
+			<date type="published" when="2014">2014</date>
+			<biblScope unit="page" from="17" to="26" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<title level="a" type="main">The Slave Trade in Northern Ghana: Landmarks, Legacies and Connections</title>
+		<author>
+			<persName><forename type="first">Benjamin</forename><forename type="middle">W</forename><surname>Kankpeyeng</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Slavery and Abolition</title>
+		<imprint>
+			<biblScope unit="volume">30</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="209" to="221" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<title level="a" type="main">Decolonial Hope and Planetary Solidarity: Fostering Sustainability through African Life Narratives</title>
+		<author>
+			<persName><forename type="first">Goutam</forename><surname>Karmakar</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/17449855.2025.2454571</idno>
+		<ptr target="https://doi.org/10.1080/17449855.2025.2454571" />
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Postcolonial Writing</title>
+		<imprint>
+			<biblScope unit="volume">61</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="313" to="330" />
+			<date type="published" when="2025">2025</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<monogr>
+		<title level="m" type="main">Writing History, Writing Trauma</title>
+		<author>
+			<persName><forename type="first">Dominick</forename><surname>Lacapra</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2001">2001</date>
+			<publisher>Johns Hopkins University Press</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title level="a" type="main">Black Is Black Is Black? African Immigrant Acculturation in Chimamanda Ngozi Adichie&apos;s Americanah and Yaa Gyasi&apos;s Homegoing</title>
+		<author>
+			<persName><forename type="first">Ava</forename><surname>Landry</surname></persName>
+		</author>
+		<idno type="DOI">10.1093/melus/mly044</idno>
+		<ptr target="https://doi.org/10.1093/melus/mly044" />
+	</analytic>
+	<monogr>
+		<title level="j">MELUS: Multi-Ethnic Literature of the United States</title>
+		<imprint>
+			<biblScope unit="volume">43</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="127" to="147" />
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<title level="a" type="main">Children of Fire and Water: Motherhood, Migration, and Home in Yaa Gyasi&apos;s Homegoing</title>
+		<author>
+			<persName><forename type="first">Delinda</forename><surname>Marzette</surname></persName>
+		</author>
+		<idno type="DOI">10.1353/scr.2021.0038</idno>
+		<ptr target="https://doi.org/10.1353/scr.2021.0038" />
+	</analytic>
+	<monogr>
+		<title level="j">South Central Review</title>
+		<imprint>
+			<biblScope unit="volume">38</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="102" to="108" />
+			<date type="published" when="2021">2021</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<analytic>
+		<title level="a" type="main">Slow Hope</title>
+		<author>
+			<persName><forename type="first">Christof</forename><surname>Mauch</surname></persName>
+		</author>
+		<idno type="DOI">10.5282/rcc/8556</idno>
+		<ptr target="https://doi.org/10.5282/rcc/8556" />
+	</analytic>
+	<monogr>
+		<title level="j">RCC Perspectives</title>
+		<imprint>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="1" to="43" />
+			<date type="published" when="2019">2019</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<analytic>
+		<title level="a" type="main">Race, Trauma, and the Emotional Legacies of Slavery in Yaa Gyasi&apos;s Homegoing</title>
+		<author>
+			<persName><forename type="first">Marijana</forename><surname>Mikić</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Ethnic American Literatures and Critical Race Narratology</title>
+		<editor>
+			<persName><forename type="first">Alexa</forename><surname>Weik Von Mossner</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">Marijana</forename><surname>Mikić</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">Mario</forename><surname>Grill</surname></persName>
+		</editor>
+		<imprint>
+			<publisher>Routledge</publisher>
+			<date type="published" when="2023">2023</date>
+			<biblScope unit="page" from="100" to="115" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<analytic>
+		<title level="a" type="main">Rooting Routes to Trans-Atlantic African Identities: The Metaphor of Female Descendancy in Yaa Gyasi&apos;s Homegoing</title>
+		<author>
+			<persName><forename type="first">Nonki</forename><surname>Motahane</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Oliver</forename><surname>Nyambi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Rodwell</forename><surname>Makombe</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/14725843.2020.1788505</idno>
+		<ptr target="https://doi.org/10.1080/14725843.2020.1788505" />
+	</analytic>
+	<monogr>
+		<title level="j">African Identities</title>
+		<imprint>
+			<biblScope unit="volume">19</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="17" to="30" />
+			<date type="published" when="2021">2021</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<monogr>
+		<title level="m" type="main">Toward an Animist Reading of Postcolonial Trauma Literature</title>
+		<author>
+			<persName><forename type="first">Jay</forename><surname>Rajiva</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2020">2020</date>
+			<publisher>Routledge</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<analytic>
+		<author>
+			<persName><forename type="first">Caroline</forename><surname>Rooney</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">African Literature, Animism and Politics</title>
+		<title level="s">Routledge Research in Postcolonial Literatures</title>
+		<imprint>
+			<publisher>Routledge</publisher>
+			<date type="published" when="2000">2000</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<analytic>
+		<title level="a" type="main">Reclaiming Animism</title>
+		<author>
+			<persName><forename type="first">Isabelle</forename><surname>Stengers</surname></persName>
+		</author>
+		<ptr target="https://www.e-flux.com/journal/36/61245/reclaiming-animism" />
+	</analytic>
+	<monogr>
+		<title level="j">E-Flux</title>
+		<imprint>
+			<biblScope unit="volume">36</biblScope>
+			<biblScope unit="page" from="1" to="10" />
+			<date type="published" when="2012-07">2012. July</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<analytic>
+		<title level="a" type="main">This Ain&apos;t the Way It&apos;s S&apos;posed to Be&apos;: Negotiating Trauma Through Postmemory and Implication in Yaa Gyasi&apos;s Homegoing</title>
+		<author>
+			<persName><forename type="first">Dirk</forename><surname>Van Rens</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/0013838X.2023.2234218</idno>
+		<ptr target="https://doi.org/10.1080/0013838X.2023.2234218" />
+	</analytic>
+	<monogr>
+		<title level="j">English Studies</title>
+		<imprint>
+			<biblScope unit="volume">104</biblScope>
+			<biblScope unit="issue">5</biblScope>
+			<biblScope unit="page" from="766" to="788" />
+			<date type="published" when="2023">2023</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<analytic>
+		<title level="a" type="main">Sentient Matter</title>
+		<author>
+			<persName><forename type="first">Max</forename><surname>Velmans</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">The Handbook of Contemporary Animism</title>
+		<editor>
+			<persName><forename type="first">Graham</forename><surname>Harvey</surname></persName>
+		</editor>
+		<imprint>
+			<publisher>Routledge</publisher>
+			<date type="published" when="2014">2014</date>
+			<biblScope unit="page" from="363" to="372" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<analytic>
+		<title level="a" type="main">Climate Change and the Imagination</title>
+		<author>
+			<persName><forename type="first">Kathryn</forename><surname>Yusoff</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Jennifer</forename><surname>Gabrys</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Wiley Interdisciplinary Reviews: Climate Change</title>
+		<imprint>
+			<date type="published" when="2011">2011</date>
+			<biblScope unit="volume">2</biblScope>
+			<biblScope unit="page" from="516" to="534" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

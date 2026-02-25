@@ -1,0 +1,462 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Navigating neurotechnology and astrobiology in Richard Powers&apos;s Bewilderment</title>
+				<funder ref="#_UJKkcY8">
+					<orgName type="full">NSTC</orgName>
+				</funder>
+				<funder>
+					<orgName type="full">National Science and Technology Council</orgName>
+				</funder>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName><forename type="first">Karen</forename><surname>Ya</surname></persName>
+						</author>
+						<author role="corresp">
+							<persName><forename type="first">Chu</forename><surname>Yang</surname></persName>
+							<email>yang37@nycu.edu.tw</email>
+						</author>
+						<author>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Foreign Languages and Literatures</orgName>
+								<orgName type="institution">National Yang Ming Chiao Tung University</orgName>
+								<address>
+									<settlement>Hsinchu City</settlement>
+									<country key="TW">Taiwan</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff1">
+								<orgName type="department">Department of Foreign Languages and Literatures</orgName>
+								<orgName type="institution">National Yang Ming Chiao Tung University</orgName>
+								<address>
+									<addrLine>No. 1001 Daxue Rd. East District</addrLine>
+									<settlement>Hsinchu City 300</settlement>
+									<country key="TW">Taiwan</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Navigating neurotechnology and astrobiology in Richard Powers&apos;s Bewilderment</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date/>
+						</imprint>
+					</monogr>
+					<idno type="MD5">6875E5DB693FF703071B086F9F830B33</idno>
+					<idno type="DOI">10.1080/00111619.2025.2610289</idno>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.0" ident="GROBID" when="2026-02-25T19:54+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>This paper explores Richard Powers's Bewilderment (2021) and its engagement with neurotechnology and astrobiology, focusing on the intertwined intricacies of feeling and thinking to examine how explorations of the neurological brain and the speculative diversity of life beyond our planet open new pathways for navigating personal and environmental crises. The novel is narrated from the perspective of university astrobiologist Theo Byrne, tasked with raising his behaviorally challenged son, Robin, following the sudden death of his wife, Aly, an animal rights environmentalist. In an effort to help his son, whose sensitivity and emotional volatility have intensified since his mother's death, Theo enrolls Robin in an experimental decoded feedback therapy that uses Aly's brain recordings. This paper discusses how Powers's novel depicts attempts to facilitate empathetic emotions to cultivate self-other connections through neurotechnological tools and astrobiological hypotheses, while acknowledging how technical limitations and conjectural uncertainties complicate these processes.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>In Bewilderment (2021), Richard Powers develops the neuro-ecological inquiries initiated in his earlier work The Echo <ref type="bibr">Maker (2006)</ref>, reframing their emotional and cognitive contours using current neurofeedback technology and astrobiological research. Both novels present a neurological exploration of instances involving emotional and cognitive estrangement and quests for attunement with oneself and with human and nonhuman others. Examining the constraints in and capacities for forming self-other connections amid mounting ecological distress, The Echo Maker structurally shifts its characters' perspectives to entangle emotions and experiences; whereas, Bewilderment features a first-person narrator who probes technoscientific innovations and speculations for seeking interconnectivity. Bewilderment is narrated from the perspective of university astrobiologist Theo Byrne, who is tasked with raising his behaviorally challenged son, Robin, after the sudden death of his wife Aly, an animal rights environmentalist. In an effort to help his son, whose sensitivity and emotional volatility intensified after the mother's death, Theo enrolls Robin in an experimental decoded neurofeedback (DecNef) training program that uses recorded data from Aly's brain. Bewilderment showcases the training of the brain through alignment with another's brain scans, thereby, extending The Echo Maker's contemplative queries about affective affinity toward a vision of empathetic attunement using neurotechnology. The novel also looks beyond Earth, thereby, expanding Powers's nonhuman considerations to extraterrestrial life and other planetary environments.</p><p>Given its recency, the limited scholarship on Bewilderment recognizes the intersection of consciousness, emotion, and the ecological environment in the novel. For instance, Grant McMillan's "'Everything will be dead': The Eco-Activist Archetype in a Time of Bewilderment" reads Powers's novel as indicative of shifts within U.S. environmentalist movements. In his essay, McMillan employs Timothy Morton's concept of the "hyperobject" and its three attunements-hypocrisy, weakness, and lameness-to analyze Robin as representative of the contemporary youth eco-activist. While McMillan argues for the novel to be considered "a depiction of how this individualistic archetype collapses in the increasingly global, hyperobject world of environmental crisis in the 2020s" (6), Cameron Bushnell concentrates more on Morton's "ecological thought," or what Gregory Bateson calls an "ecology of mind," to discuss four of Powers's novels-Bewilderment, Overstory, Orfeo, and Generosity. Bushnell argues that these novels try different modes of expansionary thinking to "badge[r] readers from their comfortable mindsets into outlooks that break current frames of mind" (36). This essay expands on these readings, directing greater attention toward Bewilderment's engagement with neurotechnology and astrobiology. Specifically, it considers the entwined intricacies of feeling and thinking to examine how Powers's exploration of neurotechnological advancements and the speculative diversity of life beyond our planet help activate new channels to navigate responses to personal and environmental crises.</p><p>Whether searching inward into the neurobiological brain or venturing outward into the vast universe, Bewilderment explores the scientific disciplines to seek out self-other connections through emotional renderings. Neuroscientist Antonio Damasio's discussion on mind and selfhood emphasizes the importance of feeling, for feelings "allow us to experience and become conscious, to unify our mental holdings around our singular being" (Feeling and Knowing 149). In discussing human consciousness, Joseph E. LeDoux addresses the "narrative quality of the mind" and references cognitive scientist pioneer Jerome Bruner's view that "one's understanding of oneself is 'storied,' or narrative, in structure" (The Four Realms of Existence 284). In their separate works, both Damasio and LeDoux consider the biological and neurological basis of emotion and its relevance to cognitive and conscious feeling, highlighting how the adaptable brain channels these emotions and feelings into narratives of the mind that create the experience of the self. Powers's text examines these emotional narratives of the mind through its protagonists' engagement with self-other connections via DecNef practices and exoplanetary renderings. In the novel, Robin's neurofeedback training sessions adjust his neural pathways, heightening his empathetic compassion toward nonhuman life, on Earth and beyond. Theo's exoplanet passages interweave factual speculation with imaginative storying, demonstrating the fusion of thought and emotion by translating astrobiological formulas into adventurous explorations that stir curiosity and provide solace.</p><p>Astrobiology relies on scientific speculation and comparative analysis, a foundation that Powers deepens and expands through depictions of empathetic engagement in Bewilderment. To contemplate alien realms and life forms not only through cognitive imagination but also with emotional resonance enhances the stimulating impact of the novel's border-crossing ventures. In Affective Neuroscience in Psychotherapy, Francis L. Stevens explores the intricate relationship linking emotion, cognition, and behavior through empathy. According to Stevens, neuroscientific research shows that empathy is not a unitary process but involves both cognitive and affective components. Cognitive empathy involves "the ability to understand another's experience through perspective-taking," and affective empathy refers to "feeling someone's emotion" (100). When Theo and Robin visit Tedia-a planet perpetually cycling between death and resurrection-Robin practices both cognitive and affective empathy toward its residents' inevitable extinction. Theo relates, They greeted us, putting the Welcome directly into our heads. The aliens' telepathic transfer of cognitive information is perceived by Theo through physiological sensation as he "feel[s] their thoughts go into [Robin]" (152). Their message reveals Robin's integration of knowledge and emotion in responding to their conflicting plight. However, Robin's empathy proves misguided when the aliens explain that infinite regeneration surpasses endless eternity. This process of learning to feel and think otherwise with others culminates in the second-to-last planet story about Xenia, in which "fear and desire and hunger and fatigue and sadness and all other transitory feelings were lost in a shared grace, the way that separate stars are lost in the daytime sun" (254). On this planet, where "everyone was everyone's parent and everyone else's child, everyone's older sister and younger brother all at once," all are fundamentally interconnected (254). Bushnell suggests that through these exoplanet narratives, "the earthly father and son can project themselves into other minds, into the not-yet, but possible futures by gazing with intense concentration and imagination into the vast night sky" (50). He argues that "in thinking not as ourselves, but as inhabitants of those imagined places," the process of the "disintegration of self" leads to "developing planetary consciousness" and "thinking ecologically" (50). While this is indeed a worthy objective, because thinking affects feeling and vice versa, Robin, who both acknowledges and emotionally absorbs that "[e]verybody's inside everyone," can be overwhelmed by excessive interconnectivity <ref type="bibr">(Powers 191)</ref>.</p><p>As the novel progresses, despite Theo's sympathetic gestures, Robin becomes increasingly laden with grief and anxiety over worsening nature crises. LeDoux observes humans' empathetic connection to nonhuman others as genetically encoded through implicit memories underlying fundamental survival circuits. He writes that "[t]his nonconscious connection to life is, at a primitive level, a major factor that connects us to all members of our species, and to other species . . . We are empathic and anthropomorphic, not necessarily because we share feeling with others, but because nonconscious interactions between our a-noetic brains" (Anxious 232). In Bewilderment, these nonconscious inscriptions are brought to the mind's attention through neurotherapeutic training and planetary musing. By examining the links between thinking and feeling, Powers's novel engages Glenn Albrecht's conception of the psychoterratic, which "deals with the health relationship between the psyche and the biophysical environment," by not only tracing Robin's turbulent mood swings but also addressing his attentive perception and contemplation of these feeling experiences (64). Britt Wray, writing on climate change and mental health, maintains that "[p]eople are hurting because they can feel the Earth and its creatures hurting. I believe our species has entered this period, and we are in the early days of sensing all that it has awoken in us" (20). She also notes that "climate anxiety affects young people the most. They did not create this dangerous reality, but they have inherited it along with the duty to clean it up, and are often made aware of this before they've had the chance to figure out important aspects of their identity" (24). In Bewilderment, nine-year-old Robin actively seeks to regulate negative psychoterratic states and cultivate positive ones to veer away from humanity's current path of destruction to pave the way for a different future where "[e]verything will [not] be dead before [he] get[s] to tenth grade" (Powers 81). Nevertheless, as McMillan argues about Robin, "many of his tirades are directly related to impersonal global issues that cannot be fully separated from his personal life, because, for a boy highly attuned to the world of hyperobjects, there is no distinction between here and there" (9). This all-encompassing infinity of global disruption and ecological anxiety "forces readers interested in environmentalist action to reckon with the false promise of individually undertaken action" (17). As seen in the novel, Robin's multiple attempts to model his mother's activism yield few viable outcomes. This is because, as Wray contends, "[a]ctivism on its own is not the antidote to despair; acknowledging your feelings and connecting with others who share them, alongside taking action, is" (131). To find purpose in an age of climate anxiety, Wray stresses the need to turn inward to gain the emotional intelligence required for collective transformation.</p><p>In Bewilderment, Robin, who is acutely sensitive and prone to rage outbursts, undergoes neurofeedback training to help him modulate his feelings. The experiment is described as "resembl[ing] oldfashioned biofeedback, but with neural imaging for real-time, AI-mediated feedback" (Powers 87). Compared to biofeedback, this new method, DecNef, or decoded neurofeedback, uses fMRI scans of certain brain regions to steer trainees toward aligning their brain activity with that of individuals who have achieved higher levels of composure in an attempt to improve the trainee's emotional health and performance. While biofeedback encompasses a broader range of physiological activities, including "brainwaves, heart function, breathing, muscle activity, and skin activity," Robin's DecNef therapy centers on a combination of neural processes with AI technology during the modulation process <ref type="bibr">(Schwartz 17</ref>). Robin's doctor, Dr. Currier, describes Robin's training as comparable to practicing mindfulness or meditation, except that DecNef provides strong, immediate prompts to guide the participant toward the intended emotional state. Nevertheless, these practices also involve high levels of focused concentration, self-regulation, and repetitive practice. During meditation, cortical activity becomes slower compared to typical waking states, allowing for sustained focus on a single idea, and "[i]n this way, the brain can be trained to free itself from mental fixations and distressing emotions" <ref type="bibr">(Chalamish 177)</ref>. Similarly, by focusing on the present, mindfulness involves "understanding that all you ever really have is the present moment, and practicing a new way to inhabit and observe that moment: with a focus on allowing, accepting, and being fully aware of whatever you're experiencing" <ref type="bibr">(Pittman and Karle 193)</ref>. Achieving this state also entails paying closer attention to the body, for "[a] wareness of bodily sensations helps distract the individual from thoughts that are not related to the present and therefore helps the person experience the present" <ref type="bibr">(Hamiel and Rolnick 183)</ref>. Furthermore, as Stevens notes, "[p]hysiology of the body and mind want to match; it's hard to be in a state of panic if your body is relaxed" (114). In practice, concentrating the brain on the body and the present proves effective in calming nerves and easing anxiety.</p><p>Unlike meditation and mindfulness, which emphasize bodily awareness, Robin's DecNef training focuses on the neurobiological brain. Initially, Robin is asked to try moving a dot on the screen by controlling his emotions. The dot moves only when Robin enters the right mood. He then practices mentally directing the dot's movement and changing its color by regulating his emotions accordingly. This drill emphasizes thinking about emotion rather than experiencing it. The importance of thinking to feel is fundamental, as Catherine M. Pittman and Elizabeth M. Karle argue, because "[o]ur thoughts are not simply a result of neurological and chemical processes in the brain; they are the neurological and chemical processes in the brain . . . the thoughts you think are used to rewire your brain" (158). Essentially, altering patterns of thought modifies the cortex, which further affects how one feels; thus, as Robin continues to practice adjusting his neurobiological mechanisms of emotion to target archetypes, he becomes happier in appearance, as his teacher remarks on the growth of his selfcontrol and creativity. Robin describes the experience as "[i]t's like you have to learn to read the dot's mind. You learn what it wants you to think . . . I pretended I was drawing it. No. Wait. Like it was drawing me" (Powers 106-107). Robin's response highlights efforts to merge self and other during the exercises. As Robin continues to refine his emotional synchronization with the prerecorded templates, he starts referring to "the guys inside my head" (112) as "my team" and describes the effect as "feel[ing] like they're coming over to my house to hang out or something. Like we're doing stuff together, in my head" (109). By aligning his emotions with those of others, Robin's brain induces feelings of companionship and camaraderie, which equip him to disregard instances of peer ridicule that he encounters in reality, as seen when he nonchalantly brushes aside a prank played on him by taping jute twine to his rear belt loop.</p><p>The DecNef training not only enhances Robin's emotional self-control but also noticeably increases his empathetic awareness as the machine repeatedly coaxes his brain to feel as others do. In essence, Bewilderment revisits the fantasy of telepathy through a contemporary brain-computer interface (BCI) and a brain-to-brain interface (BBI). Discussing telepathy in literary texts of cosmic exploration, Mark Taylor remarks on the "emotional pull of telepathy" during "the unmediated meeting of minds," which encourages "the desire to know how others think and feel-both humans and nonhumans . . . not only listen to others, but also to identify as fully as possible with their state of minds" to cultivate "a better, broader sympathy" <ref type="bibr">(191)</ref><ref type="bibr">(192)</ref>). Robin's emotional development reflects these telepathic aspirations as his empathetic sensitivity continues to accumulate during the experimental treatment. When the trial proves successful, Dr. Currier suggests that Robin train with his late mother Aly's brain scan.</p><p>This shift marks a progression from BCI gaming to BBI perception, as Robin's learning target is no longer a template generated from big data but a specific other to whom he tries to adjust his feeling brain.</p><p>Responding to growing interests in Elon Musk's Neuralink and other brain-computer interfaces, Slavoj Žižek cautions against a "wired brain" that links mental processes to digital machines for direct sharing with others. Žižek warns that, in such cases, "the subject that will survive will thus not be the bearer of the wealth of inner experience-the wealth of feelings, passions, fears, dreams, and hopes and others could all be drowned in the collective space of Singularity," a common condition he terms posthuman capitalism (762). Michael Haworth also critiques the pursuit of techno-telepathies, arguing that telepathy "renders such interiority suspect, necessitating that we reconceive the relationship together" (166). Haworth ,therefore, considers this to be a move from telepathy to teleopoiesis, which can no longer be considered along the lines of the simple transmission of a message between two or more self-identical subjects; rather, each is reconstituted in and by the liaison. Like synchronicity, this is no longer a question of activity and passivity but a quasi-mysterious sharing or sympathy. So when we described the relationship as a form of symbiosis in which each subject gives birth to something that none possesses individually we could perhaps consider this, too, as being the respective manifestations-in me and in the other(s)-of the "same living reality." There is thus no stable dividing line between me and the other, for telepathy (or teleopoiesis) undermines the very notion of a fully constituted, separate, self-contained subject. Even death, that ultimate punctuation point, cannot be the locus at which this relationship is stabilized and the identity of the egos firmly fixed and isolated. (166-167)</p><p>Haworth's remark emphasizes shared resonances between self and other in which each cocreates something new through their different expressions of the same underlying vitality. This empathetic bond extends beyond the finality of death, and selfhood persists as dynamic and interconnected.</p><p>In Bewilderment, as Robin learns to feel what his deceased mother felt through neurofeedback, he begins to express heightened concern for animal activism, mirroring her commitments. Theo observes that Robin had "always been interested in <ref type="bibr">[birds]</ref>. But interest had turned to love, deep in his spine, as he trained on the print of her brain" (Powers 147). Theo's comment highlights increased interaction between body and brain as Robin trains with Aly's brain scan, recorded during a moment of ecstasy. By synchronizing his limbic system with his mother's, changes in Robin's cerebral cortices affect his spinal cord, which further amplifies his initial interest of birds into deep love for them. As Damasio explains, "The central nervous system can modify the body state that gives rise to a particular feeling and, by doing so, modify what is felt," Robin becomes increasingly passionate and eager to experience outdoor nature as his body reinstates its active role in the production of feelings (Feeling and Knowing 89). He exclaims, "Dad. I feel like I'm waking up. Like I'm inside everything. Look where we are! That tree. That grass!" (Powers 177). Robin's remark reminds Theo of Aly's claim that "if some small but critical mass of people recovered a sense of kinship, economics would become ecology. We'd want different things. We'd find our meaning out there" (177). Aly's comment resonates with Donna J. Haraway's appeal to "make kin symchthonically, sympoetically. Who and whatever we are, we need to make-with-become-with, compose-with-the earth-bound" (102). However, as neurobiological organisms, a person "requires a body, and that body, a human body to be sure, naturally generates one mind" <ref type="bibr">(Damasio,</ref><ref type="bibr">The Feeling of What Happens 143)</ref>. This principle of "one person, one body; one mind, one body" underscores the vital role of the body in forging "the singularity of self" (142). As Victoria Pitts-Taylor's notes in her work on embodied realism, "[T]he content of perception is tied to the bodily mechanism of its production" (49). The neurobiological body and brain jointly shape and restrict the process and content of thinking and understanding. In Powers's novel, Robin's neurotechnological training anticipates overcoming corporeal barriers to speculate on the probability of thinking and understanding like another through shared feeling. In practicing feeling what his mother felt, Robin shows growing enthusiasm for learning about other life forms, as seen when he closely observes an ant mound and a dug burrow, expressing that "[e]verybody out here wants me to know them" (Powers 158).</p><p>Theo questions Robin about his unexpected knowledge of other species, to which Robin dismissingly replies, "Mom knew all the birdsongs" (156). When asked when and where he studied them, Robin says that he "just listen[s] and like[s] them" and that he has had this knowledge all along (156). Theo's curious suspicions are challenged by Dr. Currier's assertion that Robin's DecNef is far from possessing telepathic prospects of transmitting memory and consciousness. When Theo asks Currier how Robin could have "learned half the birds Aly knew," the doctor assures him that Robin "can't get that from the training. He can't get anything from her brain print at all except a feel for that one emotional state of hers that he's learning to emulate" (171). Despite these limitations, Theo increasingly notices Robin's behavior and reactions resembling those of his mother. When asked by Theo, Robin describes his training experience as like their first night in the mountain cabin looking through the telescope. Theo recalls the event but is unable to distinguish the focal point of his son's recollection as he only knows that "[s]ome memory amazed him, either blackness or stars" (143). Just as he is tormented by his lack of information about the source of Aly's ecstatic brain recording, Theo also struggles to fully understand the changes in Robin's behavior and thoughts. When they walk around the neighborhood together, Robin watches and listens to the trees and birds with fascination while Theo is frustrated by the strange transformation in his son. Although he describes Robin's joy as contagious, Theo employs contrasting metaphors to characterize the differing nature of their feelings, stating that "Robbie's happiness and mine were as different as a tern on a thermal and a rubber-band prop plane" (157). While Theo considers Robin's soaring bliss as natural and effortless, his own mirrored joy appears mechanical and constrained. With Robin becoming increasingly similar to his mother, Theo feels estranged from their kinship, concluding that "[a] large part of this experiment consisted of training my son to unlearn the worst of the traits he'd gotten from me" (159). He repeatedly suggests that his son has become a different species. In contrast to Theo's alienation, Robin-who has been training with Aly's emotion-related brain scan-expresses that "Mom's all over" (158) and "[e]verybody's inside everyone" <ref type="bibr">(191)</ref>. In feeling the immense interconnectivity of all beings, Robin fully commits to becoming an animal activist like his late mother.</p><p>As an astrobiologist, Theo also belongs to a profession whose presumptive tendency seeks interconnectivity, particularly with other planets and extraterrestrial life. However, while Robin's neurofeedback experiment yields tangible and successful results, Theo's planetary explorations remain conjectural, and his NextGen Space Telescope project teeters on the verge of closure. NASA defines astrobiology as the study of the origin, evolution, and distribution of life in the universe. For eight years, Theo devoted himself to his work, assembling the Byrne Alien Field Guide, which is "basically a taxonomic catalog of all kinds of spectroscopic signatures collated to the states and types of possible extraterrestrial life that might make them" (172). His research involves constructing worlds and living atmospheres through evolving simulation models; however, his progress has stalled owing to a lack of "real-world data from real worlds, out there" (172). Their NextGen Space Telescope holds the promise of providing direct infrared images to finally offer knowledge "beyond all doubt, that one other world out there was alive," but in the midst of more-demanding crises, many criticize the investment as "a wild fling of cash and effort that made no practical difference in the world" (173). For Theo, astrobiology embodies his desire to solve the Fermi paradox: how, despite the vastness of the universe's time and space, no trace of alien life has yet been found. When explaining his research to Robin, Theo overlays his quest with that of his son's, interpreting Robin's elliptical question as an engagement with the Fermi paradox. He believes that Robin had "held on to the question since our first night in the cabin, looking through our telescope at the Milky Way: Where was everybody?" (27). His narration reinforces the pronoun "our" and conjoins his son's curiosity with his own. The novel's employment of the first-person narrative adds to the impression of solitariness, thereby, enhancing its characters' loneliness and yearning for shared resonance with others.</p><p>In exploring relations with other planetary environments and extraterrestrial life, astrobiology researchers argue for the field's productive contributions to the welfare of humans, nonhumans, and the Earth. Istvan Praet and Juan Francisco Salazar contend that "the manifold surprises you may encounter 'out there' also tell you something about 'us' here on this planet" (311). In other words, thinking about other planets and extraterrestrial life provokes "new understandings of humanness, environment, temporality," and interspecies relations <ref type="bibr">(Valentine, Olson, Battaglia 1010)</ref>. Building on the planetary theories of Gayatri Spivak, Paul Gilroy, and Bruno Latour, Lisa Messeri argues that [p]lanetary scientists find meaning in these new discoveries by imagining and talking about planets as places . . . <ref type="bibr">[which]</ref> suggests an intimacy that can scale down the cosmos on the level of human experience. To claim that the infinite field of stars is not an invitation to loneliness but a prompt for feeling the pull of cosmic companionship requires a powerful and pervasive understanding of these planets as worlds and places that relate to our own-that invite being. (2)</p><p>Messeri's research proposes practicing an earthly ethnography of other worlds that emphasizes relationality and companionship. Along similar lines, Joshua Schuster maintains that even if we cannot (yet) talk to aliens, we need to talk about aliens. If we are to understand our own planetary condition and assume responsibility for how we inhabit our planet, we need to practice a planetary thinking that includes awareness of how planets become habitable in different ways and how planets might arrive at social, biological, and technological bottlenecks or impasses. ( <ref type="formula">107</ref>)</p><p>These studies encourage contemplation of environments and life beyond Earth as a means of improving life on Earth. To imagine extraterrestrial life, according to Jaime Green, entails "figuring out what it means to be a conscious animal, what it means to be matter and alive" (20). In his book chapter on correlations between astrophysics and molecular biology, Gísli Pálsson further proposes explorations of "the 'universe' within the human body" (69). These various studies of astrobiology and anthropology uphold life as inseparable from the planetary environment it inhabits, aiming to expand understandings of living systems and the diversity of environmental contexts.</p><p>In Bewilderment, Theo's vivid depictions of hypothetical exoplanets consider their similarities with and differences from Earth, and his conversations with Robin reflect on the implications of these comparative observations along with the significance of contingency and change for abiotic and biotic systems. As Theo captions, "[t]he first lesson of the universe is to never reason from only a single stance. Unless you only have one instance. In which case: find another" (37). Robin similarly remarks that "[e]verything looks different on different planets. That's why we need to find them" (220). Presented as travel stories that Theo shares with his son, these accounts are sectioned and dispersed throughout the novel's narrative structure. The first story relayed is about Planet Dvau, which bears many similarities to Earth but runs barren because it does not have a moon to stabilize its spin. Theo corrects Robin's initial assumption that Dvau is either dead or younger than Earth, explaining that Earth has "[m]ore than a planet deserves" and that, without a contingency-such as a solar flare that burns up its atmosphere-Dvau would remain perpetually lifeless ( <ref type="formula">14</ref>). The significance of contingent occurrences is also conveyed during their visit to Nithar, a planet where sight is the weakest of the ten major senses. Here, Theo and Robin hear color, taste change across distance, sense surroundings through the pressures on their skin, and speak with radio waves. With eight hearts, they are also keenly sensitive to time, but on a planet where "the word forever was the same as the word never," they appear trapped in eternity (205). The crucial function of crisis and change is also highlighted in the chapter describing Planet Stasis, which closely resembled Earth, but because of its static nature, where each predator hunts only one prey and no creature ever migrates, the lack of adjustment and improvisation results in the absence of intelligence on the planet. In other words, without trouble, intelligence could not be created. Robin's response to this notion is both wonder and woe, as he replies that "[t]hen we'll never find anyone smarter than us" (114). Robin's remark offers a bleak forecast for humanity and Earth's future environment for the extraordinary capability of human intelligence is at once our burden and our marvel.</p><p>The pair's journeys to these alien planets also foreground divergences between father and son while charting the course of their shared learning. On Planet Geminus, Theo and Robin occupy opposite sides of the meridian-one side is perpetually bathed in relentless light and scorching heat, while the other lies shrouded in endless darkness and icy cold. Theo is trapped in the former, where residents live according to the sole belief of "Here and Now and this," resulting in the absence of scientific and artistic development (84). He eventually meets his son at the edge of darkness, but Robin stops his father's eager approach, calling out "Dad. Dad! You have no idea" (85). Theo realizes that, in the unknown darkness, Robin had not-as he had assumed-been tormented by cunning or depressed killers but had instead witnessed "change and time, cycles and variety. Math and stories, as countless, subtle, and various as the black-backed constellations" (85). Theo's experience on this planet reveals the perceptual restriction and rigidity caused by living in total brightness, which "block[s] out all signs of the universe" (84). The event highlights the need to engage mentally and physically with unknown spheres within oneself and with others to bring about growth and understanding. This notion resonates with climate psychologist Steffi Bednarek's discussion on the value of "stay[ing] with the chaos of complexity and the discomfort of the unknown for long enough to see what emerges beyond familiar patterns" (6). This desire to actively venture into the unknown is stronger in Robin, who, in their story of Nithar-the planet where forever equals never-relentlessly drills through the solid heaven to see what lies beyond the sky. Theo relates that after a millennia of lifetimes, Robin finally struck air, and "in one great rush of understanding, a revolution so great that nothing on Nithar survived it, my son discovered ice and crust and water and atmosphere and starlight and trapped and eternity and elsewhere" (206). Only by encountering the elsewhere do former constraints become apparent. However, this discovery also comes at the expense of those who remain unaware. Although Theo provides scientific framework of exoplanets in these passages, his stories accentuate Robin's active role in the excursions and his son's inquisitive exchanges with him. Robin is fascinated by these exoplanet hypotheses and his inquiries stimulate ecologically minded ways of thinking in his father. When they discuss the ever-multiplying colonial planet Mios, Robin interrupts his father's story to instead predict Mios's eventual failure because "[t]he flowers were going somewhere, and the ships weren <ref type="bibr">'t" (184)</ref>. This eco-aware remark echoes his preceding comment that "[w]e might not figure it out. But Earth will" (182). By visiting these exoplanets together through storytelling, Theo and Robin reflectively and reciprocally expand their understanding of themselves and one another, of humans and other life forms, from Earth to the universe beyond.</p><p>The exoplanet narratives and the DecNef training equip Robin with helpful techniques to regulate his emotions through the process of connecting with others. Consequently, when the neurofeedback experiment and Theo's Next Gen project get canceled, Robin loses his directorial guidance to pursue the hopeful alternative to the Anthropocene that Albrecht terms the "Symbiocene," which is characterized by "a period in the humanity on this Earth . . . by human intelligence and praxis that replicate the symbiotic and mutually reinforcing life-reproducing forms and processes found in living systems" <ref type="bibr">(Albrecht 102)</ref>. Unraveling, Robin expresses his anguish that he "can't even remember what [he] can't remember" and his distress in feeling that he and everything else were going backwards (Powers 255). Robin's comments reveal his uncertainty about the past and his inability to envision future change. In examining the relationship between anxiety and temporality, LeDoux contends that feelings of fear and anxiety are states of autonoetic consciousness-where one is aware of the self across time through remembering the past and imagining the future. He writes,</p><p>[a]lthough we live in the present, we humans live for the future, a mental quality that is rare, and maybe unique, in the animal kingdom. This takes a special kind of brain, one that can be self-aware of the relation of self to time. Autonoetic consciousness is our blessing and curse. It enables us to strive to achieve, but also to worry that we will fail. <ref type="bibr">(Anxious 233)</ref> Although anxiety may be primary to human survival, in Robin's case, worrying fear becomes magnified given his inconsequential role amid ecological deterioration and cosmic unreachability, resulting in his feeling of moving backwards and of doomed loneliness.</p><p>To cope with Robin's intensifying regression after the DecNef lab is shut down, Theo takes his son on a camping trip that foregrounds the viscerally experienced here and now. In the scene where they spot a heron, Theo describes how Robin and the heron remained fixed "for a long, hypnotic time" as "[t]hey stared each other down, my son's forward-facing eyes and the bird's sideways one. DecNef had ebbed from Robin, but not the knowledge of how to lock in to shimmering feedback" (Powers 264). Contrary to his previous agitation, Robin shows a rare stillness during his close encounter with the heron. His entire body follows the large bird attentively, shrieking in surprise and whooping in excitement when it catches its prey. His reactions send the heron into flight, but Robin "hung on the bird as it threaded the undergrowth and was gone. He went on staring at the spot where the great thing had disappeared," before finally turning to Theo and saying, "Mom's here" (264). For Robin, his intimate encounter with the bird evokes connective feelings of his mother's presence. Compared to the neurofeedback drills and exoplanet stories focused on training the brain, this experience in nature emphasizes the bodily grounding of emotional expression and conscious feeling. This effect is built up through the event prior to the heron sighting where Theo and Robin immerse their feet in freezing water and then try to thaw their numbed feet in agony. The narrative conveys conflicting somatosensory states, shifting between "relief and pain" when Robin's "laugh was a sob of pain" as he exclaims, "Red-footed booby bird" when he witnesses his brick-red calf (263). Theo's cryptic commentary -"Someday we'll learn again how to train on this living place, and holding still will be like flying"-calls for focusing on direct immediacies to forge liberating connections (264). Theo and Robin begin tearing down the myriad cairns disrupting the river, but they cannot remove them all. Theo assures his son that they can return when the weather warms to continue the work, and, to Theo's surprise, Robin placidly accepts this suggestion. Later that night, Robin remarks, "Listen to that . . . Can you believe where we are?" as he clasps his father and hushes him as they listen to the overlapping wild chords and music emanating from the creatures in the woods (269). His reverberating words capture the shared bewilderment of the moment, despite imperfect understanding and an unsettled sense of place.</p><p>Robin's subsequent accident, which results in his death, comes as a tragic shock revealed in the novel's last ten pages. Theo wakes to find Robin has gone out alone at night to continue dismantling the cairns and was caught in the water. Arriving too late, he fervently struggles to warm his shivering, moaning son, as the sounds of Robin's heartbeat and breath become gradually lost to the rushing water. The fleeting planet narrative that follows this devastating event is about a nameless orb that "couldn't figure out where everyone was. It died of loneliness. That happened billions of times in our galaxy alone" (275). The short passage punctuates Theo's loneliness as insurmountable and ubiquitous. For weeks, Theo isolates himself indoors, revisiting Robin's notebooks and drawings and reliving their moments together, until Dr. Currier sends a message with an under-the-table invitation to practice mirroring Robin's emotion recording. Like Robin trained with Aly's recordings, Theo now learns with Robin's. As he practices aligning his feelings with his son's, Theo describes, "[M]y brain learns how to resemble what it loves. And then one day, my son is here, inside my head as sure as life. My wife, too, still inside him. What they felt, then, I now feel" (277-278). Addressing the question -"Which is bigger? Outer space or inner"-Bewilderment closes with collaborative inquiries of neurology and astrobiology as Theo depicts alignments between his thoughts and that of Robin's as they "rise together into orbit high" to "see what's out there" (278). Robin's new question, "Can you believe where we just were" (278)-compared to his earlier inquiry, "Can you believe where we are" (269)-marks their movement into a future that extends beyond the present moment as experienced on Earth.</p><p>In exploring emotions through neuroscience and astrobiology, Powers's novel highlights the prominence of emotions to the mind and self, and more significantly, probes into considered efforts to maneuver emotions toward improved mind states and selfhood experiences. The novel not only describes how neurotechnological aids and astrobiological postulates hold promise in helping to cultivate and change one's way of feeling and thinking but also depicts the technical limitations and conjectural unknowns that complicate one's navigations. Currently, fMRI scans capture brain connectivity but their whole-brain field-of-view has low signal-to-noise and, therefore, contains much noisy data. Studying life beyond Earth models the probability of other planetary environments that have yet to become empirically tangible. Furthermore, because feeling and thinking involve both the brain and body, each affected by the surrounding environment, rewiring the brain alone-whether physically or mentally-proves inadequate in achieving substantial transformations. As Damasio writes, Operations of the body's interior signaled via the interoceptive nervous system contribute the feeling component, while other operations within the central nervous system contribute imagery describing the world around the organism as well as its musculoskeletal frame. These contributions converge, in a regimented way, to produce something quite complex and yet perfectly natural: the encompassing mental experience of a living organism caught, moment after moment, in the act of apprehending the world within itself and, wonder after wonders, the world around itself. (Feeling &amp; Knowing 124) Damasio's remark details the significance of the organism's body and its external environments in producing mental experience and emphasizes the mind's cumulative amalgamation of these intricately interwoven apprehensions. LeDoux similarly characterizes human existence as an "ensemble of being" that involves the "composite organismic state that emerges from our four realms of existence," which include the biological, neurological, cognitive, and conscious (The Four Realms of Existence 13). He identifies all four realms to be fundamentally biological as he explores humans as both individuals and species. Climate psychologist Steffi Bednarek also reminds us that "what we call 'I' is made up of more nonhuman elements than human cells and that there are other agents out there that shape the world and our own lives" (5). Powers's Bewilderment charts the self's fraught efforts to cognitively and emotionally connect with both earthly life and extraterrestrial others. The closing lines of the novel encapsulate the interconnected togetherness of father and son and of humans with Earth, natural forces, and the cosmos through sensory perceptions of the burning sun, the stinging rain, and the odor of living soil. The sense of loss revealed through the use of the past tense-"Oh, this planet was a good one. And we, too were good"-is tempered by the anticipation of the universe's miraculous and endless constellations of contingency and change. In this, perhaps, hope endures.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Disclosure Statement</head><p>No potential conflict of interest was reported by the author(s).</p></div><figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_0"><head></head><label></label><figDesc>They probed my son. I could feel their thoughts go into him. You want to know if you should warn us.</figDesc><table><row><cell>My frightened son nodded.</cell></row></table><note><p><p><p>You want us to be ready. But you don't want to cause us pain.</p>My son nodded again. He was crying. Don't worry, the doomed tubular creatures told us. There are two kinds of "endless." Ours is the better one.</p>(Powers  152)   </p></note></figure>
+		</body>
+		<back>
+
+			<div type="funding">
+<div><head>Funding</head><p>This work was supported by the <rs type="funder">National Science and Technology Council</rs> under <rs type="funder">NSTC</rs> [<rs type="grantNumber">112-2410-H-A49-030-MY2</rs>].</p></div>
+<div><head>Notes on contributor</head><p><rs type="person">Karen Ya-Chu Yang</rs> is an associate professor of foreign languages and literatures at <rs type="affiliation">National Yang Ming Chiao Tung University, Taiwan</rs>. She works on contemporary fiction and is chiefly interested in the fields of ecofeminism, animal studies, affect research, and neuroscience.</p></div>
+			</div>
+			<listOrg type="funding">
+				<org type="funding" xml:id="_UJKkcY8">
+					<idno type="grant-number">112-2410-H-A49-030-MY2</idno>
+				</org>
+			</listOrg>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<monogr>
+		<title level="m" type="main">Earth Emotions: New Words for a New World</title>
+		<author>
+			<persName><forename type="first">Glenn</forename><surname>Albrecht</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2019">2019</date>
+			<publisher>Cornell UP</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<monogr>
+		<title level="m" type="main">Climate Psychology, and Change: Reimagining Psychotherapy in an Era of Global Disruption and Climate Anxiety</title>
+		<author>
+			<persName><forename type="first">Steffi</forename><surname>Bednarek</surname></persName>
+		</author>
+		<editor>Steffi Bednarek</editor>
+		<imprint>
+			<date type="published" when="2024">2024</date>
+			<publisher>North Atlantic Books</publisher>
+		</imprint>
+	</monogr>
+	<note>Introduction</note>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title level="a" type="main">Richard Powers&apos; Ecology of Mind: Bewilderment, Overstory, Orfeo, &amp; Generosity</title>
+		<author>
+			<persName><forename type="first">Cameron</forename><surname>Bushnell</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Studies in American Culture</title>
+		<imprint>
+			<date type="published" when="2022">2022</date>
+			<biblScope unit="volume">45</biblScope>
+			<biblScope unit="page" from="35" to="53" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<monogr>
+		<title level="m" type="main">The Brain Code: Using Neuroscience to Improve Learning, Memory, and Emotional Intelligence</title>
+		<author>
+			<persName><forename type="first">Yossi</forename><surname>Chalamish</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2024">2024</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title level="a" type="main">Feeling and Knowing: Making Minds Conscious</title>
+		<author>
+			<persName><forename type="first">Antonio</forename><surname>Damasio</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">The Feeling of What Happens: Body and Emotion in the Making of Consciousness. A Harvest Book</title>
+		<imprint>
+			<publisher>Pantheon Books</publisher>
+			<date type="published" when="1999">2021. 1999</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title level="a" type="main">The Possibility of Life: Science, Imagination, and Our Quest for Kinship in the Cosmos</title>
+		<author>
+			<persName><forename type="first">Jaime</forename><surname>Green</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Hanover Square P</title>
+		<imprint>
+			<date type="published" when="2023">2023</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<monogr>
+		<title level="m" type="main">Biofeedback and Cognitive-Behavioral Interventions: Reciprocal Contributions</title>
+		<author>
+			<persName><forename type="first">Daniel</forename><surname>Hamiel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Arnon</forename><surname>Rolnick</surname></persName>
+		</author>
+		<imprint>
+			<publisher>Schwartz and Andrasik</publisher>
+			<biblScope unit="page" from="176" to="185" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<monogr>
+		<title level="m" type="main">Staying With the Trouble: Making Kin in the Chthulucene</title>
+		<author>
+			<persName><forename type="first">Donna</forename><forename type="middle">J</forename><surname>Haraway</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2016">2016</date>
+			<pubPlace>Duke UP</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<monogr>
+		<author>
+			<persName><forename type="first">Michael</forename><surname>Haworth</surname></persName>
+		</author>
+		<title level="m">Neurotechnology and the End of Finitude. U of Minnesota P</title>
+		<imprint>
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<monogr>
+		<author>
+			<persName><forename type="first">Joseph</forename><surname>Ledoux</surname></persName>
+		</author>
+		<title level="m">Anxious: Using the Brain to Understand and Treat Fear and Anxiety</title>
+		<imprint>
+			<publisher>Penguin Books</publisher>
+			<date type="published" when="2015">2023. 2015</date>
+		</imprint>
+	</monogr>
+	<note>The Four Realms of Existence: A New Theory of Being Human</note>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<monogr>
+		<title level="m" type="main">Everything Will Be Dead:&apos; The Eco-Activist Archetype in a Time of Bewilderment</title>
+		<author>
+			<persName><forename type="first">Grant</forename><surname>Mcmillan</surname></persName>
+		</author>
+		<idno type="DOI">10.1093/isle/isaf033</idno>
+		<imprint>
+			<date type="published" when="2025">2025</date>
+			<biblScope unit="page" from="1" to="20" />
+		</imprint>
+	</monogr>
+	<note>ISLE: Interdisciplinary Studies in Literature and Environment</note>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<monogr>
+		<title level="m" type="main">Placing Outer Space: An Earthly Ethnography of Other Worlds</title>
+		<author>
+			<persName><forename type="first">Lisa</forename><surname>Messeri</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2016">2016</date>
+			<publisher>Duke UP</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<monogr>
+		<title level="m" type="main">Rewire Your Anxious Brain: How to Use the Neuroscience of Fear to End Anxiety, Panic and Worry</title>
+		<author>
+			<persName><forename type="first">Catherine</forename><forename type="middle">M</forename><surname>Pittman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Elizabeth</forename><forename type="middle">M</forename><surname>Karle</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2015">2015</date>
+			<publisher>New Harbinger Publications</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<monogr>
+		<title level="m" type="main">The Brain&apos;s Body: Neuroscience and Corporeal Politics</title>
+		<author>
+			<persName><forename type="first">Victoria</forename><surname>Pitts-Taylor</surname></persName>
+		</author>
+		<editor>Powers, Richard. Bewilderment. W. W. Norton &amp; Company</editor>
+		<imprint>
+			<date type="published" when="2016">2016. 2021</date>
+			<publisher>Duke UP</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<title level="a" type="main">Introduction: Familiarizing the Extraterrestrial/Making Our Planet Alien</title>
+		<author>
+			<persName><forename type="first">Istvan</forename><surname>Praet</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Juan</forename><forename type="middle">Francisco</forename><surname>Salazar</surname></persName>
+		</author>
+		<idno type="DOI">10.1215/22011919-4215315</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Environmental Humanities</title>
+		<imprint>
+			<biblScope unit="volume">9</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="309" to="324" />
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title level="a" type="main">Critique of Alien Reason: Toward a Critical Interplanetary Humanities</title>
+		<author>
+			<persName><forename type="first">Joshua</forename><surname>Schuster</surname></persName>
+		</author>
+		<idno type="DOI">10.1353/sub.2022.0006</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Substance</title>
+		<imprint>
+			<biblScope unit="volume">51</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="103" to="119" />
+			<date type="published" when="2022">2022</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<monogr>
+		<author>
+			<persName><forename type="first">Mark</forename><forename type="middle">S</forename><surname>Schwartz</surname></persName>
+		</author>
+		<title level="m">Biofeedback: A Practitioner&apos;s Guide</title>
+		<imprint>
+			<date type="published" when="2016">2016</date>
+			<biblScope unit="volume">4</biblScope>
+		</imprint>
+	</monogr>
+	<note>th ed. The Guilford P</note>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<analytic>
+		<title level="a" type="main">The History and Definitions of Biofeedback and Applied Psychophysiology</title>
+		<author>
+			<persName><forename type="first">Mark</forename><forename type="middle">S</forename><surname>Schwartz</surname></persName>
+		</author>
+		<idno type="DOI">10.1023/A:1022874409768</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Schwartz and Andrasik</title>
+		<imprint>
+			<biblScope unit="volume">24</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="3" to="24" />
+			<date type="published" when="1999">1999</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<monogr>
+		<title level="m" type="main">Affective Neuroscience in Psychotherapy: A Clinician&apos;s Guide for Working with Emotions</title>
+		<author>
+			<persName><forename type="first">Francis</forename><forename type="middle">L</forename><surname>Stevens</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2022">2022</date>
+			<publisher>Routledge</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<analytic>
+		<title level="a" type="main">Olaf Stapledon and Telepathy in Literature of Cosmic Exploration</title>
+		<author>
+			<persName><forename type="first">Mark</forename><surname>Taylor</surname></persName>
+		</author>
+		<idno type="DOI">10.1353/sfs.2020.0016</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Science Fiction Studies</title>
+		<imprint>
+			<biblScope unit="volume">47</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="175" to="194" />
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<analytic>
+		<title level="a" type="main">Introduction: Limits and Horizons in the Once and Future Cosmos</title>
+		<author>
+			<persName><forename type="first">David</forename><surname>Valentine</surname></persName>
+		</author>
+		<idno type="DOI">10.1353/anq.2012.0066</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Anthropological Quarterly</title>
+		<imprint>
+			<biblScope unit="volume">85</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="1007" to="1026" />
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<analytic>
+		<title level="a" type="main">Generation Dread: Finding Purpose in an Age of Climate Anxiety</title>
+		<author>
+			<persName><forename type="first">Britt</forename><surname>Wray</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">The Experiment</title>
+		<imprint>
+			<date type="published" when="2023">2023</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<analytic>
+		<title level="a" type="main">The Apocalypse of a Wired Brain</title>
+		<author>
+			<persName><forename type="first">Slavoj</forename><surname>Žižek</surname></persName>
+		</author>
+		<idno type="DOI">10.1086/709222</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Critical Inquiry</title>
+		<imprint>
+			<biblScope unit="volume">46</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="745" to="763" />
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

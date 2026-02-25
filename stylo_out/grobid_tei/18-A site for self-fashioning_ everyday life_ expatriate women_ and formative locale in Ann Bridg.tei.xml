@@ -1,0 +1,1277 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">A site for self-fashioning: everyday life, expatriate women, and formative locale in Ann Bridge&apos;s Peking Picnic (1932)</title>
+				<funder ref="#_rSYvmN5">
+					<orgName type="full">Capital University of Economics and Business Beijing Municipal College Basic Research Fund</orgName>
+				</funder>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author role="corresp">
+							<persName><forename type="first">Yuzhu</forename><surname>Sun</surname></persName>
+							<email>yuzhusun@cueb.edu.cn</email>
+							<affiliation key="aff0">
+								<orgName type="department">School of Foreign Studies</orgName>
+								<orgName type="institution">Capital University of Economics and Business</orgName>
+								<address>
+									<settlement>Beijing</settlement>
+									<country>People&apos;s Republic of China</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">A site for self-fashioning: everyday life, expatriate women, and formative locale in Ann Bridge&apos;s Peking Picnic (1932)</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date/>
+						</imprint>
+					</monogr>
+					<idno type="MD5">61D13DE75EA5F76F48092B2FD6939434</idno>
+					<idno type="DOI">10.1080/0950236X.2025.2608855</idno>
+					<note type="submission">Received 28 August 2024; Accepted 21 November 2025</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.0" ident="GROBID" when="2026-02-25T19:54+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term>Ann Bridge</term>
+					<term>self-fashioning</term>
+					<term>everyday life</term>
+					<term>travel writing</term>
+					<term>expatriate</term>
+					<term>locale</term>
+				</keywords>
+			</textClass>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>Ann Bridge's first well-received novel Peking Picnic (1932) demonstrates her concern regarding the self-fashioning of expatriate women who physically live in Beijing, are emotionally attached to Britain, and socially engage in a local neighbourhood. The article traces the aesthetic presentation of expatriate women's everyday life, including their living environment, social circle, and daily conversations, in Peking Picnic as a gendered counterpoint to the male-dominated academic and diplomatic contexts. Bridge's transcultural self-fashioning, not a simple hybrid form of both home and host cultures but a fluid and heterogeneous sense of local identity coming into form in her negotiation of British, imperial, and gendered identities in daily life, shapes and is shaped by her engagement in non-binary possibilities, striking a fine balance between Chinese and British, fictional and factual, ordinary and political positions. Bridge reconstructs a local identity for expatriate women that coexists with their imperial identities, although the affective attachment to the locales is partially at odds with the imperial pattern on which they are drawn. This practice illustrates a means of transcultural self-fashioning in everyday life for British expatriate women in their association with Beijing's locales as a challenge to patriarchal and imperial discourses.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Introduction</head><p>In the opening chapter of her semi-autobiographical fiction Peking Picnic (1932), Ann Bridge (1889-1974), a relatively marginal novelist in British literary culture and the spouse of an Oxford-graduate and diplomat Owen St. Clair O'Malley (1887-1974), offers a detailed portrayal of the lives of British expatriate women in Beijing's Legation Quarter. Bridge elucidates her protagonist's affective connection to and reflexive understanding of the immediate surrounding:</p><p>To live in two different worlds at the same time is both difficult and disconcerting. Actually, of course, the body cannot be in China and in Oxfordshire simultaneously. … [T]he lingering spirit, … brings with it a host of pictures, … which it intrudes at the most unsought moments, so that the images of both worlds shift and change before one like drop scenes in a theatre. <ref type="bibr" target="#b0">1</ref> Bridge indicates the female narrator's profoundly divided status in a transnational context: the tangible immersion in a foreign milieu within China juxtaposed with an intangible but potent emotional tie to her native Oxfordshire. The narrator articulates the expatriate condition as an alternative position, a state of both, wherein individuals shift their focus away from merely addressing issues pertinent to their homeland of Britain or their adopted host, China. The double circumstance indicates a dynamic space of cultural interaction and adaptation, where boundaries are blurred and the cultures and identities implied in daily moments are subject to negotiation. Simultaneously, Bridge brings into focus daily moments as sites for the encounter of two worlds, drawing attention to micro-level interactions rather than macro-societal interchanges. Everyday life here illustrates what Bridge and her female narrator Mrs. Laura Leroy are preoccupied with: it is a context-specific setting that demands a new means of being and corresponding gendered cross-cultural strategies, particularly in regard to everyday practices founded upon the specialty of Beijing's locales and the distinctive status of expatriate women.</p><p>Bridge's narrative offers a complex geography of ordinariness where a process of cultural interactions happens at the daily level rather than at provincial, national, and international scales within two cultural entities, which is Bridge's unique contribution to British imperial literature as a gendered counterpoint to academic and diplomatic male-dominated discourses. The examination of women's daily lives in the empire considers how everyday experiences shape power relations through two main approaches: Firstly, daily missionary practices challenge patriarchal structures by blurring 'the boundaries of the gender division of labour', as they not only take charge of 'the usual domestic demands' but also acquire 'the necessary professional qualifications', while simultaneously needing to gain 'the acceptance of their families and the mission bodies', particularly for single women; <ref type="bibr" target="#b1">2</ref> Secondly, researches concerning women's duplication of domesticity as diplomats' wives in the everyday life of the colonies emphasises the way that British female writers use 'feminine discourses and spaces to enact colonialist power' and maintain an ambivalent relationship with the British gender discourse that regards them as subordinates. <ref type="bibr" target="#b2">3</ref> Current scholarships demonstrate that female writers construct their power systems in their negotiations with the female domestic domain in the imperial context. However, these attempts fail to consider the significance of transcultural ordinariness on the complex negotiations of women's multiple identities and ignore the formative role of the locality, merely regarding it as a colonised destination upon which imperial power is imposed.</p><p>Bridge's narrative, both factual and fictional, diverges markedly from the gendered normative structure in the imperial context. She articulates her means of self-fashioning in an expatriate status in regard to everyday practices founded upon Beijing's formative locales, areas and settings that this article particularly refers to as cultural sites with Beijing characteristics and the Legation neighbourhood constructed by foreign residents. Self-fashioning, a term put forward by Stephen Greenblatt, refers to identity formation during the English Renaissance in response to changing social forces and authorities including family, church, and state. <ref type="bibr" target="#b3">4</ref> Under such circumstance, '[T]he power to impose a shape upon oneself is an aspect of the more general power to control identity'. <ref type="bibr" target="#b4">5</ref> In the broader sense, self-fashioning includes individuals' self-formation through fashion, speech, practices, and social interactions, a process that individuals negotiate daily in their environment. In Bridge's context, the possibilities for transgression and subversion brought about by travel experiences are not the end. Rather it is specific Beijing locales themselves that, to varying extents, influence the female travellers' thoughts and behaviours within a new patriarchal system inside the expatriate neighbourhood, leading to a mode of self-fashioning that is a complex process of resistance to and assimilation within binary structures across cultural, imperial, and gendered dichotomies. This practice is a critique of the conventional imperial structure that regards Beijing as an object of 'imperialist nostalgia', <ref type="bibr" target="#b5">6</ref> as it embraces emotional attachment to locales rather than merely projecting imperial structure onto them. In line with Liam Haydon's reinterpretation of Greenblatt's self-fashioning, for them 'identity is not formed by a monolithic authority, but is rather a variable process dependent on what authorities (and aliens) an individual recognizes and responds to'. <ref type="bibr" target="#b6">7</ref> Transcultural self-fashioning, not a simple hybrid form of both home and host cultures 8 but a fluid and heterogeneous sense of local identity coming into form in her negotiation of British, imperial, and gender identities in daily life, in Bridge's case, shapes and is shaped by her engagement in non-binary possibilities, striking a fine balance between Chinese and British, fictional and factual, ordinary and political positions. This article argues that Bridge fashions her characters as expatriate women through daily interactions with the locales in the Legation, endowing them with a local identity that exists together with their imperial identities, even as the affective attachment to the locales is partially at odds with the imperial pattern on which they are drawn. With a close reading of how Bridge's narratives demonstrate expatriate women's self-fashioning within the tension between challenging and conforming to dichotomous frameworks of gender and imperialism in their everyday aesthetics and behaviours, the analysis will be segmented into four subsections: the background of the Beijing Legation Quarter, the physical spaces they inhabit, the social circle they interact with, and the thematic concerns that occupy their thoughts, drawing from both factual accounts and fictional representations and collectively painting a comprehensive portrait of British expatriate women's connections with the locales of Beijing and beyond.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Bridge, everyday life, and the Beijing Legation Quarter</head><p>The Beijing (Peking) Legation Quarter is a locale grounded not in fiction but in historical reality. The Beijing Legation Quarter was a large area located in Beijing, China and existed between 1861 and 1959. Established in the aftermath of the Second Opium War (1856-1860), this extraterritorial Legation Quarter took charge of administrative affairs under the jurisdiction of foreign countries. Described as a 'city within a city within a city', it accommodated a population of approximately 2,000 individuals. <ref type="bibr" target="#b8">9</ref> The residents in the Legation merely contained the diplomats, their families, soldiers guarding them, scholars, and artists who were all from the middle and upper classes. Its geopolitical position, located in the inner city of Beijing not far away from the Forbidden city, was crucial for both China and foreign imperial powers, indicating an imperial invasion to the centre of the late Qing Empire. <ref type="bibr" target="#b9">10</ref> On the other hand, the transplantation of European architectural styles and lifestyles to Beijing significantly enhanced foreign residents' sense of familiarity within this Beijing setting, where residents could negotiate their identities and shaped a sense of neighbourhood that transcended national and cultural boundaries during imperial encounters. The Legation provides possibilities for the cultivation of a local identity characterised by self-reliance and self-fashioning, yet simultaneously alienated from both British and Chinese social norms among its inhabitants. Historical records illustrate that women in larger settlements had enough access to contextspecific public life, as 'charitable, religious, sporting, or theatrical organizations' existed to keep their time occupied and make them a self-contained group with mutual support and shared values. <ref type="bibr" target="#b10">11</ref> As Bridge states, '[W]ith so many new and wonderful things to do and to see, one was less dependent on people outside one's own Legation'. <ref type="bibr" target="#b11">12</ref> The entity emphasises the interconnectedness within the scope of the Legation with its self-sufficiency and independence.</p><p>Bridge's professional trajectory reveals her persistent preoccupation with locating herself within a transnational context, where the minutiae of everyday practices play a predominant role. Commencing her literary career with a steadfast commitment to exploring expatriate experience of women, Bridge's narrative journey originated from her life as a diplomat's wife in the Beijing Legation Quarter. Her first established and well recognisable novel, Peking Picnic (1932), takes account of everyday practices of a British upper-class protagonist Mrs. Laura Leroy, the wife of an English diplomat Henry Leroy, who is a Commercial and Oriental Attaché in the British Legation and responsible for war-related affairs in exotic locales. Unlike many widely-travelled independent female travel writers like Isabella Bird (1831-1904) and Emily Georgina Kemp (1860-1939), <ref type="bibr" target="#b12">13</ref> Bridge, the pseudonym of Mary Ann Dolling (Sanders), Lady O'Malley, embarked on her literary journey accompanying her husband on his diplomatic assignment to Beijing in 1925, immersing herself in the locale for a subsequent two-year sojourn. Subsequent works, including The Ginger Griffin (1934) and Four-Part Setting (1939), capture British expatriate women's experiences in Beijing. Bridge's portrayal of her role as an 'appendage' to her husband exemplifies the circumstances faced by many female travellers, echoing Jane Robinson's assertion that 'Women have rarely been commissioned to travel', and without the support and oversight of institutional powers, '[w]omen can afford to be more discursive, more impressionable, more ordinary'. <ref type="bibr" target="#b13">14</ref> Thus, deprived of formal patronage or institutional authority, female travellers always engage in digressive, intuitive, and often commonplace reflections.</p><p>The question of why Bridge selected fiction to record personal experiences based on truth and actual events is related to her expatriate status in the Legation. Commonly, 'Travel writing's close connection with texts associated with the private, domestic sphere -diaries, memoirs, autobiography, letters, and photograph albums -"allowed women entry into the travel genre"'. <ref type="bibr" target="#b14">15</ref> In Bridge's case, her life experience of travelling as a diplomat's wife is the basis for her suitable and accessible entry into her writing career, but paradoxically her position enforces the difficulty in telling the truth directly and embraces an inclination of maintaining privacy. Thus, 'how the real impressions and experiences had to be adapted to meet the demands of the fictional characters in the books' is one of her primary concerns. <ref type="bibr" target="#b15">16</ref> What's more, Mrs. Leroy is a collective figure representing a group of expatriate women, which allows Bridge a rich context to explore the expatriate neighbourhood. As Bridge notes, the relation between facts and fictions 'describe[s] the interplay, in an author's mind, between actual, lived experience, and the situations and events in that author's novels'. 17</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Domestic settings, garden, and local landscape</head><p>The self-fashioning of Bridge's expatriate characters lies in the questions of what and how to integrate, assimilate, and resist domestic settings in both cultures in the semi-colonial discourse. Specifically, Mrs. Leroy's formation of a local identity is shaped by the cultural interactions evident in her association with domestic settings, her mansion's garden as well as the local landscape. Homi Bhabha contextualises the non-binary paradigm of home and world: 'The recesses of the domestic space become sites for history's most intricate invasions. In that displacement, the borders between home and world become confused; and, uncannily, the private and the public become part of each other'. <ref type="bibr" target="#b17">18</ref> In Peking Picnic, Mrs. Leroy's reconsideration of domestic settings serves as a significant experimental means to 'negotiate gender boundaries within both home and host cultures', <ref type="bibr" target="#b18">19</ref> concealing their political inclinations within apolitical matters. The novel starts with a house party, 'an At Home in the Scandinavian Legation'. <ref type="bibr" target="#b19">20</ref> The garden of this residential house where the party is held, despite operating as private property, is a component of social space, as noticed in the research tradition of conceiving the residential house as a personal link to the public sphere. <ref type="bibr" target="#b20">21</ref> Moreover, the Legation house by its very nature embodies a more public setting, as ambassadors and staffs working in the Legation are attendees of this private party.</p><p>Bridge's narrative points out the importance of domestic objects beyond the category of private sphere, as 'the home was seen as a kind of laboratory for social experimentation'. <ref type="bibr" target="#b21">22</ref> Ben Highmore extends this to the transnational setting and emphasises the importance of ordinary transnational life in avoiding transformation and alternation and maintaining its tradition, stability, familiarity, and other establish norms: 'Ordinary national life is what xenophobic politics insists must be protected from cultural migrations that might alter its traditions and dilute its character: ordinary family life, for paternalistic culture, must be protected from … the unknowable outside'. <ref type="bibr" target="#b22">23</ref> Similarly, Bridge's narrative reflects her protagonist Mrs. Leroy's act of cultural transplantation, exemplified by her relocation of furniture, artistic collections, and utensils to China, and the recreation of an English garden and personalised home in the Beijing Legation Quarter, to hold onto elements of her own cultural identity in the unfamiliar terrain for the purpose of resisting assimilation. We are told, 'Mrs. Leroy's drawing room [is] so English, and so unusual in Peking'. <ref type="bibr" target="#b23">24</ref> The interior décor is characterised by a discerning selection of artworks, prominently featuring masterpieces by renowned artists like Fantin-Latour, Riches, and Arnold-Forsters, along with furnishings such as the Queen Anne tallboy and escritoire. <ref type="bibr" target="#b24">25</ref> Architectural elements, such as the open French window and the broad tiled verandah, contribute to the pervasive ambiance of European domesticity as well. <ref type="bibr">26</ref> This duplication of British domesticity and inner decorations demonstrates the tensions in imperial encounters concerning cultural penetration and resistance: Firstly, the transposition of English objects in the private sphere signifies the empire's reshaping of China's physical space, transforming foreign land into 'familiar' territory; Secondly, this practice of creating a purely British social space within China maintains racial and cultural segregation as well as prevents assimilation into the local culture.</p><p>The duplication of the British domestic domain is evident, but it does not necessarily mean the exclusion of the indigenous lifestyle. Ben Anderson and Paul Harrison explain, 'worlds' are not formed in the mind before they are lived in, rather we come to know and enact a world from inhabiting it, from becoming attuned to its differences, positions and juxtapositions, from a training of our senses, dispositions and expectations and from being able to initiate, imitate and elaborate skilled lines of action. <ref type="bibr" target="#b25">27</ref> The expatriate women in Peking Picnic intend to gain a more sufficient understanding of the Beijing environment by engaging with local daily life, including cultural practices and spatial arrangements, as their preconceived notions of the place may not conform to the local reality. Mrs. Leroy makes a compromise to assimilate the architectural design in the northern China with practical purposes -peng (extension of the roof) -for keeping the sunny side of the house in the shadow and letting the fresh air in for the purpose of keeping the room cool in summer. <ref type="bibr" target="#b26">28</ref> Thus, the alternation to eclectic architectural designs and choices about interior decorations elaborates her selective use of local influences and the assimilative nature of cultural interactions.</p><p>Mrs. Leroy's garden exists as a microcosm of global botanic garden, exemplifying a hybrid aesthetic response to the conventional imperial structure. The garden surrounding Mrs. Leroy's house reflects an adherence to British aesthetics. 'Most of the garden was lawn,' while potted wallflowers adorn the edges, evoking a quintessentially English garden scene and an imperial imposition. <ref type="bibr">29</ref> Notably, the garden features a juxtaposition of the traditional British garden style with indigenous plants such as cherry and plum trees, oleander, thuja, lilac, and brier, illustrating local adaptation. <ref type="bibr" target="#b27">30</ref> The garden arrangements show Mrs. Leroy makes concession to the Chinese style considering the availability of local plants. Bridge captures the unique olfactory and auditory experiences of distinctly Beijing-style gardens, sensations unavailable in British gardens. Bridge takes account of the combination of 'the scent of the yellow briers' and 'woodsmoke and Chinese cooking and Chinese sanitation and donkey dung' as 'the intimate penetrating Peking smell'. <ref type="bibr" target="#b28">31</ref> These are sensations inaccessible in British gardens: unlike the roar of vehicles in European cities, the soundscape here is woven from the soft tread of footsteps on unpaved earth, the clang of trams, the blast of steam whistles, and the rumble of trains and further enriched by the pop of street firecrackers, the creak of water being drawn, the caw of crows and the music of pigeons taking flight with pipes attached to their feathers. <ref type="bibr" target="#b29">32</ref> The familiar décor can remind Mrs. Leroy of the Oxford garden that has a similar décor while the unique décor of Beijing, her acceptance of the Beijing smell and sound, can arouse a sense of foreignness.</p><p>The transformation of the sky's hue at dusk and evocative atmosphere of Mrs. Leroy's garden, resembling that of rural Oxfordshire, emerges as a medium for Mrs. Leroy's nostalgic reminiscences of English countryside in her youth. The convergence of the past and the present as well as of British and Chinese is evidently articulated: 'Her two worlds met for a moment under the sky that arched over both, and then that distant one invaded the present and blotted it out'. <ref type="bibr">33</ref> Transplanting an Oxford garden to China or experiencing an illusion of observing the same Chinese landscape in Oxford gives her a profound sense of life's division. The transplanted Oxford garden in Beijing occupies an ambivalent position: it is both English and not-English, both home and not-home. It isan alternative space where Mrs. Leroy experiences both familiarity and estrangement. Mrs. Leroy finds herself aliened from her homeland, England, as well as her new 'home' in China. Admittedly, Mrs. Leroy's engagement with Chinese garden aesthetics is in many ways characteristic of her class and era. It originates from the taste for Chinoiserie since the eighteenth century, which constructs '[g]endered utopias in transcultural context'. <ref type="bibr" target="#b30">34</ref> Her contemporaries' fascination with Eastern aesthetics follows established patterns of cultural superiority and fashionable appreciation that are underpinned by imperial mechanisms. <ref type="bibr" target="#b31">35</ref> Unlike those who deliberately collect Oriental objects from a position of dominance for the purpose of appropriation, Mrs. Leroy engages in an immersive analogy of Chinese and British gardens, demonstrating a relatively equal position to identify similarity and create a hybrid moment, which functions as a critique of the superior-inferior imperial structure.</p><p>When addressing Bridge's account of the Orient with an analysis of The Dark Moment, Isil Bas articulates, Bridge 'create[s] an unprejudiced awareness of the historical context and the social and cultural specificities of Turkey and the Turk thereby foregrounding dialogical transculturality over intercultural penetration'. <ref type="bibr" target="#b32">36</ref> The property of transculturality has been addressed with its detailed facets. 'In the literature, transculturality is most often used in the following meanings: cross-cultural competence, identitary continuum and plural sense of self'. <ref type="bibr" target="#b33">37</ref> Rather than the mere integration of British cultural elements into the Chinese context, a reciprocal communication, emphasising unfixed and evolving identities, is constructed in Mrs. Leroy's interaction with the Chinese landscape. The reciprocal communication does not imply ignorance of the structural privilege of the British expatriate neighbourhood. Rather, it highlights her inclination towards dialogical transculturality of cultures, while acknowledging that these interactions occur within a framework of structural privilege. The conception of transculturality makes Bridge an exception from some other female travellers of her era and before, like Lady Dufferin, a British colonial wife residing in the 1860s India. When approaching the relocation of domesticity of Lady Dufferin, Éadaoin Agnew claims, '[t]he Vicereine constructs the domestic space as a representation and microcosmic reflection of the objectification and acquisition of the East'. <ref type="bibr" target="#b34">38</ref> Compared with Lady Dufferin's 'acquisition of the East', Bridge's narrative transcends mere chinoiserie aesthetics, which underscores her cultural sensitivity to the diversity across communities. I agree with Bas's viewpoint that blurry boundaries exist between distinctive cultures, and her viewpoint also illustrates a departure of Bridge from the conventional mode of Orientalism and her focus on the dialogicality between cultures. I extend this argumentation by putting forward that Bridge reveals the formative function of the targeted culture expatriates engage with and constructs the affective landscape <ref type="bibr" target="#b35">39</ref> project where the everyday determining environment in China has shaped her way of thought. Bridge asserts,</p><p>[s]he [Laura] would be suffocated again by England's smallness and muffling greenness, maddened by its petty irrational humps and hollows, after the masterly geometrical flatness of the China plain; oppressed by its grey dripping skies, after that high light firmament in which the sun glitters like a burnished shield from dawn till evening for nine months of the year. The very people in the streets and lanes would vex her eye by their ugly parti-colored ungraceful clothes, after the beautiful universal blue garments of the Chinese countryside, the dignified grey and black robes of the towns. <ref type="bibr" target="#b36">40</ref> The context serves to explicate how Laura, after acquiring everyday details and landscape in China, cannot be physically and intellectually accustomed to the suffocating natural environment and mundane daily routines in England. The reluctant immersion in 'England's smallness and muffling greenness' is redolent of her expatriate experience in 'the beautiful universal blue garments of the Chinese countryside'. Her understandings about China due to her long-term residence are different from the tourists she encounters, and these are the moments that she cannot explain to Europeans, even 'her best and dearest' friends in Oxford. <ref type="bibr" target="#b37">41</ref> In those inconspicuous but intense moments in daily life, her emotions, affects, and feelings, slightly different terms but all emphasising strong sensual responses, are in constant exchange and dialogue, so she builds an affective connection with the local landscape and accommodates herself to the local objects.</p><p>Beyond the physical scope of the Legation, Peking Picnic also demonstrates the intricate relationship British expatriates develop with the expansive landscape of Beijing. The landscape is not a mere constructed, imagined, or transformed land with natural and human-made views, but 'a cultural construction with collective ideological implications' <ref type="bibr" target="#b38">42</ref> as well as with symbolic ideas and implied identity beyond its physical property. The Beijing landscape exists as the formative locale that engages the expatriates in dialogical interaction with it. The depiction of the Jietai Temple, <ref type="bibr" target="#b39">43</ref> with its uniquely Chinese beauty and treasures, carries a transformative power, capable of loosening 'some bonds of thought and custom' and revealing 'some curtains of the soul'. <ref type="bibr" target="#b40">44</ref> The narrator's evocative reflection captures this essence: 'Strange magic of the blossoming tree -ancient wisdom that brings in the spring to worship within its holy places! It is not easy to escape these wholly; all did not wholly escape'. <ref type="bibr" target="#b41">45</ref> 'Strange magic of the blossoming tree' repeatedly appears as the plot progresses: the party members' grasp of their own real-life solitude is inspired by the tree; Mrs. Leroy's understanding of love seems to reach its conclusion 'in a rush of visions of the blossoming tree'; During the four days they spend with the ancient tree, the party members experience 'accelerated growth' and 'swift subtle modification'. <ref type="bibr" target="#b42">46</ref> This account accentuates the impact of the formative locale on the developing thoughts of expatriates.</p><p>The Chinese landscape depicted by Western female travellers has already been interpreted beyond the imperial framework of regarding the landscape as a stage for imperial conquest: Elizabeth Kendall views the socio-economic dimensions behind the landscape around Yunan-fu as a symbol of its potential recovery from imperial trauma; Mary Gaunt conceives the landscape as a spiritual self-transformation tool allowing her Western background to enter into dialogue with the mountain's spiritual presence in China. <ref type="bibr" target="#b43">47</ref> Kendall's perspective critiques imperialism without fully transcending a Westerncentric framework. While Gaunt's writing exemplifies a bidirectional and transformative relationship, Bridge develops this idea further. Bridge's characters not only experience the transformative power of the landscape but also began to appreciate it through the perspectives of Chinese landscape painting. She does not see herself as the subject who imposes meaning upon the landscape. Instead, she cedes her subjective agency to nature: 'even Nature, in China, is a consummate artist, and with a sure hand has shown the way in which that race of consummate artists has followed, to produce a beauty unknown to the Western world'. <ref type="bibr" target="#b44">48</ref> She also represents landscape through a Chinese-style, sensory, and artistic approach. Her appreciation is not limited to visual observation of 'the delicately shaped perfection of flower of rose and paler rose and white, against the unrelieved fawn-colored background' in spring, common subjects in Chinese painting. <ref type="bibr">49</ref> Her writing engages the sense of smell with descriptions of a 'delicate scent, hardly more than a freshness, and yet more' and of sound with depictions of 'the loud sweet notes of hidden babblers among bare wayside bushes' and 'the tapping and scraping of the small feet of donkey on steep cobbles' as well. <ref type="bibr">50</ref> The landscape before her represents the principles of Chinese painting on imitating nature but further offers its viewers a multi-sensory experience. The 'inherently dialogical' nature of landscape 'as spatial heterogeneity, mixing, crossing-over, contradicting' <ref type="bibr" target="#b45">51</ref> and her dialogical interaction with the Beijing landscape reveal her inherent thought is not fixed but rather subject to constant negotiation and reshaping, representing her fluid property of a local identity as both a being and a becoming. 52</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Mrs. Leroy's neighbourhood and social circle</head><p>The Legation neighbourhood, a collective entity for developing self-fashioning, transcends simple physical district and objects, also encompassing 'the interpersonal contact' and social relations, which all amount to 'a collective organization of individual trajectories'. <ref type="bibr" target="#b47">53</ref> Bridge's narrative situates the operation of the neighbourhood within the framework of imperial power relations to explore the interconnections among individuals, neighbourhood, and corresponding social-political forces. The repetition of expatriates' collective physical engagement in the Legation, such as the transplantation of European style buildings, objects, way of life, and interactions here, is exemplary of the process of the 'progressive privatization' 54 of Chinese public space as well as an indication of their imperial trajectories, which demonstrates the underlying pattern of the formation of the Legation neighbourhood. For instance, Bridge reveals how expatriates utilise clothing symbols and the politics of naming to maintain class boundaries, perform cultural superiority, and reinforce collective identity. Clothing symbolises the heterogeneous identity of the neighbourhood and their inclination to consolidate Western properties: The attire of the British, such as La Touche and the General's riding dress, Derek's shorts, and the Professor's light suit, deliberately preserve the British style; the American Miss Hande wears New York-style 'neat little traveling suits, … a "shirtwaist," and a small close hat', while the French Henri Delache is dressed in 'grey flannel trousers, brown boots, and a small Trilby hat'. <ref type="bibr" target="#b48">55</ref> The politics of naming further exposes how the expatriate neighbourhood reconstructs microlevel power structures within the tension between British style and local circumstances: General Nevile maintains Edwardian authority through formal modes of address, while the neighbourhood's use of nicknames, such as 'Big Annette' and 'Little Annette', constructs an exclusionary intimacy to reinforce internal boundaries of Mrs. Leroy's social group within the local expatriate neighbourhood. <ref type="bibr" target="#b49">56</ref> This section will extend the subject to social interaction, an invisible but existing part of the neighbourhood with a collective and heterogeneous local identity formed through the negotiation of their British and imperial features and their engagement with the locales.</p><p>Bridge's and her characters' inner social circle, built on close ties, is essential for managing their local identities to conform to the expectations of selfreliance within the Legation. The members of Legation neighbourhood, particularly those with direct contacts, forms an intimate sense of connection and continuity that women are familiar with in daily interactions. During her short residency in Beijing from 1925 to 1927, Bridge obtained substantial assistance from the local diplomatic neighbourhood who had deeper insights into and longer sojourns in China. For instance, Eric Teichman, the Chinese Secretary, esteemed for his unparalleled knowledge of China at his time, consistently offered support by using his expertise; the First Secretary, Gordon Vereker, doted on Bridge's daughter Jane, exemplified by the gift of a beautiful pony, Vanity, facilitating Jane's victory in the Ladies' Hunt; The Dane, Henrik de Kauffmann, offered her a picturesque retreat in the Western Hills for holiday, extending his hospitality to Bridge. <ref type="bibr" target="#b50">57</ref> The neighbourhood allows for gradual adaptation to the Chinese locales in an intermediate space especially for women expatriates like Bridge and her characters and for the development of a local lifestyle with preservation of British way of leisure, such as weekend trips of getaway from the city and horse racing. The neighbourhood is constructed depending on mutual recognition, as 'it is a known area of social space in which, to a greater or lesser degree, he or she knows himself or herself to be recognized'. <ref type="bibr" target="#b51">58</ref> The interconnected networks of the inner circle in the Legation in Peking Picnic are characterised by the ties of kinship, friendships, and working relationships, upon which the network of relationships among the main characters is all based. Peking Picnic elaborates the collaborative atmosphere within the diplomatic circle and their willingness to share resources, among which Mrs. Leroy, at the centre of the group, usually offers prudent and intelligent suggestions regarding everyday practices.</p><p>The outer circle of Bridge's characters, those anonymous European figures as part of the Legation neighbourhood, generally organised around shared interests and activities also demonstrates self-reliant features. Bridge's outer circle resembles Pierre Mayol's conception of 'neighborhood collectivity', which means 'the raw, materially unpredictable fact of the encounter of subjects who, without being absolutely anonymous on account of proximity, are not absolutely integrated into the network of preferential human relationships (friendship, family) either'. <ref type="bibr">59</ref> Bridge's self-reliant diplomatic and commercial European neighbourhood is based on both common interests and close ties. Daily interactions, including the ways that residents communicate and support each other, shape Bridge's neighbourhood's character. The character combines a practical purpose, emotional support, as well as a focus on balancing productive business relations and personal privacy in the inner circle. As asserted by Bridge, '[E]veryone in Peking is here to transact business of some sort with someone or other -we are, the colleagues are, the business people are'. <ref type="bibr" target="#b52">60</ref> In the neighbourhood, Bridge believes the transaction of information, commerce, and resources forms the foundation of this bounded neighbourhood. She further elucidates this premise, 'in practice it's been found that business is transacted more easily between people who know one another socially than between those who only meet officially. Hence the system'. <ref type="bibr" target="#b53">61</ref> The establishment of a local Legation neighbourhood is founded on the cultivation of social familiarity and cohesion through daily interactions. More specific measures to build familiarity include 'to invent and use nicknames', an example I mentioned above, to 'give the impression of a larger number of people' through which Mrs. Leroy 'marveled perpetually at the tendency of Peking society, as of other small societies'. <ref type="bibr">62</ref> The social circle of expatriate women in Peking Picnic allows them to have access to international influence despite staying in a domestic featured place of the Legation. The composition of Mrs. Leroy's social circle, including European diplomats, their families, and occasional visitors from Britain, demonstrates the fluidity of social boundaries of the European expatriate neighbourhood compared with the stability of her past social circle in England. The 'At Home' in the opening scene of Peking Picnic is a heterogeneous and informal gathering of diplomatic figures, such as 'the German Counselor', 'the Italian First Secretary', 'the Flemish Minister', and 'the Japanese Minister', <ref type="bibr" target="#b54">63</ref> whose commonality lies in their professional roles in international affairs. The social circle extends her scope of interactions and offers opportunities to engage in global contexts beyond the limited domestic boundaries. Although Mrs. Leroy has no formal title in any professional work and '[s]he was much too wise to attempt to share in any way in his [her husband's] labors', 'she had to carry on their social life practically singlehanded' as a great supplement to her husband's job in the diplomatic context. <ref type="bibr">64</ref> Bridge's account echoes the classic statement that travel is conceived as a means to free women from domesticity and provide access to public affairs, by connecting the gender dichotomy of man/woman to the spatial one of public/private. <ref type="bibr" target="#b55">65</ref> Moreover, Bridge explains women's access to international influence does not attribute to their automatic engagement in the public after travelling abroad but to their unique property in this expatriate neighbourhood that does not prize ideas but worships interest and business. In an expatriate micro-society where everyone pursues superficial interests, Mrs. Leroy does not rely on external validation but instead makes judgments based on internal values of 'a hidden and incorruptible tribunal' because of her 'secret independence'. <ref type="bibr" target="#b56">66</ref> She is '[n]ot very prominent, not very young, not excessively beautiful, and not in the least ambitious', <ref type="bibr" target="#b57">67</ref> yet more important than those who possess these traditional feminine assets, which indicates her influence transcends reliance on conventional femininity of youth and beauty. Thus, representing moral integrity and degendered values, as opposed to the interest-oriented patriarchal rules, enables her to impact affairs beyond the domestic sphere.</p><p>A frequent connection with the British society is built to maintain the Britishness, alongside the negotiation between multiple imperial and local forces in the formation of a self-reliant neighbourhood. Mrs. Leroy's informal interactions with visiting Britons play a role in promoting the circulation and exchange of thoughts between the metropole and its peripheral and frontier societies. The self-reliant British neighbourhood in Bridge's real life had sporadic interactions with British society due to its distance and limited access to up-to-date information regarding Britain. Apart from personal letters, Bridge primarily connected with British society through her communication with those visitors who came to the Legation. During one such visit, Bridge formed a close friendship with Lady Gosford, 'a lady-inwaiting to both Queen Alexandra and Queen Mary', while she was visiting her son, Lord Acheson, who worked for the British-American Tobacco Company. <ref type="bibr" target="#b58">68</ref> Likewise, in Peking Picnic, Mrs. Leroy engages in conversations with Cambridge Professor Vinstead who comes here to study Oriental psychology. Vinstead, who initiates an academic expedition to Beijing, seeks refuge from the constraints of his marriage and conceives China as his exotic destination for escape. During her talks with Professor Vinstead, 'the sudden ease and freedom of their intercourse' brings Mrs. Leroy a sense of home in Oxford or Cambridge. <ref type="bibr" target="#b59">69</ref> Communication with British visitors serves as a predominant way for Mrs. Leroy to build an emotional connection with the British society, since this plays a role in promoting the communication and information circulation between the metropolis of the British empire and its far periphery.</p><p>The self-reliant expatriate neighbourhood in Peking Picnic does not formally assimilate Chinese residents in and simultaneously resist being assimilated to any Chinese community. <ref type="bibr" target="#b60">70</ref> Mrs. Leroy's encounter and acquaintance with indigenous residents in domestic and social daily routines reveals the class and racial power relations. Compared with their affection for the Chinese landscape and material objects, Bridge's protagonists view Chinese people from a distance and regard them unfavourably as faceless and silent objects to depict. Bridge's narrative is in alignment with Catherine Pagani's statement that 'China … was seen as both the land of the uncivilised and as a country which produced wonderful and exotic goods'. <ref type="bibr" target="#b61">71</ref> Pagani attributes the reason to 'a decline in the esteem felt for China and the Chinese' after the Opium War and 'its shift in economic power'. <ref type="bibr" target="#b62">72</ref> Within the domestic sphere, a complex interplay of gender hierarchy, class superiority, and imperial power relations is evident in Bridge's portrayal of European characters, who are apparently exempt from mundane household chores. The construction of a superior domestic space and the maintenance of more advanced lifestyle necessitate the presence of the inferior Other in the imperial context, those indigenous residents who provide services for them such as rickshaws, drivers, and servants. Like most historical figures who lived in the Legation at that time, Mrs. Leroy is similarly reluctant to acknowledge the Chinese servants' kindness and contribution: 'while the Westerners were pleased to sing their praises (too often like the proud owner of a clever pet), few were prepared to admit that without their boys, amahs, cooks and rickshaw coolies they could barely have survived one day in China'. <ref type="bibr" target="#b63">73</ref> Besides providing daily service, the Chinese servants also ensure the success of their travels. On Bridge and her three friends' trip to the Western Hills, '[a]ccompanying them were a dozen servants, a cook, two butlers and a head donkey boy. Four more coolies walked behind each member of the party all day, carrying rucksack, camera, coat, walking stick, Burberry, fly switch, umbrella, fan, topi and any other oddments that might be needed'. <ref type="bibr">74</ref> However, the roles of the majority of servants were barely mentioned. Encounters with Chinese bandits during their journey and with the fleeing refugees disrupt the protagonists' otherwise routine lives, presenting unexpected situations. The deployment of the Legation Guard, endowed with extra-territorial rights, to confront Chinese bandits around the Jietai Temple exemplifies the penetration of imperial power relations beyond the scope of the Legation.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Daily routines and party conversations</head><p>Conversation plays a central role in connecting individuals, interlocutors, and the living environment in the Legation. As Katherine R. Larson notes, 'Conversational decorum involved strategic self-positioning relative at once to one's interlocutors and to the space and setting within which an interchange took place'. <ref type="bibr" target="#b64">75</ref> In Peking Picnic, the interlocutors are members of the European neighbourhood, and the setting refers to the context specific location of the Legation Quarter and its residents' expatriate status, both of which determine the focus of conversations. Bridge summarises the feature of the European society as 'hollow echo' in which 'ideas … cannot be too much lived with'. <ref type="bibr" target="#b65">76</ref> This 'hollow' property arises from a loosely bounded and self-reliant European neighbourhood that lacks collective symbols and national solidarity and whose members come from different countries and cultural backgrounds. Thus, the narrator articulates the expatriate condition as a neither/nor position, wherein Mrs. Leroy's social circle shift their conversation focus away from addressing issues pertinent to their homeland of Britain and their adopted host, China. This detachment offers them an in-between standing point for perceiving the world and interacting with their immediate surroundings, a ground for shaping their self-fashioning.</p><p>Because of the detachment, Bridge's characters are often characterised as demonstrating little interest in social-political topics but prioritising the thematic minutiae of their daily lives. According to historical facts, 'Apart from a handful of ministers and the professional sinologists the average diplomat had little work of real substance to fill his day', due to being '[u]nable to speak Chinese, fearful of disease' and their avoidance of 'the distractions of a more cosmopolitan capital (there was one cinema)'. <ref type="bibr" target="#b66">77</ref> 'Peking's diplomatic community relied on two pursuits to give their life meaning -sex and horses'. <ref type="bibr" target="#b67">78</ref> The two main daily practices are also themes of Bridge's Beijing writing with sex as a significant topic among Mrs. Leroy's social circle.</p><p>The fact that '[t]he riding, racing and polo were genuine enough but the sex often more imagined than real' is evident in the example of the emerging romantic relationship between Mrs. Leroy and Professor Vinstead. <ref type="bibr" target="#b68">79</ref> Their preoccupation with daily routines also originates from the itinerant property of their diplomatic life. The nomadic lifestyle coupled with their determination to maintain old-fashioned ways of life impedes their adaptability to circumstances in an alien environment. Moreover, an escape from professional obligations prompts diplomats such as General Nevile to engage in trivial discussions rather than weighty political affairs in daily gatherings. It is the free talks initiated by Mrs. Leroy that alleviate herself and her social circle from calculated diplomatic conversations with 'measured platitudes' in the backdrop of scenic mountains during the trip to the Jietai Temple. <ref type="bibr" target="#b69">80</ref> However, the detachment merely indicates the characters' deviation from specific contexts of both cultures. Actually, Bridge's female characters are involved with Legation-related politics hidden in their party conversations.</p><p>Conversationalists like Mrs. Leroy and General Nevile demonstrate their intention to challenge the stereotyped ideas about Chinese people compared with the wholly biased ideas of new British visitors, which indicates their local identity is partially in conflict with the imperial framework. Political discourse of imperialism is woven into a seemingly apolitical discussion of the Chinese national characteristic. Michel de Certeau shifts the focus to power struggles inherent in daily practices, conceiving conversations as a means of imposing institutional power relations while more significantly asserting individual's agency: 'Conversation is a provisional and collective effect of competence in the art of manipulating "commonplaces" and the inevitability of events in such a way as to make them "habitable"'. <ref type="bibr" target="#b70">81</ref> Along with the allure of exoticism and romanticism, transient travellers' entrenched stereotypes of China often emerge through established European frameworks, comprising educational paradigms, popular culture, and pervasive propaganda. <ref type="bibr" target="#b71">82</ref> In Peking Picnic, Professor Vinstead, in his pursuit of oriental studies, harbours a prejudiced conviction that the Chinese were 'perhaps the most baffling race on earth, psychologically'. <ref type="bibr" target="#b72">83</ref> In contrast, General Nevile endeavours to eliminate stereotypes and prejudices about the Chinese prevalent among Europeans of his era by basing his assessments on firsthand experiences in China. General Nevile extols the virtues of Chinese amiability, merriment, and honesty, even more so than Europeans and Americans, although his portrayal of the 'coolie' class repeats racist narratives by attributing opium issue and murders of Europeans to illiterate, 'hysteria', and poverty. <ref type="bibr">84</ref> What's more, Mrs. Leroy's statement that '[t]he Chinese are frightfully well worth understanding; they have some marvelous qualities, but they have a lot of most peculiar characteristics as well, you must recognize the whole lot to get them right' 85 demonstrates her effort to move beyond simplistic generalisations and points out that the limited scope of certain Britons can lead to inaccurate perceptions of Chinese people.</p><p>Shifting the conversational location to the Legation, the concerns of Bridge's conversationalists diverge from those prevalent in her age. Unlike women in Britain who entered public life after the war through employment or suffrage in the 1920s, <ref type="bibr" target="#b73">86</ref> those within the legation remained largely dependent on their husbands or fathers. In Peking Picnic, they inherit the tradition of salon culture of conversing on 'the idealized story of their own daily lives' 87 rather than on broader societal issues. The subjects of conversation include an extensive scope, ranging from love, sex, marriage, art, and interpersonal relations, but those seemingly innocent topics are in fact politically related in the realm of gender relations. Their topics manifest feminist ideas through several key themes, including the complexity of women's emotional experiences, the critique of traditional gender roles and societal expectations, and the exploration of women's dissatisfaction within marriage. For instance, Miss Hande, an American novelist, and Mrs. Leroy pinpoint that elder people, particularly women of middle age, have 'richer natures and a wider experience' and 'the slow, painful, and consuming love' compared to younger individuals whose love is simpler. <ref type="bibr" target="#b75">88</ref> Their discussion values the diversity of women's emotional lives and personal growth. Before the mixed-gender conversations, Mrs. Leroy is described as a married woman who is bustling with 'little things -clothes and notes and comings and goings and people and interruptions and more clothes and more notes' 89 and is struggling with an unhappy marriage yet yearning for emotional fulfilment. Her emerging romantic affair with Professor Vinstead and her possible experience of 'too little sex in lifetime' 90 serve as an indication of how the societal norms once suppressed women's agency and relegated them to passive objects of desire within the patriarchal structure. Thus, the conversations among the European expatriate neighbourhood, though constrained by their limited engagement with broader British and Chinese public spheres, demonstrate a distinct form of feminist perspective that prioritises women's voices and lived experiences in transcultural everyday discourse.</p><p>Conversation is a means specifically for expatriate women to practice selffashioning. In European tradition, the salon is portrayed as a place where the hostess, as the organiser and central figure, guides conversations and highlights her agency in the public sphere. Current scholarship has researched the significance of conversational salons in closet space, the drawing room, or the Blue Room in the European continent. <ref type="bibr" target="#b76">91</ref> In alignment with the tradition, Bridge's mixed-gender parties elucidate the importance of women's roles in determining whether the salon has a strong temptation to attract talented writers and scholars to share their insightful views in a weekly gathering. The party functions as a challenge to patriarchal structures through practicing self-fashioning. Mrs. Leroy subverts the status of men as the sole authoritative speakers by making guest lists and engaging in dialogues of intellectual equality. The party in the Jietai Temple with Mrs. Leroy as the central voice with supporting chaotic multi-voices from different disciplines and countries, such as a Cambridge scholar, the General, and an American novel writer, convey distinctive insights into the topics about women's personal growth, compensating for the masculine voices as well as indicating her own intelligence, taste, and influence. Furthermore, Mrs. Leroy assumes the role of China experts or cultural interpreters, introducing everyday knowledge in China to newly arrived visitors. For instance, Mrs. Leroy explains to a newcomer, the American novelist Miss Anna Hande, that the unfavourable sanitary condition in Beijing might deprive Westerners of lives: 'It isn't the climate that kills you as a rule -it's dirt -dirt and indifference'. <ref type="bibr" target="#b77">92</ref> She further clarifies 'the entire human traffic' is not a sign of disrespect for 'the dignity of labor' and relying on rickshaw is not similar to treating humans as beasts, as this form of labour, much like the work of stokers or miners, is regarded as a legitimate and ordinary form of employment. <ref type="bibr" target="#b78">93</ref> Although the conversations engage males like Dereck, Mrs. Leroy guides and concludes the discussion. This form of authority, rooted in local expertise within everyday transcultural settings, allows expatriate women to circumvent male-dominated imperial systems of diplomatic and academic knowledge.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Conclusion</head><p>Expatriates in the foreign settlers' neighbourhood form a third identity, termed by Robert Bickers as a 'local imagined' construct along with their British and imperial identities. <ref type="bibr" target="#b79">94</ref> However, the local identity of Bridge and her protagonists is not fixed and solid as the British settlers in Shanghai. Throughout her literary career, Bridge's frequent changes in sojourns, such as other countries like Ireland, Hungary, Turkey, USA, and Portugal, shape herself and her characters' cultural preferences and alignment with distinctive locales. This ultimately forms a temporary and fluid local identity of expatriate women. Bridge and her characters' self-fashioning, as a heterogeneous sense of identity construction, involves a process that embraces locales by negotiating non-binary British, imperial and gendered elements in daily lives and integrating them into their self-presentations. Also, selffashioning is closely connected to women's easy access to and integration into local life on a daily basis, compared to male counterparts. The local identity of the expatriates, particularly that of female characters, comes into being through their own mundane rituals, notably arrangements of domestic decorations, social interactions, and repeated conversations that constitute routine engagements. The three aspects collectively form the means of self-fashioning which conforms to the social behaviours shaped by the formative locales, namely the Beijing cultural landscape and the unique position of the Legation. The formative locales represent an intersection where cultures converge in imperial encounters and the unsettling interplay between the familiar and the foreign.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Notes</head></div>			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="4" xml:id="foot_0"><p>Y. SUN</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="6" xml:id="foot_1"><p>Y. SUN</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="10" xml:id="foot_2"><p>Y. SUN</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="12" xml:id="foot_3"><p>Y. SUN</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="20" xml:id="foot_4"><p>Y. SUN</p></note>
+		</body>
+		<back>
+
+			<div type="acknowledgement">
+<div><head>Acknowledgements</head><p>The initial idea for this article grew out of my PhD dissertation completed in 2022. I am grateful to my supervisor <rs type="person">Professor Yvonne Ivory</rs> for her sagacious comments when I was drafting this article. I would also like to express my sincere appreciation for the insightful feedback from the anonymous reviewers.</p></div>
+			</div>
+			<div type="funding">
+<div><head>Funding</head><p>This work was supported by <rs type="funder">Capital University of Economics and Business Beijing Municipal College Basic Research Fund</rs> [grant number <rs type="grantNumber">XRZ2023079</rs>].</p></div>
+			</div>
+			<listOrg type="funding">
+				<org type="funding" xml:id="_rSYvmN5">
+					<idno type="grant-number">XRZ2023079</idno>
+				</org>
+			</listOrg>
+			<div type="annex">
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Disclosure statement</head><p>No potential conflict of interest was reported by the author(s).</p></div>			</div>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">Ann</forename><surname>Bridge</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Peking</forename><surname>Picnic</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1932">1932</date>
+			<publisher>Little, Brown, and Company</publisher>
+			<biblScope unit="page">3</biblScope>
+			<pubPlace>Boston</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<title level="a" type="main">Faith, Missionary Life, and the Family</title>
+		<author>
+			<persName><forename type="first">Patricia</forename><surname>Grimshaw</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Gender and Empire</title>
+		<editor>
+			<persName><forename type="first">Philippa</forename><surname>Levine</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Oxford</addrLine></address></meeting>
+		<imprint>
+			<publisher>Oxford University Press</publisher>
+			<date type="published" when="2004">2004</date>
+			<biblScope unit="page">269</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title level="a" type="main">Relocating Domesticity: Letters from India by Lady Hariot Dufferin</title>
+		<author>
+			<persName><forename type="first">Éadaoin</forename><surname>Agnew</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Travel Writing, Form, and Empire: The Poetics and Politics of Mobility</title>
+		<editor>
+			<persName><forename type="first">Julia</forename><surname>Kuehn</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">Paul</forename><surname>Smethurst</surname></persName>
+		</editor>
+		<meeting><address><addrLine>New York and London</addrLine></address></meeting>
+		<imprint>
+			<publisher>Routledge</publisher>
+			<date type="published" when="2009">2009</date>
+			<biblScope unit="page">96</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<monogr>
+		<title level="m" type="main">Renaissance Self-fashioning: From More to Shakespeare</title>
+		<author>
+			<persName><forename type="first">Stephen</forename><surname>Greenblatt</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1980">1980</date>
+			<publisher>University of Chicago Press</publisher>
+			<biblScope unit="page">1</biblScope>
+			<pubPlace>Chicago and London</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<monogr>
+		<title/>
+		<author>
+			<persName><surname>Ibid</surname></persName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<monogr>
+		<title level="m" type="main">Imperialist nostalgia refers to the cultural phenomenon in which Western travelers projected their idealized nostalgia for the pre-industrial life onto the antiquity of Beijing, which, in essence, ignores the authenticity and formative role of Beijing&apos;s locales</title>
+		<imprint>
+			<date type="published" when="2001">2001</date>
+			<publisher>University of Michigan Press</publisher>
+			<biblScope unit="page">94</biblScope>
+			<pubPlace>Nicholas Clifford; Ann Arbor</pubPlace>
+		</imprint>
+	</monogr>
+	<note>A Truthful Impression of the Country&apos;: British and American Travel Writing in China</note>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<monogr>
+		<title level="m" type="main">An Analysis of Stephen Greenblatt&apos;s Renaissance Self-Fashioning: From More to Shakespeare</title>
+		<author>
+			<persName><forename type="first">Liam</forename><surname>Haydon</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2017">2017</date>
+			<publisher>Routledge</publisher>
+			<biblScope unit="page">34</biblScope>
+			<pubPlace>London and New York</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title level="a" type="main">Prasannajit De Siva points out that paintings created by expatriate Britons in India &apos;manifest forms of hybridity&apos; and &apos;[i]ts portrayal within European visual genres constitutes an attempt to negotiate a position that combines both Indian and British elements, something which […] was fundamental to this colonial society as a whole&apos;. This finding illustrates expatriate Britons in India might have a hybrid position that combined elements of both British and Indian cultures represented in their works</title>
+	</analytic>
+	<monogr>
+		<title level="j">Colonial Self-fashioning in British India</title>
+		<imprint>
+			<biblScope unit="page">8</biblScope>
+			<date type="published" when="2018">2018</date>
+			<publisher>Cambridge Scholars Publishing</publisher>
+			<pubPlace>Newcastle</pubPlace>
+		</imprint>
+	</monogr>
+	<note>Prasannajit de Siva</note>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title level="a" type="main">This account of the Legation Quarter quotes from Robert Bickers&apos;s research in his work Britain in China: Community, Culture, and Colonialism, 1900-1949 based on his close reading of diaries of Sir Miles Lampson within the collection of Killearn papers (1926-1933) stored in Middle East Centre, St Antony&apos;s College, Oxford. Robert Bickers</title>
+	</analytic>
+	<monogr>
+		<title level="m">Britain in China: Community, Culture and Colonialism 1900-1949</title>
+		<meeting><address><addrLine>Manchester</addrLine></address></meeting>
+		<imprint>
+			<publisher>Manchester University Press</publisher>
+			<date type="published" when="1999">1999</date>
+			<biblScope unit="page">118</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<monogr>
+		<title level="m" type="main">China Court Museum, which lies in the former site of Yokohama Specie Bank Ltd. in the Legation, offers the historical introduction and the geographical scale model of this area</title>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<monogr>
+		<title level="m" type="main">Britain in China</title>
+		<author>
+			<persName><surname>Bickers</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="page" from="88" to="89" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<monogr>
+		<title level="m">Ann Bridge, Facts and Fictions: Some Literary Recollections</title>
+		<meeting><address><addrLine>New York</addrLine></address></meeting>
+		<imprint>
+			<publisher>McGraw-Hill Book Company</publisher>
+			<date type="published" when="1968">1968</date>
+			<biblScope unit="page">19</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<title level="a" type="main">Bird travelled trans-continentally, and her works, such as The Yangtze Vally and Beyond (1899) and Chinese Pictures: Notes on Photographs Made in China (1900), are about her experience in China</title>
+	</analytic>
+	<monogr>
+		<title level="m">East Asia, and wrote travel writings like The Face of China</title>
+		<imprint>
+			<date type="published" when="1909">1909</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<monogr>
+		<author>
+			<persName><forename type="first">Jane</forename><surname>Robinson</surname></persName>
+		</author>
+		<title level="m">Unsuitable for Ladies: An Anthology of Women Travellers</title>
+		<meeting><address><addrLine>Oxford</addrLine></address></meeting>
+		<imprint>
+			<publisher>Oxford University Press</publisher>
+			<date type="published" when="2001">2001</date>
+			<biblScope unit="page">p. xii</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<title level="a" type="main">Introduction</title>
+		<author>
+			<persName><forename type="first">Clare</forename><surname>Broome</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Saunders</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Women, Travel Writing, and Truth</title>
+		<editor>
+			<persName><forename type="first">Clare</forename><surname>Broome</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">Saunders</forename></persName>
+		</editor>
+		<meeting><address><addrLine>New York and London</addrLine></address></meeting>
+		<imprint>
+			<publisher>Routledge</publisher>
+			<date type="published" when="2014">2014</date>
+			<biblScope unit="page">3</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title/>
+	</analytic>
+	<monogr>
+		<title level="j">Bridge, Facts and Fictions</title>
+		<imprint/>
+	</monogr>
+	<note>ix</note>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<monogr>
+		<title/>
+		<author>
+			<persName><surname>Ibid</surname></persName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<monogr>
+		<title level="m" type="main">The Location of Culture</title>
+		<author>
+			<persName><forename type="first">Homi</forename><surname>Bhabha</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1994">1994</date>
+			<publisher>Routledge</publisher>
+			<biblScope unit="page">13</biblScope>
+			<pubPlace>London and New York</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<monogr>
+		<title level="m" type="main">Travelling in Different Skins: Gender Identity in European Women&apos;s Oriental Travelogues</title>
+		<author>
+			<persName><forename type="first">Dúnlaith</forename><surname>Bird</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2012">2012</date>
+			<publisher>Oxford University Press</publisher>
+			<biblScope unit="page">27</biblScope>
+			<pubPlace>Oxford</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<monogr>
+		<title level="m" type="main">At Home&apos; means a house party, namely a small, scheduled social gathering at home, originated in eighteenth-century France and transplanted by the Westerners working primarily in the concessions, diplomatic missions, customs offices</title>
+		<author>
+			<persName><forename type="first">Peking</forename><surname>Bridge</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Picnic</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="page">4</biblScope>
+		</imprint>
+	</monogr>
+	<note>and major foreign trading companies to the treaty-port society and the Legation in China</note>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<monogr>
+		<title level="m" type="main">who puts forward ideas of interpenetrated space, proclaims, &apos;[t]he space of a room, bedroom, house or garden may be cut off in a sense from social space by barriers and walls, by all the signs of private property, yet still remain fundamental part of that space&apos;. Henri Lefebvre, The Production of Space, trans</title>
+		<author>
+			<persName><forename type="first">Henry</forename><surname>Lefebvre</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1991">1991</date>
+			<publisher>Oxford University Press</publisher>
+			<biblScope unit="page">87</biblScope>
+			<pubPlace>Oxford and Cambridge MA</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<monogr>
+		<author>
+			<persName><forename type="first">Victoria</forename><surname>Rosner</surname></persName>
+		</author>
+		<title level="m">Modernism and the Architecture of Private Life</title>
+		<meeting><address><addrLine>New York</addrLine></address></meeting>
+		<imprint>
+			<publisher>Columbia University Press</publisher>
+			<date type="published" when="2005">2005</date>
+			<biblScope unit="page">5</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<monogr>
+		<author>
+			<persName><forename type="first">Ben</forename><surname>Highmore</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Ordinary</forename><surname>Lives</surname></persName>
+		</author>
+		<title level="m">Studies in the Everyday</title>
+		<meeting><address><addrLine>London and New York</addrLine></address></meeting>
+		<imprint>
+			<publisher>Routledge</publisher>
+			<date type="published" when="2010">2010</date>
+			<biblScope unit="page">20</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<analytic>
+		<title level="a" type="main">Peking Picnic</title>
+	</analytic>
+	<monogr>
+		<title level="j">Bridge</title>
+		<imprint>
+			<biblScope unit="page">50</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<monogr>
+		<title/>
+		<author>
+			<persName><surname>Ibid</surname></persName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<analytic>
+		<title level="a" type="main">The Promise of Non-Representational Theories</title>
+		<author>
+			<persName><forename type="first">Ben</forename><surname>Anderson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Paul</forename><surname>Harrison</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Taking-Place: Non-Representational Theories</title>
+		<editor>
+			<persName><forename type="first">Ben</forename><surname>Anderson</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">Paul</forename><surname>Harrison</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Farnham and Burlington VT</addrLine></address></meeting>
+		<imprint>
+			<publisher>Ashgate Publishing</publisher>
+			<date type="published" when="2010">2010</date>
+			<biblScope unit="page">9</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<analytic>
+		<title level="a" type="main">Peking Picnic</title>
+	</analytic>
+	<monogr>
+		<title level="j">Bridge</title>
+		<imprint>
+			<biblScope unit="page">27</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b27">
+	<monogr>
+		<title/>
+		<author>
+			<persName><surname>Ibid</surname></persName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b28">
+	<monogr>
+		<title/>
+		<author>
+			<persName><surname>Ibid</surname></persName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b29">
+	<monogr>
+		<title/>
+		<author>
+			<persName><surname>Ibid</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="page" from="39" to="40" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b30">
+	<monogr>
+		<author>
+			<persName><forename type="first">David</forename><surname>Porter</surname></persName>
+		</author>
+		<title level="m">The Chinese Taste in Eighteenth-Century England</title>
+		<meeting><address><addrLine>Cambridge and New York</addrLine></address></meeting>
+		<imprint>
+			<publisher>Cambridge University Press</publisher>
+			<date type="published" when="2010">2010</date>
+			<biblScope unit="page">57</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b31">
+	<analytic>
+		<title level="a" type="main">Maugham recognizes the cultural phenomenon of the utilization of Chinese artistic decorations by foreign missionaries in Chinese mansions that they rent, but he reveals their lack of a true appreciation of Chinese culture due to disparity and cultural superiority as shown in his On a Chinese Screen written during his travel throughout Asia and the Pacific including China in the 1920s and 1930s, the same period as Bridge&apos;s. William Somerset Maugham</title>
+	</analytic>
+	<monogr>
+		<title level="m">On a Chinese Screen</title>
+		<meeting><address><addrLine>London</addrLine></address></meeting>
+		<imprint>
+			<publisher>William Heinemann</publisher>
+			<date type="published" when="1922">1922</date>
+			<biblScope unit="page" from="47" to="54" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b32">
+	<analytic>
+		<title level="a" type="main">Fact and Fiction: Subverting Orientalism in Ann Bridge&apos;s The Dark Moment</title>
+		<author>
+			<persName><forename type="first">Isil</forename><surname>Bas</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Acta Neophilologica</title>
+		<imprint>
+			<biblScope unit="volume">46</biblScope>
+			<biblScope unit="issue">1-2</biblScope>
+			<biblScope unit="page">53</biblScope>
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b33">
+	<analytic>
+		<title level="a" type="main">Multiculturalism, Interculturality, Transculturality</title>
+		<author>
+			<persName><forename type="first">Afef</forename><surname>Benessaieh</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Transcultural Americas</title>
+		<editor>
+			<persName><forename type="first">Afef</forename><surname>Benessaieh</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Ottawa</addrLine></address></meeting>
+		<imprint>
+			<publisher>University of Ottawa Press</publisher>
+			<date type="published" when="2010">2010</date>
+			<biblScope unit="page">21</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b34">
+	<monogr>
+		<title level="m" type="main">Relocating Domesticity</title>
+		<author>
+			<persName><surname>Agnew</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="page">103</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b35">
+	<analytic>
+		<title level="a" type="main">Affective landscape as a critical concept was put forward as a conference theme at Universities of Derby and Portsmouth, UK</title>
+	</analytic>
+	<monogr>
+		<title level="j">Cultural Politics</title>
+		<editor>
+			<persName><forename type="first">Christine</forename><surname>Berberich</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">Neil</forename><surname>Campbell</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">Robert</forename><surname>Hudson</surname></persName>
+		</editor>
+		<imprint>
+			<biblScope unit="volume">9</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="313" to="322" />
+			<date type="published" when="2012-05">May 2012. 2013</date>
+		</imprint>
+	</monogr>
+	<note>Affective Landscapes: An Introduction</note>
+</biblStruct>
+
+<biblStruct xml:id="b36">
+	<analytic>
+		<title level="a" type="main">Peking Picnic</title>
+	</analytic>
+	<monogr>
+		<title level="j">Bridge</title>
+		<imprint>
+			<biblScope unit="page">178</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b37">
+	<monogr>
+		<title/>
+		<author>
+			<persName><surname>Ibid</surname></persName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b38">
+	<monogr>
+		<author>
+			<persName><forename type="first">Robert</forename><surname>Burden</surname></persName>
+		</author>
+		<title level="m">Travel, Modernism and Modernity</title>
+		<meeting><address><addrLine>Farnham and Burlington VT</addrLine></address></meeting>
+		<imprint>
+			<publisher>Ashgate Publishing</publisher>
+			<date type="published" when="2015">2015</date>
+			<biblScope unit="page">13</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b39">
+	<monogr>
+		<title level="m" type="main">In the novel, the name &apos;Chieh T&apos;ai Ssu&apos; is written in the Wade-Giles system; its equivalent in modern Hanyu pinyin is &apos;Jietai Temple</title>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b40">
+	<analytic>
+		<title level="a" type="main">On their way back from the Western Hills to the Legation, as she recalled, &apos;after climbing Mt. Conolly and spending two nights in the Temple of the Jade Emperor, we stopped for lunch at Tan Chüeh Ssu&apos;. The &apos;delicious little corner courtyard with the island pavilion where half the party in Peking Picnic are cornered by bandits&apos; also serves as the factual basis for her fiction</title>
+		<author>
+			<persName><forename type="first">Peking</forename><surname>Bridge</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Picnic</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Bridge, Facts and Fictions</title>
+		<imprint>
+			<biblScope unit="volume">3</biblScope>
+			<biblScope unit="page">2</biblScope>
+		</imprint>
+	</monogr>
+	<note>The plot of the trip to the Jietai Temple and the subsequent picnic is created based on Bridge&apos;s real experiences</note>
+</biblStruct>
+
+<biblStruct xml:id="b41">
+	<analytic>
+		<title level="a" type="main">Peking Picnic</title>
+	</analytic>
+	<monogr>
+		<title level="j">Bridge</title>
+		<imprint>
+			<biblScope unit="page">122</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b42">
+	<monogr>
+		<title/>
+		<author>
+			<persName><surname>Ibid</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="volume">225</biblScope>
+			<biblScope unit="page">329</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b43">
+	<analytic>
+		<title level="a" type="main">Encounters with Otherness: Female Travelers in China, 1880-1920</title>
+		<author>
+			<persName><forename type="first">Julia</forename><surname>Kuehn</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">A Century of Travels in China: Critical Essays on Travel Writing from the 1840s to the 1940s</title>
+		<editor>
+			<persName><forename type="first">Douglas</forename><surname>Kerr</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">Julia</forename><surname>Kuehn</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Hong Kong</addrLine></address></meeting>
+		<imprint>
+			<publisher>Hong Kong University Press</publisher>
+			<date type="published" when="2007">2007</date>
+			<biblScope unit="page" from="86" to="88" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b44">
+	<analytic>
+		<title level="a" type="main">Peking Picnic</title>
+	</analytic>
+	<monogr>
+		<title level="j">Bridge</title>
+		<imprint>
+			<biblScope unit="page" from="123" to="124" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b45">
+	<analytic>
+		<title level="a" type="main">Introduction: Framing and Reframing Land and Identity</title>
+		<author>
+			<persName><forename type="first">Christine</forename><surname>Berberich</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Neil</forename><surname>Campbell</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Robert</forename><surname>Hudson</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Land and Identity: Theory, Memory, and Practice</title>
+		<editor>
+			<persName><forename type="first">Christine</forename><surname>Berberich</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">Neil</forename><surname>Campbell</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">Robert</forename><surname>Hudson</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Amsterdam and New York</addrLine></address></meeting>
+		<imprint>
+			<publisher>Rodopi</publisher>
+			<date type="published" when="2012">2012</date>
+			<biblScope unit="page">4</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b46">
+	<analytic>
+		<title level="a" type="main">For similar ideas concerning identity formation, see Stuart Hall</title>
+	</analytic>
+	<monogr>
+		<title level="m">Selected Writings on Race and Difference</title>
+		<editor>
+			<persName><forename type="first">Paul</forename><surname>Gilroy</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">Ruth</forename><forename type="middle">Wilson</forename><surname>Gilmore</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Durham NC and London</addrLine></address></meeting>
+		<imprint>
+			<publisher>Duke University Press</publisher>
+			<date type="published" when="1990">1990. 2021</date>
+			<biblScope unit="page">260</biblScope>
+		</imprint>
+	</monogr>
+	<note>Cultural Identity and Diaspora</note>
+</biblStruct>
+
+<biblStruct xml:id="b47">
+	<analytic>
+		<title level="a" type="main">Part I: Living</title>
+		<author>
+			<persName><forename type="first">Pierre</forename><surname>Mayol</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">The Practice of Everyday Life</title>
+		<editor>
+			<persName><forename type="first">Timothy</forename><forename type="middle">J</forename><surname>Trans</surname></persName>
+		</editor>
+		<editor>
+			<persName><surname>Tomasik</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Minneapolis</addrLine></address></meeting>
+		<imprint>
+			<publisher>University of Minnesota Press</publisher>
+			<date type="published" when="1998">1998</date>
+			<biblScope unit="volume">2</biblScope>
+			<biblScope unit="page">15</biblScope>
+		</imprint>
+	</monogr>
+	<note>Living and Cooking</note>
+</biblStruct>
+
+<biblStruct xml:id="b48">
+	<analytic>
+		<title level="a" type="main">Peking Picnic</title>
+	</analytic>
+	<monogr>
+		<title level="j">Bridge</title>
+		<imprint>
+			<biblScope unit="page" from="71" to="72" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b49">
+	<monogr>
+		<title/>
+		<author>
+			<persName><surname>Ibid</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="page" from="13" to="14" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b50">
+	<analytic>
+		<title level="a" type="main">The temples in the Western Hills served as resorts for European people, especially staffs of embassies, who moved there for the summer. They rented rooms with their wives, children, and servants and decorated the deeply Chinese spaces with Europeanstyle furniture</title>
+	</analytic>
+	<monogr>
+		<title level="j">Bridge</title>
+		<imprint>
+			<biblScope unit="page" from="19" to="20" />
+		</imprint>
+	</monogr>
+	<note>Facts and Fictions</note>
+</biblStruct>
+
+<biblStruct xml:id="b51">
+	<monogr>
+		<title level="m" type="main">Part I: Living</title>
+		<author>
+			<persName><forename type="first">Pierre</forename><surname>Mayol</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="page">9</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b52">
+	<analytic>
+		<title level="a" type="main">Peking Picnic</title>
+	</analytic>
+	<monogr>
+		<title level="j">Bridge</title>
+		<imprint>
+			<biblScope unit="page">30</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b53">
+	<monogr>
+		<title/>
+		<author>
+			<persName><surname>Ibid</surname></persName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b54">
+	<monogr>
+		<title/>
+		<author>
+			<persName><surname>Ibid</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="page">5</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b55">
+	<analytic>
+		<title level="a" type="main">Doreen Massey links &apos;the limitation on mobility&apos;, namely limited access to travel, to women&apos;s identity formation: &apos;Moreover the two things -the limitation on mobility in space, the attempted consignment/confinement to particular places on the one hand, and the limitation on identity on the otherhave been crucially related</title>
+	</analytic>
+	<monogr>
+		<title level="j">Place and Gender</title>
+		<imprint>
+			<biblScope unit="page">179</biblScope>
+			<date type="published" when="1994">1994</date>
+			<publisher>University of Minnesota Press</publisher>
+			<pubPlace>Doreen Massey, Space; Minneapolis</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b56">
+	<analytic>
+		<title level="a" type="main">Peking Picnic</title>
+	</analytic>
+	<monogr>
+		<title level="j">Bridge</title>
+		<imprint>
+			<biblScope unit="page">18</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b57">
+	<monogr>
+		<title/>
+		<author>
+			<persName><surname>Ibid</surname></persName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b58">
+	<analytic>
+		<title/>
+	</analytic>
+	<monogr>
+		<title level="j">Bridge, Facts and Fictions</title>
+		<imprint>
+			<biblScope unit="page">22</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b59">
+	<analytic>
+		<title level="a" type="main">Peking Picnic</title>
+	</analytic>
+	<monogr>
+		<title level="j">Bridge</title>
+		<imprint>
+			<biblScope unit="page">115</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b60">
+	<monogr>
+		<title level="m" type="main">The time period during which Bridge stayed in Beijing was the era under the governance of the Northern Warlords Government of China (1912-1928), following the end of the imperial Qing Dynasty (1644-1911). Although the Boxer Rebellion and the siege of the Legations had happened more than twenty years earlier, the gulf between British and Chinese had not been bridged</title>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b61">
+	<analytic>
+		<title level="a" type="main">Chinese Material Culture and British Perceptions of China in the Mid-Nineteenth Century</title>
+		<author>
+			<persName><forename type="first">Catherine</forename><surname>Pagani</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Colonialism and the Object: Empire, Material Culture and the Museum</title>
+		<editor>
+			<persName><forename type="first">Tim</forename><surname>Barringer</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">Tom</forename><surname>Flynn</surname></persName>
+		</editor>
+		<meeting><address><addrLine>London and New York</addrLine></address></meeting>
+		<imprint>
+			<publisher>Routledge</publisher>
+			<date type="published" when="1998">1998</date>
+			<biblScope unit="page">28</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b62">
+	<monogr>
+		<title/>
+		<author>
+			<persName><surname>Ibid</surname></persName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b63">
+	<monogr>
+		<title level="m" type="main">A Dance with the Dragon: The Vanished World of Peking&apos;s Foreign Colony</title>
+		<author>
+			<persName><forename type="first">Julia</forename><surname>Boyd</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2012">2012</date>
+			<publisher>I.B. Tauris</publisher>
+			<biblScope unit="page">122</biblScope>
+			<pubPlace>London and New York</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b64">
+	<monogr>
+		<author>
+			<persName><forename type="first">Katherine</forename><forename type="middle">R</forename><surname>Larson</surname></persName>
+		</author>
+		<title level="m">Early Modern Women in Conversation</title>
+		<meeting><address><addrLine>Basingstoke and New York</addrLine></address></meeting>
+		<imprint>
+			<publisher>Palgrave Macmillan</publisher>
+			<date type="published" when="2011">2011</date>
+			<biblScope unit="page">41</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b65">
+	<analytic>
+		<title level="a" type="main">Peking Picnic</title>
+	</analytic>
+	<monogr>
+		<title level="j">Bridge</title>
+		<imprint>
+			<biblScope unit="page">18</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b66">
+	<monogr>
+		<title level="m" type="main">A Dance with the Dragon</title>
+		<author>
+			<persName><surname>Boyd</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="page">125</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b67">
+	<monogr>
+		<title/>
+		<author>
+			<persName><surname>Ibid</surname></persName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b68">
+	<monogr>
+		<title/>
+		<author>
+			<persName><surname>Ibid</surname></persName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b69">
+	<analytic>
+		<title level="a" type="main">Peking Picnic</title>
+	</analytic>
+	<monogr>
+		<title level="j">Bridge</title>
+		<imprint>
+			<biblScope unit="page">115</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b70">
+	<monogr>
+		<title level="m" type="main">The Practice of Everyday Life, trans. Steven Rendall (Berkeley</title>
+		<author>
+			<persName><forename type="first">Michel</forename><surname>De</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Certeau</forename></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1984">1984</date>
+			<publisher>University of California Press</publisher>
+			<biblScope unit="page">p. xxii</biblScope>
+			<pubPlace>Los Angeles, and London</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b71">
+	<monogr>
+		<title level="m" type="main">The stereotyped images of the Chinese were shaped by &apos;the yellow peril&apos; and actually serves as a means to strengthen racial discrimination and to legitimize the expansion of imperialism. These perceptions are based on imaginations and misrepresentations</title>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b72">
+	<analytic>
+		<title level="a" type="main">Peking Picnic</title>
+	</analytic>
+	<monogr>
+		<title level="j">Bridge</title>
+		<imprint>
+			<biblScope unit="page">109</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b73">
+	<analytic>
+		<title level="a" type="main">British women gained social and political rights when &apos;feminists had even succeeded in many countries in securing women&apos;s suffrage and in pushing through other kinds of reform legislation that gradually improved their legal status&apos; and &apos;women of all classes moved into positions they had never held before, and in the process they proved themselves perfectly capable of handling what had in the past been men&apos;s jobs</title>
+	</analytic>
+	<monogr>
+		<title level="m">Becoming Modern: Young Women and the Reconstruction of Womanhood in the 1920s</title>
+		<meeting><address><addrLine>Princeton NJ and Oxfordshire</addrLine></address></meeting>
+		<imprint>
+			<publisher>Princeton University Press</publisher>
+			<date type="published" when="2000">2000</date>
+			<biblScope unit="page">4</biblScope>
+		</imprint>
+	</monogr>
+	<note>In the 1920s</note>
+</biblStruct>
+
+<biblStruct xml:id="b74">
+	<monogr>
+		<author>
+			<persName><forename type="first">Benedetta</forename><surname>Craveri</surname></persName>
+		</author>
+		<title level="m">The Age of Conversation, trans. Teresa Waugh</title>
+		<meeting><address><addrLine>New York</addrLine></address></meeting>
+		<imprint>
+			<publisher>New York Review Books</publisher>
+			<date type="published" when="2005">2005</date>
+			<biblScope unit="page">47</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b75">
+	<analytic>
+		<title level="a" type="main">Peking Picnic</title>
+	</analytic>
+	<monogr>
+		<title level="j">Bridge</title>
+		<imprint>
+			<biblScope unit="page">208</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b76">
+	<analytic>
+		<title level="a" type="main">Those three types of space share a similar function of information exchange: The closet is predominantly designed for private duties and other non-public affairs related to reading or studying; The drawing room, or living room, is to host salons and to entertain visitors</title>
+		<author>
+			<persName><forename type="first">See</forename><surname>Dorothea</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Heitsch</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Faith Evelyn Beasley, Salons, History, and the Creation of 17th-Century France: Mastering Memory</title>
+		<editor>
+			<persName><forename type="first">Dorothea</forename><surname>Heitsch</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">Jean-François</forename><surname>Vallée</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Toronto, Buffalo NY, and London; Ann Arbor; Farnham and Burlington VT</addrLine></address></meeting>
+		<imprint>
+			<publisher>Ashgate Publishing</publisher>
+			<date type="published" when="2004">2004. 2005. 2006</date>
+			<biblScope unit="page" from="113" to="133" />
+		</imprint>
+	</monogr>
+	<note>From Dialogue to Conversation: The Place of Marie de Gournay. The Blue Room is used for social conversations and intellectual exchange</note>
+</biblStruct>
+
+<biblStruct xml:id="b77">
+	<analytic>
+		<title level="a" type="main">Peking Picnic</title>
+	</analytic>
+	<monogr>
+		<title level="j">Bridge</title>
+		<imprint>
+			<biblScope unit="page">78</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b78">
+	<monogr>
+		<title/>
+		<author>
+			<persName><surname>Ibid</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="page" from="80" to="81" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b79">
+	<analytic>
+		<title level="a" type="main">Shanghailanders: The Formation and Identity of the British Settler Community in Shanghai 1843-1937</title>
+	</analytic>
+	<monogr>
+		<title level="j">Past &amp; Present</title>
+		<imprint>
+			<biblScope unit="volume">159</biblScope>
+			<biblScope unit="page" from="161" to="211" />
+			<date type="published" when="1998">1998</date>
+		</imprint>
+	</monogr>
+	<note>Robert Bickers discusses the identities of British settler community in Shanghai. Robert Bickers</note>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

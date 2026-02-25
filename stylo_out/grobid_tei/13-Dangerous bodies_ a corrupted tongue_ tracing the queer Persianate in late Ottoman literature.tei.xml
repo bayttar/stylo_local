@@ -1,0 +1,2511 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Dangerous bodies, a corrupted tongue: tracing the queer Persianate in late Ottoman literature</title>
+				<funder>
+					<orgName type="full">Koç Üniversitesi</orgName>
+				</funder>
+				<funder ref="#_BUvSWgM">
+					<orgName type="full">Social Sciences and Humanities Research Council of Canada</orgName>
+				</funder>
+				<funder ref="#_99ePr62">
+					<orgName type="full">unknown</orgName>
+				</funder>
+				<funder>
+					<orgName type="full">Koç University, ANAMED Institute</orgName>
+				</funder>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author role="corresp">
+							<persName><forename type="first">Erik</forename><surname>Blackthorne-O'barr</surname></persName>
+							<email>eab2255@columbia.edu</email>
+							<affiliation key="aff0">
+								<orgName type="institution" key="instit1">Middle Eastern</orgName>
+								<orgName type="institution" key="instit2">South Asian and African Studies</orgName>
+								<orgName type="institution" key="instit3">Columbia University</orgName>
+								<address>
+									<settlement>New York</settlement>
+									<region>NY</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff1">
+								<orgName type="institution">&apos;Yeni Lisan</orgName>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Dangerous bodies, a corrupted tongue: tracing the queer Persianate in late Ottoman literature</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date/>
+						</imprint>
+					</monogr>
+					<idno type="MD5">5FD2B68441F48E4BA98E5C0DFCDDA82E</idno>
+					<idno type="DOI">10.1080/14735784.2024.2364602</idno>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.0" ident="GROBID" when="2026-02-25T19:53+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term>Turkish literature</term>
+					<term>Persianate</term>
+					<term>queer theory</term>
+					<term>heteronormativity</term>
+					<term>Ottoman feminism</term>
+				</keywords>
+			</textClass>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>For authors of the early twentieth century Millî Edebiyat [National Literature] movement like Ömer Seyfettin (1884-1920) and Halide  Edip Adıvar (1884-1964), the notion of a pernicious Ottoman 'Persophilia' served as a crucial negative ground against which a new Turkish literary modernity could be defined. In their writings before the outbreak of the First World War, these two authors established a direct link between the construction of a 'healthy' language purged from Persianate influence, and the inculcation of a vital, productive, and patriotic heteronormativity. The influence of Persophilia was typified by two abject figures: the court poet entranced by the hat-âver, çar-ebru [thinlymoustached, four-browed] young male beloved, and the Persianate woman, oppressed by the customs of pederşahilik [father-kingship]. This article traces the genealogy of these two motifs in Ottoman discourse, to explore why these particular figures became so problematised, constituted as a locus of gendered and sexual anxiety, and ultimately deemed so threatening by these authors as to demand a total break with the heritage of the Ottoman past. It concludes by discussing the political possibilities of the queered Persianate, and how motifs like the şahmeran [serpent-queen] have been deployed as a symbol of queer and minoritarian resistance in contemporary Turkey.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Introduction: the queer Persianate</head><p>'But let us abandon that ornate language, fit only for the subjects of pleasure and desire, sycophancy and hypocrisy; the old language, the language of yesterday, which was born of a five-century-old irrationality and queerness' <ref type="bibr">(Ömer Seyfettin 1911, 6</ref>). 1 So wrote the short story author, poet, and <ref type="bibr">soldier Ömer Seyfettin (1884</ref><ref type="bibr">soldier Ömer Seyfettin ( -1920) )</ref> towards the end of the literary manifesto 'Yeni Lisan' ['New Language'], published in the April 11, 1911 issue of the Thessaloniki-based journal Genç Kalemler <ref type="bibr">[The Young Pens]</ref>. 2 The consequences were to be as revolutionary as Ömer Seyfettin had hoped. 'There was a literary language before Ömer Seyfettin', writes the historian Zafer Toprak, 'and another literary language represents a turning point in her oeuvre and within Turkish literature at large. It is for this reason that the translator and scholar Erdağ Göknar considers Yeni Turan to be both a 'transitional text' and paradigmatic of the political and literary debates of its time <ref type="bibr">(2009,</ref><ref type="bibr">(481)</ref><ref type="bibr">(482)</ref>.</p><p>Ömer Seyfettin and Halide Edip are commonly read together as the leading writers of the Millî Edebiyat [National Literature] era, a period of extraordinary violence and literary disruption usually bounded on one end by the publication of <ref type="bibr">'Yeni Lisan' in 1911, and</ref> on the other by the declaration of the Turkish Republic in 1923. 4 Certainly, it is true that both Ömer Seyfettin and Halide Edip shared intellectual circles, commented on each other's works, and wrote upon similar problems: above all, thinking through what a specifically Turkish literature should consist of, and which linguistic, aesthetic, political, social, and sexual norms this literature should serve to inculcate. The writings of both continue to form core components of the national primary, middle, and high school curricula <ref type="bibr" target="#b99">(Ogur 2020</ref>). 5 At the same time, however, I would argue that the uncritical use of this designation obscures their significant personal and intellectual differences. Aside from 'Yeni Lisan', Ömer Seyfettin is best known for the prolific short stories he wrote in 'new language': in addition to being hailed by Gökalp as 'the Christopher Columbus of our literary Turkish' <ref type="bibr">(Levend 1949, 382)</ref> he has also been regarded as 'our Maupassant' <ref type="bibr">(Yöntem 2005, 398)</ref> or else 'Turkey's Anton Chekhov' <ref type="bibr">(Karpat 2009, 199)</ref>. For my part, I follow critics of the period like Edward G. Browne in placing him more comfortably alongside figures like Filippo Tommaso Marinetti and Gabriele d'Annunzio <ref type="bibr">(Browne 1914: xxxix)</ref>: like Marinetti, there is the valorisation of youth, speed, stripped-down speech, and spilled blood; like D'Annunzio, Ömer Seyfettin's writing evinces a fin-de-siecle fascination with lurid depictions of gendered violence, torture, mutilation, and death. As Serkan Özdemir notes, the influence of Sade upon Ömer Seyfettin's politics and eroticism was profound, and explicit depictions of sadomasochism run throughout both his war stories and his domestic dramas; it is an influence which perhaps could have made his writing politically transgressive but which -with a few exceptions -has been largely put to the service of a deeply reactionary project <ref type="bibr">(Özdemir 2020, 263)</ref>. Perhaps surprisingly, Ömer Seyfettin's sadism has largely been downplayed by scholars including those, like Nergis Ertürk, who are deeply critical of his politics <ref type="bibr">(2011)</ref>. 6 It has only been the historian and critic Halil Berktay who has proposed that Seyfettin's proto-fascistic nationalism and linguistic purism may be rooted in a fundamentally erotic source <ref type="bibr">(2010,</ref><ref type="bibr">109)</ref>. 7  If Ömer Seyfettin represents the more reactionary side of the National Literature movement, Halide Edip is generally taken to represent its liberal wing: an emancipatory civic nationalism which 'prefigures the later interventions of post-colonial feminism' <ref type="bibr">(Göknar 2013, 53)</ref>. Whereas Ömer Seyfettin's citations are almost wholly continental, Halide Edip's writing and thought evinces an almost affected Anglophilia; an affiliation 4 For a general overview of this period see Enginün 2006; Arai 1992.  5 Although there have been efforts to remove his more violent stories, Ömer Seyfettin is still taught at all levels. Halide Edip's works are taught in middle or high school. 6 Ertürk's Derridean reading strangely concurs with Turkish nationalist historiography in de-eroticizing Ömer Seyfettin and regarding the sadism and violence in his work as simple depictions of the crimes of the Other. Yet such scenes also occur in his domestic stories, and as Murat Belge notes, Ömer Seyfettin inserts himself and his own views into his sadistic characters regardless of their national identity <ref type="bibr">(2009,</ref><ref type="bibr">101)</ref>. 7 Selim İleri made a similar argument in the 1970s, although he later repudiated this stance <ref type="bibr">(1975)</ref>.</p><p>which would later support the characterisation of her as a mandacı [League of Nations mandate-supporter] and national traitor following her political split with Mustafa Kemal Atatürk in 1925 <ref type="bibr" target="#b1">(Adak 2003;</ref><ref type="bibr" target="#b41">Durakbaşa 2000)</ref>. Outside of Turkey, however, the image of Halide Edip in academic literature has long been that of the exemplary nationalist feminist author and activist, whose personal culpability in the crimes of that nationalism has been seen as a tragic aberration (Jayawardena 1986, 40-41). 8 This idealised depiction of Halide Edip, based on her later English-language works, rather deemphasises the more formative period of her politics vis-à-vis Ottoman feminism, as well as her evolving conceptualisation of the relationship between gender, desire, and nationalist ideology. Scholars have noted how earlier novels like Yeni Turan tend to juxtapose an ungendered, politicised love for the national collective against the selfishness and debasement of possessive, individual desire; indeed, the main psychic difference between Kaya and the eponymous heroine of Handan, who is described in similarly androgynous terms, is that Kaya's love is framed through the political and Handan's is not <ref type="bibr" target="#b21">(Argunsah 2015;</ref><ref type="bibr" target="#b56">Gözdaşoğlu Küçükalioğlu 2007;</ref><ref type="bibr">Saraçgil 2005, 193)</ref>. This 'asexuality' has generally been read as a compromise, in which women give up their sexual desire in exchange for participation in the nationalist project <ref type="bibr">(Kandiyoti 1988, 45-46;</ref><ref type="bibr">Sancar 2012, 142)</ref>. As Hülya Adak has noted, however, this distinction applies to male-gendered characters as well, and in the context of the Kemalism's later pronatalist and maternalist politics Halide Edip's idealisation of 'the chaste daughter of the Republic' in novels like 1922's Ateşten Gömlek [The Shirt of Fire] and 1923's Vurun Kahpeye [Beat the Slut] can be read as subverting, even as these works in large part served to construct, the role of the 'comrade-woman' within Turkish nationalism <ref type="bibr">(Adak 2004, 166-168)</ref>.</p><p>We have, then, an essay and a novel; a proto-fascistic politics and a liberal feminist one; a writer who is fascinated largely by ecstatic sadistic pleasure and another by chaste, self-sacrificing love. What they both share, together with Ziya Gökalp and the other writers of the National Literature movement, is a valorisation of the radical break: the 'new' that constitutes the rupture of both 'Yeni Lisan' and Yeni Turan. But a rupture with what, exactly? What was so threatening to both authors, so contaminating, as to demand a total rupture in language, literature, and society? To say, 'the past', or perhaps 'the Ottoman past', seems to me both too broad and too simple: it would equally apply to both Ömer Seyfettin and Halide Edip's ideological opponents (such as the Edebiyat-ı Cedide [New Literature] and the Fecr-i Âti [Coming Dawn] literary movements), as well as presuppose a not yet evident irreconcilability between the political aims of Turkism and the Ottoman state. Rather, what I want to argue in this article is that -in so far as the rupture each author proposed took place within the interlinkage of gender difference, normative desire, and literary language -it is above all against a shared notion of Iran or the Persianate that Ömer Seyfettin and Halide Edip constructed their visions of utopian futurity. Further, I would add that inasmuch as the National Literature writers envisaged this 'new life' as socially constituted and reproduced by a new order of productive desire between men and women, the Persianate thus became retroactively configured as queered negative of a future heteronormative sexuality. What the Turkish intellectuals of the period termed Acemperestlik, or Persophilia, was likewise imagined as a primeval corrupting disease within Turkish culture, given symptomatic expression by abject figures in need of radical rejection, excision, and estrangement.<ref type="foot" target="#foot_2">9</ref> To be sure, this dynamic may seem more accurately characterised by phobia rather than philia, but in using the term Persophilia here I am both attempting to remain closer to the sense of Acemperestlik, as well as to indicate a broader literary-historical discourse rather than just its rhetorical tone. I will place this Persophilia in connection with Hamid Dabashi's formulation of this term later in this article <ref type="bibr">(2015)</ref>. For now, it is important to emphasise that while this Persophilia constituted a self-referential and coherent discourse, its rhetorical emphases were varied, evolving, and strategic: for instance, the primary instantiation of the Persianate abject differed significantly between Ömer Seyfettin and Halide Edip.</p><p>Ömer Seyfettin opens his discussion of Persophilia in 'Yeni Lisan' by contrasting the eroticism of the Arabs with the 'civilised' Ottoman Turks. 'Because of their Bedouin character', he writes, 'the Arabs were able to love women, and were able to create truly effective and passionate poetry <ref type="bibr">' (1911, 2)</ref>. By contrast, under the influence of the Persianate gender segregation, Ottoman poets abandoned 'plain and simple reality' in favour of the 'ever-changing, multi-coloured, empty artificiality of the imagination'. Because they were 'unable to make true love, poets started to fall in love with their fantasies'. He points to several eighteenth and nineteenth-century literary works as exemplary of this unnatural, fantastical Persophilia within Ottoman Turkish: namely, Nedim's Hammamiyye (c. 1720s), Enderunlu Fazıl Bey's Hubannâme (c. 1790s), Sünbülzade Vehbi's Tuhfe and Şevkengiz (c. 1790s), Osman Rahmi Bey's Nâme-i Dil (1861), <ref type="bibr">and Muallim Naci's Heder (1909)</ref>. <ref type="foot" target="#foot_3">10</ref> Although this negative canon has generally been read as simply standing in for the broader corpus of Ottoman court literature [divan edebiyâtı], it seems to me to be a strikingly idiosyncratic list. Of these writers, only Nedim would commonly be considered among the greatest masters of divan poetry; only Vehbi could reasonably be considered a 'Persophile' on the basis of his literary works. Heder is perhaps the strangest addition, being neither poetry nor prose but a European-style staged drama. Instead, Ömer Seyfettin makes clear that it is a certain perverse mode of erotic enjoyment and its 'repulsive implications' that tie these works together. This enjoyment is typified by the fantasy of the youthful beloved: a figure whom Ömer Seyfettin, using conspicuously Persianate phrases 'which today's readers likely do not even know the meanings of', identifies as the 'hat-âver, çar-ebru' [from Persian, 'thinly-moustached, four-browed'].<ref type="foot" target="#foot_4">11</ref> Although it is possible to read his argument here simply as an (anachronistic) condemnation of male homoeroticism or pederasty within Ottoman literature, it seems to me that -when read in the context of the broader discourse of Persophilia, as well as Ömer Seyfettin's own prescribed heteronormative sadomasochistic eroticism -what is truly condemned here are, to use Lee Edelman's terms, those 'sterile, narcissistic enjoyments' that are 'responsible for the undoing of social organization, collective reality, and, inevitably, life itself <ref type="bibr">' (2004, 12-13)</ref>. Ömer Seyfettin sets up the divan poet as an abject figure who has succumbed to the fantasy of the çar-ebru over procreative futurity and symbolic intelligibility. We might understand Ömer Seyfettin's need for radical rupture, then, in this way: as Julia Kristeva writes, the symptom of abjection is above all 'the rejection and reconstruction of languages <ref type="bibr">' (1982, 45)</ref>.</p><p>Halide Edip's writings, I argue, work through a similar problematic, but through the theorisation of a different abject figure. The notion of Turan, of course, originates within the Persianate mytho-historical tradition as the imperial counterpart of Iran; Ferdowsi's Shahnameh [The Book of Kings] is in large part a romance of these two sibling empires and, as Hamid Dabashi notes, a dialectical account in which 'Ferdowsi narrates the Iranian and Turanian victories and defeats in equal measure passionately and convincingly <ref type="bibr">' (2019, 140-141)</ref>. Building upon an earlier association between Turan and the Turkic-speaking peoples of Central Asia, philologists of the nineteenth century like Max Müller proposed the Turanian as a 'middle' racial and linguistic category alongside the Aryan and the Semite, encompassing the Ottoman and Central Asian Turks, as well as the Hungarians and Finns (1854). In so far as Turkism adopted this racial and geographic imaginary whilst (formally) abandoning Ferdowsi's dialectics, Iran appeared in their writings as an alien obstacle lodged within a broader Turanian expanse: see Ömer Seyfettin's description of 'spoilt Iran placed right in the centre of brave Turan' (1917), for example, or Halide Edip's mention in Yeni Turan of a 'wretched Iran' inviting conquest by a revitalised Ottoman Empire <ref type="bibr">(Adıvar 2014, 44)</ref>. Yet Iran also represented an obstacle on a more fundamental level. Like Ömer Seyfettin, Halide Edip viewed the influence of Iran upon the ancient Turks to be a cultural catastrophe: whereas the 'warlike, just and open character' of the Arabs would have constituted a natural and productive literature, the idolisation of 'cypress-bodied, snake-haired, purse-lipped Persianate beauty' instead sunk the Ottomans into useless and artificial fantasy <ref type="bibr">(1913; 2004, 183)</ref>. Above all, Persophilia's 'unnatural tendencies expelled women from literature <ref type="bibr">' (1913)</ref>; under the sway of 'Persian thought, Persian perspectives, and Persian philosophy', women were 'crushed and despised for centuries', unseen and unrepresented, ultimately becoming nothing more than 'meat and machinery' excluded even from the realm of erotic desire <ref type="bibr">(1909)</ref>. Together with Ziya Gökalp, Halide Edip theorised that the primeval Turks had, by contrast, been essentially 'democratic and feminist': among them existed no political distinctions of class or gender, until the influence of Iran had instilled within them the twin poisons of tyranny and gender difference <ref type="bibr">(Gökalp 2019, 151, 160-162)</ref>. A similar fate, Gökalp claimed, had befallen the Arabs during the Abbasid period <ref type="bibr">(Saraçgil 2005, 175)</ref>. To describe this influence, Gökalp would coin a new, distinctly Persianate calque from the French patriarchie: peder-şahi-lik ['father-kingship'], 12 in which women and children are the chattel of the husband/father. I read the androgyny of Kaya in this light: her re-entry into the realm of the political and is correlated with her return to an ancestral, vital, Turkic ungendered self, whereas the Yeni Osmanlı's attempts to force her back into an ornamental, sterile, useless femininity represents the despotic revanchism of Persianate pederşahilik.</p><p>Two Persianate abjects, then: the divan poet, succumbed to the fantasy of the çar-ebru, and the crushed woman, succumbed to the tyranny of pederşahilik. Set against this negative ground is vital, culturally productive desire, and a healthy, emancipatory symbolic order: a new language, a new Turan, and a new life. This, in short, constitutes the general argument of this article. In what follows, I aim to trace a tentative genealogy of these two abject figures within Ottoman literature up until the National Literature movement. Following this, I will return to the 'snake-haired' Persianate beauty condemned by Halide Edip, and briefly conclude by discussing the retroactive, strategic usage of the şahmeran [from Persian, lit. 'king of serpents' although usually gendered as feminine] motif as a locus of symbolic resistance to intensifying homophobic and transphobic violence in contemporary Turkey. As may be clear, this political notion of the queer Persianate is, on a conceptual level, at odds with my own usage here. As Joseph Massad has written, 'attempts to disseminate [queerness] as a social formation, or as a form of resistance, or as a desired form of social hegemony undercut its very ontological structure and its specific and very recent histories'; to universalise queerness transculturally and transhistorically as a specific set of self-evidently 'queer' social practices and modes of identification is thus to rob the term of any critical value and to constitute queerness as an essentially assimilatory and homogenising project <ref type="bibr">(2015,</ref><ref type="bibr">256)</ref>. Consequently, I do not use this term here as a generic category for nonnormative or antinormative identities and modes of desire within sexual discourse, but rather to refer to that which is estranged and made incomprehensible by sexual discourse -those 'repulsive implications' which Ömer Seyfettin wrote 'today's readers likely do not even know the meanings of <ref type="bibr">(Ömer Seyfettin 1911, 2)</ref>'. What defines the Persianate within Turkish heteronormativity as 'queer' in what follows is thus not any particular mode of desire or social identification, but rather its fundamental structural negativity: its retroactively projected role as the negative realm against which both Ömer Seyfettin and Halide Edip defined their projects of sexual futurity <ref type="bibr">(Edelman 2004, 4)</ref>. This negativity does not present us, as such, with a positive or utopian political project. Yet as Evren Savcı writes, 'the semantic dimension of language requires that we acknowledge that oftentimes what is produced is a complex, disjunctive, and heterogeneous field of meaning <ref type="bibr">' (2021, 147)</ref>. To insist that negativity cannot constitute the ground for collective action is, itself, a debatable notion <ref type="bibr">(Berlant and Edelman 2014, 67)</ref>, and I do not wish here to reproduce the dynamic noted by José Esteban Muñoz and Mari Ruti: that is, in which critics whose lives are not on the line, so to speak, valorise negativity, whilst those who are legitimately facing imminent destruction (social, political, and embodied) stress instead the importance of a positive politics <ref type="bibr">(Muñoz 2009, 95-96;</ref><ref type="bibr">Ruti 2017, 124-129)</ref>. Ultimately, it may be that it is precisely its ability to sustain such contradictions that makes the queer Persianate appear today, for better or for worse, as viable medium for broader resistance and critique.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Dangerous bodies, a corrupted tongue</head><p>'Those who want to learn Persian', wrote the famed author, journalist, and Young Ottoman intellectual Namık <ref type="bibr">Kemal (1840</ref><ref type="bibr">Kemal ( -1888))</ref>, 'should learn it after they have grown a beard and moustache' <ref type="bibr">(Tansel 1973, 115)</ref>. The implication seems clear. But what is interesting, to me, are the dual meanings one may derive from it. On one hand, there is the knowledge of Persian as a long-eroticised feature of young men within Ottoman literary culture <ref type="bibr">(Andrews and Kalpaklı 2005, 92, 135-136, 233)</ref>. On the other hand, however, there is a sense of Persian as itself a mode of eroticism, a reading made more evident by Namık Kemal's earlier remarks. 'This blessed language', he writes, 'must no longer be seen at the gate of the school, alongside its incipient moustaches, its kisses and lovers, and its boy beloveds! <ref type="bibr">(Tansel 1973, 115)</ref>' One may read similarly in the writings of Namık Kemal's contemporary, the extraordinarily prolific <ref type="bibr">Ahmet Mithat Efendi (1844</ref><ref type="bibr" target="#b6">-1912)</ref>. In his 1875 novel Felatun Bey ile Rakım Efendi, for example, Ahmet Mithat's author surrogate Rakım Efendi carelessly introduces Persian to two young English girls that he tutors: the effect is to violently awaken their 'amorous feelings' and 'completely intoxicate' them, to the point that one of the girls quickly succumbs to hysteria <ref type="bibr">(2017 [1875]</ref>: 84). Rakım Efendi soon realises that it was Hafez's Divan that had 'brought her to this state,' and that she had been 'poisoning herself' by reading it (172). Such imagery persists into the National Literature period: in Halide Edip's 1910 novel Seviyye Talip, for instance, the Westernised Ottoman intellectual Fahir is so affected when the novel's eponymous heroine recites Omar Khayyam that he begins 'shivering like a sick child', falls into feverish neurosis, and eventually reverts to the state of a 'helpless and docile child' <ref type="bibr">(Adıvar 1987, 80)</ref>. In 'Yeni Lisan', Ömer Seyfettin will likewise write that 'those who think that these [divan] poet's praises, their "oohs" and "ahhs" and odes and tears were for women, must be as innocent as a just-circumcised child <ref type="bibr">' (1911, 2)</ref>.</p><p>This evident dichotomy between Persian, on one hand, and the childish innocence on the other, is interesting in light of how, as Nazan Maksudyan has described, it was precisely during this period that the notion of the 'vulnerable child' in need of state protection entered into Ottoman social discourse <ref type="bibr">(2014,</ref><ref type="bibr">84)</ref>. Indeed, it would be the Young Ottoman reformist bureaucrat Mithat Pasha (1822-1883), Ahmet Mithat Efendi's patron and namesake, who would be the foremost proponent of the need to 'save' vulnerable children and discipline those who had fallen into delinquency and prostitution. We might say, then, that the discourse of Persophilia was, from the start, framed in terms of the defence of the Child; when Ömer Seyfettin analogises the purification of Turkish from Persian to the removal of women's corsets, 'thereby ensuring the next generation of children that they give birth to shall be a healthy one' <ref type="bibr">(1911,</ref><ref type="bibr">4)</ref> it is clear that he is building upon an already established rhetoric. Yet this opposition was only part of a larger dynamic, in which the Persianate was placed in direct opposition to life, futurity, and the social order. Within the discourse of Persophilia, the Persianate was attributed the lurid characteristics of fantasy, delirium, decay, and nihilistic, suicidal enjoyment. Persian literature appeared to these authors as a potent but deadly drug: a poisonous aphrodisiac like belladonna or Spanish fly. As Namık Kemal wrote in the famed introduction to his 1874 Bahar-ı Daniş [Spring of Knowledge], 'in truth, Persian literature is one of the most corrupted in world' <ref type="bibr">(Göçgün 1987, 237)</ref>. This, to me, is a remarkable statement from an Ottoman intellectual, but it is one that has aroused surprisingly little curiosity within the broader scholarship.</p><p>In recent decades, the study of late Ottoman literature and aesthetics has come to complicate a previously dominant analytic of cultural Westernisation -whether by deconstructing the term itself <ref type="bibr" target="#b12">(Ahıska 2003;</ref><ref type="bibr" target="#b32">Crofoot 1990;</ref><ref type="bibr" target="#b63">Hamadeh 2007)</ref>, or by showing how Ottoman formal experimentation was not limited to the imitation of Western models or bound to a Western telos <ref type="bibr" target="#b58">(Gürbilek 2003;</ref><ref type="bibr" target="#b91">Moran 1983;</ref><ref type="bibr" target="#b111">Parla 2004)</ref>. This scholarship has offered a nuanced perspective far subtler than the stark dichotomy of East and West that had characterised earlier historiography; as we have seen, even within the supposed 'East', Arabic and Persian were assigned rather different values, and it was not until the Republic that Arabic overtook Persian as the primary target of reform. On a more conceptual level, however, it remains the case that the history of nineteenth and twentieth-century Turkish literature has largely been framed through the problematic of veracity, mimesis, and of proper fidelity to social life. As such, with few exceptions <ref type="bibr" target="#b67">(Holbrook 2002;</ref><ref type="bibr" target="#b73">Katiboğlu 2020</ref>) it has tended to take for granted the other side of the equation: the notion of an aesthetic movement away from the 'fantastical', 'imaginary' or 'artificial' character of the Persianate. The terms habitually used throughout the discourse of Persophilia -'Persianate exaggeration' [mübalağa-ı Acemâne] and 'Persianate fantasy' [hayâlât-ı Acemâne], for instance -have generally been taken as neutral, descriptive terms or idiomatic expressions rather than as, in this case, ideological statements. As Victoria Rowe Holbrook has noted, in so far as modern Turkish literary history is rooted in the thought of Young Ottoman authors like Namık Kemal, Abdülhak Hamit <ref type="bibr">[Tarhan] (1852</ref><ref type="bibr">-1937</ref><ref type="bibr">), Recaizâde Mahmud Ekrem (1847</ref><ref type="bibr" target="#b103">-1914)</ref>, and Abdülhalîm <ref type="bibr">Memdûh (1866</ref><ref type="bibr">Memdûh ( -1905))</ref>, it 'monumentalised a local moment of anti-divan polemic' into the foundations of an entire field <ref type="bibr">(1994,</ref><ref type="bibr">27)</ref>. Indeed, through the vehicle of Scottish orientalist E.J.W. Gibb's six-volume A History of Ottoman Poetry -in large part based on the critical opinions of Namık Kemal and Abdülhak Hamit, and then repeatedly retranslated back into Turkish by, among others, Halide Edip -this Persophilia was given the imprimatur of objective, Western criticism <ref type="bibr" target="#b49">(Gibb 1900</ref><ref type="bibr">(Gibb -1907;;</ref><ref type="bibr" target="#b50">Gibb 1943;</ref><ref type="bibr">Holbrook 1994: 18-27;</ref><ref type="bibr" target="#b134">Yashin 2017)</ref>. The entirety of Ottoman history could now be understood as a continuous struggle to break free from the 'Persian yoke' -the 'huge mass of useless accretions and false embellishments' from Iran -and to rescue Turkish from an 'effete and colourless Persianism' <ref type="bibr">(Gibb 1900, 26-27)</ref>. The citation of Gibb by both official literary histories <ref type="bibr">(Köprülü 1921;</ref><ref type="bibr" target="#b120">Sevük 1924)</ref> as well as the more critical histories of Ahmet Hamdi Tanpınar and Güzin Dino <ref type="bibr" target="#b37">(Dino 1951;</ref><ref type="bibr" target="#b125">Tanpınar 1988</ref><ref type="bibr" target="#b125">Tanpınar [1949]]</ref>) thus made it appear as if the claims of Persophilia were simply undisputed fact, a foundational premise which continues largely unexamined within general scholarship. Contemporary Turkish-language feminist and queer criticism has, by contrast, tended to focus less on the question of Westernisation and more on the internal ideological functions of late Ottoman Turkish literature as a specific sociopolitical project by a particular class formation. Jale Parla, Nurdan Gürbilek, and Serkan Delice have all emphasised, in different ways, how authors of the late Tanzimat period (1839-1876) attempted to reassert paternalist authority within the realm of literature even as such authority was rapidly being destabilised by the epistemological challenge of new scientific disciplines, increases in women's literacy, and changing erotic norms <ref type="bibr" target="#b35">(Delice 2012;</ref><ref type="bibr" target="#b59">Gürbilek 2004;</ref><ref type="bibr" target="#b110">Parla 1990</ref>). In attempting to understand the ideological function of the queer Persianate, I borrow from the insights of all three scholars. The discourse of Persophilia, I argue, was deeply interconnected with each of these readings in so far as it was posed not merely as a question of literary style or aesthetic taste but as an existential problem, a biopolitical counterpart to the epistemological crisis afflicting paternalist authority.</p><p>As the historian Gülhan Balsoy has noted, the Tanzimat period was marked not only by sociopolitical reforms but by a pronounced and broad-scaled pronatalist programme, rooted in fears of the imminent extinction of the Empire's Muslim population <ref type="bibr">(2013,</ref><ref type="bibr">3)</ref>. It is no accident that the humanity-destroying plague of Mary Shelley's The Last <ref type="bibr">Man (1998</ref><ref type="bibr">Man ( [1826]]</ref>) begins in Istanbul, for European discourse had long emphasised the relative depopulation and desolation of the Ottoman Empire <ref type="bibr" target="#b131">(Varlık 2017)</ref>. Such a problem was particularly acute in nineteenth-century Istanbul, where -as Alan Duben and Cem Bahar have shown -fertility rates among Muslims were extraordinarily low for a preindustrial context, and both birth control and abortion were widely practiced <ref type="bibr">(1991,</ref><ref type="bibr">(3)</ref><ref type="bibr">(4)</ref><ref type="bibr">(5)</ref>. As early as 1838, the Ottoman state launched an intensive propaganda and regulatory campaign against abortion and unlicensed midwifery on explicitly demographic terms, citing the need to increase the population vis-à-vis both foreign powers and the Empire's non-Muslim population <ref type="bibr">(Balsoy 2013, 56-58)</ref>. A key element of this strategy was the criticism of non-procreative desire as mere tenperverlik [lit. 'bodyworship', with the implications of narcissistic debauchery or self-indulgence]. It is interesting to note, in this context, that it was precisely on this account (rather than for 'homoeroticism') that two of the works mentioned in Ömer Seyfettin's Persianate canon -Fazıl Bey's Hubannâme and Vehbi's Şevkengiz -were among the first works suppressed by an increasingly pronatalist state. <ref type="foot" target="#foot_6">13</ref> By the 1860s, it was clear that government policy had largely failed to solve the population issue, and the pronatalist rhetoric of Young Ottoman intellectuals turned increasingly vitriolic: Namık Kemal, for instance, compared women who practiced abortion to vermin, or else to animals addicted to selfish and narcissistic pleasure in the face of imminent extinction (see also <ref type="bibr">Balsoy 2013, 71-72;</ref><ref type="bibr">Namık Kemal 1872a;</ref><ref type="bibr">1872b)</ref>. We can already see a certain convergence of thought with Persophilic discourse: on one side, there is perversity, fatal enjoyment, a turn away from life; on the other, the Child, productive desire, and the future of the Ottoman state. What linked these two discourses together over the course of the 1870s, I argue, were the ethnological expeditions sent from Istanbul to Central Asia during this period, which sought in the Turkmen of that region both the ancestors of the Ottoman Turks, and the secret to their renewed vitality.</p><p>The scholars Christoph Herzog and Raoul Motika have noted the strange sparsity of Ottoman travelogues to Iran during the late nineteenth century, proposing that perhaps it was as a competitor state that Iran was 'placed right at the bottom' of the Ottoman civilizational hierarchy and thus deemed unworthy of interest <ref type="bibr">(2000,</ref><ref type="bibr">141,</ref><ref type="bibr">195)</ref>. Here, I would propose a more fundamental reason. Explorations of Persophilia were conducted primarily through a constant and repetitive analysis, excavation, and excision of the Ottoman self; it was essentially negative, and thus did not necessarily see the need to travel to Iran to confirm its claims.<ref type="foot" target="#foot_7">14</ref> Indeed, in so far as possible, it placed Iran itself under a cordon sanitaire and sought to understand only the symptomatic effects of its influence. Perhaps the most paradigmatic example is <ref type="bibr">Mehmet Emin Efendi's (1854</ref><ref type="bibr">-1925)</ref> 1877 travelogue İstanbul'dan Asya-yı Vusta'ya Seyahat [Journey from Istanbul to Central Asia], which was serialised in Ahmet Mithat Efendi's newspaper Tercüman-ı Hakikat <ref type="bibr">[Translator of Truth]</ref> and published with a foreword by him, and which sought to understand how 'the Turkmens, our fathers and brothers' had 'completely preserved their ancient aspects <ref type="bibr">' (2007, 11)</ref>. Although inspired in large part by the earlier travelogue of the Hungarian Turcologist Ármin <ref type="bibr">Vámbéry (1832</ref><ref type="bibr">Vámbéry ( -1913))</ref>, Mehmet Emin's account differed in its attempt to locate, within Istanbulite Ottoman customs, those which were originally Turkish and vital and those which had succumbed to corruption from Iran <ref type="bibr" target="#b132">(Vámbéry 1864;</ref><ref type="bibr" target="#b133">1878)</ref>. Among the Turkmens, Mehmed Emin found a society in which 'the women are not idle, veiled and savage [miskin, mestûr, vahşi] like ours here, but quite free' (65). By contrast, he writes, 'in Iran, not even the tips of women's fingers are visible. Even before Islam, such was the case in Iran'. Unlike among the Ottomans, where even 'an eighteen or twenty-year-old young man refuses to go out into the street without a nanny by his side' the Turkmen raise 'lion children, both lion girls and lion boys <ref type="bibr">(Mehmet Emin 2007, 66)</ref>'. Whilst admitting the presence of cross-dressing boy dancers <ref type="bibr">[köçek]</ref> in the taverns of Khiva, Mehmed Emin argued that 'without a shadow of doubt it came even to Khiva from Iran' (169).</p><p>In his own travelogue, Abdülhak Hamit would record his own distaste for the 'womanless society' of Iran <ref type="bibr">(Enginün 1988, 16-17)</ref>, whereas for the painter and archaeologist Osman Hamdi Bey it was the spread of the Shia practice of mutʿah or Acem nikâhı [temporary marriage] that represented a 'very contagious sickness' threatening the foundations of the Ottoman family, and foretelling the disappearance of Sunni Islam 'before a sect as pleasant as it is invasive' <ref type="bibr">(Eldem 2010, 75-76)</ref>. The language of sickness and disease reflects, in the age of cholera, the image of Iran within Ottoman political and sanitary discourse as an inexorable source of epidemic; this was perhaps exemplified most potently in the infamous illicit 'corpse trade' between Iran and the holy cities of Najaf and Karbala <ref type="bibr" target="#b22">(Ateş 2010</ref>), but we may also read the sui generis prohibition on intermarriage between Ottoman and Iranian subjects, formalised in an 1874 Nizamnâme, as a kind of quarantine of Persian erotic 'sickness' <ref type="bibr" target="#b74">(Kern 1999)</ref>. The gendered customs, eroticism, and susceptibility to fantasy which threatened the imminent extinction of the Ottomans thus came to appear, gradually and then quite suddenly, to have a particularly Iranian origin and history: a theory to which the contemporary strength of the Turkmen and the ruination of Iran bore witness. As the traveller Süleyman Şükrü Karçınzade wrote of Iran in 1907, 'this nation, which gives no importance to anything other than poetry, can hardly hold their government accountable!' <ref type="bibr">(2013 [1907]</ref>, 129). The influence of these accounts can be seen quite prominently in the fiction of Ahmet Mithat Efendi. It is found, for example, in the dangerous, corrupting eroticism of the 'faultless male beauty' Acem Ali Bey in the 1882 novel Dürdâne Hanım, whose 'light, striking Persian accent' tempts the underclasses of Istanbul into falling for their 'immoral' desires <ref type="bibr" target="#b9">(Ahmet Mithat 1999</ref><ref type="bibr" target="#b9">[1882]</ref>, 16), and in the repressed, incestuous, and ultimately murderous eroticism of Sudâbe in his 1883 play Fürs-i Kadimde Bir Facia, yahut Siyavûş [A Tragedy in Ancient Persia, or Siavash] <ref type="bibr">(Enginün 1990, 203-250)</ref>. <ref type="foot" target="#foot_8">15</ref> Although in both cases Ahmet Mithat ultimately resolves the tension -in the first case by revealing Acem Ali Bey to be the alter-ego of Ulviye Hanım, a Turkish widow of Iranian or Indian ancestry and 'among the most beautiful of women' <ref type="bibr">(Ahmet Mithat 1999, 59)</ref>, and in the second case through Sudâbe's isolation and torture -in such works one can still see the outlines of Ömer Seyfettin's çar-ebru and Halide Edip's pederşahilik taking shape.</p><p>To be sure, the attribution of a dangerous, corrupting, and perverse eroticism to a cultural Other is hardly unique to the Ottoman case. A similar depiction of the Persianate corruption of the Abbasid period was promulgated by early twentieth-century Arab literary historians, such as Taha Hussein and Ahmad Amin <ref type="bibr">(Massad 2007, 51-98)</ref>, and earlier Iranian reformers like Mīrzā Aqā Khān Kermānī had written similar invective about the influence of the Arabs upon Persian (Zia-Ebrahimi 2016, 57-58). What made this issue existential for Ottoman literary reformers was that, in contrast to the emergent nationalist canon of Arabic and Persian texts, there appeared to be no example of Turkish high literature free from prior contamination. Whereas both Iranian and Ottoman intellectuals praised the supposedly 'pure' Persian of the Shahnameh, for example, there were no at-hand equivalents for Turkish: from the eleventhcentury Kutadgu Bilig to the poetry of Ahmed Yesevî, Yunus Emre or Fuzulî, the corpus of Turkish literature appeared inextricable from its Persianate context, the still relatively meagre achievements of nineteenth-century Turkology notwithstanding <ref type="bibr">(Köprülü 2006)</ref>. Folk literature and the Turkish oral tradition would ultimately present similar issues. The search for what Ömer Seyfettin termed the 'stable ground' [sağlam zemin] of Turkish literature, a quilting point that could arrest the slide of Ottoman Turkish into a narcissistic, fantastical private language, was thus interminable, and became increasingly cannibalistic in orientation <ref type="bibr">(1914)</ref>. The initial agons of Ottoman Persophilia, as expressed in early texts like Ziya Paşa (1829-1880) 1868 essay 'Şiir ve İnşa' ['Poetry and Prose'], were figures of the Ottoman divan tradition like the prose writers Veysî (1561-1628) and Nergisî (c. 1580-1635) (1868). Although both were widelyread and prolific authors, their exclusion from the incipient Ottoman canon in texts like Recaizâde Mahmud Ekrem's 1885 Kudemâdan Birkaç Şair [A Few Poets From Among the Greats] or Abdülhalim Memdûh's 1888 Tarih-i Edebiyât-ı Osmâniyye [History of Ottoman Literature] increasingly marginalised the content of their works in favour of their value as rhetorical targets; indeed, as Persophilia consolidated as a discourse, Veysî and Nergisî would attain an increasingly demonic character, 'the two tyrant pens' who brought the language to its Persianate nadir <ref type="bibr" target="#b135">(Yöntem 1911)</ref>.</p><p>It did not take long, however, for the rhetorical targets of Persophilia to move onto those contemporary Ottoman writers accused of revisionism. Ziya Paşa was among its first victims. In his 1876 Tahrib-i Harâbât [The Destruction of Ruins], Namık Kemal fiercely criticised Ziya Paşa's 1875 poetry anthology Harâbât for 'reviving the Persian style' and abandoning the reformist movement <ref type="bibr" target="#b28">(Bilgegil 1973;</ref><ref type="bibr" target="#b98">Namık Kemal 1885)</ref>. Yet it was the poet Muallim Naci (1850-1893) -the author of Heder, and the figure whom Ömer Seyfettin deemed the last great defender of the Ottoman Persianate -who represented Persophilia's greatest betrayal. Naci's early writings were staunchly set against literary ornamentation, and his familiarity and fluency with the techniques of European literature made him appear as the exemplary young modernist <ref type="bibr">(Tanpınar 1988, 595-596)</ref>. Seeing a kindred spirit, in 1883 Ahmet Mithat Efendi invited him to edit the literary section of Tercüman-ı Hakikat, and he soon married into Ahmet Mithat's family. Already in their correspondence, however, there were worrying signs: when Naci approvingly quoted a passage from Hafez, for example, Ahmet Mithat responded in disgust that the Persians only describe nature through the lens of erotic fantasy, and can only see the beauty in a cypress tree by linking it to the body of a boy beloved <ref type="bibr">(Ahmet Mithat and</ref><ref type="bibr" target="#b11">Muallim Naci 2011 [1893]</ref>: 36-37). Once at Tercüman-ı Hakikat, however, Muallim Naci suddenly began writing and publishing erotic poetry in the Persianate mode <ref type="bibr">(Tanpınar 1988, 597-598)</ref>. The reaction was swift: in 1885 Ahmet Mithat expelled Muallim Naci from the newspaper and banned his vocabulary from print, including the term çar-ebru <ref type="bibr">(Tökgöz 1930, 39)</ref>. In the following years Muallim Naci engaged in harsh polemics against reformist authors like Recaizade Mahmud Ekrem, and in turn became the target of their attacks <ref type="bibr" target="#b119">(Seviner 2020)</ref>: in Halit Ziya <ref type="bibr">[Uşaklıgil]</ref>'s 1896 novel Maî ve Siyah [The Blue and the Black], for example, the poet protagonist Ahmet Cemil is menaced by a thinly-veiled caricature named 'Raci,' whose poetry is as dissolute and reactionary as his morals ( <ref type="formula">1897</ref>). Yet perhaps what bothered these writers most was how, in his personal life, Naci in fact appeared to be 'impeccably moral:' there was something inexplicable in his inability to cede the expression of a mode of eroticism which he, himself, did not appear to uphold <ref type="bibr">(Ahmet Rasim 2016, 129-130;</ref><ref type="bibr">Sarıtaş 2021, 131)</ref>.</p><p>Heder [The Waste], which was written before Naci's death in 1893 but not published until after the 1908 Young Turk Revolution, can be read almost as an anticipation of, and retrospective answer to, Maî ve Siyah <ref type="bibr" target="#b93">(Muallim Naci 2017</ref><ref type="bibr">[1909]</ref>). The rather thin plot of the play largely serves to connect various literary discussions between the main characters; like Halit Ziya's novel, it opens at a gathering amongst Istanbul's literati. But in contrast to Ahmet Cemil's earnest search for a living, organic language 'completely like a human being,' the characters of Heder -above all Kâmil Bey, whose literary pronouncements take up much the text -revel in the nihilistic enjoyment of the dead and useless Persianate. <ref type="foot" target="#foot_9">16</ref> After reciting a couplet in Persian, he declares, 'Probably you didn't like that. Because it has become fashionable to dislike Persian. I like the right words, the beautiful words, no matter what they are. Let's not like the Arab, let's not like the Persian. Or shall we be a little devilish and enjoy ourselves the way we are?' (83) Throughout the play Kâmil Bey defends the eroticism of the fantastical çar-ebru not out of any real moral conviction but rather out of transgressive and self-destructive pleasure: it is what gives old poetry, he claims, its 'taste and flavour' <ref type="bibr">(Muallim Naci 2017, 60)</ref>. As he proclaims at a party towards the start of the play, 'one doesn't give up fulfilment … and çar-ebruhood passes too. The one I love is still fresh and beautiful!' (57). Up to now we have had a movement of coding the Persianate as a negative juxtaposed against reality, against reproductive futurity and the social order, and against both language and life itself: in Heder, it seems to me, we have a figure who has fully accepted and embraced that queer negativity and found within it a perverse and bountiful source of enjoyment.<ref type="foot" target="#foot_10">17</ref> And it is perhaps for this reason that Heder, despite its modern format, clear language, and general obscurity, appears so reviled, repulsive, and dangerous in Ömer Seyfettin's 'Yeni Lisan. <ref type="bibr">'</ref> Ömer Seyfettin could not, of course, countenance such nihilistic enjoyment except through its abjection; its very enunciation in Heder testified to the thorough contamination of Ottoman eroticism by the Persianate. Like many of the Turkish intellectuals of his generation, his thought in this regard was heavily influenced by the writings of Büchner, Spencer, Haeckel, and Le Bon; as M. Şükrü Hanioğlu has explored, during this time a positivist organicism became the unifying epistemological frame through which all phenomena -natural, social, psychological, intellectual -were understood <ref type="bibr">(1995,</ref><ref type="bibr">(204)</ref><ref type="bibr">(205)</ref><ref type="bibr">(206)</ref><ref type="bibr">(207)</ref><ref type="bibr">(208)</ref><ref type="bibr">(209)</ref>. Ömer Seyfettin synthesised the biologism of these authors with his own particular interest in Sade. One may, of course, recount the endless variety of decapitations, disembowelments, cannibalism, and necrophilia in his writing: Tahir Alangu's biography of Ömer Seyfettin is likely one of the few to end with an explicit photograph of the subject's autopsy <ref type="bibr">(1968,</ref><ref type="bibr">547)</ref>. But perhaps his most telling text in this regard is a little-read short story from 1909 entitled 'Busenin Şekl-i İptidaisi' ['The Primitive Form of the Kiss'], which depicts an encounter between a masochistic client and a prostitute who cannot bear to be kissed <ref type="bibr" target="#b101">(Ömer Seyfettin 1909)</ref>. The client arrives yearning for a past 'before history and before religion', in which men would 'tear each other apart' in order to reproduce. Upon their meeting, however, the prostitute declares that he is in fact a sadist, citing her reading of Justine, or The Misfortunes of Virtue (1791) <ref type="bibr" target="#b113">(Sade 2012</ref><ref type="bibr" target="#b113">(Sade [1791]]</ref>). When he pleads ignorance, she explains that sadism is 'a terrible male disease' that, when contracted, causes him to 'pull out her hair, gouge out her eyes, pour acid onto her face, stab needles and skewers into her body, and cut off her nose or ears; sometimes he kills her. But how? In the most terrible and glorious ways … ' <ref type="bibr">(Seyfettin 1909, 12)</ref>. Those familiar with Ömer Seyfettin's infamous 1914 war-story 'Beyaz Lâle' ['White Tulip'] may note that the list of tortures mirrors those enjoyed by the Bulgarian Major Radko <ref type="bibr">(Berktay 2010, 110)</ref>. Here, however, this sadism is connected to a primeval and animalistic eroticism: 'our forefathers who lived in ancient ages were terrible sadists. They were biting our mothers like those pheasants that kill their females with their beaks' <ref type="bibr">(Seyfettin 1909, 12)</ref>. The evolved eroticism of the kiss, Ömer Seyfettin writes, is a mere trace of the 'atavistic' pleasure of the bite; the story ends as the client resumes his ancestral sadistic role, kissing and biting the prostitute as she whispers for mercy 'but does not resist'. The identification of kissing with primeval biting was a prominent feature of both English and French-language writing on sadism during this period <ref type="bibr">(Moore 2016, 32)</ref>, and indeed almost the exact same metaphor is employed in Ömer Seyfettin's 1919 two-part story 'Horoz' ['Rooster'] and 'Dünyanın Nizâmı' ['The Order of the World']. In the first part of the story, a young girl witnesses a rooster pecking a hen to death and is disturbed to find that it reminds her of her father; in revenge she kills the rooster with a stone. In the second part, she dreams of a great dragon who tells her that 'cruelty is a favour to hens, a blessing, a delicacy', and in turn bites, mutilates and kills her. She awakes in ecstasy, now content with 'the order of the world' and whispering of the 'sweet, beautiful, spiritual agony' she experienced and 'the distinct pleasure of pain, of being beaten, being oppressed, bitten, and torn to shreds' <ref type="bibr">(Ömer Seyfettin 1919b;</ref><ref type="bibr">1919c)</ref>. In <ref type="bibr">'Harem' (1918)</ref>, Ömer Seyfettin juxtaposes this sadomasochism against the sterile bourgeois Ottoman family: the story depicts the married couple of Sermet and Nazan, who have descended into petty bickering and mutual contempt due to their combination of formal, Europeanised manners with the practice of harem/selamlik gender segregation. It is only when the dominatrix-like Meliha suddenly arrives within the harem and, quite literally, whips Meliha into shape, that their marital love and libido is restored <ref type="bibr">(1918)</ref>.</p><p>Sadomasochism, for Ömer Seyfettin, thus serves to redeem Persianate gender segregation, and to find within it a new source of excessive enjoyment aligned instead with a vital and productive eroticism. Insofar as Ömer Seyfettin aligns Sadean pleasure to biological imperative, he differs greatly from his contemporaries who, although likewise rooting sadism in Haeckelian atavism, considered it a fundamentally destructive and degenerationist force <ref type="bibr">(Moore 2016, 47-49)</ref>. Similarly, after 'Busenin Şekl-i İptidaisi' Ömer Seyfettin remained relatively faithful to Sade, and distinct from most sexologists of the period, in generally refusing to essentialize sadism and masochism as fundamentally gendered positions. Most interesting among his subjects, then, are those men and women whose desire places them in the normatively 'opposite' category; masochists who, even temporarily, awaken their latent sadism, or innate sadists who are conditioned by their social gendering into embodying, albeit generally unsuccessfully, their expected masochistic position. It is in this light that stories such as 'Eleğimsağma' ['Rainbow'] (1917) in which a young girl supernaturally becomes a man for a day in order fulfil her active, extroverted erotic desires, have been appropriated by contemporary critics as an early representation of transmen in Turkish literature <ref type="bibr">(Soydan 2020, 11)</ref>. Although, as Alison Moore has argued, we should be wary of uncritically conflating sadistic desire with a fascistic politics, it seems to me that it is not really Ömer Seyfettin's sadism that is at issue but rather his vitalism, and his alignment of sadistic pleasure with the survival of the Turkish language, race, and state <ref type="bibr">(Moore 2016, 162)</ref>. Unlike Bataille, for instance, Ömer Seyfettin does not really propose that the sadomasochistic relation may lead towards a 'self-shattering,' a new mode of 'communication' <ref type="bibr" target="#b24">(Bataille 1986</ref><ref type="bibr">(Bataille [1957]]</ref>; <ref type="bibr">Direk 2007, 111-113)</ref>. If, as Žižek has argued following Lacan, Sade represents a 'form of the perverted realization' of Kantian universal ethics <ref type="bibr" target="#b80">(Lacan 1989;</ref><ref type="bibr" target="#b139">Žižek 1998</ref>), then we can hardly speak more positively of Ömer Seyfettin's conflation of Sade with the racist particularism of Büchner, Spencer, Haeckel, and Le Bon. It is for this reason that Ömer Seyfettin's eroticism remains, for me, essentially fascistic in inclination, and why the attempt to read his work reparatively appears especially treacherous.</p><p>Perhaps surprisingly, Halide Edip's early writings share a great deal of conceptual commonality with Ömer Seyfettin's in this regard, albeit from a radically different perspective. In Harap Mabetler [Ruined Temples], a collection of prose poems and short stories mostly written before the 1908 Revolution, she depicts the oppression of women as at once horrific, universal, and as forming the fundamental basis of art, culture, and intellectual development: as she writes in 'Eller' <ref type="bibr">['Hands']</ref>, which she composed when she was about fourteen or fifteen, 'the womanhood of each generation is forever drowned in tears and blood for the poetry, pleasure, philosophy and amusement of the next' <ref type="bibr">(Adıvar 2020 26)</ref>. Like Ömer Seyfettin, the early Halide Edip views women's 'dark destiny' as an 'eternal wretchedness', but one that is tragically constitutive of humanity's reproductive futurity: among the women's hands that narrator sees are the 'silken hands of the unborn children of tomorrow', pleading uselessly to be stillborn. A demonic black skeleton, 'stretching from the East to West', responds: 'Do you know that without the eternal misery of womanhood, there would be neither poetry nor pleasure?' In both perceiving and perpetuating this cataclysmic vision through her writing, the poetess thus becomes a figure of masochist enjoyment. And yet as Hazal Halavut notes, there is a gradual shift in the tone within Harap Mabetler; the immense pessimism of her early writings is tempered by an increasingly emancipatory depiction of Ottoman and Turkish history (2021). Already in 1896, the feminist author Fatma <ref type="bibr">Aliye (1862</ref><ref type="bibr">Aliye ( -1936) )</ref> had declared that the oppression of Turkish women was neither eternal nor rooted in divine law but had a specific historical origin: 'it was not long ago that Ottoman women fell into ignorance. It started with the Ottoman conquest of Persia. Among the Persians, women were despised and kept in a state of ignorance. Just as we absorbed Persian literature and their material things, so too did we take in their customs regarding women. It is due to this that our women have fallen into this state' (1896, 2).</p><p>Within Ottoman feminism, then, there was emergent Persophilic discourse which aimed to transform an existentialist problem into a contingent one of culture. The influence of Gökalp gave this discourse a coherent, if vague, sociological foundation. Gökalp located the origins of misogyny in ancient Iranian Zoroastrianism, which converted a nomadic and fluid dialectic of masculine asceticism and feminine shamanic magic into a rigid, civilised dualism between the male Magi, to whom both divine and temporal power was arrogated, and the female witch, who became taboo <ref type="bibr">(Gökalp 2019, 160-161;</ref><ref type="bibr">Saraçgil 2005, 175)</ref>. To be sure, Gökalp's notion had numerous antecedents, including the egalitarian primitive communism of Engels ( <ref type="formula">2010</ref>), but a more proximate influence may have been Azeri intellectual <ref type="bibr">Ahmet Ağaoğlu, who had in 1901</ref> already argued that nomadic Turkic society had been characterised by an absolute gender equality until 'they were assimilated by the Iranians' (see <ref type="bibr">Shissler 2002, 246)</ref>. Curiously, Ağaoğlu had previously been a fervent exponent of Persian nationalism and had made precisely the reverse argument ten years earlier (1891), demonstrating (as in the case of script reform) the extent to which the contours of later Turkish nationalist discourse were shaped by Iranian and Azeri intellectuals. Ultimately, for Gökalp, 'Magian' Iran' became the source of a primordial tyranny whose traces continued to fester and surface within the Hellenistic, Roman, Arabic and Turkic civilisations; the Turks, as among the last races corrupted, were thus uniquely positioned to overcome it. <ref type="foot" target="#foot_11">18</ref> In connection with this thought, Halide Edip's feminism moved from a universalist project to a deeply particular one. And it is in this way that I, in part, explain what Halavut terms her 'withdrawal from witnessing <ref type="bibr">' between 1909 and 1916 (2022)</ref>: whereas the early Halide Edip could see in the existential oppression of women the grounds for a common solidarity across the Ottoman peoples, the post-Yeni Turan Halide Edip was committed instead to a specifically Turkish project of overcoming the Persianate negative. Such a project would continue well into the Republic: as the ideologue and historian (and Atatürk's adopted daughter) Afet <ref type="bibr">İnan (1908-1985)</ref> wrote in The Emancipation of Turkish <ref type="bibr">Woman (1962)</ref>, within Zoroastrianism 'woman was a symbol of filth and evil and all wicked deities were represented as females', and thus the project of Kemalism had been to purge 'the patriarchal family system of the Persians' from Turkish social life <ref type="bibr">(1962,</ref><ref type="bibr">21)</ref>. If Ömer Seyfettin's writings came to constitute 'the full demonology of Turkism', to use Halil Berktay's words, those of Halide Edip solidified the Persianate abject as the negative of Turkish feminism: a dynamic only <ref type="bibr">reinforced after 1979 (2010, 75)</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Conclusion: the serpent queen</head><p>In January 2021, the formerly autonomous rector of Boğaziçi University in Istanbul was replaced, by presidential decree, with an academician more politically aligned with the ruling Justice and Development Party <ref type="bibr">[AKP]</ref>. The decision provoked a broad and enduring wave of resistance and protest from both students and faculty at the University, as well as within wider civil society <ref type="bibr" target="#b60">(Hajjaji 2021</ref>). On January 22, a group of students organised an art exhibition at Boğaziçi in support of the protests, with one exhibit featuring a collage of the Masjid al-Haram in Mecca framed by four variant LGBTQ pride flags, with the central Kaaba replaced by an image of Şahmeran, a half-woman half-serpent figure originating from Kurdish, eastern Turkish, Armenian, and Iranian mythology. An attached artist's statement explained that the şahmeran motif, as a beloved union of two long despised and oppressed subjects, represented a 'secret mockery and rebellion against patriarchal power'; by placing her in the location of the Kaaba, the artist sought to criticise 'a fictitious religion which is the greatest motivator of social misogyny', and emphasise instead a utopian politics of women's emancipation, queer liberation, and animal rights <ref type="bibr" target="#b75">(Kıpçak 2022)</ref>. The official reaction was brutal and swift, forming part of an intensifying crackdown on LGBTQ rights and representation in Turkey mirroring (and largely ideologically rooted in) the contemporaneous conservative backlash against queer and trans people in the United States, the United Kingdom, and much of Europe. In an article published in the wake of the exhibition, the art historian Christiane Gruber noted how the composite figure of the pre-Islamic, Persianate şahmeran (as well as Burak, the human-faced steed of the Prophet) has been adopted to represent the intersectional struggle of women, Kurdish populations, transpeople and queer communities within contemporary Turkey (2021). Indeed, although the Şahmeran myth had previously been adapted by writers like Tomris Uyar and Hulki Aktunç, it is only in recent years that the use of the image has spread more widely: by Kurdish and queer visual artists, for instance, or appropriated as a Netflix serial <ref type="bibr" target="#b15">(Aktunç 1976;</ref><ref type="bibr" target="#b88">McKernan 2020;</ref><ref type="bibr" target="#b124">Tamtekin 2022;</ref><ref type="bibr" target="#b128">Turagay and Başaran 2023;</ref><ref type="bibr">Uyar 2023</ref><ref type="bibr" target="#b130">Uyar [1973]]</ref>). 'The age-old figure of Şahmeran', Gruber concluded, 'has made a strong comeback in the Turkish public sphere, acting as a perilous testing ground, especially for members of the LGTBQ and Kurdish communities'.</p><p>It is tempting, to be sure, to thus end this article with the return of the Persianate repressed; a framing that has been used elsewhere to refer to the adoption of Persianate vocabulary by contemporary queer communities in Turkey <ref type="bibr" target="#b85">(Mansbridge 2017)</ref>. Indeed, there is something striking about how precisely the şahmeran appears to reverse the terms of Gökalp's pederşahilik. And yet it must be remembered that both Gökalp's notion, and its usage by Halide Edip, were fundamentally intended to institute a regime of productive, patriotic heteronormativity: it was not that a prior queer Persianate was 'repressed', per se, but rather that its queerness is itself an effect of the discourse of 'radical break', the negative ground against which nationalist heteronormativity was projected. In linking together a critique of a 'fictitious' Islam alongside a positive programme of environmental justice and animal rights, it is rather evident that şahmeran, as depicted on the collage, was used here fundamentally as an instrumental and strategic locus of resistance against what Evren Savcı calls 'neoliberal Islam': that is, a neoliberalism that itself makes instrumental and strategic usage of Islamic imagery and rhetoric <ref type="bibr">(2021,</ref><ref type="bibr">(7)</ref><ref type="bibr">(8)</ref><ref type="bibr">(9)</ref><ref type="bibr">(10)</ref><ref type="bibr">(11)</ref>. The issue arises for me because of how, within its own theorisation, the Persianate has so often been framed as an emancipatory, cosmopolitan tendency juxtaposed against a repressive (Arab) Islam and the violent ruptures of contemporary nationalism. Although he rejects the term Persianate, for example, it is evident that the 'Balkans-to-Bengal complex' of Shahab Ahmad is not especially different from 'the Bengal to Bursa zone' of the historian Abbas Amanat; it represents an antediluvian cosmopolitan ethos, rooted in the poetics of Hafez and Rumi, and deliberately suppressed by the vandalism and enforced amnesia of colonialism, the postcolonial nation-state, and contemporary Islamic fundamentalism <ref type="bibr">(Ahmad 2016, 32-46;</ref><ref type="bibr">Amanat 2018, 29)</ref>.</p><p>Of course, there is the problem of falling into a familiar 'good Muslim, bad Muslim' rhetoric <ref type="bibr" target="#b84">(Mamdani 2004)</ref>. There is also the danger, as Judith Butler notes, of constructing the premodern Persianate as a 'site of lost pleasure' which promises 'the proleptic return of a prior and lost happiness <ref type="bibr">' (1999, 16)</ref>. But more crucially, for me, is that by positing 'the Persianate' as an ontological premodern (or pre-national, or pre-heteronormative), it is necessary to define what this Persianate actually consisted of vis-à-vis Arabic, Turkish or some other cultural sphere: and to do so, one must both accept as fait accompli and continuously reenact the very surgery upon the Ottoman literary interculture (for example) that Persianate Studies, in its historiographic narrative, has deemed the catastrophe of the nationalist epoch. This, for me, is the importance of Hamid Dabashi's intervention in Persophilia: Persian Culture on the Global Scene (2015), which explores how Persian literature adapted to, and was adapted by, the early modern European bourgeois public sphere, and how this literature was then reencountered and reappropriated by Persian writers and poets within a new transnational context. There are clear differences between the Persophilia Dabashi describes and what I have outlined in the Ottoman context: the former is an uncanniness, a 'foreign familiarity', whereas the latter is all abjection and estrangement: both, importantly, are on the side of the drive. But what is most crucial is that the 'Persianate', as currently constituted, appears thus as an effect of Persophilia rather than its precedent: the critical potential of studying Persophilia is not the discovery of an 'alternative modernity', but rather 'an alternative theory to modernity' <ref type="bibr">(Dabashi 2015, 66, 231)</ref>. As in the European case, this Persophilia is hardly by nature emancipatory or cosmopolitan. Indeed, with the establishment of the Republic, the generally positive attitudes of writers like Namık Kemal, Ömer Seyfettin, and Halide Edip towards Arabic literature quickly soured into a base racism, as Ottoman Persophilia gradually realigned alongside a fundamentally anti-Semitic European form exemplified by Gobineau and Renan. <ref type="foot" target="#foot_12">19</ref>But if I have focused here upon the way in which the writers of the National Literature period framed their projects of utopian linguistic, gendered, and sexual futurity, it is only because it is their writings and their ideology which contemporary Turkish nationalism claims as its precedent and origin: as we have seen, in detail, the sexual futures of Ömer Seyfettin and Halide Edip -a compulsory, atavistic sadomasochism, or a return to an ungendered, nomadic political sphere -were in fact remarkably different, and could today even be read as potentially subversive. Yet the canon of Turkish literature also has its own dead paths, with their own dead Persianates: I have not discussed here, for instance, the Persianate negatives of the Edebiyat-ı Cedide and the Fecr-i Âti schools, or of the Neo-Hellenic strand of Turkish literature, or indeed the Persianates of underclass subcultural genres like 'Iranian cabaret' [Acem kantosu]. Nor have I much discussed here the role that Iranians themselves, as expatriates or exiles, played in the formulation of Persophilia, and their own reencounters and reengagements with Persian in the late Ottoman and Turkish context. As I have proposed earlier, what sustains the Persianate as a medium of resistance and critique may be precisely the contradictory meanings that it holds; what may prove most interesting are the possibilities of exploring and taking on the negativity of 'that ornate language' which, as Ömer Seyfettin proclaimed in 1911, was 'fit only for the subjects of pleasure and desire' <ref type="bibr">(Ömer Seyfettin 1911, 6)</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Notes on contributor</head><p>Erik Blackthorne-O'Barr is a doctoral candidate at the Middle Eastern, South Asian and African Studies department at Columbia University in New York. Before coming to Columbia, he completed a master's degree in Turkish Studies at Sabancı University in Istanbul, and a bachelor's degree in the Near and Middle Eastern Civilisations department at the University of Toronto.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>ORCID</head><p>Erik Blackthorne-O'Barr http://orcid.org/0000-0002-8423-4829</p></div>			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="3" xml:id="foot_0"><p>The term Oğuz, referring to an ancestral branch of the Turks, was also used as a patriotic name by Ömer Seyfettin in the explicitly Turanist novella 'Primo Türk Çocuğu' (1911-1914).</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="8" xml:id="foot_1"><p>For her role in the operation of residential schools during the Armenian Genocide, see<ref type="bibr" target="#b3">Adak 2016;</ref><ref type="bibr" target="#b36">Deringil 2019.</ref> </p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="9" xml:id="foot_2"><p>The term Acemperestlik is first used extensively by the literary historian Mehmet Fuat Köprülü, largely in the same manner of E.J.W.Gibb's earlier 'Persianism' (2007 [1921]: 58).</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="10" xml:id="foot_3"><p>There are errors in Ömer Seyfettin's list: he refers Nedim's ode as a 'Hamamnâme', and pluralises Muallim Naci's title as 'Hederler'. Vehbi's Tuhfe, a Perso-Ottoman verse dictionary, is not directly listed but referred to elsewhere in 'Yeni Lisan'.</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="11" xml:id="foot_4"><p>Both of these terms are found together in Vehbi's Şevkengiz<ref type="bibr" target="#b118">(Schmidt 1993</ref>).</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="12" xml:id="foot_5"><p>Ziya Gökalp's writings are the earliest recorded source of this word, which has since been replaced by the modern Turkish ataerkil. To be clear, I am not arguing that this neologism is, by virtue of its etymology, essentially 'Persianate'. However, although he was opposed to strict literary purism [dilde tasfiyecilik] Ziya Gökalp did clearly argue that Arabic and Persian words remained essentially foreign to Turkish except when consecrated by popular usage. His calque of pedarşahilik from patriarchie is thus notable, especially in light of how the terms used to describe the ancestral Turkish family (i.e., demokrat and feminist) were left in direct translation(2019, 160).</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="13" xml:id="foot_6"><p>During this period these two works, along with the other erotic writings of Enderunlu Fazıl Bey, were usually found bound together in one compilation. In 1837 the print version of this compilation was censored on the grounds that it mocked marriage and encouraged debauchery, but it is unclear which work in particular may have provoked state intervention. See<ref type="bibr" target="#b79">Kuru 2005.</ref> </p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="14" xml:id="foot_7"><p>Here, I would argue, is one aspect where Persophilia differs from Orientalism, Ottoman or otherwise. As Edward Said argues, 'as a cultural apparatus Orientalism is all aggression, activity, judgment, will-to-truth, and knowledge'. The same is true, claims Ussama Makdisi, of its Ottoman form. But as Carter Findley has shown, the rise of Persophilia was marked by the 'virtual collapse' of Ottoman knowledge of Persian, except as discovered through self-analysis. SeeSaid 1979,  204;<ref type="bibr" target="#b82">Makdisi 2002;</ref> Findley 1989, 169.   </p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="15" xml:id="foot_8"><p>Ahmet Mithat's adaptation of this story from the Shahnameh does not sustain the same ambiguities as Ferdowsi's original: there is no doubt here that Sudabeh is wholly corrupt, and Siavash faultless. See, by contrast,Dabashi 2019, 91-92.   </p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="16" xml:id="foot_9"><p>For a reading which emphasizes instead a more melancholic (although still decadent) reading of Heder, see Dolcerocca 2021.</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="17" xml:id="foot_10"><p>It may be clear that I am alluding to Edelman's formulation of the 'sinthomosexual' here. I would not argue that Kâmil Bey (or Muallim Naci) precisely fits this notion, but rather that within the sexual futurity of Ömer Seyfettin he occupies an analogous, if distinct, negative role. SeeEdelman 2004, 35.   </p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="18" xml:id="foot_11"><p>An older notion of zandaqah ['heresy,' but in original usage likely 'Zoroastrianism' or 'Manicheanism'] was also redeployed by Arab literary historians during this period to refer to the effects of Iranian literary influence; Gökalp's particular formulation, however, seems distinct. SeeMassad 2007, 70.   </p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="19" xml:id="foot_12"><p>As Zeynep Çelik has shown, the loose and heterogenous Ottoman and Turkish counter-discourse to Orientalism also made use of Persophilic rhetoric; for instance, in Namık Kemal's stringent critique of Renan. Ironically, the rapprochement between the Turkish Republic and Pahlavi Iran in the 1930s was founded upon an ideological anti-Arabism which directly borrowed from Renan's claims.See Namık Kemal 1910;  </p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="2020" xml:id="foot_13"><p>Çelik 2020.   </p></note>
+		</body>
+		<back>
+
+			<div type="acknowledgement">
+<div><head>Acknowledgments</head><p>The author would like to thank <rs type="person">İpek Şahinler</rs> for organising and editing this edition of <rs type="affiliation">Culture, Theory</rs> and <rs type="person">Critique</rs>, as well as the two anonymous reviewers for their generous comments and thoughtful criticisms. I would like to extend my additional thanks to <rs type="person">Sooyong Kim</rs>, who commented on an earlier draft of this article at the 2023 MESA Conference, as well as <rs type="person">Sharon Mizbani</rs>, <rs type="person">Doha Tazi-Hemida</rs>, <rs type="person">Deniz Başar</rs>, <rs type="person">Hamid Dabashi</rs>, <rs type="person">Zeynep Çelik</rs>, <rs type="person">Tunç Şen</rs> and <rs type="person">Joseph Massad</rs> for their invaluable advice and support. The research for this article was supported by a <rs type="grantNumber">2021-2023</rs> <rs type="grantName">SSHRC Doctoral Fellowship</rs> and a 2022-2023 Doctoral Fellowship at the <rs type="institution">Koç University ANAMED Institute in Istanbul</rs>.</p></div>
+			</div>
+			<div type="funding">
+<div><head>Funding</head><p>This work was supported by <rs type="funder">Koç University, ANAMED Institute</rs>; <rs type="funder">Social Sciences and Humanities Research Council of Canada</rs>: [Grant Number <rs type="grantNumber">752-2021-0096</rs>].<rs type="funder">Koç Üniversitesi</rs></p></div>
+			</div>
+			<listOrg type="funding">
+				<org type="funding" xml:id="_99ePr62">
+					<idno type="grant-number">2021-2023</idno>
+					<orgName type="grant-name">SSHRC Doctoral Fellowship</orgName>
+				</org>
+				<org type="funding" xml:id="_BUvSWgM">
+					<idno type="grant-number">752-2021-0096</idno>
+				</org>
+			</listOrg>
+			<div type="annex">
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Disclosure statement</head><p>No potential conflict of interest was reported by the author(s).</p></div>			</div>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">Memdûh</forename><surname>Abdülhalim</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Tarih-i Edebiyyât-ı Osmaniyye. Istanbul: Ohannes Ferid</title>
+		<imprint>
+			<biblScope unit="page" from="1888" to="1889" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<title level="a" type="main">National Myths and Self-Na(rra)tions: Mustafa Kemal&apos;s Nutuk and Halide Edib&apos;s Memoirs and The Turkish Ordeal</title>
+		<author>
+			<persName><forename type="first">Hülya</forename><surname>Adak</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">The South Atlantic Quarterly</title>
+		<imprint>
+			<biblScope unit="volume">102</biblScope>
+			<biblScope unit="issue">2/3</biblScope>
+			<biblScope unit="page" from="509" to="527" />
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title level="a" type="main">Otobiyografik Benliğin Çok-Karakterliliği: Halide Edibin İlk Romanlarında Toplumsal Cinsiyet</title>
+		<author>
+			<persName><forename type="first">Hülya</forename><surname>Adak</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Kadınlar Dile Düşünce: Edebiyat ve Toplumsal Cinsiyet</title>
+		<editor>
+			<persName><forename type="first">Sibel</forename><surname>Irzık</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">Jale</forename><surname>Parla</surname></persName>
+		</editor>
+		<imprint>
+			<date type="published" when="2004">2004</date>
+			<biblScope unit="page" from="161" to="178" />
+		</imprint>
+	</monogr>
+	<note>Istanbul: İletişim Yayınları</note>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<monogr>
+		<author>
+			<persName><forename type="first">Hülya</forename><surname>Adak</surname></persName>
+		</author>
+		<title level="m">Halide Edib ve Siyasal Şiddet: Ermeni Kırımı, Diktatörlük ve Şiddetsizlik. Istanbul: I ̇stanbul Bilgi U ̈niversitesi Yayınları</title>
+		<imprint>
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title level="a" type="main">Mehasin&apos;i Okuyan Kardeşlerime</title>
+		<author>
+			<persName><forename type="first">Halide</forename><surname>Adıvar</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Edip</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Mehasin</title>
+		<imprint>
+			<biblScope unit="volume">6</biblScope>
+			<biblScope unit="page" from="418" to="421" />
+			<date type="published" when="1909">1909</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">Halide</forename><surname>Adıvar</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Edip</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="s">Seviyye Talip. Istanbul: Atlas</title>
+		<imprint>
+			<date type="published" when="1910">1910. 1987</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<author>
+			<persName><forename type="first">Halide</forename><surname>Adıvar</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Edip</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Türkler ve Edebiyatları</title>
+		<imprint>
+			<date type="published" when="1910">1910. 1912. 2014. 1913</date>
+			<biblScope unit="volume">6</biblScope>
+			<biblScope unit="page" from="162" to="164" />
+		</imprint>
+	</monogr>
+	<note>Mektep Müzesi</note>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<monogr>
+		<author>
+			<persName><forename type="first">Halide</forename><surname>Adıvar</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Edip</surname></persName>
+		</author>
+		<title level="m">Memoirs of Halidé Edib</title>
+		<meeting><address><addrLine>Piscataway, NJ</addrLine></address></meeting>
+		<imprint>
+			<publisher>Gorgias Press</publisher>
+			<date type="published" when="1926">1926. 2004</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title level="a" type="main">La Société persane: la femme persane</title>
+		<author>
+			<persName><forename type="first">Ahmet</forename><surname>Ağaoğlu</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">La Nouvelle Revue</title>
+		<imprint>
+			<biblScope unit="volume">69</biblScope>
+			<biblScope unit="page" from="379" to="380" />
+			<date type="published" when="1891-03">1891. March-April 1891</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<monogr>
+		<title level="m" type="main">Dürdâne Hanım</title>
+		<author>
+			<persName><forename type="first">Mithat</forename><surname>Ahmet</surname></persName>
+		</author>
+		<editor>Hüseyin Alacatlı. Ankara</editor>
+		<imprint>
+			<date type="published" when="1882">1882. 1999</date>
+			<publisher>Akçağ Yayınları</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<monogr>
+		<title level="m" type="main">Felatun Bey ile Rakım Efendi</title>
+		<author>
+			<persName><forename type="first">Mithat</forename><surname>Ahmet</surname></persName>
+		</author>
+		<editor>Gökhan Tunç and Ebru Özgün</editor>
+		<imprint>
+			<date type="published" when="1875">1875. 2017</date>
+			<publisher>Anadolu Üniversitesi Basımevi</publisher>
+			<pubPlace>Eskişehir</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<monogr>
+		<author>
+			<persName><forename type="first">Mithat</forename><surname>Ahmet</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Muallim</forename><surname>Naci</surname></persName>
+		</author>
+		<title level="m">Muhaberat ve Muhaverat</title>
+		<editor>
+			<persName><forename type="first">Nazım</forename><surname>Elmas</surname></persName>
+		</editor>
+		<editor>
+			<persName><surname>Istanbul</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">Kitabevi</forename><surname>Çizgi</surname></persName>
+		</editor>
+		<imprint>
+			<date type="published" when="1893">1893. 2011</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<title level="a" type="main">Occidentalism: The Historical Fantasy of the Modern</title>
+		<author>
+			<persName><forename type="first">Meltem</forename><surname>Ahıska</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">The South Atlantic Quarterly</title>
+		<imprint>
+			<biblScope unit="volume">102</biblScope>
+			<biblScope unit="issue">2/3</biblScope>
+			<biblScope unit="page" from="351" to="379" />
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<monogr>
+		<author>
+			<persName><forename type="first">Rasim</forename><surname>Ahmet</surname></persName>
+		</author>
+		<title level="m">Matbuat Hatıralarından Muharrir, Şair, Edib</title>
+		<editor>
+			<persName><forename type="first">Özgür</forename><surname>İldeş</surname></persName>
+		</editor>
+		<editor>
+			<persName><surname>Istanbul</surname></persName>
+		</editor>
+		<imprint>
+			<publisher>Cümle</publisher>
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<monogr>
+		<title level="m" type="main">What Is Islam? The Importance of Being Islamic</title>
+		<author>
+			<persName><forename type="first">Shahab</forename><surname>Ahmad</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2016">2016</date>
+			<publisher>Princeton University Press</publisher>
+			<pubPlace>Princeton</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<monogr>
+		<author>
+			<persName><forename type="first">Hulki</forename><surname>Aktunç</surname></persName>
+		</author>
+		<title level="m">Gidenler Donmeyenler: Hikaŷeler. Istanbul: Gunebakan Yayınları</title>
+		<imprint>
+			<date type="published" when="1976">1976</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<monogr>
+		<title level="m" type="main">Ömer Seyfettin: Ülkücü bir Yazarın Romanı</title>
+		<author>
+			<persName><forename type="first">Tahir</forename><surname>Alangu</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1968-05">1968. May Yayınları</date>
+			<pubPlace>Istanbul</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<analytic>
+		<title level="a" type="main">&apos;Ta&apos;lîm ve Terbiye-i Benât-ı Osmâniyye</title>
+		<author>
+			<persName><forename type="first">Fatma</forename><surname>Aliye</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Hanımlara Mahsus Gazete</title>
+		<imprint>
+			<biblScope unit="volume">37</biblScope>
+			<biblScope unit="page" from="1" to="2" />
+			<date type="published" when="1896">1896</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<analytic>
+		<title level="a" type="main">Remembering the Persianate</title>
+		<author>
+			<persName><forename type="first">Abbas</forename><surname>Amanat</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">The Persianate World: Rethinking a Shared Sphere</title>
+		<editor>
+			<persName><forename type="first">Abbas</forename><surname>Amanat</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">Assef</forename><surname>Ashraf</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Leiden</addrLine></address></meeting>
+		<imprint>
+			<publisher>Brill</publisher>
+			<date type="published" when="2018">2018</date>
+			<biblScope unit="page" from="15" to="62" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<monogr>
+		<author>
+			<persName><forename type="first">Walter</forename><forename type="middle">G</forename><surname>Andrews</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Mehmet</forename><surname>Kalpaklı</surname></persName>
+		</author>
+		<title level="m">The Age of Beloveds: Love and the Beloved in Early Modern Ottoman and European Culture and Society</title>
+		<meeting><address><addrLine>Durham</addrLine></address></meeting>
+		<imprint>
+			<publisher>Duke University Press</publisher>
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<monogr>
+		<title level="m" type="main">Turkish Nationalism in the Young Turk Era</title>
+		<author>
+			<persName><forename type="first">Masami</forename><surname>Arai</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1992">1992</date>
+			<publisher>Brill</publisher>
+			<pubPlace>Leiden</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<analytic>
+		<title level="a" type="main">Halide Edip&apos;te Değişen Kadının Romandaki İzdüşümleri: Seviyye Talip&apos;ten Ateşten Gömlek&apos;e</title>
+		<author>
+			<persName><forename type="first">Hülya</forename><surname>Argunsah</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">TÜBAR Dergisi</title>
+		<imprint>
+			<biblScope unit="volume">37</biblScope>
+			<biblScope unit="page" from="27" to="52" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<analytic>
+		<title level="a" type="main">Bones of Contention: Corpse Traffic and Ottoman-Iranian Rivalry in Nineteenth-Century Iraq</title>
+		<author>
+			<persName><forename type="first">Sabri</forename><surname>Ateş</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Africa and the Middle East</title>
+		<imprint>
+			<biblScope unit="volume">30</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="512" to="532" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+	<note>Comparative Studies of South Asia</note>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<monogr>
+		<author>
+			<persName><forename type="first">Gülhan</forename><surname>Balsoy</surname></persName>
+		</author>
+		<title level="m">The Politics of Reproduction in Ottoman Society, 1838-1900</title>
+		<meeting><address><addrLine>London</addrLine></address></meeting>
+		<imprint>
+			<publisher>Pickering &amp; Chatto</publisher>
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<monogr>
+		<title level="m" type="main">Erotism: Death and Sensuality</title>
+		<author>
+			<persName><forename type="first">Georges</forename><surname>Bataille</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1986">1986</date>
+			<publisher>City Lights Books</publisher>
+			<pubPlace>San Francisco</pubPlace>
+		</imprint>
+	</monogr>
+	<note>Translated by Mary Dalwood</note>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<monogr>
+		<author>
+			<persName><forename type="first">Murat</forename><surname>Belge</surname></persName>
+		</author>
+		<title level="m">Sanat ve Edebiyat Yazıları</title>
+		<meeting><address><addrLine>Istanbul</addrLine></address></meeting>
+		<imprint>
+			<publisher>İletişim</publisher>
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">Halil</forename><surname>Berktay</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Özgürlük Dersleri. Istanbul: Kitap Yayınları</title>
+		<imprint>
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b27">
+	<monogr>
+		<author>
+			<persName><forename type="first">Lauren</forename><surname>Berlant</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Lee</forename><surname>Edelman</surname></persName>
+		</author>
+		<title level="m">Sex, or the Unbearable</title>
+		<meeting><address><addrLine>Durham</addrLine></address></meeting>
+		<imprint>
+			<publisher>Duke University Press</publisher>
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b28">
+	<monogr>
+		<title level="m" type="main">Harabat Karsisında Namik Kemal: Namik Kemal&apos;in Eski Edebiyat İtirazları</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Bilgegil</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Kaya</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1973">1973</date>
+			<publisher>Kitap Yayınları</publisher>
+			<pubPlace>Istanbul</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b29">
+	<monogr>
+		<title level="m" type="main">The Press and Poetry of Modern Persia</title>
+		<author>
+			<persName><forename type="first">Edward</forename><surname>Browne</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Granville</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1914">1914</date>
+			<publisher>Cambridge University Press</publisher>
+			<pubPlace>Cambridge</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b30">
+	<analytic>
+		<title level="a" type="main">Revisiting Bodies and Pleasures</title>
+		<author>
+			<persName><forename type="first">Judith</forename><surname>Butler</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Theory, Culture &amp; Society</title>
+		<imprint>
+			<biblScope unit="volume">16</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="11" to="20" />
+			<date type="published" when="1999">1999</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b31">
+	<monogr>
+		<author>
+			<persName><forename type="first">Zeynep</forename><surname>Çelik</surname></persName>
+		</author>
+		<title level="m">Europe Knows Nothing about the Orient: A Critical Discourse from the East</title>
+		<meeting><address><addrLine>Istanbul</addrLine></address></meeting>
+		<imprint>
+			<publisher>Koç University Press</publisher>
+			<date type="published" when="1872">2020. 1872-1932</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b32">
+	<analytic>
+		<title level="a" type="main">Batılılaşma&quot; Does Not Mean &quot;Westernization</title>
+		<author>
+			<persName><forename type="first">John</forename><forename type="middle">M</forename><surname>Crofoot</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Turkish Studies Association Bulletin</title>
+		<imprint>
+			<biblScope unit="volume">14</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="179" to="189" />
+			<date type="published" when="1990">1990</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b33">
+	<monogr>
+		<title level="m" type="main">Persophilia: Persian Culture on the Global Scene</title>
+		<author>
+			<persName><forename type="first">Hamid</forename><surname>Dabashi</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2015">2015</date>
+			<publisher>Harvard University Press</publisher>
+			<pubPlace>Cambridge, MA</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b34">
+	<monogr>
+		<title level="m" type="main">The Shahnameh: The Persian Epic in World Literature</title>
+		<author>
+			<persName><forename type="first">Hamid</forename><surname>Dabashi</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2019">2019</date>
+			<publisher>Columbia University Press</publisher>
+			<pubPlace>New York</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b35">
+	<analytic>
+		<title level="a" type="main">Zen-dostlar Çoğalıp Mahbublar Azaldı&quot;: Osmanlı&apos;da Toplumsal Cinsiyet, Cinsellik ve Tarihyazımı</title>
+		<author>
+			<persName><forename type="first">Serkan</forename><surname>Delice</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Cinsellik Muamması: Turkiye&apos;de Queer Kultur ve Muhalefet</title>
+		<editor>
+			<persName><forename type="first">Cüneyt</forename><surname>Çakılar</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">Serkan</forename><surname>Delice</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Istanbul</addrLine></address></meeting>
+		<imprint>
+			<publisher>Metis</publisher>
+			<date type="published" when="2012">2012</date>
+			<biblScope unit="page" from="329" to="363" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b36">
+	<analytic>
+		<title level="a" type="main">Your Religion is Worn and Outdated&quot;: Orphans, Orphanages and Halide Edib during the Armenian Genocide: The Case of Antoura</title>
+		<author>
+			<persName><forename type="first">Selim</forename><surname>Deringil</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Études Arméniennes Contemporaines</title>
+		<imprint>
+			<biblScope unit="volume">12</biblScope>
+			<biblScope unit="page" from="33" to="65" />
+			<date type="published" when="2019">2019</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b37">
+	<analytic>
+		<title level="a" type="main">Tanzimattan Sonra Gerçekliğe Doğru</title>
+		<author>
+			<persName><forename type="first">Güzin</forename><surname>Dino</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Ankara Üniversity DTCF Dergisi</title>
+		<imprint>
+			<biblScope unit="volume">9</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="189" to="199" />
+			<date type="published" when="1951">1951</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b38">
+	<analytic>
+		<title level="a" type="main">Erotic Experience and Sexual Difference in Bataille</title>
+		<author>
+			<persName><forename type="first">Zeynep</forename><surname>Direk</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Reading Bataille Now</title>
+		<editor>
+			<persName><forename type="first">Shannon</forename><surname>Winnubst</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Bloomington</addrLine></address></meeting>
+		<imprint>
+			<publisher>Indiana University Press</publisher>
+			<date type="published" when="2007">2007</date>
+			<biblScope unit="page" from="95" to="115" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b39">
+	<analytic>
+		<title level="a" type="main">Wasted Youth and Reunion in Death: Imperial Decline and Decadent Aesthetics in Fin-de-Siècle Ottoman Culture</title>
+		<author>
+			<persName><forename type="first">Özen</forename><surname>Dolcerocca</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Nergis</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Volupté: Interdisciplinary Journal of Decadence Studies</title>
+		<imprint>
+			<biblScope unit="volume">4</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="1" to="18" />
+			<date type="published" when="2021">2021</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b40">
+	<monogr>
+		<author>
+			<persName><forename type="first">Alan</forename><surname>Duben</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Cem</forename><surname>Behar</surname></persName>
+		</author>
+		<title level="m">Istanbul Households: Marriage, Family and Fertility 1880-1940</title>
+		<meeting><address><addrLine>Cambridge, UK</addrLine></address></meeting>
+		<imprint>
+			<publisher>Cambridge University Press</publisher>
+			<date type="published" when="1991">1991</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b41">
+	<monogr>
+		<author>
+			<persName><forename type="first">Ayşe</forename><surname>Durakbaşa</surname></persName>
+		</author>
+		<title level="m">Halide Edib: Türk Modernleşmesi ve Feminizm. Istanbul: İletişim Yayınları</title>
+		<imprint>
+			<date type="published" when="2000">2000</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b42">
+	<monogr>
+		<author>
+			<persName><forename type="first">Lee</forename><surname>Edelman</surname></persName>
+		</author>
+		<title level="m">No Future: Queer Theory and the Death Drive</title>
+		<meeting><address><addrLine>Durham</addrLine></address></meeting>
+		<imprint>
+			<publisher>Duke University Press</publisher>
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b43">
+	<analytic>
+		<title level="a" type="main">Un Ottoman en Orient: Osman Hamdi Bey en Irak</title>
+		<author>
+			<persName><forename type="first">Edhem</forename><surname>Eldem</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Arles: Actes Sud. Engels, Friedrich. (1884) 2010. The Origin of the Family, Private Property and the State</title>
+		<meeting><address><addrLine>London</addrLine></address></meeting>
+		<imprint>
+			<publisher>Penguin Books</publisher>
+			<date type="published" when="2010">2010</date>
+			<biblScope unit="page" from="1869" to="1871" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b44">
+	<monogr>
+		<author>
+			<persName><forename type="first">İnci</forename><surname>Enginün</surname></persName>
+		</author>
+		<title level="m">Abdülhak Hâmid Tarhan. Ankara: Kültür ve Turizm Bakanlığı Yayınları</title>
+		<imprint>
+			<date type="published" when="1988">1988</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b45">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">İnci</forename><surname>Enginün</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Ahmet Mithat Efendi&apos;nin Tiyatroları. Istanbul: Edebiyat Fakültesi Basımevi</title>
+		<imprint>
+			<date type="published" when="1990">1990</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b46">
+	<monogr>
+		<title level="m" type="main">Yeni Türk Edebiyatı Tanzimat&apos;tan Cumhuriyet&apos;e (1839-1923)</title>
+		<author>
+			<persName><forename type="first">İnci</forename><surname>Enginün</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2006">2006</date>
+			<publisher>Dergâh</publisher>
+			<pubPlace>Istanbul</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b47">
+	<monogr>
+		<author>
+			<persName><forename type="first">Nergis</forename><surname>Ertürk</surname></persName>
+		</author>
+		<title level="m">Grammatology and Literary Modernity in Turkey</title>
+		<meeting><address><addrLine>Oxford</addrLine></address></meeting>
+		<imprint>
+			<publisher>Oxford University Press</publisher>
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b48">
+	<monogr>
+		<title level="m" type="main">Ottoman Civil Officialdom: A Social History</title>
+		<author>
+			<persName><forename type="first">Carter</forename><forename type="middle">V</forename><surname>Findley</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1989">1989</date>
+			<publisher>Princeton University Press</publisher>
+			<pubPlace>Princeton</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b49">
+	<monogr>
+		<title level="m" type="main">A History of Ottoman Poetry, 6 volumes</title>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">J W</forename><surname>Gibb</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1900">1900</date>
+			<publisher>Luzac &amp; Co</publisher>
+			<pubPlace>London</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b50">
+	<monogr>
+		<title level="m" type="main">Osmanlı Şiir Tarihi</title>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">J W</forename><surname>Gibb</surname></persName>
+		</author>
+		<editor>Halide Edip Adıvar</editor>
+		<imprint>
+			<date type="published" when="1943">1943</date>
+			<publisher>Bürhaneddin Matbaası</publisher>
+			<pubPlace>Istanbul</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b51">
+	<monogr>
+		<title level="m" type="main">Eski ve Yeni Harflerle Yeni Türk Edebiyatı Metinleri</title>
+		<author>
+			<persName><forename type="first">Önder</forename><surname>Göçgün</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1987">1987</date>
+			<publisher>Selçuk Universitesi Yayınları</publisher>
+			<pubPlace>Konya</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b52">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">Ziya</forename><surname>Gökalp</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Yeni Hayat. Istanbul: Evkaf-ı İslamiyye Matbaası</title>
+		<imprint>
+			<date type="published" when="1918">1918</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b53">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">Ziya</forename><surname>Gökalp</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Türkçülüğün Esasları. Eskişehir: Anadolu Üniversitesi Yayınları</title>
+		<imprint>
+			<biblScope unit="page">2019</biblScope>
+			<date type="published" when="1923">1923</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b54">
+	<analytic>
+		<title level="a" type="main">The Novel in Turkish: Narrative Tradition to Nobel Prize</title>
+		<author>
+			<persName><forename type="first">Erdağ</forename><surname>Göknar</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">The Cambridge History of Turkey 4</title>
+		<editor>
+			<persName><forename type="first">Reşat</forename><surname>Kasaba</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Cambridge</addrLine></address></meeting>
+		<imprint>
+			<publisher>Cambridge University Press</publisher>
+			<date type="published" when="2009">2009</date>
+			<biblScope unit="page" from="472" to="503" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b55">
+	<analytic>
+		<title level="a" type="main">Turkish-Islamic Feminism Confronts National Patriarchy: Halide Edib&apos;s Divided Self</title>
+		<author>
+			<persName><forename type="first">Erdağ</forename><surname>Göknar</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Middle East Women&apos;s Studies</title>
+		<imprint>
+			<biblScope unit="volume">9</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="32" to="57" />
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b56">
+	<analytic>
+		<title level="a" type="main">The Representation of Women as Gendered National Subjects in Ottoman-Turkish Novels (1908-1923)</title>
+		<author>
+			<persName><surname>Gözdaşoğlu Küçükalioğlu</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Elif</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Gender Studies</title>
+		<imprint>
+			<biblScope unit="volume">16</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="3" to="15" />
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b57">
+	<analytic>
+		<title level="a" type="main">What the Mythical Figure of Şahmeran in Turkey Represents and Why Activists Use It</title>
+		<author>
+			<persName><forename type="first">Christiane</forename><surname>Gruber</surname></persName>
+		</author>
+		<ptr target="https://theconversation.com/what-the-mythical-figure-of-sahmeran-in-turkey-represents-and-why-activists-use-it-155606" />
+	</analytic>
+	<monogr>
+		<title level="j">The Conversation</title>
+		<imprint>
+			<date type="published" when="2021-03-01">2021. 1 March 2021</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b58">
+	<analytic>
+		<title level="a" type="main">Dandies and Originals: Authenticity, Belatedness, and the Turkish Novel</title>
+		<author>
+			<persName><forename type="first">Nurdan</forename><surname>Gürbilek</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">The South Atlantic Quarterly</title>
+		<imprint>
+			<biblScope unit="volume">102</biblScope>
+			<biblScope unit="issue">2/3</biblScope>
+			<biblScope unit="page" from="599" to="628" />
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b59">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">Nurdan</forename><surname>Gürbilek</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Kör Ayna, Kayıp Şark: Edebiyat ve Endişe. Istanbul: Metis</title>
+		<imprint>
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b60">
+	<analytic>
+		<title level="a" type="main">LGBTQ Art Arrests Inflame Turkey Student Protests</title>
+		<author>
+			<persName><forename type="first">Danya</forename><surname>Hajjaji</surname></persName>
+		</author>
+		<ptr target="https://www.newsweek.com/lgbtq-art-arrests-inflame-turkey-student-protests-1565832" />
+	</analytic>
+	<monogr>
+		<title level="j">Newsweek</title>
+		<imprint>
+			<date type="published" when="2021-02-01">2021. 1 February 2021</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b61">
+	<analytic>
+		<title level="a" type="main">Harap Mabetler, Ruhu Eşyaya Karışan Kadınlar ve Zamansız Parmak Uçları</title>
+		<author>
+			<persName><forename type="first">Hazal</forename><surname>Halavut</surname></persName>
+		</author>
+		<ptr target="https://www.5harfliler.com/harap-mabetler-ruhu-esyaya-karisan-kadinlar-ve-zamansiz-parmak-uclari/" />
+	</analytic>
+	<monogr>
+		<title level="j">Harfliler Dergisi</title>
+		<imprint>
+			<date type="published" when="2021-10-15">2021. 15 October 2021</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b62">
+	<analytic>
+		<title level="a" type="main">Loss, Lament and Lost Witnessing: Halide Edib on &apos;Being a Member of the Party Who Killed&apos; Armenians</title>
+		<author>
+			<persName><forename type="first">Hazal</forename><surname>Halavut</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of the Ottoman and Turkish Studies Association</title>
+		<imprint>
+			<biblScope unit="volume">8</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="313" to="318" />
+			<date type="published" when="2022">2022</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b63">
+	<analytic>
+		<title level="a" type="main">Westernization, Decadence, and the Turkish Baroque: Modern Constructions of the Eighteenth Century</title>
+		<author>
+			<persName><forename type="first">Shirine</forename><surname>Hamadeh</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Muqarnas</title>
+		<imprint>
+			<biblScope unit="volume">24</biblScope>
+			<biblScope unit="page" from="185" to="197" />
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b64">
+	<monogr>
+		<title level="m" type="main">The Young Turks in Opposition</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Hanioğlu</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Şükrü</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1995">1995</date>
+			<publisher>Oxford University Press</publisher>
+			<pubPlace>New York</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b65">
+	<analytic>
+		<title level="a" type="main">Orientalism &apos;alla turca&apos;: Late 19th/Early 20th Century Ottoman Voyages into the Muslim &apos;Outback&apos;</title>
+		<author>
+			<persName><forename type="first">Christoph</forename><surname>Herzog</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Raoul</forename><surname>Motika</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Die Welt des Islams, New Series</title>
+		<imprint>
+			<biblScope unit="volume">40</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="139" to="195" />
+			<date type="published" when="2000">2000</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b66">
+	<monogr>
+		<author>
+			<persName><forename type="first">Victoria</forename><surname>Holbrook</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Rowe</surname></persName>
+		</author>
+		<title level="m">The Unreadable Shores of Love: Turkish Modernity and Mystic Romance</title>
+		<meeting><address><addrLine>Austin</addrLine></address></meeting>
+		<imprint>
+			<publisher>University of Texas Press</publisher>
+			<date type="published" when="1994">1994</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b67">
+	<analytic>
+		<title level="a" type="main">Concealed Facts, Translation, and the Turkish Literary Past</title>
+		<author>
+			<persName><forename type="first">Victoria</forename><surname>Holbrook</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Rowe</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Translations: (Re)shaping of Literature and Culture</title>
+		<editor>
+			<persName><forename type="first">Saliha</forename><surname>Paker</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Istanbul</addrLine></address></meeting>
+		<imprint>
+			<publisher>Boğaziçi University Press</publisher>
+			<date type="published" when="2002">2002</date>
+			<biblScope unit="page" from="77" to="107" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b68">
+	<analytic>
+		<title level="a" type="main">Ömer Seyfettin ve Faşizm Tutkusu</title>
+		<author>
+			<persName><forename type="first">Selim</forename><surname>İleri</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Birikim</title>
+		<imprint>
+			<date type="published" when="1975-10">1975. October 1975</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b69">
+	<monogr>
+		<title level="m" type="main">The Emancipation of Turkish Woman</title>
+		<author>
+			<persName><forename type="first">Afet</forename><surname>İnan</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1962">1962</date>
+			<publisher>UNESCO</publisher>
+			<pubPlace>Paris</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b70">
+	<monogr>
+		<title level="m" type="main">Feminism and Nationalism in the Third World</title>
+		<author>
+			<persName><forename type="first">Kumari</forename><surname>Jayawardena</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1986">1986</date>
+			<publisher>Zed Books</publisher>
+			<pubPlace>London</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b71">
+	<analytic>
+		<title level="a" type="main">Slave Girls, Temptresses, and Comrades: Images of Women in the Turkish Novel</title>
+		<author>
+			<persName><forename type="first">Deniz</forename><surname>Kandiyoti</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Feminist Issues</title>
+		<imprint>
+			<biblScope unit="volume">8</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="35" to="50" />
+			<date type="published" when="1988">1988</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b72">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">Kemal</forename><surname>Karpat</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Osmanlı&apos;dan Günümüze Edebiyat ve Toplum. Istanbul: Timaş</title>
+		<imprint>
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b73">
+	<analytic>
+		<title level="a" type="main">Specters and Circulation of Meaning: Edebiyat-ı Cedide on Modern Literary Language</title>
+		<author>
+			<persName><forename type="first">Monica</forename><surname>Katiboğlu</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Africa and the Middle East</title>
+		<imprint>
+			<biblScope unit="volume">40</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="361" to="371" />
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+	<note>Comparative Studies of South Asia</note>
+</biblStruct>
+
+<biblStruct xml:id="b74">
+	<monogr>
+		<title level="m" type="main">The Prohibition of Sunni-Shi&apos;i Marriages in the Ottoman Empire: A Study of Ideologies</title>
+		<author>
+			<persName><forename type="first">Karen</forename><surname>Kern</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1999">1999</date>
+			<pubPlace>Columbia University</pubPlace>
+		</imprint>
+	</monogr>
+	<note>Ph.D. Dissertation</note>
+</biblStruct>
+
+<biblStruct xml:id="b75">
+	<monogr>
+		<title level="m" type="main">Kâbe&apos;den Boğaziçi&apos;ne: Kutsal ve İşgal</title>
+		<author>
+			<persName><forename type="first">Nur</forename><surname>Kıpçak</surname></persName>
+		</author>
+		<ptr target="https://www.5harfliler.com/kabeden-bogazicine-kutsal-ve-isgal/" />
+		<imprint>
+			<date type="published" when="2022-05-16">2022. 16 May 2022</date>
+		</imprint>
+	</monogr>
+	<note>5Harfliler Dergisi</note>
+</biblStruct>
+
+<biblStruct xml:id="b76">
+	<monogr>
+		<title level="m" type="main">Türk Edebiyatı Tarihi, 2 volumes. Istanbul: Matbaa-ı Âmire. Köprülü, Mehmet Fuat. (1918) 2006. Early Mystics in Turkish Literature</title>
+		<author>
+			<persName><forename type="first">Mehmet</forename><surname>Köprülü</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Fuat</surname></persName>
+		</author>
+		<editor>Gary Leiser and Robert Dankoff</editor>
+		<imprint>
+			<date type="published" when="1921">1921</date>
+			<publisher>Routledge</publisher>
+			<pubPlace>London</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b77">
+	<analytic>
+		<title level="a" type="main">Milli Edebiyatının İlk Mübeşşirleri</title>
+		<author>
+			<persName><forename type="first">Mehmet</forename><surname>Köprülü</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Fuat</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Bugünkü Edebiyat</title>
+		<editor>
+			<persName><forename type="first">Mehmet</forename><surname>Akif Çeçen</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">Ahmet</forename><surname>Balcı</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Ankara</addrLine></address></meeting>
+		<imprint>
+			<publisher>Akçağ</publisher>
+			<date type="published" when="1921">1921. 2007</date>
+			<biblScope unit="page" from="58" to="71" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b78">
+	<monogr>
+		<title level="m" type="main">Powers of Horror: An Essay on Abjection</title>
+		<author>
+			<persName><forename type="first">Julia</forename><surname>Kristeva</surname></persName>
+		</author>
+		<editor>Leon S. Roudiez</editor>
+		<imprint>
+			<date type="published" when="1982">1982</date>
+			<publisher>Columbia University Press</publisher>
+			<pubPlace>New York</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b79">
+	<analytic>
+		<title level="a" type="main">Biçimin Kıskacında Bir &apos;Tarih-i Nev-icad:&apos; Enderunlu Fazıl Bey ve Defter-i Aşk Adlı Mesnevisi</title>
+		<author>
+			<persName><forename type="first">Selim</forename><forename type="middle">S</forename><surname>Kuru</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Şinasi Tekin&apos;in Anısına Uygurlardan Osmanlıya</title>
+		<editor>
+			<persName><forename type="first">Günay</forename><surname>Kut</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">Fatma</forename><surname>Büyükkarcı</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">Yılmaz</forename></persName>
+		</editor>
+		<meeting><address><addrLine>Istanbul</addrLine></address></meeting>
+		<imprint>
+			<publisher>Simurg</publisher>
+			<date type="published" when="2005">2005</date>
+			<biblScope unit="page" from="476" to="506" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b80">
+	<monogr>
+		<title level="m" type="main">Kant with Sade</title>
+		<author>
+			<persName><forename type="first">Jacques</forename><forename type="middle">;</forename><surname>Lacan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>James</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Swenson</surname><genName>Jr</genName></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1963">1963. 1989. October</date>
+			<biblScope unit="volume">51</biblScope>
+			<biblScope unit="page" from="55" to="75" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b81">
+	<monogr>
+		<author>
+			<persName><forename type="first">Agâh</forename><surname>Levend</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Sırrı</surname></persName>
+		</author>
+		<title level="m">Türk Dilinde Gelisme ve Sadelesme Safhaları. Ankara: Türk Tarih Kurumu Basımevi</title>
+		<imprint>
+			<date type="published" when="1949">1949</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b82">
+	<analytic>
+		<title level="a" type="main">Ottoman Orientalism</title>
+		<author>
+			<persName><forename type="first">Ussama</forename><surname>Makdisi</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">The American Historical Review</title>
+		<imprint>
+			<biblScope unit="volume">107</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="768" to="796" />
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b83">
+	<monogr>
+		<title level="m" type="main">Orphans and Destitute Children in the Late Ottoman Empire</title>
+		<author>
+			<persName><forename type="first">Nazan</forename><surname>Maksudyan</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2014">2014</date>
+			<publisher>Syracuse University Press</publisher>
+			<pubPlace>Syracuse</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b84">
+	<monogr>
+		<author>
+			<persName><forename type="first">Mahmood</forename><surname>Mamdani</surname></persName>
+		</author>
+		<title level="m">Good Muslim, Bad Muslim: America, the Cold War, and the Roots of Terror</title>
+		<meeting><address><addrLine>New York</addrLine></address></meeting>
+		<imprint>
+			<publisher>Pantheon</publisher>
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b85">
+	<analytic>
+		<title level="a" type="main">The Zenne: Male Belly Dancers and Queer Modernity in Contemporary Turkey</title>
+		<author>
+			<persName><forename type="first">Joanna</forename><surname>Mansbridge</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Theatre Research International</title>
+		<imprint>
+			<biblScope unit="volume">42</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="20" to="36" />
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b86">
+	<monogr>
+		<title level="m" type="main">Desiring Arabs</title>
+		<author>
+			<persName><forename type="first">Joseph</forename><surname>Massad</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2007">2007</date>
+			<publisher>University of Chicago Press</publisher>
+			<pubPlace>Chicago</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b87">
+	<monogr>
+		<author>
+			<persName><forename type="first">Joseph</forename><surname>Massad</surname></persName>
+		</author>
+		<title level="m">Islam in Liberalism</title>
+		<meeting><address><addrLine>Chicago</addrLine></address></meeting>
+		<imprint>
+			<publisher>University of Chicago Press</publisher>
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b88">
+	<monogr>
+		<title level="m" type="main">Art as Resistance: Exiled Kurdish Artist&apos;s Daring Istanbul Show</title>
+		<author>
+			<persName><forename type="first">Bethan</forename><surname>Mckernan</surname></persName>
+		</author>
+		<ptr target="https://www.theguardian.com/world/2020/nov/08/art-as-resistance-exiled-kurdish-artist-istanbul-zehra-dogan" />
+		<imprint>
+			<date type="published" when="2020-11-08">2020. 8 November 2020</date>
+		</imprint>
+	</monogr>
+	<note>The Guardian</note>
+</biblStruct>
+
+<biblStruct xml:id="b89">
+	<monogr>
+		<title level="m" type="main">İstanbul&apos;dan Asya-yı Vusta&apos;ya Seyahat</title>
+		<author>
+			<persName><forename type="first">Emin</forename><surname>Mehmet</surname></persName>
+		</author>
+		<editor>A. Muhibbe Darga</editor>
+		<imprint>
+			<date type="published" when="2007">2007</date>
+			<publisher>Everest Yayınları</publisher>
+			<pubPlace>Istanbul</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b90">
+	<monogr>
+		<author>
+			<persName><forename type="first">Alison</forename><forename type="middle">M</forename><surname>Moore</surname></persName>
+		</author>
+		<title level="m">Sexual Myths of Modernity: Sadism, Masochism, and Historical Teleology</title>
+		<meeting><address><addrLine>London</addrLine></address></meeting>
+		<imprint>
+			<publisher>Lexington Books</publisher>
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b91">
+	<monogr>
+		<author>
+			<persName><forename type="first">Berna</forename><surname>Moran</surname></persName>
+		</author>
+		<title level="m">Türk Romanına Eleştirel Bir Bakış</title>
+		<meeting><address><addrLine>Istanbul</addrLine></address></meeting>
+		<imprint>
+			<publisher>İletişim</publisher>
+			<date type="published" when="1983">1983</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b92">
+	<monogr>
+		<title level="m" type="main">Heder: Devr-i İstibdâdı ve Şe&apos;âir-i Milliyyeyi Musavvir İki Fasıldan İbâret Tiyatrodur</title>
+		<author>
+			<persName><forename type="first">Naci</forename><surname>Muallim</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1909">1909</date>
+			<publisher>İkdam Matbaası</publisher>
+			<pubPlace>Istanbul</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b93">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">Naci</forename><surname>Muallim</surname></persName>
+		</author>
+		<editor>Gökay Durmuş</editor>
+		<imprint>
+			<date type="published" when="1909">1909. 2017</date>
+			<publisher>Ekin</publisher>
+			<pubPlace>Bursa</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b94">
+	<monogr>
+		<title level="m" type="main">Cruising Utopia: The Then and There of Queer Futurity</title>
+		<author>
+			<persName><forename type="first">José</forename><surname>Muñoz</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Esteban</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2009">2009</date>
+			<publisher>New York University Press</publisher>
+			<pubPlace>New York</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b95">
+	<analytic>
+		<title level="a" type="main">Letter on Turanian Languages</title>
+		<author>
+			<persName><forename type="first">Max</forename><surname>Müller</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Christianity and Mankind</title>
+		<editor>
+			<persName><forename type="first">C</forename><forename type="middle">C J</forename><surname>Bunsen</surname></persName>
+		</editor>
+		<meeting><address><addrLine>London</addrLine></address></meeting>
+		<imprint>
+			<publisher>Longman, Brown, Green, and Longmans</publisher>
+			<date type="published" when="1854">1854</date>
+			<biblScope unit="volume">3</biblScope>
+			<biblScope unit="page" from="1" to="274" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b96">
+	<analytic>
+		<title level="a" type="main">Iskat-ı Cenin</title>
+		<author>
+			<persName><surname>Namık</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Hadika</title>
+		<imprint>
+			<biblScope unit="volume">15</biblScope>
+			<biblScope unit="page" from="1" to="2" />
+		</imprint>
+	</monogr>
+	<note>Kemal. 1872a</note>
+</biblStruct>
+
+<biblStruct xml:id="b97">
+	<analytic>
+		<title level="a" type="main">Kemal. 1872b. &quot;Nüfus</title>
+		<author>
+			<persName><surname>Namık</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">İbret</title>
+		<imprint>
+			<biblScope unit="volume">9</biblScope>
+			<biblScope unit="page" from="1" to="2" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b98">
+	<monogr>
+		<author>
+			<persName><forename type="first">Kemal</forename><surname>Namık</surname></persName>
+		</author>
+		<title level="m">Tahrib-i Harâbât. Istanbul: Matbaa-ı Ebüzziya. Namık, Kemal. (1883) 1910. Rönan Müdafaanamesi</title>
+		<meeting><address><addrLine>Istanbul</addrLine></address></meeting>
+		<imprint>
+			<publisher>Mahmud Bey Matbaası</publisher>
+			<date type="published" when="1885">1885</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b99">
+	<analytic>
+		<title level="a" type="main">Ortaokul Türkçe Ders Kitaplarında Ömer Seyfettin ve Hikâyeleri</title>
+		<author>
+			<persName><forename type="first">Erol</forename><surname>Ogur</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Vefatının 100. Yılında Ömer Seyfettin&apos;e Armağan</title>
+		<editor>
+			<persName><forename type="first">Alev</forename><surname>Sınar</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">Uğurlu</forename></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">Selçuk</forename><surname>Kırlı</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Bursa</addrLine></address></meeting>
+		<imprint>
+			<publisher>Türk Ocağı Yayınları</publisher>
+			<date type="published" when="2020">2020</date>
+			<biblScope unit="page" from="329" to="346" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b100">
+	<monogr>
+		<title level="m" type="main">Türkçenin Sadeleşme Tarihi: Genç Kalemler ve Yeni Lisan Hareketi</title>
+		<author>
+			<persName><forename type="first">Yusuf</forename><surname>Öksüz</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Ziya</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2016">2016</date>
+			<publisher>Türk Dil Kurumu</publisher>
+			<pubPlace>Ankara</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b101">
+	<analytic>
+		<title level="a" type="main">Busenin Şekl-i İptidaisi</title>
+		<author>
+			<persName><forename type="first">Seyfettin</forename><surname>Ömer</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Teşvik</title>
+		<imprint>
+			<biblScope unit="volume">2</biblScope>
+			<biblScope unit="page" from="9" to="13" />
+			<date type="published" when="1909">1909</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b102">
+	<analytic>
+		<title level="a" type="main">Yeni Lisan</title>
+		<author>
+			<persName><forename type="first">Seyfettin</forename><surname>Ömer</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Genç Kalemler</title>
+		<imprint>
+			<biblScope unit="volume">2</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="1" to="7" />
+			<date type="published" when="1911">1911</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b103">
+	<analytic>
+		<title level="a" type="main">Sağlam Zemin</title>
+		<author>
+			<persName><forename type="first">Seyfettin</forename><surname>Ömer</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Türk Sözü</title>
+		<imprint>
+			<biblScope unit="volume">15</biblScope>
+			<biblScope unit="page" from="113" to="117" />
+			<date type="published" when="1914">1914</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b104">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">Seyfettin</forename><surname>Ömer</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Eleğimsağma.&quot; Yeni Mecmua</title>
+		<imprint>
+			<biblScope unit="volume">1</biblScope>
+			<biblScope unit="issue">5</biblScope>
+			<biblScope unit="page" from="98" to="100" />
+			<date type="published" when="1917">1917</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b105">
+	<analytic>
+		<title level="a" type="main">Teselli</title>
+		<author>
+			<persName><forename type="first">Seyfettin</forename><surname>Ömer</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Yeni Mecmua</title>
+		<imprint>
+			<biblScope unit="volume">1</biblScope>
+			<biblScope unit="issue">16</biblScope>
+			<biblScope unit="page" from="315" to="317" />
+			<date type="published" when="1917">1917</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b106">
+	<analytic>
+		<title level="a" type="main">Harem. Istanbul: Türk Kadını Mecmuası Yayınları. Ömer, Seyfettin. 1919a. &quot;Dünyanın Nizâmı</title>
+		<author>
+			<persName><forename type="first">Seyfettin</forename><surname>Ömer</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Vakit</title>
+		<imprint>
+			<biblScope unit="volume">769</biblScope>
+			<biblScope unit="page">3</biblScope>
+			<date type="published" when="1918">1918</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b107">
+	<analytic>
+		<title level="a" type="main">Seyfettin. 1919b. &quot;Horoz</title>
+		<author>
+			<persName><surname>Ömer</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Vakit</title>
+		<imprint>
+			<biblScope unit="volume">764</biblScope>
+			<biblScope unit="page">3</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b108">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">Seyfettin</forename><surname>Ömer</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">İnkilâplarda Kadın.&quot; İnci</title>
+		<imprint>
+			<biblScope unit="volume">11</biblScope>
+			<biblScope unit="page">11</biblScope>
+			<date type="published" when="1919">1919</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b109">
+	<analytic>
+		<title level="a" type="main">Ömer Seyfettin&apos;in İdeolojik ve Edebî Kaynakları</title>
+		<author>
+			<persName><forename type="first">Serkan</forename><surname>Özdemir</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Ömer Seyfettin İçin</title>
+		<editor>
+			<persName><forename type="first">H</forename><surname>Nâzım</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">Filiz</forename><surname>Polat</surname></persName>
+		</editor>
+		<editor>
+			<persName><surname>Ferhatoğlu</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Istanbul</addrLine></address></meeting>
+		<imprint>
+			<publisher>Türk Ocağı Yayınları</publisher>
+			<date type="published" when="2020">2020</date>
+			<biblScope unit="page" from="256" to="282" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b110">
+	<monogr>
+		<title level="m" type="main">Babalar ve Oğullar: Tanzimat Romanının Epistemolojik Temelleri</title>
+		<author>
+			<persName><forename type="first">Jale</forename><surname>Parla</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1990">1990</date>
+			<publisher>İletişim Yayınları</publisher>
+			<pubPlace>Istanbul</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b111">
+	<analytic>
+		<title level="a" type="main">The Object of Comparison</title>
+		<author>
+			<persName><forename type="first">Jale</forename><surname>Parla</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Comparative Literature Studies</title>
+		<imprint>
+			<biblScope unit="volume">41</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="116" to="125" />
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b112">
+	<monogr>
+		<title level="m" type="main">The Ethics of Opting Out: Queer Theory&apos;s Defiant Subjects</title>
+		<author>
+			<persName><forename type="first">Mari</forename><surname>Ruti</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2017">2017</date>
+			<publisher>Columbia University Press</publisher>
+			<pubPlace>New York</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b113">
+	<monogr>
+		<author>
+			<persName><forename type="first">Marquis</forename><surname>Sade</surname></persName>
+		</author>
+		<author>
+			<persName><surname>De</surname></persName>
+		</author>
+		<title level="m">Justine, or The Misfortunes of Virtue</title>
+		<meeting><address><addrLine>Oxford; Said, Edward; New York</addrLine></address></meeting>
+		<imprint>
+			<publisher>Vintage Books</publisher>
+			<date type="published" when="1791">2012. 1791. 1979</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b114">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">Serpil</forename><surname>Sancar</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Türk Modernleşmesinin Cinsiyeti. Istanbul: İletişim</title>
+		<imprint>
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b115">
+	<monogr>
+		<title level="m" type="main">Bukalemun Erkek: Osmanlı İmparatorluğu&apos;unda ve Türkiye Cumhuriyeti&apos;nde Ataerkil Yapılar ve Modern Edebiyat</title>
+		<author>
+			<persName><forename type="first">Ayşe</forename><surname>Saraçgil</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2005">2005</date>
+			<publisher>İletişim</publisher>
+			<pubPlace>Istanbul</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b116">
+	<monogr>
+		<title level="m" type="main">Cinsel Normalliğin Kuruluşu: Osmanlı&apos;dan Cumhuriyet&apos;e Heteronormatiflik ve İstikrarsızlıkları</title>
+		<author>
+			<persName><forename type="first">Ezgi</forename><surname>Sarıtaş</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2021">2021</date>
+			<publisher>Metis</publisher>
+			<pubPlace>Istanbul</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b117">
+	<monogr>
+		<title level="m" type="main">Queer in Translation: Sexual Politics under Neoliberal Islam</title>
+		<author>
+			<persName><forename type="first">Evren</forename><surname>Savcı</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2021">2021</date>
+			<publisher>Duke University Press</publisher>
+			<pubPlace>Durham</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b118">
+	<analytic>
+		<title level="a" type="main">Sünbülzade Vehbi&apos;s &apos;Şevk-engiz&apos;: An Ottoman Pornographic Poem</title>
+		<author>
+			<persName><surname>Schmidt</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Turcica</title>
+		<imprint>
+			<biblScope unit="volume">25</biblScope>
+			<biblScope unit="page" from="9" to="27" />
+			<date type="published" when="1993-01">Jan. 1993</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b119">
+	<analytic>
+		<title level="a" type="main">Writing in Persian: Aesthetics, Intelligibility, and the Literary Turkish of the 1890s</title>
+		<author>
+			<persName><forename type="first">Zeynep</forename><surname>Seviner</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Ottoman Culture and the Project of Modernity: Reform and Translation in the Tanzimat Novel</title>
+		<editor>
+			<persName><forename type="first">Monica</forename><forename type="middle">M</forename><surname>Ringer</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">Etienne</forename><surname>Charrière</surname></persName>
+		</editor>
+		<meeting><address><addrLine>New York</addrLine></address></meeting>
+		<imprint>
+			<publisher>I.B. Tauris</publisher>
+			<date type="published" when="2020">2020</date>
+			<biblScope unit="page" from="19" to="36" />
+		</imprint>
+	</monogr>
+	<note>Thinking in French</note>
+</biblStruct>
+
+<biblStruct xml:id="b120">
+	<analytic>
+		<author>
+			<persName><forename type="first">İsmail</forename><surname>Sevük</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Habib</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Türk Teceddüd Edebiyatı Tarihi. Istanbul: Matbaa-yı Âmire</title>
+		<meeting><address><addrLine>Shelley Wollstonecraft, Mary; Oxford</addrLine></address></meeting>
+		<imprint>
+			<publisher>Oxford University Press</publisher>
+			<date type="published" when="1826">1924. 1826. 1998</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b121">
+	<monogr>
+		<author>
+			<persName><forename type="first">A</forename><surname>Shissler</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Holly</surname></persName>
+		</author>
+		<title level="m">Between Two Empires: Ahmet Ağaoğlu and the New Turkey</title>
+		<meeting><address><addrLine>New York</addrLine></address></meeting>
+		<imprint>
+			<publisher>I. B. Tauris</publisher>
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b122">
+	<monogr>
+		<title level="m" type="main">Ah Bu Sevda! -Türk Edebiyatında Öteki Cinsellik Öyküleri 1872-1928</title>
+		<author>
+			<persName><forename type="first">Serdar</forename><surname>Soydan</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2020">2020</date>
+			<publisher>Sel Yayıncılık</publisher>
+			<pubPlace>Istanbul</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b123">
+	<monogr>
+		<title level="m" type="main">Seyahat-ül Kübra</title>
+		<author>
+			<persName><forename type="first">Süleyman</forename><surname>Şükrü</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Karçınzade</forename></persName>
+		</author>
+		<editor>Hasan Mert. Ankara: Türk Tarihi Kurumu</editor>
+		<imprint>
+			<date type="published" when="1907">1907. 2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b124">
+	<monogr>
+		<title level="m" type="main">Taner Ceylan: Gerçekten sabretmek ve âşık olmak lazım</title>
+		<author>
+			<persName><forename type="first">Selin</forename><surname>Tamtekin</surname></persName>
+		</author>
+		<ptr target="https://t24.com.tr/yazarlar/selin-tamtekin/taner-ceylan-gercekten-sabretmek-ve-asik-olmak-lazim" />
+		<imprint>
+			<date type="published" when="2022-10-09">2022. 9 October 2022</date>
+			<biblScope unit="volume">24</biblScope>
+			<biblScope unit="page">37007</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b125">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">Ahmet</forename><surname>Tanpınar</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Hamdi</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="s">Ondokuzuncu Asır Türk Edebiyatı Tarihi. Istanbul: Caglayan Kitabevi</title>
+		<imprint>
+			<date type="published" when="1949">1949. 1988</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b126">
+	<monogr>
+		<title level="m" type="main">Namık Kemal&apos;in Mektupları 3. Ankara: Türk Tarihi Kurumu. Tökgöz, Ahmet I ̇hsan. 1930. Matbuat Hatıralarım</title>
+		<author>
+			<persName><forename type="first">Fevziye</forename><surname>Tansel</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Abdullah</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1973">1973</date>
+			<publisher>Ahmet İhsan Matbaası</publisher>
+			<biblScope unit="page" from="1888" to="1923" />
+			<pubPlace>Istanbul</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b127">
+	<analytic>
+		<title level="a" type="main">Ömer Seyfeddin, Genç Kalemler ve &apos;Yeni Lisan&apos;</title>
+		<author>
+			<persName><forename type="first">Zafer</forename><surname>Toprak</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Ömer Seyfettin İçin</title>
+		<editor>
+			<persName><forename type="first">H</forename><surname>Nâzım</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">Filiz</forename><surname>Polat</surname></persName>
+		</editor>
+		<editor>
+			<persName><surname>Ferhatoğlu</surname></persName>
+		</editor>
+		<imprint>
+			<date type="published" when="2020">2020</date>
+			<biblScope unit="page" from="327" to="345" />
+		</imprint>
+	</monogr>
+	<note>Istanbul: Türk Ocağı Yayınları</note>
+</biblStruct>
+
+<biblStruct xml:id="b128">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">Umur</forename><surname>Turagay</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Bertan</forename><surname>Başaran</surname></persName>
+		</author>
+		<ptr target="https://www.netflix.com/title/81354934" />
+	</analytic>
+	<monogr>
+		<title level="j">Şahmaran. Istanbul: Netflix</title>
+		<imprint>
+			<date type="published" when="2023">2023</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b129">
+	<monogr>
+		<author>
+			<persName><forename type="first">Halit</forename><surname>Uşaklıgil</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Ziya</surname></persName>
+		</author>
+		<title level="m">Maî ve Siyah: Musavver Milli Roman. Istanbul: Âlem Matbaası</title>
+		<imprint>
+			<date type="published" when="1897">1897</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b130">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">Tomris</forename><surname>Uyar</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="s">Ödeşmeler ve Şahmeran Hikâyesi. Istanbul: Yapı Kredi Yayınları</title>
+		<imprint>
+			<biblScope unit="page">2023</biblScope>
+			<date type="published" when="1973">1973</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b131">
+	<analytic>
+		<title level="a" type="main">Oriental Plague&quot; or Epidemiological Orientalism? Revisiting the Plague Episteme of the Early Modern Mediterranean</title>
+		<author>
+			<persName><forename type="first">Nükhet</forename><surname>Varlık</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Plague and Contagion in the Islamic Mediterranean</title>
+		<editor>
+			<persName><forename type="first">Nükhet</forename><surname>Varlık</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Kalamazoo</addrLine></address></meeting>
+		<imprint>
+			<publisher>Arc Humanities Press</publisher>
+			<date type="published" when="2017">2017</date>
+			<biblScope unit="page" from="57" to="86" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b132">
+	<monogr>
+		<title level="m" type="main">Travels in Central Asia: Being the Account of a journey from Teheran across the Turkoman Desert on the eastern shore of the Caspian to Khiva, Bokhara, and Samarcand performed in the year 1863</title>
+		<author>
+			<persName><forename type="first">Arminius</forename><surname>Vámbéry</surname></persName>
+		</author>
+		<editor>J. Murray</editor>
+		<imprint>
+			<date type="published" when="1864">1864</date>
+			<pubPlace>London</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b133">
+	<monogr>
+		<title level="m" type="main">Bir Sahte Dervişin Asya-yı Vusta&apos;da Seyahati</title>
+		<author>
+			<persName><forename type="first">Arminius</forename><surname>Vámbéry</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1878">1878</date>
+		</imprint>
+	</monogr>
+	<note>Translated by A.H. Istanbul: Vakit Matbaası</note>
+</biblStruct>
+
+<biblStruct xml:id="b134">
+	<analytic>
+		<title level="a" type="main">The True Face of the Work&quot;: Sovereignty and Literary Form in Literary Historiography</title>
+		<author>
+			<persName><surname>Yashin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Veli</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Middle Eastern Literatures</title>
+		<imprint>
+			<biblScope unit="volume">20</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="162" to="176" />
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b135">
+	<analytic>
+		<title level="a" type="main">Milli Lisan ve Milli Edebiyat</title>
+		<author>
+			<persName><forename type="first">Ali</forename><surname>Yöntem</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Canip</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Genç Kalemler</title>
+		<imprint>
+			<biblScope unit="volume">2</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="47" to="52" />
+			<date type="published" when="1911">1911</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b136">
+	<analytic>
+		<title level="a" type="main">Edebiyatımızda Acı Bir Gün: Ömer Seyfettin</title>
+		<author>
+			<persName><forename type="first">Ali</forename><surname>Yöntem</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Canip</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Ali Canip Yöntem&apos;in Yeni Türk Edebiyatı üzerine Makaleleri</title>
+		<editor>
+			<persName><forename type="first">Ahmet</forename><surname>Sevgi</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">Mustafa</forename><surname>Özcan</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Konya</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2005">2005</date>
+			<biblScope unit="page">398</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b137">
+	<monogr>
+		<author>
+			<persName><forename type="first">Reza</forename><surname>Zia-Ebrahimi</surname></persName>
+		</author>
+		<title level="m">The Emergence of Iranian Nationalism: Race and the Politics of Dislocation</title>
+		<meeting><address><addrLine>New York</addrLine></address></meeting>
+		<imprint>
+			<publisher>Columbia University Press</publisher>
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b138">
+	<analytic>
+		<title level="a" type="main">Şiir ve İnşa</title>
+		<author>
+			<persName><forename type="first">Paşa</forename><surname>Ziya</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Hürriyet Gazetesi (London)</title>
+		<imprint>
+			<biblScope unit="volume">11</biblScope>
+			<biblScope unit="page" from="4" to="7" />
+			<date type="published" when="1868">1868</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b139">
+	<analytic>
+		<title level="a" type="main">Kant and Sade: The Ideal Couple</title>
+		<author>
+			<persName><forename type="first">Slavoj</forename><surname>Žižek</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Lacanian Ink</title>
+		<imprint>
+			<biblScope unit="volume">13</biblScope>
+			<biblScope unit="page" from="12" to="25" />
+			<date type="published" when="1998">1998</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

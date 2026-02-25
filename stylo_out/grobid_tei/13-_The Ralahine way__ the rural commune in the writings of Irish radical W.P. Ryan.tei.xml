@@ -1,0 +1,1038 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">&apos;The Ralahine way&apos;: the rural commune in the writings of Irish radical W.P. Ryan</title>
+				<funder ref="#_cEStykX">
+					<orgName type="full">Taighde Éireann -Research Ireland</orgName>
+				</funder>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName><forename type="first">Niall</forename><forename type="middle">Ó</forename><surname>Cuileagáin</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Department of English</orgName>
+								<orgName type="institution">Maynooth University</orgName>
+								<address>
+									<addrLine>Co. Kildare</addrLine>
+									<settlement>Maynooth</settlement>
+									<country key="IE">Ireland</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff0">
+								<orgName type="department">Department of English</orgName>
+								<orgName type="institution">Maynooth University</orgName>
+								<address>
+									<addrLine>Co. Kildare</addrLine>
+									<settlement>Maynooth</settlement>
+									<country key="IE">Ireland</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">William</forename><surname>Patrick</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Department of English</orgName>
+								<orgName type="institution">Maynooth University</orgName>
+								<address>
+									<addrLine>Co. Kildare</addrLine>
+									<settlement>Maynooth</settlement>
+									<country key="IE">Ireland</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">&apos;The Ralahine way&apos;: the rural commune in the writings of Irish radical W.P. Ryan</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date/>
+						</imprint>
+					</monogr>
+					<idno type="MD5">6996738DB4EA1812B4504566968146AC</idno>
+					<idno type="DOI">10.1080/0950236X.2025.2608858</idno>
+					<note type="submission">Received 23 May 2025; Accepted 8 December 2025</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.0" ident="GROBID" when="2026-02-25T19:53+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term>Irish literature</term>
+					<term>rural socialism</term>
+					<term>W.P. Ryan</term>
+					<term>Gaelic Revival</term>
+					<term>commune</term>
+					<term>peasantry</term>
+				</keywords>
+			</textClass>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>An obscure figure in Irish literary history, W.P. Ryan was nevertheless a prolific author during the cultural revival in early twentieth-century Ireland, publishing a number of politically radical works of fiction, non-fiction and poetry. He was also an influential journalist and editor of many publications during this seismic period in Irish cultural and political life, advocating for a specifically Gaelic version of socialism in a new Ireland. Ryan's political outlook was greatly influenced by James Connolly's concept of 'Celtic Communism', and many of his creative works depict experiments in rural communes that hark back to supposedly Gaelic approaches to labour and land division. In this essay, I argue that Ryan's fictional communes bear significant resemblance to a reallife experiment in communal life from the 1830s at Ralahine, County Clare. This commune, based on an Owenite model, had a major impact within Irish socialist circles and was offered by Connolly as a model for a future independent Ireland. This article will examine Ryan's rural radicalism in the context of this increased interest in Ralahine, situating his Revivalist writings within theories of the commune.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>misrepresentation'. <ref type="bibr">1</ref> In many ways, Ryan's eclecticism of appellations matches a similar eclecticism of positions and ideologies that he held throughout his life and writing career. Born near Templemore in County Tipperary in 1867, Ryan began his career as a journalist after emigrating to London, moving around between several papers before establishing himself with broadly left-leaning, anti-imperialist publications. He soon became active in the burgeoning Gaelic League in London, immersing himself in the revival of the Irish language and in the Irish-Ireland movement underway back home. <ref type="bibr">2</ref> This embrace of the ideals of the Revival led in turn to an increased interest in Celtic mythology and later mysticism, including a flirtation with theosophy, while the opportunity to return to Ireland in the early 1900s to edit a provincial newspaper led to a lifelong belief in the importance of the renewal of rural industries, as well as a brave -and costly -commitment to the separation of the Catholic Church from Irish private life. Throughout all of this, Ryan's political compass increasingly settled itself towards socialist solutions to Ireland's many problems, particularly the concept of a 'Co-operative Commonwealth', and by 1909 Ryan could be considered an avowed socialist, if not a signed-up Marxist. This eclectic mix of influences would define Ryan's fictional and non-fictional output for the rest of his writing career.</p><p>The consistent tread throughout Ryan's writing lies in his deep belief in a Gaelic, and specifically rural, ideal. In this, Ryan is no different from the majority of the other writers and thinkers within the Revival, a movement that Len Platt has dismissed as amounting to a 'culture of peasant worship'. <ref type="bibr" target="#b0">3</ref> In his influential study of the Revival, however, P.J. Mathews instead cautions against conceiving of the movement as a monolith, arguing that during 'this great moment of national "imagining", various different notions of Irish cultural identity began to crystallize and compete to become the emblem of Irish national identity'. <ref type="bibr" target="#b1">4</ref> A focus on Ryan reveals the radical versions of rural Ireland also being expressed at this time within the Revival, ones that went far beyond the romantic depictions found within the plays of Lady Gregory and W.B. Yeats, among others, in the Abbey Theatre. Ryan's deep interest in the rejuvenation of rural Ireland manifests itself from his earliest fictional works, particularly the rural improvements enacted by locals in conjunction with benevolent landlords in two early novels, The Heart of Tipperary (1893) and Starlight Through the Roof (1895). Ryan's novels were all written in the aftermath of the Land War and its attendant reforms, whereby Irish tenant farmers gradually became owner-occupiers of their land. The Heart of Tipperary makes clear this important context given its subtitle A Romance of the Land League and its introduction written by the Land League M.P., William O'Brien. Ryan's early rural fiction is therefore marked by this newfound sense of possibility among the peasant class, or at least among those who benefitted from the land reforms, as well as a belief in the potential benevolence of the more enlightened members of the landlord class.</p><p>However, an interest in the more radical concept of agricultural communes develops following Ryan's exposure to James Connolly's socialist writings and in particular his theories of a primitive 'Celtic Communism'. Connolly's account of a communal Gaelic society confirms many of Ryan's intrinsic beliefs regarding the idealised nature of his rural upbringing in Tipperary, a place he described as having 'preserved a good deal of the lore and character of Gaelic times'. <ref type="bibr" target="#b2">5</ref> For Ryan, the 'older Gael of course had socialistic and communistic leanings, and something of the spirit remained to our own day with the poorer people' (PGI 277). In particular, Ryan offers the Gaeltacht (Irish-speaking) region of Cois Fharraige in County Galway as a place where 'forms of Cumannacht [i.e. socialism], or even Communism […] are natural', being 'a survival from our old Gaelic civilisation'. <ref type="bibr" target="#b3">6</ref> Ryan's interest in a supposedly inherent Gaelic predisposition for communalism becomes a key component in a number of his fictional works, as farming 'communes', structured around Revivalist ideals, repeatedly feature. Ryan did not, however, create this idea from nowhere, as those Revivalists of a socialistic bent had a readymade example from Irish history, one which Connolly had figured as an 'Irish Utopia' in Labour in Irish History (1910): the Owenite commune of Ralahine in County Clare from the early 1830s. Ryan was certainly aware of the history of Ralahine from before the publication of Labour in Irish History, as the paper Ryan edited, The Irish Nation, featured an extended article on the commune in July 1909. <ref type="bibr" target="#b4">7</ref> The article describes the nature of the commune's conception and downfall, offering it as an example of a solution to rural Ireland's struggle with landlordism and an alternative to proprietorship. Later, in his 1919 The Irish Labour Movement, Ryan dedicates a chapter to 'the splendid experiment of Ralahine', <ref type="bibr" target="#b5">8</ref> while in his most well-known novel, The Plough and the Cross (1912), Ryan paints a picture of a model farming community that has many parallels with Ralahine. Indeed, this dream of a revived Ralahine continued to the very end of his career, with his long poem in Irish from 1936, Feilm an Tobair Bheannuighthe ['Farm of the Holy Well'], also based around a co-operative farming community whose fidelity to Gaelic ideals results in it transcending the earthly realm. This article will examine what exactly is meant by rural socialism as expounded by Ryan, situating his work within the legacy of Ralahine, as well as theories of rural radicalism and the commune, particularly as expressed by Kristin Ross.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Ralahine, radicalism, and the rural commune</head><p>If the Ralahine commune might later have appeared to many eyes as a utopia, it is important to stress from the beginning that it was born out of a period of hardship, violence and rural agitation. In the autumn of 1822, itself a period characterised by rural unrest, the Welsh utopian socialist Robert Owen visited Ireland, offering alternative solutions to the labour issues faced by the country, based primarily on his own socialist experiments at New Lanark in Scotland. Owen's communal vision of satisfied and productive labourers was particularly appealing to what Vincent Geoghegan has described as 'an anxious landlord class [that] was prepared to listen to anyone who promised a non-revolutionary way out of its difficulties'. <ref type="bibr" target="#b6">9</ref> Present that day was the Clare-based landlord, John Scott Vandeleur, who was especially interested in Owen's socialist solutions given his own previous issues with his tenantry. Vandeleur was himself already taken in by modernising projects, and the solutions proffered by Owen suggested not only a way to placate his labourers in Ralahine but also an opportunity for potentially increasing his profits. Nevertheless, Vandeleur proceeded slowly, and it was not until another outbreak of violence in Ralahine that he was driven to desperate measures.</p><p>By 1830 a number of secret societies had sprung up in Clare, the two primary ones around Ralahine being the 'Terry-Alts' and the 'Lady Clare Boys'. These groups paraded the countryside with firearms, disguised in sometimes extravagant costumes, perpetrating 'acts the bare recital of which made the heart palpitate'. <ref type="bibr" target="#b7">10</ref> Such was the description offered by Edward Craig, the man who would go on to manage the day-to-day running of the Ralahine commune. Craig was an enthusiastic believer in Owenite socialism, hired by Vandeleur to implement Owen's ideas at Ralahine, and it is from his recounting of the time that we get the most detailed description of life in the commune. Craig goes to great lengths to describe the extent of the violence raging in Clare; indeed, his account is one coloured by colonialist stereotypes of the 'wild Irish', suggesting that if '[s]ocialism could induce poor, ignorant Irish peasants to live in peace and harmony with each other', then its possibilities were boundless (IC 79). Chief among the peasantry's grievances was the increasing trend towards converting land to pasture and away from tillage, a process that would eventually render the Irish agricultural economy almost entirely dependent upon Britain and deprive labourers of employment. <ref type="bibr" target="#b8">11</ref> The rural agitation in Clare stands therefore as proof of the peasantry's economic literacy, while Craig's mission at Ralahine has to be viewed as a pacifying measure designed as much to uphold colonial hegemony as it was to ameliorate the lives of the peasantry.</p><p>Craig saw immediate potential in the farm upon his arrival and convinced fifty-two of the poorest labourers to take part in the commune. He then drew up the laws of the association, which, in addition to the key principle of communal work, also included a total ban on alcohol and tobacco. The stock and property of the farm would remain Vandeleur's until such point that the society could accumulate enough money to purchase them, after which point they would be owned in common. The society was to be governed by a committee of nine members, chosen every six months, while a 'suggestion book' encouraged each member to offer recommendations. Importantly, the peasants continued to pay rent to Vandeleur, to the sum of £900 a year, which Craig acknowledges as high and which Cormac Ó Gráda has shown to have 'substantially exceeded the national average'. <ref type="bibr" target="#b9">12</ref> Nevertheless, the commune proved to be an almost immediate success. It had the desired effect of quelling the peasantry's appetite for rebellion, while the harvests over this period were 'extremely good'. <ref type="bibr">13</ref> The impulse towards 'elitist social engineering' inherent in Owenism manifested itself in a desire to eradicate what it saw as regressive practices, such as the peasantry's traditional living conditions and cultural pastimes, as well as the aforementioned ban on alcohol and tobacco. <ref type="bibr" target="#b10">14</ref> However, as Geoghegan notes, 'Craig was not a slavish disciple of Owen', and he afforded the Ralahine workers somewhat more freedom to continue with their own traditions than Owen might have. <ref type="bibr">15</ref> One good example of this is the description given of the festival held by the workers after the harvest. Craig writes:</p><p>The evening of that day was spent with a happy hilarity, a merry festival of dance and song. Attempts were made to introduce the English country dance, but the Irish jig maintained its supremacy among the adults. It was an easier task to train the children to the mazes of the quadrille, and the exercise had a salutary influence in training them to order, method, discipline, and courtesy. (IC 139)   While the alien dances fail to take a hold among the older members of the commune, there is perhaps a sinister realisation here that native culture is more easily eradicated by targeting the younger population. In the quadrille's supposed spreading of 'order, method, discipline, and courtesy', it is clear that this particular socialist endeavour was as much a 'civilising mission' as it was a emancipatory movement.</p><p>Ultimately, in spite of its apparent success, the Ralahine commune came to a sudden end in 1833 when, over the course of one night in Dublin, Vandeleur accumulated huge amounts of debt and gambled away the farm at Ralahine. The arrangement with the workers had no legal standing and thus they were evicted and Craig sent back to England. The members did, however, leave a declaration, in which they stated that for two years they had experienced 'contentment, peace and happiness' (IC 162). Given that Craig emphasises the illiteracy of the workers at several points, as well as the dominance of the Irish language among the group, it seems likely that this letter was, at least to some degree, written in part with Craig. It is therefore impossible to ever truly know how the workers of Ralahine felt about the project. It has also been speculated by subsequent commentators that the commune would have struggled to survive during the disastrous years to come, while the likelihood that Vandeleur's descendants would have willingly given up their property in the future is also slim. <ref type="bibr" target="#b11">16</ref> Nevertheless, the Ralahine commune would go on to serve as model of what could be possible in a future, socialist Ireland. Craig's account of the commune was first published in 1882, sparking a renewed interest in the experiment among Irish socialists. In the aforementioned Irish Nation article, Frederick Ryan makes reference to recent writings on it from Alfred Russel Wallace, G.J. Holyoake, and even a piece in the Irish Ecclesiastical Record, a publication that was hostile to socialism more generally. <ref type="bibr" target="#b12">17</ref> However, the most impactful account of Ralahine was to come the following year from James Connolly, who dedicated a chapter to it in Labour in Irish History. The experiment evidently confirmed Connolly's view of a primitive Celtic Communism, defined by what he termed 'the Gaelic principle of common ownership'. <ref type="bibr" target="#b13">18</ref> For Connolly, the present-day Gaelic peasantry still 'mix [ed] with their dreams of liberty longings for a return to the ancient system of land tenure' (LIH 76). The success of Ralahine, albeit shortlived, confirmed this suspicion, leading Connolly to conclude that 'when Ireland does emerge into complete control of her own destinies she must seek the happiness of her people in the extension on a national basis of the social arrangements of Ralahine' (LIH 151). It should be noted, as Conor McCarthy does, that Connolly's unambiguously positive assessment of primitive communism was 'highly unorthodox' and one not shared by Marx and Engels in their writings. <ref type="bibr" target="#b14">19</ref> McCarthy rightly judges that 'Connolly's vision was coloured […] by Irish Revivalism -his view of the Gaelic past was much more positive than the historical evidence warrants'. <ref type="bibr" target="#b15">20</ref> The experiment at Ralahine might be viewed as a return to a society predicated on what Partha Chatterjee terms a 'communal mode of power'. <ref type="bibr" target="#b16">21</ref> For Chatterjee, there exist three modes of power: the communal, the feudal, and the bourgeois. The communal mode of power is one 'where individual or sectional rights, entitlements and obligations are allocated on the authority of the entire social collectivity, i.e. the community'. <ref type="bibr">22</ref> While there may be authority figures in this community, such as elders or leading families, the essential component is that 'authority resides not in the person or even in the office; it resides only in the community as a whole'. <ref type="bibr" target="#b17">23</ref> This seems to align quite well with the set-up in Ralahine, particularly the 'managerial' role played by Craig; while certainly it would appear that his role was distinct from that of the ordinary workers, his 'authority', to whatever extent that he had any, was especially dependent on the consent of community. The elected committee, meanwhile, ensured that decisions were not in his hands alone, while the temporary nature of each committee prevented any one figure or group from wresting control from the majority of the community. Nevertheless, the existence of Vandeleur, and the obligation of the Ralahine peasants to pay rent, meant that this commune also had elements of a feudal mode of power, defined by 'a relationship of domination'. Chatterjee outlines how this mode of power can vary from outright slavery on one extreme to a 'free peasantry which is only required to make periodic tax payment or a regular tribute' on the other. <ref type="bibr" target="#b18">24</ref> Ralahine, therefore, cannot be considered as entirely 'communal' in its power dynamics. Notably, Chatterjee instils the mere existence of the peasantry in a society as acting as a call back to a communal mode of power. In order for a bourgeois mode to come into being it requires […] the dissolution of the peasantry as a distinct social form of existence of productive labour, and hence the extinction of a communal mode of power. To the extent that a peasantry continues to exist as peasantry in a society dominated by capitalism, it represents a limit to bourgeois hegemony. <ref type="bibr">25</ref> While Revivalist Ireland -and particularly its Anglo-Irish instigators -may have seen in the peasantry a pleasant picture of a relatively docile and romantic people, still enamoured with the world of faery and folklore, to socialists like Connolly, they represented, in a latent form, the radical potential for alternative modes of power.</p><p>The belief in a latent rural radicalism continues to dominate contemporary theories of the commune, most especially in Kristin Ross's The Commune Form (2024). In this work, Ross examines the legacy of the Paris Commune in its modern, and particularly rural, guises. Ross argues that the 'commune form […] does not unfold in the same way everywhere around the world' and in fact posits that rural communes, centred on older peasant conceptions of co-operation and subsistence, offer the most radical alternatives to urban capitalism. <ref type="bibr" target="#b19">26</ref> Borrowing from Erag Ramizi's study of the peasantry's peculiar spatiotemporality in European fiction, Ross offers the figure of the paysan as an example of one of Raymond Williams's 'residual' forces. <ref type="bibr" target="#b20">27</ref> Williams writes that the residual 'has been effectively formed in the past, but it is still active in the cultural process', and identifies rural communities as examples of residual forces that are capable of being 'in some limited respects alternative or oppositional to urban industrial capitalism'. <ref type="bibr" target="#b21">28</ref> For Ross, then, the peasantry act as 'the bearers of an alternative set of practices and know-how', practices which offer the potential blueprint 'for a new political future'. Among the rural commune's most radical features is its prioritising of the notion of land 'usage' over property. This is most especially the case when the land is held in common: 'A non-accumulative process like "usage," for example, particularly usage of the land held in common, stands in sharp conflict with exchange because it implies appropriation and not property'. <ref type="bibr" target="#b22">29</ref> It is therefore not hard to see why the story of the Ralahine commune, particularly as Connolly described it, should have appealed to many of the more radical figures in Revivalist Ireland. Ryan</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>'s account of Ralahine in</head><p>The Irish Labour Movement is essentially a summary of Craig and Connolly, as he emphasises the perceived naturalness of 'the Ralahine way' to the Irish peasantry, it being 'in accordance with the people's needs and genius' (ILM 45). Throughout this work Ryan describes Ralahine as being a co-operative endeavour, one which is 'indicative of the surviving co-operative spirit of the people', a spirit which 'was in the blood and nature of the people' (ILM 5, 44). Ryan's emphasis on the 'co-operative spirit' is important given the recent success of the co-operative movement in rural Ireland. Since the foundation in 1894 of the Irish Agricultural Organisation Society (IAOS) by Sir Horace Plunkett, co-operative creameries had proliferated across the countryside, and by 1920 the movement had 1,000 societies and 150,000 members. <ref type="bibr" target="#b23">30</ref> While the success of the co-operative movement might be attributed to a canny and practical identification by Irish farmers of the increased profits to be made through supplying milk to these societies, for Irish socialists the movement hinted at the willingness of the Irish peasantry to return to a more communal way of living. Ralahine was also evidence, for Ryan, of the suitability of a 'Co-operative Commonwealth' as the model for the new Ireland. This concept was first popularised in Laurence Gronlund's book, The Cooperative Commonwealth (1884), effectively an adaptation of Marxism for an American audience before English translations existed. Ryan may have been led to the idea via William Morris, of whom he was an enthusiastic reader, as Morris often directed English readers to Gronlund's book. <ref type="bibr" target="#b24">31</ref> In any case, within an Irish context, Ryan was clearly ahead of his time: Emmet O'Connor notes that it was not until 1920 that the idea of the 'Co-operative Commonwealth' became a 'recognized goal' of the Irish Labour movement. <ref type="bibr" target="#b25">32</ref> Ryan, for his part, had been preaching the gospel of the 'Co-operative Commonwealth' for well over a decade at that point. In his 1909 lecture to Cumannacht na hÉireann, later published as a pamphlet entitled 'Doctor Socialism and the Irish Hypochondriac', Ryan gave the following, relatively vague, definition:</p><p>The Co-operative Commonwealth, then, is that future Social Order -the natural heir of the present one -in which all important instruments of production shall be taken under collective control; in which the citizens shall be consciously public functionaries; and in which their labours shall be rewarded according to results. <ref type="bibr" target="#b26">33</ref> Ryan's notion of the 'Co-operative Commonwealth' draws influence from many sources; O'Connor notes that a later pamphlet, The Labour Revolt and Larkinism (1913), brings 'trade unionism, Sinn Féin, Conradh na Gaeilge [the Gaelic League], the Irish Agricultural Organisation Society, and the Irish Industrial Development Association together in a broadly radical surge towards national regeneration'. <ref type="bibr" target="#b27">34</ref> O'Connor continues: 'Ryan's eclecticism made the commonwealth no clearer, but it shows how enterprising Irish radicalism could be when not resting on the orthodoxies of British Labourism'. <ref type="bibr" target="#b28">35</ref> While the exact nature of the commonwealth is difficult to pin down in Ryan's non-fictional writings, it is the guiding principle behind much of the social visions laid out in his creative work.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Priests, peasants, and The Plough and The Cross</head><p>In his role as editor of various newspapers, Ryan encouraged contributions that sketched out possible versions of the 'Co-operative Commonwealth' in action. The author and titan of Revivalism, Standish O'Grady was one such contributor, who offered a picture of what Ryan later described as 'a practicable commune, or series of communes, for weary clerks and others who would go back to the land' (PGI 263). In January 1910, O'Grady began a series of articles entitled 'The First Irish Commune of the New Order' in which he set out his proposal for the establishment of 'an association having for its object the foundation of the first modern Irish commune', which, he believed, would set Ireland on the 'road to national regeneration, as well as to personal and individual security and happiness'. <ref type="bibr" target="#b29">36</ref> The poet George Russell (or AE) was also interested, though he believed that a commune would only be successful if it were populated by those who had worked on the land since childhood (PGI 267). Russell may in fact have had sound logic here, as two members had in fact left the commune at Ralahine, and both had been non-manual workers previously. <ref type="bibr" target="#b30">37</ref> Ryan's first foray into editing a newspaper of his own came in 1905 with The Irish Peasant, a provincial paper based out of Navan in the Boyne Valley. It had been set up by the M.P. for St. Stephen's Green, James McCann, a former Dublin stockbroker who had used the money earned from various business ventures to acquire farmland in Meath, becoming the owner of the former Russell estate and a significant portion of Navan town. <ref type="bibr" target="#b31">38</ref> As Ryan later described it in his memoirs, McCann had 'radical ideas on Irish economic problems' and set about initiating industrial enterprises locally. <ref type="bibr" target="#b32">39</ref> McCann founded a new model farming estate at Teltown, where he 'built a number of model cottages, with proper water supply and other amenities, and settled young families of farmers in decent conditions'. <ref type="bibr" target="#b33">40</ref> Among these various initiatives was the establishment of The Irish Peasant, a publication designed in Ryan's words 'to drive home his ideas for the preservation of the folk whom he saw were the basis, yet the least regarded part, of the nation' (ILM 140). Before long, however, McCann died, and so from 1904 the ownership of the paper turned over to McCann's widow. Ryan described the nature of the paper as he found it in late 1905 as '"local" and to me exceedingly oppressive', with its only moments of merit occurring when it struck a more caustic note towards clergymen and large, grazier farmers (PGI 6). Upon taking over as editor, Ryan intended to make The Irish Peasant 'representative of the new and hopeful movements', and therefore decided to 'change[] its scope and nature, bringing out a general or all-Ireland edition as well as a local one, and introducing sundry new features' (PGI 7). The Irish Peasant, under Ryan's editorship, became a much more nationally focused paper espousing Irish-Irelandism, the nationalist movement spearheaded by the vituperative journalist, D.P. Moran. Ryan's brand differed significantly, however, from Moran's ultra-Catholic and often sectarian version, with the former emphasising instead socialism and defiance of Church dictates. Recurring articles in Ryan's Irish Peasant included cosy pieces such as 'Cois na Teineadh: Fireside Reading for Pleasant Evenings at Home', as well as romantic short stories and serialised longer works; but there were also weekly articles with a specific focus on innovative examples of rural industrialisation and cultural revival, such as 'Irish Work and Irish Workers' and 'Irish Pioneers'.</p><p>Being based in the Boyne Valley was evidently inspirational for Ryan and the development of his own social and aesthetic philosophy at this time. He later wrote that '[t]he romantic surroundings, the sense of the genius loci made rare accompaniment to the working life'. <ref type="bibr" target="#b34">41</ref> It was not to last very long, however, as after a number of months The Irish Peasant became embroiled in a controversy with the Catholic Church regarding its opposition to Church control of Irish education. Cardinal Michael Logue sent a letter to the McCann family in which he labelled the paper 'poisonous and anti-Catholic' and one which he would be forced to denounce and forbid his flock from reading. <ref type="bibr" target="#b35">42</ref> According to Ryan, James McCann's widow 'was so greatly perturbed by the Cardinal's threat that she decided the paper must cease publication at once'. <ref type="bibr" target="#b36">43</ref> The next issue of the paper (entitled simply The Peasant) contained just a single sheet outlining the developments and then the publication went silent for several weeks, before Ryan returned with a new paper, entitled The Peasant and Irish Ireland, which lasted for two years before becoming The Irish Nation, which itself ran until the end of 1910. The Logue controversy would, however, become the defining event of Ryan's career and provide the source material for his two most successful publications, a 1910 fictionalisation of the debacle in The Plough and the Cross and a long reflection on the Church's role in Irish life in 1912's The Pope's Green Island.</p><p>While most readings of The Plough and the Cross understandably focus on the religious dimension, here I want to consider instead the work's fictionalised depiction of McCann's model farm at Teltown. A roman à clef, The Plough and the Cross follows Ryan's year as editor of The Irish Peasant, though with some notable differences. <ref type="bibr" target="#b37">44</ref> The protagonist, Fergus O'Hagan, is the editor of a radical provincial newspaper called Fainne an Lae, which unlike The Irish Peasant is based out of Dublin. <ref type="bibr" target="#b38">45</ref> It is described in the narrative as 'the chief organ of a new movement'. <ref type="bibr" target="#b39">46</ref> Fergus is greatly influenced in his outlook by almost all of the movements at the zeitgeist of Revivalist Ireland: the Gaelic League, theosophy, the co-operative movement, and, perhaps most importantly for the novel's plot, the Modernist movement within the Catholic Church, which argued for a liberalisation of the Church and which was condemned by Pope Pius X in 1907. <ref type="bibr" target="#b40">47</ref> From the beginning of The Plough and the Cross we learn that Fergus has 'eagerly interested himself in the problem of bringing the people back to the land' and has himself acquired land near Navan where he employs local farmers to work (PC 18). Along with Elsie, with whom he appears to have a platonic relationship, Fergus sets out to the Boyne Valley to show her what he calls 'the wonders of the Meath experiment' (PC 53). The 'experiment' is being led by Mr. Milligan, a fictionalised version of McCann, whom Fergus describes to Elsie as 'one of the very few men in Ireland who understand the rural problem' (PC 135). Like Craig and the workers of Ralahine, one of Milligan's main priorities is the conversion of grassland back to tillage; upon looking out over fields of pasture, Milligan 'could have wept over the tracts where the tiller and the toiler were not' (PC 136). Moreover, Milligan is a firm believer in co-operativism, telling Fergus that as the tillers are still 'only tenants', it remains necessary for them to 'get a deeper and securer interest in the holdings […] I must arrange that the concerns are placed upon a co-operative basis' (PC 138-9). Milligan, like McCann, does not live long enough to see his full co-operative vision take shape in rural Ireland, and with his death goes 'one of its saviours' (PC 280).</p><p>The Boyne Valley represents for Fergus (and Ryan) a kind of Gaelic Wonderland. While it 'is not far from Dublin', it remains 'as distant as the Middle Ages', being to Dubliners 'as much apart from their lives and destiny as fairyland' (PC 91). Throughout a long descriptive passage, Ryan repeatedly emphasises the 'loneliness' and deserted nature of the Boyne Valley. Ryan's 'lonely fields' act as a parallel to George Moore's 'untilled fields' in his 1903 collection of the same name, both representing the emptying out of the rural Irish countryside in the decades following the Famine (PC 100). Unlike in other romantic portrayals of rural Ireland, the emptiness of the countryside is a problem to be rectified for Fergus, and it is hoped that Milligan's projects will 'bring industrial and human momentum into the beautiful Boyne Valley desert' (PC 101). Eventually, after passing another 'lonely road' and a 'lonelier lane', the pair come to Cluainlumney (PC 112). Cluainlumney is Ryan's version of McCann's Teltown, where are to be found 'the new cottages of his brothers and the other pioneers of tillage' (PC 112). The farmers in Cluainlumney have clearly taken to their new agricultural system and, like the peasants of Ralahine, are portrayed as unafraid of modernisation and new farming ideas -we are told that they have been 'testing some of [Peter] Kropotkin's theories with zeal and profit since Fergus had sent them Fields, Factories, and Workshops' (PC 120). Kropotkin (1842-1921) was a Russian geographer and Marxist, whose 1899 book Fields, Factories, and Workshops sets out the 'advantages which civilised societies could derive from a combination of industrial pursuits with intensive agriculture'. <ref type="bibr" target="#b41">48</ref> Significantly for Ryan, Kropotkin argues against the division of labour, instead positing that 'the greatest sum total of wellbeing can be obtained when a variety of agricultural, industrial and intellectual pursuits are combined in each community'. <ref type="bibr" target="#b42">49</ref> Ryan mentions Kropotkin and the aforementioned book in The Pope's Green Island as being a major influence upon his papers' advocation for 'social co-operative farming' as a solution to the problems of the western rural communities in Ireland (PGI 285). Ross identifies Kropotkin as one of the major theorists of the rural commune and notes how he believed the Paris Commune's purely urban setting detracted from its ability to be self-sufficient, wondering what it 'might have achieved had the regions adjacent to the city been transformed into thriving vegetable gardens'. <ref type="bibr" target="#b43">50</ref> Catherine Nash also notes the clear influence of Kropotkin's ideas on Standish O'Grady's Peasant articles encouraging urban clerks to return to the land, <ref type="bibr" target="#b44">51</ref> and indeed Fergus in The Plough and the Cross imagines that 'sundry kinds of craftsmen' from Dublin could be induced to go live in the Boyne Valley, 'where they could work so much better than in the city' (PC 57).</p><p>Cluainlumney as Gaelic idyll is at no time better demonstrated than during the seemingly spontaneous dances that take place in the evenings:</p><p>Dancing parties were formed on the green as readily and gaily as if all this were the recognized and inevitable business of life in evenings and nights after toil. The scene rang with melody and gaiety […] The sound of the fiddle on the sward or elsewhere brought the young neighbors, and indeed the old, forthwith; and dance and song and seanchus succeeded. (PC 121)</p><p>The Gaelic nature of these dances is underscored by Ryan's emphasis on the seanchus, or 'storytelling', that takes place in addition to the song and dance. Like the festival described in Ralahine -quadrilles aside -it shows older Gaelic traditions to persist in these new co-operative arrangements. While for Craig such events were perhaps viewed as anachronistic and ultimately to be educated out of the populace, for Ryan the economic improvements are only truly valuable to the extent that they provide freedom for the peasantry to fully pursue a culturally Gaelic and spiritually rich life. In a debate with another priest, Fergus states that 'Socialism simply proposes to take the fetters off the worker's feet, the load off his back, give him the means of subsistence and the opportunity of development, and let him develop and flourish to his heart's content -and his soul's' (PC 169). Later again, he sees the return to tillage as but one step in a larger, more spiritual process:</p><p>Mere tilling for tilling's sake was a slight beginning. He must help the tillers to open their eyes and hearts, to feel their kinship with all Nature, to realize at the spade and plough their own divinity, and the divine end to which they moved. (PC 208) However, it transpires that it is the institutional face of spiritualism that brings about the plot's denouement. While out walking in the Boyne Valley, Fergus and Elsie are accosted by the local priest who tries to steal Elsie's hat and begins scolding them before he realises that they are not in fact poorer members of his parish. Elsie is particularly affronted by the event and determines to write an article on it for Fergus's paper. Elsie is typical of Ryan's portrayal of a new generation of Irish women, independent-minded and unafraid to take on the hegemony of the Church or their male counterparts. <ref type="bibr" target="#b45">52</ref> Summarising the position of women in Irish society in 1912, Ryan wrote that, while still '[f]ar from satisfactory', many women had now 'seized all the possibilities of education to the full, and are spreading progressive and generous social ideas amongst their sisters, and their brothers for that matter' (PGI 87-8). Elsie exemplifies this educated and progressive generation of women, and her article, while initially ignored by the Irish Church, causes a furore once it gains traction in the international press and results in Fergus receiving a visit from the Bishop. Their discussion touches on familiar topics from Ryan's days at The Irish Peasant, such as education for the masses, deemed by the Bishop as 'some form of socialism' (PC 308), before his point is made clear to Fergus: You must accept the status quo. You may discourse on tillage, the revival of the kilt, co-operative creameries, simplified spelling of the Irish language, and sundry such fruitful and interesting themes. But you must not criticise any phase or point of ecclesiastical policy in Ireland. (PC 309)   Evidently the esoteric interests of Revivalists can be tolerated, but not anything that directly threatens the Church's grip on the people. Socialism is one such threat, with Ryan later writing that the clergy opposed socialism on the grounds 'that a "poor" class is a direct creation or design of Providence, and to them a social state without poverty, and a measure of abject poverty, is unthinkable' (PGI 273). The Bishop goes on to declare Fainne an Lae an enemy of the Church and so the paper folds, while 'in Cluainlumney, though they would keep the few Meath settlers, the other homes must be broken up', once again hitting the poorest hardest (PC 331). With Milligan dead, there is no gentry-like figure to save this story; the fields must go untilled.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Hope and holy wells</head><p>The Plough and the Cross does, however, end with a potential note of hope as Elsie and Fergus walk along Sandymount Strand and Fergus reflects that, in spite of all, 'Ireland can be divinely recreated if she has the will' (PC 377). An authorial note promises a sequel 'to follow the later fortunes of our friends in the deepening social and spiritual drama of their new Ireland', though one might be forgiven for presuming that Ryan never did provide such a follow-up and a new vision for Ireland with it (PC 378). His writing in English after this is marked primarily by non-fictional work and poetry; however, Ryan continued also writing in Irish and his 1913 novel Caoimhghín Ó Cearnaigh, an evocative depiction of life in Dublin's Gaelic League circles, features another male hero from rural Ireland who moves to Dublin and becomes involved in the cultural revival. Once again, the idea of retreating to the countryside to toil on a farm is offered as a solution to modern malaise, though this time by a liberal member of the clergy, Fr. Muiris. Muiris's farm is also organised along co-operative lines:</p><p>Tá fir bhochta na h-áite 'gá shaothrú im fhochair agus tá sé réidhtighthe agam an sochar do roinnt leo. Oibrigheann siad go fonnmhar, agus tá gach rud ag éirghe go geal linn. Chómh minic agus is féidir liom cuirim sean-chóta orm, glacaim mo rán, agus oibrighim 'na measg. Innisim sgéalta, abraim abhráin, déanaim greann, chómh maith leo féin, le linn na h-oibre. <ref type="bibr" target="#b46">53</ref> [The poor men of the area are labouring along with me and I have arranged to share the produce with them. They work enthusiastically, and everything is going well for them. As often as I can, I put on my old coat, take my spade and work with them. I tell stories, sing songs, joke around, just as they do during the work.] This is a natural extension of the ideal being set out by Fergus in The Plough and the Cross, an image of a working community where poetry and stories play as central a role as labour. Here, in embryo, is Ryan's vision of the Gaelic farming commune. Once again, however, it requires a benevolent 'manager' from above, in this case the priest, in order for it to flourish.</p><p>Ryan returned to London and Fleet Street after the closure of The Irish Nation in 1910, working with the Labour-supporting Daily Herald. <ref type="bibr" target="#b47">54</ref> He continued to write creatively, though at a slower pace and with a greater emphasis on poetry, in the years to follow. His most significant addition to his vision of a Gaelic farming commune came in 1936 with the publication of the long poem in Irish, Feilm an Tobair Bheannuighthe. This work continues many of the common themes and trends of earlier work, combined with an increased emphasis on a melding of Gaelic mythology and mysticism. In his memoirs, Ryan describes the poem as follows:</p><p>A poet-professor, disillusioned in Dublin, returns to his remote lore-laden barony and the ill-got holding of his fathers. By way of restitution he brings in as co-operators lowly workers, wanderers, beggars -themselves the victims, or sons of victims, of old 'clearances' and spoliation. They become artists in their own way. A faery world and a divine world begin to be manifested. <ref type="bibr" target="#b48">55</ref> This work, written in a stylised and somewhat artificial Irish, is in many ways a crystallisation of Ryan's political and aesthetic philosophy; in his memoirs he wrote that the 'subject and scheme came near my ideal'. <ref type="bibr" target="#b49">56</ref> Upon being called back to 'Gleann na Gaoine' ['The Glen of Goodness'], Eoghan Ó Nualláin, the 'poet-professor', sets about organising his family farm along cooperative lines to improve the lives of the 'sglábhaí groidhe 'gus déirceach díleas' ['the spirited slaves and loyal beggars']. <ref type="bibr" target="#b50">57</ref> While Eoghan does not appear to be a member of the Anglo-Irish ascendancy, we learn from his father that the land was acquired by an ancestor through some form of treachery. Eoghan's response to this familial guilt is to claim the land for God: 'Ní liomsa cuid talaimh, ná le m'athair, ná aon-fhear, / Ach le Dia do chruthuigh 's do bhronn ar an slógh é / Le n'a riaradh go díleas dícheallach sócrach'. (FTB 8) ['This land belongs not to me, nor my father, nor to any man / But God who created and bestowed it to the people / To manage it faithfully, diligently, profitably'.] Like Ralahine and Cluainlumney, the farm is successful in practical terms, as the harvest brings in an abundance of produce: 'Ar teacht an fhoghmhair / Ag Eoghan bhí sgéala! / Árd-toradh talaimh, / Rí-mhaith, ró-mhéad ann'. (FTB 20) ['By the coming of the harvest / Eoghan had news! / A huge yield, / Exceptional, too much'.] However, the actual details of the co-operative nature of this farm are not given much space in the poem; instead Ryan emphasises the extracurricular activities in the evenings. From the beginning, Eoghan stipulates that the revival of Gaelic pursuits will be to the fore in this new endeavour:</p><p>Cuirfear ár saothar lae chun cinn go seolta, Lasfar déis sin tré spóirt a's ceol ár gcroidhthe. Deagh-Ghaeltacht bhéas i bhfeidhm ann, tógha sean-nósann Fá mheas arís mar músclann sógh na ndaoine (FTB 5)   [Our daily labour will be gracefully promoted, After which our hearts will be lit through sport and music. A fine Gaeltacht will be established, the choicest old customs Will be in honour again as the people's joy awakens] This renewed joy manifests itself as 'tonntracha beaga de sholus ceolmhar' ['little waves of musical light'] that beam from Eoghan's house in the night, seen by the fairies of the titular well, as well as various figures from Irish history and mythology, including St. Patrick, Clíodhna, Oisín, and a band of poets from the bardic tradition (FTB 12). From this point the poem switches between the mystical underworld of saints and sages and the mundane realities of real-world opposition to Eoghan's endeavourfrom the clergy, as expected by now with Ryan, but also from the literary establishment in Dublin, who are perturbed by the quality of the poetry being produced by these humble peasants (FTB 23-4). This recalls the reactions described by David Lloyd of English administrators and landlords to the communal clachan and rundale system of land division present in Ireland prior to the victory of agricultural capitalist rationalisation over the landscape. The clachan refers to the cluster of cottages that composed the baile or 'hamlet' in rural Ireland, surrounded by land farmed under the rundale system, featuring strips that were periodically redistributed among farmers as well as an area of grazing land held in common. Lloyd writes of the scandalised reactions to such land division but notes that it was not merely the 'impenetrable and apparently chaotic use of material space' that offended the colonists, but also the cultural and even affective space that it sustained. No less scandalous to their minds than the patchwork of land held in common was the unruly mixing of labour and leisure, of marketing and dancing, of music and mourning, that thrived there. <ref type="bibr" target="#b51">58</ref> The cultural vibrancy of Ryan's agricultural communes clearly recall the lost communities of the clachan and the space they afforded for 'a life in common predicated on a shared abundance'. <ref type="bibr">59</ref> For Ryan, this shared space results in a flourishing of both the cultural and agricultural, threatening those in positions of power over land and lays. Finally, Eoghan goes on a journey to the otherworld where he meets Bhictor, a creation of Ryan's described as a Gaelic archangel who works in the heart of Ireland. The final lines celebrate Bhictor and the importance of 'managing and tilling […] the farms and fallow fields of our secret souls' ['Ag riar 's ag rómhar […] / Feilme 's branair ár n-anmann rúnda' (FTB 36)]. Ryan's rural communes have by this point become primarily a vehicle for the cultivation of the soul.</p><p>Like most of Ryan's works, Feilm an Tobair Bheannuighthe's radicalism has a Revivalist limit inscribed in it. Ultimately, his agricultural co-operative communities are primarily a conduit through which Ryan can reimagine and renew Ireland in a Gaelic guise. All of this returns us to the question of where exactly to place Ryan's rural socialism. Without doubt, Ryan's literary and non-fictional output remains wedded to Connolly's conception of a primitive 'Celtic Communism', one which Ryan believes can be revived and made to suit modern requirements through the formation of co-operative communes, taking the likes of Ralahine as inspiration. Of all his peers during the Revival, Ryan provided the most prolonged and considered literary expression of a rural socialism. Nevertheless, it is important to note that Ryan did not agree with Connolly on all matters, and held a lifelong aversion to Marxist economic doctrines. Writing of Connolly in his memoirs, he recalls how he and Connolly rarely discussed Labour philosophy when in each other's company -a good thing, notes Ryan, for as Connolly 'was Marxist in theory we should not have agreed on everything'. <ref type="bibr" target="#b52">60</ref> Upon later becoming involved with the Daily Herald in London, Ryan lists its merits as a publication before stating that he had 'no concern with the Marxist theories'. <ref type="bibr">61</ref> It becomes clear, in these recollections, that Ryan's main issue with Marxists is what he describes as their 'Darwinian bias' and belief that 'the individual was essentially an economic activity' rather than 'a spiritual being'. <ref type="bibr" target="#b53">62</ref> Ryan might therefore be considered primarily an adherent of Morris rather than Marx; as he wrote in his memoirs: 'Too much Marx and too little Morris has been one of [British Labour's] mistakes'. <ref type="bibr" target="#b54">63</ref> Ryan's rural radicalism is often undercut by his adherence to some of the Revival's more conservative characteristics. This can be seen in the fact that all of his agricultural communes require an intellectual overseer of some sort -an Anglo-Irish landlord in his early novels, developing to simply a wealthy landowner in the later works. In short, he never truly escapes Yeats's notion of the intrinsic bond between 'the noble and the beggar-man'. <ref type="bibr" target="#b55">64</ref> As Niall Murphy writes, Ryan's political philosophy 'was ultimately socialistic and anti-capitalist but was not one that regarded class conflict as a prerequisite to the development of an independent Irish "Cooperative Commonwealth"'. <ref type="bibr" target="#b56">65</ref> Ryan nevertheless remains a rare thing: a Revivalist radical writing on rural Ireland, of rural Ireland. In his memoirs, he summarises his life as having been 'close to much that was original, much that was epoch-making, in latter-day Ireland, an inner witness indeed of history in the making'. <ref type="bibr" target="#b57">66</ref> His summation is astute; ultimately he was condemned to being primarily a witness to a movement of which he was a peripheral figure, often too radical for Revivalists, too much a Revivalist to be truly radical. </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Notes</head></div><figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_0"><head></head><label></label><figDesc>1. Ronan Crowley, 'Phwat's in a nam? Brian O'Nolan as a Late Revivalist', in Ruben Borg, Paul Fagan and John McCourt (eds.), Flann O'Brien: Problems with Authority (Cork: Cork University Press), p. 120. Also of relevance to Ryan is Crowley's identification of pseudonymity's prevalence among activists and agitators, providing 'a degree of immunity or protection […] when the forums in which they published were suppressed for sedition, prosecuted for libel or otherwise fell foul of the law' (131). 2. It cannot be overstated how transformative an impact Ryan's involvement with the Gaelic League had on his cultural and political outlook. The pages of the newspapers he edited featured extensive news on Gaelic League branches and events, while figures like Douglas Hyde and Fr. Eugene O'Growney took on a quasi-heroic status. Ryan represents for Philip O'Leary an important 'progressive' voice within the Gaelic League, along with the likes of Patrick Pearse and Pádraic Ó Conaire, as against the more conservative and nativist figures such as An tAthair Peadar Ua Laoghaire and Fr. Patrick Dineen. See O'Leary, The Prose Literature of the Gaelic Revival: Ideology and Innovation (University Park, PA: The Pennsylvania State University, 1994), pp. 65, 67, 436-42.</figDesc><table /></figure>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="6" xml:id="foot_0"><p>N. Ó CUILEAGÁIN</p></note>
+		</body>
+		<back>
+
+			<div type="acknowledgement">
+<div><head>Acknowledgements</head><p>My thanks to <rs type="person">Conor McCarthy</rs> for his helpful comments while drafting this article.</p></div>
+<div><head>Disclosure statement</head><p>No potential conflict of interest was reported by the author(s).</p></div>
+			</div>
+			<div type="funding">
+<div><head>Funding</head><p>The research conducted in this publication was funded by <rs type="funder">Taighde Éireann -Research Ireland</rs> under grant number <rs type="grantNumber">GOIPD/2024/192</rs>.</p></div>
+			</div>
+			<listOrg type="funding">
+				<org type="funding" xml:id="_cEStykX">
+					<idno type="grant-number">GOIPD/2024/192</idno>
+				</org>
+			</listOrg>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<monogr>
+		<author>
+			<persName><forename type="first">Len</forename><surname>Platt</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Joyce</forename><surname>Anglo-Irish</surname></persName>
+		</author>
+		<title level="m">A Study of Joyce and the Literary Revival</title>
+		<meeting><address><addrLine>Amsterdam; Rodopi</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="1998">1998</date>
+			<biblScope unit="page">173</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<monogr>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">J</forename><surname>Mathews</surname></persName>
+		</author>
+		<title level="m">Revival: the Abbey Theatre, Sinn Féin, the Gaelic League and the Co-operative Movement</title>
+		<meeting><address><addrLine>Cork</addrLine></address></meeting>
+		<imprint>
+			<publisher>Cork University Press in association with Field Day</publisher>
+			<date type="published" when="2003">2003</date>
+			<biblScope unit="page">11</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<monogr>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">P</forename><surname>Ryan</surname></persName>
+		</author>
+		<title level="m">Hereafter cited parenthetically as PGI followed by page number(s)</title>
+		<meeting><address><addrLine>London</addrLine></address></meeting>
+		<imprint>
+			<publisher>James Nisbet &amp; Co., Ltd</publisher>
+			<date type="published" when="1912">1912</date>
+			<biblScope unit="page">6</biblScope>
+		</imprint>
+	</monogr>
+	<note>The Pope&apos;s Green Island</note>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title level="a" type="main">Cumannacht na hÉireann&apos; was the Irish name for the Socialist Party of Ireland and so it can be presumed that this is what Ryan intends here. Ryan&apos;s writings in Irish were printed in the Gaelic script but have been converted to the Latin script here</title>
+		<author>
+			<persName><forename type="first">Liam</forename><forename type="middle">P</forename><surname>Riain</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">[</forename><forename type="middle">W P</forename><surname>Ryan</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Gaelic Ideals and Socialism (Dublin: Cumannacht na hÉireann</title>
+		<imprint>
+			<date type="published" when="1909">1909</date>
+			<biblScope unit="page">13</biblScope>
+		</imprint>
+	</monogr>
+	<note>While &apos;Cumannacht&apos; is not a direct translation of &apos;socialism. I have, however, retained Ryan&apos;s original spellings</note>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title level="a" type="main">The Story of Ralahine Colony</title>
+		<author>
+			<persName><forename type="first">Frederick</forename><surname>Irial</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">]</forename><surname>Ryan</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">The Irish Nation</title>
+		<imprint>
+			<biblScope unit="page" from="1" to="8" />
+			<date type="published" when="1909-07-31">31 July 1909</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<monogr>
+		<title level="m" type="main">The Irish Labour Movement: From the &apos;Twenties to Our Own Day</title>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">P</forename><surname>Ryan</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1919">1919</date>
+			<publisher>The Talbot Press Limited</publisher>
+			<biblScope unit="page">5</biblScope>
+			<pubPlace>Dublin</pubPlace>
+		</imprint>
+	</monogr>
+	<note>Hereafter cited parenthetically as ILM followed by page number(s)</note>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title level="a" type="main">Ralahine: An Irish Owenite Community (1831-1833)</title>
+		<author>
+			<persName><surname>Vincent Geoghegan</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">International Review of Social History</title>
+		<imprint>
+			<biblScope unit="volume">36</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page">378</biblScope>
+			<date type="published" when="1991">1991</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<monogr>
+		<author>
+			<persName><forename type="first">Edward</forename><surname>Thomas</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Craig</forename></persName>
+		</author>
+		<title level="m">An Irish Commune: The Experiment at Ralahine, County Clare 1831-1833</title>
+		<meeting><address><addrLine>Dublin</addrLine></address></meeting>
+		<imprint>
+			<publisher>Irish Academic Press</publisher>
+			<date type="published" when="1983">1983</date>
+			<biblScope unit="page">19</biblScope>
+		</imprint>
+	</monogr>
+	<note>Hereafter cited parenthetically as IC followed by page number(s)</note>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<monogr>
+		<title level="m" type="main">Turner notes the dramatic decline in arable acreage in the nineteenth century, going from 4.6 million acres in 1851 to just 2.3 million by 1911</title>
+		<author>
+			<persName><surname>Michael</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1996">1996</date>
+			<publisher>Cambridge University Press</publisher>
+			<biblScope unit="page">15</biblScope>
+			<pubPlace>Cambridge</pubPlace>
+		</imprint>
+	</monogr>
+	<note>See Michael Turner, After the Famine: Irish Agriculture</note>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<monogr>
+		<title level="m" type="main">The Owenite Community at Ralahine, County Clare, 1831-33: A Reassessment</title>
+		<author>
+			<persName><forename type="first">Ó</forename><surname>Cormac</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Gráda</surname></persName>
+		</author>
+		<editor>Craig, An Irish Commune</editor>
+		<imprint>
+			<biblScope unit="page">199</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<monogr>
+		<title level="m" type="main">Ralahine</title>
+		<author>
+			<persName><surname>Geoghegan</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="page">385</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<monogr>
+		<title level="m" type="main">The Owenite Community at Ralahine</title>
+		<author>
+			<persName><surname>Gráda</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="page" from="204" to="205" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<monogr>
+		<title level="m" type="main">The Story of the Ralahine Colony</title>
+		<author>
+			<persName><surname>Irial</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="page">1</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<title level="a" type="main">Labour in Irish History</title>
+		<author>
+			<persName><forename type="first">James</forename><surname>Connolly</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">The Revolutionary and Anti-Imperialist Writings of James Connolly 1893-1916</title>
+		<editor>
+			<persName><forename type="first">Conor</forename><surname>Mccarthy</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Edinburgh</addrLine></address></meeting>
+		<imprint>
+			<publisher>Edinburgh University Press</publisher>
+			<date type="published" when="2016">2016</date>
+			<biblScope unit="page">71</biblScope>
+		</imprint>
+	</monogr>
+	<note>Hereafter cited parenthetically as LIH followed by page number(s)</note>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<title level="a" type="main">Marx in the Grundisse (1857-8) posits that members of primeval, pastoral communes related to each other &apos;as co-proprietors, as so many incarnations of the common property&apos; while the &apos;communal property is itself posited as a particular ager publicus</title>
+		<author>
+			<persName><forename type="first">Conor</forename><surname>Mccarthy</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">The Revolutionary and Anti-Imperialist Writings of James Connolly 1893-1916</title>
+		<editor>
+			<persName><forename type="first">Ranajit</forename><surname>Guha</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">Chakravorty</forename><surname>Gayatri</surname></persName>
+		</editor>
+		<editor>
+			<persName><surname>Spivak</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Edinburgh; Delhi</addrLine></address></meeting>
+		<imprint>
+			<publisher>Oxford University Press</publisher>
+			<date type="published" when="1973">2016. 1973. 1988</date>
+			<biblScope unit="page">371</biblScope>
+		</imprint>
+	</monogr>
+	<note>Selected Subaltern Studies</note>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<monogr>
+		<title level="m" type="main">Introduction</title>
+		<author>
+			<persName><surname>Mccarthy</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="page">12</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<monogr>
+		<title level="m" type="main">More on Modes of Power and the Peasantry</title>
+		<author>
+			<persName><surname>Chatterjee</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="page" from="358" to="380" />
+		</imprint>
+	</monogr>
+	<note>Ibid</note>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<monogr>
+		<title/>
+		<author>
+			<persName><surname>Ibid</surname></persName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<monogr>
+		<title/>
+		<author>
+			<persName><surname>Ibid</surname></persName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<monogr>
+		<author>
+			<persName><forename type="first">Kristin</forename><surname>Ross</surname></persName>
+		</author>
+		<title level="m">The Commune Form: The Transformation of Everyday Life</title>
+		<meeting><address><addrLine>London</addrLine></address></meeting>
+		<imprint>
+			<publisher>Verso</publisher>
+			<date type="published" when="2024">2024</date>
+			<biblScope unit="page">7</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<monogr>
+		<title level="m" type="main">See Ramizi&apos;s PhD thesis &apos;Troublesome Anachronisms: The Peasant Question and European Realism, 1887-1917</title>
+		<author>
+			<persName><surname>Ibid</surname></persName>
+		</author>
+		<ptr target="https://may.idm.oclc.org/login?url=https://www-proquest-com.may.idm.oclc.org/dissertations-theses/troublesome-anachronisms-peasant-question/docview/1848303115/se-2" />
+		<imprint>
+			<date type="published" when="2016-05-23">2016. 23 May 2025</date>
+			<biblScope unit="page" from="18" to="26" />
+		</imprint>
+		<respStmt>
+			<orgName>New York University</orgName>
+		</respStmt>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">Raymond</forename><surname>Williams</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Marxism and Literature</title>
+		<imprint>
+			<biblScope unit="page">122</biblScope>
+			<date type="published" when="1977">1977. 1985</date>
+			<publisher>Oxford University Press</publisher>
+			<pubPlace>Oxford</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<monogr>
+		<title level="m" type="main">The Commune Form</title>
+		<author>
+			<persName><surname>Ross</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="page">88</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<monogr>
+		<author>
+			<persName><forename type="first">Patrick</forename><surname>Doyle</surname></persName>
+		</author>
+		<title level="m">Civilising Rural Ireland: The Co-operative Movement, Development and the Nation-state</title>
+		<meeting><address><addrLine>Manchester</addrLine></address></meeting>
+		<imprint>
+			<publisher>Manchester University Press</publisher>
+			<date type="published" when="2019">2019</date>
+			<biblScope unit="page">3</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<analytic>
+		<title level="a" type="main">Morris was also drawn to the idea of the land being held in common: &apos;the resources of nature, mainly the land and those other things which can only be used for the reproduction of wealth and which are the effect of social work, should not be owned in severalty, but by the whole community for the benefit of the whole</title>
+		<author>
+			<persName><forename type="first">Ruth</forename><surname>Levitas</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">;</forename><forename type="middle">E P</forename><surname>Thompson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">William</forename><surname>Morris</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Romantic to Revolutionary</title>
+		<editor>
+			<persName><forename type="first">Marcus</forename><surname>Waithe</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Cambridge; London</addrLine></address></meeting>
+		<imprint>
+			<publisher>Merlin Press</publisher>
+			<date type="published" when="1977">2024. 1977</date>
+			<biblScope unit="page">109</biblScope>
+		</imprint>
+	</monogr>
+	<note>The Cambridge Companion to William Morris. cited in Ross, The Commune Form</note>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">O'</forename><surname>Emmet</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Connor</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Syndicalism In Ireland</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1988">1988</date>
+			<publisher>Cork University Press</publisher>
+			<biblScope unit="page">49</biblScope>
+			<pubPlace>Cork</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<monogr>
+		<title level="m" type="main">Doctor Socialism and the Irish Hypochondriac</title>
+		<author>
+			<persName><surname>Riain</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="page">8</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b27">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">Syndicalism</forename><surname>O'connor</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="page">48</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b28">
+	<monogr>
+		<title/>
+		<author>
+			<persName><surname>Ibid</surname></persName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b29">
+	<analytic>
+		<title level="a" type="main">An account of O&apos;Grady&apos;s writings on agricultural communes, including those appearing in Ryan&apos;s The Peasant and The Irish Nation, can be found in Catherine Nash</title>
+		<author>
+			<persName><forename type="first">O'</forename><surname>Standish</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Grady</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Men Again: Irish Masculinity, Nature, and Nationhood in the Early Twentieth Century</title>
+		<imprint>
+			<date type="published" when="1910-01-29">29 January 1910. 26 February, 5, 19, 26 March and 19 April. 1996</date>
+			<biblScope unit="volume">12</biblScope>
+			<biblScope unit="page" from="427" to="453" />
+		</imprint>
+	</monogr>
+	<note>Ecumene</note>
+</biblStruct>
+
+<biblStruct xml:id="b30">
+	<monogr>
+		<title level="m" type="main">Russell himself was well aware of the experiment at Ralahine and contributed the introduction to the 1920 republication</title>
+		<author>
+			<persName><surname>Geoghegan</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="page">406</biblScope>
+		</imprint>
+	</monogr>
+	<note>Ralahine. in abridged form, of Craig&apos;s account</note>
+</biblStruct>
+
+<biblStruct xml:id="b31">
+	<analytic>
+		<title level="a" type="main">James McCann 1840-1904: A Pioneer of Rural Restoration</title>
+		<author>
+			<persName><forename type="first">Aodh</forename><surname>De</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Blacam</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Studies: An Irish Quarterly Review</title>
+		<imprint>
+			<biblScope unit="volume">34</biblScope>
+			<biblScope unit="issue">133</biblScope>
+			<biblScope unit="page">96</biblScope>
+			<date type="published" when="1945">1945</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b32">
+	<monogr>
+		<title level="m" type="main">Ryan wrote a number of different versions of his memoirs, none of which was accepted for publication. In addition to the above, there exist two other typescripts in the same archive: &apos;Quests and Comrades&apos; (MS LA11/1) and &apos;Irish Quests and Comrades&apos; (MS LA11/3)</title>
+		<author>
+			<persName><forename type="first">Ryan</forename><forename type="middle">;</forename></persName>
+		</author>
+		<author>
+			<persName><forename type="first">William</forename><surname>Patrick</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Ryan</forename><surname>Papers</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">S</forename><surname>La</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="volume">11</biblScope>
+			<biblScope unit="page">79</biblScope>
+		</imprint>
+		<respStmt>
+			<orgName>University College Dublin</orgName>
+		</respStmt>
+	</monogr>
+	<note>Golden Decades&apos; combines elements of both and appears to be the last version of his memoirs that he wrote. The typescripts are undated, though a chronology can be deduced from the numerous rejection letters that Ryan receives for &apos;Quests and Comrades&apos; in 1937. Irish Quests and Comrades&apos; in 1938 and for &apos;Golden Decades&apos; in 1941</note>
+</biblStruct>
+
+<biblStruct xml:id="b33">
+	<monogr>
+		<title level="m" type="main">James McCann</title>
+		<author>
+			<persName><surname>De Blacam</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="page">96</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b34">
+	<monogr>
+		<title level="m" type="main">Golden Decades</title>
+		<author>
+			<persName><forename type="first">Ryan</forename></persName>
+		</author>
+		<imprint>
+			<biblScope unit="page">82</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b35">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">Liam</forename><forename type="middle">P Ó</forename><surname>Riain</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">The Peasant</title>
+		<imprint>
+			<biblScope unit="page">1</biblScope>
+			<date type="published" when="1906-12-29">29 December 1906</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b36">
+	<monogr>
+		<title level="m" type="main">Quests and Comrades</title>
+		<author>
+			<persName><forename type="first">Ryan</forename></persName>
+		</author>
+		<imprint>
+			<biblScope unit="page">105</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b37">
+	<analytic>
+		<title level="a" type="main">Crowley sees this tendency as an extension of the Revivalist interest in ethnographism and argues that &apos;[f]ictionalizing the real people in one&apos;s immediate circle and beyond, in confessional or tell-all literary forms, offered a way for new entrants to the Irish literary field to pinion rivals</title>
+	</analytic>
+	<monogr>
+		<title level="j">New Hibernia Review</title>
+		<imprint>
+			<biblScope unit="volume">23</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="129" to="144" />
+			<date type="published" when="2019">2019</date>
+		</imprint>
+	</monogr>
+	<note>Ronan Crowley has noted the striking number of romans à clef written by Revivalists -see &apos;Revivalism à Clef. cement loyalties, and pitch new affiliations in the jockeying for cultural capital, prominence, and prestige&apos; (130</note>
+</biblStruct>
+
+<biblStruct xml:id="b38">
+	<monogr>
+		<title level="m" type="main">Fainne an Lae [sic] is an Irish phrase referring to the first light of dawn (literally the &apos;ring of the day&apos;). It is worth noting that there existed a weekly bilingual newspaper called Fáinne an Lae at the end of the nineteenth century which was ultimately taken over and merged with the Gaelic League&apos;s publication, An Claidheamh Soluis. For a history of this paper, see Caoilfhionn Nic Pháidín, Fáinne an Lae agus an Athbheochan</title>
+		<idno>1898-1900</idno>
+		<imprint>
+			<date type="published" when="1998">1998</date>
+			<publisher>Cois Life Teoranta</publisher>
+			<pubPlace>Dublin</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b39">
+	<monogr>
+		<author>
+			<persName><forename type="first">William</forename><surname>Patrick</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">O'</forename><surname>Ryan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">[</forename><forename type="middle">W P</forename><surname>Ryan</surname></persName>
+		</author>
+		<title level="m">The Plough and the Cross: A Story of New Ireland</title>
+		<meeting><address><addrLine>Point Loma, CA</addrLine></address></meeting>
+		<imprint>
+			<publisher>The Aryan Theosophical Press</publisher>
+			<date type="published" when="1910">1910</date>
+		</imprint>
+	</monogr>
+	<note>Hereafter cited parenthetically as PC followed by page number(s)</note>
+</biblStruct>
+
+<biblStruct xml:id="b40">
+	<monogr>
+		<title level="m" type="main">Catholic Fiction and Social Reality in Ireland</title>
+		<author>
+			<persName><forename type="first">James</forename><forename type="middle">H</forename><surname>Murphy</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1997">1997</date>
+			<publisher>Greenwood Press</publisher>
+			<biblScope unit="page">128</biblScope>
+			<pubPlace>Westport, CT</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b41">
+	<monogr>
+		<title level="m" type="main">Industry Combined with Agriculture and Brain Work with Manual Work</title>
+		<author>
+			<persName><forename type="first">P</forename><surname>Kropotkin</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Fields</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Factories</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">;</forename><surname>Workshops</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Or</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1912">1912</date>
+			<publisher>Thomas Nelson and Sons, Ltd</publisher>
+			<biblScope unit="page">p. x</biblScope>
+			<pubPlace>London</pubPlace>
+		</imprint>
+	</monogr>
+	<note>revised edn.</note>
+</biblStruct>
+
+<biblStruct xml:id="b42">
+	<monogr>
+		<title/>
+		<author>
+			<persName><surname>Ibid</surname></persName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b43">
+	<monogr>
+		<title level="m" type="main">The Commune Form</title>
+		<author>
+			<persName><surname>Ross</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="page" from="18" to="19" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b44">
+	<monogr>
+		<title level="m" type="main">Men Again</title>
+		<author>
+			<persName><surname>Nash</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="page">430</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b45">
+	<monogr>
+		<title level="m" type="main">resembles Elsie in her independent relationship with the titular character, preferring to prioritise her work with the poor of Dublin, though she does eventually agree to marry him. Importantly, Ryan saw in the Gaelic League&apos;s youthful mixed-gender classes an important symbol of progress away from Church control of private life</title>
+		<imprint>
+			<date type="published" when="1913">1913</date>
+			<publisher>Úna in Ryan&apos;s Gaelic-League novel Caoimhghín Ó Cearnaigh</publisher>
+		</imprint>
+	</monogr>
+	<note>see PGI 84-5</note>
+</biblStruct>
+
+<biblStruct xml:id="b46">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">[</forename><forename type="middle">W P</forename><surname>Uilliam Ó Riain</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Ryan</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Caoimhghín Ó Cearnaigh (Dublin: Connradh na Gaedhilge</title>
+		<imprint>
+			<biblScope unit="page">25</biblScope>
+			<date type="published" when="1913">1913</date>
+		</imprint>
+	</monogr>
+	<note>My translation</note>
+</biblStruct>
+
+<biblStruct xml:id="b47">
+	<monogr>
+		<title level="m" type="main">Quests and Comrades</title>
+		<author>
+			<persName><forename type="first">Ryan</forename></persName>
+		</author>
+		<imprint>
+			<biblScope unit="page">144</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b48">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">Golden</forename><surname>Ryan</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Decades</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="page">176</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b49">
+	<monogr>
+		<title/>
+		<author>
+			<persName><surname>Ibid</surname></persName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b50">
+	<analytic>
+		<title level="a" type="main">Hereafter cited parenthetically as FTB followed by page number(s)</title>
+		<author>
+			<persName><forename type="first">Liam</forename><forename type="middle">P Ó</forename><surname>Riain</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Feilm an Tobair Bheannuighthe (Dundalk: An Sgrúduightheoir</title>
+		<imprint>
+			<date type="published" when="1936">1936</date>
+			<biblScope unit="page">5</biblScope>
+		</imprint>
+	</monogr>
+	<note>All translations from the Irish are my own</note>
+</biblStruct>
+
+<biblStruct xml:id="b51">
+	<monogr>
+		<author>
+			<persName><forename type="first">David</forename><surname>Lloyd</surname></persName>
+		</author>
+		<title level="m">Irish Culture and Colonial Modernity 1800-2000: The Transformation of Oral Space</title>
+		<meeting><address><addrLine>Cambridge</addrLine></address></meeting>
+		<imprint>
+			<publisher>Cambridge University Press</publisher>
+			<date type="published" when="2011">2011</date>
+			<biblScope unit="page">6</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b52">
+	<monogr>
+		<title level="m" type="main">Quests and Comrades</title>
+		<author>
+			<persName><forename type="first">Ryan</forename></persName>
+		</author>
+		<imprint>
+			<biblScope unit="page">135</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b53">
+	<monogr>
+		<title/>
+		<author>
+			<persName><surname>Ibid</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="page">151</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b54">
+	<monogr>
+		<title level="m" type="main">Golden Decades</title>
+		<author>
+			<persName><forename type="first">Ryan</forename></persName>
+		</author>
+		<imprint>
+			<biblScope unit="page">171</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b55">
+	<analytic>
+		<title level="a" type="main">The Municipal Gallery Revisited</title>
+		<author>
+			<persName><forename type="first">William</forename><surname>Butler</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Yeats</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Yeats&apos;s Poems</title>
+		<editor>
+			<persName><forename type="first">A</forename></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">Norman</forename><surname>Jeffares</surname></persName>
+		</editor>
+		<meeting><address><addrLine>London; Macmillan</addrLine></address></meeting>
+		<imprint>
+			<publisher>Palgrave</publisher>
+			<date type="published" when="1989">1989</date>
+			<biblScope unit="page">439</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b56">
+	<analytic>
+		<title level="a" type="main">Social Sinn Féin and Hard Labour&quot;: the journalism of W.P. Ryan and Jim Larkin 1907-14</title>
+		<author>
+			<persName><forename type="first">Niall</forename><surname>Murphy</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Irish Studies Review</title>
+		<imprint>
+			<biblScope unit="volume">22</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page">44</biblScope>
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b57">
+	<monogr>
+		<title level="m" type="main">Quests and Comrades</title>
+		<author>
+			<persName><forename type="first">Ryan</forename></persName>
+		</author>
+		<imprint>
+			<biblScope unit="page">225</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

@@ -1,0 +1,716 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Hüseyin Rahmi&apos;s queer hauntology: (Un-)making of the secular nation/state/self</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author role="corresp">
+							<persName><forename type="first">Emre</forename><surname>Keser</surname></persName>
+							<email>ekeser@ucsc.edu</email>
+							<affiliation key="aff0">
+								<orgName type="institution" key="instit1">History of Consciousness</orgName>
+								<orgName type="institution" key="instit2">University of California</orgName>
+								<address>
+									<settlement>Santa Cruz</settlement>
+									<region>CA</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Hüseyin Rahmi&apos;s queer hauntology: (Un-)making of the secular nation/state/self</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date/>
+						</imprint>
+					</monogr>
+					<idno type="MD5">218A64DBC6FF4398F601A1C7CF81408B</idno>
+					<idno type="DOI">10.1080/14735784.2024.2355112</idno>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.0" ident="GROBID" when="2026-02-25T19:53+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term>Hüseyin Rahmi</term>
+					<term>queer hauntology</term>
+					<term>nation-state</term>
+					<term>history</term>
+					<term>the secular</term>
+				</keywords>
+			</textClass>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>Hüseyin Rahmi's works feature ghosts, jinns, living skeletons, monsters, and ghouls. Literary historians, citing the writer's own words, often account for this by suggesting that it was for instructional purposes in that he was trying to dispel superstitious beliefs then prevalent in society. The commonplace conviction is that he was yet another modernisationist, nationalist, and secular writer who took it upon himself to enlighten people to help the nation modernise. A number of biographical sidenotes accompany this conviction, implying that Hüseyin Rahmi may have been attracted to men. Nevertheless, neither these sidenotes nor his enthusiasm for monsters and ghosts has significantly affected the understanding of his work. Reading his Cadı and Dirilen İskelet, I argue that there is a queer element in his works that resists the writer's intention and the contextualisation of his work. Hüseyin Rahmi's monsters and ghosts illustrate the making of the nation-state through an empty, linear, homogenous time in a disenchanted present but they also haunt this making by inscribing the so-called superstitions of the past into its core, thereby gesturing towards the unmaking of the biopolitical nation-state and its heteronormative-reproductive body.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Bir, Yeryüzüne nasıl dağılmıştır Tarihi düzünden okumaya ayaklanan çocuklar?</head><p>İki, Daha yavuz bir belge var mıdır ha Gerçeği ararken parçalanmayı göze almış yüzlerden?</p><p>[First, how the children who revolt against reading history straight are dispersed on earth? Second, is there a more formidable document than the faces that risk being torn down in search of truth?] -Ece Ayhan, "Yort Savul"</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Introduction</head><p>The dead chase the living; ghosts and apparitions haunt houses; jinns and spirits possess individuals; a skeleton comes to life and couples with a witch who makes prophecies, talks to animals, develops a divine vision out of her broken heart, and together they punish the ones who disturbed them. All these figures make the gist of Hüseyin Rahmi's literary writings. But all these, we are told by Hüseyin Rahmi and literary historians, were for a purpose, a moral, and a didacticism <ref type="bibr">(Adıvar 1944b</ref><ref type="bibr">(Adıvar , 1994c;;</ref><ref type="bibr">Moran 1999, 88</ref>; see <ref type="bibr">Mignon 2021, 184-185)</ref>. All he wanted was to make people conscious of the fact that these things are not real; they are 'supernatural', 'superstitious', irrational, and, therefore, things of the past. Then, his work was a product of his times: he was yet another intellectual who took it upon himself to 'disenchant' the world and attune his people to this new order of the world with some cautionary tales against the baseless and excessive 'Westernisation'. This essay challenges this commonplace understanding of Hüseyin Rahmi's work by pointing out that it was this historicity assigning him to his 'proper' place in history/the past that his monsters and ghosts elude, haunt, and problematise. Hüseyin Rahmi's times not only sent monsters and spectres to the graveyard of the past but also made certain bodies and sexual practices illegible. The late-nineteenth and early-twentieth-century Ottoman-Turkish writers and intellectuals felt threatened by the 'homoeroticism' of the Ottoman literary tradition they inherited (as much as by this tradition's dwelling on the supernatural and the mysterious) <ref type="bibr">(Moran 1999, 6-15)</ref>. The figure of the beloved as a young male was an essential trope of Ottoman poetry, just as male homoeroticism was prevalent in Ottoman society <ref type="bibr" target="#b5">(Andrews and Kalpaklı 2005;</ref><ref type="bibr" target="#b33">Sarıtaş 2021;</ref><ref type="bibr" target="#b39">Ze'evi 2006</ref>; also see <ref type="bibr" target="#b34">Scalenghe 2014)</ref>. These forms of writing and sexual practices (and 'abnormal' bodies) were gradually rendered eccentric and perverted relics of the past through the late-nineteenth-century 'gendering' practices. The clear-cut distinction between the past and the present, the dead and the living, as the condition of possibility for the emerging nation-state and its historical consciousness, worked to disenchant the world and establish a heteronormative binary gender system. It is not coincidental that Hüseyin Rahmi's work often combines the 'supernatural' with discussions of gender, sexuality, women's rights, and reproduction. Coupling mysterious apparitions with marginalised bodies, he creates a queer writing that eludes historical meaning and awakens the dead to haunt the present.</p><p>By reading Cadı <ref type="bibr">(The Witch, 1912)</ref> and Dirilen İskelet (The Skeleton That Comes to Life, 1923), I argue that Hüseyin Rahmi's work, whatever the authorial intention and its proper context, gestures towards a queer hauntology that critiques the secular national history and the colonial heteronormative binary gender, pointing to their inseparability. In what follows, I first sketch out the 'times' of Hüseyin Rahmi that his writing both illustrates and makes out of joint. Subsequently, I elaborate on what I mean by 'queer hauntology'. Then, I read Hüseyin Rahmi's mentioned works. I first read Cadı in terms of the novel's claims to be instructive and yet still having features that queer and haunt even its own making sense of itself. Afterwards, I discuss Dirilen İskelet through the monstrous couplings it evokes, emphasising the novel's leaving the matter of 'supernatural' creatures open-ended.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Disenchanting history or straightening it up</head><p>Hüseyin Rahmi (Gürpınar)  was one of the most prolific and popular writers of the late Ottoman Empire and early Republican Turkey. He wrote in different and rapidly changing social and political circumstances, including the Tanzimat period, the First and Second Constitutional eras, the First World War, the mass killings of Armenians and other minoritised groups, the Turkish national independence wars leading up to the foundation of the Republic, the interwar years, and the Second World War. His work was thus informed by the watershed moments and traumatic experiences that have created and had long-lasting effects on Turkey. The late-nineteenth-century Ottoman Empire was marked by the idea of reform. The rising dominance of the Western European powers, the steady loss of Ottoman lands in the Balkans and Eastern Europe, and the separation of non-Muslim millets into different nation-states led the Ottoman administration to find ways of 'catching up' and being able to compete with the 'West'. These reforms varied from reshaping the army, state bureaucracy, tax system, and education to granting non-Muslim 'minorities' equal rights and to adopting new ('modern') societal and cultural norms and conventions on the matters of family, sex, gender, the public sphere, dress codes, the calendar, science, technology, and so on.</p><p>These developments were intimately connected with nineteenth-century colonial biopolitical problematics through which health, hygiene, population, birth, death, reproduction, and sexuality came to be the central object and objective of the state. Placing the defence, robustness, and future of the population under the state's prerogative, biopower inextricably linked people's body to the body of the state, thereby making citizen-subjects active agents of the reproduction of this 'organic' unity and responsible for building better national futures. Opening women's bodies to intervention, the Ottoman state devised 'reproductive futurity' policies that institutionalised midwifery, curbed abortion, and encouraged heteronormative nuclear family structures <ref type="bibr" target="#b13">(Edelman 2004;</ref><ref type="bibr" target="#b10">Demirci and Somel 2008)</ref>. At the same time, as the shrinking borders of the state were identified as the natural boundaries of the nation's organic body, the 'minoritised' groups came to be seen as internal threats sickening the body of the 'sick man of Europe' from within. With the pressure of European powers, they were granted 'equal rights' under the secular governance that allegedly no longer distinguishes between Muslims and non-Muslims, but this immediately turned them into objects of suspicion for laying competing nationalist claims to Ottoman territories and conspiring with external powers to bring about the collapse of the Ottoman state <ref type="bibr" target="#b26">(Mahmood 2015)</ref>. It did not take long for these groups to be subjected to systemic state violence. Thus, the state's reproductive body was simultaneously a murderous machinery, unified with a common goal: social defence and making of national futures <ref type="bibr" target="#b14">(Foucault 2003;</ref><ref type="bibr">cf. Deutscher 2017)</ref>.</p><p>This idea of nation-state, organising societies into (imagined) homogenous communities and organic totalities that are supposed to share a unique history/past and a common language, was accompanied by a new sense of time and temporality, which Benedict Anderson, through Walter Benjamin, famously called 'empty and homogenous' <ref type="bibr">(Anderson 2006, 24-34;</ref><ref type="bibr">Benjamin 2007, 261-264)</ref>. The nation as an organic unity is built into this empty and continuous time. As Dipesh Chakrabarty explains, this time is empty 'because it acts as a bottomless sack: any number of events can be put inside it; and it is homogeneous because it is not affected by any particular events: its existence is independent of such events and in a sense it exists prior to them. Events happen in time but time is not affected by them <ref type="bibr">' (1997, 36)</ref>. Institutionalised as part and parcel of the making of the nation-states in the nineteenth century, history fills the empty time of a nation with events whose effects continue into the present with their contribution to the making and reproduction of the nation while coding some others as dead and past. In other words, history creates, on the one hand, pasts for the nation to align with that are in fact living in the present and, on the other, pasts to dispense with that were eliminated as backward, regressive, and dead.</p><p>Chakrabarty connects this idea of history with the Weberian notion of 'disenchanted' modernity and suggests that modern historical consciousness sees the world as already disenchanted, meaning that Gods, ghosts, spirits, and other 'supernatural' forces can claim no agency in historical narratives <ref type="bibr">(1997,</ref><ref type="bibr">36)</ref>. Thus, the nation-state and its history, written in a 'disenchanted' present, is meaningful only within an epistemological and ontological framework where gods, jinns, monsters, ghosts, and 'otherworldly' entities can claim no agency.</p><p>Historically, Hüseyin Rahmi's work, as understood by himself, served the function of disenchanting the present. He was one of the central figures in what is known in Turkish literary history as the debate between 'the art for art's sake' and 'the art for society's sake' and often registered as a fierce defender of the latter. In part, this was a reaction against those who found his works lowbrow and lacking. Hüseyin Rahmi pointed out that his works aim to educate people by helping them develop a certain level of consciousness, which an ideal subject in the modern world was expected to possess. His work was filled with supernatural things and events, paranormal activities, and monsters to illustrate their irrationality and unreality. His famous <ref type="bibr">Gulyabani (The Ghoul, 1911)</ref> opens with a letter from an old woman reader, which serves as the framing device of the book through which Hüseyin Rahmi creates the impression that the book was written upon her demand. The woman demands from the writer a riveting and breathtaking story about ghosts and jinns so that they can recite and follow the story in their gatherings. In response, Hüseyin Rahmi notes that this is an arduous task because these creatures are invisible and thus unreal. He then presents Gulyabani to the reader as an attempt, which is about a mythical giant monster known for consuming human flesh and wandering around graveyards <ref type="bibr">(Hüseyin Rahmi 2021a, 33-41)</ref>. In the novel, a group of people design the monster and stage its apparitions to scare those living in the house, hoping that the owner will eventually have to sell it. The story gives the old woman reader exactly what she wants but with a moral: these things are unreal. Underlining that this monster is a product of human agency, designed to take over the house, he teaches her that such occurrences (must) always have a rational explanation. Halide Edip <ref type="bibr">(Adıvar)</ref> suggests that Gulyabani represents a point of erudition for Hüseyin Rahmi because the story itself 'shows' to the reader that these things are unreal without constant authorial intervention which is an essential (and often frowned-upon) element in his works <ref type="bibr">(Adıvar 1944c)</ref>.</p><p>Talal Asad notes that the project of modernity creates new experiences in almost all areas of life. A salient feature of it is 'the notion that these experiences constitute "disenchantment" -implying a direct access to reality, a stripping away of myth, magic, and the sacred'. This is, according to Asad, 'a product of nineteenth-century romanticism, partly linked to the growing habit of reading imaginative literature -so that images of a "premodern" past acquire in retrospect a quality of enchantment <ref type="bibr">' (2003, 13-14)</ref>. Hüseyin Rahmi's work, in this sense, can be taken as carefully locating the 'supernatural' in an enchanted and undeveloped past and marking the impossibility of the agency of Gods, ghosts, and monsters. The same things can be said for his views of gender and sexuality. At first glance, he seems to support the emergent norms of heteronormativity, reproductive nuclear family, and women's rights with caution against the ills and excesses of Western lifestyles. Thus, he seems to agree with the writers and intellectuals of his time, who wanted to erase or forget the 'homoerotic' tradition they inherited from their predecessors. This is the portrayal of Hüseyin Rahmi drawn by himself and modern Turkish literary history known for its (witting or unwitting) exclusion of the works by minoritised and marginalised groups and women writers until recently (see <ref type="bibr" target="#b29">Mignon 2021)</ref>. There are also a number of biographical sidenotes registered as evidence of Hüseyin Rahmi's attraction to men: he never got married (to a woman); he was good at making jams and knitting; and his ability to tell these stories ('old wives' tales') vividly results from his upbringing among old women <ref type="bibr">(Adıvar 1944a</ref>). Nevertheless, neither these sidenotes nor Hüseyin Rahmi's idiosyncratic enthusiasm for monsters and ghosts that populated his vast corpus almost in its entirety has significantly changed the understanding of his work. But then, why do the dead keep haunting the living? What disturbs them? Why can the past not stay in its historical graveyard but hover over the present and not let the future unfold? Why is reproduction (futures of the nation-state) always blocked by some apparitions? I argue that the queer in this corpus eludes the history that places it in its proper location and social function and makes it out of joint. Therefore, it unsettles the empty, homogenous, and linear history of the nation-state and its 'body' built upon the 'futures' of heteronormative reproductivity.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Queer hauntology</head><p>'Queer' is a contentious term, especially in the context of an equally contentious geopolitical region called the 'Middle East'. Although initially invented as a term that defies any binary identity category, it is often employed by those who define themselves through LGBTQ + identities. These identity categories have long challenged the established and dominant binary gender system and heteronormativity, but certain forms of this identity have also created their own (homo-)normativity <ref type="bibr" target="#b12">(Duggan 2003)</ref>. Associating it with what she calls 'homonationalism', Jaspir Puar, for example, points out that queer (non-)normative subjectivity can play into the hands of the modern state's exclusion mechanisms. This has produced a self-defined Western liberal democracy 'tolerant' of queer/nonbinary identities that dehumanises the figure of the homophobic Muslim terrorist and the so-called Islamic world <ref type="bibr" target="#b32">(Puar 2007)</ref>. Similarly, Joseph Massad advances two related critiques of queer normativity in a series of highly debated writings <ref type="bibr">(2002,</ref><ref type="bibr">2007)</ref>. Considering any 'non-normative' form of sexuality an expression of 'gay' and 'queer' identity, Western gay rights activists devise projects of 'saving' these people from the homophobic authoritarian states of the Arab Middle East. However, such projects with colonial undertones, Massad notes, often end up putting poor and lower-class individuals practicing same-sex relations in these regions under the state's spotlight, exposing them to further violence. That is, the queer, taken for granted as a readily applicable progressive identity, is prone to reproducing the power relations it seeks to critique when it is unable to attend to the changing and dynamic nature of norms and normativities (see <ref type="bibr" target="#b38">Wiegman and Wilson 2015)</ref>.</p><p>I do not call Hüseyin Rahmi's identity or his work queer in this sense. Instead, I use the term as an analytical and methodological tool that does not refer to a reality, an object, or an identity. Queer deconstructs any binary, including the one between language and reality, concept and object, signifier and signified. It refuses to stabilise the binary between the normative and the non-normative or anti-normative, attending to the changing nature of the norm/normative and the power-resistance dialectic. As it refuses the heteronormative binary gender system, it critiques other interdependent structures that this system cannot be disentangled from. The queer in Hüseyin Rahmi queers history, the nation-state, and the formation of national subjects by disturbing both the clear-cut distinction between the past, the present, the future, and the secular homogenous time where only ('normal') human beings can be agents, while 'monsters' are deprived of agency.</p><p>Queer, then, is always untimely and haunting. The past is never dead but constantly haunts the present, endangering the (reproductive) future it is supposedly driven at <ref type="bibr" target="#b15">(Fradenburg and Freccero 1996)</ref>. In the linear conception of history, certain pasts are rendered dead, and the present is independent of those pasts. To create secular national selves for the present, 'supernatural' entities must be carefully constructed as things, 'irrational beliefs', of the past. Capitalism, for example, needs a pre-capitalist, undeveloped, agrarian past as its outside to construct itself as the most developed stage in a singular linear history. Noting that this stems from a historicism built into history, Dipesh Chakrabarty points out that we tend to see peasants, for example, as relics and survivals from a dead world. This essential historicist idea is 'what allows us to think that the "agency of the supernatural" is a problem from the past surviving … in a disenchanted present <ref type="bibr">' (1997, 49)</ref>. In his critique of history, Chakrabarty points out that history and the historian can never deal with, for example, a peasant who ascribes the agency for their rebellion to a god, despite the historian's intention to give voice to the 'subaltern'. History, as a rational, public, secular discourse, can never explain an event with reference to gods' agency and actions. So, gods or other supernatural entities must always be seen as part of the subaltern's 'beliefs', and these beliefs are often implicitly registered as things that belong to the past and a phenomenon of un(der)development.</p><p>Nevertheless, according to Chakrabarty, tracing the 'subaltern histories' history cannot afford can help us see the limits of history in the sense that we can see how the present fashions itself as different from a certain dead past and yet is constantly haunted by this past and by the dead. It shows us, as Chakrabarty suggests with reference to Jacques Derrida (1994), the ways in which the present/history is 'out of joint' and 'noncontemporaneous with itself' <ref type="bibr">(Chakrabarty 2000, 111)</ref>. It destabilises the taken-forgranted distinction between there-and-then and here-and-now and the purported superiority of the latter. In Hüseyin Rahmi's work, this queer haunting appears in the form of witches, ghosts, spirits, jinns, and monsters, and their dealings with the rapidly changing times. This haunting is often directed at the emerging norms of the heteronormative binary gender system. Writing in a traumatic social and political milieu, Hüseyin Rahmi often reveals or at least implies that there is something disturbing and violent that animates the dead. There is unfinished business, and this does not allow us to bury the dead and erect a tombstone to commemorate them.</p><p>As Avery Gordon suggests, however, 'haunting is not the same as being exploited, traumatised, or oppressed, although it usually involves these experiences or is produced by them <ref type="bibr">' (2008, xvi)</ref>. What distinguishes haunting is that 'it is an animated state in which a repressed or unresolved social violence is making itself known <ref type="bibr">' (2008, xvi)</ref>. In haunting, what is repressed as dead keeps returning in uncanny ways. Gordon suggests that the spectres the haunting raises change the experience of being in time and unsettles the distinction between the past, the present, and the future. The ghost, in this sense, 'is not the invisible or some ineffable excess … The whole essence … of a ghost is that it has real presence and demands its due, your attention <ref type="bibr">' (2008, xvi)</ref>. Refusing to stay in their given graves, the 'dead' return as ghosts and demand our attention. That is why in Hüseyin Rahmi, faced with the making of the nation-state and its heteronormative binary gender, the monsters of the past -repressed as dead -come to haunt the present by refusing their tombstones. They refuse to honour their tombstones and haunt the present that wants to bind them to their graves.</p><p>Carla Freccero, in her account of queer history, citing Michel de Certeau, criticises what Certeau calls 'necrological' and 'melancholic' models of historicity. In the necrological model, we bury the dead and erect tombs to 'commemorate' them, but the past has no bearing on the present because it is dead. The melancholic model, on the other hand, is more attentive to trauma, yet it often turns into the historian's effort 'to "understand" or master the past with meaning and discourse' <ref type="bibr">(Freccero 2006, 76-77)</ref>. In queer hauntology (or spectrality, as Freccero calls it), however, we are required to attend to the past and the dead effectively and affectively, which demands the withdrawal of our modern conceptions of temporality because ghosts belong neither entirely to the past nor to the present. This queer hauntology is not a nostalgic longing or mourning for what is lost but an affective attentiveness to, and a 'hearing' of, ghostly 'matters'. That is perhaps why Hüseyin Rahmi takes great pleasure in writing about ghosts, spectres, and monsters. His work insists on finding ways to hear the 'invisible', the 'unreal', and the 'immaterial'. As Freccero points out, '[t]he past is in the present in the form of a haunting <ref type="bibr">' (2006, 80)</ref>. A queer history takes this as the starting point, which 'involves an openness to the possibility of being haunted, even inhabited, by ghosts. What is transmitted in the cohabitation of ghostly past and present is related to survival, to "living well" … that have little to do with normative understandings of biological reproduction' <ref type="bibr">(Freccero 2006, 80)</ref>. Hüseyin Rahmi's pleasure and enthusiasm in writing about ghosts and spectres is perhaps his way of 'living well' in difficult times, a form of survival that has no interest in reproduction, especially the reproduction of the nation-state.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Cadı (The Witch, 1912)</head><p>Hüseyin Rahmi has superb skills at giving voice to different characters, especially women from all different strata and cultural backgrounds, and letting them speak in their own ways. For instance, his novels, stories, and plays often include quite nuanced portrayals of foreign-educated women with feminist inclinations and women's rights consciousness; the black servants with broken Afro-Turkish accents who were present in almost all pasha households in the late Ottoman period; the old wives and widows with superstitious beliefs; the liminal and outcast figures such as hermaphrodites and abandoned women pushed to the margins by emerging norms of subjectivity, gender, and reproduction. Cadı and Dirilen İskelet are two of the works where these characters and many more are brought to life.</p><p>Cadı is part of a planned trilogy that Hüseyin Rahmi named 'Garaib Faturası' (The Monster/Freak Series) -Gulyabani, written a year earlier, is also part of this series and the third book was never published. Cadı opens with the story of Fikriye, a widow living in her uncle's house after her husband's disappearance, whose aunt, Emine, forces her to marry a widower, Naşit Nefi Efendi. His last wife divorced him, and the previous one passed away. Already hesitant to marry another man, Fikriye senses that there is something wrong with him, not only because the aunt and other intermediary women are in a hurry to marry her to him, but also because of the rumours circulating about his haunted house. With the intervention of an old, trustable woman, Hasibe Hanım, who has heard about the potential marriage, the women decide to learn the whole story about these rumours by talking to Naşit Nefi Efendi's previous wife, Şükriye, who divorced him and is now happily married to another man. Since her time in the house had been so painful, traumatic, and shocking, Şükriye turned it into a written story so that she could remember and recount her experience in as detailed a manner as possible. The story she tells makes up the novel's core.</p><p>Just before Şükriye starts reciting her story, a female servant with an unruly body, almost in the form of a hermaphrodite, appears in the room to serve coffee to the visitors. Şükriye tells the others that her husband named her 'Nazikter' -'nazik' means polite, kind, or courteous, and the Persian suffix '-ter' adds the meaning of superlative -and by way of a joke, she lets others know that it was her husband's wishful thinking that played a role in this naming. By naming her this way, he wanted her to be kinder, softer, and perhaps womanlier, but, Şükriye notes, this did not work out. The visitors burst into laughter at Nazikter's clumsiness and shame her (2021b, 65-68). Nazikter never appears again.</p><p>She is a minor figure in the book and socially pushed to the margins because she cannot appear and act womanly -she has thick hair and a sizeable masculine body. Nevertheless, her 'monstrous' figure appears at the beginning of the story, which contains witches, ghosts, and spectres. Hüseyin Rahmi's novels almost always include marginal figures like Nazikter. Although marginal (textually and socially), they usually appear at the threshold of the stories right before they begin to be populated by spectres.</p><p>The gist of Şükriye's story is that Naşit Nefi Efendi's dead wife, Binnaz, becomes a witch after Naşit Nefi Efendi's marriage with Şükriye, and haunts the house, resulting in a series of weird and scary events. Every night, the witch brings her kids a basket of candies and delights; her ghost sometimes appears to neighbours and those who work in the house; she leaves notes in Naşit Nefi Efendi's pockets; and she moves things in the house to prevent the new marriage's consummation. At some point, we learn that Binnaz was not as beautiful as Naşit Nefi Efendi's current wife, and apparently Naşit Nefi Efendi did not love and care for her as much as he now cares for Şükriye. This situation profoundly disturbs the dead wife, and her ghost never lets Naşit Nefi Efendi and his new wife live on, leaving her memory behind. She brings the past trauma into the present and interrupts their future. Through the notes she leaves in Naşit Nefi Efendi's pockets, which say that they will die if they have sex, she literally threatens reproductive futurity (see <ref type="bibr" target="#b3">Altınay 2018)</ref>. Although Naşit Nefi Efendi is pretty sure that somebody is designing this game of ghosts and spectres, the couple cannot find out who is behind the scenes. They try everything; they even hold a séance to communicate with the spirit of Binnaz. Still, those who are deeply suspicious about the existence of ghosts, especially Naşit Nefi Efendi and Şükriye's father, cannot find anything that confirms their suspicion.</p><p>Eventually, thinking that she would be killed by the witch sooner or later, Şükriye decides to divorce Naşit Nefi Efendi. After dissemination of the events by word of mouth, no woman, however desperate they are, ever wants to marry Naşit Nefi Efendi, and he has to spend his entire life as a lonely widower. Years later, he receives a letter from his old neighbour's son. With an apologetic and ashamed tone, the letter explains the mystery that became a lifetime misery for Naşit Nefi Efendi. Before her death, Binnaz had made a secret agreement with her next-door neighbour and her closest friend. Whoever died first, the remaining party would prevent the other's husband from having a happy marriage with another woman. The apparitions were thus created by Naşit Nefi Efendi's next-door neighbour with the help of a secret tunnel that connects the two houses. The neighbour's son figured out all the details when he discovered the secret tunnel, Binnaz's belongings, and other items that his mother had used to stage the ghost play. Upon understanding that his mother planned and executed all the tricks that condemned Naşit Nefi Efendi to solitude, his conscience weighed on him, and he decided to confess everything to Naşit Nefi Efendi.</p><p>As he explains in his response to the critics, most notably Şehabaddin Süleyman, who found his works lowbrow, Hüseyin Rahmi claims that Cadı is a work for people's sake, as the story, on the surface, tells the reader how irrational and outdated the existence of ghosts and witches is. If ghosts and witches appear, there must be some rational explanation (Hüseyin Rahmi 2022). It must be a human-made trick. Like Gulyabani, Cadı has a rational explanation, a moral for the reader. In Gulyabani, the explanation is that the tricks that created Gulyabani the monster are meant to acquire the house by scaring its inhabitants, while in Cadı, the ghosts come to life through an oath made between two close friends to prevent each other's husbands from marrying another woman.</p><p>Yet, even when a rational explanation is provided, haunting can still occur because it is not about what happened to the dead but what lives on, what remains of them in the living. What lives on from a dead wife, from Binnaz, is a friendship, an oath, and a feeling of abandonment and jealousy, a broken and disturbed soul who thinks she was not loved enough. All these emotions in the form of spectres do not let Naşit Nefi Efendi's household live on. Perhaps that is also why Hüseyin Rahmi's writing reflects the constant anxiety around changing times and society, what is so quickly abandoned to the graveyard of the past, and what is erased from social memory with haste. He raises a question: are those times really gone, dead? Are the dead themselves really dead?</p><p>Undoubtedly, the tension surrounding the changing times marks nineteenth-century Ottoman Turkish literature. Like most of this literature, there is usually a moral in Hüseyin Rahmi, but it always comes with its own problematisation. Stories with a pregiven moral, a lesson, about the changing times already know what is past and what is to come. In Hüseyin Rahmi's work, however, what one finds is a conflation of times and temporalities to the point that one cannot tell the past from the present. Just as the past haunts the present and a dead wife haunts her husband, the forgotten 'homoeroticism' and 'ungendered' bodies of the past haunt the heteronormative-reproductive binary gender; the marginalised and minoritised figures haunt the homogenous nation-state from the social and textual margins, and the undeveloped superstitious past haunts the secular national selves and their 'faith' in the disenchanted present. Perhaps that is why there is also a conflation of monsters, why Nazikter's 'monster' appears briefly at the beginning of the story about the witch. The story, filled with monsters, ghosts, and spectres, begins after her mute and shadowy appearance. The 'monstrosity' of the hermaphrodite perhaps morphs into ghostly, spectral events that halt the reproduction of the family (and the nation). The reproductive function of the family is interrupted and replaced by a figural monstrous coupling of Nazikter with Binnaz, a masculine-looking woman with the ghost of an 'ugly' and disturbed wife. Couplings and conflations of this kind are not uncommon in Hüseyin Rahmi's work. They appear in Dirilen İskelet as well.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Dirilen İskelet (The skeleton that comes to life, 1923)</head><p>Dirilen İskelet is a much more open-ended narrative than Cadı. The story takes place when İstanbul was under the occupation of the British and other allied forces <ref type="bibr">(1918)</ref><ref type="bibr">(1919)</ref><ref type="bibr">(1920)</ref><ref type="bibr">(1921)</ref><ref type="bibr">(1922)</ref><ref type="bibr">(1923)</ref>. Tayfur and Doctor Ferhat are educated young men with explicit beliefs in positive science and materialism. At night, they secretly sneak into a nearby graveyard on their bikes and dig graves to collect suitable bones to complete a skeleton in Tayfur's house. In their excursions to the graveyard, though, they start encountering strange occurrences, where certain apparitions and spectres emerge, and some of the skeletons begin to come to life with their burial robes on. The neighbours, who were already uncomfortable with Tayfur and Ferhat for disturbing the dead rather than letting them rest in peace, say that they deserve to be chased, haunted, and possessed by the spirits of the dead. At some point, almost leaving aside the skeleton project, Tayfur and Ferhat turn their trips to the graveyard into an attempt to find out who is behind these tricks and to find a rational explanation for the superstitious beliefs of the neighbours spreading these rumours.</p><p>As a result of their investigations in the graveyard and surrounding areas, they finally discover signs that they think will help them solve the mystery. While chasing skeletons, they discover that some people dress a herd of goats to look like ghosts and release them to the graveyard. Finally, they get hold of a piece of American fabric with a feminist slogan written in English: 'Woman was born to be the companion of man, not his slave' <ref type="bibr">(Hüseyin Rahmi 2021c, 172)</ref>. Since this is a fabric that few have access to, they chase it down to houses on the outskirts of the graveyard to find out to whom it might belong. There, they encounter a gossipmonger 'kocakarı', a lonely old widow who lives in a dilapidated house. The narrator notes that if these men came across this woman in the graveyard at night, they would immediately shoot her, thinking that this was the 'witch' (cadı) they had been after (2021c, 163). Eventually, they learn from the old woman that the dressed goats entered the house of a woman named Banu last night.</p><p>Banu is the daughter of a renowned deceased pasha. The kocakarı points them to Banu's house, much to the men's surprise that a pasha's daughter lives in a desolate house near a graveyard. Noticing this, the woman explains that Banu's family had a big mansion in Cihangir, which is currently occupied by the British, so they have nowhere else to go. This house belongs to the family's freed black servant and nanny, Arap Gece Safa, perhaps given to her after being freed. The black people in the Ottoman Empire and Turkey would often be called Arab, and 'gece' means night, a nickname referring to skin colour. These black women servants in pasha houses, as 'reminders' and 'remainders' of old times, are one of the recurring 'marginal' characters of Hüseyin Rahmi's novels. The call for the abolition of Ottoman slavery was a heated issue of the Tanzimat period, especially after the emergence of abolitionism in the West. The Ottomans mostly debated the issue to repress its violent memory to avoid negative opinions and backlash from the Western powers <ref type="bibr" target="#b36">(Toledano 1993</ref>) while trying to participate in the scramble for Africa alongside Europeans (see <ref type="bibr" target="#b30">Minawi 2016)</ref>. Arap Gece Safa was once a slave and was freed after, but probably not immediately after, the abolition of slavery in the Ottoman Empire.</p><p>Like Nazikter in Cadı, Arap Gece Safa, another marginal figure, stands at a threshold. She is a literal gatekeeper in the book because she is the one who gets the door in the house. She is another 'relic' from the past, haunting the present from the social and textual margins. The central story of the novel (i.e. Tayfur falling in love with Banu) unfolds only after the appearance of Arap Gece Safa. (However, unlike Nazikter, she appears multiple times throughout the novel). The same could be said for the kocakarı the narrator called 'witch'.</p><p>The young men send Tayfur to the house to talk to Banu and learn whether she has an involvement with the strange events in the graveyard. Banu received her education in an American college and is a beautiful woman with feminist inclinations. Tayfur immediately falls in love with her. He cannot even ask the questions he was supposed to ask. When he gestures toward their suspicions that Banu and her friends have been staging the play of ghosts in the graveyard, Banu refutes the accusation in a way that makes Tayfur ashamed of himself for asking. Although Tayfur cannot learn the whole story, it is evident to all that Banu is the one who designed the trick with her friends because she is the only person who could own the American fabric with the English sentence on it. During their conversation, Tayfur also mentions the skeleton project they are working on. Banu tells him she would wish to see it when it is done.</p><p>To be able to see Banu again, Tayfur completes the skeleton quickly. He then leaves a note for Banu, letting her know that she can come and see it. He receives no response and spends his days desperately waiting. In the meantime, he breaks up with his lover Nasıra, who works as a servant in Tayfur's mansion. Although Tayfur had previously promised to marry her, his love for Banu now consumes him while putting Nasıra in great pain. Nevertheless, Nasıra begs Tayfur to allow her to stay in the house as a servant, promising that he will never see her unless he wants to. Tayfur accepts her demand.</p><p>Nasıra turns into a 'witch' inside the house over time. Due to her pain, she develops a kind of divine, transcendental vision, makes prophecies, heals neighbour's children with her powers, and talks to rats and otherworldly creatures. She prophecies that Tayfur will eventually marry Banu, but their marriage will have catastrophic consequences. Nasıra also develops an intimate relationship with the skeleton. She becomes both the skeleton's lover and servant. Calling it hazret (excellency), she even has sex with him. We see another coupling here: the poor betrayed woman transformed into a witch is coupled with a skeleton that Tayfur and others brought to life by disturbing the dead. They transgress the limits of life and death, natural and supernatural, and the past and the present (see <ref type="bibr">Mignon 2021, 185)</ref>.</p><p>Nasıra's prophecy comes true. Tayfur finally marries Banu. As it turns out, Banu agreed to marry him only for his wealth and introduces her true lover, Cevri, as a close relative in need of shelter. He thus comes to live with them after their marriage. Although they are married, Tayfur cannot have sex with Banu because Cevri follows them everywhere, and Banu constantly finds excuses for his presence. Once again, reproductive activity is blocked in Hüseyin Rahmi's narrative. Eventually, Tayfur gives up trying to be with Banu; he withdraws from life and falls ill. In the meantime, Banu and Cevri start enjoying themselves in the mansion. Their actions anger the skeleton. On one of these days, the skeleton attacks them, and his attack results in Cevri's insanity and Banu's death. The book ends with a question: 'Can the murder court sentence a skeleton by the witnessing of two mad people? Here is the question that every single judge will hesitate to answer forever … ' (2021c, 341, all translations mine).</p><p>Tayfur's progressive conception of time condemns him to misery through the monstrous coupling of Nasıra and the skeleton. Tayfur never doubts his faith in a teleological-progressive understanding of time. When he was trying to trick Nasıra into being with him for the first time, he tells her, In terms of manners, you try to be like those girls forty years ago. Those times have changed. The past is almost a fable now. When it comes to the matter of love, a young woman can openly tell a young man all her feelings now. Genuine connections between souls are established through such candid confessions. This is not a shame anymore but praised (2021c, 121).</p><p>Similarly, while fighting against apparitions in the graveyard, he encourages his crew by telling them, 'We, the children of the twentieth century, must save our future generations from our grandfathers' superstitions … As you know, humans won every truth and every freedom of thought by risking their lives <ref type="bibr">' (2021c, 153)</ref>. The past is a graveyard for Tayfur. It is simply dead and death means oblivion. The dead can have no effect on the living and the present. It is precisely for this reason that he does not hesitate to disturb them to collect their bones and does not hesitate to betray Nasıra. In return, becoming ghosts, they haunt him and his belief in progressive rational temporality, the temporality of the nation-state and its reproduction. In Hüseyin Rahmi's work, this rational forward movement is constantly interrupted by the marginalised and the minoritised. They force time to be out of joint. They queer it with their undefinable and ugly bodies by being rem(a)inders of a violent social order built upon slavery, genocide, and massacre (see <ref type="bibr" target="#b37">Uslu 2022)</ref>. This seems to be how Hüseyin Rahmi's queer hauntology still haunts the present and throws time out of joint when read otherwise, perhaps also making the 'times' history places him out of joint.</p><p>Once again, one can consider him historically to be an expression of the national, as a man and educator of the nation and the times of its making. Cadı can be seen as a manifestation of the widespread misogyny and heteropatriarchy of those times that warn against the excessively 'Westernised' woman (i.e. Banu) and her catastrophic effects on the institution of the reproductive family. Likewise, his interest in and enthusiasm for spirits and spectres could also be interpreted as a search for some spirituality and religiosity in times of 'disenchantment', followed by a top-down secularisation imposed by the Kemalist state (see <ref type="bibr" target="#b35">Soyubol 2021)</ref>. All these might be true, but only repeating the empty and homogenous time (where ghosts and monsters can claim no agency) of history created by the nation-state, which in turn becomes its condition of possibility. Furthermore, as Martin Heidegger once asked, '[w]hy should the historical conditions be historiographically more accessible than what is historically conditioned?' (2018, 2). Hüseyin Rahmi's queer haunting calls into question those 'conditions' that made history possible.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Conclusion</head><p>Hüseyin Rahmi wrote in a war-stricken, violent, and deeply traumatised time and place. The times were changing while he was writing. The colonial technology of the nationstate was bringing about a new kind of time, that is, empty and homogenous, secular and continuous, heteronormative and reproductive. This time is divided into the past, the present, and the future. The past is dead, and the present, the peak of historical progress (for now), carries more developed futures 'in its womb'. His writings, however, awaken the dead and let them haunt the living, stop reproductive futurity, assign life and agency to those who cannot be agents in history, disturb the homogeneity of the nation from the margins, and make the violence that created the illusion of homogeneity known. They force time to be out of joint, including Hüseyin Rahmi's own time in which he stands as yet another nationalist modernisationist secular writer with perhaps some conservative undertones in a certain dead past within literary history.</p><p>In this essay, paying closer attention to the 'sidenotes' of this history, I have discussed how his work might perform a queer hauntology that defies this portrayal. By queer hauntology, I mean a work that resists history while being specifically located in it and challenges the entire colonial system of binaries inscribed into the empty and homogenous time of history. As a queer project, it undoubtedly resists the binary gender system but also recognises that this system cannot be disentangled from the remaining binaries that constitute the colonial technology of the nation-state. This project is also haunting because it never lets the dead die but pays attention to what lives on from the dead to find ways of survival in difficult times without reproducing those times. It is not a longing or a nostalgia for what is gone, nor does it assign the author to his 'proper' place and period in history. Instead, it challenges the propriety of historical places, periods, tombstones, and graveyards to make the present noncontinuous with itself. This queer hauntology raises, conflates, and couples monsters, ghosts, spectres, and witches, which have no place in a disenchanted and straightened history.</p><p>To illustrate this hauntology, I have paired two of Hüseyin Rahmi's works from the early twentieth century: Cadı and Dirilen İskelet. They form a good case for comparison. Hüseyin Rahmi and literary historians understand the former work in terms of the writer's mission to help people dissipate superstitions of the past. Because of negative reviews of Cadı as 'lowbrow', Hüseyin Rahmi conceptualised his work as 'art for people's sake' by providing rational explanations in his stories for the appearance of ghosts and witches to disabuse his popular readership. I have tried to show that there are elements that call into question this making sense of his work. In Dirilen İskelet, the narrative is more open-ended; the mystery of the skeleton that comes to life is not solved, but rather, the disturbed and abandoned monsters of the past haunt the present. In both novels, haunting the present also means haunting the future because the monsters block their target's ability to reproduce. In both, the story begins only after the appearance of the marginalised and the minoritised: the monstrous body of the hermaphrodite, the freed black servant, and the abandoned women; that is, the 'relics' of a violent past. In both, ghosts and witches are the agents of a history that, in the secular nation-state, denies their existence. History is put in place against them and can only afford the agency of national secular 'human' subjectivities and selves. Hüseyin Rahmi's ghosts still haunt Turkey today as we witness high levels of state violence and repression against minoritised groups, nonnormative subjects, and unruly bodies. These ghosts can help us 'see' our present from a different angle, from another world, from an 'otherworldly' world. Hüseyin Rahmi's queer writing invites us to see beyond the simplistic binaries shaped and solidified in and by history. They are historically shaped, but seeing beyond them might not be achieved within history but perhaps at its limits, limits that are inhabited by monsters, ghosts, spirits, witches, and 'others' against which this history is made.</p></div>			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="4" xml:id="foot_0"><p>E. KESER</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="6" xml:id="foot_1"><p>E. KESER</p></note>
+		</body>
+		<back>
+
+			<div type="acknowledgement">
+<div><head>Acknowledgements</head><p>I am grateful to <rs type="person">Carla Freccero</rs> for her extensive feedback, which has been of immense help in bringing the paper to its final version. Some of the ideas here came to fruition thanks to the lively discussions in Vanita Seth's graduate seminar '(Un)Doing History'. A thank you to <rs type="person">İpek Şahinler</rs> for her patience and guidance with the preparation of the article. Thanks also to anonymous reviewers for their criticisms and suggestions.</p></div>
+			</div>			<div type="annex">
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Disclosure statement</head><p>No potential conflict of interest was reported by the author(s).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Notes on contributor</head><p>Emre Keser is a PhD student in the History of Consciousness Department at the University of California, Santa Cruz.</p></div>			</div>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<analytic>
+		<title level="a" type="main">Hüseyin Rahmi&apos;nin Eserleri Arasında 1</title>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">E</forename><surname>Adıvar</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Akşam</title>
+		<imprint>
+			<biblScope unit="volume">9151</biblScope>
+			<date type="published" when="1944">1944</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<monogr>
+		<title level="m" type="main">Hüseyin Rahmi&apos;nin Eserleri Arasında 2</title>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">E</forename><surname>Adıvar</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1944">1944</date>
+			<biblScope unit="page">9152</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title level="a" type="main">Hüseyin Rahmi&apos;nin Eserleri Arasında 3</title>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">E</forename><surname>Adıvar</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Akşam</title>
+		<imprint>
+			<biblScope unit="volume">9153</biblScope>
+			<date type="published" when="1944">1944</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title level="a" type="main">Staging Queer Marxism in the Age of State Feminism: Gender, Sexuality, and the Nation in Hüseyin Rahmi Gürpınar&apos;s Kadın Erkekleşince (When Woman Becomes Masculine)</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">E</forename><surname>Altınay</surname></persName>
+		</author>
+		<idno type="DOI">10.1353/cdr.2018.0011</idno>
+		<ptr target="https://doi.org/10.1353/cdr.2018.0011" />
+	</analytic>
+	<monogr>
+		<title level="j">Comparative Drama</title>
+		<imprint>
+			<biblScope unit="volume">52</biblScope>
+			<biblScope unit="issue">3-4</biblScope>
+			<biblScope unit="page" from="243" to="273" />
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<monogr>
+		<title level="m" type="main">Imagined Communities: Reflections on the Origin and Spread of Nationalism</title>
+		<author>
+			<persName><forename type="first">B</forename><surname>Anderson</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1983">2006. 1983</date>
+			<publisher>Verso</publisher>
+			<pubPlace>London</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<monogr>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">G</forename><surname>Andrews</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Mehmet</forename><surname>Kalpaklı</surname></persName>
+		</author>
+		<title level="m">The Age of Beloveds: Love and the Beloved in Early-Modern Ottoman and European Culture and Society</title>
+		<meeting><address><addrLine>Durham, NC</addrLine></address></meeting>
+		<imprint>
+			<publisher>Duke University Press</publisher>
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<monogr>
+		<author>
+			<persName><forename type="first">T</forename><surname>Asad</surname></persName>
+		</author>
+		<title level="m">Formations of the Secular: Christianity, Islam, Modernity</title>
+		<meeting><address><addrLine>Stanford, CA</addrLine></address></meeting>
+		<imprint>
+			<publisher>Stanford University Press</publisher>
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title level="a" type="main">Theses on the Philosophy of History</title>
+		<author>
+			<persName><forename type="first">W</forename><surname>Benjamin</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Illuminations</title>
+		<editor>
+			<persName><forename type="first">Hannah</forename><surname>Arendt</surname></persName>
+		</editor>
+		<meeting><address><addrLine>New York</addrLine></address></meeting>
+		<imprint>
+			<publisher>Schocken Books</publisher>
+			<date type="published" when="2007">2007</date>
+			<biblScope unit="page" from="253" to="265" />
+		</imprint>
+	</monogr>
+	<note>translated by Harry Zohn</note>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title level="a" type="main">The Time of History and the Times of Gods</title>
+		<author>
+			<persName><forename type="first">D</forename><surname>Chakrabarty</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">The Politics of Culture in the Shadow of Capital</title>
+		<editor>
+			<persName><forename type="first">Lisa</forename><surname>Lowe</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">David</forename><surname>Lloyd</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Durham, NC</addrLine></address></meeting>
+		<imprint>
+			<publisher>Duke University Press</publisher>
+			<date type="published" when="1997">1997</date>
+			<biblScope unit="page" from="35" to="61" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<monogr>
+		<title level="m" type="main">Provincializing Europe: Postcolonial Thought and Historical Difference</title>
+		<author>
+			<persName><forename type="first">D</forename><surname>Chakrabarty</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2000">2000</date>
+			<publisher>Princeton University Press</publisher>
+			<pubPlace>Princeton, NJ</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title level="a" type="main">Women&apos;s Bodies, Demography, and Public Health: Abortion Policy and Perspectives in the Ottoman Empire of the Nineteenth Century</title>
+		<author>
+			<persName><forename type="first">T</forename><surname>Demirci</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Selçuk</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Somel</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of the History of Sexuality</title>
+		<imprint>
+			<biblScope unit="volume">17</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="377" to="420" />
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<monogr>
+		<title level="m" type="main">Foucault&apos;s Futures: A Critique of Reproductive Reason</title>
+		<author>
+			<persName><forename type="first">P</forename><surname>Deutscher</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2017">2017</date>
+			<publisher>Columbia University Press</publisher>
+			<pubPlace>New York</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<monogr>
+		<author>
+			<persName><forename type="first">L</forename><surname>Duggan</surname></persName>
+		</author>
+		<title level="m">The Twilight of Equality: Neoliberalism, Cultural Politics, and the Attack on Democracy</title>
+		<meeting><address><addrLine>Boston, MA</addrLine></address></meeting>
+		<imprint>
+			<publisher>Beacon Press</publisher>
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<monogr>
+		<author>
+			<persName><forename type="first">L</forename><surname>Edelman</surname></persName>
+		</author>
+		<title level="m">No Future: Queer Theory and the Death Drive</title>
+		<meeting><address><addrLine>Durham, NC</addrLine></address></meeting>
+		<imprint>
+			<publisher>Duke University Press</publisher>
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<monogr>
+		<title level="m" type="main">Society Must Be Defended&quot;: Lectures at the Collège de France</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Foucault</surname></persName>
+		</author>
+		<editor>Mauro Bertani and Alessandro Fontana</editor>
+		<imprint>
+			<date type="published" when="2003">2003</date>
+			<publisher>Picador</publisher>
+			<biblScope unit="page" from="1975" to="1976" />
+			<pubPlace>New York</pubPlace>
+		</imprint>
+	</monogr>
+	<note>Translated by David Macey</note>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title level="a" type="main">Introduction: Caxton, Foucault, and the Pleasures of History</title>
+		<author>
+			<persName><forename type="first">L</forename><surname>Fradenburg</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Carla</forename><surname>Freccero</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Premodern Sexualities, Xiii-Xxiv</title>
+		<meeting><address><addrLine>New York</addrLine></address></meeting>
+		<imprint>
+			<publisher>Routledge</publisher>
+			<date type="published" when="1996">1996</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<monogr>
+		<author>
+			<persName><forename type="first">C</forename><surname>Freccero</surname></persName>
+		</author>
+		<title level="m">Queer/Early/Modern</title>
+		<meeting><address><addrLine>Durham, NC</addrLine></address></meeting>
+		<imprint>
+			<publisher>Duke University Press</publisher>
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<monogr>
+		<title level="m" type="main">Ghostly Matters: Haunting and the Sociological Imagination</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Gordon</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2008">2008</date>
+			<publisher>University of Minnesota Press</publisher>
+			<pubPlace>Minneapolis, MN</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">M</forename><surname>Heidegger</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1941">2018. 1941-1942</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<monogr>
+		<title level="m" type="main">Remembrance</title>
+		<author>
+			<persName><surname>Hölderlin's Hymn</surname></persName>
+		</author>
+		<editor>W. McNeill and J. Ireland</editor>
+		<imprint>
+			<publisher>Indiana University Press</publisher>
+			<pubPlace>Bloomington, IN</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">Hüseyin</forename><surname>Rahmi</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1911">2021. 1911</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<monogr>
+		<title/>
+		<author>
+			<persName><surname>Gulyabani</surname></persName>
+		</author>
+		<editor>Nilüfer Tunç. Ankara: Türk Dil Kurumu Yayınları</editor>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<monogr>
+		<title level="m" type="main">2021b [1912]. Cadı</title>
+		<author>
+			<persName><forename type="first">Hüseyin</forename><surname>Rahmi</surname></persName>
+		</author>
+		<editor>Selma Oğuz. Ankara: Türk Dil Kurumu Yayınları. Hüseyin Rahmi</editor>
+		<imprint>
+			<date type="published" when="1923">2021. 1923</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">Dirilen</forename><surname>İskelet</surname></persName>
+		</author>
+		<editor>Habibe Demir. Ankara: Türk Dil Kurumu Yayınları</editor>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">Hüseyin</forename><surname>Rahmi</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1913">2022. 1913</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">Edebiyat</forename><surname>Eleştirileri</surname></persName>
+		</author>
+		<editor>Aybüke Betül Doğan, et al. Ankara: Türk Dil Kurumu Yayınları</editor>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<monogr>
+		<author>
+			<persName><forename type="first">S</forename><surname>Mahmood</surname></persName>
+		</author>
+		<title level="m">Religious Difference in A Secular Age: A Minority Report</title>
+		<meeting><address><addrLine>Princeton, NJ</addrLine></address></meeting>
+		<imprint>
+			<publisher>Princeton University Press</publisher>
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b27">
+	<analytic>
+		<title level="a" type="main">Re-Orienting Desire: The Gay International and the Arab World</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Massad</surname></persName>
+		</author>
+		<idno type="DOI">10.1215/08992363-14-2-361</idno>
+		<ptr target="https://doi.org/10.1215/08992363-14-2-361" />
+	</analytic>
+	<monogr>
+		<title level="j">Public Culture</title>
+		<imprint>
+			<biblScope unit="volume">14</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="361" to="386" />
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b28">
+	<monogr>
+		<title level="m" type="main">Desiring Arabs</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Massad</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2007">2007</date>
+			<publisher>University of Chicago Press</publisher>
+			<pubPlace>Chicago, IL</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b29">
+	<monogr>
+		<title level="m" type="main">Uncoupling Language and Religion: An Exploration Into the Margins of Turkish Literature</title>
+		<author>
+			<persName><forename type="first">L</forename><surname>Mignon</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2021">2021</date>
+			<publisher>Academic Studies Press</publisher>
+			<pubPlace>Boston, MA</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b30">
+	<monogr>
+		<author>
+			<persName><forename type="first">M</forename><surname>Minawi</surname></persName>
+		</author>
+		<title level="m">The Ottoman Scramble for Africa: Empire and Diplomacy in the Sahara and the Hijaz</title>
+		<meeting><address><addrLine>Stanford, CA</addrLine></address></meeting>
+		<imprint>
+			<publisher>Stanford University Press</publisher>
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b31">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">B</forename><surname>Moran</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Türk Romanına Eleştirel Bir Bakış 1: Ahmet Mithat&apos;tan Ahmet Hamdi Tanpınar&apos;a. İstanbul: İletişim</title>
+		<imprint>
+			<date type="published" when="1983">1999. 1983</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b32">
+	<monogr>
+		<title level="m" type="main">Terrorist Assemblages: Homonationalism in Queer Times</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Puar</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2007">2007</date>
+			<publisher>Duke University Press</publisher>
+			<pubPlace>Durham, NC</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b33">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">E</forename><surname>Sarıtaş</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Cinsel Normalliğin Kuruluşu: Osmanlı&apos;dan Cumhuriyet&apos;e Heteronormatiflik ve İstikrarsızlıkları. İstanbul: Metis</title>
+		<imprint>
+			<date type="published" when="2020">2021. 2020</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b34">
+	<monogr>
+		<title level="m" type="main">Disability in the Ottoman-Arab World</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Scalenghe</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2014">2014</date>
+			<publisher>Cambridge University Press</publisher>
+			<biblScope unit="page" from="1500" to="1800" />
+			<pubPlace>Cambridge</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b35">
+	<analytic>
+		<title level="a" type="main">In Search of Perfection: Neo-Spiritualism, Islamic Mysticism, and Secularism in Turkey</title>
+		<author>
+			<persName><forename type="first">K</forename><surname>Soyubol</surname></persName>
+		</author>
+		<idno type="DOI">10.1017/S1479244319000246</idno>
+		<ptr target="https://doi.org/10.1017/S1479244319000246" />
+	</analytic>
+	<monogr>
+		<title level="j">Modern Intellectual History</title>
+		<imprint>
+			<biblScope unit="volume">18</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="70" to="94" />
+			<date type="published" when="2021">2021</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b36">
+	<analytic>
+		<title level="a" type="main">Late Ottoman Concepts of Slavery (1830s-1880s)</title>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">R</forename><surname>Toledano</surname></persName>
+		</author>
+		<idno type="DOI">10.2307/1773282</idno>
+		<ptr target="https://doi.org/10.2307/1773282" />
+	</analytic>
+	<monogr>
+		<title level="j">Poetics Today</title>
+		<imprint>
+			<biblScope unit="volume">14</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="477" to="506" />
+			<date type="published" when="1993">1993</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b37">
+	<analytic>
+		<title level="a" type="main">Hüseyin Rahmi Cehenneme Bakıyor</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">F</forename><surname>Uslu</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Türklük Bilgisi Araştırmaları</title>
+		<imprint>
+			<biblScope unit="volume">58</biblScope>
+			<biblScope unit="page" from="303" to="314" />
+			<date type="published" when="2022">2022</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b38">
+	<analytic>
+		<title level="a" type="main">Introduction: Antinormativity&apos;s Queer Conventions</title>
+		<author>
+			<persName><forename type="first">Robyn</forename><surname>Wiegman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Elizabeth</forename><forename type="middle">A</forename><surname>Wilson</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Differences: A Journal of Feminist Cultural Studies</title>
+		<imprint>
+			<biblScope unit="volume">28</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="1" to="26" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b39">
+	<monogr>
+		<title level="m" type="main">Producing Desire: Changing Sexual Discourse in the Ottoman Middle East, 1500-1900</title>
+		<author>
+			<persName><forename type="first">D</forename><surname>Ze'evi</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2006">2006</date>
+			<publisher>University of California Press</publisher>
+			<pubPlace>Berkeley, CA</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

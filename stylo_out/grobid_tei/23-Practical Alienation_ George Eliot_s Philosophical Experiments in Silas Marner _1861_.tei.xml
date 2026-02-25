@@ -1,0 +1,2097 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Practical Alienation: George Eliot&apos;s Philosophical Experiments in Silas Marner (1861)</title>
+				<funder ref="#_3RxQH9a">
+					<orgName type="full">NTU Research scholarship (Reg</orgName>
+				</funder>
+				<funder ref="#_KSwkGPE">
+					<orgName type="full">unknown</orgName>
+				</funder>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName><forename type="first">Rui</forename><surname>Qian</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department" key="dep1">English Division</orgName>
+								<orgName type="department" key="dep2">School of Humanities</orgName>
+								<orgName type="institution">Nanyang Technological University</orgName>
+								<address>
+									<country key="SG">Singapore</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">George</forename><surname>Haight</surname></persName>
+							<affiliation key="aff1">
+								<orgName type="institution">See Muscutt, &quot;George Eliot and Conservatism-Part II&quot;</orgName>
+							</affiliation>
+						</author>
+						<author>
+							<persName><surname>Eliot</surname></persName>
+							<affiliation key="aff1">
+								<orgName type="institution">See Muscutt, &quot;George Eliot and Conservatism-Part II&quot;</orgName>
+							</affiliation>
+							<affiliation key="aff1">
+								<orgName type="institution">See Muscutt, &quot;George Eliot and Conservatism-Part II&quot;</orgName>
+							</affiliation>
+							<affiliation key="aff1">
+								<orgName type="institution">See Muscutt, &quot;George Eliot and Conservatism-Part II&quot;</orgName>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">George</forename><surname>Ashton</surname></persName>
+							<affiliation key="aff1">
+								<orgName type="institution">See Muscutt, &quot;George Eliot and Conservatism-Part II&quot;</orgName>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">George</forename><surname>Nestor</surname></persName>
+							<affiliation key="aff1">
+								<orgName type="institution">See Muscutt, &quot;George Eliot and Conservatism-Part II&quot;</orgName>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Practical Alienation: George Eliot&apos;s Philosophical Experiments in Silas Marner (1861)</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date/>
+						</imprint>
+					</monogr>
+					<idno type="MD5">744FC7713E34E10F1A8A08AA264D7567</idno>
+					<idno type="DOI">10.1080/0013838X.2025.2509192</idno>
+					<note type="submission">Received 8 March 2024 Accepted 26 April 2025</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.0" ident="GROBID" when="2026-02-25T19:55+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term>George Eliot</term>
+					<term>Silas Marner</term>
+					<term>Karl Marx</term>
+					<term>Feuerbach</term>
+					<term>alienation</term>
+					<term>literature and philosophy</term>
+					<term>Rahel Jaeggi Levine, &quot;Introduction,&quot; 18. 2 Gatens, &quot;Chapter 25 Philosophy,&quot; 215</term>
+				</keywords>
+			</textClass>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>Moving beyond the extensively studied "influences" on George Eliot, the analysis reveals her original and unique ideas on alienation in Silas Marner. As evinced in this novel, Eliot not only coincides with Karl Marx's transition from Feuerbach's exposition of religious alienation to a more materialist perspective but also anticipates the "practical turn" in the development of alienation theory, resonating with the latest critique by Rahel Jaeggi. Eliot extrapolates a forward-looking theory while still retaining a distinctly Victorian drive by assigning the protagonist a father's role to overcome alienation. Her text helps expand on Jaeggi's notion that the seemingly individual-centred approach of roleplaying is potentially transformative for society as it indirectly modifies social conventions and produces dialectical negotiation between the individual and the objective situations.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>I. Introduction</head><p>Despite extensive studies on George Eliot's philosophical influences, a critical connection remains unexamined-literary scholarship has largely treated Eliot and Karl Marx as distinct intellectual figures. Yet this article argues for a profound and overlooked intellectual dialogue between them. This dialogue is nowhere more evident than in Eliot's Silas  Marner (1861). A close reading of this work reveals that Eliot not only echoes Marx's core ideas on the concept of alienation but also subtly adapts them, forging a new vision that anticipates a more contemporary formulation of alienation theory by Rahel Jaeggi. To substantiate this critical re-evaluation requires a survey of how existing scholarship has laid the groundwork and left a gap for this new interpretation. George Eliot's wide-ranging knowledge and experiences have served as a rich source for critics to examine how she integrates her learning into the literary output. It is customary for biographers to dedicate a chapter to Eliot's spectacular intellectual life, a fabric woven with her broad studies of diverse subjects. <ref type="bibr">1</ref> Eliot's editorial work in early adulthood provides a platform for her to communicate with many intellectuals, including J. S. Mill, Harriet Martineau, Thomas Huxley, and her life partner, G. H. Lewes. 2 Known for her translations of David Strauss's The Life of Jesus, Critically Examined (1846), Ludwig Feuerbach's The Essence of Christianity (1854) and Benedict Spinoza's Ethics (1856), Eliot has long been regarded as a well-established polymath. <ref type="bibr">3</ref> As a translator and writer, she is often seen as working into the artistic production the knowledge absorbed from her studies. For decades, critics have been exhausting her writing indefatigably to appraise how she adapts ideas of "Darwin, Huxley, Comte, Mill, Spencer, Lewes, Hennell, Strauss, or Feuerbach". <ref type="bibr">4</ref> Recently, the list goes on to include Hegel and others. 5 However, it is both intriguing and thought-provoking that one of the greatest intellectuals among Eliot's contemporaries, Karl Marx, should be absent from the constellation of Eliot's literary influences.</p><p>Until now, only a few critics have ventured to read Eliot and Marx together. Ian Milner observes that Eliot "dramatizes […] the experience of alienation, as a personal and a social process, in a way that recalls the ethical meaning given to it by Marx in his early writings". 6 However, Milner seems to expose the shared concerns of Eliot and the Marxist thinkers rather than Marx, and his reading is found to be "doctrinaire" at times, for example, in reading Adam Bede as a social type of worker-turned-petit bourgeois and judging the writer "by the standards of socialist realism". <ref type="bibr">7</ref> Yet it is acknowledged that Eliot's and Marx's simultaneous participation in the nineteenth-century "humanist movement" and their shared influence from Feuerbach validate a paired reading of the two. Taking over the task of studying Eliot and Marx as "Feuerbachian siblings," Nancy Cervetti compares more concretely how they develop their common predecessor's "materialist humanism" similarly yet criticise in different ways the Victorian values that confine individual development. <ref type="bibr">8</ref> Despite their distinct solutions proposed to address class struggle, Cervetti spotlights their commonalities as a neglected area worth exploring. 9 So far, this scope has received minimal attention in terms of further analysis. <ref type="bibr">10</ref> There are plausible explanations for this long-standing gap. To start with, there is a paucity of empirical evidence in support of Eliot's acquaintance or correspondence with <ref type="bibr">Marx. 11</ref> While biographers occasionally mention his name, they mostly treat him as a contemporary of Eliot, indirectly connected with G. H. Lewes at best. <ref type="bibr">12</ref> As to the possibility of mutual reception of their ideas, it can be inferred from Marx's letters that he had read at least one of Eliot's novels, Felix Holt, the Radical (1866), yet clues are exceedingly limited that unequivocally substantiate her reading of Marx's works. <ref type="bibr">13</ref> In any case, despite their parallel lifetime, the link between the two is so tenuous that no conclusion could be reached on the crossing of their life paths. <ref type="bibr">14</ref> Secondly, although there are Marxist readings of Eliot's fiction, considering the subject matter, it might be difficult to read Eliot in relation to Marx in the way that she is related to Feuerbach and Spinoza. While the working-class issue concerns Eliot as much as it does Marx, the representation of "industrialisation and technology" remains "peripheral" in her fictional realm, compared to the greater weight placed on mechanisation in the mid-Victorian industrial novels, such as Elizabeth Gaskell's North and South (1854-5) and Charles Dickens's Hard Times (1854). <ref type="bibr">15</ref> Likewise, capitalism, though not completely left out by Eliot, also receives marginal treatment in most of her literary texts, with a few exceptions such as Adam Bede (1859). In George Levine's words, she is often seen as a "reformist" critical of the social structure but a "conservative" about political movements. <ref type="bibr">16</ref> All these considerations pose difficulties to pair Eliot with Marx, in contrast to those well-recorded interactions with the other thinkers, either in person or via letters. However, these gaps facilitate a reading of Eliot's novels that adequately reflects her own deliberation in philosophy.</p><p>Why does it matter to fill the lacuna of associating Eliot with Marx? Considering Eliot's already widely recognised stellar achievements, the main purpose of this article is not merely to further expand upon the extensive list of the writer's intellectual correspondents. Instead, such an endeavour holds the potential for yielding progress in both literary and philosophical studies. To start with, this article builds on existing scholarship in Eliot studies with a special attention to a question of criticism-how to investigate Eliot's ideas with a stronger focus on her originality rather than on her response to literary influences? As the following analysis shall unfold, the discovery of concurrence of Eliot's and Marx's ideas aids in answering this question. Considering that neither direct nor mediated influence from Marx can be corroborated, the parallel between their ideas testifies to Eliot's productive thinking that finds resonance with her contemporary philosopher. Moreover, this research will show that, rather than simply mirroring Marx unnoticedly, Eliot diverges from him and even anticipates twenty-first-century philosophical advancements, as exemplified by the work of Rahel Jaeggi, whose ideas on alienation will be central to our discussion in this essay. Our analysis will show that Eliot's idea on alienation resonates with those of Feuerbach and Marx, a conceptual alignment that foreshadows its later correspondence with the much more contemporary work of Jaeggi. In other words, by establishing a connection between Eliot and Marx, this research sheds light on Eliot's literary encapsulation of her knowledge from the past, the present and the future as she foresees. Therefore, the discovery of similarities between Eliot and Marx provides valuable insight into their shared concerns about the social and cultural context in which they lived and, more importantly, Eliot's own evolution of philosophical ideas rather than simply tracking the well-known influences on her. Once situated in the historical development of ideas, the writer can truly be elevated to the same high intellectual plane with the philosophers.</p><p>Despite the challenges, it is both necessary and feasible to attest to such a new connection. Currently, the field is in want of enrichment and refreshment on Eliot's interrelated 14 Ibid.   15 Menke, "Dickens, Industry, and Technology," 155.  engagement with her intellectual knowledge and textual practice. In the 1960s, critics have already pointed out the partiality in treating Eliot more as a philosophy transcriber rather than a writer and how this bias neglects the richness in her ideas that forms her artistic style. 17 In a review of several influential critics, William J. Harvey recommends against perceiving Eliot as transferring into her artistic work any strand of philosophy in a fixed manner. <ref type="bibr">18</ref> Fortunately, since the 1980s, critics have started to adopt what Knoepflmacher suggests as a "cohesive approach" of taking seriously Eliot's two-fold roles, yielding positive outcomes regarding her critical winnowing, questioning, and revision of the thinkers' ideas. <ref type="bibr">19</ref> Sally Shuttleworth, Alan D. Perlis, Nancy L. Paxton, David M. Hesse, Michael Davis have examined how Eliot's literary texts at once reflect and complicate the ideas of nineteenth-century organic theorists, moral philosophy, feminism, Comtean positivism, and psychology, etc. 20 However, the methodology adopted by many critics is still restricted to exploring how Eliot's novels "track the contours of this or that philosophy". <ref type="bibr">21</ref> There is no denying that religion and German philosophy are two defining fields of the writer's intellectual milieu, but it is insufficient to take Eliot's literary writing as materials or case analysis for philosophical inquiry. Revisiting Knoepflmacher's advice, Moira Gatens recently proposes reconsidering how to approach Eliot's texts beyond focusing on influences and reflections of the other philosophers. In several articles, Gatens consistently espouses a reading of Eliot's novel as a form of "philosophical writing," that is, to read her fiction as philosophy in its own right so that we may genuinely spell out the writer's own formulation. <ref type="bibr">22</ref> Aligned with such efforts, one of the leading Eliot scholars, K. M. Newton, remedies the current critical approach in his latest book, where he reveals Eliot's anticipation of Bernard Williams's ethics in Silas Marner. <ref type="bibr">23</ref> Such an approach is also seen in Nancy Yousef's combined reading of the appeals to "the ordinary" in Eliot, William Wordsworth, and Ludwig Wittgenstein, highlighting their joint attention to the everyday life as "a familiar but neglected region". <ref type="bibr">24</ref> These studies oriented by Eliot's prefiguring of later theories have greatly contributed to the disclosure of her originality and progressiveness in thinking. Nevertheless, inspired by these preliminary efforts, this article provides an additional insight into the consistency of Eliot's intellectual development that comprises of not only "influences" and "anticipations." To bring forward the potential of the methodological innovation, this interdisciplinary study is anchored in a unifying theme, alienation, shared by Eliot and the philosophers. Although critics like Milner and Newton have touched upon this topic, the implications have not been explored fully.</p><p>In the following analysis, we focus on Eliot's underestimated place in alienation theory, one of the most complicated and intriguing domains in philosophy. We aim to vivisect Eliot's genealogical study of alienation and her own formulation of a theory 17 Knoepflmacher, "George Eliot, Feuerbach, and the Question of Criticism," 306. that synchronises with and extends beyond Marx's classic version. For the moment, we shall trace out the implications of foregrounding alienation as their shared topos. Alienation has been regarded as a fundamental concept underpinning Marx's social critique. In Economic and Philosophical Manuscripts of 1844 (first published in 1932), Marx gives a full account of his renowned model of four kinds of alienation in capitalist labour system. <ref type="bibr">25</ref> On the other hand, literary critics take perpetual interest in alienation as an overarching theme throughout Eliot's works, most notably Silas Marner (1861). For example, Fred C. Thomson regards Silas Marner as the "first full study of alienation" in Eliot's works, serving as a precursor to the more complex treatments of this theme that appear in her later characters such as Harold Transome and Dorothea Brooke. <ref type="bibr">26</ref> Alienation serves as the thematic base for Milner's Marxist reading of Eliot. He particularly posits Silas Marner's dehumanising as Eliot's unparalleled portrayal of the various types of alienation noted by <ref type="bibr">Marx. 27</ref> Given that Marx's text on alienation was published posthumously, the overlapping of their ideas was coincidental for Eliot, whose formation of her perception on this issue was founded on her own understanding and observations of the social reality she shared with Marx.</p><p>Apart from methodological renewal, this article also aims for thematic and conceptual breakthroughs in grasping alienation as a literary and philosophical term. Drawing on both literary criticism and recent studies in alienation theory, this research views Eliot's text as a philosophical inquiry per se, heeding the advice of Harvey, Knoepflmacher, and Gatens and the still rare attempts as those by Newton and Yousef. Placing Eliot's text and the philosophical accounts as mutually illuminating, this article accentuates Eliot's original thesis of her alienation critique. By uncovering previously unnoticed analogues and variations in different stages of Silas Marner's alienation, we shall reveal how Eliot develops her perception on alienation from reading Feuerbach, re-moulds it by incorporating the ailments of her time that similarly concern Marx, and finally gets ahead of her time in prescribing more feasible solutions. By the end of our analysis, we shall see that Eliot's literary work has addressed some of the disputes over the nature of alienation and offered her practical advice for philosophers and readers today.</p><p>In what follows, this article ventures a two-layered argument. First, by making her character experience several stages of alienation, Eliot not only coincides with Marx's transition from Feuerbach's exposition of religious alienation to a more materialist perspective but also anticipates what we term as the "practical turn" in the development of alienation theory, resonating with the latest critique by Rahel Jaeggi in Alienation (2014). This study by no means denies the well explored "influences" from Feuerbach and others, but the methodological re-adjustment will lead us to see that Eliot's text unconsciously parallels the gradual transition from Feuerbach's exploration of alienation in the theological sense to Marx's redesigning based on the economic and social conditions of the Victorian era. Second, in Silas Marner, Eliot employs aesthetic methods to unfold her keen attention to the living realities at her time and proposes more practical solutions to alienation that are different from Marx's but now theorised by Jaeggi. To both Eliot and Jaeggi, the seemingly individual-centred approach to alienation is potentially transformative for society as it indirectly modifies social conventions and produces dialectical negotiation between the individual and the objective situations. Her practical solutions that are prototypical of Jaeggi's theory also give us a more profound understanding of Eliot's debated political stance and her ideas of the community. Although alienation is only a facet of Eliot's and Marx's intellectual trove, it suffices to illustrate the methodological, conceptual, and thematic rewards of the proposed research direction in this article.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>II. The "Practical Turn" of Alienation: From Thinking to Living</head><p>Alienation has been one of the most difficult concepts in modern philosophy with a long and convoluted history. Spanning from Rousseau to Marx and many other philosophers, a historical account of alienation theory warrants a separate and substantial volume, but this article centres on an overarching question that radiates through the ongoing conceptual debate in philosophy: is alienation a psychological and subjective experience or a social and historical problem? 28 This question can be charted to a more profound and wider concern of its overcoming-is alienation necessarily embedded in humanity or a historical problem that prompts institutional and social measures? 29 A combined reading of Eliot and Marx shall generate a more stringent clarification of this critical term and help refurbish its conceptualisation.</p><p>Before the analysis, it is essential to understand the vacillation between the two ends of the spectrum, which necessitates a short survey of some key figures. At the outset of modern philosophy, while most Enlightenment thinkers theorise alienation into a concept for analysing political and social life, Rousseau is seen as the first one to interpret alienation as a subjective and psychological condition. <ref type="bibr">30</ref> But its objective and social dimensions have never been forgotten, as can be seen in later philosophers who theorise it to criticise social structures. <ref type="bibr">31</ref> Hegel is credited as the first systematic theoriser of alienation who employs this term in his writings. <ref type="bibr">32</ref> Whereas for Hegel alienation is as much an individual problem as a social one, the post-Hegelian strands are separated into the existentialists and Marx, each taking on a side. <ref type="bibr">33</ref> Focusing on the social conditions, it is unsurprising that Marx's alienation critique is drafted at a historical moment characterised by dehumanisation and poverty emerging with industrialisation and capitalism.</p><p>Interestingly, the two philosophical dimensions of conceiving alienation are scripted as two entries in the Oxford English Dictionary, though this word encompasses an array of other meanings. A scrutiny of Eliot's texts allows us to see how she imbricates the two ends of the gradation of alienation into the analogous relationship between religious alienation critiqued by Feuerbach and materialist alienation under capitalism theorised by Marx. Drawing on the valuable insights into Silas's alienation in the existing scholarship, this study aims for a more fruitful appreciation of Eliot's literary style as well as her philosophical ruminations about alienation. This part revolves around two questions.  Though the two strands have different focuses, Sayers cautions against the binary opposition between Marx and existentialists. See Sayers, Marx and Alienation, 2; Jaeggi, Alienation, 9; Evans, "Rahel Jaeggi's Theory of Alienation," 129.</p><p>How does Eliot dramatise the two stages of alienation from a religious sense to a materialist and practical one? How does her use of pre-industrial setting contribute to her converging the subjective and objective dimensions of alienation? Answering these questions may help connect Eliot's fictional world with the contemporary philosophical disputes. Our reading positions Eliot's text as a philosophical inquiry with the potential to bring forward a more "heuristic model" of conceiving alienation advocated by today's philosophers. <ref type="bibr">34</ref> According to the OED, the primary meaning of alienation is "estrangement; the state of being estranged or alienated". <ref type="bibr">35</ref> Generally following this usage, most literary critics refer to this term as an undesirable emotional state, but they tend to mention it in a fleeting way without providing an in-depth investigation into the characters' alienation. <ref type="bibr">36</ref> There appears to be a longstanding absence of a clarified definition of alienation in the literary field. Although estrangement is usually taken as its basic meaning, the term is often used in a very broad way to mean isolation, loneliness, dislocation, fragmentation, and madness, etc. Criticism pertaining to alienation in Silas Marner also suffers from such unclarity and vagueness. <ref type="bibr">37</ref> The subjective dimension of Silas Marner's alienation could be understood better if we pay closer attention to the religious root of this word. Noticeably, the OED indicates in this first entry that the word originally means "estrangement from God". <ref type="bibr">38</ref> This could be traced back to a more ancient time when alienation was used as a religious concept. Silas's religious experience, particularly his departure from the sect, is remindful of alienation's theological conceptualisation brought by the early Christian tradition to the Middle Ages, primarily the evil condition of "being separated from the divine". 39 Nevertheless, Eliot complicates Silas's alienation in the sense of his estrangement from the divinity, as she transfers him to a less rigidly religious community, where he gradually overcomes alienation. Reading the work in light of Feuerbach and Marx, we shall see that Eliot plays out a scenario of alienation as not only a purely psychological state, but also a practical matter. Interlacing the material and realistic attributes with the religious alienation, Eliot's writing positions alienation as caused by both a fallacious mode of thinking and a defective set of shared practices.</p><p>With the first stage of Silas's alienation at Lantern Yard, Eliot ventures a critique on religion that culminates at "the breakdown of the rigid form of Christianity". <ref type="bibr">40</ref> However, in alignment with Feuerbach and Marx, she targets not at religious faith itself but at the adverse effects on individuals caused by a form of abstraction and inversion of human relationship. By abstraction, the divinity is ultimately created by humans  Studies that particularly look at alienation as a literary theme remain scarce, and those that do seem limited to modernism, as can be seen from Harold Bloom's thematic collection Alienation (2009), in which 14 out of 20 essays are devoted to the studies of works by Herman Melville, James Joyce, Virginia Woolf, Samuel Beckett, Franz Kafka, and T.S. Eliot. There are scholarly reminders that literary alienation takes its root in the nineteenth century and even earlier. See Peckham, Romanticism and Behavior, 168; Horton, "The Literature of Alienation," 194; Peckham is quoted in TenHouten, Alienation and Affect, 7. themselves via externalisation of the supposedly human qualities, such as "love, wisdom, power, justice, etc". <ref type="bibr">41</ref> With inversion, humans externalise these attributes by projecting them to the divine without realising the qualities themselves, as a result of which their own creation becomes hostile and alien to them. 42 Feuerbach's urge for a more human-centred faith is based on such an important premise that humans become entrapped by what they have created through their imagination. <ref type="bibr">43</ref> In other words, Feuerbach strives to crystalise an erroneous thinking or a wrong imagination.</p><p>Silas's misfortune visualises such abstraction and inversion, with what he faithfully believes in destroying that very faith. Although Silas himself is "honest and fervent" with "ardent faith," the evil presence embodied by William Dane among the divine sect speaks to the failure of the false glorification of the human traits, thus ridiculing "the movement, the mental activity, and the close fellowship" in Silas's religious experience. <ref type="bibr">44</ref> Alienation takes on two varied yet closely related meanings for Silas and William. In William's parting from those human qualities, he also fails his commitment to God, which makes his alienation a twofold one. For Silas, disappointed with his abstracted faith in God and unreciprocated honesty to the friend, he chooses to be alienated from God, other humans, and himself. The purported friendship between the two forms a vicious circle of religious and social alienation. Such a critique resonates with Feuerbach's advocate for a "more realistic and healthy outlook upon" humanity to realise those human qualities in a secular world. <ref type="bibr" target="#b2">45</ref> At the same time, Eliot also stresses that although Silas blames William and, in turn, God for his disaster, it is ultimately his own lack of worldly knowledge that renders him particularly susceptible to deception. <ref type="bibr">46</ref> Eliot joins in Feuerbach in uncovering the mistake of simple-minded over-generalisation in "the imaginative projections at work in Christianity," and in making his innocent protagonist depart after his best friend's betrayal, she seeks to "put an end to humanity's self-imposed alienation from its unique powers". <ref type="bibr" target="#b4">47</ref> In a similar way that Marx commends Feuerbach's project, Eliot also regards "religion as the opiate of the people" that restricts their self-consciousness. <ref type="bibr">48</ref> Nevertheless, Eliot's work is more than a translation of "Feuerbach's anthropological theory into fiction". <ref type="bibr" target="#b6">49</ref> Rather, she concurs with Marx in taking a more materialist view of the formation of the character, emphasising the importance of "a just and decent socioeconomic climate". 50 Besides Silas's oversimplified thinking of God and his fellow men, Eliot invites us to look at the materialist conditions of the religious community's failure. The "fostering home of his religious emotions" at Lantern Yard is far from an ideal community despite its "divine influences". <ref type="bibr">51</ref> The potential for alienation of the Lantern Yard community is revealed in its confinement, as can be seen from Eliot's diction like "a narrow religious sect" and "little hidden world". <ref type="bibr">52</ref> The description of the belittled and isolated material presence lays bare the inherently tainted gridlock of the community's managerial ethics. John H. Mazaheri criticises the simplicity of the religious experience in Lantern Yard, describing it as fake and lacking intellectualism. <ref type="bibr">53</ref> More importantly, in victimising Silas, Eliot's literary construct of the religious sect functions to critique a failed form of life with a tainted set of shared practices, which are most suggestively inscribed in the naïve way of judging one's character by drawing the lot. Added to this absurdity is the public humiliation, giving the already wrong form of "communal sanction" a lasting expression that brings "traumatic" consequences. <ref type="bibr">54</ref> Such practices aggravate the overwhelming influence of internalised communal memory that depletes characters of moral energy and makes them unable to choose or act. <ref type="bibr">55</ref> Moving on to the next stage of the plot, Eliot features possible solutions to religious alienation with an apparently shared practice of moderate estrangement from God. Transplanting her character to Raveloe, Eliot does not eliminate religion, though assigning it a minor role. In sharp contrast to "the most rigid doctrinal form" in Lantern Yard, religion in Raveloe requires no rigidity, as only a small part of the "social fabric". <ref type="bibr">56</ref> The limited role of the Church at Raveloe implies "the reversal in importance between religious doctrine and communal fellowship" while keeping the convention of faith itself intact. <ref type="bibr">57</ref> Brian Swann suggests that Silas's experience with the mechanical and repetitive nature of the Lantern Yard religious sect destroyed his spirit and faith in love and fellowship. <ref type="bibr">58</ref> In contrast, screening himself from the "heavens" with "trees and hedgerows" in Raveloe, <ref type="bibr">59</ref> he hides from God and the other people to keep himself safe from any divine interferences. <ref type="bibr">60</ref> Such moderated distancing aligns with the generally flexible church practices in Raveloe, where religious alienation appears much less likely to happen. Nevertheless, as the text unfolds, another form of alienation for Silas takes its place. The reweighting of religious and worldly focuses emphasises Eliot's awareness of their coexistence and analogous roles in causing alienation. Moreover, she takes a step forward to reveal the "parallels between Christianity and the world ruled by money," which means even if humans solve the religious problem, alienation may continue in "earthly forms". <ref type="bibr">61</ref> This recognition is as important to Eliot's plotting as to Marx's theorisation.</p><p>Marx's formulation of alienation is so rigorous that it is included by the OED as the second entry: "a condition of workers in a capitalist economy, resulting from a lack of identification with the products of their labour and a sense of being controlled or exploited". <ref type="bibr">62</ref>  lend itself readily to a Marxist discussion due to its ambiguous setting. <ref type="bibr">63</ref> In particular, Silas's alienation caused by his mechanic labour does not happen in an exploitive context in a strict sense. On the contrary, Silas is forced to work less by the materialist conditions in Marx's account than by his self-denial of the other capacities and selfimposed subjection to the memory of the past. In this sense, Eliot evinces another synthesising experiment by merging subjective elements with the Marxist scenario. In so doing, she potentially provides a means of addressing alienation that may not be explained by Marx's model.</p><p>At the onset of the plot, the situation of Lantern Yard in an industrial area is already revealing of Eliot's deliberate juxtaposition of theological and materialist dimensions of alienation. This finds resonance with philosophy studies on Marx's criticism of Feuerbach that alienation is not limited to religion, especially when humans move on to the industrialised and mercantile age, where money "consummates the material form of alienation". <ref type="bibr">64</ref> In "Theses on Feuerbach," Marx argues that Feuerbach is "insufficiently materialist". <ref type="bibr">65</ref> Once Marx identifies Feuerbach's limits in circumscribing alienation within the "epistemological" register, he proposes it as a materialist matter that requires more concrete solutions rather than a mere change of thought. 66 By comparison, Marx underscores the social and historical conditions that give rise to alienation in his critique of capitalism. Even though Silas Marner is set at a time of "pre-capitalist economy," one can still sense "the emerging capitalism" in the background. <ref type="bibr">67</ref> Levine has discussed the analogy of religion and capitalism in this piece using Max Weber's social theory to expose how Victorians attempt to moralise monetary gains with the religious values that stress devotion. Borrowing this approach but with a Marxist light, the similar devotion to divinity and money perpetuates the problems of abstracting and inverting human relationship, carrying them to a new height. This idea finds its literary expression in the oft-quoted hoarding plot. In Silas's devotion to the coins by feeling them "in his palm" and admiring their "bright faces", <ref type="bibr">68</ref> Eliot endows him with "a new religious purpose in hoarding" to compensate for his loss of faith in the previous community. <ref type="bibr">69</ref> The devotion only takes a more tangible form, as Silas replaces human connections with relations to objects, a pattern that gestures towards what Marx terms as commodity fetishism. <ref type="bibr">70</ref> Apart from the materialist turn, Eliot sharply pinpoints the practical dimension of alienation in a way that is strongly reminiscent of Marx's account of the capitalist labour. Marx's widely known model of four dimensions of alienation-that the worker is alienated from the product of their labour, their activities, the other workers, and human species-has attracted numerous interpretations and applications. <ref type="bibr">71</ref> Eliot has offered an aesthetically impactful picture of the Marxist alienation: Then there were the calls of hunger not that he feels hungry himself; and Silas, in his solitude, had to provide his own breakfast, dinner, and supper, to fetch his own water from the well, and put his own kettle on the fire; and all these immediate promptings helped, along with the weaving, to reduce his life to the unquestioning activity of a spinning insect. <ref type="bibr">72</ref> Despite the lack of the explicit presence of "exploitation," Silas's experience dramatises the dehumanisation of the Marxist labourer. Working "in" his loom like a "spider" exclusively "from impulse, without reflection," his disfiguration falls into Marx's sense of dehumanised labour:</p><p>Certainly drinking, eating, procreating, etc., are also genuinely human functions. But in the abstraction which separates them from the sphere of all other human activity and turns them into sole and ultimate ends, they are animal. <ref type="bibr">73</ref> For Marx, truly human production is not only voluntary but also leads to "full and free development". <ref type="bibr">74</ref> As with Eliot's character and Marx's worker, alienation lies in a form of meaningless and unfulfilling practice, as they are unable to realise their human capacities in what they do-"he does not affirm himself but denies himself, does not feel content but unhappy, does not develop freely his physical and mental energy but mortifies his body and ruins his mind". <ref type="bibr">75</ref> Admittedly, it is hard to neglect the textual insistence that Silas is self-employed, and thus his work is unalienated in a strict sense. Hence, "there is no enactment of the Marxist scenario of alienation from one's own labour" in Silas's case, and on the contrary, his alienation lies exactly in his complete submersion in his own profits of labour. <ref type="bibr">76</ref> From a practical vantage point, Silas is more of a victim of "his own worth ethic". <ref type="bibr">77</ref> In both stages of alienation, he is "diminished" by his extreme intimacy with his roles in the workplaces, overdriven by work and "shrunk to the properties of his jobs". <ref type="bibr">78</ref> Kate E. Brown's reading of Silas's practice that deforms his body unravels both historical and individual significance. On one hand, it serves as "a critique of mechanized labor, which subordinates the worker to the machine," while on the other hand, it incessantly reminds Silas of his "former self," wounded and blighted. <ref type="bibr">79</ref> Therefore, the depiction of Silas's alienation in his weaving is both historical and symbolic, at once expounding upon the Victorian working conditions in the social reality and the particular dilemma for the character in question. This affirms Milner's reminder of the equally formative "social and historical influences" that shape her characters, who are "at once private and social in nature". <ref type="bibr">80</ref> Thus, Silas's alienation experienced in the capitalist sense is presented as an allegory at best, a thematic and metaphorical version of Marx's alienation critique, which she has never read. As Newton observes, "Marner's mechanistic life functions allegorically as a commentary on the alienation which George Eliot suggests underlies Victorian culture". <ref type="bibr">81</ref> Eliot is not necessarily concerned with alienation in exactly the Marxist sense of the separation of the worker from his labour, but rather "the moral consequences of a way of life which, like the alienation of labour, denies truly human values, which substitutes the cash-nexus or class privilege or conformity for truly human relationships". <ref type="bibr">82</ref> Her convergence of various dimensions of alienation points to a broader congruence across the spectrum-the abstracted and inverted human relationship fastened to the extreme divine and materialist devotion leads to singularity or one-sidedness of living, posing practical obstacles to the individual and communal development. While Marx formulates alienation mainly in terms of capitalist political economy, Eliot generalises it to a critique of the everyday practices in a form of life.</p><p>Eliot's temporal-spatial strategy of choosing a dated rural setting allows herself sufficient comfort and flexibility to express the values she upholds. <ref type="bibr">83</ref> In some sense, Eliot's artistic mode challenges Marx by making alienation and its conditions "timeless" in an ahistorical narrative space of Silas Marner, where "we cannot finally correlate historical with narrative events". <ref type="bibr">84</ref> Moreover, this leaves the door open to experiment with more practical evaluation of alienation. Silas becomes a subject who "experiences public time as alien and distant rather than communal and present" insofar as he is constantly dominated by history, his past misery and his past work (materialised as coins). <ref type="bibr">85</ref> Such dominance reduces his life to flatness, preventing Silas from establishing a practical relationship with himself and the world. Eliot visualises such alienation as an "absence" from living-"for fifteen years, he [Silas] had stood aloof as from a strange thing, with which he could have no communion". <ref type="bibr">86</ref> Rather than confining alienation to the critique of capitalism, Eliot is experimenting with a critique of Silas's form of life, a life that denies him of all the other roles and prohibits him from developing other capacities. Eliot's formulation can be seen as the lynchpin of Silas's experience of alienation as an indiscriminately devoted clerical agent, a benumbed weaver who reinforces his painful memory with working, and an impoverished labourer à la Marx. Alienation is thus developed by Eliot as a highly practical matter regardless of its religious or materialist, anthropological or historical attributes. Only with a critique of alienation that focuses on the practical predicament in living can we explain what Feuerbach and Marx might not be able to account for.</p><p>Intricately blending her style and philosophy, Eliot has enlarged on an alienation critique that targets at diagnosing what is wrong with a form of life. <ref type="bibr">87</ref> In her multifarious illustration of Silas's alienation in two communities, Eliot makes the plot a course of tracing the ideological stages of humanity from religious alienation and social alienation, with each stage critiquing the former but ultimately leading towards reconciliation. In the meantime, Eliot's literary text also performs a meaningful work of delineating vertically the various phases of theorising alienation in the history of ideas, particularly its transition from the theological to the materialist domain. In this sense, she concurs with Marx in the materialist formulation of alienation but extends beyond it by synthesising the subjective and objective dimensions of this malaise in human life. She uses aesthetic strategies to knit the two dimensions together, perusing a more applicable paradigm of understanding alienation.</p><p>Instead of dwelling on the individual's defective thinking or the structural fallacies at large, Eliot focuses on practices that disrupt the relationship between humans and themselves and other fellows. Jaeggi's theory aids in understanding Eliot's textual exploration of how warped human relations lead to Silas's division from his faith, friend, community, and the coins, all of which he has once thought of as his own. Defining alienation as "a relation of relationlessness," Jaeggi sees alienation as a deficient relation rather than simply separation or the absence of relation. <ref type="bibr">88</ref> Eliot and Jaeggi share a common observation of the nature of alienation that is distinct from the synonymous equation to division or separation. They understand alienation as division from what should be one's own or supposedly related to oneself.</p><p>Based on this definition, both set great store on the practices in forming the relation rather than taking it as merely given. To overcome alienation, according to Jaeggi, requires a process of appropriation:</p><p>The concept of appropriation refers to a way of establishing relations to oneself and to the world, a way of dealing with oneself and the world and of having oneself and the world at one's command. Alienation, as a disturbance in this relation, concerns the way these acts of relating to self and world are carried out, that is, whether processes of appropriation fail or are impeded. <ref type="bibr">89</ref> As we have seen, Eliot largely prefigures this theorisation by probing into the individual and shared practices that cause Silas's alienation, evoking practical solutions to overcome it. For Eliot, the abstraction and inversion of human relations may start as a wrong thinking, as in the projection of human adoration onto the divine and the money, but ultimately it is the practices that sediment and prolong the alienation. Over the course of her writing, the defects in shared practices and those in individual ones are alternatively foregrounded and complementary to each other. Recognising their interdependence, Eliot concentrates on how to overcome alienation via adjustment in individual practices, a central idea we can find in Jaeggi's book. However, this does not entail passive acceptance of the status quo and resigning oneself to it. Far from endorsing self-persuasion, Eliot sees in individual practices the potential of indirectly revising the shared practices, in turn transforming material and social conditions. This process can be realised through what Jaeggi regards as an appropriation of one's social roles. We now turn to a paired reading of Eliot and Jaeggi to see the broad implications of the writer's practical solution to Silas's estrangement from humanity by assigning him a role of the foster father. </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>III. Practicing Self and Community: Appropriating Conventions via Roleplaying</head><p>The "double-stranded plot" of Silas's loss of money and his adoption of Eppie has been extensively studied in terms of its function in helping Silas overcome alienation and reunite with society. 90 Some critics explain the mechanism of Silas's transformation from the perspective of individual agency, highlighting Eliot's insistence on the responsibility of human agents in shaping their actions and creating a morally human framework. <ref type="bibr">91</ref> Others shed light on Eliot's positive view of economic exchange, which is often criticised for degrading and eroding traditional values. <ref type="bibr">92</ref> Still some in gender and parenthood studies interpret Silas's androgynous fatherhood as the key to integrating his life into a coherent whole. <ref type="bibr">93</ref> Many of these criticisms are built on the presumption of the baby's healing power that stimulates Silas to take efforts in reconnecting with other people. Seen through the prism of alienation critique, the adoption plot is invested with broader significance than being a plot device.</p><p>This section injects three additional perceptions that are crucial to understanding how Eliot addresses alienation with the two-fold plot. First, in transferring Silas from hoarding to parenting, Eliot replaces his former objects of devotion with a human one, the baby girl, thus correcting the abstraction and inversion or what Jaeggi terms the "relationlessness" of human relations. Eliot's text concretises Feuerbach and Marx's invocation of a backflow of devotion from divinity and money to humanity, which allows for greater identification with oneself and one's life. Second, Eliot underscores that a strong sense of identification with his role as Eppie's father enables Silas to get fully involved in his parenting practices. With the newly added role in his life, the changes in his form of life aid him in realising his capacities previously unknown and in reaching out to the society for Eppie's benefits. Third, the choice of the father's role bears Eliot's project of extrapolating her idea of individual practice that appeals to and criticises the conventions. While referencing Victorian ideology of fatherhood, Eliot makes Silas re-adapt and re-mould the parenting practices in his role-playing, the positive results of which win him respect and admiration from the community. This serves as a genuine exemplar of Jaeggi's idea of appropriation. Recognising Eliot's three tasks in this stage of the plot, we may realise the consistency of her experiments in resolving alienation, closely connected with her critique on religious alienation and materialist alienation in the previous stages of the story and pointing to more practical alternatives towards the conclusion. Such consistency also lies in her fortuitous threading of the philosophers' alienation theories.</p><p>Jaeggi's theory of roles is representative of her practical approach to alienation. Although the practical turn can be found in both Marx and Jaeggi, they use the term "appropriation" differently. While Marx conceives labour power as the human essence to be appropriated, Jaeggi expands the scope of appropriation to include all sorts of life activities. <ref type="bibr">94</ref> Appropriation is reconstructed by Jaeggi as "a comprehensive conception of practical relations to self and world" and "a form of praxis, a way of relating practically to the world". <ref type="bibr">95</ref> To be concise, to appropriate in Jaeggi's sense is "to take oneself and one's world at one's own command". <ref type="bibr">96</ref> According to Jaeggi, essentialist premises about the self inevitably result in alienation-every essence-based critique is inherently paradoxical: if an essence is predetermined, then anything that does not correspond to that essence would result in alienation. To avoid this, Jaeggi rejects a pre-given self to be rediscovered or a human essence to be realised; rather, she places the self in a practical relation to the world, as she believes that one's self is in the process of formation as one engages in various life activities. The self is not simply given to us; it is fluid and constructed, but there are criteria for successful and unsuccessful ways of appropriation, though there is no standard form of the "essence" of the self. <ref type="bibr">97</ref> Within this framework, the roles in one's life are not merely given; rather, they are to be appropriated to allow for the formation of the self. In alignment with her overall criteria for appropriation, successful role-playing can be achieved via identification, involvement, and retainment of idiosyncratic adaptation of the role. <ref type="bibr">98</ref> Jaeggi holds the belief that social roles are not inherently alienating; rather, it is the inability to express oneself adequately within them that can lead to feelings of alienation. <ref type="bibr">99</ref> Ultimately, individuals achieve self-development by "choosing and reshaping" the roles. <ref type="bibr">100</ref> Jaeggi's theoretical concepts can be explored through Eliot's characters. Vertically compared, Silas's role-playing as a father is contrasted to the "standardization and conformism" of his practice in the clerical role at Lantern Yard and to his "fragmentation" caused by self-emasculation of all roles in early years at Raveloe. <ref type="bibr">101</ref> Horizontally, his "individuality, originality, and authenticity" are achieved by the revising and distancing from "preexisting role scripts" of the Victorian father, a stark contrast to Eppie's biological father, Godfrey Cass. <ref type="bibr">102</ref> A scrutiny of Eliot's characterological contrasts can bring about a literary analysis that interacts with Jaeggi's theory in a mutually illuminating and enriching manner, allowing for a deeper understanding of both the literary work and the philosophical framework.</p><p>While recognising the propensity to alienation in the religious life in Lantern Yard, Eliot underscores the importance of activating one's own judgement, perception, and agency to appropriate the communal roles in a way that incorporates one's unique character traits and idiosyncrasies, as suggested by Jaeggi. To achieve this, Jaeggi analyses that a distanced "standing back" is necessary for making room for deviation from the role. <ref type="bibr">103</ref> Eliot's portrayal of Silas as an individual who fails to scrutinise himself in relation to his community envisions what Jaeggi diagnoses as "the loss of distance" from the role. 104 95 Ibid., 35, 39.   96   Qian, "Alienated Heroines in Basil, Lady Audley's Secret, and East Lynne," 290. 97 See Qian, "Alienated Heroines in Basil, Lady Audley's Secret, and East Lynne" for the criteria of appropriation. 98 Jaeggi, Alienation, 81-93 Jaeggi's criteria to diagnose alienation in the role, which include "outward-directedness, standardization, fragmentation, and artificiality"; these criteria are contrasted with forms of non-alienated existence, which are characterised by "inward-directedness, uniqueness, totality, and genuineness". This literary analysis modifies and condenses the criteria to focus on practices in role-playing. 99 Ibid., 81. <ref type="bibr">100</ref> Ibid., 85. <ref type="bibr">101</ref> Ibid., 84, 88. <ref type="bibr">102</ref> Ibid., 85. <ref type="bibr">103</ref> Jaeggi, 87. <ref type="bibr">104</ref> Ibid., 87.</p><p>Silas's blindness to the true character of his so-called best friend indicates his failure to forge meaningful relationships with the standards of the larger group in Lantern Yard. Even when William unsympathetically associates his catalepsy with "a visitation of Satan," Silas accepts his "rebuke and admonition" out of his sense of responsibility "as a brotherly office" instead of defending himself against William's exhortation. <ref type="bibr" target="#b9">105</ref> His passivity and silence after William's betrayal indicate a lack of "independent thought" as he was so "accustomed to reason about the forms in which their religious feelings has incorporated itself" that he was unable to doubt the severance of "the form and the feeling". <ref type="bibr">106</ref> Despite his increasing doubt in fellowship, Silas is so subsumed into his religious role that he is unable to undertake any practical means to protest against the injustice or to defy the communal practice of drawing the lot. As a result, Silas's alienation in his previous role-playing as a clergy man results in not a distortion of the true self or a separation from it, but rather "an inner void" in Jaeggi's words, 107 or merely a "presence" without individual personality in Milner's words. <ref type="bibr" target="#b10">108</ref> He is unable to make a rational response to his experiences and seek out a new basis for coherence in his shattered beliefs, leading to a vacuum of existence that is only completed by his flight to Raveloe. <ref type="bibr" target="#b11">109</ref> Unfortunately, Silas once again flattens out the distance between the role and himself at Raveloe. Taking up the role of the weaver only, he descends into "fragmentation and one-sidedness", another symptom of disturbed role-playing in contrast to what Jaeggi credits as "openness to experience". <ref type="bibr" target="#b12">110</ref> By severing connections with other human beings, he remains in a state of seclusion, limiting his possibilities for other experiences. Against Victorian ideology of masculinity, the loss of his potential roles through marriage and fatherhood puts Silas's manhood at risk. His separation from the native community prompts him to contextualise himself with the loom and work, creating what Cohen calls a "pathetically private community". <ref type="bibr" target="#b13">111</ref> With his resorting to purposeless weaving and fetishist desire for hoarding, Eliot shows that Silas at once resists and desires a role. Positing that "in and through them we first become ourselves," Jaeggi argues that social roles are both limiting and enabling, but generally they play a productive role in the development of a person's identity. <ref type="bibr">112</ref> Eliot's fatherhood plot helps illustrate Jaeggi's insistence on the productive power of social roles.</p><p>Silas's engagement with his role-playing in fatherhood is poised as a striking contrast to the previous misappropriation of his roles. To start with, his strong identification with the baby revisits Eliot's assimilation of Feuerbach's recommendation that humans should direct their love and emulation away from "illusory theological abstractions" to the "proper objects," such as "the actual mother and father who care for us," etc. <ref type="bibr" target="#b14">113</ref> Employing a toddler to symbolise the humanity, Eliot deploys the shifting views on children in the nineteenth century, including baby worship and the increasing emphasis on their "traits such as innocence, liberty, and naturalness". <ref type="bibr" target="#b15">114</ref> Silas's adoration of the baby signifies his greater sense of identification with a human being than with the theological and material abstraction. The adopted father-daughter plot reflects such humanly identification, which makes possible more active practices. According to Jaeggi, the more a person identifies with a role and engages in its demands, the more successful their appropriation will be. <ref type="bibr">115</ref> Eliot uses Silas's initiative in making changes in his life to coordinate the importance of thinking and practicing-Feuerbach's inculcation of the reorientation in imagination is still relevant, though it is the practical engagement that truly fulfils the alteration in thought.</p><p>Eliot presents identification and devoted acts as mutually reinforcing, with active involvement in role-playing being key to successful practice, which is matched by Jaeggi's stress on appropriation. Forming a care relation with Eppie, Silas acts as the care giver, bolstering his identification with Eppie via his repetitive practices of nurturing her. <ref type="bibr" target="#b16">116</ref> Silas is not only attentive to Eppie emotionally, but he also ceaselessly carries out acts of care, as evidenced by his immediate attention to her needs. He feeds her sweetened porridge, which he had previously refrained from using for himself; he is attentive to her comfort by removing her wet boots; in taking her for strolls in the sunshine, he finds himself filled with joy, simply "because she had joy". <ref type="bibr" target="#b17">117</ref> Involvement, as a constitutive and productive function in social roles permeates Silas's fatherhood in every possible way. As much as Jaeggi recommends it throughout her theory, Eliot shows with her literary work that involvement in a role is highly practical.</p><p>Set in opposition to Silas's full-fledged identification and involvement in fatherhood, Godfrey avoids acknowledging his responsibilities. Godfrey's thoughts about his "other child" demonstrate his lack of genuine affection for Eppie-"that other child-not on the hearth-he would not forget it; he would see that it was well provided for. That was a father's duty". <ref type="bibr">118</ref> The most relevant social and legal manifestations were the debates around the infant custody bills in the 1830s which "redefined the child from property to person"; before this, however, custody rights in preindustrial England had placed the child as a form of property that belonged to the father, ruling out any consideration for the sentiments of the family. <ref type="bibr" target="#b18">119</ref> Eliot's characterisation of Godfrey ironises the retaining of such a paradigm, for he sees his role as a father as a mechanical and perfunctory duty that society expects him to fulfil. Opposed to Godfrey Cass's focus on external standards, including reputation, public image, and profile, Silas's standards are Eppie-oriented, centring on his adopted daughter's needs.</p><p>Through the lens of Jaeggi's stress on personalised reference to the standards, Eliot's characterisation demonstrates how individuals can engage with social roles in distinctive ways to promote their own personal growth and development. According to Jaeggi, someone who identifies with their role more spontaneously tends to exhibit a wider range of behaviour and retain distinctive character traits or idiosyncrasies, contrasting the rigid posture and the narrow range of behaviour if the role-playing lacks identification. <ref type="bibr">120</ref> As Jaeggi explains, "someone who can actually identify with her roles, then, exhibits-precisely in performing her roles-a dimension of obstinacy (or having a mind of one's own)". <ref type="bibr">121</ref> This allows him to develop a more balanced and authentic parenting style that integrates both masculine and feminine traits, thus enabling Silas to achieve uniqueness in his role as a father. While playing the role of the father, Silas is also revising the conventions associated with fatherhood instead of following rigidly the gender norms.</p><p>In challenging conventional gender roles, Silas allows himself the freedom to deviate from societal expectations while still achieving positive results. Experts on Victorian parenthood and gender studies have explored how Silas integrates into his fatherhood two traditionally female roles-that of a weaver and of Eppie's single parent. <ref type="bibr">122</ref> At a time when parental guides were dominated by those written for mothers, Eliot uses Silas to subvert the traditional gender roles by making him learn parenting from direct practice. <ref type="bibr">123</ref> The role of a father in Victorian domesticity was heavily gendered, with societal expectations shaping the Victorian father's behaviour patterns and functions. The behaviour patterns of a Victorian father placed greater emphasis on influence than authority, with the goal of raising children to responsible people, and the qualities of leadership, authority, judgment, paternal self-control, self-restraint, self-representation, prudence, self-mastery, and responsibility were considered masculine traits. <ref type="bibr">124</ref> Silas's approach to parenting is characterised by a "proper balance between severity and permissiveness," as seen in his attempts to discipline Eppie, which ultimately end in half-sobbing kisses. <ref type="bibr">125</ref> Eliot's text unfolds that Silas's true and balanced fatherly love yields positive results, as Eppie "grows into the best of the children", 126 with "a touch of refinement and fervour which came from no other teaching than that of tenderly-nurtured unvitiated feeling". <ref type="bibr">127</ref> Silas's unalienated role-playing in his fatherhood aligns with Jaeggi's argument that individuals can retain their distinctive character traits while performing their social roles well. The contrast among various stages of his role-playing throughout the plot testifies to Jaeggi's succinct summary that</p><p>[…] one is not alienated when one is present in one's actions, steers one's life instead of being driven by it, independently appropriates social roles, is able to identify with one's desires, and is involved in the world-in short, when one can appropriate one's life (as one's own) and is accessible to oneself in what one does. <ref type="bibr">128</ref> In a similar fashion, an unalienated life after Silas's transformation is manifested as his sense of presence in life and accessibility to himself regarding his own actions and emotions-"open smiling faces and cheerful questioning," "thrill of satisfaction," "reawakening sensibilities," "[t]he sense of presiding goodness and the human trust". 129 120 Jaeggi, Alienation, 94. <ref type="bibr">121</ref> Ibid., 94. <ref type="bibr">122</ref>  Fiction. <ref type="bibr">124</ref> French and Rothery, Man's Estate, 231. <ref type="bibr">125</ref> Alley, "Silas Marner and the Anonymous Heroism of Parenthood," 156. <ref type="bibr">126</ref> Ibid., 157. <ref type="bibr">127</ref> Eliot, Silas Marner, 142. <ref type="bibr">128</ref> Jaeggi, Alienation, 155. <ref type="bibr">129 Eliot,</ref><ref type="bibr">Silas Marner,</ref> Although we have seen the merits of Jaeggi's theory for understanding the personal solutions to alienation, critics tend to worry that Jaeggi's theory is overly skewed towards personal adjustments, requiring individuals to tackle alienation on their own, which may lead to exhaustion and burnout. <ref type="bibr">130</ref> They regret this would cause a radical break from the critique of society, which has once been the main task of alienation theory, stumbling into trivialisation and oblivion to historical experiences. <ref type="bibr">131</ref> Jaeggi acknowledges that alienation may be caused by "deficiencies in the roles themselves and deficiencies in the way they are appropriated," but it is the latter that she details, leaving some questions answered regarding alienation beyond personal means. <ref type="bibr">132</ref> For example, it is much harder for the alienated labourer in the Marxist sense to ameliorate their alienation solely by taking efforts to play their role well. The same applies to Silas's situation in Lantern Yard, where the community is enveloped by their alienating shared practice. The "deficiencies" in these roles are deeply seated in the materialist and social conditions where they are situated. However, Jaeggi's omission does not indicate a lack of consideration of social critique. In the last chapter of Alienation, Jaeggi underscores the significance of social circumstances in enabling individuals to engage in appropriation, raising questions of how to enhance "social practices and institutions" as "the social conditions that make self-determination and self-realization possible". <ref type="bibr">133</ref> Instead of ignoring the social, economic, and political roots of alienation, Jaeggi attempts to direct attention to a bottom-up approach. Eliot's text aids in elaborating her thesis of promoting changes based on the individual's appropriation of the existing conventions via their role-playing in families and communities, but she also amplifies it by introducing Raveloe as a social environment open to revision and transformation.</p><p>In recording the growing interaction between Silas and the villagers of Ravelo, Eliot hints at the dynamic of personal efforts in overcoming alienation and the gradual transformation of social conditions and shared practices, which eventually narrows the chasm between individual and society. Despite Silas's previous attempts to reintegrate into society, such as his healing Sara Oats with herbal remedy and seeking out for help after the loss of money, it is his adoption of Eppie that ultimately returns him to the outside world-"Silas began now to think of Raveloe life entirely in relation to Eppie". <ref type="bibr">134</ref> Motivated by his devotion to providing better care as a father, he seeks out knowledge and advice from those around him. With the guidance of Dolly, he actively appropriates the customs and beliefs of Raveloe life to provide for Eppie and foster her growth. <ref type="bibr">135</ref> Reciprocally, witnessing Silas's nurturing of Eppie, the villagers start to see him in a different light, accepting him and becoming more friendly towards him. <ref type="bibr">136</ref> The villagers' increasing co-caring for Silas hints at substituting medical treatment with inter-personal relationship that facilitates community-building. <ref type="bibr">137</ref> Reading Silas's catalepsy as a symbol of his "fragmented identity," Martin Willis suggests that it is "mitigated by his entry into a public ethics of care that begins with his fathering of Eppie". <ref type="bibr" target="#b19">138</ref> Resonating with Talia Shaffer's theory of care communities, the emphasis on the caring acts gestures towards a flexible and fluid community more reliant on practice. <ref type="bibr" target="#b20">139</ref> In philosophy, scholars also call our attention to a kind of community based on shared practice and cooperative acts, so these communities "are to be understood as primarily practical rather than ethical and emotional". <ref type="bibr" target="#b21">140</ref> In addition, Silas's willingness to undertake tasks traditionally considered uncharacteristic of men garnered the community's sympathy: "In doing what is surprising for a man, Silas elicits the sympathy of the community". <ref type="bibr" target="#b22">141</ref> The changed attitude of Raveloe people to Silas underscores the significance the sound conditions for unalienated role-playing practices to happen.</p><p>Consequently, Raveloe exemplifies the kind of community that is "emergent rather than designed or predefined". <ref type="bibr" target="#b23">142</ref> In such a community, the biological bond regarded as undergirding the family and domestic community is challenged. While community is often seen as organic and opposed to artificiality in society, Silas's adoption of Eppie and his subsequent integration into the community blur the distinction between Ferdinand Tönnies's dichotomy based on the "direct mutual affirmation" in biological relationships. <ref type="bibr" target="#b24">143</ref> Further, Silas Marner demonstrates organic theorists' refreshed realisation of community's "the necessity for gradual cumulative growth rather than the infinite potentiality for change". <ref type="bibr" target="#b25">144</ref> According to Shuttleworth, the evolvement of the Raveloe villagers' response to Silas from mythological to rational reveals Eliot's interest in the various stages of man's historical development, over the course of which the characters develop through "interaction with their surrounding social medium". <ref type="bibr">145</ref> As a vital part of the practice, communication gives the villagers of Raveloe a shared sense of identity, for example, via using myths and superstitions to cope with "the disorder of experience," retelling stories to reaffirm their "community values," and their increasingly concerted awareness of Silas's "plight" with the inclination to help them. <ref type="bibr" target="#b26">146</ref> In such a community that allows for changes, variations, and openness, Silas is able to overcome his alienation.</p><p>In view of these textual experiments, Eliot resorts to more pragmatic methods to promote social reforms rather than proposing revolutionary movements like Marx. In her political writings, Eliot lays more stress on the study of people as they are than on "abstract democratic and socialistic theories" drawn from a small fragment of Parisian proletariat, as the workers' conditions vary among countries. <ref type="bibr" target="#b27">147</ref> While empathising with the working class, Eliot doubts the efficacy of simply expanding the suffrage and instead dedicates more efforts in facilitating the education of the poor. <ref type="bibr" target="#b28">148</ref> Newton cites from her correspondences to point out her consideration of communism as an alternative to the Victorian capitalism that she detests, albeit with some reservations about its feasibility. <ref type="bibr">149</ref> Even in her least political novel, Silas Marner, Newton observes her implicit message of increasing the wage for the workers and criticising the idle and parasitic rich. <ref type="bibr">150</ref> Pragmatism is also ingrained in Eliot's own life, especially when she is facing potential moments of alienation. In her controversial choices in relationship and marriage life, Eliot's pragmatic means to create the profile of a "conventional married woman" via changing her surname and religious rituals aided in her directing the public attention from her suspected moral fallacies. 151 Such pragmatism is often mistaken as her conservatism, either in her life or in her political stance.</p><p>Nevertheless, one major unifying trait is their shared emphasis on the family's role in enabling social reforms indirectly, albeit with different stresses and forms of expression. As Victorians, both Eliot and Marx are more or less informed by the domestic ideology at that time, with the notorious separate spheres thesis, the cultural production of dichotomous gender stereotypes, and the home eulogised as a haven. <ref type="bibr" target="#b29">152</ref> Recent scholarships on Marx's often neglected writings on women reveal his underexplored emphasis on the family's role in preparing human beings to a higher form of society without alienation. Critics like Heather Brown and Haesook Chae agree that in Marx's critique of the bourgeois family, he advocates the emancipation of women at home and then extends the equality outside home, which eventually brings about a social transformation. <ref type="bibr" target="#b31">153</ref> For Marx, to overcome alienation is to lead human beings to communism, but he stresses that only in family can humans truly form a class consciousness to make this happen. Marx's criticism on religious writings of G. F. Daumer shows his concern for gender equality, deeming that gender-biased views cannot ameliorate the oppression of women. <ref type="bibr" target="#b32">154</ref> Adams suggests that Eliot may agree with Marx on this, as can be seen in her novel Adam Bede, rightly pinpointing Eliot's position as a Victorian woman that makes her writing more "gender-conscious". 155 This significant connection further refracts back onto her prescription of a gender-conscious approach to his character by making Silas take on the role of a father. Eliot may be termed by Marx as "Conservative or Bourgeois socialism". <ref type="bibr" target="#b33">156</ref> But at the closure of Silas's story, Eppie decides to marry Aron, a working-class man. Is not this a small step towards the development of the union of workers and the formation of the working-class consciousness that Marx believes necessary for the revolution to come? Along this line, there are much wider implications in Eliot's literary design of the adoption plot. First, by conjuring up a domestic story, she widens the scope of her critique of alienation while still retaining a distinctly Victorian drive. As James McLaverty succinctly summarises, "The tale is one of home, and in the most considered sense, of hearth". <ref type="bibr" target="#b34">157</ref> Secondly, her choice of a masculine role as the focal point mirrors her views on women, thus allowing her to expound her stance artistically and roundaboutly.</p><p>In part, her suspected conservatism was due to her consistent self-expression as "a social critic who believed in a gradual reform that would not destroy the traditions which provided continuity within the small communities about which she wrote".<ref type="foot" target="#foot_1">158</ref> More importantly, she manages to elicit through her writing what has not been fully developed by Marx, the dialectical relationship between individuals and roles they play, and indirectly between individual practice and the shared practices of the community. As observers of Victorian society, Eliot and Marx suggest that such a mutual reform starts within the family. Eliot's writing is also helpful to expand on Jaeggi's theory of overcoming alienation via role-playing.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>IV. Conclusion</head><p>In the preceding pages, we have seen Eliot's sketch of alienation as a narrative fulcrum in her text that parallels the concept's genealogical evolvement in philosophy, capturing its various meanings accrued across time, most prominently in religion and social critique. Our analysis reveals how Eliot's knowledge, gained from translating Feuerbach's work, critically shaped her view of alienation, a view that is presented in a parabolic manner while echoing a Marxist critique. This article has no intention to argue that Eliot is a Marxist, as this would be anachronistic. However, the overlaps as well as divergence between Eliot and Marx have provided an ample ground for an active inquiry into her unique and, in some way, forward-looking perspective on alienation and its overcoming. Eliot's different focus is also owing to her concern with "everyday life" and the "specificity of each 'ordinary' human lot". <ref type="bibr">159</ref> Her self-claimed practice in literature as "experiments in life" presents "alternatives to the practical philosophy" in today's world. <ref type="bibr">160</ref> It took almost two centuries for philosophy to catch up with Eliot's insights. Her literary extrapolation of practical alienation finds a forceful outlet in Rahel Jaeggi's alienation critique that centralises practice and relationship. At the same time, a Jaeggian reading of Eliot's text helps locate certain gaps in the individual approach to alienation, which could be amended by bringing Marx back to the conversation. Requiring both personal efforts and social changes, alienation is a compelling issue for Eliot and for philosophers alike.</p><p>Previous studies usually follow the paradigm of outlining the thinkers' ideas before reviewing Eliot's texts. Reversing this method, this article has prioritised Eliot's textual exploration of the eponymous character's alienation and her philosophical elucidation that threads Feuerbach and Marx before arriving at the new framework we have introduced. Despite the presence of "influences" and "anticipation," we have centralised in this research Eliot's originality and consistency in her ideas. Unlike Feuerbach and Marx, Eliot extends the causes of alienation beyond a mere failure of belief or purely social conditions. Rather, in either case, Eliot hints at alienation as a matter of defective practice, for which both individuals and community are responsible. This foreshadows Jaeggi's practice-directed thesis on alienation. Nevertheless, Jaeggi is often criticised for neglecting the social aspects of alienation and exhausting individuals to fight against alienation on their own. However, Eliot's literary work again helps remedy this flaw, as it pins down the dialectic of individual and shared practices.</p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head>18Harvey,</head><label></label><figDesc>"Ideas in George Eliot (Review of U. C. Knoepflmacher, 'Religious Humanism and the Victorian Novel: George Eliot, Walter Pater, and Samuel Butler' and Bernard J. Paris, 'Experiments in Life: George Eliot's Quest for Values')," 86. 19 Knoepflmacher, "George Eliot, Feuerbach, and the Question of Criticism," 309. 20 See Shuttleworth, George Eliot and Nineteenth-Century Science; Perlis, A Return to the Primal Self; Paxton, George Eliot and Herbert Spencer; Hesse, George Eliot and Auguste Comte; Davis, George Eliot and Nineteenth-Century Psychology. 21 Gatens, "Chapter 25 Philosophy," 214. 22 See Gatens, "The 'Disciplined Imagination'," 25-34; Gatens, "Imagination, Religion, and Morality," 221-39. 23 See Newton, "Chapter 4 Eliot and the Reinterpretation of the Ethical," 77-96. 24 Yousef, The Aesthetic Commonplace, 163.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_1"><head></head><label></label><figDesc>Theories ofAlienation, 3, 133.   30   TenHouten, Alienation and Affect, 13-17. 31 Ibid., 17. 32 Musto and Marx, Musto, 3; Sayers, Marx and Alienation, 3; Henning, Theories of Alienation, 46 See Musto and Sayers for the issue of translation from the German vocabulary.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_2"><head></head><label></label><figDesc>33</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_3"><head>34Henning,</head><label></label><figDesc>Theories of Alienation, 133. 35 "'alienation, n.'.".</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_4"><head></head><label></label><figDesc>36</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_5"><head></head><label></label><figDesc>37See, for example, Cave, "Introduction," 1; Shillock, "Hoarding Motherhood in Silas Marner," 35; Mallen, "George Eliot and the Precious Mettle of Trust," 54. 38 "'alienation, n.'." 39 TenHouten, Alienation and Affect, 9. 40 Newton, George Eliot, 84.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_6"><head>63Milner,</head><label></label><figDesc>The Structure of Values in GeorgeEliot, 6-7; Shuttleworth, George Eliot and Nineteenth-Century Science, 85; Court- ney Berger, "When Bad Things Happen to Bad People," 310.   64   Nocera and Oliva, "Money as a Practical Abstraction," 49; Giray, "The Foundations of Marx's Theory of Alienation," 1665. 65 Adams, "Feminine Godhead, Feminist Symbol," 47. 66 Giray, "The Foundations of Marx's Theory of Alienation," 1666. 67 Levine, "The Protestant Ethic and the 'Spirit' of Money," 389. 68 Eliot, Silas Marner, 16. 69 Cohen, "A History and a Metamorphosis," 420. 70 Shuttleworth, George Eliot and Nineteenth-Century Science, 86-87. 71 Works by Musto, Padgett, Ollman, Yuill, Henning, Sayers all contain chapters dedicated to the interpretation of Marx's alienation of labour under capitalism.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_7"><head></head><label></label><figDesc>Economic and Philosophic Manuscripts of 1844," 54. 74 Marx, Capital, 739. 75 Musto, "Economic and Philosophic Manuscripts of 1844," 54. 76 Berger, "When Bad Things Happen to Bad People," 310. 77 Perlis, A Return to the Primal Self, 159. 78 Ibid., 159-60. 79 Brown, "Loss, Revelry, and the Temporal Measures of 'Silas Marner'," 556-57. 80 Milner, The Structure of Values in George Eliot, 1.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_8"><head>88Jaeggi,</head><label></label><figDesc>Alienation, 25 emphasis original. 89Ibid., 36.  </figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_9"><head></head><label></label><figDesc>90 Cave, "Introduction," 1. 91 See Wiesenfarth, "Demythologizing Silas Marner," 226-44; Swann, "'Silas Marner' and the New Mythus." 92 See Berger, "When Bad Things Happen to Bad People"; Blumberg, "Stealing the 'Parson's Surplice'/the Person's Surplus," 490-519. 93 See Bowlby, A Child of One's Own, 142; Alley, "Silas Marner and the Anonymous Heroism of Parenthood". 94 Jaeggi, Alienation, 37.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_0"><head></head><label></label><figDesc>Alienation; Sayers, Marx and Alienation; Musto and Marx, Karl Marx's Writings on Alienation. The Structure of Values in George Eliot, 7.</figDesc><table><row><cell>25 See, for example, Ollman, 26 Thomson, "The Theme of Alienation in Silas Marner," 74.</cell></row></table><note><p><p>27</p>Milner,</p></note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_1"><head></head><label></label><figDesc>However, it has been argued that alienation in Silas Marner does not "On Superstition and Prejudice in the Beginning of Silas Marner," 7. Revelry, and the Temporal Measures of 'Silas Marner'," 225. Memory and History in George Eliot, 42. Silas Marner' and the New Mythus," 108. Swann even compares Silas as Sleeping Beauty in a state of spiritual slumber, waiting for human contact to awaken him.</figDesc><table><row><cell>52 Ibid., 7.</cell></row><row><cell>56 Newton, Romantic Humanist, 84.</cell></row></table><note><p>53 Mazaheri, 54 Brown, "Loss, 55 Li, 57 Sonstroem, "The Breaks in 'Silas Marner'," 555. 58 Swann, "'59 Eliot, Silas Marner, 14. 60 Sonstroem, "The Breaks in 'Silas Marner'," 551. 61 Nocera and Oliva, "Money as a Practical Abstraction: From Feuerbach to Marx Through Hess (1841-1844)," 50. 62 "'alienation, n.'."</p></note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_3"><head></head><label></label><figDesc>Stewart, "Genres of Work'," 521; Eliot, Silas Marner, 129; Bowlby, A Child of One's Own, 135; Alley, "Silas Marner and the Anonymous Heroism of Parenthood," 152. 123 See Lynn Broughton and Rogers, Gender and Fatherhood in the Nineteenth Century; McKnight, Fathers in Victorian</figDesc><table /></figure>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="3" xml:id="foot_0"><p>Ibid., 214; Lovesey, "Chapter 28 Religion," 240.</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="158" xml:id="foot_1"><p>Henry, "Chapter 8 GeorgeEliot and Politics,<ref type="bibr" target="#b25">" 144.</ref> </p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="159" xml:id="foot_2"><p>Gatens, "'Disciplined Imagination'," 30.   </p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="160" xml:id="foot_3"><p>Eliot, The George Eliot Letters, Vol. 6: 1874-1877, 216; Gatens, "'Disciplined Imagination'," 30-31.   </p></note>
+		</body>
+		<back>
+
+			
+			<div type="acknowledgement">
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Acknowledgements</head></div>
+			</div>
+
+
+			<div type="funding">
+<div><head>Funding</head><p>This work was supported by <rs type="funder">NTU Research scholarship (Reg</rs>. No. <rs type="grantNumber">200604393R</rs>).</p></div>
+<div><head>ORCID</head><p>Rui Qian http://orcid.org/<rs type="grantNumber">0000-0002-2419-2057</rs></p></div>
+			</div>
+			<listOrg type="funding">
+				<org type="funding" xml:id="_3RxQH9a">
+					<idno type="grant-number">200604393R</idno>
+				</org>
+				<org type="funding" xml:id="_KSwkGPE">
+					<idno type="grant-number">0000-0002-2419-2057</idno>
+				</org>
+			</listOrg>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<analytic>
+		<title level="a" type="main">Ludwig Feuerbach&apos;s Concept of the Alienation of Human Essence Through Religion</title>
+		<author>
+			<persName><surname>Bischoff</surname></persName>
+		</author>
+		<idno>44. 42</idno>
+	</analytic>
+	<monogr>
+		<title level="m">227; Adams, &quot;Feminine Godhead, Feminist Symbol</title>
+		<imprint>
+			<biblScope unit="page">43</biblScope>
+		</imprint>
+	</monogr>
+	<note>Money as a Practical Abstraction</note>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<monogr>
+		<title level="m" type="main">Money as a Practical Abstraction</title>
+		<imprint>
+			<biblScope unit="page">43</biblScope>
+		</imprint>
+	</monogr>
+	<note>43 Nocera and Oliva</note>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<monogr>
+		<title level="m" type="main">Ludwig Feuerbach&apos;s Concept of the Alienation of Human Essence Through Religion</title>
+		<author>
+			<persName><surname>Bischoff</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="page">27</biblScope>
+		</imprint>
+	</monogr>
+	<note>Awakening the &apos;Mere Pulsation of Desire&apos; in Silas Marner</note>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<monogr>
+		<title level="m" type="main">The Breaks in &apos;Silas Marner</title>
+		<imprint>
+			<biblScope unit="page">551</biblScope>
+		</imprint>
+	</monogr>
+	<note>46 Sonstroem</note>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<monogr>
+		<title level="m" type="main">Chapter 25 Philosophy</title>
+		<author>
+			<persName><surname>Gatens</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="page">218</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<monogr>
+		<title level="m">48 Cervetti, Scenes of Reading and Writing</title>
+		<imprint>
+			<biblScope unit="volume">21</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<monogr>
+		<title level="m" type="main">A History and a Metamorphosis&apos;: Continuity and Discontinuity in Silas Marner</title>
+		<author>
+			<persName><surname>Cohen</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="page">423</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<monogr>
+		<title level="m">50 Cervetti, Scenes of Reading and Writing</title>
+		<imprint>
+			<biblScope unit="page">22</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">Silas</forename><surname>Eliot</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Marner</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="page">7</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">Silas</forename><surname>Eliot</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Marner</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="page" from="12" to="13" />
+		</imprint>
+	</monogr>
+	<note>9 emphasis added. 106 Ibid</note>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<monogr>
+		<title level="m" type="main">Structure and Quality in Silas Marner</title>
+		<author>
+			<persName><surname>Milner</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="page">718</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<monogr>
+		<title level="m" type="main">The Theme of Alienation in Silas Marner</title>
+		<author>
+			<persName><surname>Thomson</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="page">80</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<monogr>
+		<title level="m" type="main">Alienation</title>
+		<author>
+			<persName><surname>Jaeggi</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="page" from="88" to="89" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<monogr>
+		<title level="m" type="main">A History and a Metamorphosis</title>
+		<author>
+			<persName><surname>Cohen</surname></persName>
+		</author>
+		<idno>420. 112 Ibid</idno>
+		<imprint>
+			<biblScope unit="page">77</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<monogr>
+		<title level="m" type="main">Imagination, Religion, and Morality</title>
+		<author>
+			<persName><surname>Gatens</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="page">228</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title level="a" type="main">The Victorian Baby in Print for idolisation of babyhood. Berry</title>
+		<author>
+			<persName><forename type="first">See</forename><surname>Wagner</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">The Child, the State, and the Victorian Novel, 16. 115 Jaeggi, Alienation</title>
+		<imprint>
+			<biblScope unit="page">93</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<monogr>
+		<title level="m" type="main">Communities of Care</title>
+		<author>
+			<persName><forename type="first">See</forename><surname>Schaffer</surname></persName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<monogr>
+		<title level="m" type="main">124 emphasis original. 118 Ibid</title>
+		<author>
+			<persName><forename type="first">Silas</forename><surname>Eliot</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Marner</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="page">131</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<monogr>
+		<title level="m" type="main">The Child, the State, and the Victorian Novel</title>
+		<author>
+			<persName><surname>Berry</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="page">97</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<monogr>
+		<title/>
+		<author>
+			<persName><surname>Ibid</surname></persName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<monogr>
+		<title level="m" type="main">Communities of Care</title>
+		<author>
+			<persName><forename type="first">See</forename><surname>Schaffer</surname></persName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<monogr>
+		<title level="m" type="main">Toward a Marxist Concept of Community</title>
+		<author>
+			<persName><surname>Holm</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="page">9</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<monogr>
+		<title level="m" type="main">Silas Marner and the Anonymous Heroism of Parenthood</title>
+		<author>
+			<persName><surname>Alley</surname></persName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<monogr>
+		<title level="m" type="main">Silas Marner and the Ecology of Form</title>
+		<author>
+			<persName><surname>Griffiths</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="page">300</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<monogr>
+		<title/>
+		<author>
+			<persName><surname>Tönnies</surname></persName>
+		</author>
+		<imprint>
+			<publisher>Community and Civil Society</publisher>
+			<biblScope unit="page">22</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<monogr>
+		<title level="m" type="main">Eliot and Nineteenth-Century Science, 4. 145 Ibid</title>
+		<author>
+			<persName><forename type="first">George</forename><surname>Shuttleworth</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="volume">83</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<monogr>
+		<title level="m" type="main">Romantic Humanist</title>
+		<author>
+			<persName><forename type="first">Newton</forename></persName>
+		</author>
+		<imprint>
+			<biblScope unit="page" from="84" to="86" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b27">
+	<monogr>
+		<title level="m" type="main">Scenes of Reading and Writing</title>
+		<author>
+			<persName><surname>Cervetti</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="page" from="24" to="25" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b28">
+	<monogr>
+		<author>
+			<persName><forename type="first">George</forename><surname>Newton</surname></persName>
+		</author>
+		<title level="m">Eliot for the Twenty-First Century</title>
+		<imprint>
+			<biblScope unit="page" from="28" to="29" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b29">
+	<monogr>
+		<title level="m" type="main">Defining the Victorian Nation; Frank, Law, Literature, and the Transmission of Culture in England</title>
+		<author>
+			<persName><forename type="first">See</forename><surname>Davidoff</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Family</forename><surname>Hall</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">;</forename><surname>Fortunes</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Hall</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Rendall</forename><surname>Mcclelland</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="page" from="1837" to="1925" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b30">
+	<monogr>
+		<title level="m" type="main">The Politics of Gender in Victorian Britain</title>
+		<author>
+			<persName><forename type="first">Griffin</forename></persName>
+		</author>
+		<imprint>
+			<publisher>Gordon and Nair, Public Lives</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b31">
+	<analytic>
+		<title level="a" type="main">Marx on Gender and the Family; Chae</title>
+		<author>
+			<persName><forename type="first">See</forename><surname>Brown</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Marx on the Family and Class Consciousness</title>
+		<imprint>
+			<biblScope unit="page" from="262" to="277" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b32">
+	<monogr>
+		<title level="m" type="main">Feminine Godhead, Feminist Symbol</title>
+		<author>
+			<persName><surname>Adams</surname></persName>
+		</author>
+		<idno>47. 155 Ibid</idno>
+		<imprint>
+			<biblScope unit="page">48</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b33">
+	<monogr>
+		<title level="m" type="main">Scenes of Reading and Writing</title>
+		<author>
+			<persName><surname>Cervetti</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="page">26</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b34">
+	<monogr>
+		<title level="m" type="main">Comtean Fetishism in Silas Marner</title>
+		<author>
+			<persName><surname>Mclaverty</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="page">319</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b35">
+	<analytic>
+		<author>
+			<persName><forename type="first">References</forename><surname>Adams</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Kimberly</forename><forename type="middle">V</forename></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Ludwig</forename><surname>Feuerbach</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Anna</forename><surname>Jameson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Margaret</forename><surname>Fuller</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Feminine Godhead, Feminist Symbol: The Madonna in George Eliot</title>
+		<imprint>
+			<date type="published" when="1996">1996</date>
+			<biblScope unit="volume">12</biblScope>
+			<biblScope unit="page" from="41" to="70" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b36">
+	<monogr>
+		<ptr target="https://www.oed.com/view/Entry/4999?redirectedFrom=alienation" />
+		<title level="m">OED Online</title>
+		<imprint>
+			<publisher>Oxford University Press</publisher>
+			<date type="published" when="2023-03">March 2023</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b37">
+	<analytic>
+		<title level="a" type="main">Silas Marner and the Anonymous Heroism of Parenthood</title>
+		<author>
+			<persName><forename type="first">Henry</forename><surname>Alley</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">George Eliot&apos;s Silas Marner</title>
+		<editor>
+			<persName><forename type="first">Harold</forename><surname>Bloom</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Philadelphia</addrLine></address></meeting>
+		<imprint>
+			<publisher>Chelsea House Publishers</publisher>
+			<date type="published" when="1997">1997</date>
+			<biblScope unit="page" from="151" to="162" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b38">
+	<monogr>
+		<title level="m" type="main">19: Interdisciplinary Studies in the Long Nineteenth Century</title>
+		<author>
+			<persName><forename type="first">Isobel</forename><surname>Armstrong</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2020">2020</date>
+			<biblScope unit="page">29</biblScope>
+		</imprint>
+	</monogr>
+	<note>George Eliot, Hegel, and Middlemarch</note>
+</biblStruct>
+
+<biblStruct xml:id="b39">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">Rosemary</forename><forename type="middle">George</forename><surname>Ashton</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Eliot</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1996">1996</date>
+			<publisher>The Penguin Press</publisher>
+			<pubPlace>New York</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b40">
+	<analytic>
+		<title level="a" type="main">When Bad Things Happen to Bad People: Liability and Individual Consciousness in &quot;Adam Bede&quot; and &quot;Silas Marner</title>
+		<author>
+			<persName><forename type="first">Courtney</forename><surname>Berger</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">NOVEL: A Forum on Fiction</title>
+		<imprint>
+			<date type="published" when="2000">2000</date>
+			<biblScope unit="volume">33</biblScope>
+			<biblScope unit="page" from="307" to="327" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b41">
+	<monogr>
+		<title level="m" type="main">The Child, the State, and the Victorian Novel</title>
+		<author>
+			<persName><forename type="first">Laura</forename><forename type="middle">C</forename><surname>Berry</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1999">1999</date>
+			<publisher>University Press of Virginia</publisher>
+			<pubPlace>Charlottesville</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b42">
+	<analytic>
+		<title level="a" type="main">Ludwig Feuerbach&apos;s Concept of the Alienation of Human Essence through Religion</title>
+		<author>
+			<persName><forename type="first">Howard</forename><forename type="middle">W</forename><surname>Bischoff</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nineteenth-Century Literature Criticism</title>
+		<imprint>
+			<biblScope unit="volume">139</biblScope>
+			<biblScope unit="page" from="231" to="352" />
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b43">
+	<analytic>
+		<title level="a" type="main">Stealing the &apos;Parson&apos;s Surplice&apos;/the Person&apos;s Surplus: Narratives of Abstraction and Exchange in Silas Marner</title>
+		<author>
+			<persName><forename type="first">Ilana</forename><forename type="middle">M</forename><surname>Blumberg</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nineteenth-Century Literature</title>
+		<imprint>
+			<biblScope unit="volume">67</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="490" to="519" />
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b44">
+	<monogr>
+		<title level="m" type="main">A Child of One&apos;s Own: Parental Stories</title>
+		<author>
+			<persName><forename type="first">Rachel</forename><surname>Bowlby</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2013">2013</date>
+			<publisher>Oxford University Press</publisher>
+			<pubPlace>Oxford</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b45">
+	<monogr>
+		<title level="m" type="main">Gender and Fatherhood in the Nineteenth Century. Gender and History</title>
+		<editor>Broughton, Trev Lynn, and Helen Rogers</editor>
+		<imprint>
+			<date type="published" when="2007">2007</date>
+			<publisher>Palgrave Macmillan</publisher>
+			<pubPlace>Basingstoke</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b46">
+	<monogr>
+		<author>
+			<persName><forename type="first">Heather</forename><forename type="middle">A</forename><surname>Brown</surname></persName>
+		</author>
+		<title level="m">Marx on Gender and the Family: A Critical Study. Historical Materialism Book Series</title>
+		<meeting><address><addrLine>Leiden</addrLine></address></meeting>
+		<imprint>
+			<publisher>Brill</publisher>
+			<date type="published" when="2012">2012</date>
+			<biblScope unit="volume">39</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b47">
+	<monogr>
+		<title level="m" type="main">Loss, Revelry, and the Temporal Measures of &apos;Silas Marner&apos;: Performance, Regret, Recollection</title>
+		<author>
+			<persName><forename type="first">Kate</forename><forename type="middle">E</forename><surname>Brown</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1999">1999</date>
+			<biblScope unit="volume">32</biblScope>
+			<biblScope unit="page" from="222" to="249" />
+		</imprint>
+	</monogr>
+	<note>NOVEL: A Forum on Fiction</note>
+</biblStruct>
+
+<biblStruct xml:id="b48">
+	<analytic>
+		<title level="a" type="main">Introduction</title>
+		<author>
+			<persName><forename type="first">Terence</forename><surname>Cave</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Silas Marner: The Weaver of Raveloe</title>
+		<editor>
+			<persName><forename type="first">Terence</forename><surname>Cave</surname></persName>
+		</editor>
+		<editor>
+			<persName><surname>Vii-Xxxi</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Oxford</addrLine></address></meeting>
+		<imprint>
+			<publisher>Oxford University Press</publisher>
+			<date type="published" when="1998">1998</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b49">
+	<monogr>
+		<author>
+			<persName><forename type="first">Nancy</forename><surname>Cervetti</surname></persName>
+		</author>
+		<title level="m">Scenes of Reading: Transforming Romance in Brontë, Eliot, and Woolf</title>
+		<meeting><address><addrLine>New York</addrLine></address></meeting>
+		<imprint>
+			<publisher>Peter Lang</publisher>
+			<date type="published" when="1998">1998</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b50">
+	<analytic>
+		<title level="a" type="main">Marx on the Family and Class Consciousness</title>
+		<author>
+			<persName><forename type="first">Haesook</forename><surname>Chae</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Rethinking Marxism</title>
+		<imprint>
+			<biblScope unit="volume">26</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="262" to="277" />
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b51">
+	<analytic>
+		<title level="a" type="main">A History and a Metamorphosis&apos;: Continuity and Discontinuity in Silas Marner</title>
+		<author>
+			<persName><forename type="first">Susan</forename><forename type="middle">R</forename><surname>Cohen</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Texas Studies in Literature and Language</title>
+		<imprint>
+			<biblScope unit="volume">25</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="410" to="426" />
+			<date type="published" when="1983">1983</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b52">
+	<monogr>
+		<author>
+			<persName><forename type="first">Leonore</forename><surname>Davidoff</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Catherine</forename><surname>Hall</surname></persName>
+		</author>
+		<title level="m">Family Fortunes: Men and Women of the English Middle Class, 1780-1850</title>
+		<meeting><address><addrLine>Chicago</addrLine></address></meeting>
+		<imprint>
+			<publisher>University of Chicago Press</publisher>
+			<date type="published" when="1991">1991</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b53">
+	<monogr>
+		<title level="m" type="main">George Eliot and Nineteenth-Century Psychology: Exploring the Unmapped Country</title>
+		<author>
+			<persName><forename type="first">Michael</forename><surname>Davis</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2006">2006</date>
+			<publisher>Ashgate</publisher>
+			<pubPlace>Aldershot</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b54">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">George</forename><surname>Eliot</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="s">The George Eliot Letters</title>
+		<editor>
+			<persName><forename type="first">Gordon</forename><forename type="middle">S</forename><surname>Haight</surname></persName>
+		</editor>
+		<imprint>
+			<biblScope unit="volume">6</biblScope>
+			<biblScope unit="page" from="1874" to="1877" />
+			<date type="published" when="1954">1954</date>
+			<publisher>Yale University Press</publisher>
+			<pubPlace>New Haven</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b55">
+	<monogr>
+		<title level="m">Silas Marner: The Weaver of Raveloe</title>
+		<editor>
+			<persName><forename type="first">Terence</forename><surname>Cave</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Oxford</addrLine></address></meeting>
+		<imprint>
+			<publisher>Oxford University Press</publisher>
+			<date type="published" when="1998">1998</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b56">
+	<analytic>
+		<title level="a" type="main">Rahel Jaeggi&apos;s Theory of Alienation</title>
+		<author>
+			<persName><forename type="first">Justin</forename><surname>Evans</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">History of the Human Sciences</title>
+		<imprint>
+			<biblScope unit="volume">35</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="126" to="143" />
+			<date type="published" when="2022-04-01">April 1, 2022</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b57">
+	<monogr>
+		<author>
+			<persName><forename type="first">Cathrine</forename><forename type="middle">O</forename><surname>Frank</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Law</surname></persName>
+		</author>
+		<title level="m">Literature, and the Transmission of Culture in England, 1837-1925</title>
+		<meeting><address><addrLine>Farnham, Surrey</addrLine></address></meeting>
+		<imprint>
+			<publisher>Ashgate</publisher>
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b58">
+	<monogr>
+		<title level="m" type="main">Man&apos;s Estate: Landed Gentry Masculinities, 1660-1900</title>
+		<author>
+			<persName><forename type="first">Henry</forename><surname>French</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Mark</forename><surname>Rothery</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2012">2012</date>
+			<publisher>Oxford University Press</publisher>
+			<pubPlace>Oxford</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b59">
+	<analytic>
+		<title level="a" type="main">The &apos;Disciplined Imagination&apos;: Literature as &apos;Experimental&apos; Philosophy</title>
+		<author>
+			<persName><forename type="first">Moira</forename><surname>Gatens</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Australian Feminist Studies</title>
+		<imprint>
+			<biblScope unit="volume">22</biblScope>
+			<biblScope unit="issue">52</biblScope>
+			<biblScope unit="page" from="25" to="34" />
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b60">
+	<analytic>
+		<title level="a" type="main">Chapter 25 Philosophy</title>
+	</analytic>
+	<monogr>
+		<title level="m">George Eliot in Context</title>
+		<editor>
+			<persName><forename type="first">Margaret</forename><surname>Harris</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Cambridge</addrLine></address></meeting>
+		<imprint>
+			<publisher>Cambridge University Press</publisher>
+			<date type="published" when="2013">2013</date>
+			<biblScope unit="page" from="214" to="221" />
+		</imprint>
+	</monogr>
+	<note>Literature in Context</note>
+</biblStruct>
+
+<biblStruct xml:id="b61">
+	<monogr>
+		<title level="m" type="main">Imagination, Religion, and Morality: What Did George Eliot Learn from Spinoza and Feuerbach</title>
+		<editor>Eileen O&apos;Neill, and Marcy P. Lascano</editor>
+		<imprint>
+			<date type="published" when="2019">2019</date>
+			<publisher>Springer International Publishing</publisher>
+			<biblScope unit="page" from="221" to="239" />
+			<pubPlace>Cham</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b62">
+	<analytic>
+		<title level="a" type="main">The Foundations of Marx&apos;s Theory Of Alienation: Marx&apos;s Critique of His Predecessors And Alienated Labour</title>
+		<author>
+			<persName><forename type="first">Görkem</forename><surname>Giray</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Dokuz Eylul University Journal of Graduate School of Social Sciences</title>
+		<imprint>
+			<biblScope unit="volume">24</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="1656" to="1680" />
+			<date type="published" when="2022">2022</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b63">
+	<monogr>
+		<title level="m" type="main">Public Lives: Women, Family, and Society in Victorian Britain</title>
+		<author>
+			<persName><forename type="first">Eleanor</forename><surname>Gordon</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Gwyneth</forename><surname>Nair</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2003">2003</date>
+			<publisher>Yale University Press</publisher>
+			<pubPlace>New Haven</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b64">
+	<monogr>
+		<author>
+			<persName><forename type="first">Ben</forename><surname>Griffin</surname></persName>
+		</author>
+		<title level="m">The Politics of Gender in Victorian Britain: Masculinity, Political Culture, and the Struggle for Women&apos;s Rights</title>
+		<meeting><address><addrLine>Cambridge</addrLine></address></meeting>
+		<imprint>
+			<publisher>Cambridge University Press</publisher>
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b65">
+	<analytic>
+		<title level="a" type="main">Silas Marner and the Ecology of Form</title>
+		<author>
+			<persName><forename type="first">Devin</forename><surname>Griffiths</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Victorian Literature and Culture</title>
+		<imprint>
+			<biblScope unit="volume">48</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="299" to="326" />
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b66">
+	<monogr>
+		<title level="m" type="main">George Eliot: A Biography</title>
+		<author>
+			<persName><forename type="first">Gordon</forename><surname>Haight</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Sherman</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1985">1985</date>
+			<publisher>Penguin</publisher>
+			<pubPlace>New York</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b67">
+	<monogr>
+		<title level="m" type="main">Defining the Victorian Nation: Class, Race, Gender and the British Reform Act of 1867</title>
+		<author>
+			<persName><forename type="first">Catherine</forename><surname>Hall</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Keith</forename><surname>Mcclelland</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Jane</forename><surname>Rendall</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2000">2000</date>
+			<publisher>Cambridge University Press</publisher>
+			<pubPlace>Cambridge, UK</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b68">
+	<analytic>
+		<title level="a" type="main">Ideas in George Eliot (Review of U. C. Knoepflmacher, &apos;Religious Humanism and the Victorian Novel</title>
+		<author>
+			<persName><forename type="first">William</forename><forename type="middle">J</forename><surname>Harvey</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">George</forename><surname>Eliot</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Walter</forename><surname>Pater</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Samuel</forename><surname>Butler</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">'</forename></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Bernard</forename><forename type="middle">J</forename><surname>Paris</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Modern Language Quarterly (Seattle)</title>
+		<imprint>
+			<biblScope unit="volume">27</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="86" to="91" />
+			<date type="published" when="1966">1966</date>
+		</imprint>
+	</monogr>
+	<note>Experiments in Life: George Eliot&apos;s Quest for Values&apos;)</note>
+</biblStruct>
+
+<biblStruct xml:id="b69">
+	<analytic>
+		<title level="a" type="main">Reconstructing Alienation: A Challenge to Social Critique?</title>
+		<author>
+			<persName><forename type="first">Beatrijs</forename><surname>Haverkamp</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Krisis</title>
+		<imprint>
+			<biblScope unit="volume">1</biblScope>
+			<biblScope unit="page" from="66" to="71" />
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b70">
+	<analytic>
+		<title level="a" type="main">Theories of Alienation: From Rousseau to the Present</title>
+		<author>
+			<persName><forename type="first">Christoph</forename><forename type="middle">;</forename><surname>Henning</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Nancy</forename><surname>Henry</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">The Cambridge Companion to George Eliot</title>
+		<editor>
+			<persName><forename type="first">George</forename><surname>Levine</surname></persName>
+		</editor>
+		<meeting><address><addrLine>New York; Cambridge</addrLine></address></meeting>
+		<imprint>
+			<publisher>Cambridge University Press</publisher>
+			<date type="published" when="2019">2024. 2019</date>
+			<biblScope unit="page" from="138" to="158" />
+		</imprint>
+	</monogr>
+	<note>Chapter 8 George Eliot and Politics</note>
+</biblStruct>
+
+<biblStruct xml:id="b71">
+	<monogr>
+		<title level="m" type="main">The Influence of Comtean Philosophy on the Novels of George Eliot</title>
+		<author>
+			<persName><forename type="first">David</forename><forename type="middle">M</forename><surname>Hesse</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Eliot</forename><surname>George</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Auguste</forename><surname>Comte</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1996">1996</date>
+			<publisher>Peter Lang</publisher>
+			<pubPlace>Frankfurt am Main</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b72">
+	<analytic>
+		<title level="a" type="main">Toward a Marxist Concept of Community</title>
+		<author>
+			<persName><forename type="first">Andreas</forename><surname>Holm</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Beck</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">SATS</title>
+		<imprint>
+			<biblScope unit="volume">21</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="1" to="20" />
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b73">
+	<analytic>
+		<title level="a" type="main">The Literature of Alienation</title>
+		<author>
+			<persName><forename type="first">Mary</forename><surname>Horton</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">The Sociological Review</title>
+		<editor>
+			<persName><forename type="first">Frederick</forename><surname>Neuhouser</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">Alan</forename><forename type="middle">E</forename><surname>Translated</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">Frederick</forename><surname>Smith</surname></persName>
+		</editor>
+		<editor>
+			<persName><surname>Neuhouser</surname></persName>
+		</editor>
+		<imprint>
+			<biblScope unit="volume">26</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="197" to="220" />
+			<date type="published" when="1978-05-01">May 1, 1978. 2014</date>
+			<publisher>Columbia University Press</publisher>
+			<pubPlace>New York, NY</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b74">
+	<monogr>
+		<title level="m">Critique of Forms of Life. Translated by Ciaran Cronin</title>
+		<meeting><address><addrLine>Cambridge</addrLine></address></meeting>
+		<imprint>
+			<publisher>Harvard University Press</publisher>
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b75">
+	<analytic>
+		<title level="a" type="main">Hegel, Derrida, George Eliot, and the Novel</title>
+		<author>
+			<persName><forename type="first">Gerhard</forename><surname>Joseph</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Literature, Interpretation, Theory</title>
+		<imprint>
+			<date type="published" when="1989">1989</date>
+			<biblScope unit="volume">1</biblScope>
+			<biblScope unit="page" from="59" to="68" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b76">
+	<analytic>
+		<title level="a" type="main">George Eliot, Feuerbach, and the Question of Criticism</title>
+		<author>
+			<persName><forename type="first">U</forename><forename type="middle">C</forename><surname>Knoepflmacher</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Victorian Studies</title>
+		<imprint>
+			<biblScope unit="volume">7</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="306" to="309" />
+			<date type="published" when="1964">1964</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b77">
+	<analytic>
+		<title level="a" type="main">The Protestant Ethic and the &apos;Spirit&apos; of Money: Max Weber, Silas Marner, and the Victorian Novel</title>
+		<author>
+			<persName><forename type="first">George</forename><surname>Levine</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">The Oxford Handbook of the Victorian Novel</title>
+		<editor>
+			<persName><forename type="first">Lisa</forename><surname>Rodensky</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Oxford</addrLine></address></meeting>
+		<imprint>
+			<publisher>Oxford University Press</publisher>
+			<date type="published" when="2013">2013</date>
+			<biblScope unit="page" from="376" to="396" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b78">
+	<analytic>
+		<title level="a" type="main">Introduction: George Eliot and the Art of Realism</title>
+	</analytic>
+	<monogr>
+		<title level="m">The Cambridge Companion to George Eliot</title>
+		<editor>
+			<persName><forename type="first">George</forename><surname>Levine</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Cambridge</addrLine></address></meeting>
+		<imprint>
+			<publisher>Cambridge University Press</publisher>
+			<date type="published" when="2019">2019</date>
+			<biblScope unit="page" from="1" to="18" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b79">
+	<monogr>
+		<title level="m" type="main">Memory and History in George Eliot: Transfiguring the Past</title>
+		<author>
+			<persName><forename type="first">Hao</forename><surname>Li</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2000">2000</date>
+			<publisher>Palgrave Macmillan UK</publisher>
+			<pubPlace>London</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b80">
+	<analytic>
+		<title level="a" type="main">Chapter 28 Religion</title>
+		<author>
+			<persName><forename type="first">Oliver</forename><surname>Lovesey</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">George Eliot in Context</title>
+		<editor>
+			<persName><forename type="first">Margaret</forename><surname>Harris</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Cambridge</addrLine></address></meeting>
+		<imprint>
+			<publisher>Cambridge University Press</publisher>
+			<date type="published" when="2013">2013</date>
+			<biblScope unit="page" from="238" to="247" />
+		</imprint>
+	</monogr>
+	<note>Literature in Context</note>
+</biblStruct>
+
+<biblStruct xml:id="b81">
+	<analytic>
+		<title level="a" type="main">George Eliot and the Precious Mettle of Trust</title>
+		<author>
+			<persName><forename type="first">Richard</forename><forename type="middle">D</forename><surname>Mallen</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Victorian Studies</title>
+		<imprint>
+			<biblScope unit="volume">44</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="41" to="75" />
+			<date type="published" when="2001">2001</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b82">
+	<monogr>
+		<title level="m" type="main">Capital: A Critique of Political Economy, Volume One</title>
+		<author>
+			<persName><forename type="first">Karl</forename><surname>Marx</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1990">1990</date>
+			<publisher>Penguin</publisher>
+			<pubPlace>London</pubPlace>
+		</imprint>
+	</monogr>
+	<note>Translated by Ben Fowkes</note>
+</biblStruct>
+
+<biblStruct xml:id="b83">
+	<analytic>
+		<title level="a" type="main">On Superstition and Prejudice in the Beginning of Silas Marner</title>
+		<author>
+			<persName><forename type="first">John</forename><forename type="middle">H</forename><surname>Mazaheri</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Connotations (Münster in Westfalen, Germany)</title>
+		<imprint>
+			<biblScope unit="volume">19</biblScope>
+			<biblScope unit="issue">1-3</biblScope>
+			<biblScope unit="page">238</biblScope>
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b84">
+	<monogr>
+		<title level="m" type="main">Fathers in Victorian Fiction</title>
+		<author>
+			<persName><forename type="first">Natalie</forename><surname>Mcknight</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2011">2011</date>
+			<publisher>Cambridge Scholars Publishing</publisher>
+			<pubPlace>Newcastle-upon-Tyne</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b85">
+	<analytic>
+		<title level="a" type="main">Comtean Fetishism in Silas Marner</title>
+		<author>
+			<persName><forename type="first">James</forename><surname>Mclaverty</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nineteenth-Century Fiction</title>
+		<imprint>
+			<biblScope unit="volume">36</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="318" to="336" />
+			<date type="published" when="1981">1981</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b86">
+	<analytic>
+		<title level="a" type="main">Dickens, Industry, and Technology</title>
+		<author>
+			<persName><forename type="first">Richard</forename><surname>Menke</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">The Oxford Handbook of Charles Dickens</title>
+		<editor>
+			<persName><forename type="first">Robert</forename><forename type="middle">L</forename><surname>Patten</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">John</forename><forename type="middle">O</forename><surname>Jordan</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">Catherine</forename><surname>Waters</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Oxford</addrLine></address></meeting>
+		<imprint>
+			<publisher>Oxford University Press</publisher>
+			<date type="published" when="2021">2021</date>
+			<biblScope unit="page" from="436" to="451" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b87">
+	<analytic>
+		<title level="a" type="main">Structure and Quality in Silas Marner</title>
+		<author>
+			<persName><forename type="first">Ian</forename><surname>Milner</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Studies in English Literature</title>
+		<imprint>
+			<biblScope unit="volume">6</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="717" to="729" />
+			<date type="published" when="1966">1966</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b88">
+	<monogr>
+		<title level="m">The Structure of Values in George Eliot. Praha: Universita Karlova</title>
+		<imprint>
+			<date type="published" when="1968">1968</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b89">
+	<analytic>
+		<title level="a" type="main">George Eliot and Conservatism-Part II</title>
+		<author>
+			<persName><forename type="first">Bob</forename><surname>Muscutt</surname></persName>
+		</author>
+		<ptr target="http://www.nuneatonhistory.com/george-eliot.html" />
+	</analytic>
+	<monogr>
+		<title level="m">The Nuneaton and North Warwickshire Local and Family History Web Site (blog)</title>
+		<imprint>
+			<date type="published" when="2024-11-12">November 12, 2024</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b90">
+	<analytic>
+		<title level="a" type="main">Economic and Philosophic Manuscripts of 1844</title>
+		<author>
+			<persName><forename type="first">Marcello</forename><surname>Musto</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Karl Marx&apos;s Writings on Alienation</title>
+		<meeting><address><addrLine>Cham</addrLine></address></meeting>
+		<imprint>
+			<publisher>Springer International Publishing</publisher>
+			<date type="published" when="2021">2021</date>
+			<biblScope unit="page" from="52" to="58" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b91">
+	<monogr>
+		<author>
+			<persName><forename type="first">Marcello</forename><surname>Musto</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Karl</forename><surname>Marx</surname></persName>
+		</author>
+		<title level="m">Karl Marx&apos;s Writings on Alienation</title>
+		<editor>
+			<persName><forename type="first">Marcello</forename><surname>Musto</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Cham</addrLine></address></meeting>
+		<imprint>
+			<publisher>Springer International Publishing</publisher>
+			<date type="published" when="2021">2021</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b92">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">Pauline</forename><forename type="middle">George</forename><surname>Nestor</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Eliot</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">New</forename><surname>Hampshire</surname></persName>
+		</author>
+		<author>
+			<persName><surname>York</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2002">2002</date>
+			<publisher>Palgrave</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b93">
+	<monogr>
+		<title level="m" type="main">Romantic Humanist: A Study of the Philosophical Structure of Her Novels</title>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">M</forename><surname>Newton</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Eliot</forename><surname>George</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1981">1981</date>
+			<publisher>Palgrave Macmillan UK</publisher>
+			<pubPlace>London</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b94">
+	<analytic>
+		<title level="a" type="main">Victorian Values&apos; and Silas Marner</title>
+	</analytic>
+	<monogr>
+		<title level="m">Varieties of Victorianism</title>
+		<editor>
+			<persName><forename type="first">Gary</forename><surname>Day</surname></persName>
+		</editor>
+		<meeting><address><addrLine>London</addrLine></address></meeting>
+		<imprint>
+			<publisher>Palgrave Macmillan UK</publisher>
+			<date type="published" when="1998">1998</date>
+			<biblScope unit="page" from="110" to="125" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b95">
+	<analytic>
+		<title level="a" type="main">Eliot and the Reinterpretation of the Ethical</title>
+	</analytic>
+	<monogr>
+		<title level="m">George Eliot for the Twenty-First Century: Literature, Philosophy, Politics</title>
+		<editor>
+			<persName><forename type="first">K</forename><forename type="middle">M</forename><surname>Newton</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Cham</addrLine></address></meeting>
+		<imprint>
+			<publisher>Springer International Publishing</publisher>
+			<date type="published" when="2018">2018</date>
+			<biblScope unit="page" from="77" to="96" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b96">
+	<monogr>
+		<title level="m">George Eliot for the Twenty-First Century: Literature, Philosophy, Politics</title>
+		<meeting><address><addrLine>Cham</addrLine></address></meeting>
+		<imprint>
+			<publisher>Springer International Publishing</publisher>
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b97">
+	<monogr>
+		<title level="m" type="main">Money as a Practical Abstraction: From Feuerbach to Marx Through Hess (1841-1844)</title>
+		<author>
+			<persName><forename type="first">Pablo</forename><surname>Nocera</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Ángel</forename><surname>Oliva ; Marx</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Engels</forename></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Marxisms</forename></persName>
+		</author>
+		<editor>Antonio Oliva, and Iván Novara</editor>
+		<imprint>
+			<date type="published" when="2020">2020</date>
+			<publisher>Springer International Publishing</publisher>
+			<biblScope unit="page" from="41" to="59" />
+			<pubPlace>Cham</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b98">
+	<monogr>
+		<title level="m" type="main">Alienation: Marx&apos;s Conception of Man in Capitalist Society. 2nd ed</title>
+		<author>
+			<persName><forename type="first">Bertell</forename><surname>Ollman</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1976">1976</date>
+			<publisher>Cambridge University Press</publisher>
+			<pubPlace>Cambridge</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b99">
+	<analytic>
+		<title level="a" type="main">Review: The Otherness of George Eliot</title>
+		<author>
+			<persName><forename type="first">Bernard</forename><forename type="middle">J</forename><surname>Paris</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Modern Literature</title>
+		<imprint>
+			<biblScope unit="volume">1</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="272" to="277" />
+			<date type="published" when="1970">1970</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b100">
+	<monogr>
+		<title level="m" type="main">Feminism, Evolutionism, and the Reconstruction of Gender</title>
+		<author>
+			<persName><forename type="first">Nancy</forename><forename type="middle">L</forename><surname>Paxton</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Eliot</forename><surname>George</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Herbert</forename><surname>Spencer</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1991">1991</date>
+			<publisher>Princeton University Press</publisher>
+			<pubPlace>Princeton, NJ</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b101">
+	<monogr>
+		<title level="m" type="main">Romanticism and Behavior: Collected Essays II</title>
+		<author>
+			<persName><forename type="first">Morse</forename><surname>Peckham</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1976">1976</date>
+			<publisher>University of South Carolina Press</publisher>
+			<pubPlace>Columbia, South Carolina</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b102">
+	<monogr>
+		<title level="m" type="main">A Return to the Primal Self: Identity in the Fiction of George Eliot</title>
+		<author>
+			<persName><forename type="first">Alan</forename><forename type="middle">D</forename><surname>Perlis</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1989">1989</date>
+			<publisher>Peter Lang</publisher>
+			<pubPlace>New York</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b103">
+	<analytic>
+		<title level="a" type="main">Bearing Witness in &apos;Silas Marner&apos;: George Eliot&apos;s Experiment in Sympathy</title>
+		<author>
+			<persName><forename type="first">Kristen</forename><forename type="middle">A</forename><surname>Pond</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Victorian Literature and Culture</title>
+		<imprint>
+			<biblScope unit="volume">41</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="691" to="709" />
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b104">
+	<analytic>
+		<title level="a" type="main">Alienated Heroines in Basil, Lady Audley&apos;s Secret, and East Lynne: A Jaeggian Reading</title>
+		<author>
+			<persName><forename type="first">Rui</forename><surname>Qian</surname></persName>
+		</author>
+		<idno type="DOI">10.1093/jvcult/vcad043</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Victorian Culture</title>
+		<imprint>
+			<biblScope unit="volume">29</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="287" to="301" />
+			<date type="published" when="2024-04-01">April 1, 2024</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b105">
+	<analytic>
+		<title level="a" type="main">Awakening the &apos;Mere Pulsation of Desire&apos; in Silas Marner</title>
+		<author>
+			<persName><forename type="first">Melissa</forename><surname>Raines</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">The George Eliot Review</title>
+		<imprint>
+			<biblScope unit="volume">38</biblScope>
+			<biblScope unit="issue">38</biblScope>
+			<biblScope unit="page">24</biblScope>
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b106">
+	<monogr>
+		<title level="m" type="main">Marx and Alienation: Essays on Hegelian Themes</title>
+		<author>
+			<persName><forename type="first">Sean</forename><surname>Sayers</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2011">2011</date>
+			<publisher>Palgrave Macmillan</publisher>
+			<pubPlace>New York</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b107">
+	<monogr>
+		<title level="m" type="main">Communities of Care: The Social Ethics of Victorian Fiction</title>
+		<author>
+			<persName><forename type="first">Talia</forename><surname>Schaffer</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2021">2021</date>
+			<publisher>Princeton University Press</publisher>
+			<pubPlace>Princeton, NJ</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b108">
+	<analytic>
+		<title level="a" type="main">Hoarding Motherhood in Silas Marner</title>
+		<author>
+			<persName><forename type="first">Larry</forename><forename type="middle">T</forename><surname>Shillock</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Philological Papers</title>
+		<imprint>
+			<biblScope unit="volume">52</biblScope>
+			<biblScope unit="page">33</biblScope>
+			<date type="published" when="1947">1947. 2005</date>
+			<pubPlace>Morgantown, W. Va</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b109">
+	<monogr>
+		<title level="m" type="main">George Eliot and Nineteenth-Century Science: The Make-Believe of a Beginning</title>
+		<author>
+			<persName><forename type="first">Sally</forename><surname>Shuttleworth</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1987">1987</date>
+			<publisher>Cambridge University Press</publisher>
+			<pubPlace>Cambridge</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b110">
+	<analytic>
+		<title level="a" type="main">The Breaks in &apos;Silas Marner&apos;</title>
+		<author>
+			<persName><forename type="first">David</forename><surname>Sonstroem</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of English and Germanic Philology</title>
+		<imprint>
+			<biblScope unit="volume">97</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="545" to="567" />
+			<date type="published" when="1998">1998</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b111">
+	<analytic>
+		<title level="a" type="main">Genres of Work: The Folktale and &apos;Silas Marner&apos;</title>
+		<author>
+			<persName><forename type="first">Susan</forename><surname>Stewart</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">New Literary History</title>
+		<imprint>
+			<biblScope unit="volume">34</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="513" to="533" />
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b112">
+	<analytic>
+		<title level="a" type="main">Silas Marner&apos; and the New Mythus</title>
+		<author>
+			<persName><forename type="first">Brian</forename><surname>Swann</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Criticism</title>
+		<imprint>
+			<biblScope unit="volume">18</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="101" to="121" />
+			<date type="published" when="1976">1976</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b113">
+	<monogr>
+		<title level="m" type="main">Alienation and Affect</title>
+		<author>
+			<persName><forename type="first">Warren</forename><forename type="middle">D</forename><surname>Tenhouten</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2017">2017</date>
+			<publisher>Routledge, Taylor &amp; Francis Group</publisher>
+			<pubPlace>London</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b114">
+	<analytic>
+		<title level="a" type="main">The Theme of Alienation in Silas Marner</title>
+		<author>
+			<persName><forename type="first">Fred</forename><forename type="middle">C</forename><surname>Thomson</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nineteenth-Century Fiction</title>
+		<imprint>
+			<biblScope unit="volume">20</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="69" to="84" />
+			<date type="published" when="1965">1965</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b115">
+	<analytic>
+		<title level="a" type="main">Cambridge Texts in the History of Political Thought</title>
+		<author>
+			<persName><forename type="first">Ferdinand</forename><forename type="middle">;</forename><surname>Tönnies</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Jose</forename><surname>Harris</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Margaret</forename><surname>Hollis</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Wagner, Tamara S. The Victorian Baby in Print: Infancy, Infant Care, and Nineteenth-Century Popular Culture</title>
+		<meeting><address><addrLine>Cambridge; Oxford</addrLine></address></meeting>
+		<imprint>
+			<publisher>Oxford University Press</publisher>
+			<date type="published" when="2001">2001. 2020</date>
+		</imprint>
+	</monogr>
+	<note>Community and Civil Society</note>
+</biblStruct>
+
+<biblStruct xml:id="b116">
+	<analytic>
+		<title level="a" type="main">Demythologizing Silas Marner</title>
+		<author>
+			<persName><forename type="first">Joseph</forename><surname>Wiesenfarth</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">ELH</title>
+		<imprint>
+			<biblScope unit="volume">37</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="226" to="244" />
+			<date type="published" when="1970">1970</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b117">
+	<analytic>
+		<title level="a" type="main">Silas Marner, Catalepsy, and Mid-Victorian Medicine: George Eliot&apos;s Ethics of Care</title>
+		<author>
+			<persName><forename type="first">Martin</forename><surname>Willis</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Victorian Culture</title>
+		<imprint>
+			<biblScope unit="volume">20</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="326" to="340" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b118">
+	<monogr>
+		<author>
+			<persName><forename type="first">Nancy</forename><surname>Yousef</surname></persName>
+		</author>
+		<title level="m">The Aesthetic Commonplace: Wordsworth, Eliot, Wittgenstein and the Language of Every Day. Oxford Scholarship Online</title>
+		<meeting><address><addrLine>Oxford</addrLine></address></meeting>
+		<imprint>
+			<publisher>Oxford University Press</publisher>
+			<date type="published" when="2022">2022</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b119">
+	<analytic>
+		<title level="a" type="main">Forgetting and Remembering Alienation Theory</title>
+		<author>
+			<persName><forename type="first">Chris</forename><surname>Yuill</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">History of the Human Sciences</title>
+		<imprint>
+			<biblScope unit="volume">24</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="103" to="119" />
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

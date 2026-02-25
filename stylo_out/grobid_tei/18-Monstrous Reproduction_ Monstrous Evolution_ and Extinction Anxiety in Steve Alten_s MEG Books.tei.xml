@@ -1,0 +1,1012 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Monstrous Reproduction, Monstrous Evolution, and Extinction Anxiety in Steve Alten&apos;s MEG Books</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author role="corresp">
+							<persName><forename type="first">Michael</forename><surname>Fuchs</surname></persName>
+							<email>michael.fuchs@uibk.ac.at</email>
+							<affiliation key="aff0">
+								<orgName type="department">Department of American Studies</orgName>
+								<orgName type="institution">Universitat Innsbruck</orgName>
+								<address>
+									<settlement>Innsbruck</settlement>
+									<country key="AT">Austria</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Michael</forename><surname>Phillips</surname></persName>
+							<affiliation key="aff1">
+								<orgName type="department">Department of English Studies</orgName>
+								<orgName type="institution">Universitat Graz</orgName>
+								<address>
+									<settlement>Graz</settlement>
+									<country key="AT">Austria</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff2">
+								<orgName type="department">Department of American Studies</orgName>
+								<orgName type="institution">Universitat Innsbruck</orgName>
+								<address>
+									<addrLine>Innrain 52d</addrLine>
+									<postCode>6020</postCode>
+									<settlement>Innsbruck</settlement>
+									<country key="AT">Austria</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Monstrous Reproduction, Monstrous Evolution, and Extinction Anxiety in Steve Alten&apos;s MEG Books</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date/>
+						</imprint>
+					</monogr>
+					<idno type="MD5">D789AF14889F94D3F993D01ED675FFF9</idno>
+					<idno type="DOI">10.1080/00111619.2026.2616266</idno>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.0" ident="GROBID" when="2026-02-25T19:54+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>This article examines Steve Alten's MEG series (1997-) as a gothic narrative of survival that transforms the prehistoric-survivor fantasy into an allegory of male vanishing. Drawing on the intertwined genealogies of cryptozoology, colonial exploration, and popular science, the series frames the reemergence of Otodus megalodon from the Mariana Trench as a refusal to extinction. The MEG books deploy parthenogenetic reproduction and maternal cannibalism to translate evolutionary speculation into reproductive horror, rendering the male body obsolete. The novels' descriptions of monstrous births and albino skins reveal how extinction anxiety doubles as white male-dependent procreation anxiety in the Anthropocene. Reframing the prehistoric shark as both an evolutionary relic and a spectral self-portrait of humanity, the series turns survival into a gothic condition: a recursive, gendered haunting in which the human endures only as the ghost of its own dominion.</p><p>During its expedition in the 1870s, the HMS Challenger dredged up two fossilized teeth of the prehistoric shark Otodus megalodon from more than 4000 meters deep in the South Pacific (Thomson and Murray 269). In Steve Alten's fictional retelling of the event, Henry Nottidge Moseley recognizes "those teeth exceeding four centimeters" as belonging to "a true ancient sea monster" (Alten, Origins loc. 82). This conclusion sparks "nightly debates in the galley as to whether these sharks might still be alive," and Moseley insists that some fossils are "not that old," which suggests that "the creatures might still be around, prowling the deeper fathoms" (Alten, Origins loc. 88). In this brief reimagining, MEG: Origins (2011) compresses more than a century of scientific speculation and mythmaking into a gothic potentiality that conjures up the megalodon as a fantasy of evolutionary endurance that refuses extinction.</p><p>Indeed, for decades, scientists and enthusiasts have speculated that the largest macropredatory shark to inhabit the planet (the megalodon, believed to have disappeared between 3.5 and 2.5 million years ago [Boessenecker et al.; Pimiento and Clements]) might still roam the uncharted depths of the oceans. Based on the thickness of manganese dioxide deposits, the zoologist Wladimir Tschernezky (who also studied whether the Yeti might exist) concluded that one of the teeth found by the Challenger may have only been shed 11,000 years ago. Meg fiction (explicitly or implicitly) references Tschernezky's results and the coelacanth's discovery in 1938 (which before then was believed to have died out around the time when non-avian dinosaurs disappeared) time and again. For example, in the faux documentary Megalodon: The New Evidence (2014), which was broadcast as part of Discovery Channel's Shark Week, a "fossil expert . . . from the U.S. Geological Society's Paleontology Department" notes that a recently recovered megalodon tooth "is not ancient; it's a modern-day tooth." Relatedly, in MEG:</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>A <ref type="bibr">Novel of Deep Terror (1997)</ref>, a paleobiologist explains that "it wasn't long ago that scientists unanimously believed that the coelacanth . . . had been extinct for the last seventy million years. And then, in 1938, a fisherman hauled a living coelacanth out of the deep ocean waters off South Africa. Now scientists routinely observe these 'living fossils' in their natural habitat" (7). Similarly, in the low-budget movie <ref type="bibr" target="#b37">Megalodon (2004)</ref>, a submersible pilot remarks, "It's not the first time a supposedly extinct species has been discovered. The coelacanth-65 million years dead until they pulled one off the coast of Madagascar a few years ago." These narratives draw on what the paleontologist Darren Naish has described as the "prehistoric survivor paradigm," which suggests that "substantially modified, evolved descendants of species known from the fossil record" live undiscovered in remote places on the planet <ref type="bibr">(38)</ref>. In these prehistoric survivor narratives, extinction remains incomplete, as the believed-to-be-extinct species is transplanted from eons past into human history, 1 while fossils are transformed into living, breathing, eating, and mating bodies.</p><p>In Western popular culture, megalodon's spectral survival draws on the long history of the intersection of scientific speculation, gothic wonder, and imperial fantasy that, following Richard Fallon, may be called the "living fossil story." From Robin Brown's novel <ref type="bibr">Megalodon (1981)</ref> and Discovery Channel's faux documentary The Monster Shark <ref type="bibr">Lives (2013)</ref> to Jon Turteltaub's blockbuster The Meg (2018), the giant shark has repeatedly appeared as what Edward Guimont has termed "a monster of the new mythology" that is "based entirely on Western scientific development," yet reframed through pseudoscience and colonial adventure (itself not immune to pseudoscience). Each return of the megalodon reenacts the colonial dream of scientific discovery, which expresses the belief that every abyss can be mapped and every (lost) species discovered. However, as Jennifer Schell has observed, these narratives often turn evolutionary resilience into a means for suppressing environmental dread (65-69; 76-78) -sometimes to the point of ridiculing it <ref type="bibr">(Fuchs,</ref>. The living fossil story thus displaces extinction anxieties: if life always finds a way, to borrow from Jurassic <ref type="bibr">Park's (1993)</ref> Dr. Ian Malcolm, then humanity will find a way to survive. As one of the present authors has accordingly remarked in a discussion of two faux documentaries about megalodon: if the (seemingly) prehistoric shark "can overcome extinction, so can humankind" <ref type="bibr">(Fuchs,</ref>.</p><p>In the MEG books (1997-), the megalodons emerging from the Mariana Trench expose human (and particularly male) fantasies of mastery, as their genetic adaptations and generative capacities represent endless symbolic life and uncontrolled reproduction. Indeed, the female megalodons' parthenogenesis destabilizes anthropocentric and patriarchal hierarchies, suggesting forms of life that no longer require the male body. 2 The series' narrative premise is simple: a catastrophic deepsea encounter initially dismissed as delusion gives way, years later, to renewed exploration of the Mariana Trench, which allows prehistoric predators to enter the modern world. The unfolding narrative revolves around Jonas Taylor, a deep-sea submersible pilot who embarked on a career as a paleobiologist after the aforementioned dive into the Mariana Trench left two colleagues dead and himself traumatized. His survivor's guilt morphs into a pseudo-scientific faith that no species ever truly vanishes: "I prefer to theorize on how species might still exist," he declares <ref type="bibr">(Alten,</ref><ref type="bibr">Deep Terror 9)</ref>. 3  In the MEG books, we argue in this article, evolutionary survival and male-dependent reproduction collide. The female megalodon rising from the Mariana Trench refracts what, following Rosi Braidotti, may be called the "monstrous privilege" of the female body, whose capacity to generate life provokes "a unique blend of fascination and horror" (Nomadic Subjects 81; italics in original). The novels' focus on parthenogenesis and maternal cannibalism channels the fear that life might persist without the male subject. Female sexuality and procreative autonomy thus come to represent the return of what patriarchal culture represses, which Robin Wood considered horror's central function. While work in (new) materialist ecocriticism has emphasized the ocean as a site of transcorporeal entanglement (e.g., Alaimo, "States of Suspension"; Alaimo, The Abyss Stares Back; DeLoughrey and Flores; Lavery; Rae) and Margaret FitzSimmons and David Goodman suggested incorporation as a means "to capture the relational materiality of ecologies and bodies" as early as 1998 ( <ref type="formula">216</ref>), the MEG series imagines the abyss as a theater of violent renewal and a stage for male trauma and anxiety.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Monstrous Evolution and the Denial of Extinction</head><p>The first book of the series opens in the Late Cretaceous, when a megalodon devours a Tyrannosaurus rex:</p><p>The T. rex . . . realiz <ref type="bibr">[ed]</ref> too late that it had wandered into the domain of a superior hunter. For the first time in its life, the Tyrannosaurus felt the icy grip of fear . . . The red eyes of the Tyrannosaurus followed the gray dorsal fin, feeling the tug of current caused by the unseen mass circling below. This fin disappeared beneath the muddy waters . . . <ref type="bibr">[and]</ref> rose again from the mist, now racing directly for him. The T. rex roared and struggled, vainly snapping its jaws in futile protest . . . T. rex was slammed backward through the ocean with a great whoosh, its huge head disappearing beneath the waves. In a moment the dinosaur surfaced again, wailing in agony as its rib cage was crushed within the jaws of its hunter, a fountain of blood spouting from its mouth. <ref type="bibr">(Alten,</ref><ref type="bibr">Deep Terror 3;</ref><ref type="bibr">italics in original)</ref> In paleontological terms, the encounter is an impossible event: T. rex vanished during the Cretaceous-Paleogene extinction about 66 million years ago, whereas Otodus megalodon would not appear until some 45 million years later. The anachronism reduces tens of millions of years of evolutionary history into a single instant of interspecies combat, transforming extinction from a long-term process into a short-term event. This temporal compression evokes what Timothy Clark has described as the "derangements of scale" characteristic of the Anthropocene, in which human imagination falters in the face of geological magnitude.</p><p>In the midst of this temporal collapse, the novel explicitly genders predatory power. When the pronoun shifts from the neutral "it" to "him," the narrative momentarily masculinizes the tyrannosaurus. 4 This change reflects the Western tendency to code apex predators' aggression and dominance as masculine even when biological sex is unknown, irrelevant, or female. Jurassic Park (1990) makes this convention explicit when the lead genetic engineer explains that although all dinosaurs are female, park employees "tend to refer to some of them as male -such as the Tyrannosaurus rex" <ref type="bibr">(Crichton 69)</ref>. In Deep Terror, this cultural habit becomes unsettled, as the masculinized terrestrial predator is subdued by a creature of the sea whose later depiction centers on its female form, thereby destabilizing the association between predation and masculinity. The opening scene thus enacts a double inversion: temporal hierarchy is overturned as prehistory intrudes upon itself, while gendered assumptions about dominance are undone as the oceanic predator subjugates its land-bound counterpart.</p><p>In addition, the tyrannosaurus's death marks the fatal consequences of misunderstanding ecological boundaries. Its transgression recalls Val Plumwood's reflections on her near-fatal encounter with a saltwater crocodile: entering crocodile territory revealed "a parallel universe, one with completely different rules to the 'normal universe,'" a nonhuman world that is "harsh" and "unfamiliar," where "we live the other's death, die the other's life" (131-132). The tyrannosaurus's death similarly acknowledges the cost of assuming continuity across worlds that obey different logics. In the ocean, terrestrial supremacy offers no protection. The spatial confusion compounds the scene's temporal impossibility to suggest that (male) dominance is contingent and boundaries matter.</p><p>The spatiotemporal transgressions illustrated by the prehistoric encounter help set up the Mariana Trench as a refuge from extinction, in which the prehistoric can persist alongside the present, insulated from the temporal pressures that govern life above the thermocline (which is a kind of gateway to another world rather than the bottom of the ocean). The narrator's early speculations about megalodon survival articulate this logic. While reflecting on the shark's evolutionary history, the narrator proposes that the species could have "adapt <ref type="bibr">[ed]</ref> and survive <ref type="bibr">[d]</ref> the natural catastrophes and climatic changes that caused the mass extinctions of the giant reptiles and countless prehistoric mammals," persevering in isolation "from the world of man, hunting in the isolated darkness of the ocean depths" <ref type="bibr">(Alten,</ref><ref type="bibr">Deep Terror 4)</ref>. Here, the novel views survival as a matter of withdrawal, as megalodon eludes extinction by retreating into a separate evolutionary space. This logic echoes Bernard Heuvelmans's foundational claims about cryptozoology: whereas paleozoology concerns animals "lost in a time dimension," cryptozoology seeks creatures "hidden in a space dimension" (2). From this perspective, extinction is less an absolute endpoint than a failure of recognition, because species become invisible and disappear from knowledge before they vanish from the planet.</p><p>The thermocline plays a key role in this context, for it is merely the presumed "bottom" of the ocean <ref type="bibr">(Alten,</ref><ref type="bibr">Deep Terror 120)</ref>. It conceals an ecological order operating according to different rules. The abyssal zone is a repository of endurance, where life continues without sunlight and without the evolutionary pressures that shape surface ecosystems. The sharks' bodies bear the marks of this altered chronobiology, their white, bioluminescent skin a genetic adaptation to "an environment where no light exists" <ref type="bibr">(Alten,</ref><ref type="bibr">Deep Terror 121)</ref>. In this way, their albinism comes to symbolize specialization (rather than weakness or degeneration), a physiology shaped by conditions that make surface norms irrelevant. In the deep sea, evolution appears paradoxical: on the one hand, it seems to have stopped, as animals believed extinct for millions of years persist virtually unchanged; on the other, it proceeds without limits, producing increasingly specialized forms adapted to the extreme environment.</p><p>Notably, by placing survival in the abyss, the MEG books reconfigure extinction as a problem of spatial access rather than temporal finitude. The megalodon survives not because it evolves "better" than other species, but because it occupies a space that humans have not yet penetrated. However, humans' exploratory incursions destabilize the isolated system that preserved prehistoric life. As some characters acknowledge, anthropogenic intrusions freed the giant sharks: "The only reason you even see this specimen before you is because we accidentally hauled it up to the surface" <ref type="bibr">(Alten,</ref><ref type="bibr">Deep Terror 120)</ref>. Spatial transgression initiates temporal collapse: the deep-sea refuge is breached, and deep time floods the present. No longer a sanctuary from extinction, the abyss becomes reconfigured as a monstrous space whose inhabitants are incompatible with the world above the thermocline.</p><p>Jonas Taylor embodies both the breach and the human response to it. As a deep-sea submersible pilot-turned-paleobiologist, Jonas sits at the intersection of exploration and explanation, as he fuses technological expertise with speculative science. His authority derives from knowledge gained by surviving a past encounter with the massive sharks, which ended in the loss of his colleagues. The ensuing trauma transformed him into witness and warning -which, in line with a long-standing tradition, is not taken seriously. His return to the abyss is driven as much by wounded masculinity and survivor's guilt as by scientific curiosity.</p><p>Jonas's refusal to accept extinction as final situates him within a longer Enlightenment genealogy of denial. In the U.S. context, Thomas Jefferson resisted the idea of species extinction, which violated his belief in the perfection of divine creation (e.g., . Living specimens of animals known only from fossil remains must roam the vast, unmapped trans-Mississippi West, Jefferson argued: "if the bones exist . . . the animal has existed," and if it "has once existed, it is probable . . . that he still exists" (255-256). Ignorance became a possibility, and the unknown functioned as proof of survival.</p><p>Whereas Jefferson imagined lost species inhabiting an uncharted landmass, Jonas locates evolutionary survivors in the deep sea, a space equally resistant to verification and equally susceptible to projection. However, what was once sustained by ignorance is now sustained by technology: submersibles, sonar, and speculative biology promise access to what had remained unseen. Jonas repeatedly invokes evolutionary longevity to justify the megalodon's survival, translating uncertainty into confidence and speculation into proof. Sharks, he insists, have endured for hundreds of millions of years, far outlasting humanity's brief evolutionary tenure. "The Meg was the supreme hunter of the planet," he declares, "endowed with over seventy million years of killer instincts" <ref type="bibr">(Alten,</ref><ref type="bibr">Deep Terror 67)</ref>.</p><p>As evolutionary persistence becomes equated with moral and martial superiority, survival ceases to be contextual and instead demonstrates intrinsic worth. Evolutionary time is thus translated into force, preparing the ground for the novels' persistent militarization of biological life. "[W]e're not just talking about a shark," Jonas explains; "we're talking about a formidable war machine" (Alten, Deep Terror 67). In the first novel, in particular, a variety of mechanical and ballistic metaphors describe the prehistoric shark <ref type="bibr">(e.g., torpedo [134; 253], missile [88; 137]</ref>, and locomotive <ref type="bibr">[162]</ref>), which recode the animal body as a weapon system. The shark's gigantothermy, its ability to maintain elevated internal temperatures through muscular motion, is described as if it were an act of will rather than adaptation. Nature, Jonas concludes, "endowed the creatures not just to survive but to dominate every ocean and marine species" <ref type="bibr">(Alten,</ref><ref type="bibr">Deep Terror 67)</ref>. In this martial idiom, survival and conquest become intricately interconnected, while the ocean becomes a battlefield and a frontier. Indeed, descending into the Mariana Trench is likened to extraterrestrial exploration, as "being the first person to explore another planet" (Alten, Deep Terror 61), while the deep sea is repeatedly described as "unexplored" and "unmapped" <ref type="bibr">(Alten,</ref><ref type="bibr">Deep Terror 11)</ref>. This rhetoric draws on a colonial logic long entrenched in science fiction, in which unknown spaces invite mastery under the guise of discovery (see, e.g., Rieder). The abyss becomes a vertical frontier, its depth inscribed with planetary history that can be read and charted. However, the MEG books expose the fragility of this fantasy, for the same technologies that promise mastery bring about disaster.</p><p>Significantly, the megalodon first appears as data. "Blip," the novel reports; "[a] red dot had appeared on the abyssal terrain, approaching fast" (Alten, Deep Terror 83; italics in original). Life initially registers as a signal on a screen, abstracted into coordinates and velocity. Only in a second step do the characters see the actual shark: "It was glowing" <ref type="bibr">(Alten,</ref><ref type="bibr">Deep Terror 84)</ref>. The transition from digital trace to luminous body encapsulates the series' techno-gothic aesthetic, in which technology midwifes the unknown rather than dispelling it, as instruments designed to make the ocean comprehensible summon what should remain invisible. Confronted with the inadequacy of technological mastery, Jonas and his colleagues turn to pseudo-scientific explanation (evolution as a masternarrative to rationalize the impossible, in particular) as a means of reasserting control: "Theoretically," Jonas argues, "a branch of the species might have survived" <ref type="bibr">(Alten,</ref><ref type="bibr">Deep Terror 10)</ref>. Indeed, in line with David Ingram's observation that speculative environmental fiction often deploys a "rhetoric of 'scientific' plausibility" that mimics scientific reasoning while resisting its conclusions (7), the MEG series mobilizes pseudo-biology to ground arguments empirically whose logic is ultimately theological: species survive because they deserve to. This moralized evolution exposes a deeper ambivalence, for the megalodon is celebrated as evolutionary perfection -as nature's "greatest killing machine" (Alten, Deep Terror 122) -while its persistence destabilizes the very narrative of progress. After all, if the prehistoric survives virtually unchanged, evolution ceases to signify advancement. The shark becomes both proof and refutation of Darwinian teleology, for it has evolved to a point where it no longer needs to evolve. As Jeffrey Jerome Cohen has noted, the monster "does not simply bring past and present together but destroys the boundary that demanded their twinned foreclosure" (ix-x). In the MEG novels, the megalodon binds prehistory to modernity, unsettling the human claim to futurity and exposing mastery as a fragile illusion sustained by narrative rather than fact.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Monstrous Reproduction and the Feminine Abyss</head><p>The (suppressed) anxiety about futurity finds expression in the female body's capacity to generate life without male participation. The ascent of the female megalodon from the abyss challenges traditional origin narratives. She surfaces "with her snout buried deep within the male's bleeding body, her swollen white belly quivering in spasms as she engulfed chunks of flesh and entrails" <ref type="bibr">(Alten,</ref><ref type="bibr">Deep Terror 93)</ref>. Drenched in blood, she emerges from the darkness into the light not as a newborn but as a mother. As she devours the male's body, she sustains her own life and the one she carries within her. Such scenes highlight the female body's capacity to both generate life and terminate (male) life, which provokes both fascination and horror because it exposes the contingency of male agency. Indeed, Jane Ussher has, for example, noted that "power and danger" reside "in woman's fecund flesh," for "her seeping, leaking, bleeding womb stand[s] as site of pollution and source of dread" (1). In this context, the novels' subsequent focus on parthenogenesis transforms extinction anxiety into the fear that life will continue without the male subject, who once guaranteed lineage, for in a Western tradition that goes back to Aristotle, "the principle of life is carried exclusively by the sperm," while the "female genital apparatus" only functions as a "passive receptacle" <ref type="bibr">(Braidotti,</ref><ref type="bibr">Nomadic Subjects 79)</ref>.</p><p>The obsession with megalodon procreation and mating becomes more explicit in the sequels, particularly The Trench (1999) and Hell's Aquarium <ref type="bibr">(2009)</ref>. In The Trench, Angel (the offspring of the first female megalodon brought to the surface) kills her partner and gives birth to five offspring -two sired naturally, three produced parthenogenetically. The copulation is described in language of brutal mechanics: "With a thrust of its tail, the male shark lurched forward, biting into the female's left pectoral fin . . . [T]he male slid one of its two rigid claspers into the female's cloaca . . . [The female] lunged forward and snapped her open jaws over her mate's dangling caudal fin, severing the entire lower lobe" <ref type="bibr">(Alten,</ref><ref type="bibr">Trench 260)</ref>. Biological realism shades into sexualized violence as restraint, penetration, and mutilation merge until the act becomes indistinguishable from rape and retribution, which culminates in the annihilation of the male: Angel "ravag[ed] the male's reproductive organs," "bit down harder," and "hung on, content to wait until its mate died" <ref type="bibr">(Alten,</ref><ref type="bibr">Trench 260)</ref>. The narrative lingers on the dismemberment of the male body, as if to gloat over the vanishing of male agency. "Having disposed of the threat to her future brood," the narrator concludes, "the queen hunter continued south along the canyon wall, exploring her new kingdom" <ref type="bibr">(Alten,</ref><ref type="bibr">Trench 261)</ref>. The female shark's sovereignty is founded on an act of sexual violence that doubles as a retributive fantasy in which the female body turns the logic of conquest back upon its male perpetrators. 5 These scenes position the MEG novels within a longer cultural history that has repeatedly framed female reproduction as both generative and terrifying.</p><p>From early modern treatises on monstrous births that interpreted physical deformity as divine punishment to gothic fiction's obsession with corrupted maternity, the reproductive body has been a privileged site of the monstrous. Jeffrey Weinstock has accordingly concluded that "monstrous births could be interpreted as portents of catastrophes to come . . . or as punishments for moral lapses, often specifically sexual ones" (6). The MEG books project this moral framework onto nonhuman biology by translating cultural anxieties about female reproduction into pseudo-scientific explanation. In Hell's Aquarium, a marine biologist explains the evolutionary advantage of parthenogenesis through a kind of back-of-the-envelope arithmetic. Whereas sexual reproduction yields modest numbers, parthenogenesis allows the population to expand exponentially. Within a few generations, the parthenogenetic line has outstripped the sexual one several times over, rendering males not just unnecessary but inefficient (182). What in scientific terms might be described as an adaptive strategy becomes a metaphysical affront in the books' narrative logic: a female creature that can generate life without the male has exceeded the "natural" order. Once parthenogenesis is framed as an evolutionary affront rather than a neutral adaptation, the novels can abandon mathematics in favor of corporeal spectacle.</p><p>The books' descriptions of birth are elaborate, sliding between the mechanical and the erotic. When Angel delivers her pups, the prose evokes sensory excess: "Thick dorsal muscles contorted, locking Angel's back in a rigid arch . . . [H]er abdomen began quivering, overcome by a series of monstrous contractions. . . . Then, with an agonizing push, a completely formed, twelve-foot, one-thousandpound male pup was expelled from its mother's womb" <ref type="bibr">(Alten,</ref><ref type="bibr">Trench 295)</ref>. The word choices ("arch," "quivering," "push," "expelled") imagine reproduction as both agony and a spectacular sight. However, the mother's predatory instincts suddenly reassert themselves: "In an instant she was tracking the two male pups through the abyss, intent on killing the very life she had birthed" <ref type="bibr">(Alten,</ref><ref type="bibr">Trench 295)</ref>. Birth seamlessly flows into the hunt as the uterus and the mouth become contiguous organs of creation and destruction.</p><p>These scenes emphasize evolutionary continuity over extinction, which allows the MEG novels to imagine a grotesque reproductive cycle in which the ocean becomes a vast generative chamber. The Mariana Trench's "pitch-black gorge" functions as a uterine space in which species perpetuate themselves through endless violence <ref type="bibr">(Alten,</ref><ref type="bibr">The Trench 295)</ref>. In this feminized abyss, extinction is never final because death is always-already pregnant with new life: the monstrous mother guarantees what Jeffrey Jerome Cohen has called the "eternal return" of the monstrous past (ix) through the seemingly never-ending rebirth of the species. This return functions as a biological haunting in which persistence becomes futurity, as parthenogenetic repetition sustains life while self-consuming violence empties reproduction of teleology and progress, producing a gothic temporality of survival without transformation. While feminist and psychoanalytic traditions have framed the oceanic as a site of generative continuity or consolatory boundlessness (e.g., , the MEG books transform oceanic persistence into a source of dread rather than belonging.</p><p>This reproductive logic resonates with the Anthropocene's scale effects. As environmental crises accelerate, biological processes once imagined as slow, distant, and geological become immediate and visible: evolution, adaptation, and extinction no longer unfold in the nonhuman temporal dimensions of deep time but intrude into human lifetimes. In a world in which "[h]uman activities have become so pervasive and profound that they rival the great forces of Nature" <ref type="bibr">(Steffen et al. 614)</ref>, the novels imagine nature responding with violence and hyperbolic creation. The more humanity seeks to regulate and control life, the more insistently life proliferates beyond its grasp.</p><p>Besides their monstrous reproduction, the sharks' evolved bodies acknowledge this thriving vitality. Their bioluminescent bodies have adapted to the "eternally dark recesses of the Mariana Trench over the last quarter of a million years" (Alten, Hell's Aquarium 30). Their albinism, which is repeatedly described as "pure white" (e.g., Alten, Deep Terror 182; Alten, Hell's Aquarium 30) and "ghostly" (e.g., <ref type="bibr">Alten,</ref><ref type="bibr">Trench 15;</ref><ref type="bibr">Alten,</ref><ref type="bibr">Primal Waters 191;</ref><ref type="bibr">Alten,</ref><ref type="bibr">Hell's Aquarium 86)</ref>, suggests both evolutionary specialization and a kind of moral judgment. "Coursing through its DNA was seventy-million-plus years of instinct," the narrator observes in the first book, "[t]he predator could not think or choose; she could only react, each cell attuned to her environment" <ref type="bibr">(Alten,</ref><ref type="bibr">Deep Terror 232)</ref>. Driven by instinct, the maternal body quite literally embodies how deep time resists human order. At times, the books appear almost sympathetic to this nonhuman vitality, lingering on the sharks' monstrous bodies with an awed, nearly reverential tone: "The massive creature bloomed ghostlike in the pitch black. Mouth agape, rows of jagged teeth" <ref type="bibr">(Alten,</ref><ref type="bibr">Deep Terror 86)</ref>. The verb "bloomed" erases the difference between vegetal and animal life, evoking the organic fecundity of a world indifferent to human categories, while the megalodons' white, glowing bodies recall Moby Dick -another allegory of masculine obsession with an inscrutable nature. As Ishmael notes in his meditation on the whale's coloration, white is "the visible absence of color, and at the same time the concrete of all colors" (Melville 206). The megalodon's spectral hue similarly simultaneously evokes presence and absence as well as knowledge and unknowability. Its whiteness offers a blank screen onto which the novels project the anxieties of extinction, reproduction, and race -a ghostly reminder that whiteness, once a marker of mastery, has become monstrous.</p><p>Whereas the female megalodon embodies reproductive autonomy, Jonas represents the beleaguered patriarch attempting to reassert control. His repeated confrontations with (primarily) female sharks rehearse a familiar gothic dynamic in which the aging male scientist faces the uncontrollable offspring of his curiosity. However, Jonas's struggle is as much against nature as against obsolescence, for the sharks' parthenogenetic proliferation threatens to erase his paternal authority: "Let's face it, gentlemen," a marine biologist quips, "when it comes to the survival of a species, males are dead-end products" (Alten, Hell's Aquarium 182). In psychoanalytic theory, "the female only happens when something goes wrong or fails to occur in the reproductive process. The female is therefore an anomaly, a variation on the main theme of man-kind," Braidotti has explained (Nomadic Subjects 79). The MEG books double down on this idea, for the female shark is Other to both human and man. And this "difference as pejoration" establishes "the positivity of the norm" (Braidotti, Nomadic Subjects 80) -male humans. By effectively terminating evolution through female reproduction that eliminates genetic diversity, the book series suggests that the future of life has outgrown the masculine paradigms used to explain it. The shark's self-replication transforms the fear of extinction into a specific reproductive anxiety: the obsolescence of the patriarch. Ultimately, the parthenogenetic shark embodies nature's indifference, the epitome of a world where the male subject is no longer required for survival; indeed, he may even represent extinction.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Monstrous Whiteness and Male Anxiety</head><p>The first megalodon appears as an "albino monster" <ref type="bibr">(Alten,</ref><ref type="bibr">Deep Terror 88)</ref>. From the outset, whiteness functions as a moral and metaphysical code, translating extinction anxiety into a visible, embodied marker. The shark's "ghostlike" body <ref type="bibr">(Alten,</ref><ref type="bibr">Trench 192)</ref>, characterized by, among others, its "mountainous white dorsal fin" <ref type="bibr">(Alten,</ref><ref type="bibr">Deep Terror 151)</ref> and its "luminescent tail fin" <ref type="bibr">(Alten,</ref><ref type="bibr">Trench 213)</ref>, represents both evolutionary adaptation and supernatural return. Whiteness marks the shark as a creature of the abyss, shaped by darkness yet paradoxically radiant within it, a glowing void whose presence makes the visible world uncanny.</p><p>Although paleontological reconstructions suggest that Otodus megalodon was counter-shaded, with a white(-ish) belly and a darker back (e.g., <ref type="bibr">Cooper et al.; Sternes et al.)</ref>, the sharks in the MEG series defy biological plausibility for symbolic purpose. As the narrator explains, their coloration was "inherited . . . from an ancestral line that had inhabited the eternally dark recesses of the Mariana Trench over the last quarter of a million years" <ref type="bibr">(Alten,</ref><ref type="bibr">Hell's Aquarium 30)</ref>. The white body thus symbolizes both adaptation and alienation: a creature evolved for an environment where light no longer matters. However, the shark's visibility at the surface becomes a transgression -the surfacing of what refuses to stay buried. The novels emphasize this spectral quality: the sharks "bloom ghostlike in the pitch black" <ref type="bibr">(Alten,</ref><ref type="bibr">Deep Terror 86)</ref> and rise as "ghostly white figure <ref type="bibr">[s]</ref> . . . from the depths" <ref type="bibr">(Alten,</ref><ref type="bibr">Generations 315)</ref>.</p><p>To return to Moby-Dick, Ishmael locates horror in the indeterminacy of white, "a dumb blankness, full of meaning" <ref type="bibr">(Melville 206)</ref>. Likewise, the megalodons' white bodies absorb every fear, anxiety, wish, and desire that the novels project onto them: scientific fascination, theological dread, masculine resentment, and human extinction. Whiteness ceases to signify purity and becomes a marker of ecological and existential loss. This shift becomes especially prominent in the later novels, in which Jonas's aging body mirrors the megalodon's spectral form. As early as the first book, his future wife notices that in the ten years since they last met, Jonas has developed "a few more stress lines around the eyes," and his "dark brown hair" has started "turning gray near the temples" -but he is still a man with "a handsome face" and "tan" <ref type="bibr">(Alten,</ref><ref type="bibr">Deep Terror 33)</ref>. By the third book, Primal Waters (2004), Jonas is "[a]lmost sixty-four" (20) and can hear "[t]he bells . . . toll from Father Time" (n. pag.), while reminding himself, "[Y]ou're just not young anymore" (20). And in Hell's Aquarium, he stresses, "I passed my prime long ago; moreover, I did my time in hell chasing sea monsters" (76). Jonas becomes as ghostly as the creatures he pursues. Indeed, the white patriarch and the white predator function as gothic doubles of each other. The creature he "found" becomes proof of his failure: a triumph of science discloses that science can no longer contain the world it has revealed.</p><p>Scenes of visual recognition encapsulate this mirroring. In the concluding moments of the first book, "Jonas stare[s] incredulously at the baby megalodon. He close[s] his eyes and smile[s]" <ref type="bibr">(Alten,</ref><ref type="bibr">Deep Terror 278)</ref>. The moment suggests both reconciliation and abdication: Jonas recognizes himself in the monstrous offspring, then withdraws. In the sequels, similar moments recur as human and nonhuman genealogies are caught in cycles of repetition without renewal, which "manufactures the so-called vital as part of its indifferent process of endless production without final cause" <ref type="bibr">(Fisher)</ref>. Each time a megalodon is destroyed, another one returns; each time Jonas claims victory, a new abyss opens; each time Jonas is about to die, he somehow manages to survive or is saved (and his son and deeds guarantee symbolic immortality and future repetition). The repetition of resurrection evokes what Fred Botting has termed the gothic's "play of signifiers that empties meaning through excess" (506). The more the novels insist on the finality of death, the more insistently death refuses finality. Extinction becomes performance and whiteness its costume.</p><p>Indeed, the whiteness of the megalodons reverses the racialized iconography of earlier shark narratives such as Jaws <ref type="bibr">(1974)</ref>, in which the monstrous Other threatened the white body politic. In the MEG books, whiteness devours itself, for the marine predators' color connects them with the very civilization they annihilate. The sharks' rampages across the world's oceans replay the violence of Western exploration, as the colonizer's color becomes the mark of the exploited planet's revenge. This inversion reframes the novels' gender politics as well, as the female megalodon's whiteness places her in a long tradition of deadly purity. In a globalized setting in which the human characters are ethnically diverse, the white shark embodies the fantasy of evolutionary perfection that Western science once projected onto itself. Confronting the monstrous megalodon thus becomes an act of self-confrontation. When Angel dies, netted and torn apart by rival prehistoric-turned-contemporary creatures rather than the human "heroes," the spectacle reads as a swan song to the human idea of control: "[David] looks up to witness the liopleurodon in mid-leap . . . . Angel convulses in the net, blood spraying in all directions. . . . Twisting like a crocodile, the monster's sheer weight forces her teeth to tear through the Meg's thick band of muscle and cartilage. . . . Blood gushes from the Meg's mortal wound, spraying the side of the tanker, pooling along the surface" (Alten, Hell's Aquarium 493). Angel's final unmaking crystallizes the book series' gothic economy, in which extinction and return continually fold back into one another.</p><p>The MEG series exemplifies an Anthropocene fantasy that displaces extinction threats onto monsters from the deep, which can be fought (and usually killed), transforming planetary crisis into militarized spectacle and a stage for masculine heroism. Similar to other media texts that engage with what Robert Macfarlane has called "Anthropocene unburials," 6 the MEG books imagine relics of an earlier age rising from beneath the surface to threaten the present. However, as Gerry Canavan has highlighted, these fantasies, which often conclude with defeating the monster, ultimately revert to pessimism, since "the dream logic of the fantasy solution has no analogue in reality" (271). The MEG novels' cycle of emergence and destruction reflects this impasse: extinction is endlessly rehearsed but never resolved.</p><p>This unresolved Anthropocene fantasy manifests in the sharks' spectral whiteness, which condenses multiple registers of loss: species extinction, the erosion of masculine authority, and the implosion of the myth of civilizational progress. To borrow Judith Halberstam's formulation, the monster becomes "a meaning machine" that produces "a vertiginous excess of meaning" (21). The ghostly megalodon is at once an evolutionary relic, technological projection, and spectral self-portrait of humanity. As such, what evokes dread in the novels is not the possibility that the prehistoric endures, but that it endures as us -that our whiteness, our rationality, and our dominion persists as ghostly, monstrous survivals of a dying epoch.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Notes</head><p>1. "The human," Rosi Braidotti has explained, "stands for normality, normalcy and normativity. It functions by transposing a specific mode of being human into a generalized standard, which . . . is posited as categorically and qualitatively distinct from the sexualized, racialized, naturalized others" (Posthuman 26). While we complicate this idea of "the human" in the essay by focusing on male anxieties, we simultaneously deploy the binary structure of the human vs. nonhuman world for the simple reason that the MEG novels rely on it. 2. Reports about "virgin births" among captive sharks often make the news. As early as 2009, Wendee Holtcamp noted that "shark parthenogenesis may be far more common than previously suspected" and stressed that although "the ability of females to reproduce without a male may seem a good alternative to reproduce" in view of dwindling shark numbers around the globe, "widespread parthenogenesis could substantially reduce genetic diversity in shark populations" (548-549). 3. In Megalodon: The New Evidence, the shark expert Collin Drake (played by Darron Meyer) likewise claims, "We discussed in the documentary last year the changes in our oceans over the past century: changes in climate, earthquakes shifting the ocean floor, tsunamis redistributing marine life. I personally believe that conditions are ripe for megalodon to make a comeback. We have to stop denying that they exist and do something about this issue now." 4. The narrative alternates between referring to the megalodons as "it" and "s/he," often within the same paragraph. The inconsistency mirrors the novels' ambivalence about the shark's ontological status between biological specimen and gendered monster and illustrates how the books anthropomorphize gendered threat. 5. We would be remiss not to acknowledge Jennifer Schell's incisive observation that "in Alten's books, the gender of the shark -and the extreme violence involved in destroying it -lends an uncomfortably misogynist tone to the encounter" (76). This reading is entirely persuasive, and misogyny indeed pervades the series. Our analysis does not contest this claim but seeks to account for its narrative logic: the female shark's power and reproductive agency are framed as intolerable, such that misogynist violence is rendered necessary within the novels' symbolic economy, which, as Schell notes, centers on "promoting human exceptionalism" (72).</p><p>6. On the recurrence of these "Anthropocene unburials" in fiction, see, for example, Deckard; Fuchs ("Man vs. Nature"); <ref type="bibr">Fuchs and Marini; Keetley; and Tidwell.</ref> </p></div>		</body>
+		<back>
+
+			<div type="acknowledgement">
+<div><head>Acknowledgments</head><p>ChatGPT 5.2 drafted the abstract based on the final essay.</p></div>
+			</div>			<div type="annex">
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Disclosure Statement</head><p>No potential conflict of interest was reported by the author(s).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Notes on contributors</head><p>Michael Fuchs is a postdoc in the Department of American Studies at the University of Innsbruck (Austria), where he also teaches in the Department of Media, Society and Communication. Michael has co-edited books such as The Gothic and Twenty-First-Century American Popular Culture <ref type="bibr">(Brill, 2024)</ref>  </p></div>			</div>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<monogr>
+		<title level="m" type="main">The Abyss Stares Back: Encounters with Deep-Sea Life</title>
+		<author>
+			<persName><forename type="first">Stacy</forename><surname>Alaimo</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2025">2025</date>
+		</imprint>
+		<respStmt>
+			<orgName>U of Minnesota P</orgName>
+		</respStmt>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<monogr>
+		<idno type="DOI">10.1093/isle/iss068</idno>
+		<title level="m">States of Suspension: Trans-Corporeality at Sea.&quot; ISLE: Interdisciplinary Studies in Literature and Environment</title>
+		<imprint>
+			<date type="published" when="2012">2012</date>
+			<biblScope unit="volume">19</biblScope>
+			<biblScope unit="page" from="476" to="493" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<monogr>
+		<title level="m" type="main">MEG: A Novel of Deep Terror</title>
+		<author>
+			<persName><forename type="first">Steve</forename><surname>Alten</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1997">1997</date>
+			<publisher>Doubleday</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title/>
+	</analytic>
+	<monogr>
+		<title level="j">MEG: Generations. Forge</title>
+		<imprint>
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<monogr>
+		<title level="m" type="main">MEG: Hell&apos;s Aquarium</title>
+		<imprint>
+			<date type="published" when="2009">2009</date>
+			<publisher>Tor</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<monogr>
+		<title level="m" type="main">MEG: Origins</title>
+		<imprint>
+			<date type="published" when="2011">2011</date>
+			<publisher>Gere Donovan P</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<monogr>
+		<title level="m">MEG: Primal Waters. Forge</title>
+		<imprint>
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<monogr>
+		<title level="m">The Trench</title>
+		<imprint>
+			<publisher>Kensington Books</publisher>
+			<date type="published" when="1999">1999</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<monogr>
+		<title level="m" type="main">Nature&apos;s Ghosts: Confronting Extinction from the Age of Jefferson to the Age of Ecology</title>
+		<author>
+			<persName><forename type="first">Mark</forename><forename type="middle">V</forename><surname>Barrow</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2009">2009</date>
+			<publisher>U of Chicago P</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title level="a" type="main">The Early Pliocene Extinction of the Mega-Toothed Shark Otodus megalodon: A View from the Eastern North Pacific</title>
+		<author>
+			<persName><forename type="first">Robert</forename><forename type="middle">W</forename><surname>Boessenecker</surname></persName>
+		</author>
+		<idno type="DOI">10.7717/peerj.6088</idno>
+	</analytic>
+	<monogr>
+		<title level="j">PeerJ</title>
+		<imprint>
+			<biblScope unit="volume">7</biblScope>
+			<biblScope unit="page">6088</biblScope>
+			<date type="published" when="2019">2019</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title level="a" type="main">Signs of Evil: Bataille, Baudrillard and Postmodern Gothic</title>
+		<author>
+			<persName><forename type="first">Fred</forename><surname>Botting</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Southern Review</title>
+		<imprint>
+			<biblScope unit="volume">27</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="493" to="510" />
+			<date type="published" when="1994">1994</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<monogr>
+		<title level="m" type="main">Nomadic Subjects. Columbia UP</title>
+		<author>
+			<persName><forename type="first">Rosi</forename><surname>Braidotti</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1994">1994</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<monogr>
+		<title level="m">The Posthuman. Polity</title>
+		<imprint>
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<title level="a" type="main">Science Fiction and Utopia in the Anthropocene</title>
+		<author>
+			<persName><forename type="first">Gerry</forename><surname>Canavan</surname></persName>
+		</author>
+		<idno type="DOI">10.1215/00029831-9003582</idno>
+	</analytic>
+	<monogr>
+		<title level="j">American Literature</title>
+		<imprint>
+			<biblScope unit="volume">93</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="255" to="282" />
+			<date type="published" when="2021">2021</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<title level="a" type="main">Scale: Derangements of Scale</title>
+		<author>
+			<persName><forename type="first">Timothy</forename><surname>Clark</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Telemorphosis: Theory in the Era of Climate Change</title>
+		<editor>
+			<persName><forename type="first">Tom</forename><surname>Cohen</surname></persName>
+		</editor>
+		<imprint>
+			<date type="published" when="2012">2012</date>
+			<biblScope unit="page" from="148" to="166" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title level="a" type="main">Preface: In a Time of Monsters</title>
+		<author>
+			<persName><forename type="first">Jeffrey</forename><surname>Cohen</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Jerome</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Monster Theory: Reading Culture</title>
+		<editor>
+			<persName><forename type="first">Jeffrey</forename><surname>Jerome Cohen</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">P</forename><surname>Of Minnesota</surname></persName>
+		</editor>
+		<imprint>
+			<date type="published" when="1996">1996</date>
+			<biblScope unit="page" from="vii" to="xiv" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<title level="a" type="main">The Counter-Oceanic Sea: Archive and Difference in The Deep</title>
+		<author>
+			<persName><forename type="first">Claire</forename><surname>Colebrook</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/0969725X.2025.2454825</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Angelaki: Journal of the Theoretical Humanities</title>
+		<imprint>
+			<biblScope unit="volume">30</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="26" to="39" />
+			<date type="published" when="2025">2025</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<analytic>
+		<title level="a" type="main">The Extinct Shark Otodus megalodon Was a Transoceanic Superpredator: Inferences from 3D Modeling</title>
+		<author>
+			<persName><forename type="first">Jack</forename><forename type="middle">A</forename><surname>Cooper</surname></persName>
+		</author>
+		<idno type="DOI">10.1126/sciadv.abm9424</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Science Advances</title>
+		<imprint>
+			<biblScope unit="volume">8</biblScope>
+			<biblScope unit="issue">33</biblScope>
+			<date type="published" when="2022">2022</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">Michael</forename><forename type="middle">Jurassic</forename><surname>Crichton</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Park</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Alfred</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Knopf</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1990">1990</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<monogr>
+		<title level="m" type="main">The Edinburgh Companion to Globalgothic</title>
+		<author>
+			<persName><forename type="first">Sharae</forename><surname>Deckard</surname></persName>
+		</author>
+		<editor>Rebecca Duncan</editor>
+		<imprint>
+			<date type="published" when="2023">2023</date>
+			<publisher>Edinburgh UP</publisher>
+			<biblScope unit="page" from="131" to="147" />
+		</imprint>
+	</monogr>
+	<note>Extractive Gothic</note>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<analytic>
+		<title level="a" type="main">Submerged Bodies: The Tidalectics of Representability and the Sea in Caribbean Art</title>
+		<author>
+			<persName><forename type="first">Elizabeth</forename><surname>Deloughrey</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Tatiana</forename><surname>Flores</surname></persName>
+		</author>
+		<idno type="DOI">10.1215/22011919-8142242</idno>
+	</analytic>
+	<monogr>
+		<title level="m">Environmental Humanities</title>
+		<imprint>
+			<date type="published" when="2020">2020</date>
+			<biblScope unit="volume">12</biblScope>
+			<biblScope unit="page" from="132" to="166" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<analytic>
+		<title level="a" type="main">Discovering the Living Fossil Short Story in the Late Nineteenth Century</title>
+		<author>
+			<persName><forename type="first">Richard</forename><surname>Fallon</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/14775700.2023.2247781</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Comparative American Studies: An International Journal</title>
+		<imprint>
+			<biblScope unit="volume">21</biblScope>
+			<biblScope unit="issue">1-2</biblScope>
+			<biblScope unit="page" from="53" to="69" />
+			<date type="published" when="2024">2024</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<monogr>
+		<title level="m" type="main">Indifferentism and Freedom</title>
+		<author>
+			<persName><forename type="first">Mark</forename><surname>Fisher</surname></persName>
+		</author>
+		<ptr target="https://k-punk.org/indifferentism-and-freedom" />
+		<imprint>
+			<date type="published" when="2004-12-30">Dec 30, 2004</date>
+		</imprint>
+	</monogr>
+	<note>K-Punk</note>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<monogr>
+		<title level="m" type="main">Incorporating Nature: Environmental Narratives and the Reproduction of Food</title>
+		<author>
+			<persName><forename type="first">Margaret</forename><surname>Fitzsimmons</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">David</forename><surname>Goodman</surname></persName>
+		</author>
+		<editor>Bruce Braun and Noel Castree. Routledge</editor>
+		<imprint>
+			<date type="published" when="1998">1998</date>
+			<biblScope unit="page" from="193" to="219" />
+		</imprint>
+	</monogr>
+	<note>Remaking Reality: Nature at the Millennium</note>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<monogr>
+		<title level="m" type="main">Das Unbehagen in der Kultur und andere kulturtheoretische Schriften</title>
+		<author>
+			<persName><forename type="first">Sigmund</forename><surname>Freud</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1994">1994</date>
+			<publisher>Fischer</publisher>
+			<biblScope unit="page" from="29" to="108" />
+		</imprint>
+	</monogr>
+	<note>Das Unbehagen in der Kultur</note>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<analytic>
+		<title level="a" type="main">A Serious Man versus Nature Moment&apos;: Aquatic Monsters, Deep Time, and Climate Change</title>
+		<author>
+			<persName><forename type="first">Michael</forename><surname>Fuchs</surname></persName>
+		</author>
+		<idno type="DOI">10.18278/pcr.33.1.5</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Popular Culture Review</title>
+		<imprint>
+			<biblScope unit="volume">33</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="103" to="136" />
+			<date type="published" when="2022">2022</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<monogr>
+		<title level="m" type="main">Imagining the Becoming-Unextinct of Megalodon: Spectral Animals, Digital Resurrection, and the Vanishing of the Human</title>
+		<editor>Ruth Heholt and Melissa Edmundson</editor>
+		<imprint>
+			<date type="published" when="2020">2020</date>
+			<publisher>Palgrave Macmillan</publisher>
+			<biblScope unit="page" from="107" to="123" />
+		</imprint>
+	</monogr>
+	<note>Gothic Animals: Uncanny Otherness and the Animal With-Out</note>
+</biblStruct>
+
+<biblStruct xml:id="b27">
+	<analytic>
+		<title level="a" type="main">The Slow Apocalypse in The Low, Low Woods</title>
+		<author>
+			<persName><forename type="first">Michael</forename><surname>Fuchs</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Anna</forename><forename type="middle">Marta</forename><surname>Marini</surname></persName>
+		</author>
+		<idno type="DOI">10.30687/EL/2420-823X/2023/10/005</idno>
+	</analytic>
+	<monogr>
+		<title level="m">English Literature: Theories, Interpretations, Contexts</title>
+		<imprint>
+			<date type="published" when="2023">2023</date>
+			<biblScope unit="volume">10</biblScope>
+			<biblScope unit="page" from="101" to="117" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b28">
+	<analytic>
+		<title level="a" type="main">The Megalodon: A Monster of the New Mythology</title>
+		<author>
+			<persName><forename type="first">Edward</forename><surname>Guimont</surname></persName>
+		</author>
+		<ptr target="https://www.journal.media-culture.org.au/index.php/mcjournal/article/view/2793" />
+	</analytic>
+	<monogr>
+		<title level="j">M/C Journal</title>
+		<imprint>
+			<biblScope unit="volume">24</biblScope>
+			<biblScope unit="issue">5</biblScope>
+			<date type="published" when="2021">2021</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b29">
+	<monogr>
+		<title level="m" type="main">Skin Shows: Gothic Horror and the Technology of Monsters</title>
+		<author>
+			<persName><forename type="first">Judith</forename><surname>Halberstam</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1995">1995</date>
+			<publisher>Duke UP</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b30">
+	<analytic>
+		<title level="a" type="main">What is Cryptozoology?</title>
+		<author>
+			<persName><forename type="first">Bernard</forename><surname>Heuvelmans</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Translated by Ron Westrum. Cryptozoology</title>
+		<imprint>
+			<biblScope unit="volume">1</biblScope>
+			<biblScope unit="page" from="1" to="12" />
+			<date type="published" when="1982">1982</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b31">
+	<analytic>
+		<title level="a" type="main">Lone Parents: Parthenogenesis in Sharks</title>
+		<author>
+			<persName><forename type="first">Wendee</forename><surname>Holtcamp</surname></persName>
+		</author>
+		<idno type="DOI">10.1525/bio.2009.59.7.3</idno>
+	</analytic>
+	<monogr>
+		<title level="j">BioScience</title>
+		<imprint>
+			<biblScope unit="volume">59</biblScope>
+			<biblScope unit="issue">7</biblScope>
+			<biblScope unit="page" from="546" to="560" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b32">
+	<monogr>
+		<title level="m" type="main">Green Screen: Environmentalism and Hollywood Cinema</title>
+		<author>
+			<persName><forename type="first">David</forename><surname>Ingram</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2000">2000</date>
+		</imprint>
+		<respStmt>
+			<orgName>U of Exeter P</orgName>
+		</respStmt>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b33">
+	<analytic>
+		<title level="a" type="main">A Memoir on the Discovery of Certain Bones of a Quadruped of the Clawed Kind in the Western Parts of Virginia</title>
+		<author>
+			<persName><forename type="first">Thomas</forename><surname>Jefferson</surname></persName>
+		</author>
+		<idno type="DOI">10.2307/1005103</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Transactions of the American Philosophical Society</title>
+		<imprint>
+			<biblScope unit="volume">4</biblScope>
+			<biblScope unit="page" from="246" to="260" />
+			<date type="published" when="1799">1799</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b34">
+	<analytic>
+		<title level="a" type="main">Anthropocene Unburials&apos; and Agency on a Thawing Planet</title>
+		<author>
+			<persName><forename type="first">Dawn</forename><surname>Keetley</surname></persName>
+		</author>
+		<idno type="DOI">10.3828/sfftv.2021.26</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Science Fiction Film and Television</title>
+		<imprint>
+			<biblScope unit="volume">14</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="375" to="393" />
+			<date type="published" when="2021">2021</date>
+		</imprint>
+	</monogr>
+	<note>Climate Change</note>
+</biblStruct>
+
+<biblStruct xml:id="b35">
+	<monogr>
+		<title level="m" type="main">Multispecies and Multispirited Seas: Submersion and the Gothic in Two South African Fictions</title>
+		<author>
+			<persName><forename type="first">Charne</forename><surname>Lavery</surname></persName>
+		</author>
+		<editor>Allison Craven and Diana Sandars. Routledge</editor>
+		<imprint>
+			<date type="published" when="2024">2024</date>
+			<biblScope unit="page" from="87" to="102" />
+		</imprint>
+	</monogr>
+	<note>Gothic in the Oceanic South: Maritime, Marine and Aquatic Uncanny in Southern Waters</note>
+</biblStruct>
+
+<biblStruct xml:id="b36">
+	<monogr>
+		<title level="m" type="main">What Lies Beneath: Robert Macfarlane Travels &apos;Underland&apos;</title>
+		<author>
+			<persName><forename type="first">Robert</forename><surname>Macfarlane</surname></persName>
+		</author>
+		<ptr target="https://www.theguardian.com/books/2019/apr/20/what-lies-beneath-robert-macfarlane" />
+		<imprint>
+			<date type="published" when="2019-04-20">20 Apr. 2019</date>
+		</imprint>
+	</monogr>
+	<note>The Guardian</note>
+</biblStruct>
+
+<biblStruct xml:id="b37">
+	<analytic>
+		<title level="a" type="main">Megalodon: The New Evidence</title>
+		<author>
+			<persName><forename type="first">Leighanne</forename><surname>Megalodon</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Robin</forename><surname>Littrell</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Al</forename><surname>Sachs</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Mark</forename><surname>Sapienza</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Jennifer</forename><surname>Sheppard</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Sommerfeld</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Discovery Channel</title>
+		<editor>
+			<persName><forename type="first">Darron</forename><surname>Meyer</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">Emmett</forename><surname>Miller</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">Gina</forename><surname>Tleel</surname></persName>
+		</editor>
+		<imprint>
+			<date type="published" when="2004">2004. 2014</date>
+		</imprint>
+	</monogr>
+	<note>Directed by Pat Corbitt</note>
+</biblStruct>
+
+<biblStruct xml:id="b38">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">Herman</forename><surname>Melville</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Moby-Dick</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1977">1977</date>
+		</imprint>
+	</monogr>
+	<note>or, the Whale. Easton P</note>
+</biblStruct>
+
+<biblStruct xml:id="b39">
+	<monogr>
+		<title level="m" type="main">Hunting Monsters: Cryptozoology and the Reality Behind the Myths</title>
+		<author>
+			<persName><forename type="first">Darren</forename><surname>Naish</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2016">2016</date>
+			<publisher>Arcturus Publishing</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b40">
+	<analytic>
+		<title level="a" type="main">When Did Carcharocles Megalodon Become Extinct? A New Analysis of the Fossil Record</title>
+		<author>
+			<persName><forename type="first">Catalina</forename><surname>Pimiento</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Christopher</forename><forename type="middle">F</forename><surname>Clements</surname></persName>
+		</author>
+		<idno type="DOI">10.1371/journal.pone.0111086</idno>
+	</analytic>
+	<monogr>
+		<title level="j">PLOS ONE</title>
+		<imprint>
+			<biblScope unit="volume">9</biblScope>
+			<biblScope unit="issue">10</biblScope>
+			<date type="published" when="2014">2014. 111086</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b41">
+	<analytic>
+		<title level="a" type="main">Being Prey</title>
+		<author>
+			<persName><forename type="first">Val</forename><surname>Plumwood</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">The Ultimate Journey: Inspiring Stories of Living &amp; Dying</title>
+		<editor>
+			<persName><forename type="first">O'</forename><surname>James</surname></persName>
+		</editor>
+		<editor>
+			<persName><surname>Reilly</surname></persName>
+		</editor>
+		<imprint>
+			<date type="published" when="2000">2000</date>
+			<biblScope unit="page" from="128" to="146" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b42">
+	<analytic>
+		<title level="a" type="main">Uncanny Waters</title>
+		<author>
+			<persName><forename type="first">Caroline</forename><surname>Rae</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Emily</surname></persName>
+		</author>
+		<idno type="DOI">10.1177/01417789211066012</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Feminist Review</title>
+		<imprint>
+			<biblScope unit="volume">130</biblScope>
+			<biblScope unit="page" from="61" to="77" />
+			<date type="published" when="2022">1, 2022</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b43">
+	<monogr>
+		<title level="m" type="main">Colonialism and the Emergence of Science Fiction</title>
+		<author>
+			<persName><forename type="first">John</forename><surname>Rieder</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2008">2008</date>
+			<publisher>Wesleyan UP</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b44">
+	<analytic>
+		<title level="a" type="main">Monstrous Megalodons of the Anthropocene: Extinction and Adaptation in Prehistoric Shark Fiction, 1974-2018</title>
+		<author>
+			<persName><forename type="first">Jennifer</forename><surname>Schell</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Dark Scenes from Damaged Earth: The Gothic Anthropocene</title>
+		<editor>
+			<persName><forename type="first">Justin</forename><forename type="middle">D</forename><surname>Edwards</surname></persName>
+		</editor>
+		<imprint>
+			<date type="published" when="2022">2022</date>
+			<biblScope unit="page" from="64" to="80" />
+		</imprint>
+		<respStmt>
+			<orgName>U of Minnesota P</orgName>
+		</respStmt>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b45">
+	<analytic>
+		<title level="a" type="main">The Anthropocene: Are Humans Now Overwhelming the Great Forces of Nature?</title>
+		<author>
+			<persName><forename type="first">Will</forename><surname>Steffen</surname></persName>
+		</author>
+		<idno type="DOI">10.1579/0044-7447(2007)36[614:TAAHNO]2.0.CO;2</idno>
+	</analytic>
+	<monogr>
+		<title level="j">AMBIO: A Journal of the Human Environment</title>
+		<imprint>
+			<biblScope unit="volume">36</biblScope>
+			<biblScope unit="issue">8</biblScope>
+			<biblScope unit="page" from="614" to="621" />
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b46">
+	<analytic>
+		<title level="a" type="main">White Shark Comparison Reveals a Slender Body for the Extinct Megatooth Shark, Otodus megalodon (Lamniformes: Otodontidae)</title>
+		<author>
+			<persName><forename type="first">Phillip</forename><forename type="middle">C</forename><surname>Sternes</surname></persName>
+		</author>
+		<idno type="DOI">10.26879/1345</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Palaeontologia Electronica</title>
+		<imprint>
+			<biblScope unit="volume">27</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<date type="published" when="2024">2024</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b47">
+	<analytic>
+		<title level="a" type="main">Report on the Scientific Results of the Voyage of H.M.S. Challenger During the Years 1873-76: Deep Sea Deposits</title>
+		<author>
+			<persName><forename type="first">C</forename><surname>Thomson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">John</forename><surname>Wyville</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Murray</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Majesty&apos;s Stationery Office</title>
+		<imprint>
+			<date type="published" when="1891">1891</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b48">
+	<analytic>
+		<title level="a" type="main">We Will Change&apos;: Deep Past and Uncertain Future in Blood Glacier</title>
+		<author>
+			<persName><forename type="first">Christy</forename><surname>Tidwell</surname></persName>
+		</author>
+		<idno type="DOI">10.3828/sfftv.2021.27</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Science Fiction Film and Television</title>
+		<imprint>
+			<biblScope unit="volume">14</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="395" to="412" />
+			<date type="published" when="2021">2021</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b49">
+	<analytic>
+		<title level="a" type="main">Age of Carcharodon Megalodon?</title>
+		<author>
+			<persName><forename type="first">Wladimir</forename><surname>Tschernezky</surname></persName>
+		</author>
+		<idno type="DOI">10.1038/1841331a0</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Nature</title>
+		<imprint>
+			<biblScope unit="volume">184</biblScope>
+			<biblScope unit="page" from="1331" to="1332" />
+			<date type="published" when="1959">2695, 1959</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b50">
+	<monogr>
+		<title level="m" type="main">Managing the Monstrous Feminine: Regulating the Reproductive Body</title>
+		<author>
+			<persName><forename type="first">Jane</forename><forename type="middle">M</forename><surname>Ussher</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2006">2006</date>
+			<publisher>Routledge</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b51">
+	<analytic>
+		<title level="a" type="main">Introduction: A Genealogy of Monster Theory</title>
+		<author>
+			<persName><forename type="first">Jeffrey</forename><surname>Weinstock</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Andrew</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">The Monster Theory Reader</title>
+		<editor>
+			<persName><forename type="first">Jeffrey</forename><surname>Andrew</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">Weinstock</forename><forename type="middle">U</forename><surname>Of Minnesota</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">P</forename></persName>
+		</editor>
+		<imprint>
+			<date type="published" when="2020">2020</date>
+			<biblScope unit="page" from="1" to="36" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b52">
+	<analytic>
+		<title level="a" type="main">American Nightmare: Essays on the Horror Film</title>
+		<author>
+			<persName><forename type="first">Robin</forename><surname>Wood</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Festival of Festivals</title>
+		<editor>
+			<persName><forename type="first">Andrew</forename><surname>Britton</surname></persName>
+		</editor>
+		<imprint>
+			<biblScope unit="page" from="7" to="28" />
+			<date type="published" when="1979">1979</date>
+		</imprint>
+	</monogr>
+	<note>An Introduction to the American Horror Film</note>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

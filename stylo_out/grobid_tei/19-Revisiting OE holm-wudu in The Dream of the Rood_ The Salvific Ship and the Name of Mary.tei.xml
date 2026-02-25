@@ -1,0 +1,2190 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Revisiting OE holm-wudu in The Dream of the Rood: The Salvific Ship and the Name of Mary</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author role="corresp">
+							<persName><forename type="first">Yinghan</forename><surname>Li</surname></persName>
+							<email>yinghan.li@ell.ox.ac.uk</email>
+							<affiliation key="aff0">
+								<orgName type="department">Faculty of English</orgName>
+								<orgName type="institution">University of Oxford</orgName>
+								<address>
+									<settlement>Oxford</settlement>
+									<country key="GB">United Kingdom</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">English</forename><surname>Studies</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Faculty of English</orgName>
+								<orgName type="institution">University of Oxford</orgName>
+								<address>
+									<settlement>Oxford</settlement>
+									<country key="GB">United Kingdom</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Revisiting OE holm-wudu in The Dream of the Rood: The Salvific Ship and the Name of Mary</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date/>
+						</imprint>
+					</monogr>
+					<idno type="MD5">DCB0AF17241531B3E938B4B50760C565</idno>
+					<idno type="DOI">10.1080/0013838X.2025.2566696</idno>
+					<note type="submission">Received 4 April 2025 Accepted 19 September 2025</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.0" ident="GROBID" when="2026-02-25T19:54+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term>The Dream of the Rood</term>
+					<term>Old English poetry</term>
+					<term>Virgin Mary</term>
+					<term>ship symbolism</term>
+					<term>spiritual voyage</term>
+					<term>paronomasia</term>
+				</keywords>
+			</textClass>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>This article supports retaining the manuscript reading holm-wudu in The Dream of the Rood 91a, and argues that the poet highlights a parallel between the Cross and Mary in 90-4 to emphasise the theme of spiritual voyage towards salvation. Both the Cross and Mary have been closely associated with Christian ship-symbolism and life-voyage motif in patristic and exegetical works known in the early medieval period. The unique poetic compound holm-wudu ("sea-wood"), which is often emended to holt-wudu ("forest-wood"), plays a vital part in the establishment of ship-symbolism in the poem. Examining the etymological meaning of Mary as stella maris ("star of the sea"), the nautical diction in the poem, and other extant Old English "sea-wood" compounds in the corpus, this article contends that the poet's emphasis on ship-symbolism renders the suggested emendation both superfluous and misleading.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>The Dream of the Rood is perhaps among the earliest and certainly one of the most celebrated poems in the Old English corpus. <ref type="bibr">1</ref> The poem is undoubtedly an artistically-profound and well-crafted work written by a "highly skilled and apparently widely regarded poet". 2 With a rich display of Cross-symbolism throughout its narrative, the poem highlights the importance of the worship of the Cross in early medieval England. <ref type="bibr">3</ref> However, the meaning and word-form of the first element in the -wudu compound in 91a remain controversial. Here the manuscript clearly reads holm-wudu (holm "sea", wudu "wood"), with this unique maritime compound split across a line-break. <ref type="bibr">4</ref> The contested reading occurs in the passage where the Cross is compared with the Virgin Mary. The text as preserved in the Vercelli Book reads:</p><p>Hwaet mē þā geweorðode wuldres Ealdor ofer holm-wudu, heofon-rīces weard. swylce swā hē his mōdor ēac, Mārian sylfe, ael-mihtig God for ealle menn geweorðode ofer eall wīfa cynn! (90-4) <ref type="bibr">5</ref> (Listen! The Lord of Glory then honoured me above the wood-of-the-sea, the guardian of the heavenly-kingdom, just as he, Almighty God, also honoured his mother, Mary herself, over all women, in front of all people!)</p><p>The poet uses the same verb geweorþigan ("to honour") twice to pair the personified Cross with Mary. Alongside the parallel between God honouring the Cross and God honouring Mary, there are two contrasts, respectively revering the personified Cross (mē) above all holm-wudu, and Mary (Mārian) above all women (eall wīfa cynn). While the identification of Mary as a woman is straightforward, what is obscure and perplexing is the image of the Cross above all holm-wudu.</p><p>The compound holm-wudu is inconsistently defined in B-T, which explains holmwudu as "wood growing on a hill", evidently based on early Middle English holm ("hill"), whereas DOE gives three possible meanings: "tree of the meadow", emendation to holt-wudu ("forest-wood", "tree of the forest"), and an alternative meaning of "seawood", "ship". <ref type="bibr">6</ref> The obvious doubts of lexicographers over the meaning of holm-wudu indicates both a discrepancy of understanding and a need for further research.</p><p>From the 1850s to the present, extensive commentary on holm-wudu has produced no consensus. Since J. M. Kemble and C. W. M. Grein, many editors and commentators of The Dream of the Rood have proposed that the first element holm ("sea", "ocean") should be replaced by holt ("wood", "grove") or helm ("protection", "protector"), and that the manuscript form holm-wudu should have been a scribal error. <ref type="bibr">7</ref> Some have suggested an emendation to holt-wudu for varied reasons. In terms of word frequency, holtwudu is securely attested in Beowulf 1369b and 2340a and The Phoenix 171b, whilst holm-wudu is unique to The Dream of the Rood. <ref type="bibr">8</ref> Concerning the immediate narrative context, the Holy Cross is cut down from its roots at the edge of the forest (28-30a), and there are no other explicit maritime elements in the poem. 9 Only a few scholars have argued in favour of retaining the manuscript form holm-wudu. 10 Amongst them, some tend to move away from the strictly nautical theme espoused by this article, B-T, s.v. "holm-wudu"; DOE, s.v. "holm-wudu". The DOE gives: "i.e., the Cross transports the faithful across the 'sea' of this life (cf. brim-, flōd-, sae ¯-, sund-wudu)". Similarly, Word-hord provides "sea-wood; ship; the Cross, interpreted as a ship", but also points to an existing poetic compound holt-wudu ("forest-wood").The earliest occurrence of early Middle English holm is attested in Laȝamon's alliterative poem Brut 10334 and 10409. See further, Brook and Leslie, eds.,  Laȝamon, II, 538 and 542.   7 Grein, ed., Bibliothek, II, 146. For Grein's glosses on holm as collis ("hill") and mons ("mountain") and holm-wudu as lignum montis, see IV, 94-5. Kemble, "Additional Observations," 31-9; on the emendation to holt-wudu, see Kemble, The Poetry of the Codex Vercellensis, II, 89. 8 Neidorf and Xu, "The Textual Criticism," 525-6; Dickins and Ross, eds., The Dream of the Rood, 31. Cook further cites two examples in medieval Latin liturgical songs where the Cross is said to be superior to all trees in the world. Cook, ed., The Dream of the Rood, 7 and 41. 9 <ref type="bibr">Bütow,</ref><ref type="bibr">ed.,</ref><ref type="bibr">Das altenglische Traumgesicht vom Kreuz,</ref><ref type="bibr">43 and 82. 10</ref> See, for example, Krapp, ed., The Vercelli Book, 64 and 131-2. Clayton retains holm-wudu but translates it as "the trees of the forest". Clayton, ed. and trans., Old English Poems, 166-7. For an interpretation of holm-wudu as "a kenning for ash", see Bintley, Trees in the Religions, 54 and 114-5.  arguing for a non-maritime interpretation as "hill-wood" or "protection-wood" based on linguistic evidence, and proposing possible associations with biblical images such as the lignum vitae ("tree of life") and the Gallows of Golgotha.<ref type="foot" target="#foot_3">11</ref> Conversely, some scholars support both the manuscript reading holm-wudu and its maritime associations. R. E. Kaske contends that holm-wudu refers to the wood in Paradise surrounded by water. 12 Others believe this compound alludes to the lignum crucis ("wood of the Cross") and lignum maris ("wood of sea") metaphors in early Christian literary tradition. <ref type="bibr">13</ref> As Heather Maring argues, the image of the Holy Cross above holmwudu is reminiscent of a common Christian concept: the Cross is often compared to the mast of a ship because of the shape, materiality, and function. 14 However, these arguments have not been widely accepted despite the range of evidence offered. This article contends that the manuscript form holm-wudu should be retained, and examines the legitimacy of the manuscript reading from different angles.</p><p>In the first section, this article uncovers a connection between the image of the Cross and that of Mary in The Dream of the Rood, on the grounds of the widespread paronomasia on Mary as stella maris ("star of the sea"). <ref type="bibr">15</ref> Both images have close associations with spiritual seafaring in medieval Christian literature. The etymological interpretation of Mary as the guiding star for Christian seafarers is attested in various Old English texts, which may have been known to the poet of The Dream of the Rood. In the second section, this article investigates the contextual association of holm-wudu with other holm-and -wudu compounds denoting "ship", and argues that this unique -wudu compound shows the poet's interest in the theme of spiritual voyage. Finally, this article contends that by establishing a direct connection between the Cross and Mary, the poet creates a nautical scene in 90-4: Christians will safely sail towards the harbour of eternal joy, with Mary being their guiding Pole Star in sky, and the Holy Cross above their ships of life.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Mary, Star of the Sea</head><p>Several scholars have noticed the parallel between holm-wudu and Mary in the passage. <ref type="bibr">16</ref> Yet the relationship between the Cross and Mary manifested in the comparison in The Dream of the Rood 90-4 may be more closely intertwined than previously acknowledged. This connection is reinforced by the widespread medieval concept of Mary as stella maris, that is, the star of the sea, who is the guardian of Christian seafarers in the sea of the world. The sacred etymology of Mary may have come from medieval Christian writers such as Jerome and Isidore of Seville, whose works enjoy wide currency in early medieval England. <ref type="bibr">17</ref> Jerome explains the Hebrew name of Mary as stilla maris ("a drop of the sea") in Quaestiones hebraicae in libro Geneseos ("Hebrew Questions on Genesis") and Liber de Nominibus Hebraicis ("Book on Hebrew Names"). <ref type="bibr" target="#b0">18</ref> A more common collocation stella maris is attested in some versions of Jerome's texts and in works of medieval Christian writers including Isidore of Seville, Bede, and Alcuin of York. <ref type="bibr" target="#b1">19</ref> Both images, stilla maris ("a drop of the sea") and stella maris ("the star of the sea"), may derive from I Kings 18.41-45, where the symbol of hope is a small cloud rising from the sea to end the long period of drought. <ref type="bibr" target="#b2">20</ref> Isidore, for example, explains the name Mary as inluminatrix, sive stella maris ("enlightener, or star of the sea") in his Etymologiae ("Etymologies") VII.x.1. <ref type="bibr" target="#b3">21</ref> Bede endorses this signification and writes Maria autem Hebraice stella maris Syriace uero domina uocatur ("But Mary is called 'the Star of the Sea' in Hebrew and indeed 'Lady' in Syriac") in his In Lucae euangelium ("On the Gospel of Luke") I.i.27. <ref type="bibr" target="#b4">22</ref> In Homily I.3 which is dedicated to the Annunciation, Bede reminds his readers of the nautical connotation behind the name stella maris: it is a testimony to the exceptional merits (meritis praecipuis) of Mary, who shines like a distinguished star on the sky inter fluctus saeculi labentis ("among the waves of the passing world"). <ref type="bibr" target="#b5">23</ref> The allusion of Mary to the spiritual beacon of seafarers is evidently presented by the nautical diction in the passage.</p><p>Evidence in medieval liturgical hymns and antiphons also calls to mind a maritime association with sea and seafaring, including the popular eighth-or ninth-century antiphon Ave Maris Stella. <ref type="bibr" target="#b6">24</ref> Mary is depicted as a heavenly guide of Christian sea-goers, a symbol of safe sea-voyage. <ref type="bibr" target="#b7">25</ref> She is maris stella and felix caeli porta ("happy gate of heaven"), who is asked to prepare a safe voyage to her believers (iter para tutum). <ref type="bibr" target="#b8">26</ref> Whilst porta ("gate") and iter ("journey") do not necessarily have nautical implications, the etymological name of Mary as stella maris hints at the idea of voyage in the sea. Alcuin of York, too, praises Mary as lux et stella maris ("light and the star of the sea") in Carmina 109.4, a four-line stanza composed for the Altar of Saint Mary in the abbey church of St Peter in Salzburg. <ref type="bibr" target="#b9">27</ref> By venerating the Blessed Virgin Mary throughout their earthly voyage, the faithful can hope to ascend to the celestial harbour and ultimately celebrate reunion with their saviour, Jesus Christ.</p><p>In vernacular English literature, the knowledge of Mary as "star of the sea" is further attested in the eleventh-century Old English version of the Latin Gospel of Pseudo-Matthew (hereafter Pseudo-Matthew). <ref type="bibr">28</ref> The Old English Pseudo-Matthew appears much later than The Dream of the Rood, but other versions of the Latin original may have been in circulation in England since no later than the end of the ninth century. <ref type="bibr">29</ref> The Old English version contains a homiletic prologue concerning the Nativity of Mary, which is not included in the original text. What is especially noteworthy about the prologue is that the author categorically states the knowledge of Mary as the "star of the sea", nū is hyre nama gereht hlaēfdige oððe cwēn oððe saē-steorra ("Now her name is interpreted as Lady or Queen or Sea-star"), 30 before defining the meaning of saē-steorra ("sea-star", "star of the sea") as the guardian of seafarers:</p><p>Saē-steorra / hēo is gecweden forðan þe se saē-steorra on niht gecyþeð scyp-liðendum mannum hwȳder bið ēast and west, hwȳder sūð and norð. Swā þonne wearð þurh ðā halgan faēmnan Sancta Marian gecyþed se rihte sīð-faet tō ðām ēcan life þām ðe lange aēr saēton on þēostrum and on dēaþes scūan and on þām unstillum ȳðum þaēre saē þises middan-eardes.</p><p>(She is called the Star of the Sea, because the star of the sea informs sea-faring men of where east and west are, where south and north. So in the same way through the Holy Virgin Mary, the right journey to that eternal life was shown to those who previously sat in darkness for long and in the shadow of death and in those restless waves of the sea of this middle-earth.)</p><p>Mary is not only the Pole Star that guides seafarers, but also a spiritual beacon that illuminates the correct path towards ēcan life ("eternal life") for Christian believers. <ref type="bibr">31</ref> The nautical imagery in this passage is straight-forwardly reminiscent of traditional Christian ship symbolism. For the seafaring souls struggling in their life-voyage amidst the sea of the earthly ordeals, it is Mary who guarantees successful spiritual salvation. <ref type="bibr">32</ref> Evidently, the compound saē-steorra in the homiletic prologue to the Old English Pseudo-Matthew is a calque on the Latin stella maris, exclusively denoting Mary. <ref type="bibr">33</ref> The DOE Corpus shows that saē-steorra occurs in the Old English Pseudo-Matthew and an Old English interlinear gloss of Hymn 66, Item Ymnus (a version of the Latin Ave Maris Stella) from the Durham Hymnal in an eleventh-century manuscript, where the glossator gives hal sy þū saē-steorra ("hail to you, star-of-the-sea") for the Latin ave, maris stella ("hail, star of the sea"). <ref type="bibr">34</ref> Moreover, viewed in a wider perspective, the phrase steorra saē ("star of the sea") is attested in another interlinear gloss of the Latin Ave Maris Stella in an eleventh-century manuscript, where the Old English glossator <ref type="bibr">28</ref> The text is preserved in three manuscripts: Oxford, Bodleian Library, MS Hatton 114; Cambridge, Corpus Christi College, MS 367, Part II; and Oxford, Bodleian Library, MS Bodley 343. <ref type="bibr">29</ref> On dating of the Latin text (550 to 700) and the Old English version (early eleventh century), see Clayton, The Apocryphal Gospels, 18 and 138-9. <ref type="bibr">30</ref> The Old English text is taken from Clayton, The Apocryphal Gospels, 164. For a general introduction to the prologue, see 85 and 136-9. For a comparison between the J text and N text of the prologue, see <ref type="bibr">Assmann,</ref><ref type="bibr">ed.,</ref><ref type="bibr">Angelsachsische Homilien,</ref><ref type="bibr">117. 31</ref> On the association between stella maris and the North Star, see further, Hartley, "Astronomical Names," 515-16. <ref type="bibr">32</ref> Budwey, Sing of Mary, 28-9; Rudolf, "The Spiritual Islescape," 49-50. <ref type="bibr">33</ref> Clayton, The Apocryphal Gospels, 139 and 196. <ref type="bibr">34</ref> The glossed text is preserved in Canterbury, Durham, Cathedral Library, B. III. 32. Milfull, The Hymns, vii. For the text and a commentary, see Milfull, The Hymns, 271-4.</p><p>generally uses the same phraseology as that of the Durham Hymnal. <ref type="bibr">35</ref> This Marian hymn enjoyed widespread circulation in early medieval England, and was performed in varied liturgical settings. <ref type="bibr">36</ref> The aforementioned examples all testify that since no later than the age of Bede, this appellation of Mary signifying stella maris was familiar in early medieval England. As scholars have argued that the poet of The Dream of the Rood is well versed in Latin liturgical hymns, it is very likely that the poet would have been acquainted with the common designation of Mary as "star of the sea". <ref type="bibr">37</ref> Mary's central position in nautical discourse should be understood in the light of the traditional patristic image of Christ as the steersman. <ref type="bibr">38</ref> This image appears in Old English texts such as Andreas, Blicking Homily XVIII, and the Old English Boethius. <ref type="bibr">39</ref> Perhaps motivated by a similar interest in accentuating Christ as the holy skipper, the translator of the Old English Boethius adds a passage to eulogise Christ as the sole staðol-faest wealdend and stīora and steor-rōðer and helma ("stead-fast ruler, and pilot, and rudder, and helm") in Prose 22, explaining that Christ rightfully maintains the order of the world swā swā gōd stīora ānum scipe ("just like a good pilot [controls] a ship"). <ref type="bibr">40</ref> In addition, surviving Old English and Latin texts provide powerful proof that their authors tend to add such maritime dimension in their accounts of Christ and his mother Mary: if Christ is the holy steersman of one's ship of life, so Mary is a Pole Star on high, the guarantor of safe voyage for the floating soul. <ref type="bibr">41</ref> Many Old English authors have a shared interest in interpreting or making onomastic puns on the etymological meanings of other personal names, especially those concerning biblical figures: for example, Andreas equals "virility", Daniel "judgement of God", and Elene "courage". <ref type="bibr">42</ref> One of the most typical cases is the Daniel-poet's frequent allusion to Daniel as iudicium Dei ("judgement of God"), where the poet uses Dryhtnes dōmas ("judgement of God") in Daniel 32a and 744a, and puts the name Daniel and its etymological meaning dom in the same line in 150a, 163, 531, 547a, 654, and 661a. As the poet of The Dream of the Rood frequently alludes to other Old English poems, he (or she) may be well versed in such common practice of onomastic puns in the vernacular tradition. <ref type="bibr">43</ref> In this sense, the nautical image of the Holy Cross above all holm-wudu in 91a could <ref type="bibr">35</ref> London, British Library Cotton MS Julius A VI. For the text, see Gneuss, Hymnar und Hymnen, 349-50. <ref type="bibr">36</ref> Thompson, "The Virgin Mary," 250; Milfull, The Hymns, 273. On the influence of medieval Latin liturgical texts on The Dream of the Rood, see Ó Carragáin, "Vision Transfigured into Prayer," esp. 311, 321-2, 322-4, and 330-1. 37 Ó Carragáin, "Vision Transfigured into Prayer," 310-28. <ref type="bibr">38</ref> North and Bintley, eds., Andreas, 255-6; Daniélou, "The Ship of the Church," 59-60; Rahner, "Odysseus at the Mast," 344, 348, and 373-75. For the same image in early Christian art, see, for instance, Stuhlfauth, "Das Schiff," esp. 133-4. <ref type="bibr">39</ref> Christ the skipper is also hinted at Christ B 858b-863. For a recent argument that Christ is depicted as a king-like skipper in Andreas modelled on King Alfred, see North, "King Alfred," esp. 443-8. On the theme of steering the ship of the mind and the portrayal of King Alfred as a skilled steersman in Alfredian narrative, see further, Ponirakis, "Steering the Ship," esp. 55 and 60-7. <ref type="bibr">40</ref> Reference to the text is from Godden and Irvine, eds. and trans., The Old English Boethius, I, 485. See further, Gregory the Great, Regula Pastoralis 3.32 in Judic, Rommel, and Morel, eds. and trans., Règle pastorale, II, 492, where he warns about the danger of a gubernator ("pilot") losing the clauus ("rudder") which is used ad regendam nauem corporis ("to steer ship of the body") in the sea. 41 B-T, s.v. "sae ¯-steorra". <ref type="bibr">42</ref> Frank, "Some Uses," 212-14, 216-17, 220-1, 222-3; Robinson, "The Significance," esp. 16-35; Robinson, "Some Uses," esp. 161-5. For Elene as ellen ("courage", "valour"), see McBrine, "The Journey Motif," 314. <ref type="bibr">43</ref> On the association between Daniel and The Dream of the Rood, see Orchard, "Cross-References," 27-8. On paronomasia in early biblical poems such as Genesis A and B and Exodus, see Frank, "Some Uses," 211- enable the name Mary in 92b to be seamlessly integrated into the poet's intricately designed portrayal of a safe spiritual voyage in the passage.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>The Making and Unmaking of Holm-wudu</head><p>The case for retaining the manuscript reading holm-wudu in the Dream of the Rood is further bolstered when the evidence for holm-and -wudu compounds denoting "ship" in Old English poetry is taking into consideration. In patristic tradition, the Cross is often compared to the mast of a ship, whilst in the ecclesiastical culture in early medieval England, the ship itself is often likened to the Cross. <ref type="bibr">44</ref> The ship, especially in the case of Noah's Ark, appears in insular manuscript illustrations and on physical crosses, symbolising the Holy Cross. <ref type="bibr">45</ref> Though not adopting the form of a -wudu compound, the ship-Cross comparison is not uncommon in Old English literary tradition and can be found in early poems such as Exodus. <ref type="bibr">46</ref> The simplex holm is mostly preserved in poetic texts (forty out of forty-five recorded instances). Among all the poetic compounds with holm as the first element, holm-wudu is not the only compound that refers to "ship". Another compound for "ship", holm-aern ("sea-house", specifically denoting Noah's Ark), appears once in the corpus, in the early poem Genesis A 1422b. <ref type="bibr">47</ref> The poet of Genesis A perceives a unique analogy between Noah's Ark and earthbound architectures such as buildings and halls. In this poetic coinage for Noah's Ark as a "sea-house", the poet creates a pattern of simplexes for "sea" as the first element and those for "house" or "hall" as the second element, which perfectly matches the biblical story. The giant vessel, which shelters Noah, his family, and the chosen animals for more than a year on the sea, serves as a real house to them.</p><p>In Old English poems such as Beowulf (216b, 298a, and 1919a), the simplex wudu ("wood", "tree", "ship") itself could already denote "ship". <ref type="bibr">48</ref> The materiality of ships made of different kinds of wood naturally invites Old English poets to designate "ship" as "wood" in their poetic composition. It is then a matter of course to describe a ship, which is floating on the sea, as a "wood in the sea". Invariably, all the -wudu compounds meaning "ship" contain a first element meaning "water" or "sea" and have highly restricted distributions. They appear only in a small range of interrelated texts: brimwudu ("sea-wood") in Elene 244b and Guthlac B 1331b, twice; flōd-wudu ("floodwood") in Christ B 853a, once; saē-wudu ("sea-wood") in Beowulf 226a, once; and sund-wudu ("sea-wood") in Beowulf 208a and 1906b and Christ B 677b, three times. In terms of dating, Beowulf and The Dream of the Rood are probably the earliest among the five poems. <ref type="bibr">49</ref> While the influence of Beowulf upon Cynewulf's works is acknowledged <ref type="bibr">44</ref> Maring, "Two Ships Crossing," 242-3. <ref type="bibr">45</ref> McEntire, "The Devotional Context," 397-8. <ref type="bibr">46</ref> On the ship-Cross comparison in Exodus, see Karkov, Text and Picture, 117; Lucas, "Old English Christian Poetry," 195-202  and 205. On an early date for Exodus, see <ref type="bibr">Fulk,</ref><ref type="bibr">A History,</ref><ref type="bibr">3,</ref><ref type="bibr">64,</ref><ref type="bibr">348,</ref> On an early date for Genesis A, see for instance, <ref type="bibr">Fulk,</ref><ref type="bibr">A History,</ref><ref type="bibr">3,</ref><ref type="bibr" target="#b5">23,</ref><ref type="bibr">62,</ref><ref type="bibr">64,</ref><ref type="bibr">248,</ref> See further, Thier, Old English Sea Terms, 145-6. Word-hord states: "the sense 'ship' is entirely confined to verse". <ref type="bibr">49</ref> There had been disagreements on the exact dating of Old English poems, but today there is consensus among scholars, especially philologists, about the general chronology of surviving texts. by previous scholars, Andy Orchard argues that The Dream of the Rood is also a direct source and an inspiration for Cynewulf, especially for his Elene. <ref type="bibr" target="#b10">50</ref> The nautical theme indicated by the "sea-wood" image in The Dream of the Rood also echoes other texts with journey motif in the Vercelli Book manuscript, like Cynewulf's Elene and The Fates of the Apostles, Andreas, Soul and Body I, and Homiletic Fragment I. <ref type="bibr" target="#b12">51</ref> The "sea-wood" (saē-wudu and sund-wudu) in Beowulf refers to Beowulf's ship, which carries him and his thanes to the land of the Danes. <ref type="bibr" target="#b13">52</ref> In the arrival and departure passages of Beowulf's round trip to Denmark (Beowulf 194-229 and 1888-1924) are the two "sea-wood" terms, saē-wudu 226a and sund-wudu in 208a and 1906b, functioning mainly both as a poetic strategy of varying the poetic language for "ship" and also as a structural device signalling the different stages of the plot. <ref type="bibr" target="#b14">53</ref> By contrast, while the image of "seawood" in Beowulf represents the physical quality of Beowulf's ship, it often convey metaphorical meanings centred around the idea of a salvific voyage in later texts.</p><p>Two terms, flōd-wudu and sund-wudu, pertain to the ship of life of every Christian in Cynewulf's signed poem Christ B, a vehicle towards spiritual salvation. <ref type="bibr" target="#b15">54</ref> Cynewulf elucidates this idea of a liminal, post-mortem journey from earthly dwelling to heavenly harbour of salvation at the end of Christ B (850-866). <ref type="bibr" target="#b16">55</ref> The poet asks the audience to consider gaestes wlite ("the beauty of the soul" in 848a), and he describes an ideal scene of the souls of Christians travelling on ships geond þās wācan weorold ("throughout this feeble world" in 855a). At the end of the voyage the souls would reach the heavenly harbour (hȳþ in 859b and 864a), and find salvation (haēlu in 859a) and hope (hyht in 864b). By employing rich nautical vocabulary in the passage, including the "seawood", flōd-wudu in 853a, Cynewulf emphasises the image of the ship of life as a God-given gift (gyfu in 860b). <ref type="bibr" target="#b17">56</ref> In another signed poem of Cynewulf, Elene, brim-wudu refers to the ship of Elene (Saint Helena), mother of Constantine the Great. Elene and her army embark on a sea-voyage to find the True Cross, where the animated "sea-wood" hastens (snyrian in 244b), plays (plegan in 245b), advances (wadan in 246a), and bursts forth through the sea (brecan ofer baeð-weg in 244a), like a horse in motion. <ref type="bibr" target="#b18">57</ref> Cynewulf develops the metaphorical dimension of the "sea-wood" image to underscore an evangelic sense behind the ship of Elene: the vehicle brings Christian faith and salvation to Jerusalem. <ref type="bibr" target="#b19">58</ref> In the Cynewulfian poem Guthlac B, the same "sea-wood" compound brim-wudu (which is employed by Cynewulf in Elene) denotes the boat of Beccel, Saint Guthlac's servant, who left the marshy Crowland to deliver the sad news of Guthlac's death to the saint's sister. <ref type="bibr">59</ref> The image of the boat in Guthlac B takes on a different connotation: it reflects a universal, figurative image of the ship of one's soul. <ref type="bibr">60</ref> The limited textual distribution of the -wudu compounds may well indicate both intentional borrowing in later works and a shared interest in the Christian concept of life-voyage in these religious poems.</p><p>When approached in this context, retaining the manuscript form holm-wudu in The Dream of the Rood 91a has the advantage of evoking the theme of "salvation through lifejourney" (135b-144a). <ref type="bibr">61</ref> Elsewhere in the poem, the poet purposefully underscores Christ's life and mission as a sīþ-faet ("journey", "expedition" in 150b), a cosmic voyage transcending the boundaries between the spiritual and the material, between heaven, earth, and hell (150-6). <ref type="bibr">62</ref> Through the mouth of the dreamer, the poet expresses his (or her) yearning for a posthumous voyage of salvation, a strong eagerness to ascend towards heaven at the end of the earthly life, a trans-dimensional journey to be achieved by the ferry of the Cross (131b-144a). <ref type="bibr">63</ref> While no diction for "ship" is explicitly mentioned in the passage, the poet, by using verbs as gefetian ("bring", "fetch" in 138a), gebringan ("bring" in 139a), and asettan ("set", "place" in 142a) to describe the motion of the animated Cross, tends to regard the Cross as a vehicle, a ship-like transportation. The Cross fetches Christian believers, brings them to heaven, and places them among other joyful souls in the eternal homeland, just like a ship fetches its passengers and conveys them to another land. <ref type="bibr">64</ref> Furthermore, the verb gestīgan ("set out") used in the poem, especially in 41a (when Christ mounts the Cross during the Crucifixion) and 104a (the Ascension), is almost invariably linked with ships in the Old English corpus. <ref type="bibr">65</ref> As Maring points out, this verb often refers to actions of mounting or climbing on a ship in both prose and verse texts, such as Beowulf 210b-13a, Andreas 220-3b and 897-9, AElfric's Homilies, and the Old English Life of Saint Mary of Egypt. 66 Likewise, such an implication for a spiritual 59 Guthlac was said to became a hermit in the fens of Crowland. The vehicle is more of a boat, though the diction used by the poet is typical of a sea-voyage.  <ref type="bibr">126, 128, 130, and 188. 64</ref> While gefetian means "fetch" in The Dream of the Rood 138a, when collocating with sīþ ("journey", "voyage") in poetry, it means "make a journey", "make a voyage", like sīð and aseted in Elene 996-7. DOE, s.v. "ge•feccan, ge•fecgan, ge•fetian". Note that this collocation specifically refers to a sea-voyage in Elene: the messengers told Constantine the Great that the sige-cwēn ("victory-queen") Elene and her thegns made a safe voyage ofer swan-rāde ("across the swan-road") into Crēca land ("the Greek people's land"). 65 By using terms and expressions like gestīgan, the poet establishes parallels between the Crucifixion narration in 28-77 and the arrival or departure scenes of heroes' sea-voyages in other Old English poems like Beowulf. voyage towards the heavenly kingdom suggested by the aforementioned verbs in The Dream of the Rood provides further support for retaining the manuscript reading holm-wudu in 91a as a compound denoting "ship", echoing the well-known image of navis crucis ("ship of the Cross") or lignum maris ("wood of the sea") in the Christian literary tradition. <ref type="bibr" target="#b20">67</ref> Indeed, it might be argued that various elements of nautical imagery are deeply embedded within The Dream of the Rood. The poet lays emphasis on the theme of life-journey by inserting phraseology with aquatic or navigational connotations and by drawing from typical sea-voyage scenes found in other poems. <ref type="bibr" target="#b21">68</ref> The poet repeatedly puns on polysemic or homographic words like swaētan ("sweat" or "bleed" in 20a, referring to either blood or water, both of which run from Christ's side-wound in John 19:34) and stefn ("stem" in 30a and "voice" 71b, primarily emphasising a "speaking tree" in the poem; the same word-form could also mean "prow" in other poems), and phrases such as stēame bedrifenne ("drenched in steam" or "drenched in blood" in 62a, depicting the Cross during Christ's Passion). <ref type="bibr" target="#b22">69</ref> The homonymic stefn appears twice in the poem, in two biblical scenes central to salvation of human. It signifies the root of the Holy Cross in 30a (when the personified Cross says it was cut down from a holt "wood" and taken away from its stefn "root"), and the mourning of the crowd under the Cross in 71b (during the Lamentation). <ref type="bibr" target="#b23">70</ref> With holm-wudu in 91a consolidating the image of the Cross honoured above all "wood-of-the-sea", the word-form stefn subtly refers to the wooden material of the Cross.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Conclusion</head><p>This article has presented new evidence for retaining the manuscript form holm-wudu in 91a which, if accepted, has the potential to contribute to a more coherent reading of the theological argument of The Dream of the Rood. Accepting this reading, we can see how the Cross-Mary comparison in 90-4 thematically clarifies the significance of spiritual salvation in The Dream of the Rood. Steeped in Christian symbolism and vernacular literature, the poet intelligently exploits existing connections between Mary and the Cross. Both holmwudu and the name Mary point to a recognisable maritime reference, associated with the idea of salvation through voyage for individual Christians on the ship of life or for the Christian Church. The ultimate goal of salvation is to reach the heavenly harbour by prudently steering one's ship of life (91a). This goal is achieved through the help of three heavenly beings, indicated by the poet with paronomasia in the passage: Jesus Christ (91b), who is the divine steersman, the guardian of heaven, and the stern judge; his mother Mary (92b), the sea-star on high; and the Holy Cross (90a), the sacred wood towering over the mast of the wood in the sea, the salvific ship of the soul.</p></div><figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_2"><head></head><label></label><figDesc>On early Church fathers' mentioning of the ship of one's soul, see Rahner, "Odysseus at the Mast," 349-53. 61 On the dreamer's hope for both a bodily and spiritual voyage towards heaven implied by the verbs in the passage, see Ó Carragáin, "Vision Transfigured into Prayer," 330. 62 On Christ's life from Incarnation to Ascension as a unified cosmic expedition in The Dream of the Rood, see Ó Carragáin, "Vision Transfigured into Prayer," 321-5. On the common theme of life-voyage in all poems in the Vercelli Book, see McBrine, "The Journey Motif"; see esp. 303, 310 and 314 on sīþ-faet. 63 On the common theme of spiritual voyage of souls after death in Old English poetry, see Soper, The Life Course, 40-1,</figDesc><table /><note><p><p><p><p><p><p><p>Roberts, ed., The Guthlac Poems, 56-7. </p>For the text, see</p>Bjork, Cynewulf, 70. </p>On arguments proposing Cynewulf as the author of Guthlac B, see page xi; Orchard, "Both Style and Substance," 294-6; Fulk, "Cynewulf," 5-6; Roberts, The Guthlac Poems,</p>56-62. </p>On parallels between Guthlac B and Cynewulf's signed poems, see</p>Orchard, The Craft and Cunning, Orchard, "Both Style and Substance, </p></note></figure>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="5" xml:id="foot_0"><p>The text of The Dream of the Rood cited in this article is taken from Clayton's Old English Poems. The diacritics of vowels in Old English words are added to the quotations, while other editorial marks in modern editions are removed. All translations provided in this article are my own.</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="6" xml:id="foot_1"><p>6</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="2" xml:id="foot_2"><p>Y. LI</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="11" xml:id="foot_3"><p>Kelly and Quinn, Stone, Skin, and Silver, 46 and 88; Swanton, ed., The Dream of the Rood, 94 and</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" xml:id="foot_4"><p>128; Huppé, ed. and trans., The Web of Words, 70 and 102; Stephens, Runic Monuments, I, 426 and 41. On Doomsday Book place-name Homestreu, see Berkhout, "Holmwudu," 430; Swanton, The Dream of the Rood, 128. See further, Gelling, Place-names, 215. For an opinion that holm and helm are interchangeable in 91a with holm-wudu being a deliberate pun on helm-wudu ("protection-wood" or "tree of refuge", also never attested in Old English corpus), see Pickford, "Holmwudu," 561-4. 12 Kaske, "A Poem of the Cross," 67.13  Maring, "Two Ships Crossing," 242-4; McEntire, "The Devotional Context," 397-8; Berkhout, "Holmwudu," 431-3; On the seafaring motif in early Christian writing in general, see, for instance, Daniélou, "The Ship of the Church," 58-70; Rahner, "Odysseus at the Mast," esp. 341-53 and 371-86; Rahner, "Antenna Crucis III," 1-21.14  Maring, "Two Ships Crossing," 242. On a possible interpretation of holm-wudu as "mast", see, Dickins and Ross, The Dream of the Rood, 31; Marquardt, Die altenglischen kenningar, 229. On the mast-Cross comparison, see further, Daniélou, "The Ship of the Church," 66; Rahner, "Odysseus at the Mast," 371-88.15  The term paronomasia is defined by Frank as "the establishing of an etymological or pseudo-etymological relationship between two or more words". Frank, "Some Uses," 208. For Bede's definition in De schematibus et tropis, II.i.9, seeJones  et al. eds., Opera Didascalica, Ó Carragáin, "Vision Transfigured into Prayer, Huppé, The Web of Words, 102.   </p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="17" xml:id="foot_5"><p>Thiel, Grundlagen und Gestalt, 351. On Jerome and Isidore as two of the four most read Latin patristic authors in early medieval England, see Lapidge, The Anglo-Saxon Library, 127 and 309-16.</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="12" xml:id="foot_6"><p>Y. LI</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="14" xml:id="foot_7"><p>Y. LI</p></note>
+		</body>
+		<back>
+			<div type="annex">
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Disclosure Statement</head><p>No potential conflict of interest was reported by the author(s).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>ORCID</head><p>Yinghan Li http://orcid.org/0000-0002-8145-8077</p></div>			</div>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<monogr>
+		<title level="m">Sancti Hieronymi Opera</title>
+		<editor>
+			<persName><forename type="first">Morin</forename><surname>Lagarde</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">Adriaen</forename></persName>
+		</editor>
+		<imprint>
+			<biblScope unit="page" from="76" to="137" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<title level="a" type="main">Orm&apos;s Vernacular Latinity</title>
+		<author>
+			<persName><surname>Thomas</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">169-70; Thiel, Grundlagen und Gestalt</title>
+		<imprint>
+			<biblScope unit="page">351</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title level="a" type="main">The Spiritual Islescape</title>
+		<author>
+			<persName><forename type="first">Rudolf</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">49; Clayton, The Cult</title>
+		<meeting><address><addrLine>Maas, &quot;Virgin Mary</addrLine></address></meeting>
+		<imprint>
+			<biblScope unit="volume">94</biblScope>
+			<biblScope unit="page">464</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<monogr>
+		<title level="m" type="main">Isidori Hispalensis Episcopi, I. On the reception of Etymologiae in early medieval England, see, for instance, Porter</title>
+		<author>
+			<persName><forename type="first">Preaching</forename><surname>Hawk</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Apocrypha</surname></persName>
+		</author>
+		<imprint>
+			<date>194</date>
+			<biblScope unit="page">455</biblScope>
+		</imprint>
+	</monogr>
+	<note>Isidore&apos;s Etymologiae</note>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title level="a" type="main">On the popularity of the cult of Mary in early medieval England, see further, Jones</title>
+	</analytic>
+	<monogr>
+		<title level="m">Opera Exegetica</title>
+		<imprint>
+			<biblScope unit="volume">3</biblScope>
+			<biblScope unit="page" from="1" to="16" />
+		</imprint>
+	</monogr>
+	<note>The Vernacular Theology</note>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title level="a" type="main">For the Latin text, see Hurst and Fraipont</title>
+	</analytic>
+	<monogr>
+		<title level="m">Opera Homiletica</title>
+		<imprint>
+			<biblScope unit="page">15</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<monogr>
+		<title level="m" type="main">Orm&apos;s Vernacular Latinity</title>
+		<author>
+			<persName><surname>See</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Thomas</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="volume">94</biblScope>
+			<biblScope unit="page">464</biblScope>
+			<pubPlace>Maas, &quot;Virgin Mary</pubPlace>
+		</imprint>
+	</monogr>
+	<note>169-78; Clayton, The Cult</note>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title level="a" type="main">The Virgin Mary</title>
+		<author>
+			<persName><surname>Thompson</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">250; Budwey, Sing of Mary, 28; Comaskey</title>
+		<imprint>
+			<biblScope unit="page" from="3" to="10" />
+		</imprint>
+	</monogr>
+	<note>Ave Maris Stella,&quot; 930. On the wide currency of Ave Maris Stella in the Middle Ages, see Fassler, Music in the Medieval West</note>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<monogr>
+		<title level="m">The Latin text is taken from Brittain</title>
+		<imprint>
+			<biblScope unit="page" from="129" to="130" />
+		</imprint>
+	</monogr>
+	<note>The Penguin Book of Latin Verse</note>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">Ed</forename><surname>Dümmler</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Carmina</forename><surname>Alcuini</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="page">336</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title level="a" type="main">229 and 248-51. On Cynewulf&apos;s borrowing from Beowulf, see Orchard</title>
+		<author>
+			<persName><surname>Orchard</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">107-20; Schaar, Critical Studies</title>
+		<imprint>
+			<publisher>Sarrazin, Beowulf-Studien</publisher>
+			<biblScope unit="page" from="108" to="136" />
+		</imprint>
+	</monogr>
+	<note>The Departure of The Hero</note>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title level="a" type="main">Earlier studies tend to attribute The Dream of the Rood to Cynewulf</title>
+		<author>
+			<persName><forename type="first">Beowulf</forename><surname>Sarrazin</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Kynewulf</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">See further, Bjork, ed. and trans., Cynewulf, xi; Anderson, Cynewulf, 20-2; Schaar, Critical Studies</title>
+		<imprint>
+			<biblScope unit="volume">135</biblScope>
+			<biblScope unit="page">326</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<monogr>
+		<title level="m" type="main">The Journey Motif</title>
+		<author>
+			<persName><surname>Mcbrine</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="page">317</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<monogr>
+		<title level="m">Klaeber&apos;s Beowulf</title>
+		<editor>
+			<persName><forename type="first">Bjork</forename><surname>Fulk</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">Niles</forename></persName>
+		</editor>
+		<imprint>
+			<biblScope unit="volume">64</biblScope>
+			<biblScope unit="page" from="9" to="10" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<monogr>
+		<title level="m" type="main">On the Beowulf-poet&apos;s habit of using repetition and variation, see, for example, Robinson, Beowulf, esp. 60-6. On Beowulf&apos;s sea-voyages&apos; functions in the envelop pattern or ring structure, see, for instance, Niles</title>
+		<imprint/>
+	</monogr>
+	<note>Ring Composition. Tonsfeldt, &quot;Ring Structure,&quot; 445; Hieatt, &quot;Envelope Patterns,&quot; 256, 258, 260 and 263</note>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<monogr>
+		<author>
+			<persName><forename type="first">See</forename><surname>Also</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Cynewulf</forename><surname>Bjork</surname></persName>
+		</author>
+		<title level="m">The Anchor of Hope</title>
+		<meeting><address><addrLine>Hill</addrLine></address></meeting>
+		<imprint>
+			<biblScope unit="volume">18</biblScope>
+			<biblScope unit="page" from="289" to="292" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">Cynewulf</forename><surname>Bjork</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="page">30</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<monogr>
+		<title level="m" type="main">The Anchor of Hope</title>
+		<author>
+			<persName><surname>Hill</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="page" from="289" to="292" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<monogr>
+		<title level="m" type="main">On brecan ofer baeð-weg in Elene and Andreas, see Powell, Verbal Parallels</title>
+		<author>
+			<persName><forename type="first">Cynewulf</forename><surname>Bjork</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="volume">158</biblScope>
+			<biblScope unit="page" from="218" to="219" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<monogr>
+		<title level="m" type="main">On the Vercelli Book compiler&apos;s interests in collecting texts with homiletic and eschatological themes in the manuscript, see Leneghan</title>
+		<idno>esp. 67-78 and 98</idno>
+		<imprint/>
+	</monogr>
+	<note>How Did the Vercelli Collector</note>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<monogr>
+		<title level="m" type="main">The term nave (of a church) derives from the Latin navis</title>
+		<author>
+			<persName><surname>Mcentire</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="page" from="431" to="433" />
+		</imprint>
+	</monogr>
+	<note>The Devotional Context. ship&quot;). Cram, &quot;Nave,&quot; 724</note>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<analytic>
+		<title level="a" type="main">On the poet&apos;s apparently deliberate wordplay, especially homographs and homophones in The Dream of the Rood, see Orchard</title>
+	</analytic>
+	<monogr>
+		<title level="j">Cross-References</title>
+		<imprint>
+			<biblScope unit="page" from="229" to="230" />
+		</imprint>
+	</monogr>
+	<note>and 237</note>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<monogr>
+		<title level="m" type="main">On the dual meaning of swae ¯tan, see Clayton, Old English Poems, 378; Ó Carragáin</title>
+		<idno>stefn 2 n. &quot;root</idno>
+		<imprint/>
+	</monogr>
+	<note>Vision Transfigured into Prayer. 327. On stēame bedrifenne, see the same page in Ó Carragáin. On homographs stefn, see Orchard, &quot;Cross-References,&quot; 229</note>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<monogr>
+		<title level="m" type="main">On stefn in 71b, see Swanton, The Dream of the Rood</title>
+		<imprint>
+			<biblScope unit="volume">129</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<analytic>
+		<title level="a" type="main">References Alcuin of York</title>
+	</analytic>
+	<monogr>
+		<title level="m">Poetae Latini aevi Carolini</title>
+		<editor>
+			<persName><forename type="first">Ernst</forename><surname>Dümmler</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">Ludwig</forename><surname>Traube</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">Karl</forename><surname>Strecker</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Berlin</addrLine></address></meeting>
+		<imprint>
+			<publisher>Weidmann</publisher>
+			<biblScope unit="page" from="1881" to="1923" />
+		</imprint>
+	</monogr>
+	<note>Alcuini Carmina</note>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<analytic>
+		<title level="a" type="main">Saemearh and Like Compounds: A Theme in Old English Poetry</title>
+		<author>
+			<persName><forename type="first">Earl</forename><forename type="middle">R</forename><surname>Anderson</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Comitatus: A Journal of Medieval and Renaissance Studies</title>
+		<imprint>
+			<biblScope unit="volume">3</biblScope>
+			<biblScope unit="page" from="3" to="10" />
+			<date type="published" when="1972">1972</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<monogr>
+		<title level="m">Cynewulf: Structure, Style, and Theme in His Poetry</title>
+		<meeting><address><addrLine>London</addrLine></address></meeting>
+		<imprint>
+			<publisher>Associated University Presses</publisher>
+			<date type="published" when="1983">1983</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b27">
+	<analytic>
+		<title level="a" type="main">Kassel: Georg H. Wigand, 1889. Bede. Bedae Venerabilis Opera Pars II Opera Exegetica 3: In Lucae euangelium expositio</title>
+		<author>
+			<persName><forename type="first">Bruno</forename><surname>Assmann</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Ed</forename><surname>Angelsachsische Homilien Und Heiligenleben</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Marci euangelium exposition</title>
+		<editor>
+			<persName><forename type="first">D</forename><surname>Hurst</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Turnhout</addrLine></address></meeting>
+		<imprint>
+			<publisher>Brepols</publisher>
+			<date type="published" when="1950">1950</date>
+			<biblScope unit="volume">120</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b28">
+	<analytic>
+	</analytic>
+	<monogr>
+		<title level="m">Bedae Venerabilis Opera Pars III Opera Homiletica,: Pars IV Opera Rhythmica</title>
+		<editor>
+			<persName><forename type="first">D</forename><surname>Hurst</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">J</forename><surname>Fraipont</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Turnhout</addrLine></address></meeting>
+		<imprint>
+			<publisher>Brepols</publisher>
+			<date type="published" when="1955">1955</date>
+			<biblScope unit="volume">122</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b29">
+	<monogr>
+		<title level="m" type="main">Bedae Venerabilis Opera Pars I Opera Didascalica 3: De orthographia; De arte metrica et de schematibus et tropis; De natura rerum</title>
+		<editor>Ch. W. Jones et al. CCSL 123A. Turnhout</editor>
+		<imprint>
+			<date type="published" when="1975">1975</date>
+			<publisher>Brepols</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b30">
+	<analytic>
+		<title level="a" type="main">The Problem of Holmwudu</title>
+		<author>
+			<persName><forename type="first">Carl</forename><forename type="middle">T</forename><surname>Berkhout</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Mediaeval Studies</title>
+		<imprint>
+			<biblScope unit="volume">36</biblScope>
+			<biblScope unit="page" from="429" to="433" />
+			<date type="published" when="1974">1974</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b31">
+	<analytic>
+		<title level="a" type="main">Continental Sources of Anglo-Saxon Devotional Writing</title>
+		<author>
+			<persName><forename type="first">Thomas</forename><forename type="middle">H</forename><surname>Bestul</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Sources of Anglo-Saxon Culture</title>
+		<editor>
+			<persName><forename type="first">Paul</forename><forename type="middle">E</forename><surname>Szarmach</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Kalamazoo, MI</addrLine></address></meeting>
+		<imprint>
+			<publisher>Medieval Institute Publications</publisher>
+			<date type="published" when="1986">1986</date>
+			<biblScope unit="volume">20</biblScope>
+			<biblScope unit="page" from="103" to="126" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b32">
+	<analytic>
+		<title level="a" type="main">Trees in the Religions of Early Medieval England</title>
+		<author>
+			<persName><forename type="first">Michael</forename><forename type="middle">D J</forename><surname>Bintley</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Anglo-Saxon Studies</title>
+		<imprint>
+			<biblScope unit="volume">26</biblScope>
+			<date type="published" when="2015">2015</date>
+			<publisher>Boydell Press</publisher>
+			<pubPlace>Woodbridge</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b33">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">Joseph</forename><surname>Bosworth</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">An</forename><surname>Anglo-Saxon</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Dictionary</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Based on the Manuscript Collections of J. Bosworth</title>
+		<editor>
+			<persName><forename type="first">T</forename><forename type="middle">N</forename><surname>Toller</surname></persName>
+		</editor>
+		<imprint>
+			<date type="published" when="1898">1898</date>
+			<publisher>Oxford University Press</publisher>
+			<pubPlace>Oxford</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b34">
+	<monogr>
+		<title level="m" type="main">The Penguin Book of Latin Verse</title>
+		<author>
+			<persName><forename type="first">Frederick</forename><surname>Brittain</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1962">1962</date>
+			<publisher>Penguin Books</publisher>
+			<pubPlace>London</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b35">
+	<monogr>
+		<title level="m" type="main">Laȝamon: Brut, Edited from British Museum MS Cotton Caligula A IX and British Museum MS Otho C XIII</title>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">L</forename><surname>Brook</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">F</forename><surname>Leslie</surname></persName>
+		</author>
+		<imprint>
+			<publisher>Oxford University Press</publisher>
+			<biblScope unit="page" from="1963" to="1978" />
+			<pubPlace>London</pubPlace>
+		</imprint>
+	</monogr>
+	<note>2 vols</note>
+</biblStruct>
+
+<biblStruct xml:id="b36">
+	<monogr>
+		<title level="m" type="main">Sing of Mary: Giving Voice to Marian Theology and Devotion</title>
+		<author>
+			<persName><forename type="first">Stephanie</forename><forename type="middle">A</forename><surname>Budwey</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2014">2014</date>
+			<publisher>Liturgical Press</publisher>
+			<pubPlace>Collegeville, MN</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b37">
+	<monogr>
+		<author>
+			<persName><forename type="first">Hans</forename><surname>Bütow</surname></persName>
+		</author>
+		<title level="m">Das altenglische Traumgesicht vom Kreuz: Textkritisches, Literaturgeschichtliches, Kunstgeschichtliches. Heidelberg: C. Winter</title>
+		<imprint>
+			<date type="published" when="1935">1935</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b38">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">Angus</forename><surname>Cameron</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Ashley</forename><surname>Crandell</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Amos</forename></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Antonette Dipaolo</forename><surname>Healey</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">The Toronto Dictionary of Old English: A to Le. Toronto: Dictionary of Old English Project</title>
+		<imprint>
+			<date type="published" when="2024">2024</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b39">
+	<analytic>
+		<title level="a" type="main">The Dating of Beowulf</title>
+		<author>
+			<persName><forename type="first">Colin</forename><surname>Chase</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="s">Toronto Old English Series</title>
+		<imprint>
+			<biblScope unit="volume">6</biblScope>
+			<date type="published" when="1997">1997</date>
+			<publisher>University of Toronto Press</publisher>
+			<pubPlace>Toronto</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b40">
+	<analytic>
+		<title level="a" type="main">The Cult of the Virgin Mary in Anglo-Saxon England</title>
+		<author>
+			<persName><forename type="first">Mary</forename><surname>Clayton</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Cambridge Studies in Anglo-Saxon England</title>
+		<imprint>
+			<biblScope unit="volume">2</biblScope>
+			<date type="published" when="1990">1990</date>
+			<publisher>Cambridge University Press</publisher>
+			<pubPlace>Cambridge</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b41">
+	<monogr>
+		<title level="m">The Apocryphal Gospels of Mary in Anglo-Saxon England. Cambridge Studies in Anglo-Saxon England 26</title>
+		<meeting><address><addrLine>Cambridge</addrLine></address></meeting>
+		<imprint>
+			<publisher>Cambridge University Press</publisher>
+			<date type="published" when="1999">1999</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b42">
+	<monogr>
+		<title level="m" type="main">Old English Poems of Christ and His Saints. Dumbarton Oaks Medieval Library 27</title>
+		<author>
+			<persName><forename type="first">Mary</forename><surname>Clayton</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2013">2013</date>
+			<publisher>Harvard University Press</publisher>
+			<pubPlace>Cambridge, MA</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b43">
+	<analytic>
+		<title level="a" type="main">Ave Maris Stella</title>
+		<author>
+			<persName><forename type="first">Bernard</forename><surname>Comaskey</surname></persName>
+		</author>
+		<author>
+			<persName><surname>John</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">The New Catholic Encyclopedia</title>
+		<meeting><address><addrLine>Detroit, MI</addrLine></address></meeting>
+		<imprint>
+			<publisher>Gale</publisher>
+			<date type="published" when="2014">2014</date>
+			<biblScope unit="volume">2</biblScope>
+			<biblScope unit="page">15</biblScope>
+		</imprint>
+		<respStmt>
+			<orgName>Catholic University of America</orgName>
+		</respStmt>
+	</monogr>
+	<note>vols. I</note>
+</biblStruct>
+
+<biblStruct xml:id="b44">
+	<monogr>
+		<title level="m" type="main">The Dream of the Rood: An Old English Poem Attributed to Cynewulf</title>
+		<author>
+			<persName><forename type="first">Albert</forename><forename type="middle">S</forename><surname>Cook</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1905">1905</date>
+			<publisher>Clarendon Press</publisher>
+			<pubPlace>Oxford</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b45">
+	<analytic>
+		<title level="a" type="main">Nave</title>
+		<author>
+			<persName><forename type="first">Ralph</forename><surname>Cram</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Adams</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">The Catholic Encyclopedia: An International Work of Reference on the Constitution, Doctrine, Discipline, and History of the Catholic Church</title>
+		<editor>
+			<persName><forename type="first">G</forename><surname>Charles</surname></persName>
+		</editor>
+		<editor>
+			<persName><surname>Herbermann</surname></persName>
+		</editor>
+		<meeting><address><addrLine>New York, NY</addrLine></address></meeting>
+		<imprint>
+			<publisher>The Encyclopedia Press</publisher>
+			<biblScope unit="volume">18</biblScope>
+			<biblScope unit="page" from="1907" to="1922" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b46">
+	<monogr>
+		<title level="m" type="main">Dumbarton Oaks Medieval Library 23</title>
+		<author>
+			<persName><surname>Cynewulf</surname></persName>
+		</author>
+		<editor>Robert E. Bjork</editor>
+		<imprint>
+			<date type="published" when="2013">2013</date>
+			<publisher>Harvard University Press</publisher>
+			<pubPlace>Cambridge, MA</pubPlace>
+		</imprint>
+	</monogr>
+	<note>The Old English Poems of Cynewulf</note>
+</biblStruct>
+
+<biblStruct xml:id="b47">
+	<analytic>
+		<title level="a" type="main">The Ship of the Church</title>
+		<author>
+			<persName><forename type="first">Jean</forename><surname>Daniélou</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">his Primitive Christian Symbols</title>
+		<meeting><address><addrLine>Baltimore, MD</addrLine></address></meeting>
+		<imprint>
+			<publisher>Helicon Press</publisher>
+			<date type="published" when="1964">1964</date>
+		</imprint>
+	</monogr>
+	<note>translated by Donald Attwater, 58-70</note>
+</biblStruct>
+
+<biblStruct xml:id="b48">
+	<monogr>
+		<author>
+			<persName><forename type="first">Bruce</forename><surname>Dickins</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Alan</forename><forename type="middle">S C</forename><surname>Ross</surname></persName>
+		</author>
+		<title level="m">The Dream of the Rood</title>
+		<meeting><address><addrLine>London</addrLine></address></meeting>
+		<imprint>
+			<publisher>Methuen</publisher>
+			<date type="published" when="1963">1963</date>
+			<biblScope unit="volume">4</biblScope>
+		</imprint>
+	</monogr>
+	<note>th ed</note>
+</biblStruct>
+
+<biblStruct xml:id="b49">
+	<monogr>
+		<title level="m" type="main">Music in the Medieval West: Western Music in Context</title>
+		<author>
+			<persName><forename type="first">Margot</forename><surname>Fassler</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2014">2014</date>
+			<publisher>W. W. Norton and Company</publisher>
+			<pubPlace>New York, NY</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b50">
+	<analytic>
+		<title level="a" type="main">Some Uses of Paronomasia in Old English Scriptural Verse</title>
+		<author>
+			<persName><forename type="first">Roberta</forename><surname>Frank</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Speculum</title>
+		<imprint>
+			<biblScope unit="volume">47</biblScope>
+			<biblScope unit="page" from="207" to="226" />
+			<date type="published" when="1972">1972</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b51">
+	<monogr>
+		<title level="m" type="main">A History of Old English Meter</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">D</forename><surname>Fulk</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1992">1992</date>
+			<publisher>University of Pennsylvania Press</publisher>
+			<pubPlace>Philadelphia, PA</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b52">
+	<analytic>
+		<title level="a" type="main">Cynewulf: Canon, Dialect, and Date</title>
+	</analytic>
+	<monogr>
+		<title level="m">The Cynewulf Reader</title>
+		<editor>
+			<persName><forename type="first">Robert</forename><forename type="middle">E</forename><surname>Bjork</surname></persName>
+		</editor>
+		<meeting><address><addrLine>London</addrLine></address></meeting>
+		<imprint>
+			<publisher>Routledge</publisher>
+			<date type="published" when="2001">2001</date>
+			<biblScope unit="volume">4</biblScope>
+			<biblScope unit="page" from="3" to="21" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b53">
+	<analytic>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">D</forename><surname>Fulk</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Robert</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">John</forename><forename type="middle">D</forename><surname>Bjork</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Niles</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Klaeber&apos;s Beowulf and the Fight at Finnsburg. 4th</title>
+		<title level="s">Toronto Old English Series</title>
+		<meeting><address><addrLine>Toronto</addrLine></address></meeting>
+		<imprint>
+			<publisher>University of Toronto Press</publisher>
+			<date type="published" when="2008">2008</date>
+			<biblScope unit="volume">21</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b54">
+	<monogr>
+		<title level="m" type="main">Place-names in the Landscape: The Geographical Roots of Britain&apos;s Place-names</title>
+		<author>
+			<persName><forename type="first">Margaret</forename><surname>Gelling</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1984">1984</date>
+			<publisher>Dent</publisher>
+			<pubPlace>London</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b55">
+	<analytic>
+		<author>
+			<persName><forename type="first">Francis</forename><forename type="middle">E "</forename><surname>Gigot</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Daniel</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">The Catholic Encyclopedia: An International Work of Reference on the Constitution, Doctrine, Discipline, and History of the Catholic Church</title>
+		<editor>
+			<persName><forename type="first">G</forename><surname>Charles</surname></persName>
+		</editor>
+		<editor>
+			<persName><surname>Herbermann</surname></persName>
+		</editor>
+		<meeting><address><addrLine>New York, NY</addrLine></address></meeting>
+		<imprint>
+			<publisher>The Encyclopedia Press</publisher>
+			<biblScope unit="page" from="1907" to="1922" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b56">
+	<analytic>
+		<title level="a" type="main">Hymnar und Hymnen im englischen Mittelalter</title>
+		<author>
+			<persName><forename type="first">Helmut</forename><surname>Gneuss</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Buchreihe der Anglia</title>
+		<imprint>
+			<biblScope unit="volume">12</biblScope>
+			<date type="published" when="1968">1968</date>
+			<publisher>Max Niemeyer Verlag</publisher>
+			<pubPlace>Tübingen</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b57">
+	<monogr>
+		<author>
+			<persName><forename type="first">Malcolm</forename><surname>Godden</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Susan</forename><surname>Irvine</surname></persName>
+		</author>
+		<title level="m">AElfric&apos;s Catholic Homilies: The Second Series: Text. EETS SS 5</title>
+		<meeting><address><addrLine>Oxford</addrLine></address></meeting>
+		<imprint>
+			<publisher>Oxford University Press</publisher>
+			<date type="published" when="1979">1979</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b58">
+	<monogr>
+		<title level="m" type="main">The Old English Boethius: An Edition of the Old English Versions of Boethius&apos;s De Consolatione Philosophiae</title>
+		<editor>Mark Griffith, and Rohini Jayatilaka</editor>
+		<imprint>
+			<date type="published" when="2009">2009</date>
+			<publisher>Oxford University Press</publisher>
+			<pubPlace>Oxford</pubPlace>
+		</imprint>
+	</monogr>
+	<note>2 vols</note>
+</biblStruct>
+
+<biblStruct xml:id="b59">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">Grégoire</forename><surname>Le</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Grand</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Sources Chrétiennes</title>
+		<editor>
+			<persName><forename type="first">Bruno</forename><surname>Judic</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">Floribert</forename><surname>Rommel</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">Charles</forename><surname>Morel</surname></persName>
+		</editor>
+		<imprint>
+			<biblScope unit="volume">381</biblScope>
+			<date type="published" when="1992">1992</date>
+			<publisher>Éditions du Cerf</publisher>
+			<pubPlace>Paris</pubPlace>
+		</imprint>
+	</monogr>
+	<note>2 vols</note>
+</biblStruct>
+
+<biblStruct xml:id="b60">
+	<monogr>
+		<title level="m" type="main">Bibliothek der angelsächsischen Poesie in Kritisch bearbeiteten Texten und mit vollständigem Glossar</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">W M</forename><surname>Grein</surname></persName>
+		</author>
+		<imprint>
+			<publisher>Georg H. Wigand</publisher>
+			<biblScope unit="page" from="1857" to="1864" />
+			<pubPlace>Goettingen</pubPlace>
+		</imprint>
+	</monogr>
+	<note>4 vols</note>
+</biblStruct>
+
+<biblStruct xml:id="b61">
+	<analytic>
+		<title level="a" type="main">Astronomical Names in the Romance Languages of Western Europe from Late Antiquity to Early Modern Times</title>
+		<author>
+			<persName><forename type="first">Alan</forename><forename type="middle">H</forename><surname>Hartley</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Romance Philology</title>
+		<imprint>
+			<biblScope unit="volume">73</biblScope>
+			<biblScope unit="page" from="507" to="530" />
+			<date type="published" when="2019">2019</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b62">
+	<monogr>
+		<title level="m" type="main">Preaching Apocrypha in Anglo-Saxon England</title>
+		<author>
+			<persName><forename type="first">Brandon</forename><forename type="middle">W</forename><surname>Hawk</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2018">2018</date>
+			<publisher>University of Toronto Press</publisher>
+			<pubPlace>Toronto</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b63">
+	<analytic>
+		<title level="a" type="main">Envelope Patterns and the Structure of Beowulf</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">B</forename><surname>Hieatt</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">English Studies in Canada</title>
+		<imprint>
+			<biblScope unit="volume">1</biblScope>
+			<biblScope unit="page" from="249" to="265" />
+			<date type="published" when="1975">1975</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b64">
+	<analytic>
+		<title level="a" type="main">The Anchor of Hope and the Sea of This World: Christ II, 850-66</title>
+		<author>
+			<persName><forename type="first">Thomas</forename><forename type="middle">D</forename><surname>Hill</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">English Studies</title>
+		<imprint>
+			<biblScope unit="volume">75</biblScope>
+			<biblScope unit="page" from="289" to="292" />
+			<date type="published" when="1994">1994</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b65">
+	<monogr>
+		<author>
+			<persName><forename type="first">Bernard</forename><forename type="middle">F</forename><surname>Huppé</surname></persName>
+		</author>
+		<title level="m">The Web of Words: Structural Analyses of the Old English Poems: Vainglory, the Wonder of Creation, the Dream of the Rood, and Judith</title>
+		<meeting><address><addrLine>Albany, NY</addrLine></address></meeting>
+		<imprint>
+			<publisher>State University of New York Press</publisher>
+			<date type="published" when="1970">1970</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b66">
+	<monogr>
+		<title level="m" type="main">Isidori Hispalensis Episcopi: Etymologiarum Sive Originum</title>
+		<author>
+			<persName><forename type="first">Isidore</forename><surname>Of</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Seville</forename></persName>
+		</author>
+		<editor>W. M. Lindsay</editor>
+		<imprint>
+			<date type="published" when="1911">1911</date>
+			<publisher>Oxford University Press</publisher>
+			<pubPlace>Oxford</pubPlace>
+		</imprint>
+	</monogr>
+	<note>2 vols</note>
+</biblStruct>
+
+<biblStruct xml:id="b67">
+	<analytic>
+		<title level="a" type="main">Sancti Hieronymi opera Pars I Opera exegetica 1 Hebraicae quaestiones in libro Geneseos Liber interpretationis hebraicorum nominum Commentarioli in psalmos Commentarius in Ecclesiasten</title>
+		<author>
+			<persName><forename type="first">Jerome</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">CCSL</title>
+		<editor>
+			<persName><forename type="first">P</forename><surname>De Lagarde</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">G</forename><surname>Morin</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">M</forename><surname>Adriaen</surname></persName>
+		</editor>
+		<imprint>
+			<biblScope unit="volume">72</biblScope>
+			<date type="published" when="1959">1959</date>
+			<publisher>Brepols</publisher>
+			<pubPlace>Turnhout</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b68">
+	<analytic>
+		<title level="a" type="main">The Vernacular Theology of the Old English Advent Lyrics: Monastic Devotion to Mary</title>
+		<author>
+			<persName><forename type="first">Jasmine</forename><surname>Jones</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">The Review of English Studies</title>
+		<imprint>
+			<biblScope unit="volume">75</biblScope>
+			<biblScope unit="page" from="1" to="16" />
+			<date type="published" when="2024">2024</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b69">
+	<monogr>
+		<author>
+			<persName><forename type="first">Catherine</forename><surname>Karkov</surname></persName>
+		</author>
+		<title level="m">Text and Picture in Anglo-Saxon England: Narrative Strategies in the Junius II Manuscript. Cambridge Studies in Anglo-Saxon England 31</title>
+		<meeting><address><addrLine>Cambridge</addrLine></address></meeting>
+		<imprint>
+			<publisher>Cambridge University Press</publisher>
+			<date type="published" when="2001">2001</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b70">
+	<analytic>
+		<title level="a" type="main">A Poem of the Cross in the Exeter Book Riddle 60 and The Husband&apos;s Message</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">E</forename><surname>Kaske</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Traditio</title>
+		<imprint>
+			<biblScope unit="volume">23</biblScope>
+			<biblScope unit="page" from="41" to="71" />
+			<date type="published" when="1967">1967</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b71">
+	<monogr>
+		<author>
+			<persName><forename type="first">Richard</forename><forename type="middle">J</forename><surname>Kelly</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Ciaran</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Quinn</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Stone</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Skin</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Silver</surname></persName>
+		</author>
+		<title level="m">Translation of the Dream of the Rood</title>
+		<meeting><address><addrLine>Midleton</addrLine></address></meeting>
+		<imprint>
+			<publisher>Litho Press</publisher>
+			<date type="published" when="1999">1999</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b72">
+	<analytic>
+		<title level="a" type="main">Additional Observations on the Runic Obelisk at Ruthwell; the Poem of the Dream of the Holy Rood; and a Runic Copper Dish Found at Chertsey</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">M</forename><surname>Kemble</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Archaeologia</title>
+		<imprint>
+			<biblScope unit="volume">30</biblScope>
+			<biblScope unit="page" from="31" to="46" />
+			<date type="published" when="1842">1842</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b73">
+	<monogr>
+		<title level="m">The Poetry of the Codex Vercellensis with an English Translation. 2 vols</title>
+		<meeting><address><addrLine>London</addrLine></address></meeting>
+		<imprint>
+			<publisher>Printed for the AElfric Society</publisher>
+			<biblScope unit="page" from="1853" to="1856" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b74">
+	<monogr>
+		<author>
+			<persName><forename type="first">George</forename><surname>Krapp</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Phillip</surname></persName>
+		</author>
+		<title level="m">The Vercelli Book</title>
+		<meeting><address><addrLine>New York, NY</addrLine></address></meeting>
+		<imprint>
+			<publisher>Columbia University Press</publisher>
+			<date type="published" when="1932">1932</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b75">
+	<monogr>
+		<author>
+			<persName><forename type="first">Michael</forename><surname>Lapidge</surname></persName>
+		</author>
+		<title level="m">The Anglo-Saxon Library</title>
+		<meeting><address><addrLine>Oxford</addrLine></address></meeting>
+		<imprint>
+			<publisher>Oxford University Press</publisher>
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b76">
+	<analytic>
+		<title level="a" type="main">Teaching the Teachers: The Vercelli Book and the Mixed Life</title>
+		<author>
+			<persName><forename type="first">Francis</forename><surname>Leneghan</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">English Studies</title>
+		<imprint>
+			<biblScope unit="volume">94</biblScope>
+			<biblScope unit="page" from="627" to="658" />
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b77">
+	<analytic>
+		<title level="a" type="main">SELIM</title>
+	</analytic>
+	<monogr>
+		<title level="m">The Departure of The Hero in a Ship: The Intertextuality of Beowulf, Cynewulf, and Andreas</title>
+		<imprint>
+			<date type="published" when="2019">2019</date>
+			<biblScope unit="volume">24</biblScope>
+			<biblScope unit="page" from="105" to="132" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b78">
+	<analytic>
+		<title level="a" type="main">Old English Christian Poetry: The Cross in Exodus</title>
+		<author>
+			<persName><forename type="first">Peter</forename><forename type="middle">J</forename><surname>Lucas</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Famulus Christi: Essays in Commemoration of the Thirteenth Centenary of the Birth of the Venerable Bede</title>
+		<editor>
+			<persName><forename type="first">Gerald</forename><surname>Bonner</surname></persName>
+		</editor>
+		<meeting><address><addrLine>London</addrLine></address></meeting>
+		<imprint>
+			<publisher>SPCK</publisher>
+			<date type="published" when="1976">1976</date>
+			<biblScope unit="page" from="193" to="209" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b79">
+	<analytic>
+		<title level="a" type="main">Virgin Mary, The Blessed</title>
+		<author>
+			<persName><forename type="first">Anthony</forename><surname>Maas</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">The Catholic Encyclopedia: An International Work of Reference on the Constitution, Doctrine, Discipline, and History of the Catholic Church</title>
+		<editor>
+			<persName><forename type="first">G</forename><surname>Charles</surname></persName>
+		</editor>
+		<editor>
+			<persName><surname>Herbermann</surname></persName>
+		</editor>
+		<meeting><address><addrLine>New York, NY</addrLine></address></meeting>
+		<imprint>
+			<publisher>The Encyclopedia Press</publisher>
+			<biblScope unit="volume">18</biblScope>
+			<biblScope unit="page" from="1907" to="1922" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b80">
+	<monogr>
+		<title level="m" type="main">The Old English Life of St Mary of Egypt</title>
+		<author>
+			<persName><forename type="first">Hugh</forename><surname>Magennis</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2002">2002</date>
+			<publisher>University of Exeter Press</publisher>
+			<pubPlace>Exeter</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b81">
+	<analytic>
+		<title level="a" type="main">Two Ships Crossing: Hybrid Poetics in The Dream of the Rood</title>
+		<author>
+			<persName><forename type="first">Heather</forename><surname>Maring</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">English Studies</title>
+		<imprint>
+			<biblScope unit="volume">91</biblScope>
+			<biblScope unit="page" from="241" to="255" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b82">
+	<monogr>
+		<author>
+			<persName><forename type="first">Hertha</forename><surname>Marquardt</surname></persName>
+		</author>
+		<title level="m">Die altenglischen Kenningar ein Beitrag zur Stilkunde altgermanischer Dichtung. Halle: M. Niemeyer</title>
+		<imprint>
+			<date type="published" when="1938">1938</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b83">
+	<analytic>
+		<title level="a" type="main">The Journey Motif in the Poems of the Vercelli Book</title>
+		<author>
+			<persName><forename type="first">Patrick</forename><surname>Mcbrine</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">New Readings in the Vercelli Book</title>
+		<editor>
+			<persName><forename type="first">Samantha</forename><surname>Zacher</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">Andy</forename><surname>Orchard</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Toronto</addrLine></address></meeting>
+		<imprint>
+			<publisher>Toronto University Press</publisher>
+			<date type="published" when="2009">2009</date>
+			<biblScope unit="page" from="298" to="317" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b84">
+	<analytic>
+		<title level="a" type="main">The Devotional Context of the Cross Before A.D. 1000</title>
+		<author>
+			<persName><forename type="first">Sandra</forename><surname>Mcentire</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Old English Literature: Critical Essays</title>
+		<editor>
+			<persName><forename type="first">R</forename><forename type="middle">M</forename><surname>Liuzza</surname></persName>
+		</editor>
+		<meeting><address><addrLine>New Haven, MA</addrLine></address></meeting>
+		<imprint>
+			<publisher>Yale University Press</publisher>
+			<date type="published" when="2000">2000</date>
+			<biblScope unit="page" from="392" to="403" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b85">
+	<analytic>
+		<title level="a" type="main">The Hymns of the Anglo-Saxon Church: A Study and Edition of the Durham Hymnal</title>
+		<author>
+			<persName><forename type="first">Inge</forename><forename type="middle">B</forename><surname>Milfull</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Cambridge Studies in Anglo-Saxon England</title>
+		<imprint>
+			<biblScope unit="volume">17</biblScope>
+			<date type="published" when="1996">1996</date>
+			<publisher>Cambridge University Press</publisher>
+			<pubPlace>Cambridge</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b86">
+	<monogr>
+		<author>
+			<persName><forename type="first">Leonard</forename><surname>Neidorf</surname></persName>
+		</author>
+		<title level="m">The Dating of Beowulf: A Reassessment</title>
+		<imprint>
+			<publisher>Cambridge: D. S. Brewer</publisher>
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b87">
+	<analytic>
+		<title level="a" type="main">The Composite Authorship of The Dream of the Rood</title>
+	</analytic>
+	<monogr>
+		<title level="j">Anglo-Saxon England</title>
+		<imprint>
+			<biblScope unit="volume">45</biblScope>
+			<biblScope unit="page" from="51" to="70" />
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b88">
+	<analytic>
+		<title level="a" type="main">The Textual Criticism of The Dream of the Rood</title>
+		<author>
+			<persName><forename type="first">Leonard</forename><surname>Neidorf</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Na</forename><surname>Xu</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">English Studies</title>
+		<imprint>
+			<biblScope unit="volume">101</biblScope>
+			<biblScope unit="page" from="519" to="536" />
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b89">
+	<analytic>
+		<title level="a" type="main">Ring Composition and the Structure of Beowulf</title>
+		<author>
+			<persName><forename type="first">John</forename><forename type="middle">D</forename><surname>Niles</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">PMLA</title>
+		<imprint>
+			<biblScope unit="volume">94</biblScope>
+			<biblScope unit="page" from="924" to="935" />
+			<date type="published" when="1979">1979</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b90">
+	<analytic>
+		<title level="a" type="main">King Alfred as the Skipper in Andreas</title>
+		<author>
+			<persName><forename type="first">Richard</forename><surname>North</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">The Age of Alfred: Rethinking English Literary Culture c. 850-950</title>
+		<editor>
+			<persName><forename type="first">Amy</forename><surname>Faulkner</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">Francis</forename><surname>Leneghan</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Turnhout</addrLine></address></meeting>
+		<imprint>
+			<publisher>Brepols</publisher>
+			<date type="published" when="2024">2024</date>
+			<biblScope unit="page" from="429" to="453" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b91">
+	<analytic>
+		<title level="a" type="main">How Did the Vercelli Collector Interpret The Dream of the Rood?</title>
+		<author>
+			<persName><forename type="first">Éamonn</forename><surname>Carragáin</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">In Studies in Language and Literature in Honour of Paul Christophersen, Occasional Papers in Linguistics and Language Learning</title>
+		<editor>
+			<persName><forename type="first">P</forename><forename type="middle">M</forename><surname>Tilling</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Coleraine</addrLine></address></meeting>
+		<imprint>
+			<publisher>New University of Ulster</publisher>
+			<date type="published" when="1981">1981</date>
+			<biblScope unit="page" from="63" to="104" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b92">
+	<analytic>
+		<title level="a" type="main">Vision Transfigured into Prayer: The Crucifixion Narrative in The Dream of the Road</title>
+		<author>
+			<persName><forename type="first">Éamonn</forename><surname>Carragáin</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">his Ritual and the Rood: Liturgical Images and the Old English Poems of the Dream of the Rood Tradition</title>
+		<meeting><address><addrLine>London</addrLine></address></meeting>
+		<imprint>
+			<publisher>The British Library</publisher>
+			<date type="published" when="2005">2005</date>
+			<biblScope unit="page" from="308" to="338" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b93">
+	<analytic>
+		<title level="a" type="main">Both Style and Substance: The Case for Cynewulf</title>
+		<author>
+			<persName><forename type="first">Andy</forename><surname>Orchard</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Anglo-Saxon Styles</title>
+		<editor>
+			<persName><forename type="first">Catherine</forename><forename type="middle">E</forename><surname>Karkov</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">George</forename><surname>Hardin Brown</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Albany, NY</addrLine></address></meeting>
+		<imprint>
+			<publisher>State University of New York Press</publisher>
+			<date type="published" when="2003">2003</date>
+			<biblScope unit="page" from="271" to="305" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b94">
+	<analytic>
+		<title level="a" type="main">The Dream of the Rood: Cross-References</title>
+	</analytic>
+	<monogr>
+		<title level="m">New Readings in the Vercelli Book</title>
+		<editor>
+			<persName><forename type="first">Samantha</forename><surname>Zacher</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">Andy</forename><surname>Orchard</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Toronto</addrLine></address></meeting>
+		<imprint>
+			<publisher>University of Toronto Press</publisher>
+			<date type="published" when="2009">2009</date>
+			<biblScope unit="page" from="225" to="253" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b95">
+	<analytic>
+		<title level="a" type="main">Alcuin and Cynewulf: The Art and Craft of Anglo-Saxon Verse</title>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of the British Academy</title>
+		<imprint>
+			<biblScope unit="volume">8</biblScope>
+			<biblScope unit="page" from="295" to="399" />
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b96">
+	<monogr>
+		<title level="m">The Craft and Cunning of Anglo-Saxon Verse. CLASP Ancillary Publications 3. Oxford: CLASP Project</title>
+		<imprint>
+			<date type="published" when="2022">2022</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b97">
+	<monogr>
+		<author>
+			<persName><forename type="first">Andy</forename><surname>Orchard</surname></persName>
+		</author>
+		<title level="m">Lexicon of Old English Verse with a Particular Focus on the Distribution of Nominal and Adjectival Compounds. 2nd ed. CLASP Ancillary Publications 1</title>
+		<meeting><address><addrLine>Oxford</addrLine></address></meeting>
+		<imprint>
+			<publisher>CLASP Project</publisher>
+			<date type="published" when="2022">2022</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b98">
+	<analytic>
+		<title level="a" type="main">Holmwudu in The Dream of the Rood</title>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">E</forename><surname>Pickford</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Neuphilologische Mitteilungen</title>
+		<imprint>
+			<biblScope unit="volume">77</biblScope>
+			<biblScope unit="page" from="561" to="564" />
+			<date type="published" when="1976">1976</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b99">
+	<analytic>
+		<title level="a" type="main">Steering the Ship of the Mind: Politics and Theology in the Nautical Expression of the Layered Mind in the Alfredian Translations</title>
+		<author>
+			<persName><forename type="first">Eleni</forename><surname>Ponirakis</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of the Spanish Society for Medieval English Language and Literature</title>
+		<imprint>
+			<biblScope unit="volume">29</biblScope>
+			<biblScope unit="page" from="53" to="70" />
+			<date type="published" when="2024">2024</date>
+		</imprint>
+	</monogr>
+	<note>SELIM</note>
+</biblStruct>
+
+<biblStruct xml:id="b100">
+	<analytic>
+		<title level="a" type="main">Isidore&apos;s Etymologiae at the School of Canterbury</title>
+		<author>
+			<persName><forename type="first">David</forename><forename type="middle">W</forename><surname>Porter</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Anglo-Saxon England</title>
+		<imprint>
+			<biblScope unit="volume">43</biblScope>
+			<biblScope unit="page" from="7" to="44" />
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b101">
+	<monogr>
+		<title level="m" type="main">Verbal Parallels in Andreas and its Relationship to Beowulf and Cynewulf</title>
+		<author>
+			<persName><forename type="first">Alison</forename><forename type="middle">M</forename><surname>Powell</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2002">2002</date>
+		</imprint>
+		<respStmt>
+			<orgName>University of Cambridge</orgName>
+		</respStmt>
+	</monogr>
+	<note type="report_type">PhD dissertation</note>
+</biblStruct>
+
+<biblStruct xml:id="b102">
+	<analytic>
+		<title level="a" type="main">Antenna Crucis III: Das Schiff aus Holz</title>
+		<author>
+			<persName><forename type="first">Hugo</forename><surname>Rahner</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Zeitschrift fur katholische Theologie</title>
+		<imprint>
+			<biblScope unit="volume">67</biblScope>
+			<biblScope unit="page" from="1" to="21" />
+			<date type="published" when="1943">1943</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b103">
+	<monogr>
+		<title level="m" type="main">In his Greek Myths and Christian Mystery, translated by Brian Battershaw</title>
+		<imprint>
+			<date type="published" when="1963">1963</date>
+			<publisher>London: Burns &amp; Oates</publisher>
+			<biblScope unit="page" from="328" to="386" />
+		</imprint>
+	</monogr>
+	<note>Odysseus at the Mast</note>
+</biblStruct>
+
+<biblStruct xml:id="b104">
+	<analytic>
+		<title level="a" type="main">The Sea Voyages in Beowulf</title>
+		<author>
+			<persName><forename type="first">Lee</forename><forename type="middle">C</forename><surname>Ramsey</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Neuphilologische Mitteilungen</title>
+		<imprint>
+			<biblScope unit="volume">72</biblScope>
+			<biblScope unit="page" from="51" to="59" />
+			<date type="published" when="1971">1971</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b105">
+	<monogr>
+		<title level="m" type="main">The Guthlac Poems of the Exeter Book</title>
+		<author>
+			<persName><forename type="first">Jane</forename><surname>Roberts</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1979">1979</date>
+			<publisher>Clarendon Press</publisher>
+			<pubPlace>Oxford</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b106">
+	<analytic>
+		<title level="a" type="main">The Significance of Names in Old English Literature</title>
+		<author>
+			<persName><forename type="first">Fred</forename><forename type="middle">C</forename><surname>Robinson</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Anglia (halle An Der Saale, Germany)</title>
+		<imprint>
+			<biblScope unit="volume">86</biblScope>
+			<biblScope unit="page" from="14" to="58" />
+			<date type="published" when="1968">1968</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b107">
+	<analytic>
+		<title level="a" type="main">Some Uses of Name Meanings in Old English Poetry</title>
+	</analytic>
+	<monogr>
+		<title level="j">Neuphilologische Mitteilungen</title>
+		<imprint>
+			<biblScope unit="volume">69</biblScope>
+			<biblScope unit="page" from="161" to="171" />
+			<date type="published" when="1968">1968</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b108">
+	<monogr>
+		<title level="m">Beowulf and the Appositive Style</title>
+		<meeting><address><addrLine>Knoxville, TN</addrLine></address></meeting>
+		<imprint>
+			<publisher>The University of Tennessee Press</publisher>
+			<date type="published" when="1985">1985</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b109">
+	<analytic>
+		<title level="a" type="main">The Spiritual Islescape of the Anglo-Saxons</title>
+		<author>
+			<persName><forename type="first">Winfried</forename><surname>Rudolf</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">The Sea and Englishness in the Middle Ages: Maritime Narratives, Identity and Culture</title>
+		<editor>
+			<persName><forename type="first">Sebastian</forename><forename type="middle">I</forename><surname>Sobecki</surname></persName>
+		</editor>
+		<imprint>
+			<publisher>Cambridge: D. S. Brewer</publisher>
+			<date type="published" when="2011">2011</date>
+			<biblScope unit="page" from="31" to="57" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b110">
+	<analytic>
+		<title level="a" type="main">Isidore&apos;s Etymologiae and the Canterbury Aldhelm Scholia</title>
+		<author>
+			<persName><forename type="first">Philip</forename><forename type="middle">G</forename><surname>Rusche</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">The Journal of English and Germanic Philology</title>
+		<imprint>
+			<biblScope unit="volume">104</biblScope>
+			<biblScope unit="page" from="437" to="455" />
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b111">
+	<analytic>
+		<title level="a" type="main">Beowulf und Kynewulf</title>
+		<author>
+			<persName><forename type="first">G</forename><surname>Sarrazin</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Anglia (halle An Der Saale, Germany)</title>
+		<imprint>
+			<biblScope unit="volume">9</biblScope>
+			<biblScope unit="page" from="515" to="550" />
+			<date type="published" when="1886">1886</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b112">
+	<monogr>
+		<title level="m" type="main">Critical Studies on the Cynewulf Group</title>
+		<author>
+			<persName><forename type="first">Claes</forename><surname>Schaar</surname></persName>
+		</author>
+		<editor>C.W.K. Gleerup</editor>
+		<imprint>
+			<date type="published" when="1949">1949</date>
+		</imprint>
+	</monogr>
+	<note>Lund Studies in English 17</note>
+</biblStruct>
+
+<biblStruct xml:id="b113">
+	<monogr>
+		<title level="m" type="main">Cambridge Studies in Medieval Literature 122</title>
+		<author>
+			<persName><forename type="first">Harriet</forename><surname>Soper</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2023">2023</date>
+			<publisher>Cambridge University Press</publisher>
+			<pubPlace>Cambridge</pubPlace>
+		</imprint>
+	</monogr>
+	<note>The Life Course in Old English Poetry</note>
+</biblStruct>
+
+<biblStruct xml:id="b114">
+	<analytic>
+		<title level="a" type="main">The Old-Northern Runic Monuments of Scandinavia and England. 3 vols</title>
+		<author>
+			<persName><forename type="first">George</forename><surname>Stephens</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. R. Smith</title>
+		<imprint>
+			<biblScope unit="page" from="1866" to="1884" />
+			<pubPlace>London</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b115">
+	<monogr>
+		<title level="m" type="main">The Cross in the Life and Literature of the Anglo-Saxons</title>
+		<author>
+			<persName><forename type="first">William</forename><forename type="middle">O</forename><surname>Stevens</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1904">1904</date>
+			<publisher>Henry Holt</publisher>
+			<pubPlace>New York, NY</pubPlace>
+		</imprint>
+	</monogr>
+	<note>Yale Studies in English 23</note>
+</biblStruct>
+
+<biblStruct xml:id="b116">
+	<analytic>
+		<title level="a" type="main">Review of The Advent Lyrics of the Exeter Book. Edited with Introduction and Notes by</title>
+		<author>
+			<persName><forename type="first">Godfrid</forename><surname>Storms</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">English Studies</title>
+		<editor>
+			<persName><forename type="first">J</forename><forename type="middle">J</forename><surname>Campbell</surname></persName>
+		</editor>
+		<imprint>
+			<biblScope unit="volume">48</biblScope>
+			<biblScope unit="page" from="164" to="165" />
+			<date type="published" when="1959">1959. 1967</date>
+			<publisher>Princeton University Press</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b117">
+	<analytic>
+		<title level="a" type="main">Das Schiff als Symbol der altchristlichen Kunst</title>
+		<author>
+			<persName><forename type="first">Georg</forename><surname>Stuhlfauth</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Rivista di archeologia Cristiana</title>
+		<imprint>
+			<biblScope unit="volume">19</biblScope>
+			<biblScope unit="page" from="111" to="141" />
+			<date type="published" when="1942">1942</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b118">
+	<monogr>
+		<author>
+			<persName><forename type="first">Michael</forename><surname>Swanton</surname></persName>
+		</author>
+		<title level="m">The Dream of the Rood</title>
+		<meeting><address><addrLine>Manchester</addrLine></address></meeting>
+		<imprint>
+			<publisher>Manchester University Press</publisher>
+			<date type="published" when="1970">1970</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b119">
+	<analytic>
+		<title level="a" type="main">Grundlagen und Gestalt der Hebräischkenntnisse des frühen Mittelalters. Biblioteca degli Studi medievali 4. Spoleto: Centro Italiano di Studi sull&apos;alto</title>
+		<author>
+			<persName><forename type="first">Matthias</forename><surname>Thiel</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Medioevo</title>
+		<imprint>
+			<date type="published" when="1973">1973</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b120">
+	<monogr>
+		<title level="m" type="main">Old English Sea Terms</title>
+		<author>
+			<persName><forename type="first">Katrin</forename><surname>Thier</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2014">2014</date>
+			<publisher>Anglo-Saxon Books</publisher>
+			<pubPlace>Ely</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b121">
+	<analytic>
+		<title level="a" type="main">Orm&apos;s Vernacular Latinity</title>
+		<author>
+			<persName><forename type="first">Carla</forename><surname>Thomas</surname></persName>
+		</author>
+		<author>
+			<persName><surname>María</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of the Spanish Society for Medieval English Language and Literature</title>
+		<imprint>
+			<biblScope unit="volume">20</biblScope>
+			<biblScope unit="issue">14</biblScope>
+			<biblScope unit="page" from="167" to="198" />
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+	<note>SELIM</note>
+</biblStruct>
+
+<biblStruct xml:id="b122">
+	<analytic>
+		<title level="a" type="main">The Virgin Mary in the Hymns of the Catholic Church</title>
+		<author>
+			<persName><forename type="first">Thomas</forename><forename type="middle">A</forename><surname>Thompson</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">The Oxford Handbook of Virgin Mary</title>
+		<editor>
+			<persName><forename type="first">Chris</forename><surname>Maunder</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Oxford</addrLine></address></meeting>
+		<imprint>
+			<publisher>Oxford University Press</publisher>
+			<date type="published" when="2019">2019</date>
+			<biblScope unit="page" from="247" to="264" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b123">
+	<analytic>
+		<title level="a" type="main">Ring Structure in Beowulf</title>
+		<author>
+			<persName><forename type="first">H</forename><surname>Tonsfeldt</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Ward</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Neophilologus</title>
+		<imprint>
+			<biblScope unit="volume">61</biblScope>
+			<biblScope unit="page" from="443" to="456" />
+			<date type="published" when="1977">1977</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

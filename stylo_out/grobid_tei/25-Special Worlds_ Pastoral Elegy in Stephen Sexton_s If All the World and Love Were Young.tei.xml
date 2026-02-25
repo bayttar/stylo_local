@@ -1,0 +1,537 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Special Worlds: Pastoral Elegy in Stephen Sexton&apos;s If All the World and Love Were Young</title>
+				<funder>
+					<orgName type="full">World and Love Were Young</orgName>
+				</funder>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName><forename type="first">Iain</forename><surname>Twiddy</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department" key="dep1">Department of English Language and Literature</orgName>
+								<orgName type="department" key="dep2">Faculty of Humanities</orgName>
+								<orgName type="institution">Kyushu University</orgName>
+								<address>
+									<settlement>Fukuoka</settlement>
+									<country key="JP">Japan</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Special Worlds: Pastoral Elegy in Stephen Sexton&apos;s If All the World and Love Were Young</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date/>
+						</imprint>
+					</monogr>
+					<idno type="MD5">E9E0C7ACDFBA558876687CD5860644A0</idno>
+					<idno type="DOI">10.1080/0013838X.2025.2560442</idno>
+					<note type="submission">Received 20 April 2025 Accepted 7 September 2025</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.0" ident="GROBID" when="2026-02-25T19:55+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term>Pastoral elegy</term>
+					<term>ekphrasis</term>
+					<term>cancer</term>
+					<term>Stephen Sexton</term>
+					<term>video game</term>
+				</keywords>
+			</textClass>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>Stephen Sexton's If All the World and Love Were Young has a complex root system: its title traces back to Walter Raleigh's "The Nymph's Reply to the Shepherd" (1600), an anti-pastoral realitycheck for Christopher Marlowe's invitation to "Come live with me and be my love"; but its content derives from a more recent source, Shigeru Miyamoto's 1990 video game Super Mario World. Sexton's ekphrastic sequence -a poem for every level of the game -adopts, adapts and rejects Classical pastoral conventions in order to engage with the early death of his mother from cancer. Pastoral is both the medium of the mourning quest andin part -that which is being mourned, and as the hero progresses, overcoming myriad dangers, he explores the osmotic relationship between real and imaginary worlds, the communal quality of mourning, the nature of memory, and the extent to which elegy should aim to process or to preserve.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>The title of Stephen Sexton's 1971 book If All the World and Love Were Young traces back more than four centuries to Walter Raleigh's "The Nymph's Reply to the Shepherd" (1600), a poem that serves as a reality-check for Christopher Marlowe's presentation of the pastoral form in English poetry published a year earlier, in "The Passionate Shepherd to His Love". <ref type="bibr">1</ref> With the invitation to "Come live with me and be my love", Marlowe's speaker advances the sensory pleasures, material plenty and cultural fertility of the herding life in an appealing and benign landscape; the shepherd promises the world, pledging to make his love beds of roses And a thousand fragrant posies, A cap of flowers, and a kirtle Embroidered all with leaves of myrtle;</p><p>A gown made of the finest wool Which from our pretty lambs we pull. <ref type="bibr">2</ref> 1935 William Empson described pastoral's process of "putting the complex into the simple"; 9 but as the genre has developed, this equivocal simplifying has been applied to settings not exclusively rural: Peter Marinelli observed in 1971, how pastoral's foundational sense of a "return to nature", widened to explore other desired returns, such as "to the primitive simplicity of the Church, to primitive freedom from passion, to primitive enjoyment of passion, [or] to primitive modes of feeling and thinking". <ref type="bibr">10</ref> Conceptualised this way, pastoral can be any intensely valued state, an elsewhere in place or time: the separation of country and city is just one example of its principal of distinction. <ref type="bibr">11</ref> It might be inferred that for Raleigh, in exposing the mode, pastoral could have or should have no place in English poetry. Yet pastoral is not essentially bound to a particular location of fixed dimensions: it was a no more realistic depiction of life in Italy than it had been in Greece, but it took root imaginatively not least because of its adaptability, versatility, and abundant constitutional paradoxes, energised byas Gifford and Marinelli identifythe need for "return" to a formative or nourishing setting; as Laurence Lerner puts it at the end of The Uses of Nostalgia, "Every generation is equidistant from Arcadia". <ref type="bibr">12</ref> Pastoral is thus a place of intense attachment, but it is not necessarily intrinsically stable: favourite places and times change over time, and a valued state can become even more charged when endangered, as with the loss of a childhood home. <ref type="bibr">13</ref> The pastoral locationas opposed to utopiais always in the past, but it is not dead, since it can change in status or quality, sometimes becoming devalued, 14 or no longer pastoral; but there are also times and places that will become pastoral when enough time has passed. Since the genre depends upon contrast or relativism, it is vulnerable: pastoral might seem stable or timeless in its tropes, and in the recognisability of its foundational features; but it is constitutionally compensatory, in its need to fend off things that threaten it, such as the dissolutions of memory; the positive or desired aspects require tending all the more assiduously, given how quicklyto continue the metaphornature rewilds once-cultivated spaces. <ref type="bibr">15</ref> As such, one of pastoral's essential paradoxes is its imperfection. Separateness is attended by the anxiety of invasion and internal losses; positing something as idyllic renders it vulnerable, as Susan Snyder points out in her 1998 study Pastoral Process: "Pastoral postulates the ideal … but derives its power from including, or being predicated 9 Empson, 23.   10 Marinelli, 13.   11   Pastoral is not exclusively concerned with herding, nature or farming: the herding life is the first of many pastoral tropes. Pastoral functions by means of relativism and contrast: for some, the hunter-gatherer stage of human existence may be pastoral; for others, subsistence farming in the pre-industrial era; one person's pastoral may be another's hell. Pastoral is not synonymous with "natural", since the physical world can be a hostile force that must be subdued or exploited. In pastoral elegy, pastoral can be closer to the idea of care, to the sense that people and places still remember the dead, and tend to their memory, in the spirit of Shakespeare's "Full Fathom Five".</p><p>12 Lerner, 246.   13   Tennyson asks himself in poem XXIV of In Memoriam A. H. H., "And was the day of my delight / As pure and perfect as I say?" and "is it that the haze of grief / Makes former gladness loom so great?" (Tennyson, 369).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>14</head><p>A psychoanalytic term for this is "decathexis", where there is a withdrawing / detaching from a once-valued "object" (person, place, time etc.).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>15</head><p>In a context broader than personal psychology, considering the status of Walter Raleighand Edmund Spenserin Ireland can suggest the relativism / instability of pastoral ideas: in their acquisition of estates and military activity, it is perhaps reasonable to posit that their conceptions of harmony and civilisation, disharmony and wilderness were defined oppositionally, and somewhat paradoxically ("progress" rooted in Classical values, "civilisation" asserted by means of brutality). upon, antipastoral elements: time, death, conflict, civilization, frustrated desire." <ref type="bibr">16</ref> There is tension and discontent even in these benign places: Virgil's Eclogues feature distressing love affairs, while in the first of Theocritus' Idylls, the beloved herdsman Daphnis dies. In this way, there is a close link between pastoral and death, with the grief that is one form of Snyder's "frustrated desire". Pastoral elegy is a sub-genre of pastoral, its modal distinction a stability concerned with the effecting of change. Classical pastoral elegy, essentially, offers the reassurance of nature's patterns of death and rebirth, where the individual is given up to the wider environment; the poet may take comfort in the community of the seasons, the world, the infinity of the universe, or simply the disillusioning facts of the material world; this is a kind of Romantic sublime, but rather than lifting depression, it alleviates or disperses grief: <ref type="bibr">17</ref> as Ellen Zetzel Lambert puts it: "To place a lament in the pastoral world is, then, to imply some form of regeneration," for "if nature's grasses return in the following season, or her sunlight on the following day, so we too will, if not recover the one we have lost, at least recover ourselves". <ref type="bibr">18</ref> Whereas pastoral is associated with not moving forward, with wanting the past to be the present and the future, pastoral elegy concerns the placing of the dead in a highly-valued setting, separating from that state whether through incorporation or renunciation, and moving on, if not to the "fresh woods, and pastures new" of "Lycidas" (to new libidinal attachments, a renewed fertility of life and love, the assertion of creation against destruction), then at least to a change in feeling and perspective. <ref type="bibr">19</ref> The function of place in pastoral elegy is to be fundamentally displacing. Put simply, pastoral serves melancholia, pastoral elegy serves mourning.</p><p>This distinction is taken from Sigmund Freud's 1917 essay "Mourning and Melancholia", where the process of mourning is described in arrestingly pragmatic terms that replay the abrupt force of death: the mourner faces "the verdict of reality that the object no longer exists; and the ego, confronted as it were with the question whether it shall share this fate, is persuaded by the sum of the narcissistic satisfactions it derives from being alive to sever its attachment to the object that has been abolished." <ref type="bibr">20</ref> Pastoral elegy provides a location in which the mourning poet spends time, gradually giving up attachment to the dead, coming back to the non-pastoral world having paid beautiful tribute and performed caring, pastoral rites, both for the sake of the dead and the psychological and emotional needs of the mourner. The harsh terms of Freud's diagnosis are thus conducted soothingly; the surge of grief when someone dies (hypercathexis) is steadily dissipated, made manageable, in an isolation that melts away as the mourner separates from the dead. Concomitantly, when nothing is grievous or threatened any longer, the highly-valued statethat is, both precious and possessing important qualitiesmay decline in prominence. 21 Jahan Ramazani's 1994 study The Poetry of Mourning is in large part concerned with investigating the failure of the pastoral drive in the work of some twentieth-century poets, in the sense of the melancholic inability or refusal to establish 16 Snyder, 3.   17   The fate of Wordsworth's Lucy in "A slumber did my spirit seal", "Rolled round" in the ongoing motion of "earth's diurnal course, / With rocks, and stones, and trees", is either reassuring or distressing (Wordsworth, 53). 18 Lambert, xvii.   19 Milton, 254.   20 Freud, 255.   21   As "Cookie Mountain" puts it, in a temporary alleviation of concern, "Now that the cancer's been excised the clouds are almost meaningless / a sparrow's not a metaphor for shipping out on rocky seas / there is no creaking in the house" (Sexton, If All the World and Love Were Young, 44).</p><p>good terms with the dead, separate, and achieve anything like "closure"poetic situations, essentially, where intense emotion cannot be ushered towards tranquillity. However, the continued vibrancy of pastoral elegy in works by many other contemporary poets, such as Michael Longley and Paul Muldoon, demonstrates the adaptability of the mode, its ability to adopt new textual features as historical contexts change, so that, for exampleto arrive finally in the terrain of Stephen Sexton's booka twentieth-century Japanese video game can be used as a pastoral setting, rather than the hills of Sicily two millennia earlier. <ref type="bibr">22</ref> Pastoral and pastoral elegy are old genres, but due to their extreme and simplifying aspects, they have been considered in some senses apprentice, or even juvenile forms, practice exercises in style where nothing important is at stake: implicit in Raleigh's dismissal is the instruction to get real, to grow up. <ref type="bibr">23</ref> In a 1986 essay, Celeste M. Schenck outlines how "Pastoral is the initiatory mode par excellence: since Theocritus, the pastoral legacy has been an established tradition of announcing one's literary appearance, of sharpening one's literary tools, of signifying one's literary importance, by a ritual donning of shepherd's weeds." 24 This initiatory quality of the pastoral mode 25 is alluded to by Sexton in a 2020 interview with Elaine Canning, where he describes the inception of a project to write poems about the Nintendo video game, Super Mario World: 26 he admits he was "doing it mischievously to start with", "doing it as a kind of joke, you know, to bring the language of a poem or a poetics to something that many people might consider to be not an appropriate pair". <ref type="bibr">27</ref> But in this process, as time went on, the poet found himself being initiated into another location: in a piece written for the Irish Times, Sexton states that When I started working on the project in earnest, it quickly became clear to me that I couldn't interrogate these worlds without thinking about my childhood, and I couldn't think about my childhood without thinking about my mother. Elegy started to creep into this digital world too: I couldn't describe a representation of a house and its tree of berries in the game without describing our house and its holly tree. <ref type="bibr">28</ref> The poetic mode thus changed from ekphrastic pastoral to pastoral elegy, around three years after the mother's death from cancer. <ref type="bibr">29</ref> Making a pastoral elegy out of a game playfully invites the charge of artificiality and superficiality that Samuel Johnson expressed regarding "Lycidas" in "The Life of Milton", in his formulation that "Where there is leisure for fiction, there is little grief": that is, no real emotional valency, whether in terms of moving the reader, or serving an effective psychological function for the mourner. <ref type="bibr">30</ref> But there is a serious purpose in the distraction, a point that Johnson</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>22</head><p>This geographically and historically transgressive sense of pastoral is present from the beginning: Moschus (living in the Greek colony of Sicily), writes in Greek an elegy for Bion (born in Smyrna, resident in Sicily), just as Bion had written the Greek-set "Lament for Adonis"; Virgil's Latin Eclogues transplant aspects of Theocritus (living in Sicily) to Mantua.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>23</head><p>Pastoral elegy has been considered a dress rehearsal: "Lycidas" comes before the more encompassing subject of the long pastoral elegy Paradise Lost.</p><p>24 Schenck, 97.   25   Video games can have different "modes", whether difficulty level or style of play.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>26</head><p>Super Mario World was released in Europe in 1992, on the Super Nintendo Entertainment System (SNES). It was originally released in Japan in 1990, on the Super Famicom (the Japanese name for the console).</p><p>ignores: Milton's decorous catalogue of the flowers that "strew the laureate hearse" is followed by the lines "For so to interpose a little ease, / Let our frail thoughts dally with false surmise." <ref type="bibr">31</ref> The artificial, the distracting, can be metaphysically bolstering, vital for the realitytesting Freud identifies, while the extensive time involvedthe "dally[ing]"is necessary for the gradual and deep sense-making quality of elegy. A pastoral elegy setting is a way of not looking at reality in order to confront, eventually accept, and return to it. The comforts gained in the "retreat" to the special placeboth returning and being treated againprovide the mourner with emotional support as well as the greater understanding (or the "insights" that Gifford identifies) needed to exit that world again. 32 For Sexton, the loss was possibly so difficult to process that an oblique entrance was required, but the direction was not consciously chosen; part of the distractive power of pastoral elegythe "leisure" of "fiction" that Johnson undervaluesis active here. The general force of elegy is described by Sexton in "The Changing Mountain", a 2020 piece for Poetry London, where he observes "the messiness and imprecision of death and remembrance, the no-right-way of grief which makes the elegy's ambit and jurisdiction so vast and various as to draw inby gravitation almostalmost anything." 33 Just as it develops the genre of ekphrastic poetry, 34 the video game expands the range of pastoral elegy. <ref type="bibr">35</ref> It is not exactly radical to observe that this mode is concerned with origins, terrain, borders, and inheritance. The stable instabilityor versatilityof pastoral elegy means that each iteration also performs a generic action. The poet retreats to this world, inherits the existing stock of images and ideas, adapts them, adds to them, and makes them productively reassuring, in order to progress to new emotional territory. <ref type="bibr">36</ref> In doing so the poet both guides and is guided, revivified by the community of the mode: by the end of "Lycidas", the problem of the shearers incapacitated by grief, and the resultantly neglected and hungry sheep, has been resolved. In Sexton's book, the video game's pastoral setting, its simplification of the world, repeating elements, fixed dimensions, and its centrality to the poet's childhood, along with its artificiality and distraction, make it a vital context for the exploration of grief. The combination of clarity and mystification in this exploration is present in the prefatory note that positions readers in space and time:</p><p>In the summer of 1998, when I was nine, my mother took a photograph of me playing Super Mario World (1990) in the small spare room in our house. My back is to the camera. <ref type="bibr">37</ref> The television, "already fifteen or sixteen years old", is in the corner of the room: to the left is the patio door, then the garden, a little river, fields then a forest; because of "the 31 Milton, 251.   32 Gifford, 2.   33   Sexton, "The Changing Mountain".</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>34</head><p>Pastoral is in a sense imagistic, an airbrushed place censoring the reality of cold, hunger and disease that Raleigh's poem is keen to expose. Pastoral can show the surface of a world, the benefits not the demerits, the results of labour rather than the labour itself.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>35</head><p>A conceptual link between Arcadia and video games may be amusement arcades.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>36</head><p>As an example of generic relativism, the once cutting-edge SNES console is now passé, its games classified as "retro". flash of the camera and the glare of the television screen, it's im-/ possible to tell which of the following levels I'm playing." This photograph of the video game before the video game poems captures a world both familiar and strange, one that, being both fixed and unbordered, frames the peculiar world of grief. In looking back, Sexton finds himself simultaneously at home and not at home, in both a familiar room and an unknown part of the game. But he is also in a third place: these two previous locations are modified by the activation of another force, which may be considered either the presence of death, or the absence of the mother (the unseen person who took the photograph), which foregrounds how all of this is now changed by the actions of artistic composition, the writing of the note. There are three temporal realms herethose of childhood home, video game, and the present world of adulthood and griefin addition to the fourth location of the poetry in which all three receive representation. The photograph both grounds and unsettles: the lens of the camera is mirrored by the screen of the television, but it gives a different focus now, since it enhances both the childhood home and the video game; the action of death and grief mean that the childhood time is now both more valorised and more vulnerable. The pastoral time of playing this game as a child in a happy family home is both a retreat to be used in the mourning work of elegy, but also another thing whose status is threatened: if the poet does not memorialise this existence, nobody else will; it will be a blank, like the rather alarming flash of the screen.</p><p>The screen is a fundamental, ambivalent conceit of Sexton's book. There is a real television screen, but also a metaphorical screen, the video game which is, after all, a super world, a pastoral realm somewhat protected from any hostilities beyond the screen of the window. The screen is enabling in the sense that it is a kind of shield, both reflective and deflective; the frame of the video game allows the mourner a time and a location to work out his grief, to process it, in the manner of the games console's central processing unit (CPU), that piece of hardware which has also formed in some part the software of the poet's brain, his outlook on the world. Grief is both destructive and productive: as a lens it makes the familiar world unfamiliar, where the mourner is both physically present in the objective world, but also suspended from it, temporarily preoccupied with the numbed or hazy contents of the subjective world, contents which bleed out into the external world beyond the patio door here. Grief can confusingly dissolve distinctions between internal and external, surface and depth, stable and unstable, here and not here; the metaphor here is the confusion between real and unreal world, where the artificial can feel more vivid than the natural, where both interpenetrate osmotically, where a pane of glass is more like a permeable membrane.</p><p>One of the first poems, "Yoshi's Island 1", presents the changed status of the formative place, observing "carnivorous plants" and how "fly agaric throbs everywhere", as the childhood garden and the landscape of the game -Dinosaur Landmelt into each other. 38 "Yoshi's Island 2" describes in more detail this sense of intrusion, in the form of illness and the possibility of death: it presents the "Pixels and bits pixels and bits their perpendicularity" of "one of the worlds I live in", which is "as shallow as a pane of glass", where there are "wild funguses slimy with dew and toxicity", 39 holly berries 38 Ibid., 6. The titles of poems in the book are the names of levels in the game.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>39</head><p>These funguses match Mario's mushroom power-ups.</p><p>are glaringly ruby, and the bracken isquite accurately -"carcinogenic"; this world is shattered when One summer's day I'm summoned home to hear of cells which split and glitch so haphazardly someone is called to intervene with poisons drawn from strange and peregrine trees flourishing in distant kingdoms.</p><p>We take the air in the garden bitter with berries and mushrooms too toxic to eat where the grass bows in an unexpected breeze. <ref type="bibr">40</ref> One such invasive, inceptive "glitch" is the switch from "summer" to "summoned", while the good manners of the grasswelcoming an unexpected visitorare heavily ironic, as the plentiful hospitality of pastoral bends to the threatening air of pastoral elegy. The innate pleasures offered by pastoral are immediately compromised; the pastoral distinction between a beneficent space (such as the countryside) and a corrupt and corrupting space (such as the court / city) is wavering due to the unwelcome visitor, cancer. Like Mario pulled in to another rescue missionon holiday in Dinosaur Land when the Princess 41 gets abducted by the disruptor Bowser againthe speaker in Sexton's narrative is called into action, summoned home to news of illness, just as the poet (years later) finds himself in a particular poetic mode.</p><p>In the narrative, that mode is pastoral suddenly under threat, as the poet-speaker journeys from his life in the city to the family home in the countryside; in the framing of the writing project, pastoral has already changed to pastoral elegy. As such, the video game that the poet-speaker is now moving through, in order to orientate himself in the landscape of grief, has undergone alteration within the narrative. The real is objectively the same, but different in the way it is perceived imagistically and experienced emotionally: "After my mother died", Sexton writes in "The Changing Mountain", "the whole world of the game seemed entirely different, yet it hadn't changed a bit (pun intended)." <ref type="bibr">42</ref> The sudden incursion is a contamination that explains the pastoral role of the speaker in the first poem, "Yoshi's House", where there are days of no letters in the mailbox, baby birds chirp in a holly tree, the fire "seizes in the grate", and smoke signals "across the eaves say all I really mean to say / I have gone to rescue my friends I'll think of you and you and you." 43 At this stage, rescuing the friends may be equivalent to redeeming the delights of this childhood landscapethat is, the memory of this placefrom the damage imposed on it by cancer and death, a redemption that consists of paying beautiful and abundant tribute to the person in whom certain "cells" have begun to "split and glitch". The disorientation of places and voices, and the formal unfamiliarity replay the bewilderment and brutality of the how-is-this-happening, this-cannot-be-real aspect of a sudden medical diagnosis. The reader gradually comes to positional 40 Sexton, If All … , 8.   41   Princess is named Princess Peach in Japanese, but sometimes Princess Toadstool in English. She is head of state of the Mushroom Kingdom, so her presence in Irish poetry, with its body of mushroom poems, does not seem unnatural. (Examples include Derek Mahon's "A Disused Shed in Co. Wexford", and Paul Muldoon's "Gathering Mushrooms"; for a recent discussion, see Jessica Bundschuh, "The 'Interrupted Georgics' of Mushrooms in Contemporary Irish Poetry", Ecozona 12, no. 2 (2021): 67-84). apprehension in a manner akin to learning the controls of a new video game, just as the mourner has to learn how to navigate the new, unsettling world of grief. <ref type="bibr">44</ref> Grief is of course inimical emotional territory, and it is important to remember that Super Mario World is not a problem-free world: creatures constantly threaten Mario's life, there are natural and mechanical obstacles he needs to overcome, he has a limited amount of vitality and a limited number of lives. The pastoral elegy setting does not present the unconditional beneficence of nature, and even if the game contains beings and physical actions not possible on earth, the pressures are real: if there were no jeopardy, there would be no value in spending time here. Time is finite on every levelan impression "Yoshi's Island 4" foregrounds, with the description, "Since it's August she begins the idle effacement of dying": there is pressure on the sequence from the start, and the major demand of elegyin paying appropriate tributeis that if one is undertaken, it has to work: it has to both be good and do good. <ref type="bibr">45</ref> Sexton must write a poem for every stage of grief, every level of the game; he must complete this phase of the mourning process.</p><p>Mode and form are two aspects of the processing capabilities of poetry, providing guidance, if not reassurance, in this engagement. In the preliminary "NOTE", Sexton points out that the SNES is a 16-bit console; "Put simply, 16-bit refers to / how much memory the system can process at one time." <ref type="bibr">46</ref> As such, every line in the book is sixteen syllables, double the tetrameter of Marlowe's and Raleigh's shepherd poems. <ref type="bibr">47</ref> Each poem can be conceived of as a unit of code, or a distinct patch of memory either corrupted or revivified by distressing emotional experience. In one sense, the poems may be voicing the CPU of the SNES, demonstrating the link between brain and console; in another, this comma-less script may indicate damage, the thinking of a processing unit trying to get to grips with unruly emotions, not simply the registering of physical data. Furthermore, the form's relentlessnessthe reproduction of dataimplies the inexhaustible replications of cancer. Read another way, many of the pieces have language where the syntax is not immediately graspable, something which could indicate the disordering effects of grief: death can stun into either silence or prolixity, it can break up syntax and propriety, and instil a concomitant need to harness or reprise both. Does a mourning poet use longer sentences, fearing or wishing to delay the ending, or instead, deploy shorter sentences, since using language, asserting it, seems pointless against the power of death? Can language fend off hostile emotion? 48 Grief's effects can thus be observed not just in the effects on the psyche, but in the effects on language: the form of these lines is both restless or panickybig breaths are required to read them aloudand steadying in its repetitiveness, its constancy.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>44</head><p>This world, in cultural terms, is both old and new: the fire in the grate here may suggest the hearth, the traditional locus or focus of storytelling in the home, which has morphed into the games console and glowing TV screen. From the beginning, the "console" engages with the matter of the consoling.  There may be a double precedent for this form in the work of one of Sexton's mentors at Queen's University Belfast, Ciaran Carson: Until Before After (2010), a late collection, uses the same form throughout: two poems of five very-shortlined couplets on the left page, faced by one poem of seven very-short-lined couplets on the right; this differs markedly from the long lines of his early work in The Irish for No (1987).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>48</head><p>The equivocal status of language is presented in Tennyson's In Memoriam A. H. H.: in LIV, he is reduced to infant status, "with no language but a cry", yet this poem is within a very long elegy of 133 poems (Tennyson, 396).</p><p>Even though it contains hostile forces, the world of the video game gives reassurance in their being overcome. Pastoral poetry is of course concerned with guidance, and pastoral poetry like Virgil's Georgics can provide a practical guide, or a paradigmatic sense of what to expect, with information on both how to conserve and to make productive. In its generic distinction, pastoral elegy gives the mourning poet a range, a sense of fixed dimensions: this is where mourning has to happen; the long elegy must end when the game ends. Just as Dante turns to the pastor Virgil in his midlife crisishis sense of living death -Sexton turns to Mario. <ref type="bibr">49</ref> This relationship is self-reflective, in the sense that just as Dante is writing out the guidance he requires from Virgil, Sexton is directing Mario's guidance, in the way that the video game player controls the character on screen. In the game itself, Mario is a pastor, moving through the world on a quest to save his friend Yoshi's friends (in the form of dinosaur eggs), 50 but also with the main objective of rescuing the Princess and freeing Dinosaur Land of the nefarious influence of various evil Koopas and the main adversary, Bowser: these creatures are reptilian, with spiky shells, and some have painful fire-breathing abilities, so there is not so much imaginative distance between cancer the crab and these Koopa-tumours, and Bowseror King Koopaas the embodiment of the disease itself. <ref type="bibr">51</ref> Pastoral and epic may seem distinct modes, but as Frank Kermode points out in his introduction to English Pastoral Poetry, "The restoration of the Golden Age is a theme of Virgilian Pastoral, and was naturally taken over in the Pastoral of the Christian era", not least because of the consonance of the hortus conclusus with Eden, and the birth of the golden child in Virgil's fourth eclogue with that of the Messiah. <ref type="bibr">52</ref> The heroic quest is closely related to pastoral ideasor for some, is even a version of pastoral with its tropes of sick lands that need healing, evils that must be slain, and the retrieval of a lost object concomitant with the recovery of the land and the killing of the poisoning thing. <ref type="bibr">53</ref> In the scheme of Super Mario World, Mario is the everyman figure reluctantly drawn from his leisure on holiday (and his day job as plumber), to fulfil multiple pastoral roles, heroically retrieving the Princessand in that processboth restoring Dinosaur Land to safety and retrieving dinosaur eggs that ensure the land's fertility.</p><p>One of the book's three epigraphs makes the identification between poet-speaker and Mario explicit, with the declaration "'It's a-me, Mario!'" 54 Taking on the persona or the outfit of Marioas a plumber, a shepherd of water, perhapsis the same as donning the "shepherd's weeds" of pastoral elegy that Schenck mentions, and the game characters are mythical figures just as valent as those populating the Classical canon. Only by retreat, by adopting this childish avatar, can the mourner move to adult understanding of death and the world without his mother, as well as redeem the pastoral world from the threat of oblivion. In the pastoral elegy quest, it is not possible to get back exactly to how the 49 Virgil's status as supreme pastoral poetfrom eclogues about herding life, through georgics providing a guide to farming, to an epic on how to lead a people and found a nationaccounts in part for why Dante chose hima non-Christianas a guide (Virgil died in 19 BCE). 50 Yoshi is a dinosaur-like creature who appears (and disappears) on certain levels of the game; Mario rides him, in the manner of knight and (somewhat) trusty steed. 51 Similarly, cactus spines in "Yoshi's Island 4" are presented as chemotherapy needles (If All … , p. 10). 52 Kermode, 14.   53   The landscape may also be metaphysical rather than physical, as in the spiritual focus of Sir Galahad's quest for the grail in Le Morte D'Arthur, or Sir Calidore's social concern, pursuing the Blatant Beast of slander and gossip in Spenser's The Faerie Queene. world once was, but how the world once waspastoralis used in order to get to a bearable place again, having enlisted the support of beneficent forces, defeating the enemies of that valued state. From the beginning the purpose of the quest cannot be to cure the mother's sickness or to save her from death, but to perform other pastoral roles related to her care: to offer emotional support, to ensure physical comfort, and ultimately, to curate her memory.</p><p>Sexton's particular rendering of Mario's catchphrase is significant: he chooses to hear it as "It's a-me"that is "one me", rather than the merely accentual "It's-a me". <ref type="bibr">55</ref> The identification is complex: when playing a video game the player might say things like "I died", rather than "he (the character) died"; at other times, the player might dissociate from the character, such as when digital instructions produce an unwanted result. Sometimes in the poems, the poet-speaker's voice is clearer than "Mario"'s voice or the voice of the console's CPU. Prosopopoeia like this may be expected in elegy, as a feature used to suggest the ways in which the living and their language have been formed by the dead, rather than to imply their resurrection. Indeed, Snyder suggests that pastoral and pastoral elegy can be performative or paradigmatic of the process of maturity, individuation, and separation: "Identity is born in the pain of separation as the surrounding world, once part of 'I', becomes 'not-I'." 56 However, as with the game's suggestion that there are many worlds, there are many selves in those worlds, and there is pleasure rather than pain in this process of becoming multiple. Identity is less a process of separation than accumulation, just as in the game, there are many versions of Mariosmall Mario, big Mario, flying Mario, swimming Mario and so on, depending on which power-up has been foundand there are potentially infinite Marios in terms of the number of "lives" that can be gained. In the same way, pastoral here is not a closed-off place, the fundamentally other place, because the locations of childhood home and video game are still accessible. The use of pastoral in Sexton's book is not replaying the pain of separation, of individuation, the elegiac sense of having to sever from an idyllic state; rather, it returns to the pastoral space and time at the same time as narrating the events of illness and death and mourning, to suggest less that states are separated from, more that they rise and declineporously and amorphouslyin prominence. An adult is still a child, reducible to childish reactions; a child can have adult-sized worries and fears; 57 different worlds are never fully closed off, a person is many identities for other people at any one time, and composed of many other people. In other words, the figure of Mario is still part of the adult poet's psyche, laid down as part of his coding.</p><p>Within the historical narrative of the poem, the disorientating world of illness parallels the present condition outside the poem, the disorientating world of grief in which the mourner lives, which itself parallels the initially disorientating world of the video game and its contextual childhood events. With these complex intersections, the pastoral figure herds words, emotions and events together, in order to regain control, deploying all the pastoral care that language can provide for a person. 58 In Sexton's book, the 55 "Donut Plains 1" makes the connection between Sexton and his younger brother with Mario and Luigi (the Super Mario Bros.): in visiting the home of relatives, he sees a photograph of them "as children formally posed / in green and red fleeces zipped up to the chin in any weather" (ibid., 15). 56 Snyder, 123.   57   This dynamic is suggested in the game's aggrandising power-up, the mushroom.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>58</head><p>This sense of herding words is affirmed in the consistency of the "pen" of the sixteen-syllable line; an agrarian consonance of lines of poetry and farming occurs in the word "verse" (Latin versus, "a turn of the plough").</p><p>biographical story is retold while the player moves through the levels of the game, replaying memory so that it forms an ordered narrative, progressing thoughts and feelings by means of preserving the actuality of the events, in a need conditioned by the destructive quality of time. In a beautiful poem, "Vanilla Fortress", the poet-speaker observes how grieving begins before death, just as in the long elegy, the death is indicated before it occurs in the narrative: the poet-speaker is swimming with "coelacanths rotting in the flooded fortress", considering the status of this fish, once believed extinct, and he imagines how the next life will find me happy and adrift pedaling the swans some bright day the sun names the boats one by one in the marina this will have been so long ago by then and I will have missed you for so long will I have missed you. <ref type="bibr">59</ref> Here "the next life" may refer to some future stage of the mourning process, while in this fluid environment, the coelacanth becomes a figure for the modifications that time will perform on the memory of the mother, assuaging the darkness and isolation of grief into the resurfacing or even resurrection of a bright, happy childhood memory in a real place, Bangor. The comma-less syntactical duality of the last lines allows two statements on the future, firstly the pained lament, "I will have missed you, / for so long will I have missed you"; and secondly the equally pained uncertainty, "I will have missed you for so long, / will I have missed you". The latter, wondering reading conveys both the distressing fear of forgetting and the diminution of feeling, and the attendant need to set this material in the fixed form of a memorial, even though the memorial, like memorythrough the actions of emotion, time, imagination, and present needinevitably "misses" the total reality of the person being memorialised.</p><p>In a demonstration of the complexity of pastoral elegy, as progress is made through the game, the mourner is gradually relieved of painful emotion, but this is inextricable from the anguish of losing contact, a pain that may be tempered by the more vividly the memorial object is established. This double sense of progress and distress is carried in the phrase that appears in the game after each completed level: "COURSE CLEAR!" The use of the word "course" may relate to rounds of chemotherapy, to the possibility of scans and body parts being clear of cancerous cells, figured as the defeated enemies of that stage. In mourning it may suggest the poet's gaining of emotional clarity, at the cost of memory landscapes cleared of the presences they once held. Mimetically, the long poem replays the action of both cancer and the need to counter it. In the game, the levels get harder, following the initial stages, where killer moles begin to burst out from beneath the skin of the earth in "Yoshi's Island 2"; the enemiesespecially the spiky end-of-level Koopas / tumoursbecome more difficult to kill, the physical challenges and puzzles more complicated. But in this sense the physical inimicality in the game becomes metaphorical of the metaphysical quest the mourner is undertaking; that is, both the protection of the memory of the mother against the threats of decay, forgetting, and being overwrittenthe game is, after all, set in Dinosaur Land, which gives an uncanny precedent for the total absence of humans from the earthand the need to get clear of the damaging or at least painful experience of grief. <ref type="bibr">60</ref> As the harmful forces gain strength, so they are countered on different levels: in the cancer narrative with surgery, technology, medical instruments, chemicals, and light; in the pastoral elegy scheme with all the technical ability with language the poet has, along with all the sense-making and supportive force of art and literature and film and things of the world enlisted for support in the quest, which are credited at the end of the book.</p><p>With this agonistic principle, where the creative destruction of cancer is matched by the vivid growth of the memorial work; there is a double expansion at work. Firstly, the landscape of Northern Ireland is mapped on to Dinosaur Land, or vice-versa: Lough Neagh provides the hole in the land to make Donut Plains, 61 the Marble Arch caves in Fermanagh are the many underground / mine levels of the game, the bewildering forest of grief near the poet's childhood home is the "Forest of Illusion", and the Albert Bridge in Belfast is "Butter Bridge 2". Secondly, the landscape of Northern Ireland takes its place in the world of pastoral poetry, from the childhood home, where the "carcinogenic bracken" darkly mirrors the "purple glow" of the heather island, "The Lake Isle of Innisfree", 62 to the swan pedalos of the Pickie Funpark in Bangor mentioned in "Vanilla Fortress" 63 that drift into the "Mysterious, beautiful" wild swans at Coole. <ref type="bibr">64</ref> In "Donut Secret 2", Sexton describes an icy journey in winter, following the cancer diagnosis at the Ulster Hospital: "The country roads we travel home by purple and glisten with frost / underneath the constellations and the Sagittarian moon." 65 This is a moving, muted allusion to "Lycidas", where the speaker calls upon the "gushing brooks" in the valleys around to provide tribute to the dead, to Throw hither all your quaint enamelled eyes, That on the green turf suck the honied showers And purple all the ground with vernal flowers. <ref type="bibr">66</ref> The commanding pastoral role of the speaker of "Lycidas", bringing the natural world to order, is bleakly ironic in Sexton's poem, given the great difficulty in accessing treatment for the condition, the "poisons / drawn from strange and peregrine trees flourishing in distant kingdoms" mentioned in "Yoshi's Island 2". <ref type="bibr">67</ref> As certain physical things in the mother's body are expanding and moving, so the range of the poem extends, journeying 60 In the same way, "Chocolate Island 1", a poem describing the Hale-Bopp comet, on its own non-human time cycle, prefigures the possibility of the light of the cometreturning in the futurerevealing the absence of humans on earth (ibid., 63).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>61</head><p>In "Donut Plains 1", "The lie of the land is the shape of the north of Ireland likewise / missing a lump from its body where the lake fills with eels zigzagged / from the Sargasso" (ibid., 15). 62 Yeats, 39.   63   See also "Yoshi's Island 4" (Sexton, If All … , 10).  Milton, 250. Milton's listprimrose, crow-toe, jessamine, white pink, pansy, violet, musk-rose, woodbine, cowslips, amaranthus, daffadillieshas a lineage stretching back to the Aeneid, where in VI:883-884, foreseeing the early death of Marcellus, Anchises calls for flowers: "manibus date lilia plenis, / purpureos spargam flores" ("Give me lilies with full hand: / let me scatter purple flowers") (Virgil, 568-569).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>67</head><p>In "Soda Lake", "The little rill of our river" that proceeds around a mile to a lake that "we some Sundays would walk to" (Sexton, If All … , 45), echoes the language of belonging encapsulated in Milton's neat rhyme: "For we were nursed upon the self-same hill, / Fed the same flock; by fountain, shade, and rill" (Milton, 241).</p><p>down into the body of family history (an uncle who emigrates to Australia and dies working in a Tasmanian mine), 68 through the island of Ireland, to Europe and North America and Africa, to submarine and subterranean layers, to volcanic and icy regions, to the realms of the air and the astronomical. The parallel becomes Dantean at certain points, 69 in the stratification of terrainunderworld, surface and airin a schema that suggests a possible trinity of Inferno (grief), Purgatorio (mourning grief), and Paradiso ("post"-mourning grief). The poem goes everywhere: the pipes that Mario descends lead to the underworld of the both vulnerable and amazing body which performs both physical actions and the ethereal forms of language; the levels where Mario flies with a cape test the limits of technological innovation and spiritual knowledge, the aspiration towards the world above; there are ghost houses and star worlds. This expansion carries the negative feeling of the uncontrolled growth of cancer, but it also parries that force, with a sense of imaginative exhilaration, a reacquaintance with or reaffirmation of the world's capaciousness, a recapitulation of the imaginative, psychological, and emotional worlds opened up as a child in the playing of the mother's gift of Super Mario World. The physical limitations and suffering involved in cancer are balanced with the unconstrained physical movements possible in the video game, something that indicates the freedom of the imagination and language to cope with forces that threaten them.</p><p>As the game and the poem progress, this expansion of rangethe finding of imagistic correlatives for experienceunsettles as much as it steadies. The practical work of pastoral elegy, pacing out distressing experience into lines, progressing steadily away from the harm, is not heroically redemptive here with regard to mortality. <ref type="bibr">70</ref> The rescue of the Princess in the game does not suggest analogically saving the mother from death or conferring the immortality of the soul. Progress induces the anxiety of time running out, of the second "death" of the tribute reprising the death of the loved person. The motive is to complete the quest in order to save her and the memory of her life from annihilation by means of art and memory, and thereby achieve comfort, if not consolation for the poet and other mourners, but one of the things the adventurer discovers on his quest is that memory is not photographic: it is changed by time; it can, like the action of faulty replications in cells, decay. To adapt the language of computing, a memory file is both readable and writeable, and because the latter, also overwriteable, erasable. Even if memory is conceived as digital, like a hard drive or a memory stick, these things can become corrupted and obsolete, inaccessible when the technology is no longer supported. <ref type="bibr">71</ref> The brain can no longer play its memories, or play them completely accurately; even if there is no corruption, the replayed memory is different, just as every stage of the video game can be played again and again, but never in exactly the same way. 72 68 Sexton, If All … , 16.   69   Such as in "Vanilla Dome 3" (ibid., 34). 70 John Donne in "The Triple Foole" delineates how "Griefe brought to numbers cannot be so fierce, / For, he tames it, that fetters it in verse" (Donne, 59).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>71</head><p>Two works of Irish literature that explore the links between technology and memory, elegy and self-knowledgeor the digital status of pastoralare Samuel Beckett's Krapp's Last Tape (1958), with its tape recorder, and Paul Muldoon's  "Yarrow" (1994), where memory is presented as different satellite television channels.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>72</head><p>In a double sense, the brain can play a memory like a person playing a video game, just as a person, like a character in a video game, is played or directed by memory day to day, or particularly affected by a memory whenever the brain plays it; memory can of course be hellish as well as heavenly.</p><p>Furthermore, even if the recording does not change significantly, time changes the perceiver, as Sexton makes clear in his observation in "The Changing Mountain", that "What I'm particularly interested in is the imperceptible change a photograph, say, undergoes when someone depicted in it has died; how these images seem, somehow, utterly changed without having changed at all." 73 Such modifications can happen indiscernibly; or even if they are known, they cannot be prevented. In "#5 Roy's Castle", the narrative of the poem and the biographical narrative intertwine in a cruel awareness, where the mother sits sewing as the radio plays Roy Orbison, 74 "the curtains she's making all drawn against the light against July", as "the sewing machine ticks so fast these small years go by in minutes." <ref type="bibr">75</ref> This piece gains even more pathos, given the association of sewing curtains with surgical stitches, and because it is known in advance that the cancer has not been eradicated: it may seem temporarily arrested, but it returns, with all the speed and force of its theoretically infinite replicability. <ref type="bibr">76</ref> Even silencethe absence of one sensory experience, representing one iteration of the diseaseis not reassuring or soothing, given that the fertility of recovery from cancer may also be the recovery of cancer: 77 in "Forest of Illusion 4", the healing of a wounda particular bodily wound, and the wounding time of illnessis looked towards in the future reassertion of beauty; but the rednesspresumablyof the roses uncomfortably indicates the possible efflorescence of the hostile force, demonstrating at the same time the powerlessness of pastoral against certain natural things, and its commemorative potency against other entropic forces. With the mother, the poet-speaker digs and beds rose bulbs in the garden: "Now that the wound is almost healed the nights go by so silently / that if you tried you'd almost hear the roses sleeping in their bulbs." <ref type="bibr">78</ref> The synaesthetic pun of "bulbs" concentrates a combination of dormancy and activity, sleep and light, off and on, implying that quiet is not necessarily reassuringhence the uneasy sense that the sleeping may be both audible and inaudible, even glowing underground; even if something is not detectable, it does not mean that it is not happening.</p><p>In an acute demonstration of the inefficacy of pastoral to change certain physical certainties, rather than smooth-petalled roses, the reappearance of cancer is figured in "Choco-Ghost House" by "this pain in my side like a bird in the holly tree / like there was something on fire." <ref type="bibr">79</ref> The poet-speaker is cast back to a holiday in Spain, where during a storm, "Power lines toppled like ships' masts", demonstrating that there is no idyllic vacation on the way after the trauma of illness the first time, no escape, given 73 Sexton, "The Changing Mountain". One of the conceptual multitudes contained in Sexton's book is the relationship between communal and personal: playing Super Mario World is a common memory for tens of millions of people, but nobody remembers the gameor plays or enjoys itin exactly the same way. In the community-directed impulse of pastoral elegy, the deeply personal rendering of that experience becomes generically representative, and related to / energised by readers' own childhoods / special times and places, even if they have never played the game; the poet-speaker's SMW memories may thus stimulate non-SMW memories in readers.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>74</head><p>One of the Koopas in the game is called Roy, named after the singer. 75 Sexton, If All … , 59.   76   The threatening super-vibrancy of the natural world is concentrated in "Donut Secret 1", a throbbing, insomniac grapefruit poem -"Night itself sleeps sweet on my chest and she quarters a bright grapefruit", where "quarters" alludes both to the quarters of the moon, and the butchering of execution, which figures worry over surgery (ibid., 20).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>77</head><p>This equanimous awareness of beauty and ugliness embodying the same growth principle is presented in "Vanilla Dome 1", where the cancerous cells / tumours under the skin are compared to "diamonds grown without a thimbleful of light" (ibid., 29). that, as the poem repeats at the end, reprising the sharp holly trees of "Yoshi's House" and "Yoshi's Island 2", "now there's this pain in my side." In the Super Mario video game series, the main antagonist Bowser is never defeated for good: he always reappears metastatically to upend the world again.</p><p>The return of the cancer sharpens the need to conserve the pastoral space of memory even more keenly, and the reader gains a painful sense of this in one of the heartbreaking poems about the terminal diagnosis. In "#6 Wendy's Castle", on an afternoon "bright and clear as a bell tolling on the hour", music "seeps from a radio playing at the nurses' station" as patients "shuffle by with their bones emerging from their thinning skins / from the necklines of their kirtles their blue cotton hospital gowns." <ref type="bibr">80</ref> In the separate room, the doctor apologises, saying that the treatment has not been effective. As traffic outside progresses to the coast or to barbecues for the summer solstice, the poetspeaker voices the mother's thoughts: I'm sorry she wanted to say my body won't cooperate my body's become overcome though she did not say anything but stared as if to recall how my face looked when she first saw me.</p><p>In the uncomfortable reprise of the gowns and kirtles of Marlowe's reality-denying poem, and in the cold pun of the Koopa-tumours in "cooperate", this piece demarcates the limits of intervention that medicine and poetryin their pastoral aspectscan perform. <ref type="bibr">81</ref> But if they are unable to reverse the damaging process, they must at least attempt to prevent further harm. Poetry can memorialise lastingly, it can create the joy of that beautiful light of seeing a child's face for the first time and the child seeing the world for the first time, in the lovely reciprocation of the worlds that each has opened up for the other. Just as the mother tries to frame that moment of inception here, in a rush of intense attachment occasioned by certain knowledge of the loss of that world, the son frames the range and multiplicity of that enabling force throughout his poem, as the brave little boy performing a quest to save his mother, as he learns to live in the world without her.</p><p>The poet-speaker moves through the levels of grief, the various stages or worlds, defeating baddies and bosses that threaten to prevent him saving the Princess, while performing his additional task of rescuing "friends" / dinosaur eggs and restoring peace to Dinosaur Land. He will complete the epic questthe game and the writing projectand yet his mother will die. With this in mind, the poem starts to consider where the dead can be situated, or what kind of salvation or redemption it is seeking. As in "Chocolate Island 3", which moves from twenty-four early photographs of a galloping horse in 1878, to the Wright brothers' first childhood plans "to leave the earth altogether", the elegy gathers towards thoughts of transcendence. 82 Historically, human powered flight might be one step towards the demystification of heaven, just as "Chocolate Island 1" progresses to an awareness of universal forces and timescales in which the human is at most peripheral, observing how 80 Ibid., 71. 81 Marlowe's poem reappears also in "Vanilla Dome 3", in the form of "A suit of salamander skin and gloves of stitched and softened tongues / and tail-lined slippers tough and fair to wear across the streams of fire" (ibid., 34). 82 Ibid., 66.</p><p>One clear night not so long ago we all stood out in the garden wondering up at the comet whose memory is very long who we hope still remembers us. <ref type="bibr">83</ref> Following the mother's death in the narrative, the action moves to Star World, and then to Special World, as the elegy rejects the anthropocentric stellification of John Keats in Shelley's "Adonais", or the paradisally consoling climb towards the stars of Dante's Comedy. In "Star World 1", solace is rootedly organic, earthly, as the poet-speaker remembers transplanting an annually-blooming rose bush so that it would be visible from the mother's window, in order to comfort her in her final days; now, however, above this ground floor room, the poet-speaker cannot sleep. <ref type="bibr">84</ref> The distress of insomnia in one sense figures the pain of immortality, of brightness impossible to switch off. Immortality is a cheat code, a condition suggested by "Top Secret Area", a location in the game where it is possible to acquire an unlimited number of lives. The poem consists of two columns, the first line of which reads:</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>I have been trying to tell you the secret of infinite lives: 85</head><p>There follows on the left nine times the phrase "she plants roses in the garden", and on the left, nine mutated replications, such as "she pliant flows in the journal", and "sea plants wrasses in the ocean". This in principle infinite dynamic suggests on the left the deranging order of immortality, the constant repetition of the same, and on the right, the inability to escape the bind, no matter what variation is attempted. Alternatively, the right-hand column may imply that "the secret of infinite lives" is not repetition of the same, but the errors in cellular replication that create evolutionary diversity, that without this tendency to diversity, life is dangerously finite. The bind is, of course, that accuracy in cellular replication is just as necessary for life, and additionally, for long and healthy life; the uncontrolled replication of cancer, which has begun in imperfect replication of cellular code, is a form of infinite life, the cell theoretically immortal. If infinite life in paradise embodies the same principle, the vision is existentially horrifying, but also metaphysically problematic: within the game, availing oneself of the cheat code lessens the challenge and the satisfaction of completing the game; by extension, if mourning, elegy and pastoral consolation were easy, then all would be without value. <ref type="bibr">86</ref> Limitation is productive: it confers worth, intensity of experience, and emotional acuity. Within the poem's narrative, the brevity of life is presented affectingly in "Valley of Bowser 3", where, in hospital, the mother says, "It's so short she says it's so short it doesn't feel like I've been here / at all and now I have to go", and laments that she will not get to see the next steps in the lives of her children and future grandchildren. <ref type="bibr">87</ref> Here, heaven would be the very reasonable, modest, and grounded desire for the life story to continue, to find out what happens next. Afterlife in "Valley Fortress" 83 Ibid., 63.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>84</head><p>Ibid., 87. 85 Ibid., 19.   86   It is important to make clear that pastoral consolationsuch as establishing the dead within a benign landscape, or accepting the resurgence of natureis not necessarily synonymous with the Christian sense of resurrection, or the eternity of the soul. 87 Ibid., 80.</p><p>is very definitely the pastoral place on earth, the poet's childhood house: "Then she says I want to go home once more for one once more one night / and I say you can't go home now she says I know not now after"; in writing this book, the poet is effectively doing just that, bringing his mother home again, establishing her enduringly in that benign landscape. <ref type="bibr">88</ref> One of the constitutional conceits of secular elegy is that if it is performed very well, the reward is the lasting resurrection of the dead, not in terms of soul and heaven, but in the quality of their living a long time and widely in memory. If the mourned person does not live forever, then at least in one sense she is not further away.</p><p>Death is not permitted to wipe out the past, and the creation of the world in language is reciprocation for the world that the mother gave to the poet. Whether this surge in cathexis brings comfort, or further anguish in the necessary separation from the world of the elegy, is an assessment the narrative moves towards, resistantly, delaying the end with a number of poems analysing the nature of memorial and the constitution of the monumental. The cathectic surge is presented vividly in "Tubular": in the game, Mario consumes a specific power-up that makes him balloon and float, and this figures the maternal "devotion", the transmission of breath that powered the son into the world, who now strains to contain a paean labouring under so many feet I have taken in a breath of the world so huge the rest of my life will be spent breathing the world into the world. <ref type="bibr">89</ref> This expansion of course contains an aspect of gravity or gravitas, part of the dynamic whereby the more beautifully the "paean" is birthed and realised, the more burdensomely or deflatinglyin the pun with "pain"the poet feels the reality that the mourned person will never see it: as Sexton writes in his Irish Times piece, "I regret in some ways that I can't show her the book and what I made from a photograph she took, but I regret in huge, indescribable, world-sized ways that I have something I might have shown her. I can't have it both ways. I can't have both worlds." 90 Another part of the weight of conscience is the ambivalence of the desire to excel: the poet wants to write a supreme work, the most excellent tribute; but at the same time, that work is in one sense valueless. No poet wants the elegy rather than the person the elegy celebrates. And then again, this new component of grief is counterbalanced with an awareness of elegy's limited scale, that each elegyeven a very long onehas a microcosmic or metonymic function, in constituting only a fraction of the world that was the mourned person, and the world that person created or enabled for the mourner; 91 as Sexton writes in "The Changing Mountain", "The amount of information associated with a person's life (biographical as well as private and emotional) is incalculably vast compared to what can be communicated in an elegy." <ref type="bibr">92</ref> In turn, however, such an 88 Ibid., 78.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>89</head><p>Ibid., 96. 90 Sexton, "For me, death and Super Mario have always been connected".</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>91</head><p>This particular game, released in 1990, carries something of this feeling, in the fact that its memoryits file sizeis less than that of a single photograph stored on a mobile phone today (512 KiB, as opposed to an approximate minimum of 1 MB). In this sense, the game seems like a single seed that germinated a whole forest. 92   Sexton, "The Changing Mountain". economical work has great power, floating the memory of its subject like a seed beyond the family and the immediate community, to plant in the minds of readers all over the world.</p><p>This diffusion, in the completion of the elegy, may offer some kind or degree of consolation. But consolation is complex: for some it may indicate solace and soothing, for others the simple alleviation of distress, or a shift in perspective, for others stillincongruous heresomething closer to recompense; and of course, consolation may be different for writer and readers. Can consolation be derived simply from not forgetting? How long does it last?is it irreversible, or does it fade and give way to grief again at some point? Is consolation even desirable, if it means any loss of contact with the dead? These are unanswerable questions. But in this case, it seems that completing the elegy does not necessarily process grief, although it does allow progress, a movingbeyond this point in time, having brought grief to numbers, or ushered its disorder into verses. It is necessary for the poet to do the elegy properly in two ways, both appropriately and completely. For some, using Super Mario World might seem improper, incongruous with the higher register and solemnity required of the ceremonial; yet pastoral elegy is fundamentally adoptive and adaptive, continuing to draw from the past while refreshing the tropes, settings and range; Sexton's book asserts the meta sense of pastoral elegy, wherein using the mode in order to save something constitutionally revivifies the mode, whether that is conceived as replenishing its stock, or planting it in new terrain. The book's fundamental need for completioncreating an entire thingis in itself a defence against Dominic Leonard's feeling thatdespite the "good handful of strong and moving poems" in the work -"at over a hundred pages, one wishes Stephen Sexton had resisted the temptation to turn his idea into a whole book"; such a statement may be a valid personal opinion, but as a critical assessment, it can be accurate only if its aim is to miss the point. <ref type="bibr">93</ref> The journey must reach its end, the "monument" of the book must be fully sculpted. Super Mario World has a double sense throughout the work: it is not just the instrument or apparatus by which mourning is performed, but also another thing that is threatened by death, something whose integrity has to be saved from oblivion. In beginning with the same phrase, "I tried to make a monument", three poems in the "Special World" section perform an elevation of tone as deliberately concrete as anything in the ascendence of Yeats's "The Tower", as the sequence builds away from the destructive repetitions of cancer. <ref type="bibr">94</ref> The first, "Gnarly", presents how the poet-speaker tried to make a monument out of the pink wisteria and to shape from the lands of light cartilage from cartography from rolling green and glowing plains 95 93 Leonard, "Porcu-puffers".</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>94</head><p>The word "monument" goes back to Horace's Odes, and the declaration that his poetic canon is more lasting than bronze (Horace, Odes III:xxx). Derek Mahon's response in "Heraclitus on Rivers" was that "even bronze is perishable", and that Horace's poem, its language, "and the idea of language, / All these things will pass away in time" (Mahon,  114.) This may be physically true, but Horace's range may well be human, rather than cosmological.</p><p>95 "I tried" may possibly echo the ceremony of Michael Longley's "The Evening Star", where on the day of a child's funeral, "So many crocuses and snowdrops came out for you / I tried to isolate from those galaxies one flower" (Longley, 33).</p><p>and numerous other elements, assembling them into one composed of light as you might say so you can see it friend not things themselves but the seeing of them the light stopping on them tree I adore you I adore you world. <ref type="bibr">96</ref> The catalogue of memories echoes the listing of Paul Muldoon's "Incantata", which voices throughout 360 lines "all that's left" of his life with the elegised woman, Mary Farl Powers. <ref type="bibr">97</ref> Such listing is equivocal because it declares that things as they were are really gone, and yet they continue to really exist in another form. For Sexton, the monument is instrumental, in allowing reconciliation with the world that has caused such pain, and exit to another desired state from the desired state of pastoral, in which the memory of the mother and the communitythe "friends" that made this landscape or this period of the poet's life possiblehave been credited or conserved. Leaving the pastoral world, completing the video game, finishing the composition, is the point of the verdict of reality, the moment of return to the real world which has been reconciled with, its hostilities at least temporarily diminished. Joys in the world have been rediscovered, and the strength they give has revitalised the mourner. "Gnarly" is a moment of resurfacing from the sub-world of memory, with the Mario figure a successful Orpheus, voicing the poetspeaker's return out of the marvellous as he knew it, in the pastoral elegy movement that revivifies the "real" world. But the sequence does not strongly reassert categories. It suggests that the real world is pastoral in the sense of its plenty and variety and delights; the real world is the pastoral world because it can create unreal, incredible things like Super Mario World, things that require protection. Elegy is in a sense a repopulation of the world that has been threatened with devastation by the death, as "Groovy" suggests in its ending: "when I returned to the empty house it was no longer empty." <ref type="bibr">98</ref> Pastoral elegy reopens the door to the real worldgiven the pun in "adore"in the spirit of acceptance, but it is an acceptance that knows the reality of what has been and can be lost.</p><p>At one and the same time, the monument is not enough and yet it must be enough. "Way Cool" painfully voices the awareness that the representation of the dead comes nowhere close to full alleviation of grief: as "The clock tick tocks at a gallop in the tiled cavern of the hall", the speaker-poet confides that Every other day I think I see her passing by the window or crossing a bridge or walking ahead of me in the village but this is the wrong universe among all the universes. <ref type="bibr">99</ref> This ending may have a precedent in the beginning of Patrick Kavanagh's "Memory of My Father"where "Every old man I see / Reminds me of my father"while it acutely observes the limits of consolation, in the stark economics of grief: the world is 96 Sexton, If All … , 95. There may be an echo here of Adore, the 1998 album by The Smashing Pumpkins, which is in large part concerned with the death of Billy Corgan's mother. worse without the mother, yet it is only ever good because she was in it. <ref type="bibr">100</ref> The syntax allows for three readings. Firstly, that this is the wrong (unfair) universe, since the mother has died so young. Secondly, this would be the wrong universe if the mother were a spirit here, still moving amongst the living, since such a thing is not possible. And thirdly, inversely, if there were one or more universes in all the universes in which the mother were still alive, this current universe would be both an ontological aberration and an unfair place. The syntax holds the irony of the deicticindicative, exclusive, and manifesting -"this", since it is impossible to decide which universe it is indicating. In this way, the language performs possibility while ostensibly excluding possibility, opening up while seemingly closing. The multiverse allusion is also a playful indication of the many verses of this long elegy: Sexton could write a verse in which the mother is immortally resurrected, but this would be wrong; at the same time, even though the mother is physically gone from this universe, she is still multiply presentphysically and metaphysicallyin those who survive her, and in these verses, this unified work.</p><p>The monument has established the pastoral time vividly, and in returning to its beginning in the second "Front Door" poem, the quest is completed: the defeat of the big enemy Bowser / King Koopain his airship during a lightning stormis placed within a description of the home place, of meteor showers, storm electrons, and the electricity of the television one evening that rose like the river then the flash with all of us in it and her voice moves around the edge of the world and now I think I remember what I mean to say which is only to say that once when all the world and love was young I saw it beautiful glowing once in the corner of the room once I was sitting in its light. <ref type="bibr">101</ref> In the game, part of this final level is in darkness, until a mirrorball is switched on; Princess Toadstool falls safely from Bowser's airship and kisses Mario in thanks, and he blushes. <ref type="bibr">102</ref> The elegiac process in the last three lines here makes clear that this light, this pastoral time, did actually exist. The two "Front Door" poems convey that in the completion of the quest, the homethe pastoral timehas been made knownin the manner of "Little Gidding"to the poet-speaker as if for the first time. There are three endings in the book: that of the video game, of the elegy, and that of the stage passed in the longer journey of mourning, which is only one within the bigger journey , the many griefs and mournings that will be experienced, if a full life is to be lived.</p><p>In this way, the book necessarily ends with a blessing, with the mourner ready to begin again, to open up once more after the ghosted state of elegy. "Yoshi's House" wishes for the reader to be comforted, their house to be "unhaunted": "And if you find some day dear friend my sad head upon your shoulders / go out into the world say world it's 100 Kavanagh, in Heaney and Hughes, 285. <ref type="bibr">101</ref> Sexton, If All … , 105. <ref type="bibr">102</ref> The adventure is over, and the couple, plus Yoshi and their friends, are set for a vacation; then there are fireworks.</p><p>been so long say world hello."<ref type="foot" target="#foot_5">103</ref> But the benediction is significant with regard to the ceremonial and communal aspect of pastoral elegy, its original community of herders. Comfort comes in the form of communitywithin the game, in the human community of technology and culture and art, in the community of pastoral elegy and poetry, and in the community of friends and relatives who help the mourner on his difficult journey. In turn, the poet can make progress through mourning by providing comfort to others; value can be gained in witnessing how other people value what the mourner is doing for them, as the end of "Funky" demonstrates, where, on a winter afternoon, "the storm crumbles the bank into the river and what can I say / this has not been easy thank you friend you are a super reader." <ref type="bibr">104</ref> This message is in emulation of the one that appears in the video game on its completion, where "YOU ARE A SUPER PLAYER!!" is spelled out in coins. There are further thanks in the long list of "CREDITS", all those people and things thatin a nod to the stellification or transcendence that may feature at the end of some elegyplayed a starring role in the poem, providing guidance and confidence, shepherding the mourner through. Salvation comes through community, not through the divine. The extensive list is, by implication, just a fraction of the world, a partial menagerie. But it demonstrates again how pastoral elegy is constructive against the destruction of death: it magpies, assembles bits and pieces from previous elegies, uses whatever is necessary to get through the journey of mourning.</p><p>The final aspect of the thank-you is the equivocal use of the word "easy", which is both sincere and ironic. Reading the book is not necessarily without difficulty, and it must not have been emotionally easy to write. But has it been easy in the sense of "easing"? "Easing" may mean loosening the severe hold of grief, reducing its intensity and thereby gaining emotional clarity, but something that stops short of absolute processing, or even consolation. But if in establishing itself so monumentally, the elegy has an alleviating effect, this is an abundant disproving of Johnson's contention about the triviality of pastoral in "Lycidas", a disproving which suggests instead that indeed "a little ease" can be "interpose[d]", that "dally[ing]" and "false surmise"the vibrancy of the imagination are vital for mourning and elegy. Only through the distraction, only by wanderingby being given time for leisurecan a way through be found. In revivifying pastoral elegy, providing poems based on a video game to repay the mother's gift of "the apparatus of love"the book is also an extensive, sustained, and forceful response to Walter Raleigh, whether his poem is cynically debunking Marlowe's poem, or naively idealistic, complaining that its pastoral is not perfect enough. <ref type="bibr">105</ref> It is delusional to think that everything in the countryside or in nature is benign. But it is equally delusional to believe that immortal things would have value, and to think that things do not last, that everything is annihilation, that nothing matters. What could be more counter-productive than writing a book for someone who will never read it? What could be more self-deluding than taking on the identity of a fictional character? Yet Sexton's long pastoral elegy, in adapting the conventions and expanding the range of the genre, demonstrates that instinctive, displacing activities are vital, in order to restore psychological and emotional wellbeing, and in order to feel the force of a once young and loving world which, the poet affirms, is ultimately young and loving still.</p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head>37Sexton,</head><label></label><figDesc>If All … , no page number.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_1"><head></head><label></label><figDesc>42Sexton, "The Changing Mountain". 43Sexton, If All … , 5.  </figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_2"><head>45Sexton,</head><label></label><figDesc>If All … , 10. 46 Ibid., no page number.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_3"><head></head><label></label><figDesc>47</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_4"><head>54Sexton,</head><label></label><figDesc>If All … , no page number.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_5"><head></head><label></label><figDesc>If All … , 22.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_6"><head></head><label></label><figDesc>66</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_8"><head></head><label></label><figDesc>If All … , 99. 99 Ibid., 97.</figDesc></figure>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="27" xml:id="foot_0"><p>Sexton, Interview with Elaine Canning.</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="28" xml:id="foot_1"><p>Sexton, "For me, death and Super Mario have always been connected".</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="29" xml:id="foot_2"><p>Sexton, "Rooney Prize for Irish Literature: Stephen Sexton in Conversation with Carlo Gébler".</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="30" xml:id="foot_3"><p>  Johnson, 409.   </p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="59" xml:id="foot_4"><p>  Sexton, If All … , 38.   </p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="103" xml:id="foot_5"><p>Sexton, If All … , 115. My Penguin paperback version has "upon on your shoulders"; this seems to be an unfortunate misprint: in the digital version of the book, the extra "on" is not present; Sexton says "upon your shoulders" when reading the poem in his acceptance speech for the Felix Dennis Prize for Best First Collection 2019, https://www. youtube.com/watch?v=KJSoen8cCyY.</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="104" xml:id="foot_6"><p>Sexton, If All … , 102.   </p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="105" xml:id="foot_7"><p>This refersin "Chocolate Secret"to the SNES in its box, seat-belted on the back seat of the mother's car (ibid., 67).</p></note>
+		</body>
+		<back>
+
+			<div type="acknowledgement">
+<div><head>Acknowledgements</head><p>The author wishes to express gratitude to <rs type="person">Stephen Sexton</rs> for permission to quote from If All the <rs type="funder">World and Love Were Young</rs>.</p></div>
+			</div>
+			<listOrg type="funding">
+			</listOrg>
+			<div type="annex">
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Disclosure statement</head><p>No potential conflict of interest was reported by the author(s).</p></div>			</div>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<analytic>
+		<title level="a" type="main">Patrick Kavanagh and antipastoral</title>
+		<author>
+			<persName><forename type="first">Jonathan</forename><surname>Allison</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">The Cambridge Companion to Contemporary Irish Poetry</title>
+		<editor>
+			<persName><forename type="first">Matthew</forename><surname>Campbell</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Cambridge</addrLine></address></meeting>
+		<imprint>
+			<publisher>Cambridge University Press</publisher>
+			<date type="published" when="2003">2003</date>
+			<biblScope unit="page" from="42" to="58" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<monogr>
+		<title level="m" type="main">The Complete English Poems</title>
+		<author>
+			<persName><forename type="first">John</forename><surname>Donne</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1991">1991</date>
+			<publisher>Everyman</publisher>
+			<pubPlace>London</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<monogr>
+		<title level="m" type="main">Some Versions of Pastoral</title>
+		<author>
+			<persName><forename type="first">William</forename><surname>Empson</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1950">1950</date>
+			<publisher>Chatto &amp; Windus</publisher>
+			<pubPlace>London</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<monogr>
+		<author>
+			<persName><forename type="first">Margaret</forename><surname>Ferguson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Mary</forename><surname>Jo</surname></persName>
+		</author>
+		<title level="m">The Norton Anthology of Poetry</title>
+		<editor>
+			<persName><forename type="first">Jon</forename><surname>Salter</surname></persName>
+		</editor>
+		<editor>
+			<persName><surname>Stallworthy</surname></persName>
+		</editor>
+		<meeting><address><addrLine>New York</addrLine></address></meeting>
+		<imprint>
+			<publisher>W. W. Norton</publisher>
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title level="a" type="main">Mourning and Melancholia</title>
+		<author>
+			<persName><forename type="first">Sigmund</forename><surname>Freud</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">The Complete Psychological Works</title>
+		<editor>
+			<persName><forename type="first">James</forename><surname>Strachey</surname></persName>
+		</editor>
+		<meeting><address><addrLine>London</addrLine></address></meeting>
+		<imprint>
+			<publisher>Vintage</publisher>
+			<date type="published" when="2001">2001</date>
+			<biblScope unit="volume">XIV</biblScope>
+			<biblScope unit="page" from="243" to="258" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">Terry</forename><surname>Gifford</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Pastoral</surname></persName>
+		</author>
+		<author>
+			<persName><surname>London</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1999">1999</date>
+			<publisher>Routledge</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<monogr>
+		<title level="m">The Rattle Bag. London: Faber and Faber</title>
+		<editor>
+			<persName><forename type="first">Seamus</forename><surname>Heaney</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">Ted</forename><surname>Hughes</surname></persName>
+		</editor>
+		<imprint>
+			<date type="published" when="1982">1982</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title level="a" type="main">On Milton&apos;s Poetry</title>
+		<author>
+			<persName><forename type="first">Samuel</forename><surname>Johnson</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Selected Writings</title>
+		<meeting><address><addrLine>London</addrLine></address></meeting>
+		<imprint>
+			<publisher>Penguin</publisher>
+			<date type="published" when="1968">1968</date>
+			<biblScope unit="page" from="408" to="430" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<monogr>
+		<author>
+			<persName><forename type="first">Frank</forename><surname>Kermode</surname></persName>
+		</author>
+		<title level="m">English Pastoral Poetry: From the Beginnings to Marvell</title>
+		<meeting><address><addrLine>New York</addrLine></address></meeting>
+		<imprint>
+			<publisher>W. W. Norton</publisher>
+			<date type="published" when="1952">1952</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<monogr>
+		<title level="m" type="main">Placing Sorrow: A Study of the Pastoral Elegy Convention from Theocritus to Milton</title>
+		<author>
+			<persName><forename type="first">Ellen</forename><surname>Lambert</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Zetzel</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1976">1976</date>
+			<publisher>University of North Carolina Press</publisher>
+			<pubPlace>Chapel Hill</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title level="a" type="main">Porcu-puffers</title>
+		<author>
+			<persName><forename type="first">Dominic</forename><surname>Leonard</surname></persName>
+		</author>
+		<ptr target="https://www.the-tls.co.uk/articles/porcu-puffers/" />
+	</analytic>
+	<monogr>
+		<title level="j">Times Literary Supplement</title>
+		<imprint>
+			<date type="published" when="2020-01-10">January 10, 2020</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title level="a" type="main">The Uses of Nostalgia: Studies in Pastoral Poetry</title>
+		<author>
+			<persName><forename type="first">Laurence</forename><surname>Lerner</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Longley, Michael. The Weather in Japan</title>
+		<meeting><address><addrLine>London; London</addrLine></address></meeting>
+		<imprint>
+			<publisher>Jonathan Cape</publisher>
+			<date type="published" when="1972">1972. 2000</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<monogr>
+		<title level="m" type="main">Collected Poems</title>
+		<author>
+			<persName><forename type="first">Derek</forename><surname>Mahon</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1999">1999</date>
+			<publisher>The Gallery Press</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">Peter</forename><forename type="middle">V</forename><surname>Marinelli</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Pastoral</surname></persName>
+		</author>
+		<author>
+			<persName><surname>London</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1971">1971</date>
+			<publisher>Methuen</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<monogr>
+		<title level="m" type="main">Complete Shorter Poems</title>
+		<author>
+			<persName><forename type="first">John</forename><surname>Milton</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1971">1971</date>
+			<publisher>Longman</publisher>
+			<pubPlace>London</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<monogr>
+		<title level="m" type="main">Poems 1968-1998</title>
+		<author>
+			<persName><forename type="first">Paul</forename><surname>Muldoon</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2001">2001</date>
+			<publisher>Farrar, Straus and Giroux</publisher>
+			<pubPlace>New York</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<title level="a" type="main">When the Moderns Write Elegy: Crane, Kinsella, Nemerov</title>
+		<author>
+			<persName><forename type="first">Celeste</forename><forename type="middle">M</forename><surname>Schenck</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Classical and Modern Literature</title>
+		<imprint>
+			<biblScope unit="volume">6</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="97" to="108" />
+			<date type="published" when="1986">1986</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<analytic>
+		<title level="a" type="main">For me, death and Super Mario have always been connected</title>
+		<author>
+			<persName><forename type="first">Stephen</forename><surname>Sexton</surname></persName>
+		</author>
+		<ptr target="https://www.irishtimes.com/culture/books/stephen-sexton-for-me-death-and-super-mario-have-always-been-connected-1.3991940" />
+	</analytic>
+	<monogr>
+		<title level="j">Irish Times</title>
+		<imprint>
+			<date type="published" when="2019-08-24">August 24, 2019</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<monogr>
+		<title level="m" type="main">Interview with Elaine Canning, Jaipur Literature Festival</title>
+		<ptr target="https://www.youtube.com/" />
+		<imprint>
+			<date type="published" when="2020-07">July 2020</date>
+		</imprint>
+	</monogr>
+	<note>watch?v = D5nV4HQjJCU</note>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<monogr>
+		<title level="m" type="main">Rooney Prize for Irish Literature: Stephen Sexton in Conversation with Carlo Gébler</title>
+		<ptr target="https://www.youtube.com/watch?v=ZIJd9vflDrg" />
+		<imprint>
+			<date type="published" when="2021-01-28">January 28, 2021</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<analytic>
+		<title level="a" type="main">The Changing Mountain</title>
+		<ptr target="https://poetrylondon.co.uk/the-changing-mountain/" />
+	</analytic>
+	<monogr>
+		<title level="j">Poetry London</title>
+		<imprint>
+			<biblScope unit="volume">96</biblScope>
+			<biblScope unit="issue">Summer</biblScope>
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<monogr>
+		<title level="m">If All the World and Love Were Young</title>
+		<meeting><address><addrLine>London</addrLine></address></meeting>
+		<imprint>
+			<publisher>Penguin</publisher>
+			<date type="published" when="2019">2019</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<monogr>
+		<author>
+			<persName><forename type="first">Susan</forename><forename type="middle">;</forename><surname>Snyder</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Spenser</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Milton</forename><surname>Marvell</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Stanford</surname></persName>
+		</author>
+		<title level="m">Pastoral Process</title>
+		<meeting><address><addrLine>London</addrLine></address></meeting>
+		<imprint>
+			<publisher>Longman</publisher>
+			<date type="published" when="1989">1998. 1989</date>
+		</imprint>
+	</monogr>
+	<note>Selected Edition</note>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<monogr>
+		<author>
+			<persName><forename type="first">Aeneid</forename><surname>Virgil</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="middle">H</forename><surname>Trans</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Rushton Fairclough</surname></persName>
+		</author>
+		<title level="m">Wordsworth, William. Selected Poetry and Prose</title>
+		<meeting><address><addrLine>Cambridge; London</addrLine></address></meeting>
+		<imprint>
+			<publisher>Routledge</publisher>
+			<date type="published" when="1956">1956</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<monogr>
+		<title level="m" type="main">The Collected Poems</title>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">B</forename><surname>Yeats</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1996">1996</date>
+			<publisher>Simon &amp; Schuster</publisher>
+			<pubPlace>New York</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

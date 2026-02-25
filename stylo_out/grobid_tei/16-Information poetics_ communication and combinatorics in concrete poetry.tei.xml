@@ -1,0 +1,576 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Information poetics: communication and combinatorics in concrete poetry</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author role="corresp">
+							<persName><forename type="first">Kurt</forename><surname>Beals</surname></persName>
+							<email>kbeals@wustl.edu</email>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Germanic Languages and Literatures</orgName>
+								<orgName type="institution">Washington University in St. Louis</orgName>
+								<address>
+									<settlement>St. Louis</settlement>
+									<region>MO</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Information poetics: communication and combinatorics in concrete poetry</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date/>
+						</imprint>
+					</monogr>
+					<idno type="MD5">58F4271515A5594D56C2580AEE7AEF2D</idno>
+					<idno type="DOI">10.1080/14735784.2024.2347987</idno>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.0" ident="GROBID" when="2026-02-25T19:54+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term>Concrete poetry</term>
+					<term>information theory</term>
+					<term>entropy</term>
+					<term>redundancy</term>
+					<term>Max Bense</term>
+				</keywords>
+			</textClass>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>While Max Bense advocated information aesthetics primarily in his theoretical works, many Concrete poets applied the principles of information theory and modern communications technologies to their poetry, whether or not they explicitly embraced Bense's analytical framework. As Eugen Gomringer (the 'father' of German-language Concrete poetry) wrote in his manifesto 'from line to constellation': 'our languages are in the process of formal simplification. reduced, terse forms are emerging'. But Concrete poetry was notable not only for its concision, or for the visual and spatial emphases generally said to characterise it; rather, many Concrete poets also employed algorithmic or combinatoric methods or used repetition and variation in ways that mirrored the functions of redundancy and entropy in Claude Shannon's theory of communication. With Bense's information aesthetics as background, this essay will explore how the concept of information shaped the practice of these Concrete poets.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Introduction</head><p>Concrete poetry has long been viewed as a movement that shifted attention away from meaning and onto the material of language: the word, the letter, even the blank space of the page. Of course, this mid-twentieth-century movement was hardly the first to take this step: Mallarmé had famously told Degas that 'poems are not made of ideas. They're made of words' (quoted in <ref type="bibr" target="#b24">Valéry 1960</ref><ref type="bibr">, II:1324)</ref>; the Dadaist Raoul Hausmann had created poster poems 'based directly and exclusively on the letters, they were lettrist <ref type="bibr">' (2004, 57)</ref>; William Carlos Williams had argued in 1944 that ' <ref type="bibr">[a]</ref> poem is a small (or large) machine made of words', continuing: 'When I say there's nothing sentimental about a poem I mean that there can be no part, as in any other machine, that is redundant' <ref type="bibr">(1986, II:54)</ref>. While Williams' description of a poem as a machine could easily be applied to many works of Concrete poetry, his rejection of redundancy is a less comfortable fit; many Concrete works employed redundancy for aesthetic effect, exploring the poetic potential of repetition and minor variation.</p><p>In fact, what truly set Concrete poets apart from their avant-garde predecessors, I will argue, was not their focus on words or letters, or even on the material or spatial attributes of the text. Rather, the distinguishing feature of much Concrete poetry was its explicit incorporation of principles and structures drawn from early developments in computation and the theory of information and communication, including entropy, redundancy, and algorithmic, combinatoric, iterative, or permutational forms. Inspired in part by technological principles and practices, Concrete poets proposed new methods and justifications for composing poems that incorporated only a few fundamental building blocks, but repeated, varied, and arranged them in ways that drew attention less to the meaning of those components than to the pattern of their distribution. While discussions of Concrete poetry often focus on typography and the visual form of the poem, I will argue in this essay that this engagement with theories and technologies of information remains an underexplored but vital legacy of the movement, and its most explicit confrontation with the radically new ways of thinking about language that emerged in the years during and after the Second World War.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Concrete confusion, or, one bad apple?</head><p>Reinhard Döhl's 'apfel mit wurm' ('apple with worm') is one of the first works cited in many discussions of Concrete poetry written in German <ref type="bibr">(Gomringer 1972a, 38)</ref>, and this article will be no exception. Döhl's apple frequently stands in pars pro toto for Concrete poetry in anthologies and literature textbooks, and has unquestionably shaped the movement's image in the popular, and even the scholarly, imagination. The exemplary status of this apple has contributed to characterisations of Concrete poetry that disproportionately emphasise not only its visual aspects broadly speaking (such as the frequent use of sans serif fonts), but also the melding of word and image in particular; such discussions typically include a perfunctory nod to previous instances of visual poetry in classical and Baroque literature. In reality, though, image poems represent only a small minority of Concrete poetry, and Döhl's apple is not even a particularly good example of this subgenre; whereas some visual poems employ inventive typographical strategies to create a seemingly organic unity of word and image (see George Herbert, 'Easter Wings'), Döhl's apple is simply cut out, as if with scissors, from the seemingly infinite repetition of 'apfel apfel apfel', interrupted only by a single occurrence of the word 'wurm'. Gerhard Rühm's assessment -that Döhl's poem 'belongs on the joke page of a magazine rather than in a serious literature lexicon or an anthology of concrete poetry' (quoted in <ref type="bibr">Hilder 2016, 248-249n3)</ref> -has a certain appeal; it is far from clear that 'apfel mit wurm' is anthology-worthy poetry, or even that it is poetry at all and not a mere word (or worm) search.</p><p>But while the visual form of Döhl's 'apfel' is neither brilliantly original nor truly representative of the larger field of Concrete poetry, in another respect this work does reflect a tendency that is both more typical of Concrete poetry and more indicative of the movement's relationship to its historical moment. The characteristic of the poem that interests me here is its use of repetition and variation. Against a background of so many occurrences of the word 'apfel' (the word appears 56 times in its entirety, and various smaller apple slices extend to its edges), the word 'wurm' stands out as the single exception to this uniformity. To borrow Gregory Bateson's frequently misunderstood characterisation of information, the 'wurm' in this work is 'a difference that makes a difference' 1 -surely it makes a difference whether the apple contains a worm or not. In this sense, 'apfel mit wurm', like many other Concrete poems, can usefully be understood as an experiment that tests the creative potential of two key, contrasting principles of information theory: entropy and redundancy.</p><p>The canonical definition of these terms, for the purposes of information theory, was given by Claude Shannon. In his 1948 article 'A Mathematical Theory of Communication' and subsequent works such as 'Communication in the Presence of Noise', Shannon laid out a theory that defined information in terms of uncertainty or entropy (a concept borrowed from the field of thermodynamics), while also establishing the necessity of redundancy to successful communication. Shannon defined the 'fundamental problem of communication' as 'that of reproducing at one point either exactly or approximately a message selected at another point', arguing that the less is known about the 'statistical structure' of the source of the message, the more information must be transmitted in order for the message to be successfully reconstructed at its destination <ref type="bibr">(1993,</ref><ref type="bibr">5,</ref><ref type="bibr">11)</ref>. The greater the entropy of the source, the greater the amount of information that must be sent. In principle, an ideal communication system would encode this information in a way that allowed it to be transmitted as efficiently as possible. However, the presence of noise in the communication system introduces the possibility of error, and requires that the signal sent from the transmitter to the receiver incorporate a certain amount of redundancy in order to ensure that it is received correctly. Redundancy varies inversely with entropy; as <ref type="bibr">Shannon writes, '[o]</ref>ne minus the relative entropy is the redundancy <ref type="bibr">' (1993, 24)</ref>. Thus any increase of redundancy will decrease the amount of information contained in the signal, and consequently decrease the efficiency of the communication. The aim of the engineer or cryptographer, then, is to strike a balance between the two extremes of maximum redundancy and maximum efficiency, encoding the message in a form that is relatively efficient to transmit, yet relatively likely to be received with little or no error.</p><p>Concrete poets, of course, were not constrained by these technical limitations. Nonetheless, many poets associated with this movement incorporated Shannon's principles and other concepts of information and communication into their creative works, and even into their exhibits and publications. Most notably, Max Bense included a stochastic text produced by Shannon in a 1959 exhibit of Concrete poetry at the Technische Hochschule in Stuttgart <ref type="bibr">(Wrobel 2019, 297)</ref> and made frequent reference to Shannon's works in elaborating his own 'information-theoretical aesthetics'. Bense's theoretical project deviated in fundamental ways from Shannon's model, and the merits of Bense's framework are debatable, as the discussion below will show. Nevertheless, his theory can serve as a helpful guide for an approach to Concrete poetry that takes seriously its substantial debt to mid-twentieth-century developments in the principles and practices of information and communication. Poets such as Eugen Gomringer not only made reference to the theories and technologies of modern communication in manifestos and other programmatic texts, they also employed iterative and combinatoric methods modelled on simple computational algorithms, and used repetition and variation in their poems in ways that mirrored the functions of redundancy and entropy in Shannon's 1 Bateson's actual statement is: 'A "bit" of information is definable as a difference which makes a difference' <ref type="bibr">(Bateson 1971, 443)</ref>. In the context of Döhl's poem, which (aside from its title) contains only two words, those two words might be understood (in an extended sense) as the two values in a sort of binary code in which 'apfel' and 'wurm' are the only possibilities; thus 'wurm' would represent one bit of information.</p><p>theory. Bense's information aesthetics offers a framework for understanding how the theory of information shaped the practice of Concrete poetry.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Aesthetics as information: Bense's borrowings</head><p>Bense's theoretical works exhibit an eclecticism that can at times prove exasperating. Just as the amount of information in a system is a measure of its degree of organization, so the entropy of a system is a measure of its degree of disorganization: and the one is simply the negative of the other. <ref type="bibr">(1965,</ref><ref type="bibr">11)</ref> Information, for Wiener, is 'negative entropy' -a local increase in organisation (whether by human agency or other means) within a system that tends, on the whole, towards greater entropy.</p><p>While either Shannon's definition or Wiener's can be used as the basis for an internally consistent understanding of information, any attempt to synthesise the two without resolving the terminological inconsistency can only lead to confusion. However, Bensewho frequently cited both authors, and invited Wiener to Germany for lectures in 1955neglects to address the differences between the two theories. While generally treating information as positively correlated with entropy (as Shannon does), at times Bense argues that the creative processes of aesthetics, unlike the natural processes of physics, tend towards orderly, improbable arrangements of elements -a view more in line with Wiener's than with Shannon's -and he glosses over differences by referring to 'the general communications-technical information theory of Wiener, Shannon, [Warren] Weaver, etc.' <ref type="bibr">(1965,</ref><ref type="bibr">(264)</ref><ref type="bibr">(265)</ref>. But Bense's aim is not to offer a comparative analysis of these theories, but rather to show how a mathematical approach to the role of uncertainty in the technical task of communication can be extended and adapted in order to provide a quantitative, objective method for the analysis of aesthetic objects and the 'aesthetic information' that they provide. Indeed, the task of defining 'aesthetic information' or the 'aesthetic state' of an object and distinguishing it from the 'physical and semantic state <ref type="bibr">' (1998b, 421)</ref> presents a key challenge for Bense's aesthetics; as he concedes, 'A central problem of text theory, and of statistical aesthetics as such, is <ref type="bibr">[…]</ref> the differentiation between the semantic and aesthetic information that a text provides' <ref type="bibr">(Bense 1962, 124)</ref>. It is certainly debatable whether this problem is ever satisfactorily resolved; its complexity can be seen in Bense's 1969 kleine abstrakte ästhetik (small abstract aesthetics), in which he defines the 'aesthetic state' on one page as 'the relatively extreme and objective state of all objects and events of more or less artistic origin that come under consideration, insofar as it can be differentiated from the physical and semantic state of these objects or events', but allows on the next that 'meanings, conceptions, words, fictions can also be the mediums of aesthetic states <ref type="bibr">' (1998b, 421-422)</ref>. In his Theorie der Texte (Theory of Texts), Bense similarly distinguishes between semantic and aesthetic information, but concedes that 'the semantic information of a series of material elements or signs can also serve as the carrier of aesthetic information, entirely independent of its material constellation <ref type="bibr">' (1962, 57)</ref>. The explanation of this apparent contradiction seems to lie in Bense's insistence that the 'aesthetic character of a text depends on the statistical surprises in the materials employed (words, etc.) and their distribution, i.e. on the deviation of certain stylistic characteristics from conventional values <ref type="bibr">' (1961, n.p.)</ref>; 'this statistical rendering […] is indifferent to distinctions like form and content, representationalism and nonrepresentationalism, material and meaning, sign and sense <ref type="bibr">' (1962, 123)</ref>. In other words, either the form or the content of a work, or both, may deviate from conventional norms in statistically measurable ways that thus provide 'aesthetic information'.</p><p>In this way, Bense transforms Shannon's descriptive characterisation of the relationship between unpredictability and information (namely, that the less is known a priori about an information source, the more information must be transmitted to successfully communicate a message) into a normative judgment that defines the aesthetic state of a work in terms of its statistical novelty. Citing D. W. Herschberger's assertion that 'the essence of information is unpredictability', Bense declares: 'Only information that is new is real information <ref type="bibr">' (1965, 278)</ref>. When applied to aesthetics, this yields an ostensibly objective basis for the valorisation of novelty and innovation in modernist and avantgarde literature and art. This emphasis on novelty is not entirely Bense's invention; Shannon's definition of information also requires the introduction of something unknown: 'If there were only one possible message there would be no information; no transmission system would be required in such a case, for this message could be on a record at the receiving point' <ref type="bibr">(Shannon 1993, 173)</ref>. But Bense transforms this strictly defined uncertainty (e.g. 'What is the first letter of the telegram?') into an argument that more original aesthetic works can be demonstrated to contain a greater quantity of 'aesthetic information' -a more tenuous claim.</p><p>Other concepts undergo similar reimaginings. Drawing on Shannon's incorporation of probability into his information theory, Bense claims a role for probability in information aesthetics as well, arguing: 'the artwork has no definitive reality, rather only probability <ref type="bibr">' (1965, 265)</ref>. This claim is puzzling on its face; while probability may easily be seen to play a role in deciphering encrypted or garbled messages, or even in the works of a modern composer like John Cage, a poem in a book or a painting on the wall of a gallery would seem to represent a more definitive reality. However, Bense's assertion appears to rest on the indeterminacy entailed in the process of aesthetic creation, whether by human creators or by stochastic computational processes. The statistical measure of entropy, he argues, doubtless reflects the fact that every authentic work of art bears the traces of a process of emergence that was constantly accompanied by ignorance of what is actually emerging-bears them so clearly that it can fundamentally be understood only as an act, as a process, relative to the possibilities, to the potential of the material repertoire. <ref type="bibr">(1962,</ref><ref type="bibr">52)</ref> Even the finished work, Bense suggests, ought to be understood as only one of the many possibilities that might potentially have been realized. As Siyu Dai writes:</p><p>The indeterminacy which is a significant component of art in Bense's view means, for Bense, nothing other than the category of originality, which is immediately identical with creativity.</p><p>[…] Thus art in the age of technology does not lose its originality, because the modern technology that produces it is no longer purely mechanical and in that sense uncreative. Rather, by applying its production method to a material repertoire, it is capable of producing an art object with an indeterminate aesthetic state. (2019, 287; see also <ref type="bibr">Herrmann 2019, 205)</ref> Whereas a machine operating according to the deterministic principles of classical physics could only yield pre-determined results, the probabilistic procedures employed in information theory and applied in computing allow the production of unforeseeable results, and thus -at least in Bense's view -incorporate indeterminacy into the work itself.</p><p>Dai's reading draws an important connection between various facets of Bense's aesthetic theory -its quest for precision, on the one hand, and its demand for creativity and innovation, on the other -and the philosophical problems that had long concerned him. In his 1946 essay 'Der geistige Mensch und die Technik' (The Intellectual and Technology), Bense had considered the 'existential difference between the Laplacean demon and the Platonic spirit', that is, between mechanical or technological determinism and intellectual freedom. The essay invoked the 'deep fear that our intellect has of technical perfection', raising the question of human resistance to technological determinism that would be a theme of Bense's later work as well <ref type="bibr">(2004,</ref><ref type="bibr">42,</ref><ref type="bibr">40)</ref>. However, the response that he advocated in this essay was not a rejection of technology, but rather a greater understanding of it: 'One does not escape from technology by unlearning physics <ref type="bibr">' (2004, 43)</ref>. Instead of lapsing into irrationalism or anti-rationalism, Bense developed an approach that he referred to as 'existential rationalism <ref type="bibr">' (1998a, 3:154-158)</ref>, one that would embrace the rational methods of science and technology but reject deterministic forms of materialism, finding room precisely in the realm of aesthetic creation for the realisation of freedom <ref type="bibr">(Bense 2004, 41)</ref>.</p><p>In this sense, Bettina Thiers is right to note that Bense represented a particularly pronounced 'technical-rational tendency within the [Concrete poetry] movement' <ref type="bibr">(2019,</ref><ref type="bibr">262)</ref>. However, as already noted, Bense's enthusiasm for rational, scientific, and technological progress was tempered by his concern with the consequences of the fully calculable, deterministic life that might result <ref type="bibr">(Dai 2019, 275-276)</ref>. This partly explains why Bense was drawn to Shannon's information theory, which gave a prominent place to stochastic procedures and considerations of probability, allowing room (in Bense's adaptation) for innovation, originality, and creativity within an objective, rational aesthetic system. The marriage of reason and indeterminacy that Bense saw exemplified in Shannon's information theory had crucial implications for aesthetics, as he argued in his Einführung in die informationstheoretische Ästhetik (Introduction to Information-Theoretical Aesthetics): 'Only such a rational-empirical, objective-material conception of aesthetics can do away with the general speculative babble of art criticism and put an end to the pedagogical irrationalism of our academies <ref type="bibr">' (1969, 8)</ref>. Bense thus expressed the desire to develop an 'objective and material aesthetics that works not with speculative, but with rational means <ref type="bibr">' (1969, 258)</ref>. The motivation for Bense's incorporation of probability into his analysis is thus comprehensible; its implementation, though, is another matter. If, as appears to be the case, Bense means to suggest that the aesthetic value of a finished work can be determined by calculating the statistical probability of that particular work being created (as opposed to any other work that might possibly be created on the basis of the same material repertoire), it is less than fully clear what such an analysis would look like in practice, and Bense's own examples, such as references to James Joyce and Gertrude Stein, are not fleshed out in sufficient detail to demonstrate the theory's merits.</p><p>Similar questions of application plague Bense's employment of the concepts of entropy and redundancy. As noted above, Bense generally (though not invariably) follows Shannon in identifying entropy with information. Just as Shannon borrowed the term 'entropy' from thermodynamics and applied it to information theory, Bense in turn imports this concept into the field of aesthetics. There, entropy becomes part of an expanding cluster of terms that Bense uses more or less interchangeably, including 'information', 'novelty', 'innovation', 'originality <ref type="bibr">', and 'improbability' (1962, 17)</ref>. In this regard, entropy is positively correlated with the aesthetic state of a work. However, he argues, complete innovation, in which there were only new states, as in chaos, would not be recognizable either. chaos is ultimately not identifiable. the recognisability of an aesthetic state requires not only the recognisability of its singular innovation, but also its identifiability by means of its redundant characteristics of order. <ref type="bibr">(1998b, 432)</ref> Or as he puts it elsewhere: 'information must be supplemented by redundancy <ref type="bibr">' (1962, 1:354)</ref>.</p><p>Some patience is required to make sense of this passage. In Shannon's theory, entropy is strictly correlated with information; the greater the entropy of the source, the greater the amount of information that must be transmitted. Redundancy enters into Shannon's theory only as a matter of technical necessity. Bense transforms Shannon's notion of entropy or unpredictability into a concept of originality or novelty; conventional texts are judged to contain a small amount of aesthetic information, whereas unconventional / original / innovative / creative texts contain a larger amount of aesthetic information. However, as Bense notes in the passage quoted above, a text of maximum entropy would be one in which letters are simply arranged at random, which would seem to represent an aesthetic dead-end (which had already been explored by Dada and other earlier avantgardes). Thus redundancy enters into Bense's system not for technical reasons, as in Shannon's, but rather in order to account for the balance of order and innovation required in aesthetic works. In view of this necessity, Bense ultimately posits two separate 'classes of aesthetic states and thus of artistic objects: first the class of artworks whose aesthetic state is based on redundancy, on order, and then the class of those that create an aesthetic state that is creative <ref type="bibr">' (1969, 59</ref>). In other words, an aesthetic work can be distinguished either by its high degree of predictability and order or by its high degree of unpredictability and disorder -the former corresponding to Wiener's definition of information, the latter to Shannon's (though Bense does not make this correspondence explicit).</p><p>This distinction might reasonably be seen as an ad hoc solution intended to ensure the compatibility of aesthetics and information theory, and Bense certainly runs the risk that Shannon warned of in his brief 1956 essay 'The Bandwagon', as enthusiasm for information theory spread to unrelated disciplines:</p><p>It will be all too easy for our somewhat artificial prosperity to collapse overnight when it is realized that the use of a few exciting words like information, entropy, redundancy, do not solve all our problems. […] the basic results of the subject are aimed in a very specific direction, a direction that is not necessarily relevant to such fields as psychology, economics, and other social sciences. <ref type="bibr">(1993,</ref><ref type="bibr">462)</ref> Nonetheless, Bense's consideration of entropy and redundancy as key terms for a theory of aesthetics proves illuminating with respect to Concrete poetry, highlighting the extent to which this mid-twentieth-century movement was influenced by concepts drawn from computing and post-war theories of communication and information.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Concrete computing</head><p>This connection, it should be noted, was hardly a trade secret of the Concrete poets. In his manifesto 'vom vers zur konstellation. zweck und form einer neuen dichtung' (from line to constellation. purpose and form of a new poetry), Eugen Gomringer had argued for the necessity of new poetic forms that kept pace with new technologies of communication: 'for rapid communication the phone call is better suited than the letter, the radio better suited than the press <ref type="bibr">' (1972b, 155)</ref>. In a spirit much like Bense's, Gomringer criticised 'irrational' tendencies in contemporary poetry, arguing that the poetry of our time and the poetry of the future, a time that will probably be even more consciously organised, cannot-if it wishes to serve society-content itself with expressing individualistic feelings and thoughts in a language that primarily interests a few eager interpreters. <ref type="bibr">(1972b, 156)</ref> But it was not only in its goals that poetry, in Gomringer's view, ought to adapt to the realities of the modern age. In a brief discussion of his Spanish-language poem 'avenidas', Gomringer noted: one sees that combinatorics is one resource of the constellation: never has it been possible for mathematics to have a more direct influence on poetry. and one sees in addition that the constellation can combine mechanistic and intuitive principles in their purest form. <ref type="bibr">(1972b, 160)</ref> Much as Bense argued that technical rationality was compatible with freedom (as seen in its aesthetic manifestations), Gomringer claimed for his combinatoric poems a balance of mathematical structure and intuition.</p><p>In subsequent essays, Gomringer further developed this pragmatic view of poetry, holding that Concrete poetry was not a 'release valve for all sorts of feelings and thoughts, but rather an area of linguistic design with a close connection to modern, scientifically and sociologically grounded communication tasks'; a few years later he explicitly invoked information theory and cybernetics as models for Concrete poetry, and named 'repetition and combinatorics' among the key formal features of the movement <ref type="bibr">(1998,</ref><ref type="bibr">19,</ref><ref type="bibr">23,</ref><ref type="bibr">73,</ref><ref type="bibr">29)</ref>. By 1969 Gomringer was even posing the question: 'where does the poet have his place in the face of this development, in this environment that is developing in part metaphysically, in part in a technical-visionary manner, as if from computers?' (1998, 67). Gomringer's invocations of new theories and technologies of communication had their counterpart in works of the Noigandres group, the poets -Augusto de Campos, Haroldo de Campos, and Décio Pignatari -who independently conceived of Concrete poetry in Brazil and joined forces with Gomringer in launching it as an international movement. In their 1958 'Pilot Plan for Concrete Poetry', they wrote: 'Control. Cybernetics. The poem as a mechanism regulating itself: feed-back. Faster communication (problems of functionality and structure implied) endows the poem with a positive value and guides its own making' <ref type="bibr">(Campos 2007, 219)</ref>. The metaphor of cybernetics -one employed at times by <ref type="bibr">Bense as well (1960, 126)</ref> -not only referred to the actual integration of iterative or recursive processes into certain Concrete poems (a formal analogy to the feedback loops described by cybernetics), but also linked the aims and sensibility of Concrete poets to a cutting-edge scientific paradigm closely tied to new developments in information and communication theory.</p><p>The anthology konkrete poesie, a collection of German-language Concrete poetry edited by Gomringer and first published in 1972, contains many poems that exemplify this use of repetition, variation, and algorithmic structures. Since many Concrete poems were published in periodicals or books with limited print runs and are not easily available, the following discussion will primarily consider works included in Gomringer's anthology; however, the formal features of the poems under discussion are widely represented throughout the movement. At the same time, this selection makes no claim to comprehensiveness; rather, it aims to emphasise one tendency in Concrete poetry that has been under-recognised in the movement's reception. My concern here is primarily not with texts that were actually produced on computers, like the stochastic texts produced by Bense's student Theo Lutz, but rather with texts that in some way reflect or demonstrate principles of computation or information theory, although they were composed by human authors.</p><p>This dimension of Concrete poetry has not gone wholly unnoticed by scholars; Bettina Thiers, among others, has noted that 'Concrete poetry uses specific, sometimes mathematical and statistical methods to work with linguistic material, such as systematic permutations in accordance with particular mathematical principles <ref type="bibr">' (2019, 263)</ref>. Jamie Hilder has recently considered the application of these principles and methods in Concrete poetry, writing: 'Early computer technology, which was driving a mathematical understanding of communication and language, changed the way poets thought about methods of composition, and possibilities for expression. Grids, lists, and lexical permutations point to a reconsideration of poetic subjectivity <ref type="bibr">' (2016, 35)</ref>. These observations will guide my analysis in this section. While Bense's borrowings from information theory may have been the most extended and theoretically ambitious, the poetic works of many other Concrete poets also exhibit a concern with the implications of new, quantitative and probabilistic understandings of language. Even when computing technology is neither employed in the production of these poems nor referenced in their content, the structure of these poems, characterised by repetition and variation, permutation, and other algorithmic processes, reflects an awareness that post-war theories and technologies of language have both expanded and disrupted the field of poetic composition.</p><p>Repetition or redundancy took a number of forms in Concrete poetry. In some cases, a single word was simply repeated over and over in a regular pattern. Gomringer's poem 'est est est', for instance, repeats the word 'est' nine times in three rows of three <ref type="bibr">(1995,</ref><ref type="bibr">16)</ref>, while Hans Hofer's 'schnee', published in Gomringer's magazine spirale, consists entirely of the word 'schnee' repeated thirty-six times in nine rows of four <ref type="bibr">(1954,</ref><ref type="bibr">19)</ref>. Gomringer's poem could perhaps be seen as a play on the double meaning of the French 'est' (such that it could mean either 'is is is', merely asserting existence, 'east east east', or perhaps the tautological observation 'east is east'), while 'schnee' could be read as a simple visual poem depicting an even blanket of snow. However, the significance of these poems in formal terms lies in their strategy of pure repetition: the mere recurrence of a single word in each poem has an effect that a single iteration of the word, even in a larger type face or a striking font, would not. The reader flipping through spirale might pick out Hofer's poem precisely because of its repetition; as in Shannon's theory of information, redundancy serves here to ensure that the signal is received correctly, despite whatever noise (or distraction) might interfere.</p><p>In most cases, though, the repetition found in Concrete poems is mitigated by variation. Döhl's 'apfel mit wurm' is a case in point, and when read against the backdrop of these theories, it can be considered as a case study in different kinds of encoding. One method of encoding is seen in the poem itself, which requires only two words to get its point across, but repeats one of them ('apfel') ad nauseam (although the second word, 'wurm', is more likely to induce actual nausea); considering only the words of the poem, while temporarily disregarding its shape, we can identify a high degree of redundancy, against which background the sole occurrence of the word 'wurm' represents a variation that provides new information. The apple's shape introduces another sort of code, an iconic mode of representation that may communicate its message more quickly than the verbal code, but offers no warning of the presence of the worm. A third sort of encoding is seen in the poem's title, 'apfel mit wurm', which expresses the same content as the poem itself in more concise form, albeit employing three words rather than two. The title thus contains a larger vocabulary than the poem itself (or greater entropy, to borrow Bense's application of Shannon's term), but less redundancy, replacing the 'binary' code of the poem, in which every word is either 'apfel' or 'wurm', with a code containing at least three possible words <ref type="bibr">('apfel', 'mit', and 'wurm')</ref>, and potentially more; an 'apfel ohne wurm' can also be imagined. More than its visual form, it is this play with different methods of encoding -maximising redundancy while minimising entropy -that makes Döhl's 'apfel mit wurm' not just a sight gag, but an implicit engagement with post-war theories of language and information.</p><p>Similar uses of repetition can be found in many other poems in the anthology. If Döhl's apple has a competitor for most iconic Concrete poem, it is probably Gomringer's own 'schweigen' (silence), which consists solely of the word 'schweigen' repeated fourteen times, arranged in three columns and five rows, with the middle of the grid left empty (1972a, 58). Gomringer's poem is often discussed as a semiotic play with presence and absence; if one were to read the poem aloud, the actual silence would fall at the precise moment when the word 'schweigen' does not occur. But this is only one way to approach the poem, and as Gomringer himself has argued of Concrete poetry in general, semantic content is generally a secondary concern: 'content is only interesting for the concrete poet when its intellectual and material structure proves to be interesting and can be processed linguistically' <ref type="bibr">(1998,</ref><ref type="bibr">19</ref>). If we follow Gomringer's lead and turn our attention away from the content, we find a pattern that is nearly identical to that of Döhl's 'apfel': a single word repeated again and again, with only a single variation (in this case not a different word, but its absence). If Gomringer's 'est est est' and Hofer's 'schnee' employ redundancy in a way that resembles its function in telecommunications, using repetition to guarantee that a message comes through loud and clear, Döhl's 'apfel mit wurm' and Gomringer's 'schweigen' take a different approach, using repetition to establish the background against which change stands out as the 'difference that makes a difference' -as information.</p><p>Gomringer emphasised this dynamic of repetition and variation, or redundancy and entropy, in his 1969 essay 'poesie als mittel der umweltgestaltung' ('poetry as a means of designing the environment'):</p><p>what often appears to be a monotonous mush of language, but nevertheless feels appealingand i mean feels to the intellect-like a multi-hour film by andy warhol, will actually be a text in which the smallest detail has informational value. <ref type="bibr">(1998,</ref><ref type="bibr">(67)</ref><ref type="bibr">(68)</ref> He likewise emphasised the significance of minor change against a redundant background in a radio essay: 'words are used meaningfully, effectively, when we place them as an unexpected variation next to words that are constantly repeated. then they constitute an 'error in the system', which is the definition of art according to paul klee' <ref type="bibr">(1998,</ref><ref type="bibr">40)</ref>.</p><p>The same Klee quotation is echoed in Gomringer's poem '3 variationen zu "kein fehler im system"' (3 variations on 'no error in the system') <ref type="bibr">(1972a, 63-64)</ref>. The first of these variations begins and ends with the correctly-spelled phrase 'kein fehler im system', while in each intervening line the letter 'f' moves one place to the right (skipping the blank spaces), before finally returning to its rightful spot. This poem lends itself to a variety of readings. If read together with Gomringer's 'schweigen', it can be seen to echo that poem's play with the presence and absence of the signifier; there is only a 'fehler' in the system when there is not an error in the system -that is, when the word 'fehler' is spelled correctly. The lines that do contain errors, such as 'kein ehfler im system', also suggest a sort of paradox if they are read as messages that might appear on a computer monitor or printout -messages that would undermine the system's own clean bill of health, like a sort of technological Magritte ('Ce n'est pas un rreeur'). But although by normal orthographic standards there is an error in each line but the first and last, the 'system' itself functions perfectly, proceeding through a regular series of permutations until it arrives at a last line that is identical to the first. In this respect, it lends itself to two competing interpretations: either the system has functioned correctly, and there is in fact no error, or error is a constitutive feature of the system. In either case, Gomringer's poem is notable for its employment of a rigidly algorithmic or permutational technique, one that could be executed as well by a computer as by a human author; the text on which this procedure is executed emphasises its programmed character.</p><p>The connection of this permutational method to computing technology became more explicit in two of Gomringer's later projects. For his 1975 book wie weiß ist wissen die weisen (the wise know how white is), a collaboration with the artist Günther Uecker, Gomringer entered the six words of the title into a computer that was programmed to generate all 720 possible combinations in a systematic order <ref type="bibr">(123456, 123465, 123564, 123546, etc.)</ref>, following a strict combinatoric procedure <ref type="bibr">(1975)</ref>. The author's role in this work was limited to the selection of the title phrase and the conception of the program. The lines generated by this procedure were then printed with photographs of Uecker's works en face -works consisting primarily of nails driven into boards in various patterns, all painted white. In their regular permutations, the words of Gomringer's poem come to resemble Uecker's nails, de-individuated and meaningless in themselves, significant only as part of a pattern. Gomringer and Uecker collaborated again in 1978 to produce a book version of Gomringer's poem 'kein fehler im system'; unlike wie weiß ist wissen die weisen, this book was expressly identified in the subtitle as 'eine unsystematische auswahl von sätzen aus dem gleichnamigen (imaginären) computer-lesebuch' (an unsystematic selection of sentences from the [imaginary] computer reader of the same name) <ref type="bibr" target="#b14">(Gomringer 1978</ref>; see also <ref type="bibr">Hilder 2016, 58)</ref>. Rather than the programmed regularity of wie weiß ist wissen die weisen, then, this work reintroduces human decision-making into the compositional process.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Conclusions</head><p>These forms -repetition and variation, algorithmic, combinatoric, iterative, and permutational processes -are certainly not exclusive to Concrete poetry, or to the technological and theoretical developments of the mid-twentieth-century. But Concrete poets made these forms more central to their poetics than any previous movement, and they did so while engaging explicitly in their programmatic works with the theories and technologies of computation, information, and communication that had advanced rapidly during and after the Second World War. As Jamie Hilder writes, 'The evidence that the poets were thinking about language through communication technologies is abundant <ref type="bibr">' (2016, 58)</ref>. Not only that, they were thinking through the broader implications, both positive and negative, of the convergence of aesthetics and twentieth-century science and technology. In their more utopian moments, poets such as Gomringer imagined this convergence as an opportunity for poets to serve society in a practical capacity as 'designers' of language. In other moments, though, tensions emerged between poetry and perfect programming.</p><p>Bense's attempt to synthesise information theory and aesthetics in his theoretical writings may prove more provocative than persuasive, but at the very least it demonstrates an eagerness to find within the rational framework of modern science and mathematics the basis for an equally rational aesthetics, while also acknowledging the fear of a world wholly determined by technology, in which no allowance is made for aesthetic freedom. Gomringer's 'kein fehler im system' likewise suggests a tension between the perfectly executed algorithm and the error at its core. While the visual aspects of Concrete poetry have often dominated in its reception, the movement's engagement with theories and technologies of computation, information, and communication, particularly the works of Shannon and Wiener, reflects a concern not only with the surface appearances of post-war culture, but also with the technologies that increasingly determined its underlying structure. By adopting these theories and transforming them into fundamental constituents of their aesthetic theory and practice, Bense, Gomringer, and others positioned Concrete poetry as a defining poetic movement of the information age.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Notes on contributor</head><p>Kurt Beals is Visiting Associate Professor of German and Humanities Fellow in Literary Translation at the University of Richmond. He was previously Associate Professor in the Department of Germanic Languages and Literatures at Washington University in St. Louis. He is the author of Wireless Dada: Telegraphic Poetics in the Avant-Garde (Northwestern University Press, 2020), the translator of books by Anja Utler, Regina Ullmann, Reiner Stach, and Jenny Erpenbeck, and a co-editor of the volume Hans Richters 'Rhythmus 21'. Schlüsselfilm der Moderne.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Disclosure statement</head><p>No potential conflict of interest was reported by the author(s).</p></div>		</body>
+		<back>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<analytic>
+		<title level="a" type="main">The Cybernetics of &apos;Self&apos;: A Theory of Alcoholism</title>
+		<author>
+			<persName><forename type="first">Gregory</forename><surname>Bateson</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/00332747.1971.11023653</idno>
+		<ptr target="https://doi.org/10.1080/00332747.1971.11023653" />
+	</analytic>
+	<monogr>
+		<title level="j">Psychiatry</title>
+		<imprint>
+			<biblScope unit="volume">34</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="1" to="18" />
+			<date type="published" when="1971">1971</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<title level="a" type="main">Movens. Experimentelle Literatur</title>
+		<author>
+			<persName><forename type="first">Max</forename><surname>Bense</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Grundlagenstudien aus Kybernetik und Geisteswissenschaft</title>
+		<imprint>
+			<biblScope unit="volume">1</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="122" to="126" />
+			<date type="published" when="1960">1960</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">Max</forename><surname>Bense</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Modelle. Rot</title>
+		<imprint>
+			<biblScope unit="volume">6</biblScope>
+			<date type="published" when="1961">1961</date>
+			<publisher>Edition Rot</publisher>
+			<pubPlace>Stuttgart</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<monogr>
+		<title level="m" type="main">Theorie der Texte. Eine Einführung in Neuere Auffassungen und Methoden</title>
+		<author>
+			<persName><forename type="first">Max</forename><surname>Bense</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1962">1962</date>
+			<publisher>Kiepenheuer &amp; Witsch</publisher>
+			<pubPlace>Cologne</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<monogr>
+		<title level="m" type="main">Aestheiktica: Einführung in die neue Aesthetik</title>
+		<author>
+			<persName><forename type="first">Max</forename><surname>Bense</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1965">1965</date>
+			<publisher>Agis-Verlag</publisher>
+			<pubPlace>Baden-Baden</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title level="a" type="main">Einführung in die informationstheoretische Ästhetik: Grundlegung und Anwendung in der Texttheorie</title>
+		<author>
+			<persName><forename type="first">Max</forename><surname>Bense</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Reinbek bei</title>
+		<imprint>
+			<date type="published" when="1969">1969</date>
+			<publisher>Rowohlt</publisher>
+			<pubPlace>Hamburg</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<monogr>
+		<title level="m" type="main">Ausgewählte Schriften</title>
+		<author>
+			<persName><forename type="first">Max</forename><surname>Bense</surname></persName>
+		</author>
+		<editor>Elisabeth Walther</editor>
+		<imprint>
+			<date type="published" when="1997">1997</date>
+			<publisher>Metzler</publisher>
+			<biblScope unit="volume">1</biblScope>
+			<pubPlace>Stuttgart</pubPlace>
+		</imprint>
+	</monogr>
+	<note>4 vols</note>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">Max</forename><surname>Bense</surname></persName>
+		</author>
+		<editor>Elisabeth Walther</editor>
+		<imprint>
+			<date type="published" when="1998">1998</date>
+			<publisher>Metzler</publisher>
+			<biblScope unit="volume">3</biblScope>
+			<pubPlace>Stuttgart</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title level="a" type="main">kleine abstrakte ästhetik</title>
+		<author>
+			<persName><forename type="first">Max</forename><surname>Bense</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Ausgewählte Schriften</title>
+		<editor>
+			<persName><forename type="first">Elisabeth</forename><surname>Walther</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Stuttgart</addrLine></address></meeting>
+		<imprint>
+			<publisher>Metzler</publisher>
+			<date type="published" when="1998">1998</date>
+			<biblScope unit="volume">3</biblScope>
+			<biblScope unit="page" from="421" to="442" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title level="a" type="main">Der geistige Mensch und die Technik</title>
+		<author>
+			<persName><forename type="first">Max</forename><surname>Bense</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Ästhetik als Programm: Max Bense / Daten und Streuungen</title>
+		<editor>
+			<persName><forename type="first">Barbara</forename><surname>Büscher</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">Christoph</forename><surname>Hans-Christian Von Herrmann</surname></persName>
+		</editor>
+		<editor>
+			<persName><surname>Hoffmann</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Berlin</addrLine></address></meeting>
+		<imprint>
+			<publisher>Akademie Schloss Solitude</publisher>
+			<date type="published" when="2004">2004</date>
+			<biblScope unit="volume">5</biblScope>
+			<biblScope unit="page" from="33" to="43" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<monogr>
+		<title level="m" type="main">Novas: Selected Writings</title>
+		<author>
+			<persName><forename type="first">Haroldo</forename><surname>Campos</surname></persName>
+		</author>
+		<author>
+			<persName><surname>De</surname></persName>
+		</author>
+		<editor>Antonio Sergio Bessa and Odile Cisneros</editor>
+		<imprint>
+			<date type="published" when="2007">2007</date>
+			<publisher>Northwestern University Press</publisher>
+			<pubPlace>Evanston, IL</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title level="a" type="main">Max Benses technologische Ästhetik und der Paradigmenwechsel der Ästhetik im Zeitalter der Technik</title>
+		<author>
+			<persName><forename type="first">Siyu</forename><surname>Dai</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Max Bense: Werk -Kontext -Wirkung</title>
+		<editor>
+			<persName><forename type="first">J</forename><forename type="middle">B</forename><surname>Metzler</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Stuttgart</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2019">2019</date>
+			<biblScope unit="page" from="273" to="290" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">Eugen</forename><surname>Gomringer</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1972">1972</date>
+			<publisher>Reclam</publisher>
+			<pubPlace>Stuttgart</pubPlace>
+		</imprint>
+	</monogr>
+	<note>konkrete poesie: deutschsprachige autoren</note>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<title level="a" type="main">vom vers zur konstellation</title>
+		<author>
+			<persName><forename type="first">Eugen</forename><surname>Gomringer</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">konkrete poesie: deutschsprachige autoren</title>
+		<meeting><address><addrLine>Stuttgart</addrLine></address></meeting>
+		<imprint>
+			<publisher>Reclam</publisher>
+			<date type="published" when="1972">1972</date>
+			<biblScope unit="page" from="155" to="160" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<monogr>
+		<title level="m" type="main">kein fehler im system: eine unsystematische auswahl von sätzen aus dem gleichnamigen (imaginären) computer-lesebuch</title>
+		<author>
+			<persName><forename type="first">Eugen</forename><surname>Gomringer</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1978">1978</date>
+			<publisher>Verlag</publisher>
+			<biblScope unit="page">3</biblScope>
+			<pubPlace>Zurich</pubPlace>
+		</imprint>
+	</monogr>
+	<note>Limited edition. with 7 lithographs by Günther Uecker</note>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<author>
+			<persName><forename type="first">Eugen</forename><surname>Gomringer</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Vom Rand nach innen: die Konstellationen 1951-1995</title>
+		<meeting><address><addrLine>Vienna</addrLine></address></meeting>
+		<imprint>
+			<publisher>Edition Splitter</publisher>
+			<date type="published" when="1995">1995</date>
+			<biblScope unit="volume">1</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<monogr>
+		<title level="m" type="main">zur sache der konkreten</title>
+		<author>
+			<persName><forename type="first">Eugen</forename><surname>Gomringer</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1998">1998</date>
+			<publisher>Erker-Verlag</publisher>
+			<pubPlace>St. Gallen</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<monogr>
+		<author>
+			<persName><forename type="first">Eugen</forename><surname>Gomringer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Günther</forename><surname>Uecker</surname></persName>
+		</author>
+		<title level="m">wie weiss ist wissen die weisen: hommage à uecker</title>
+		<meeting><address><addrLine>Stuttgart</addrLine></address></meeting>
+		<imprint>
+			<publisher>Edition für moderne Kunst im Belser Verlag</publisher>
+			<date type="published" when="1975">1975</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<monogr>
+		<author>
+			<persName><forename type="first">Raoul</forename><surname>Hausmann</surname></persName>
+		</author>
+		<title level="m">Courrier Dada</title>
+		<meeting><address><addrLine>Paris</addrLine></address></meeting>
+		<imprint>
+			<publisher>Editions Allia</publisher>
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<analytic>
+		<title level="a" type="main">Zur Geschichtlichkeit von Wissenschaft, Technik und Kunst bei Max Bense</title>
+		<author>
+			<persName><forename type="first">Hans-Christian</forename><surname>Herrmann</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Von</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Max Bense: Werk -Kontext -Wirkung</title>
+		<editor>
+			<persName><forename type="first">J</forename><forename type="middle">B</forename><surname>Metzler</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Stuttgart</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2019">2019</date>
+			<biblScope unit="page" from="201" to="222" />
+		</imprint>
+	</monogr>
+	<note>Vom Werden der Welt</note>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<monogr>
+		<title level="m" type="main">Designed Words for a Designed World: The International Concrete Poetry Movement, 1955-1971</title>
+		<author>
+			<persName><forename type="first">Jamie</forename><surname>Hilder</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2016">2016</date>
+			<publisher>McGill-Queen&apos;s University Press</publisher>
+			<pubPlace>Montreal</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">Hans</forename><surname>Hofer</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1954">1954</date>
+			<biblScope unit="volume">3</biblScope>
+			<biblScope unit="page">19</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<monogr>
+		<title level="m" type="main">Claude Elwood Shannon: Collected Papers</title>
+		<author>
+			<persName><forename type="first">Claude</forename><surname>Shannon</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Elwood</surname></persName>
+		</author>
+		<editor>N.J.A. Sloane and Aaron D. Wyner</editor>
+		<imprint>
+			<date type="published" when="1993">1993</date>
+			<publisher>IEEE Press</publisher>
+			<pubPlace>New York</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<analytic>
+		<title level="a" type="main">Max Bense, Dichter einer technisierten Welt? Über konkrete Poesie, computergenerierte Textexperimente und die &apos;Programmierung des Schönen&apos;</title>
+		<author>
+			<persName><forename type="first">Bettina</forename><surname>Thiers</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Max Bense: Werk -Kontext -Wirkung</title>
+		<editor>
+			<persName><forename type="first">J</forename><forename type="middle">B</forename><surname>Metzler</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Stuttgart</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2019">2019</date>
+			<biblScope unit="page" from="257" to="272" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<monogr>
+		<title level="m" type="main">OEuvres</title>
+		<author>
+			<persName><forename type="first">Paul</forename><surname>Valéry</surname></persName>
+		</author>
+		<editor>Jean Hytier</editor>
+		<imprint>
+			<date type="published" when="1960">1960</date>
+			<publisher>Gallimard</publisher>
+			<biblScope unit="volume">II</biblScope>
+			<pubPlace>Paris</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<monogr>
+		<title level="m" type="main">Cybernetics: Or Control and Communication in the Animal and the Machine. 2nd ed</title>
+		<author>
+			<persName><forename type="first">Norbert</forename><surname>Wiener</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1965">1965</date>
+			<publisher>The MIT Press</publisher>
+			<pubPlace>Cambridge, MA</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<monogr>
+		<title level="m" type="main">The Collected Poems of William Carlos Williams</title>
+		<author>
+			<persName><forename type="first">William</forename><surname>Williams</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Carlos</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1986">1986</date>
+			<publisher>New Directions</publisher>
+			<biblScope unit="volume">II</biblScope>
+			<pubPlace>New York</pubPlace>
+		</imprint>
+	</monogr>
+	<note>II vols</note>
+</biblStruct>
+
+<biblStruct xml:id="b27">
+	<analytic>
+		<title level="a" type="main">Benses Brasilien: Reflexionen zur konkreten Poesie, Brasília und dem Entwurf einer Rheinlandschaft</title>
+		<author>
+			<persName><forename type="first">Jasmin</forename><surname>Wrobel</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Max Bense: Werk -Kontext -Wirkung</title>
+		<editor>
+			<persName><forename type="first">J</forename><forename type="middle">B</forename><surname>Metzler</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Stuttgart</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2019">2019</date>
+			<biblScope unit="page" from="291" to="322" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

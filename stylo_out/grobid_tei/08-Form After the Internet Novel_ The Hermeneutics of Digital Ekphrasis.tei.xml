@@ -1,0 +1,615 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Form After the Internet Novel: The Hermeneutics of Digital Ekphrasis</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author role="corresp">
+							<persName><forename type="first">Julia</forename><surname>Straub</surname></persName>
+							<email>julia.straub@unifr.ch</email>
+							<affiliation key="aff0">
+								<orgName type="department">English Department</orgName>
+								<orgName type="institution">University of Fribourg</orgName>
+								<address>
+									<settlement>Fribourg</settlement>
+									<country key="CH">Switzerland</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff1">
+								<orgName type="department">English Department</orgName>
+								<orgName type="institution">University of Fribourg</orgName>
+								<address>
+									<addrLine>Avenue de l&apos;Europe 20</addrLine>
+									<postCode>CH-1700</postCode>
+									<settlement>Fribourg</settlement>
+									<country key="CH">Switzerland</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Form After the Internet Novel: The Hermeneutics of Digital Ekphrasis</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date/>
+						</imprint>
+					</monogr>
+					<idno type="MD5">6DA6D7F6FF15FF3E2D91217F1F5F8476</idno>
+					<idno type="DOI">10.1080/00111619.2025.2572812</idno>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.0" ident="GROBID" when="2026-02-25T19:52+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>The novel as a literary genre has been diagnosed as being under threat for a while, due to the rise of digital media. The term "internet novel," applied to works such as Dave Eggers' The Circle (2013), expresses trust in the novel as able to capture the encroachment of digital media on our lives, while playing out the analog against the digital world. The banalization of digital media (Dinnen) has made the notion of the internet novel redundant. In its stead, we find narratives that no longer mark the presence of digital technologies. Eleanor Catton's Birnam Wood (2023) shares some concerns with Eggers' novel, but a comparative reading shows a different perception of digital media as catalysts of human conflicts. To further investigate this banalization, the second part of the article focuses on Patricia Lockwood's No One Is Talking About This (2021) and the hermeneutic potential of its ekphrases.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>The novel as a literary genre has been diagnosed as under constant threat for the last twenty years, partly due to the rise of digital media. <ref type="bibr">Mieke Bal, in 2006</ref>, identified the internet as the novel's enemy <ref type="bibr">(183)</ref>. A little later, notions such as Jessica Pressman's "bookishness" came to the rescue, reinvigorating the material appeal of the printed book, as the old medium, as one that would never fall prey to obsolescence. The term "internet novel" has been applied to works such as Dave Eggers' The Circle and expresses a sense of trust placed in the novel form's ability to capture in writing the encroachment of digital media and their impact on our societies <ref type="bibr">(Webster)</ref>. The waning of postmodernism destabilized discussions further. The quest for a new epistemic framework within which the novel could be situated puts into question today's adequacy of the novel as a form. The new millennium brought along a hunger for the real -at the expense of fictional writing -for some (Shields). Other discursive strands clothed the novel in neologisms such as the post-theory theory novel <ref type="bibr">(Huehls)</ref>, whose refined nomenclature suggests that only hyphenated niche products could survive the digital onslaught and ensuing loss of public interest in the novel. By contrast, broader studies in the novel genre (see <ref type="bibr">Boxall, "Introduction" and Value; Lea; Wilson)</ref> add a more nuanced understanding of how fiction dealing with the internet developed (see <ref type="bibr">Weigel-Heller)</ref>. Together with the unbroken, vast quantity of new publications, these critical interventions suggest that the novel as a genre is far from being dead (see <ref type="bibr">Baumbach and Neumann 1)</ref>.</p><p>While the novel thus remains a vital presence, digital media have become so omnipresent or "banal" (to quote Zara Dinnen's book title, 2018) in our lives and cultures that any attempt to mark a novel as "about the internet" seems quaint, especially since "the internet" now stands for highly singularized experiences, networked environments (see <ref type="bibr">Bridle)</ref>, and distinct (yet related) fields of inquiry such as algorithms <ref type="bibr">(Fry)</ref> or the creative power of artificial intelligence. While it remains debatable for some literary critics whether the novel is up for the task of dealing with today's fastevolving world (e.g., Vermeulen) -considering ecological, economic, political and other large-scale, global polycrises of the last thirty years -it has things to offer. It is a medium that enables the negotiation of complex concepts such as reality, while remaining self-aware of its own limitations as an agent of change (see <ref type="bibr">Baumbach and Neumann 4)</ref>.</p><p>The formal and generic choices made by contemporary authors to encounter our digital realities are manifold. Dystopian writing with plot-driven and frequently surveillance-focused scenarios figures prominently, as in Eggers' case, but also in more recent titles such as Megan Angelo's Followers. Satire, too, thrives through its aggrandization of existing social malaises and anxieties (e.g., Sam Byers' Perfidious Albion from 2018). There are other, often subtler forms of literary representation that capture the blended analog and digital sites for human interaction. The genre of the verse novel, for example, has been harnessed by Bernardine Evaristo in Girl, <ref type="bibr">Woman, Other(2019)</ref> and Sarah Crossan in Here Is the Beehive (2020) to engage with the fluid, confusing boundaries between analog and digital communication. A novel such as little scratch (2020) by British author Rebecca Watson -recounting the perceptions of a woman within one day -leans on stream-of-consciousness techniques by incorporating digital communication into the protagonist's flow of thoughts. Such works can be experimental given their work on traditional genres or modes of representation. Published in the last seven years, they illustrate the extent to which digital media have enriched, rather than rendered obsolete, literary technique through the conscious use of form. Yet their manner of experimentation is not declamatory: neither do they scandalize the alleged novelty of digital media nor do they seek to entrench hierarchies between digital and analog worlds. In this article I argue that the genre of the novel has survived the sinister prophecies of the early 2000s because authors have developed a refined technical repertoire that allows them to accommodate the perplexities and possibilities caused by today's banalized media usage. A conscious employment of form, ekphrasis being just one example, can result in hermeneutic processes that are engaging but non-explanatory.</p><p>As a first step, I will open what can by now be called a historical bracket to illustrate that the easy formulas provided by the so-called "internet novel," represented by Dave Eggers' The Circle, have long lost both their appeal and efficiency. Ten years later, in 2023, Eleanor Catton's Birnam Wood brings to the fore our changing attitudes toward digital culture, which includes technologies of surveillance, digital media, or the internet as such. Both novels share some concerns -generational conflicts, power struggles, and the big money beckoning in the tech industry -but are decidedly different in their perception of digital technologies as catalysts of human conflict and decline. Read in comparison, they reflect, in an exemplary way, the broad (epistemic) changes that have occurred in collective attitudes toward digital culture and writers' different responses.</p><p>The second part of the article will build on these observations by turning to ekphrasis as a traditional literary technique used to engage with contemporary realities. Patricia <ref type="bibr">Lockwood's novel No One Is Talking About This (2021)</ref> will be a helpful case in point given its ample use of ekphrastic descriptions set against its protagonist's persistent perplexity caused by her life on and with social media.</p><p>From The Circle (2013) to Birnam Wood (2023): The Decline of the "Internet Novel" Critics working on contemporary literature never grow tired of stressing how difficult it is to put a lid on the now, as the in medias res quality of the contemporary eludes the tools and methods of literary historiography (see Lea 2). In 2025, we have, however, advanced far enough in the not-so-new millennium as to discern first historical formations. One of them is the coming of age of the so-called "internet novel." The somewhat flippant proclamation of its adolescence might irritate some readers, as, clearly, fictions of computational intelligence predate the 21st century. Consider late 20th-century classics such as William Gibson's Neuromancer from 1984, and its anticipation of AI-inspired terror, evoking a rich and vibrant tradition of science fiction writing and cyberpunk culture.</p><p>To understand why the internet novel became a "thing" in literary criticism, one must go back to the early 2000s. While 1995 is held to be the year when the internet became commercial <ref type="bibr">(Naughton ref. in Baumbach 73)</ref>, it is the first decade of the new millennium when, with Web 2.0, a new kind of interactive, highly individualized, user-inspired internet emerges that enabled social media to evolve to the extent that social media have become the internet, full stop. This also meant that the term "internet novel" lost any claim to precision early on in its career. The 2000s is the time that sees the advent of the smartphone and its apps, and it is the time when critics such as Mieke Bal utter their abovementioned prophetic visions of doom, the alterity of digital media being writ large. Such early millennial caution led to a segregation between the novel as an analog experience versus "the internet" or digital technology more broadly: two realms of human experience caught in an unequal battle, asking readers, writers, and characters to take sides. Consequently, great expectations were being placed on the novel as a relatively old medium -more so than other genres or media -to help unwitting readers understand what these new digital realities and their "slippery" versions of selfhood (Watson, "Art of Fiction") are all about.</p><p>Thus, to keep up with the curated and impalpable identities that social media promote and enable, attention being an important keyword (see <ref type="bibr">Epstein)</ref>, writers face a double challenge. They need to encounter the fast-changing transformations of the world they inhabit, while witnessing how these changes affect their own self-perception as individuals and author personas. Novels about the here and now, incorporating this extraordinary shiftiness of human lives, include characters whose online and analog identities can, but need not, align. This incommensurability between the expectations placed traditionally on the novel genre as one to define and maintain notions of reality (see, e.g., <ref type="bibr">Wilson 48)</ref> and a reality that is too expanding and evasive to bow to any such attempt is the reason why a novel like Dave Eggers' The Circle was received partly rather positively <ref type="bibr">(Linklater)</ref>. As an early millennial example, it faced the task of revealing what these new social networks and their media do to us. Yet, Eggers chose an alarmist approach, capitalizing on a technoscepticism inscribed into much dystopian thinking and writing.</p><p>In the ten years that lie between the publication of The Circle and Birnam Wood, the perception of the relationship between the analog and digital realms of human action and experience has been diversified and normalized. For Zara Dinnen, the digital is a vast field spanning technology, media, and human experience ("Digital," 214), so clearly "the digital" draws wide circles, encompassing hardware, software, and the usage of technology. She also coined the term "digital banal" to refer to the affective numbness with which people react to digital technologies today, the ways in which the edges that have separated the human from the technological have become blunt <ref type="bibr">(Digital Banal,</ref><ref type="bibr">95)</ref>. The following contrastive reading aims to illustrate these changes.</p><p>Eggers' The Circle became a popular bestseller and curricular item immediately. It was turned into a film in 2017 featuring Tom Hanks and Emma Watson. Its young protagonist, Mae, is unsure what to do with her life and gladly grasps the opportunity to work for a tech firm called "The Circle," reminiscent of Google with its fishbowl offices, fruit baskets, and yoga classes. Settling into her new job, she copes with an overwhelming intensity and pace of expected social participation. Employees at The Circle are taught to share their private lives at the workplace and to dedicate their time fully to the company. Mae's reaction is ambivalent: she finds it increasingly difficult to disentangle herself from her job and its controlling mechanisms, but she is also attracted to the social capital she can accrue by playing an active and visible part in The Circle. The financial duress placed on her family due to her parents' medical needs makes it twice as hard to act on her initial scruples. Mae's gradual absorption by The Circle is accompanied by run of the mill dystopian features such as the implementation of surveillance tools, Orwellian Newspeak, and, maybe as a distinct 21st-century addition to the genre, nebulous tycoon figures that act in the background, and that seem to blend Orwell's Big Brother rather uncannily with present-day Silicon Valley types.</p><p>Mae's rise in the company comes with a price tag. The deeper she becomes enmeshed in The Circle, that is, the further she submits to its digital surveillance tools, the more her moral convictions waver. When the novel was published, critics quickly pointed out its lack of complexity and the predictability of the plot <ref type="bibr">(Luthi)</ref>. It is because of the novel's simple equation of technology with moral decline, and the ensuing warning of the dangers of selling out to technological progress and corporate employment, that it appears to be an inadequate rendering of the fast-paced encroachment of digital technologies on our private and collective lives. The meaning of the term "internet novel" (if ever it was meaningful to begin with) expires with the effortlessness of media usage today (be that in terms of availability, cost efficiency, but also user friendliness). To conceive of the internet, let alone social media, as this distinct realm whose impact on people's lives is marked as an intrusion and that requires specific user skills or unaffordable devices, misses the normalization of the human/technology relationship that defines our human experience today.</p><p>Fast forward by 10 years and to Birnam Wood by New Zealand author Eleanor Catton, whose Booker Prize-winning historical novel The Luminaries had earned her much critical acclaim. Despite its Shakespearean intertext (Birnam Wood, a forest near Dunsinane Hill in Scotland, is a reference to Macbeth, and the novel heads toward a tragic ending with revenge taken and most protagonists dead), it is a novel that explores the present moment: we meet two women, Mira and Shelley, two friends that run a guerilla gardening collective; billionaire Robert Lemoine, whose plan is to illegally mine rareearth minerals in a remote part of New Zealand and who hopes to use the gardening collective to give his illegal activities a charitable façade. Critics have referred to the novel as an ecothriller <ref type="bibr">(Lowdon)</ref>, seeing baby boomers and millennials clash over green issues. Initiatives to protect a rare bird are crushed by the immorality of the middle-aged super-rich, who will pay any price to promote their economic ventures.</p><p>Whereas in Eggers' novel the somewhat plain causality between technological sellout and moral degeneration resulted in a stale predictability of the plot, Catton surprises the reader and allows her protagonists much greater leeway in handling or mishandling their own freedom to make decisions and bear their -mostly unforeseeable -results. The tragic dimension does not only reside in the novel's Shakespearean concern with power, control, and manipulation. It also shows in the fatefulness with which humans act, fail to act, or misjudge the results of their actions. Catton thus does the contemporary novel a much greater favor than Eggers by not simply depicting digital technology (with a capital T) and its impact on the subject, as Eggers did, but by using intrinsic literary possibilities of plot and character development to explore bedazzling realities.</p><p>Birnam Wood is not an internet novel, partly due to the term's mentioned lack of precision, and partly because it would misrepresent the novel's multi-layered engagement with the contemporary moment, no matter how instrumental and omnipresent digital technologies are in this (con)text. Birnam Wood seizes the moment like Eggers' novel did in 2013, but what caused alarmist dystopia in Eggers here yields to what could be perceived as "banal" surveillance. Thus, billionaire Lemoine controls his extraction site with the help of drones whose revelatory humming sounds co-exist with the tweeting of the rare orange-fronted parakeet. At ease with technology as he is (he has no problem hacking intruders' mobile phones and e-mail accounts), millennials remain surprisingly unassuming in this regard and run into his open knives. There are moments when Lemoine appears God-like, given both his wealth and the way he controls humans simply by infiltrating their online activities. But he dies in the final act, like almost anyone else in the novel, quite in contrast to an immortal Big Brother. Mira, on the other hand, casually assumes fake identities online to promote her collective's interests; there is also a lot of inconsequential online stalking going on. Characters are connected and disconnected from one another via digital media; more significantly, they become readable and controllable through them. Biographies as well as travel itineraries are forgeable, but by and large these uses and abuses of technology are part of a contingent web of human (inter)action, and not the omens of a dark technological cloud hovering over people's heads. In Birnam Wood, digital media enhance or accelerate conflicts, but the latter are perennially human, and not caused by technology in the first place.</p><p>The Hermeneutics of Digital Ekphrasis in Patricia Lockwood's No One Is Talking About This Patricia Lockwood's No One Is Talking About This was published in 2021. Lockwood is not only an essayist for the London Review of Books but also used to be a well-regarded voice on what was Twitter. She is known for her poem "The Rape Joke," which went viral in 2013, and her comic memoir Priestdaddy from 2017.</p><p>Her novel No One Is Talking About This has two parts: to begin with, we witness the protagonist's rise to global fame as a social media star, thanks to some well-timed but senseless tweets. She is invited to give talks about internet culture all over the world, as a Twitter connoisseur. While rising to online fame, she always remains an avid consumer of endless posts written by others, often bordering on the abstruse, the sarcastic, occasionally drifting into the obscene. She is "extremely online" <ref type="bibr">(Wallace)</ref>. The second half of the novel pulls a different emotional register: the protagonist's sister gives birth to a baby with severe birth defects. As grief and heartbreak take over, the protagonist drops her (self-) ironic façade as she only wants to be in the baby's presence.</p><p>In this novel, social media, and especially Twitter, go by a different name. The protagonist metaphorizes it as "the portal," implying some sort of threshold, dividing an online from an offline world. Behind it opens a swirling realm of absurdities, images, GIFs, comments, memes, and hashtags. The opening paragraphs of the novel (Lockwood 1) foreground the oxymoronic dimension of the things that the narrator sees: images that conjure up different seasons or media (nail art along with a Van Gogh painting) in synchronicity; decontextualized and at times grotesque glimpses into other people's alleged privacy. Any impression seems to delete itself instantaneously as it is overwritten by a new impulse. Most pressingly, the first few paragraphs depict the protagonist's affective confusion when going online, caused by its skewed handling of privacy. Boundaries are transgressed and good taste is lost. In an unlimited world, the protagonist sees things they did and did not want to see at the same time. The writing style echoes the chopped, punctilious quality of tweets. In this sense, Lockwood's fast-paced attempt at describing the internet produces predictable results. It is worthwhile dwelling longer on the way she describes these photographs. These descriptions count as examples of ekphrasis, which, leaning on J. A. W. Heffernan's classic definition, occurs when a visual representation is represented verbally (3). But in a novel about social media, even though visual impressions rule, we find a distinct kind of ekphrastic moments. The narrative rarely pauses on individual pictures: mostly it is the flurry of pictorial impressions that conveys the desired effect of being nonplussed that the author seems to strive for, rather than the more detailed exploration of a particular image. Renate Brosch has defined ekphrasis quite generally as a "literary response" (rather than a representation) (227), thereby broadening the possible contributions from the receiving end, so to speak, in an ekphrastic encounter between visual image(s) and writer. In digital culture, she argues, abbreviation is key: our shared cultural memory of images enables us to make sense of images even if they are mentioned only briefly or incompletely. To some extent, the inflation of visual images, exacerbated by the widespread use of free AI technologies, devalues the image as a resource. At the same time, our skill to decipher images in a rush, to connect these fragments, is enabled by the enlarged temporality that cultural memory provides <ref type="bibr">(Brosch 229</ref>). Brosch's generous definition of ekphrasis allows critics to engage with the sheer mass of images that a verbal representation of social media inevitably must confront.</p><p>There are other instances in Lockwood's novel that reflect the protagonist's struggle at maintaining a healthy balance as she begins to question not only the moral appropriateness of her witnessing certain things, but the fact that she actually can, that someone lets or even wants her to watch. In a telling passage <ref type="bibr">(Lockwood 8)</ref>, this is experienced as the world encroaching upon her, resulting in the spinning of what is compared to a thick spiderweb of bonds between humans. These are forms of interconnectivity that impose themselves on the individual while never disclosing any significant meaning. The portal is indiscriminate: the influencer-ama of travel and beauty blogs coexists with images of abuse. As argued by Sofie Behluli, ekphrasis can be a means of conveying contradictory information simultaneously (21). These random and unsolicited combinations of photographs have the power of further enhancing the moral dilemmas of the viewer when photography pierces the integrity, or privacy, of another individual. While for Susan Sontag, photography can be used as a weapon against the object in the picture (14-15), the at least partly unwitting recipient in Lockwood's novel suggests that this weapon can also hurt the spectator. In Lockwood's novel, a memorable episode depicts the barefoot wanderings of a poet and climate activist across America, documented on social media (29-30). The poet's pictures of his damaged feet, perceived with all the disturbing marks of their tough mileage, become the protagonist's inadvertent reminder of climate change, along with the poet's ever-smiling face. The pictures of his sacrificial feet engender intimacy, but his posts are nonetheless a staged process, cut short by the sheer contingency (and irony) of an SUV passing by at the wrong moment. The metonymic visual signposting of the poet's activist cause, through his battered feet, exacerbates the protagonist's confusion as the vulnerability these pictures cause creates an affective connection now abruptly, and meaninglessly, disrupted. Thus, the pictures to which the protagonist had got used to as being delivered promptly through her social media feed now remind her of her own precarious affective investment as a viewer.</p><p>The poet's posts are sequential: one picture by itself could not tell the same story or develop the same urgency for the viewer. It is the daily feed that bears witness to the growth of the unsavory marks left on the pilgrim's body. Lockwood's protagonist pauses upon these images for longer than she usually does. She returns to them day after day, providing precise descriptions of the activist's feet, face, clothes, and hair. Following a process rather than facing a fait accompli enhances the protagonist's sense of proximity with someone she has never known in real life. As I argued elsewhere <ref type="bibr">(Straub 308)</ref>, Chris Rojek's notion of presumed intimacy could be useful in such instances, a term that captures the one-sided, delusional, yet deep attachments formed between viewers and mediated personalities as an aspect of modern celebrity culture <ref type="bibr">(Rojek 124)</ref>.</p><p>The protagonist, after all an expert paid good money to explain the portal's working mechanisms to docile audiences around the globe, is very much literate in the cultural and social ramifications of this fake, unreciprocated intimacy. She can read the codes (e.g., her discerning the posture of a televangelist in the poet's self-presentation). Yet she falls short of understanding the moral implications for herself, surrendering, somehow fatalistically, to the inconclusiveness of her experiences. She may well be a victim of her own voyeurism since the power of photographs to pierce a person's integrity can be twodirectional. Why, then, would she consume these images when she has the choice not to? Because for the protagonist, the portal represents the here and now, a pulsating force (30): fast-moving, it becomes her (self-)defining present. This sense of vitality that photographs on social media exude owes much to their multimodality (often they are surrounded by text, videos and/or sound) and the importance of touch, as argued by Cecilia Lindhé. Lindhé distinguishes ekphrases of digital objects from more traditional forms (e.g., images in print) given their greater tactility caused, among other factors, by interfaces and movement. For her, the visualization of an object matters. She underscores the significance of the effect produced when we encounter an object or event and which unfolds through the ekphrastic act. We touch and swipe, zoom in and out, move and delete images interactively with our fingers.</p><p>Lockwood does not leave the banality of technology and digital media unquestioned: her narrator's bewilderment and growing sense of digital illiteracy become obvious. But her protagonist's solution is to escape, to disentangle herself from her online existence to the extent that this is possible. Her way to battle the moral discomfort she experiences lies in a return to an analog life, which equals family. In this regard, her novel, with its drawing lines between the "artificial" digital and the "natural" analog world, could very well invite interpretations not too remote from the moralized warnings inscribed into The Circle. However, a close reading of Lockwood's novel through the prism of its ekphrastic encounters fractures any such easy allegations. Instead, if anything, it is through literary technique that Lockwood can face and make expressible her character's inner confusion when online. Given that her protagonist's impressions are shared by many people today on social media, her ekphrases prompt readers to question their own involvement and position vis-à-vis the images they consume. These ekphrases impose tasks on the readers. They interrogate the subject-object relationship that such images provoke. It is hard to ignore their blatant decontextualization, the gaping omissions that refuse meaningful conclusions. The ekphrases force the protagonist (and her complicit reader) to acknowledge their own failure to comprehend the things they see; to discern the fallacious construction of proximity and engagement that characterizes celebrity culture at large; to handle the vulnerability of both parties when consuming such images; to admit to one's own dependencies and liabilities when faced with (coerced) forms of (self-)exhibition. Thus, ekphrasis, as a literary technique, triggers hermeneutic processes that empower the novel to do more than simply explain social media. Instead, it is through technique that an inquisitive, searching approach committed to an evolving form of understanding is enabled.</p><p>The ten years between the publication of Dave Eggers' The Circle and Eleanor Catton's Birnam Wood see changing expectations placed on the so-called internet novel in the 21st century -moving away from didactic impulses to a much more artful engagement with human realities that are infused by social media and other digital technologies. While the term "internet novel" is now defunct, writers can engage with digital realities with greater ease while not failing to comment critically on the built-in challenges of media usage. This discussion of three twenty-first-century novels directed attention toward the stylistic and formal choices writers are making to engage with social media culture. The ekphrastic mode serves as an exemplary literary technique that has changed and grown in the light of digitization. Patricia Lockwood's No One Talks About This sees the dangers of unguarded media usage but promotes active processes of interpretation rather than moralistic explanations. Thus, far from being rendered obsolete, literary form and technique help manage the fast-paced interactions between humans and technologies and enable the novel as a genre to evolve -against all odds.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Disclosure Statement</head><p>No potential conflict of interest was reported by the author(s).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Notes on Contributor</head><p>Julia Straub is Professor of Modern English Literature at the University of Fribourg, Switzerland. Her research areas include contemporary literature, literature and media history, intermediality, Victorian literature, transatlantic literary studies, and motherhood studies.</p></div>		</body>
+		<back>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">Megan</forename><surname>Angelo</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Followers. HQ</title>
+		<imprint>
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<title level="a" type="main">Meanwhile: Literature in an Expanded Field</title>
+		<author>
+			<persName><forename type="first">Mieke</forename><surname>Bal</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Africa and Its Significant Others: Forty Years of Intercultural Engagement</title>
+		<editor>
+			<persName><forename type="first">I</forename><surname>Hoving</surname></persName>
+		</editor>
+		<imprint>
+			<date type="published" when="2003">2003</date>
+			<biblScope unit="page" from="183" to="197" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title level="a" type="main">Only Connect&apos;: The Aesthetics of Fragmentation and Mindful Literary Studies</title>
+		<author>
+			<persName><forename type="first">Sibylle</forename><surname>Baumbach</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Literature and Literary Studies in the Twenty-First Century</title>
+		<editor>
+			<persName><forename type="first">Ansgar</forename><surname>Nünning</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">Vera</forename><surname>Nünning</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">Alexander</forename><surname>Scherr</surname></persName>
+		</editor>
+		<imprint>
+			<biblScope unit="page" from="73" to="92" />
+		</imprint>
+	</monogr>
+	<note>wvt, 2021</note>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title level="a" type="main">The Novel: An Undead Genre</title>
+		<author>
+			<persName><forename type="first">Sibylle</forename><surname>Baumbach</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Birgit</forename><surname>Neumann</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">New Approaches to the Twenty-First Century Novel</title>
+		<editor>
+			<persName><forename type="first">Sibylle</forename><surname>Baumbach</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">Birgit</forename><surname>Neumann</surname></persName>
+		</editor>
+		<imprint>
+			<publisher>Palgrave</publisher>
+			<date type="published" when="2019">2019</date>
+			<biblScope unit="page" from="1" to="17" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<monogr>
+		<title level="m" type="main">Art in Contemporary Anglo-American Fiction: The Ekphrastic Novel</title>
+		<author>
+			<persName><forename type="first">Sofie</forename><surname>Behluli</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2025">2025</date>
+			<pubPlace>Oxford UP</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<monogr>
+		<title level="m" type="main">The Cambridge Companion to British Fiction</title>
+		<author>
+			<persName><forename type="first">Peter</forename><surname>Boxall</surname></persName>
+		</author>
+		<editor>Peter Boxall. Cambridge UP</editor>
+		<imprint>
+			<date type="published" when="1980">1980-2018. 2019</date>
+			<biblScope unit="page" from="1" to="14" />
+		</imprint>
+	</monogr>
+	<note>Introduction: Framing the Present</note>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<monogr>
+		<title level="m">The Value of the Novel</title>
+		<imprint>
+			<publisher>Cambridge UP</publisher>
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<monogr>
+		<author>
+			<persName><forename type="first">James</forename><surname>Bridle</surname></persName>
+		</author>
+		<title level="m">New Dark Age Technology and the End of the Future</title>
+		<imprint>
+			<publisher>Verso</publisher>
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title level="a" type="main">Ekphrasis in the Digital Age: Responses to Images</title>
+		<author>
+			<persName><forename type="first">Renate</forename><surname>Brosch</surname></persName>
+		</author>
+		<idno type="DOI">10.1215/03335372-4324420</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Poetics Today</title>
+		<imprint>
+			<biblScope unit="volume">39</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="225" to="243" />
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">Sam</forename><surname>Byers</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Perfidious Albion. Faber &amp; Faber</title>
+		<imprint>
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">Eleanor</forename><forename type="middle">Birnam</forename><surname>Catton</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Wood</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2023">2023</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<monogr>
+		<title level="m" type="main">Here Is the Beehive</title>
+		<author>
+			<persName><forename type="first">Sarah</forename><surname>Crossan</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2020">2020</date>
+			<pubPlace>Bloomsbury</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<monogr>
+		<title level="m" type="main">The Routledge Companion to Twenty-First Century Literary Fiction</title>
+		<author>
+			<persName><forename type="first">Zara</forename><surname>Dinnen</surname></persName>
+		</author>
+		<editor>Daniel O&apos;Gorman and Robert Eaglestone. Routledge</editor>
+		<imprint>
+			<date type="published" when="2018">2018</date>
+			<biblScope unit="page" from="213" to="224" />
+		</imprint>
+	</monogr>
+	<note>The Digital</note>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<monogr>
+		<title level="m">The Digital Banal: New Media and American Literature and Culture</title>
+		<meeting><address><addrLine>Columbia UP; Eggers, Dave. The Circle</addrLine></address></meeting>
+		<imprint>
+			<publisher>Knopf</publisher>
+			<date type="published" when="2013">2018. 2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<monogr>
+		<title level="m" type="main">Attention Equals Life: The Pursuit of the Everyday in Contemporary Poetry and Culture</title>
+		<author>
+			<persName><forename type="first">Andrew</forename><surname>Epstein</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Davis</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2016">2016. 2019</date>
+			<publisher>Evaristo, Bernardine. Girl, Woman, Other. Hamish Hamilton</publisher>
+			<pubPlace>Oxford UP</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<monogr>
+		<title level="m" type="main">Hello World: How to Be Human in the Age of the Machine</title>
+		<author>
+			<persName><forename type="first">Hannah</forename><surname>Fry</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<monogr>
+		<title level="m" type="main">Museum of Words: The Poetics of Ekphrasis from Homer to Ashbery</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">A W</forename><surname>Heffernan</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1993">1993</date>
+			<pubPlace>Chicago UP</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<analytic>
+		<title level="a" type="main">The Post-Theory Theory Novel</title>
+		<author>
+			<persName><forename type="first">Mitchum</forename><surname>Huehls</surname></persName>
+		</author>
+		<idno type="DOI">10.3368/cl.56.2.280</idno>
+	</analytic>
+	<monogr>
+		<title level="m">Contemporary Literature</title>
+		<imprint>
+			<date type="published" when="2015">2015</date>
+			<biblScope unit="volume">56</biblScope>
+			<biblScope unit="page" from="280" to="310" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<monogr>
+		<title level="m" type="main">Twenty-First Century Fiction</title>
+		<author>
+			<persName><forename type="first">Daniel</forename><surname>Lea</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2016">2016</date>
+			<publisher>Manchester UP</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<analytic>
+		<title level="a" type="main">A Visual Sense is Born in the Fingertips&apos;: Towards a Digital Ekphrasis</title>
+		<author>
+			<persName><forename type="first">Cecilia</forename><surname>Lindhé</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Digital Humanities Quarterly</title>
+		<imprint>
+			<biblScope unit="volume">7</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<analytic>
+		<title level="a" type="main">The Circle by Dave Eggers -Review</title>
+		<author>
+			<persName><forename type="first">Alexander</forename><surname>Linklater</surname></persName>
+		</author>
+		<ptr target="https://www.theguardian.com/books/2013/oct/12/the-circle-dave-eggers-review" />
+	</analytic>
+	<monogr>
+		<title level="m">The Guardian</title>
+		<imprint>
+			<date type="published" when="2013-10-12">12 Oct. 2013. May 2025</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<monogr>
+		<title level="m" type="main">No One Is Talking About This</title>
+		<author>
+			<persName><forename type="first">Patricia</forename><surname>Lockwood</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2021">2021</date>
+			<pubPlace>Riverhead</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<analytic>
+		<title level="a" type="main">Nature&apos;s Mischief: A Booker Winner&apos;s High-Class Eco-Thriller</title>
+		<author>
+			<persName><forename type="first">Claire</forename><surname>Lowdon</surname></persName>
+		</author>
+		<ptr target="https://www.the-tls.co.uk/literature/fiction/birnam-wood-eleanor-catton-book-review-claire-lowdon" />
+	</analytic>
+	<monogr>
+		<title level="j">TLS</title>
+		<imprint>
+			<date type="published" when="2023-03-03">3 Mar. 2023. May 2025</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<monogr>
+		<title level="m" type="main">Brainwash, Condition, Repeat: Dave Eggers&apos;s &apos;The Circle&apos;</title>
+		<author>
+			<persName><forename type="first">Susannah</forename><surname>Luthi</surname></persName>
+		</author>
+		<ptr target="https://lareviewofbooks.org/article/dave-eggerss-the-circle/" />
+		<imprint>
+			<date type="published" when="2013-11-27">27 Nov. 2013. May 2025</date>
+		</imprint>
+	</monogr>
+	<note>LA Review of Books</note>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<monogr>
+		<title level="m" type="main">Cambridge Companion to the Novel</title>
+		<author>
+			<persName><forename type="first">Jessica</forename><surname>Pressman</surname></persName>
+		</author>
+		<editor>Eric Bulson. Cambridge UP</editor>
+		<imprint>
+			<date type="published" when="2018">2018</date>
+			<biblScope unit="page" from="254" to="267" />
+		</imprint>
+	</monogr>
+	<note>The Novel in the Digital Age</note>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<monogr>
+		<title level="m" type="main">Fame Attack: The Inflation of Celebrity and Its Consequences. Bloomsbury, 2012. Shields, David. Reality Hunger: A Manifesto</title>
+		<author>
+			<persName><forename type="first">Chris</forename><surname>Rojek</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2010">2010</date>
+			<publisher>Knopf</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<monogr>
+		<title level="m" type="main">On Photography. Penguin</title>
+		<author>
+			<persName><forename type="first">Susan</forename><surname>Sontag</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1979">1979</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b27">
+	<analytic>
+		<title level="a" type="main">Celebrity 2.0: Female Influencer Figures in Contemporary American Fiction</title>
+		<author>
+			<persName><forename type="first">Julia</forename><surname>Straub</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">The Politics of Transparency in Modern American Fiction</title>
+		<editor>
+			<persName><forename type="first">Paula</forename><surname>Martín-Salván</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">Sascha</forename><surname>Pöhlmann</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Camden House</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2024">2024</date>
+			<biblScope unit="page" from="296" to="313" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b28">
+	<monogr>
+		<author>
+			<persName><forename type="first">Pieter</forename><surname>Vermeulen</surname></persName>
+		</author>
+		<title level="m">Contemporary Literature and the End of the Novel: Creature, Affect, Form</title>
+		<imprint>
+			<publisher>Palgrave Macmillan</publisher>
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b29">
+	<monogr>
+		<title level="m" type="main">Patricia Lockwood on the Extremely Online</title>
+		<author>
+			<persName><forename type="first">David</forename><forename type="middle">S</forename><surname>Wallace</surname></persName>
+		</author>
+		<ptr target="https://www.newyorker.com/books/this-week-in-fiction/patricia-lockwood-11-30-20" />
+		<imprint>
+			<date type="published" when="2020-11-23">23 Nov. 2020. May 2025</date>
+		</imprint>
+	</monogr>
+	<note>The New Yorker</note>
+</biblStruct>
+
+<biblStruct xml:id="b30">
+	<analytic>
+		<title level="a" type="main">The Art of Fiction in the Age of Social Media</title>
+		<author>
+			<persName><forename type="first">Rebecca</forename><surname>Watson</surname></persName>
+		</author>
+		<ptr target="https://www.ft.com/content/f" />
+	</analytic>
+	<monogr>
+		<title level="m">551cc98-fefa-11e9-b7bc-f3fa4e77dd47</title>
+		<imprint>
+			<date type="published" when="2019-11-08">8 Nov. 2019. June 2022</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b31">
+	<monogr>
+		<title level="m" type="main">Reconsidering the Conventions of the So-Called Internet Novel</title>
+		<author>
+			<persName><forename type="first">James</forename><surname>Webster</surname></persName>
+		</author>
+		<ptr target="https://lithub.com/reconsidering-the-conventions-of-the-so-called-internet-novel/" />
+		<imprint>
+			<date type="published" when="2022-02-25">25 Feb. 2022. May 2025</date>
+		</imprint>
+	</monogr>
+	<note>Literary Hub</note>
+</biblStruct>
+
+<biblStruct xml:id="b32">
+	<monogr>
+		<title level="m" type="main">Fictions of the Internet&apos;: From Intermediality to Transmedia Storytelling in 21st-Century Novels</title>
+		<author>
+			<persName><forename type="first">Anna</forename><surname>Weigel-Heller</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+	<note>wvt</note>
+</biblStruct>
+
+<biblStruct xml:id="b33">
+	<monogr>
+		<title level="m" type="main">Little Scratch Review -Superb Staging of Rebecca Watson&apos;s Novel</title>
+		<author>
+			<persName><forename type="first">Chris</forename><surname>Wiegand</surname></persName>
+		</author>
+		<ptr target="https://www.theguardian.com/stage/2021/nov/12/little-scratch-review-rebecca-watson-katie-mitchell" />
+		<imprint>
+			<date type="published" when="2021-11-12">12 Nov. 2021. May 2025</date>
+		</imprint>
+	</monogr>
+	<note>The Guardian</note>
+</biblStruct>
+
+<biblStruct xml:id="b34">
+	<monogr>
+		<title level="m" type="main">The Cambridge Companion to British Fiction</title>
+		<author>
+			<persName><forename type="first">Leigh</forename><surname>Wilson</surname></persName>
+		</author>
+		<editor>Peter Boxall. Cambridge UP</editor>
+		<imprint>
+			<date type="published" when="1918">1918-2018. 2019</date>
+			<biblScope unit="page" from="47" to="66" />
+		</imprint>
+	</monogr>
+	<note>Post-Millennial Literature</note>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

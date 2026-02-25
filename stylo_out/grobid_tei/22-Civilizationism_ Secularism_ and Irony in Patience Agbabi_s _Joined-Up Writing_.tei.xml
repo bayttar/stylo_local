@@ -1,0 +1,1230 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Civilizationism, Secularism, and Irony in Patience Agbabi&apos;s &quot;Joined-Up Writing&quot;</title>
+				<funder ref="#_ZT8swVf #_kmafMMA">
+					<orgName type="full">unknown</orgName>
+				</funder>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName><forename type="first">Cynthia</forename><surname>Quarrie</surname></persName>
+						</author>
+						<author role="corresp">
+							<persName><forename type="first">Stephen</forename><forename type="middle">M</forename><surname>Yeager</surname></persName>
+							<email>stephen.yeager@concordia.ca</email>
+						</author>
+						<author>
+							<affiliation key="aff0">
+								<orgName type="department">English Department</orgName>
+								<orgName type="institution">Concordia University</orgName>
+								<address>
+									<settlement>Montreal</settlement>
+									<region>QC</region>
+									<country key="CA">Canada</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff1">
+								<orgName type="institution">A Short Media History of English Literature</orgName>
+								<address>
+									<postCode>55</postCode>
+									<settlement>Berensmeyer</settlement>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Civilizationism, Secularism, and Irony in Patience Agbabi&apos;s &quot;Joined-Up Writing&quot;</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date/>
+						</imprint>
+					</monogr>
+					<idno type="MD5">C9AED37C1724C49AF3DB13F0CB6FC768</idno>
+					<idno type="DOI">10.1080/0013838X.2025.2560433</idno>
+					<note type="submission">Received 16 May 2025 Accepted 7 September 2025</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.0" ident="GROBID" when="2026-02-25T19:54+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term>Agbabi</term>
+					<term>Chaucer</term>
+					<term>Paul Gilroy Barrington and Hsy, &quot;Remediated Verse&quot;</term>
+					<term>Miller, &quot;Patience Agbabi, The Canterbury Tales&quot;</term>
+					<term>Ravizza, &quot;Alterity Remixed&quot;</term>
+					<term>Pavlinich, Erotic Medievalisms</term>
+					<term>Vaade, &quot;Theories of Anthologizing and Decolonization&quot;. 2</term>
+				</keywords>
+			</textClass>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>In her retelling of Chaucer's 'Man of Law's Tale' in her collection Telling Tales, Patience Agbabi comments on what Paul Gilroy calls 'civilizationism' in the British literary public, as the narrator of her tale expresses not only xenophobia and racism but a principled secularism along the lines of the 'New Atheists'. The text demonstrates a productive ambivalence about the double-bind of xenophobia and globalising forces in the UK, especially when they coalesce around religious and secular institutions. More to the point, this ambivalence responds to the potential misreading of Telling Tales, that would reduce it to an uncritical celebration of British cosmopolitan multiculturalism.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>canon formation have demonstrated how inadvisable it is to frame corpora of literature as the sorts of things that can have "fathers", as such framings perpetuate the (patriarchal) systems of imperialism that our educational systems have done so much to support, 4 and Agbabi's "re-mix" of the Canterbury Tales has provided a way of accessing Chaucer that circumvents this critique. <ref type="bibr">5</ref> However, the instrumentalization of her work as a mere source of renewed authenticity for Chaucer's work does short shrift to both her poetry and its inspiration, both of which are as trenchant and thought-provoking as they are humorous and enjoyable.</p><p>In this essay, we will aim to move past this celebratory scholarly conversation about Agbabi's contribution to Chaucer studies to engage with her work's comment on the complexities of Agbabi's own time and place. Telling Tales' engagement with active, ongoing problems and contradictions in contemporary Britain has proved especially prescient in the wake of the Brexit referendum, which passed two years after it was published, and this aspect of the text merits more critical attention. More specifically, we will point to Agbabi's representation of what Paul Gilroy (among others) calls "civilizationism" in her rewriting of "The Man of Law's Tale", a corona of sonnets titled "Joined-up Writing". <ref type="bibr">6</ref> As others have written, this adaptation responds not only to Chaucer's original but also to a celebrated BBC adaptation for television from 2003 that also figures the hero Custaunce as an African woman immigrant, but with two striking points of departure. The first is that the speaker of "Joined-up Writing" is the "bigoted mother-in-law" who is only a minor, villainous character in both the original poem and the TV adaptation. <ref type="bibr">7</ref> The second departure is that the form of the text is a corona or "crown" of sonnets, a highly traditional form where each sonnet ends with the first line of the next and the last sonnet ends with the first line of the first, making it "joined up", a circle or a "crown". In our reading, we will tease out the tension between this elevated, traditional, and highly literary form of the work and the character of its working-class, northern speaker, in a way that marks "Joined-up Writing" as not only a self-consciously literary exploration of "writing" (as the title suggests) but also fundamentally concerned with the political contradictions that distinctions and collisions between "high" and "low" literary modes can help to expose. (The term "joined-up" itself points to this tension, as a colloquial description of both cursive writing, which is referred to as such in the poem, and the more rigid form of the sonnet corona, which "elevates" the voice of the speakerpersona in contradictory ways.)</p><p>Several studies have already examined "Joined-up Writing" in terms of its representation of its speaker's racism. <ref type="bibr">8</ref> Here, we will build on these readings to show how the text demonstrates a productive ambivalence about the double-bind of nativist xenophobia and capitalist globalisation in the UK, especially when they coalesce around religious and secular institutions. More to the point, this ambivalence anticipates and responds to a potential misreading of Telling Tales that would reduce it to an uncritical celebration of 4 For an overview of this well-known critique see Marx, 'Postcolonial Literatur".   5   On the collection as a 'remix' see Agbabi, "Stories in Stanza' d English," 2.   6   Gilroy, After Empire. Gilroy cites no source for the term 'civilizationism,' but After Empire is not its first occurrence. In 2002, Gayatri Spivak claimed the term was coined by Henry Staten, who used it in a private e-mail correspondence: Spivak, "Response," 207. Here, we use Gilroy's definition of 'civilizationism' because of its connection to his analysis of postcolonial melancholia. 7 O'Connell, "'Think of All the Differences!'," 15. On these adaptations see Kelly, "The BBC Canterbury Tales (2003)". 8 Hsy, "Brown Faces," 388-9. On Agbabi and the sonnet form see Coppola, 'Queering Sonnets".</p><p>British cosmopolitan multiculturalism. On the contrary, as "Joined-up Writing" (and, as we will discuss, the adaptation of "The Prioress' Tale", "Sharps an Flats") particularly illustrate, Telling Tales is primarily concerned with representing problems and conflicts in contemporary Britain that have, in the years since the work was originally published, only gotten worse. But before we can dive into this poem sequence and explain its metafictional comment on the socio-literary context of Telling Tales' production and reception, we will briefly survey the reception of Agbabi's poetry in the field of Chaucer studies specifically, which has so overwhelmingly shaped its critical reception more generally.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Patience Agbabi's Reception in Chaucer Studies</head><p>Since the mid-twentieth century, the transfer of global power to the US, the loss of one colonial state after another, the hybridisation and diversification of British citizenry, and the decentring processes of global capital have made it increasingly difficult to talk about Englishness or Britishness as such at all, and especially about a unified British literary culture. Writing about British identity in the immediate aftermath of Britain's commitment to wars in Afghanistan and Iraq, Paul Gilroy offered a psychoanalytic framework for understanding this disorientation, and the pathologies that sometimes attend it, with a condition he calls "postcolonial melancholia". He describes it as "an inability to face, never mind actually mourn, the profound change in circumstances and moods that actually followed the end of empire and consequent loss of imperial prestige", and as "the shock and anxiety that followed from the loss of any sense that the national collective was bound by a coherent and distinctive culture". <ref type="bibr">9</ref> This essay proceeds from the assumption that postcolonial melancholia has shaped the reception of Agbabi's translations from The Canterbury Tales in ways that the author appears to have anticipated. Though excerpts from Chaucer's text still appear near the beginning of most historical surveys of English literature, scholars and teachers of medieval English can no longer assume that students will find Chaucer useful or even interesting. The one advantage The Canterbury Tales has in this new critical environment is its status as a diverse, hybridised text in its original construction. And the particular pedagogical affordance of Agbabi's adaptation is that her representation of a diverse, hybridised Britain enables her work to make an implicit claim for continuity in discontinuity that enables her readers to sidestep the narrative of national decline completely.</p><p>As the scholarship cited above demonstrates, this aspect of Telling Tales is well-recognized by critics. At the same time, the other most famous aspect of Chaucer's poetry is "Chaucerian irony", which is to say his particular mastery at calling attention to his own situatedness as a speaker, poet, and historical figure, and the unbridgeable gaps between these quite distinct personae all going by the name of "Chaucer". 10 Beyond just celebrating multicultural Britain, then, Telling Tales also carefully and thoughtfully represents the social and political dynamics that continue to divide British society by race, class, and gendered and sexual identities, dynamics which have only become more pronounced in the years since the collection first appeared. Like The Canterbury Tales of the critical imagination, Agbabi's work also displays a masterful combination of generous selfeffacement and unflinching critique, which similarly uses the intrinsic ambiguities of voice introduced by its form (where the speakers in poems are given voice by poets who are in turn the inventions of the work's author) to deftly and concisely evoke complex political situations without limiting the reader to any one perspective.</p><p>In our reading below, we will show how Agbabi represents in particular what Paul Gilroy calls "civilizationism", a mindset closely related to postcolonial melancholia. In essence, civilizationism is a form of nationalism that transcends specific national boundaries to focus on other affinities and to deligitimize any dissent among the populations on the various sides of global conflicts. Though the nations that make up this amorphous and monolithic notion of "civilization" just so happen predominantly to be sites of nineteenth century colonial power with post-Christian secular governments (the UK, France, the US, Canada, and so on), civilizationists focus rather on "the deceit of the terrorists and the catastrophic effects of mass immigration by the alien populations from which they emanate", which "have distorted what we can call the proper cultural ecologies of nation states, which we are expected to believe were homogeneous until the immigrants showed up after 1945". <ref type="bibr">11</ref> Gilroy's choice of this date at the end of World War II drives home how civilizationism can manifest as a symptom of postcolonial melancholia, in that traumatic, epistemic loss is rerouted through the classic defensive gesture of the persecution complex.</p><p>Gilroy's concept of civilizationism is useful for reading Agbabi's self-representation in Telling Tales for several reasons. First, in its origins, British civilizationism is deeply invested in those most widely celebrated markers of civilisation, which are the so-called "great books" like The Canterbury Tales. Dating from the period when English people first enter the historical record and all of the great colonial secular institutions are first founded (the monarchy, Parliament, the common law, Oxford), the secular authors of the Middle Ages have always appealed to the civilizationist worldview, well-represented among the most prominent British literary authors of the period immediately after 9/11 when Gilroy first developed his terminology. Particularly notable examples of anti-immigrant civilizationists in this period were the so-called New Atheists. In the writings of figures like Richard Dawkins and Christopher Hitchens, critiques of organised religion originating in leftist labour politics leant themselves very naturally to xenophobic imperatives that immigrants abandon their original cultures, and in particular to Islamophobic support for the wars in Afghanistan and Iraq.<ref type="foot" target="#foot_1">12</ref> Among the most prominent British New Atheists to emerge at this time were the novelists Martin Amis and Ian McEwan, whose novels written in the immediate wake of 9/11 (Yellow Dog [2003] and Saturday [2005] respectively) make these politics rather explicit in terms that explicitly evoke the canon of English literature as a marker of civilisation-for example, Saturday depicts an act of "terrorism" thwarted by a recitation of Matthew Arnold's poem "Dover Beach". <ref type="bibr">13</ref> In the twenty years since, scholars engaging with Gilroy's term have tended to define "civilizationism" as a predominantly populist counterdiscourse to multiculturalism, diversity, and other relatively liberal views of globalisation, whose Islamophobia for example is sometimes grounded less in the intellectual commitment to rational secularism of the authors cited above than it is in an anti-intellectual commitment to xenophobia and racism.<ref type="foot" target="#foot_3">14</ref> Nonetheless, we think that these contradictions in the term "civilizationism" make it a useful name for the attitude of the speaker in "Joined-up Writing". To a civilizationist whose values include an investment in both secularism and literature, there is an ambivalent appeal to Agbabi's literary project. For one thing, Chaucer was not only an excellent poet but a secular bureaucrat whose particular brilliance at specifically anti-clerical satire is well-known. <ref type="bibr">15</ref> A reader who knew only the bare facts about Telling Tales might imagine it to be a text by a colonised subject who has acknowledged the superiority of "the West" though her identity might place her on the "other side" of the perceived civilizational war. As we will demonstrate, Agbabi anticipates this possible misconstrual of her work and carefully, decisively forecloses on it, to offer instead something more complex, more interesting, and paradoxically more true to the pluralistic values that rational-secularist civilizationists claim for themselves. The gap in "Joined-up Writing" between the bigotry of its speaker's actions and the elevation of the sonnet corona form she uses to express herself elegantly and succinctly demonstrates the contradictions of postimperial melancholia as they apply to contemporary British literature.</p><p>In the next section, we will explain how "The Man of Law's Tale" provided Agbabi a particularly rich source of materials for engaging with these themes, because most contemporary readers believe it exposes very similar contradictions in the Christian imperial project of medieval European nations like England. Agbabi's rewriting of this tale in "Joined-up Writing" instantiates how Telling Tales makes its deep and penetrating comment on twenty-first century Britain by moving beyond the (again, undeniable) cleverness with which it re-imagines Chaucer's original in modern settings to engage with difficult, messy political realities-as, indeed, Agbabi herself would demonstrate with the explicitly political Refugee Tales project, whose first volume was published on the exact same day as that great civilizationist triumph, the 2016 Brexit referendum. <ref type="bibr">16</ref> More to the point, it does so through the Chaucerian technique of placing complex and multi-faceted characters in dialogue with each other, having them ventriloquise other perspectives in speech acts whose meanings are open to readerly interpretation.</p><p>Our reading of "Joined-up Writing" below focuses on the civilizationist character of the sonnet crown's speaker-nameless except that she refers to herself as her son's "poor old mam". For all that this work is brief and beautifully constructed, Mam's tale packs in several ugly microaggressions, signalling to readers her racist xenophobia through her very denial thereof, for example when she says, "Not that I'm prejudiced, some of my best / friends are foreign" (p. 22). Mam's actions obviously suggest otherwise. Her son Ollie marries an African woman named Constance, whom Mam hates. Wishing to end their marriage, she replaces a letter from her son to his wife after the birth of Mam's grandson with a forgery, accusing Constance of infidelity. Needless to say, when her son and daughter-in-law discover what she's done, it ends her relationship with them. The irony we wish to point to here is that Mam's claim to cosmopolitanism (her best friends are "foreign") suggests an orientation towards diversity in literature that would, in theory, welcome the idea of the revisioning of major canonical works like The Canterbury Tales by racialized poets like Agbabi, though in fact Mam's commentary and actions suggest that she would find the actual Telling Tales bewildering or even repugnant. The combination of sympathy for and disavowal of "foreign" British subjects attributed to the character of Mam is therefore a form of engagement with the potential readership of Telling Tales, exposing the contradictions in their nominally cosmopolitan values in its rewriting of a work of Chaucer that makes a particularly poor case for its author's cosmopolitanism. Though Agbabi makes no pretense to being a scholar of Chaucer, what is so interesting about her adaptation of these tales is most legible against the background of the critical conversation about the Man of Law's Tale. To show how this works, we will now turn to a survey of this conversation.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Imperialism and "The Man of Law's Tale"</head><p>A major problem for Chaucer criticism in the twenty-first century has been the question of whether or not is it productive to call Chaucer's worldview "colonial". The oldest manuscripts of the collection are dated approximately 1400 CE, and it seems that they were compiled and circulated immediately after his death. The first African slaves were not kidnapped by the Portuguese until the 1440s, and Columbus made his voyage to Hispaniola in the 1490s. At the same time, practices of slavery and the word and concept colonia both date back long before Chaucer to ancient Rome. More specifically, if "racism" as a construct is understood as an ideological superstructure that emerged from the material base of global relations following the infamous earlymodern "triangle trade" of modern slavery and other forms of resource extraction, to what extent is the concept of "race" useful for talking about structures of systemic injustice in medieval England? <ref type="bibr">17</ref> Here, we follow Geraldine Heng, who has defined race as "one of the primary names we have … attached to a repeating tendency, of the gravest import, to demarcate human beings through differences among humans that are selectively essentialized as absolute and fundamental, in order to distribute positions and powers differentially to human groups". <ref type="bibr">18</ref> The notion of "civilizationism" is an example of how such demarcations can extend beyond the specific categories of race even now, such that even in our readings of contemporary literature by racialized authors, "race" provides only a partial starting point for interrogating how embodiment and marginalisation shape writerly perspectives.</p><p>The question of when racism begins has proven particularly pertinent to the task of reading "The Man of Law's Tale", which at the very least seems quite racist to most modern readers. The Tale is a legend of how England found itself incorporated into the network of global Christian imperialism that in its later forms would be referred to collectively as "Western civilization". <ref type="bibr">19</ref> The tale's hero, "Custaunce" ("Constance" in its analogues), is the daughter of the Christian Roman emperor who is sent overseas to marry the Sultan of Syria, incorrectly figured as Muslim (Syria was Christian in the timeframe of the poem). No sooner does she arrive than the Sultan's mother kills her son in a successful coup and then immediately exiles Custaunce. Somewhat improbably, she drifts aimlessly all the way through the straits of Gibraltar and up to Northumbria, where she marries the local king Alla (the analogy for Agbabi's "Ollie") and once again finds herself in conflict with her mother-in-law Donegild (Agbabi's "Mam"). Alla leaves home to fight in a war while Custaunce is pregnant, and so Donegild forges letters to trick Alla into exiling Custaunce and their newborn son Maurice. But Alla discovers his mother's treachery, has her executed, and ultimately reconnects with Custaunce and Maurice, who goes on to become the emperor of Rome.</p><p>This legendary story-first attested in a chronicle by the Dominican friar Nicholas Trevet but also translated by Chaucer's contemporary John Gower-rewrites the history of England's conversion to Christianity that first appears in Bede's Ecclesiastical History of the English People. <ref type="bibr">20</ref> The Romans had claimed the island of Britain since the reign of the emperor Claudius. During the waves of migration in the fifth and sixth centuries CE, non-Christian tribes of Angles and Saxons from southern Denmark and northern Germany migrated into Britain and became the ancestors of the modern English. "English" identity per se is indelibly shaped by Bede's account of the pope Gregory the Great, who sent a mission to convert these ancestors of the modern "English" to Christianity. <ref type="bibr">21</ref> Bede says that Gregory was inspired to do this during the reign of a king Aelle in Northumbria, and with the permission of a Roman emperor Mauritius. By contrast, then, the legendary tale of Custaunce writes the pope Gregory out of this conversion story, framing the expansion of Christian imperium into England as a consequence of the far more secular (and improbable) story of a marriage between a Roman princess and an English king. In these particulars, then, the text anticipates many of the hallmarks of Gilroy's "civilizationism", and it is unsurprising that so many critics of the tale have sought to unpack how the tale prefigures the colonial dynamics of an Empire that would be governed by the British crown.</p><p>When he introduces the tale, the Man of Law claims that he heard it from a merchant (II.132). <ref type="bibr">22</ref> In his influential reading, Jonathan Hsy argues that this indicates how "narrative is, quite literally, the most precious resource that merchants transport", and that this reflects a larger concern for the circulation and transmission of texts in the tale. <ref type="bibr">23</ref> And as David Wallace has written, Custaunce's boat seem less like the "ship of the Church" than it does like a merchant's ship, in a way that appears to transform the entire story from an allegory for Roman Christian imperium into an allegory for proto-colonial mercantilism -though given how much later settler-colonial ideology would be based in missionary zeal, it's debatable whether these two historical developments may be productively distinguished from one another. 24 19 Lavezzo, "Beyond Rome"; Akbari, "Orientation and Nation"; Dor, "Chaucer's Viragos"; Schibanoff, "Worlds Apart". 20 See Frankis, "King AElle and the Conversion of the English"; Correale and Hamel, Sources and Analogues, II.297-329._ 21 For Gregory's influence on the ethnonym 'English' see Wormald, "Bede, the Bretwaldas and the Origins of the Gens Anglorum". <ref type="bibr">22</ref> All citations from The Canterbury Tales are from Benson, The Riverside Chaucer. <ref type="bibr">23</ref> Hsy, Trading Tongues, 68. <ref type="bibr">24</ref>  Wallace, Chaucerian Polity, 182-211, esp. 196-201. See also Kolve, Chaucer and the Imagery of Narrative, 297-358; Hsy,  Trading Tongues, 65-79.  In her astute and influential account of the politics of "The Man of Law's Tale", Kathy Lavezzo discusses the vexed relationship between the emergent English nation and its "mother", the Christian Roman empire. <ref type="bibr">25</ref> Motherhood, then, is central to the text's symbolic economy for representing the fates of imperial nations. Lavezzo draws particular attention to the tale's remarkable and anachronistic depiction of Syria as an Islamic state, whose negative counterpart to conversion-era England facilitates the larger project of bringing the latter into the narrative of continuing imperial hegemony. In Chaucer's version, the "Mam" character Donegild develops her hatred for daughterin-law and grandson simply because Custaunce is "so straunge a creature" (II.700)which is to say, because she is both foreign and novel, without genetic precedent in the pre-existing royal line of sovereign descent. And though Donegild is one of the villains of the story, most twenty-first studies of the tale have criticised the Man of Law's narration for its sexist, racist "othering" of her character. <ref type="bibr">26</ref> Like the Muslim Sultanness with whom she is clearly paralleled, Donegild is a colonised subject who refuses to give in to the imperial powers that aim to convert and subjugate her, and though her refusal ultimately costs her life, this refusal arguably makes her heroic. It is very striking, then, that in Agbabi's adaptation, Constance is racialized and marginalised and so equated with Donegild and the Sultanness while "Mam", occupying Donegild's position in the tale, is not only white and xenophobic but is the speaker of the piece, tying her to the same secular, mercantile, and in Chaucer's day still largely aspirational British imperialism whose mythic origin is symbolised by Custaunce in the original tale.</p><p>One major point of agreement between the few scholars cited above who have dug into the complex, bewildering "Man of Law's Tale" is that the text is deeply ambiguous, ambivalent, and almost impenetrable, a shaggy and shifting monstrosity whose meaning seems to change every time one encounters it. As we have already suggested, Agbabi's brief crown of sonnets is similarly complex, to a degree that merits further elucidation. Though in an interview she clearly names Mam a "villain" (p. 6), Agbabi does not appear to imagine her to be entirely unsympathetic, and the figure is clearly designed to produce a sort of productive ambivalence around the ways in which post-colonial melancholia and civilizationism operate. Other critics have already observed that the circular structure of the traditional sonnet crown is only one indication that this narrator is trapped in an unproductive, melancholic loop. <ref type="bibr">27</ref> The final sonnet of "Joined Up Writing" reads:</p><p>There is no God. Only you home helps now who make weak tea and ask about my son.</p><p>There's dust on the computer screen. God knows, I'm fast forgetting how to switch it on. It hurts my hands to use a mobile phone, he'll never ring it anyway, no doubt, they'll not have phones in Africa. Alone, I'm dying a slow death since he walked out. I trawl the bookshops searching for his name, gold embossed letters lighting up a spine <ref type="bibr">25</ref> Lavezzo, "Beyond Rome". See also Nakley, Living in the Future, 151-79. <ref type="bibr">26</ref> Dor, "Chaucer's Viragos"; Hamaguchi, "Transgressing"; Schibanoff, "Worlds Apart"; Nakley, Living in the Future. <ref type="bibr">27</ref> Hsy, "Brown Face," 388.</p><p>five hundred pages full of guilt and shame. But naught in there comes equal to my crime: I signed his name; betrayed, in black and white, my son, the writer. No, pet, he'll not write. <ref type="bibr">28</ref> Civilizationism provides a useful framework for describing this final framing of Mam's formal and melancholic loop. On the one hand there is the disdain for contemporary digital technology: the computer collects dust, the mobile phone hurts her hands, and neither can give her access to her son. Contrasted with this is the older technology of the book, on whose spine she can read his name, and in which she can connect to him through his fictionalisation of the emotions that dominate her lived experience: guilt, shame, and so by extension melancholia. Again, the echo of the poem's first line in the final words-"he'll not write"-underscore that the poem has not represented a movement by Mam towards understanding, but only a loop that her civilizationist ideology will not allow her to escape. And as we will discuss in greater detail in the next section, it is highly significant that the poem's concluding expression of hopelessness begins with a recitation of that key rational-secularist article of faith, "There is no God". Gilroy writes that "by addressing conflicts between groups of associated national states rather than within them, civilizationist common sense scorns the idea that public dissidence could ever be a measure of the buoyancy and health of a democracy".<ref type="foot" target="#foot_9">29</ref> When Mam's daughter-in-law joined her family, this positioned her within Mam's own group, but because of racism, ignorance, and melancholia, Mam treated her as a member of another national state, crossing lines in their relationship that one would not cross unless one were engaging with an enemy. Mam is not a queen of Syria or Northumbria, and so there is actually no issue of national sovereignty at stake in her engagement with Constance. Mam's suffering, then, originates in her stubborn misunderstanding of this fact, and her equally stubborn refusal to educate herself. If she were to turn on her computer and Google "do they have phones in Africa?", for instance, she could very easily correct this misconception, but she chooses her ignorance wilfully, or at least symptomatically.</p><p>In the next section, we will proceed from this reading to argue that Mam allegorises the British civilizationist sentiments that would soon culminate in the Brexit referendum as the same sort of feeling a heartbroken mother has when she longs to reconnect with her son after she has lost his trust, but is ultimately too obstinate to act on this longing. This image emphasises the self-destructive impotence of post-colonial melancholia, whose main contribution to larger structures of harm comes through the disavowal, denial, and passivity that could, with effort, be replaced by productive contributions, if only melancholic civilizationists were not caught up in a looping nationalist fantasy of return. More to the point, "Joined-up Writing" positions Mam as a figure for the British reading public, which cannot help but be a self-referential gesture in a rewriting of a major canonical work of British literature.</p><p>As the title's reference to "writing" and the elevated form of the sonnet corona rather pointedly signal, the state of British literature in the early twenty-first century is central to this retelling of Constance's story. Instead of a king, Ollie is a novelist, and his publisher, Coronet, is not only a wink at both the royal "crown" and the poetic form of the sonnet "crown", but also a real pulp fiction paperback imprint publishing the works of major British authors P.G. Wodehouse and Ian Fleming (whose Coronet paperbacks were reprints). <ref type="bibr">30</ref> And if King Alla in the original poem symbolised a nascent form of the imperial, Christian English "crown" of Chaucer's time, Ollie in "Joined-up Writing" represents the status quo of English letters in Agbabi's own day, occupying that most-cherished position just below the middlebrow, where a writer can still have some self-respect (who doesn't admire Wodehouse's prose?) but also make some money. Where Alla's execution of his mother is a decisive turn towards global Christian imperium, Oliver's abandonment of his Northern,<ref type="foot" target="#foot_11">31</ref> working-class, secularist mother is a decisive turn away from the relatively insular ethos that dominated British literature before the rise of postcolonial literature. <ref type="bibr">32</ref> Mam's specific lament at the beginning and end of her sonnet crown-what brings the work full circle-is "he'll not write" (pp. 21, 27), and what is meant by this statement is that he will no longer write for her. <ref type="bibr">33</ref> By extension, his choice instead to move to Africa with his Zimbabwean, religious wife allegorises his (writerly) rejection of precisely the same white British postcolonial melancholia and civilizationism that might misinterpret Agbabi's project in Telling Tales. In the next section we will turn to a fuller consideration of the self-referential elements of the collection surrounding this poem, to show how its critique of civilizationism functions as a self-referential comment on the work as a whole.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Patience Agbabi, Memory Sergeant, and Civilizationist Secularism</head><p>In Agbabi's Telling Tales, the position of the Man of Law is occupied by Memory Anesu Sergeant, whose author biography is brief enough to quote in full: "Originates from Zimbabwe. She practised for several years as a barrister specialising in land law and leases. However, she began writing seriously during maternity leave and completed her first collection, Coat of Many Colours (Bloodaxe, 2008). She learns her poems off by heart and reads regularly on BBC Radio 4" (p. 119). As we have already said, the sonnet corona form is a crucial element of the poem's complex depiction of Mam's civilizationism. We should say more precisely: Memory Sergeant's choice of the sonnet corona form is a crucial element of the poem, whose sophistication marks Sergeant as the authorial voice of "Joined-up Writing". It is important to emphasise at the start that while Sergeant is a British author of African descent who in these particularities resembles Agbabi herself, these points of commonality provide the precise evidence that Sergeant is quite far indeed from acting as an authorial stand-in. Below we will argue that Agbabi's portrait of Sergeant is an "in-joke" about poetic jealousy at Agbabi's own expense that serves to complicate the authorial voice of the poem "Joined-up Writing".</p><p>Sergeant's fictional first book of poetry was published by Bloodaxe Books. The "About" page of the Bloodaxe website begins: "Bloodaxe Books has revolutionised poetry publishing in Britain over four decades. Internationally renowned for quality in literature and excellence in book design, our authors and books have won virtually every major literary award given to poetry, from the T.S. Eliot Prize, Costa Book of the Year and Pulitzer to the Nobel Prize in Literature". <ref type="bibr">34</ref> It is, in other words, a premiere venue for an author's first book of poetry. In contrast, the "About" page of Canongate, who published Agbabi's own first collection, Transformatrix (2001), is far less triumphalist than Bloodaxe. They cite one Booker Prize-winning novel (Yann Martel's The Life of Pi [2001]), Barack Obama's autobiography, Samin Nosrat's Salt, Fat, Acid, Heat (2017), and their two awards for Publisher of the Year. <ref type="bibr">35</ref> This is of course a very respectable record; but the Booker is not the Nobel. Hence the detail that Sergeant published her first collection with Bloodaxe invites a comparison to Agbabi where the fictional Sergeant shines by comparison, even to this very celebrated, very successful poet.</p><p>A similar dynamic applies to the detail that Sergeant wrote her collection on maternity leave. When Transformatrix appeared in print Agbabi was not yet a mother. By the time Telling Tales appeared 13 years later, she was. Agbabi has written since about how her first child, Solomon, was diagnosed with autism when he was five years old, and even her brief description of his needs in the first years of his life suggests that his infancy was probably not a period of high poetic productivity for her. <ref type="bibr">36</ref> If motherhood did impact Agbabi's productivity as a writer, then she is certainly not alone. Among academics there is a well-known correspondence between motherhood and lower productivity in publishing, documented in study after study going back to the 1970s, strongly suggesting that motherhood by itself is a major factor in the well-known cross-sector wage gap where women are promoted later and less frequently than their male peers. 37 Though of course Sergeant's successes in and of themselves have nothing to do with the larger state of gender inequity, many readers may see something vaguely antifeminist in the way Sergeant's very existence as an outlier may undermine efforts to convince non-mothers that there are systemic problems that need addressing. Her biography poses an implicit question: if Sergeant can do it, what's stopping other mothers? Is it just that they don't work hard enough? The fact that Sergeant has almost certainly experienced marginalisation as a racialized subject and other identitybased barriers only makes her successes more vexing.</p><p>Of course this is all absurd. Sergeant is just one human being, and nothing about her biography says she has actually harmed her fellow women, mothers, or African immigrants. But that precisely is Agbabi's self-effacing joke in Sergeant's fictional biography. Whether Sergeant is a rigorously disciplined and uncompromising time-management prodigy or is just naturally better at both poetry and motherhood than everyone around her, the details chosen for this sparse portrait invite comparison and court jealousy from other poets (and especially from British mother poets of African descent). More to the point, the particular comparison between the fictional Sargeant's biography and Agbabi's own life frame her portrait as a joke made by Agbabi at her own expense, as 34 https://www.bloodaxebooks.com/about Accessed April 30, 2025. 35 https://canongate.co.uk/about/history/ Accessed May 1, 2025. <ref type="bibr">36</ref> Agbabi, "My Son was Diagnosed with Autism at Five". <ref type="bibr">37</ref> Hamovitch and Morgenstern, "Children and the Productivity". Many studies have replicated these results, most recently examining the impact has been exacerbated by the COVID 19 pandemic. is particularly appropriate for this adaptation of the Man of Law specifically, who comments dismissively about the work of the poet Chaucer in his Introduction to his tale (II.39-96). <ref type="bibr">38</ref> Another crucial point of difference between Sergeant and Agbabi is that the former is Zimbabwean. In one reading of "Joined-up Writing", Brendan O'Connell observes that Zimbabwe is overwhelmingly Christian, and so this origin for Constance effectively removes Islam from the equation and frames the religious conflict in the poem as a one-to-one struggle between Constance's Christianity and Mam's atheism (or at least agnosticism). 39 O'Connell also proposes that the specification that Constance is "coloured, brown" (p. 22) represents her as a mixed-race product of British colonialism (17). <ref type="bibr">40</ref> It is interesting that Agbabi chooses to remove Islam from the equation, to frame her representation of civilizationism as an antagonism towards specifically African Christianity, though of course this religion was absolutely foundational to the development and spread of "Western civilization". As we surveyed in the last section, this emphasis demonstrates a close reading of the tensions in Chaucer's original tale, and that drives home how the target of specifically British rational-secularist civilizationism is not only "Otherness" but religion in all its forms, which therefore frames that civilizationism as an antagonism towards complex and messy truths about the history of British imperialism and Britain itself.</p><p>In his reading of "Joined-up Writing", O'Connell argues that Agbabi's alternative version of the original story's "mixed marriage" reframes it as a triumph of progressive and multicultural values rather than of the imperialist assimilative values of Chaucer's original. Picking up on the readings of "The Man of Law's Tale" cited above, he argues that "the model of filiation and descent articulated in Chaucer's text is rooted in a system of primogeniture designed to perpetuate cultural and ideological hegemony through steady genealogical transmission among the ruling class; the story is set in the distant past and the marital union it celebrates serves to legitimate and valorize the political structures and cultural values of Chaucer's historical moment" (p. 9). He sees a contrast between this and Agbabi's adaptation, which is "set in a contemporary world in which those values have been replaced or rejected; moreover, the inter-racial, inter-cultural marriages in these versions celebrate the triumph of individual will over cultural expectations, and gesture hopefully, if uncertainly, towards the future" (8). By focusing on Constance's mother-in-law, Agbabi "foregrounds the self-destructive and chilling impact of racism", in a manner that "also represents a stifling literary traditionalism that refuses to admit new voices and rejects any dynamic admixture of native and non-native voices" (p. 15).</p><p>In another reading of "Joined-up Writing", Jonathan Hsy picks up on Agbabi's own engagement with the ambiguities of British regionalism. Hsy cites Agbabi's description of the Northern mother-in-law as "between classes" and says that this "informs the narrator's attempt to navigate longstanding forms of regional stereotyping in Britain that cast Northerners as insular and traditional and Southerners as urbane and cosmopolitan". <ref type="bibr">41</ref> In the passage Hsy cites, Agbabi herself is very attentive to Mam's subject <ref type="bibr">38</ref> For a recent reading of this section see <ref type="bibr">Yeager,</ref><ref type="bibr">Chaucer's Problem of Prose,</ref><ref type="bibr">[29]</ref><ref type="bibr">[30]</ref><ref type="bibr">[31]</ref><ref type="bibr">[32]</ref><ref type="bibr">[33]</ref><ref type="bibr">[34]</ref><ref type="bibr">[35]</ref><ref type="bibr">[36]</ref><ref type="bibr">[37]</ref><ref type="bibr">[38]</ref> O'Connell, "Think," 16. 40 see also Hsy, "Brown Faces," 388-9. <ref type="bibr">41</ref> Hsy, "Brown Faces," 388, citing Agbabi, "Stories," 5.</p><p>position-"an old woman who, through her son's literary success, has moved up the social scale from aspiring to very comfortable middle class"-which movement has left her "between classes" and so particularly prone to react "with jealousy and racism when her son took a Zimbabwean wife" (p. 5). Hsy writes that "the mother-in-law's repeated references to 'Africa'-rather than naming the particular country of Constance's origin-expose the narrator's actual ideological and cultural insularity, her very inability to fathom dark Africans as anything other than monolithically foreign" (p. 389).</p><p>This critical framing of Mam's failings resembles Agbabi's own framing in the interview Hsy quotes, where she says only that "the speaker of the poem is far from literary or sophisticated. It is not her world" (p. 6). However, where O'Connell and Hsy emphasise Mam's racism and so infer that the poem is primarily about race, Agbabi's choice of Mam as a narrator and her framing of Sergeant as an authorial voice gesture towards a larger and more complex set of questions, in which race and class and regionalism all interact to produce a complex portrait of a number of social dynamics, whose primary product in the poem (it bears emphasising) is Mam's wilful loneliness, grief, and melancholia. While there is broad consensus about Mam's limitations, Agbabi is perhaps more interested than her readers in the character who inhabits those limitations, destabilising readers in order to encourage them to reflect on their own incapacities and petty jealousies.</p><p>We believe that the best explanation for this subtle but meaningful discrepancy between Agbabi and her scholarly readers is the distance between Agbabi, the author of "Joined-up Writing", and Sergeant, the mediating fictional poet. The judgemental quality of the story's critique of Mam's racism is most precisely attributed not to Agbabi herself but to Sergeant, an author whose privilege as a barrister and overachiever may make it difficult for her to identify with a working class character like Mam. Like Chaucer's similarly successful (and similarly judgemental) Man of Law, who was so quick to castigate the Sultanness and Dorigen, Sergeant also displays a seasoned professional's flair for deciding on the merits of a case. Further, her life of self-discipline and success may make it difficult for her to share any potential sympathy for a woman like Mam who has struggled against and lost to her own worst tendencies. And so if a reader finds that the poem is overly critical or ungenerous in its portrait of Mam, this failure can always be attributed to Sergeant. Of course, readers may also share Sergeant's judgement, as both O'Connell and Hsy do; the text does not decide on its meaning for us, and Agbabi's own position recedes the second we try to nail her down. The range of possibilities, none more "correct" than any other, is the object of the poem's artistic representation. Chaucerian, or Agbabian, irony strikes again.</p><p>With this framing established, we may now conclude our argument by extending O'Connell and Hsy's readings of Mam's racism to account for Agbabi's particular comment on the troubling tendency towards civilizationism in the rationalist secularism that, as we have said, has been so common among the British literary public in the first decades of the twenty-first century. Though Mam reveals her racism inadvertently through the microaggressions cited above, she saves her most overt macro-aggression for her comments on Constance's Christianity. Mam says with disgust that Constance has "marched" her son "off to church twice on a Sunday" through the power of her "Black magic" (p. 23). Mam's offense at this is clearly related to her own areligious practices and beliefs, which again appear at the beginning of her final sonnet: "There is no God" (p. 27).</p><p>A helpful counterpoint for unpacking how religion and class fit into Agbabi's representation of specifically secularist "civilizationism" in Telling Tales as a whole can be seen in her poem "Sharps an Flats", which retells "The Prioress's Tale". Agbabi substitutes an authorial comparison between the murder in the tale and the death of St. Hugh of Lincoln for a comparison by the poet between the murder of her character "D." and the real-world 2000 London murder of the ten-year-old Nigerian boy Damilola Taylor. <ref type="bibr">42</ref> In her reading of this detail, Heather Blurton argues that through it, "Agbabi's adaptation [of the Prioress' Tale] seemingly steps back from a critique of racism, framing its violence as strangely unmotivated" (p. 411). And indeed, Agbabi has said that she quite deliberately avoided repeating the antisemitism of the original, 43 so that Agbabi's Missy Eglantine does not follow the Prioress to blame Jewish perpetrators of the murder of a Christian child.</p><p>Be that as it may, we depart from Blurton's reading to observe that there does seem to be some motivation for the murder: class resentment. The speaker sees in retrospect that singing in Latin made him sound "like a rich kid", who, because he was in the wrong place at the wrong time ("I mucked up their dead line") was "slain in the vein by the caned class" for being "stuck up" (pp. 81-82). As a consequence, the young victim is no longer a target of hatred directed against Christianity, but of hatred directed against what we may call "the system", with its class divisions reinforced through education (as wealthy children learn Latin but other children do not).</p><p>In this reframing, Agbabi's poem picks up on and develops an implicit criticism of excessive state violence in "The Prioress' Tale", where the Jews responsible for murdering the boy are drawn and quartered, a punishment usually reserved for treason (VII.633-4). <ref type="bibr">44</ref> Agbabi's retelling similarly references police brutality and state violence ("boys in blue twisted [the speaker's mother's] words til U were hands-tied") before moving immediately in the next line to gratitude towards the nuns, who "held [the speaker's mother] up like when dad died, / grief crashin down your face like a landslide" (p. 82). In contrast with the secular institutions of law and justice so revered by British civilizationism, Agbabi rather draws attention to the humanity and compassion of the nuns who minister to the suffering of an impoverished woman who lost her husband and then her son. A similar contrast may be seen between Mam and Constance in "Joined-up Writing", where the one attempts to discipline and manipulate Ollie but the other just brings him with her to church on Sunday.</p><p>The nuns of "Sharps an Flats" stand at some remove from the imperial Christianity that subjugates the Syrians and Northumbrians in "The Man of Law's Tale", and that shaped the anti-Semitism of the Prioress herself. This remove reflects the historical circumstances of Agbabi's own moment, when secular, rationalist, globalising capitalism had long since made the old social ills like simony and the sale of indulgences satirised by Chaucer seem quaint in contrast to the systemic race-and-class-based violence of the modern industrial city. For all that Christian churches may be complicit in the history of the British empire, the practices of Christian belief in twenty-first century London are not <ref type="bibr">42</ref> Blurton, "Retelling the Prioress's Tale," 409-11. On the historical circumstances of Hugh's death see Langmuir, "The Knight's Tale". <ref type="bibr">43</ref> Agbabi and Larrington, 180. <ref type="bibr">44</ref> Rex, 'Wild Horses, Justice, and Charity". so easily figured as mere extensions of that empire, and Agbabi's representations of the lived experiences of racialized British subjects deliberately and consistently resist such easy equations to rather emphasise cultural hybridity and social complexity.</p><p>The tragedy of Mam, then, is that her resolute secularism misdiagnoses the causes of her own suffering. A civilizationist who finds a sense of power and agency in the cultural capital that has come to her through her son's literary career, Mam sees her daughter-in-law as a threat, in part because of her race but more directly because her religious devotion threatens her son's lustre as a secular, respectable author. In "Sharps an Flats", we see that that in modern Britain, the Church ministers to the poor, and especially to poor African immigrants, in a way that contradicts Mam's assumptions and exposes the incoherence of her values. Telling Tales does not suggest that there cannot be a productive conversation in twenty-first-century Britain about the particularities of Christian worldviews, or about the role of Christian institutions in the perpetuation of colonial systems of harm. Rather, Mam's civilizationist investment in the remnants of the British empire ironically lead her away from precisely these lived difficulties that attend the actual practice of cosmopolitanism, diversity, equity, inclusion, and democracy that the proponents of European civilisation have historically cited as its moral justification, and that the British Empire has always claimed to be the most precious resource transported through the world by its merchants, through the dissemination of great works of literature like Chaucer's Canterbury Tales. In the humorous self-effacement of Agbabi's portrait of Memory Sergeant, in the complex and ironic interplay between the controlled sonnet form of an accomplished African poet and the narratorial voice of a Northern civilizationist, and in the highly charged reframing of "The Prioress' Tale" as an indictment of Britain's ruthless classism and police state, we see how Agbabi's Telling Tales has quite a bit to say about the state of England today, naming problems and contradictions which have only become more pertinent in the decade since her collection first appeared. Her poems' engagements with their Chaucerian analogues provide a useful starting point for exploring these implications of her work, but the issues Agbabi addresses extend far beyond such intertextual play, to engage in conversations that continue to shape British politics into our present moment.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Disclosure Statement</head><p>No potential conflict of interest was reported by the author(s).</p></div>			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="11" xml:id="foot_0"><p>Gilroy, After Empire, 27.   </p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="12" xml:id="foot_1"><p>Edis, "Finding an Enemy".</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="13" xml:id="foot_2"><p>Bradley, "The New Atheist Novel". On postcolonial melancholia in Saturday specifically see Kowaleski Wallace, "Postcolonial Melancholia".</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="14" xml:id="foot_3"><p>Brubaker, "Between Nationalism and Civilizationism"; Cerrone, "Reconciling National and Supranational Identities"; Gregorio, Bolton, and Lewis, "Civilizationism and the Ideological Contestation".</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="15" xml:id="foot_4"><p>  15  The classic study remainsMann, Chaucer and Medieval Estates  </p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="16" xml:id="foot_5"><p>Satire.16  Beginning with Smith et al., Refugee Tales. Rupp, "Writing Back to Brexit," 697.</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="17" xml:id="foot_6"><p>On medieval prehistories of racial identity and their manifestations in Chaucer's poetry see for example Whitaker, Black Metaphors, 68-88; Nakley, Living in the Future;Hsy, Trading Tongues,[65][66][67][68][69][70][71][72][73][74][75][76][77][78][79] Akbari, Idols in  the East; Akbari, The Orient in Chaucer; Heng, Empires of Magic,</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" xml:id="foot_7"><p>181-238; Lampert-Weissig, Medieval Literature.18  Heng, The Invention of Race in the Middle Ages, 27.</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="28" xml:id="foot_8"><p>Agbabi, Telling Tales, 27.   </p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="29" xml:id="foot_9"><p>Gilroy, After Empire, </p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="30" xml:id="foot_10"><p>For example, Coronet published a collection of previously published Jeeves short stories under the title The Inimitable Jeeves in 1949, and its reprint of the James Bond novels began in 1988, contemporary to the continuation of the series at this time by John Gardner.</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="31" xml:id="foot_11"><p>The mother's dialect is 'a Northern (Geordie) variety of British English":Hsy, Brown Faces, 388.   </p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="32" xml:id="foot_12"><p>Esty, A Shrinking Island.   </p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="33" xml:id="foot_13"><p>O'Connell, "Think," 17.   </p></note>
+		</body>
+		<back>
+
+			<div type="funding">
+<div><p>Gilroy, <rs type="person">After Empire</rs>, <rs type="grantNumber">91</rs>. On this affect in British literary studies see Quarrie, "<rs type="projectName">Sinking, Shrinking, Satin Island</rs>". On postcolonial melancholia in medieval studies specifically, see Yeager, "Empire, <rs type="person">Shame</rs>, and Medieval Text Editing". 10 The classic formulation of this point remains Donaldson, "Chaucer the Pilgrim". <rs type="person">On Donaldson</rs>'s legacy in Chaucer criticism, see Wheeler, "<rs type="projectName">The Legacy of New Criticism</rs>".</p></div>
+			</div>
+			<listOrg type="funding">
+				<org type="funded-project" xml:id="_ZT8swVf">
+					<idno type="grant-number">91</idno>
+					<orgName type="project" subtype="full">Sinking, Shrinking, Satin Island</orgName>
+				</org>
+				<org type="funded-project" xml:id="_kmafMMA">
+					<orgName type="project" subtype="full">The Legacy of New Criticism</orgName>
+				</org>
+			</listOrg>
+
+			<div type="availability">
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Data Availability Statement</head><p>There are no data related to this article.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>ORCID</head><p>Stephen M. Yeager http://orcid.org/0009-0000-5990-9858</p></div>
+			</div>
+
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<monogr>
+		<title level="m" type="main">My Son Was Diagnosed with Autism at Five. Did He Inherit It from My Misunderstood Mother?</title>
+		<author>
+			<persName><forename type="first">Patience</forename><surname>Agbabi</surname></persName>
+		</author>
+		<ptr target="https://www.theguardian.com/lifeandstyle/2020/mar/28/autism-son-diagnosed-at-five-did-he-inherit-it-from-my-mother" />
+		<imprint>
+			<date type="published" when="2020-03-28">28 March 2020</date>
+		</imprint>
+	</monogr>
+	<note>The Guardian</note>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<monogr>
+		<title level="m" type="main">Telling Tales</title>
+		<imprint>
+			<date type="published" when="2014">2014</date>
+			<publisher>Canongate</publisher>
+			<pubPlace>London</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+	</analytic>
+	<monogr>
+		<title level="m">Stories in Stanza&apos;d English: A Cross-Cultural Canterbury Tales</title>
+		<imprint>
+			<date type="published" when="2018">2018</date>
+			<biblScope unit="volume">15</biblScope>
+			<biblScope unit="page" from="1" to="8" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title level="a" type="main">Conversations: Candace Barrington Interviews Patience Agbabi, Author of Telling Tales</title>
+		<author>
+			<persName><forename type="first">Patience</forename><surname>Agbabi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Candace</forename><surname>Barrington</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">New Chaucer Studies: Pedagogy and Profession</title>
+		<imprint>
+			<biblScope unit="volume">5</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page">182</biblScope>
+			<date type="published" when="2024">2024</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title level="a" type="main">Orientation and Nation in Chaucer&apos;s Canterbury Tales</title>
+		<author>
+			<persName><forename type="first">Suzanne</forename><surname>Akbari</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Conklin</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Chaucer&apos;s Cultural Geography</title>
+		<editor>
+			<persName><forename type="first">Kathryn</forename><forename type="middle">L</forename><surname>Lynch</surname></persName>
+		</editor>
+		<meeting><address><addrLine>New York</addrLine></address></meeting>
+		<imprint>
+			<publisher>Routledge</publisher>
+			<date type="published" when="2002">2002</date>
+			<biblScope unit="page" from="102" to="134" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<monogr>
+		<title level="m">The Orient in Chaucer and Medieval Romance</title>
+		<meeting><address><addrLine>Woodbridge</addrLine></address></meeting>
+		<imprint>
+			<publisher>Boydell and Brewer</publisher>
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<monogr>
+		<title level="m">Idols in the East: European Representations of Islam and the Orient</title>
+		<meeting><address><addrLine>Ithaca</addrLine></address></meeting>
+		<imprint>
+			<publisher>Cornell University Press</publisher>
+			<date type="published" when="2009">2009</date>
+			<biblScope unit="page" from="1100" to="1450" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title level="a" type="main">Remediated Verse: Chaucer&apos;s Tale of Melibee and Patience Agbabi&apos;s &apos;Unfinished Business&apos;</title>
+		<author>
+			<persName><forename type="first">Candace</forename><surname>Barrington</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Jonathan</forename><surname>Hsy</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Postmedieval: A Journal of Medieval Cultural Studies</title>
+		<imprint>
+			<biblScope unit="volume">6</biblScope>
+			<biblScope unit="page" from="136" to="145" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<monogr>
+		<author>
+			<persName><forename type="first">Larry</forename><surname>Benson</surname></persName>
+		</author>
+		<title level="m">The Riverside Chaucer. Boston: Houghton Mifflin</title>
+		<imprint>
+			<date type="published" when="1986">1986</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<monogr>
+		<title level="m" type="main">A Short Media History of English Literature</title>
+		<author>
+			<persName><forename type="first">Ingo</forename><surname>Berensmeyer</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2022">2022</date>
+			<publisher>De Gruyter</publisher>
+			<pubPlace>Berlin</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title level="a" type="main">Retelling the Prioress&apos;s Tale: Antisemitism, Racism, and Patience Agbabi&apos;s Telling Tales</title>
+		<author>
+			<persName><forename type="first">Heather</forename><surname>Blurton</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">The Chaucer Review</title>
+		<imprint>
+			<biblScope unit="volume">56</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="397" to="412" />
+			<date type="published" when="2021">2021</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title level="a" type="main">The New Atheist Novel: Literature, Religion, and Terror in Amis and McEwan</title>
+		<author>
+			<persName><forename type="first">Arthur</forename><surname>Bradley</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">The Yearbook of English Studies</title>
+		<imprint>
+			<biblScope unit="volume">39</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="20" to="38" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<title level="a" type="main">Between Nationalism and Civilizationism: The European Populist Moment in Comparative Perspective</title>
+		<author>
+			<persName><forename type="first">Roger</forename><surname>Brubaker</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Ethnic and Racial Studies</title>
+		<imprint>
+			<biblScope unit="volume">40</biblScope>
+			<biblScope unit="issue">8</biblScope>
+			<biblScope unit="page" from="1191" to="1226" />
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<title level="a" type="main">Reconciling National and Supranational Identities: Civilizationism in European Far-Right Discourse</title>
+		<author>
+			<persName><forename type="first">Joseph</forename><surname>Cerrone</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Perspectives on Politics</title>
+		<imprint>
+			<biblScope unit="volume">21</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="951" to="966" />
+			<date type="published" when="2023">2023</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<title level="a" type="main">Queering Sonnets: Sexuality and Transnational Identity in the Poetry of Patience Agbabi</title>
+		<author>
+			<persName><forename type="first">Manuela</forename><surname>Coppola</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Women: A Cultural Review</title>
+		<imprint>
+			<biblScope unit="volume">26</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="369" to="383" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<monogr>
+		<title level="m">Sources and Analogues of The Canterbury Tales. 2 vols</title>
+		<editor>
+			<persName><forename type="first">D</forename><forename type="middle">S</forename><surname>Brewer</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Cambridge</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2002">2002-2005</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<title level="a" type="main">Gender Differences in Publication Authorship During COVID-19: A Bibliometric Analysis of High-Impact Cardiology Journals</title>
+		<author>
+			<persName><forename type="first">Ersilia</forename><forename type="middle">M</forename><surname>Defilippis</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Lauren</forename><surname>Sinnenberg</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Nadim</forename><surname>Mahmud</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Malissa</forename><forename type="middle">J</forename><surname>Wood</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Sharonne</forename><forename type="middle">N</forename><surname>Hayes</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Erin</forename><forename type="middle">D</forename><surname>Michos</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Nosheen</forename><surname>Reza</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of the American Heart Association</title>
+		<imprint>
+			<biblScope unit="volume">10</biblScope>
+			<biblScope unit="issue">5</biblScope>
+			<biblScope unit="page">19005</biblScope>
+			<date type="published" when="2021">2021</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<analytic>
+		<title level="a" type="main">Chaucer the Pilgrim</title>
+		<author>
+			<persName><forename type="first">E</forename><surname>Donaldson</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Talbot</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">PMLA</title>
+		<imprint>
+			<biblScope unit="volume">69</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="928" to="936" />
+			<date type="published" when="1954">1954</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<analytic>
+		<title level="a" type="main">Chaucer&apos;s Viragos: A Postcolonial Engagement? A Case Study of The Man of Law&apos;s Tale, The Monk&apos;s Tale, and The Knight&apos;s Tale</title>
+		<author>
+			<persName><forename type="first">Juliette</forename><surname>Dor</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Intersections of Gender, Religion and Ethnicity in the Middle Ages</title>
+		<editor>
+			<persName><forename type="first">Cordelia</forename><surname>Beattie</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">Kirsten</forename><forename type="middle">A</forename><surname>Fenton</surname></persName>
+		</editor>
+		<meeting><address><addrLine>New York</addrLine></address></meeting>
+		<imprint>
+			<publisher>Palgrave Macmillan</publisher>
+			<date type="published" when="2011">2011</date>
+			<biblScope unit="page" from="158" to="182" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<analytic>
+		<title level="a" type="main">Finding an Enemy: Islam and the New Atheism</title>
+		<author>
+			<persName><forename type="first">Taner</forename><surname>Edis</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Muhammad in the Digital Age</title>
+		<editor>
+			<persName><forename type="first">Yasmine</forename><surname>Ruqayya</surname></persName>
+		</editor>
+		<editor>
+			<persName><surname>Khan</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Austin</addrLine></address></meeting>
+		<imprint>
+			<publisher>University of Texas Press</publisher>
+			<date type="published" when="2015">2015</date>
+			<biblScope unit="page" from="174" to="192" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<analytic>
+		<title level="a" type="main">Winners and Losers in Academic Productivity During the COVID-19 Pandemic: Is the Gender Gap Widening for Faculty?</title>
+		<author>
+			<persName><forename type="first">Elizabeth</forename><forename type="middle">H</forename><surname>Ellinas</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Tavinder</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Kristina</forename><surname>Ark</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Katherine</forename><forename type="middle">G</forename><surname>Kaljo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Cassandre</forename><forename type="middle">R</forename><surname>Quinn</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Amy</forename><forename type="middle">H</forename><surname>Krier</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Farkas</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Women&apos;s Health</title>
+		<imprint>
+			<biblScope unit="volume">31</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="487" to="494" />
+			<date type="published" when="2022">2022</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<monogr>
+		<author>
+			<persName><forename type="first">Jed</forename><surname>Esty</surname></persName>
+		</author>
+		<title level="m">A Shrinking Island: Modernism and National Culture in England</title>
+		<meeting><address><addrLine>Princeton</addrLine></address></meeting>
+		<imprint>
+			<publisher>Princeton University Press</publisher>
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<analytic>
+		<title level="a" type="main">King AElle and the Conversion of the English</title>
+		<author>
+			<persName><forename type="first">John</forename><surname>Frankis</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Literary Appropriations of the Anglo-Saxons from the Thirteenth to the Twentieth Century</title>
+		<editor>
+			<persName><forename type="first">Donald</forename><surname>Scragg</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">Carole</forename><surname>Weinberg</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Cambridge</addrLine></address></meeting>
+		<imprint>
+			<publisher>Cambridge University Press</publisher>
+			<biblScope unit="page" from="74" to="92" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">Paul</forename><forename type="middle">After</forename><surname>Gilroy</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Empire</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2004">2004</date>
+			<publisher>Routledge</publisher>
+			<pubPlace>London</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<analytic>
+		<title level="a" type="main">Civilizationism and the Ideological Contestation of the Liberal International Order</title>
+		<author>
+			<persName><forename type="first">Bettiza</forename><surname>Gregorio</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Derek</forename><surname>Bolton</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">David</forename><surname>Lewis</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">International Studies Review</title>
+		<imprint>
+			<biblScope unit="volume">25</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page">6</biblScope>
+			<date type="published" when="2023">2023</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<analytic>
+		<title level="a" type="main">Transgressing the Borderline of Gender: Zenobia in The Monk&apos;s Tale</title>
+		<author>
+			<persName><forename type="first">Keiko</forename><surname>Hamaguchi</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">The Chaucer Review</title>
+		<imprint>
+			<biblScope unit="volume">40</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="183" to="205" />
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<analytic>
+		<title level="a" type="main">Children and the Productivity of Academic Women</title>
+		<author>
+			<persName><forename type="first">W</forename><surname>Hamovitch</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">D</forename><surname>Morgenstern</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">The Journal of Higher Education</title>
+		<imprint>
+			<biblScope unit="volume">48</biblScope>
+			<biblScope unit="issue">6</biblScope>
+			<biblScope unit="page" from="633" to="645" />
+			<date type="published" when="1977">1977</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b27">
+	<monogr>
+		<title level="m" type="main">Empires of Magic: Medieval Romances and the Politics of Cultural Fantasy</title>
+		<author>
+			<persName><forename type="first">Geraldine</forename><surname>Heng</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2003">2003</date>
+			<publisher>Columbia University Press</publisher>
+			<pubPlace>New York</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b28">
+	<monogr>
+		<title level="m">The Invention of Race in the Middle Ages</title>
+		<meeting><address><addrLine>Cambridge</addrLine></address></meeting>
+		<imprint>
+			<publisher>Cambridge University Press</publisher>
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b29">
+	<monogr>
+		<title level="m" type="main">Trading Tongues: Merchants, Multilingualism, and Medieval Literature</title>
+		<author>
+			<persName><forename type="first">Jonathan</forename><surname>Hsy</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2013">2013</date>
+			<publisher>Ohio State University Press</publisher>
+			<pubPlace>Columbus</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b30">
+	<analytic>
+		<title level="a" type="main">The BBC Canterbury Tales (2003)</title>
+		<author>
+			<persName><forename type="first">Kathleen</forename><surname>Kelly</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Coyne</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Medieval Afterlives in Contemporary Popular Culture</title>
+		<editor>
+			<persName><forename type="first">Gail</forename><surname>Ashton</surname></persName>
+		</editor>
+		<meeting><address><addrLine>London</addrLine></address></meeting>
+		<imprint>
+			<publisher>Bloomsbury</publisher>
+			<date type="published" when="2017">2017</date>
+			<biblScope unit="page" from="134" to="143" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b31">
+	<monogr>
+		<title level="m" type="main">Chaucer and the Imagery of Narrative: The First Five Canterbury Tales</title>
+		<author>
+			<persName><forename type="first">V</forename><forename type="middle">A</forename><surname>Kolve</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1984">1984</date>
+			<publisher>Stanford University Press</publisher>
+			<pubPlace>Stanford, CA</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b32">
+	<analytic>
+		<title level="a" type="main">Postcolonial Melancholia in Ian McEwan&apos;s Saturday</title>
+		<author>
+			<persName><forename type="first">Kowaleski</forename><surname>Wallace</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Elizabeth</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Studies in the Novel</title>
+		<imprint>
+			<date type="published" when="2007">2007</date>
+			<biblScope unit="volume">39</biblScope>
+			<biblScope unit="page" from="465" to="480" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b33">
+	<monogr>
+		<title level="m" type="main">Medieval Literature and Postcolonial Studies</title>
+		<author>
+			<persName><forename type="first">Lisa</forename><surname>Lampert-Weissig</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2010">2010</date>
+			<publisher>Edinburgh University Press</publisher>
+			<pubPlace>Edinburgh</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b34">
+	<analytic>
+		<title level="a" type="main">The Knight&apos;s Tale of Young Hugh of Lincoln</title>
+		<author>
+			<persName><forename type="first">Gavin</forename><forename type="middle">I</forename><surname>Langmuir</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Speculum</title>
+		<imprint>
+			<biblScope unit="volume">47</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="459" to="482" />
+			<date type="published" when="1972">1972</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b35">
+	<analytic>
+		<title level="a" type="main">Beyond Rome: Mapping Gender and Justice in The Man of Law&apos;s Tale</title>
+		<author>
+			<persName><forename type="first">Kathy</forename><surname>Lavezzo</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Studies in the Age of Chaucer</title>
+		<imprint>
+			<biblScope unit="volume">24</biblScope>
+			<biblScope unit="page" from="149" to="180" />
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b36">
+	<monogr>
+		<title level="m" type="main">Chaucer and Medieval Estates Satire</title>
+		<author>
+			<persName><forename type="first">Jill</forename><surname>Mann</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1973">1973</date>
+			<publisher>Cambridge University Press</publisher>
+			<pubPlace>Cambridge</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b37">
+	<analytic>
+		<title level="a" type="main">Postcolonial Literature and the Western Literary Canon</title>
+		<author>
+			<persName><forename type="first">John</forename><surname>Marx</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">The Cambridge Companion to Postcolonial Literary Studies</title>
+		<editor>
+			<persName><forename type="first">Neil</forename><surname>Lazarus</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Cambridge</addrLine></address></meeting>
+		<imprint>
+			<publisher>Cambridge University Press</publisher>
+			<date type="published" when="2004">2004</date>
+			<biblScope unit="page" from="83" to="96" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b38">
+	<analytic>
+		<title level="a" type="main">Patience Agbabi, The Canterbury Tales, and Polyhistorical Form</title>
+		<author>
+			<persName><forename type="first">Peter</forename><surname>Miller</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">ELH</title>
+		<imprint>
+			<biblScope unit="volume">91</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="263" to="284" />
+			<date type="published" when="2024">2024</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b39">
+	<monogr>
+		<title level="m" type="main">Living in the Future: Sovereignty and Internationalism in The Canterbury Tales</title>
+		<author>
+			<persName><forename type="first">Susan</forename><surname>Nakley</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2017">2017</date>
+			<publisher>University of Michigan Press</publisher>
+			<pubPlace>Ann Arbor</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b40">
+	<analytic>
+		<title level="a" type="main">Think of All the Differences!&quot;: Mixed Marriages in Transcultural Adaptations of Chaucer&apos;s Man of Law&apos;s Tale</title>
+		<author>
+			<persName><forename type="first">Brendan</forename><surname>O'connell</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Adaptation</title>
+		<imprint>
+			<biblScope unit="volume">15</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="7" to="21" />
+			<date type="published" when="2022">2022</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b41">
+	<monogr>
+		<title level="m" type="main">Erotic Medievalisms: Medieval Pleasures Empowering Marginalised Peoples</title>
+		<author>
+			<persName><forename type="first">Elan</forename><surname>Pavlinich</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Justice</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2024">2024</date>
+			<publisher>Routledge</publisher>
+			<pubPlace>London</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b42">
+	<analytic>
+		<title level="a" type="main">Sinking, Shrinking, Satin Island: Tom McCarthy, the British Novel, and the Materiality of Shame</title>
+		<author>
+			<persName><forename type="first">Cynthia</forename><surname>Quarrie</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Modern Literature</title>
+		<imprint>
+			<biblScope unit="volume">41</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="147" to="164" />
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b43">
+	<analytic>
+		<title level="a" type="main">Alterity Remixed: Poetic Hospitality in Patience Agbabi&apos;s Telling Tales</title>
+		<author>
+			<persName><forename type="first">Eleonora</forename><surname>Ravizza</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Natalia</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Spazi e Tempi Dell&apos;Alterità</title>
+		<editor>
+			<persName><forename type="first">Daniele</forename><surname>Gallo</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">Ellen</forename><surname>Patat</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">Daniela</forename><surname>Bombara</surname></persName>
+		</editor>
+		<imprint>
+			<publisher>Mantova: Universitas Studiorum</publisher>
+			<date type="published" when="2022">2022</date>
+			<biblScope unit="page" from="467" to="488" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b44">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">Refugee</forename><surname>Tales</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">; Ali</forename><surname>Smith</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Marina</forename><surname>Lewycka</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Patience</forename><surname>Agbabi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Jade</forename><surname>Amoli-Jackson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Chris</forename><surname>Cleave</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Stephen</forename><surname>Collis</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Inua</forename><surname>Ellams</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2016">2016</date>
+			<publisher>Comma Press</publisher>
+			<biblScope unit="volume">1</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b45">
+	<analytic>
+		<title level="a" type="main">Wild Horses, Justice, and Charity in the Prioress&apos;s Tale</title>
+		<author>
+			<persName><forename type="first">Richard</forename><surname>Rex</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Papers on Language and Literature</title>
+		<imprint>
+			<biblScope unit="volume">22</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="339" to="351" />
+			<date type="published" when="1986">1986</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b46">
+	<analytic>
+		<title level="a" type="main">Writing Back to Brexit: Refugees, Transcultural Intertextuality, and the Colonial Archive</title>
+		<author>
+			<persName><forename type="first">Jan</forename><surname>Rupp</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Postcolonial Writing</title>
+		<imprint>
+			<biblScope unit="volume">56</biblScope>
+			<biblScope unit="issue">5</biblScope>
+			<biblScope unit="page" from="689" to="702" />
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b47">
+	<analytic>
+		<title level="a" type="main">Worlds Apart: Orientalism, Anti-Feminism and Heresy in Chaucer&apos;s Man of Law&apos;s Tale</title>
+		<author>
+			<persName><forename type="first">Susan</forename><surname>Schibanoff</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Exemplaria</title>
+		<imprint>
+			<biblScope unit="volume">8</biblScope>
+			<biblScope unit="page" from="59" to="96" />
+			<date type="published" when="1986">1986</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b48">
+	<analytic>
+		<title level="a" type="main">Response: Panel of Papers on Critique of Postcolonial Reason IAPL 2000</title>
+		<author>
+			<persName><forename type="first">Gayatri</forename><surname>Spivak</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Chakravorty</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Interventions</title>
+		<imprint>
+			<biblScope unit="volume">4</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="205" to="211" />
+			<date type="published" when="2002">2002</date>
+			<pubPlace>Stony Brook, NY</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b49">
+	<analytic>
+		<title level="a" type="main">Gender Gap in Journal Submissions and Peer Review During the First Wave of the COVID-19 Pandemic: A Study on 2329 Elsevier Journals</title>
+		<author>
+			<persName><forename type="first">Flaminio</forename><surname>Squazzoni</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Giangiacomo</forename><surname>Bravo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Francisco</forename><surname>Grimaldo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Daniel</forename><surname>García-Costa</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Mike</forename><surname>Farjam</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Bahar</forename><surname>Mehmani</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">PLoS One</title>
+		<imprint>
+			<biblScope unit="volume">16</biblScope>
+			<biblScope unit="issue">10</biblScope>
+			<biblScope unit="page">257919</biblScope>
+			<date type="published" when="2021">2021</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b50">
+	<analytic>
+		<title level="a" type="main">Theories of Anthologising and Decolonisation</title>
+		<author>
+			<persName><forename type="first">Aarthi</forename><surname>Vaade</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Decolonizing the English Literary Curriculum</title>
+		<editor>
+			<persName><forename type="first">Ato</forename><surname>Quayson</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">Ankhi</forename><surname>Mukherjee</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Cambridge</addrLine></address></meeting>
+		<imprint>
+			<publisher>Cambridge University Press</publisher>
+			<date type="published" when="2024">2024</date>
+			<biblScope unit="page" from="149" to="166" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b51">
+	<monogr>
+		<author>
+			<persName><forename type="first">David</forename><surname>Wallace</surname></persName>
+		</author>
+		<title level="m">Chaucerian Polity: Absolutist Lineages and Associational Forms in England and Italy</title>
+		<meeting><address><addrLine>Stanford, CA</addrLine></address></meeting>
+		<imprint>
+			<publisher>Stanford University Press</publisher>
+			<date type="published" when="1997">1997</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b52">
+	<analytic>
+		<title level="a" type="main">The Legacy of New Criticism: Revisiting the Work of E. Talbot Donaldson</title>
+		<author>
+			<persName><forename type="first">Bonnie</forename><surname>Wheeler</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">The Chaucer Review</title>
+		<imprint>
+			<biblScope unit="volume">41</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="216" to="224" />
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b53">
+	<monogr>
+		<title level="m" type="main">Black Metaphors: How Modern Racism Emerged from Medieval Race-Thinking</title>
+		<author>
+			<persName><forename type="first">Cord</forename><forename type="middle">J</forename><surname>Whitaker</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2019">2019</date>
+			<publisher>University of Pennsylvania Press</publisher>
+			<pubPlace>Philadelphia</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b54">
+	<analytic>
+		<title level="a" type="main">Is There a Source Text in This Class? Teaching Medieval Literature Through Contemporary Retellings</title>
+		<author>
+			<persName><forename type="first">Sophia</forename><surname>Wolf</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Philomena</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Eva Von Contzen</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">New Chaucer Studies: Pedagogy and Profession</title>
+		<imprint>
+			<biblScope unit="volume">4</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="85" to="95" />
+			<date type="published" when="2023">2023</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b55">
+	<analytic>
+		<title level="a" type="main">Bede, the Bretwaldas and the Origins of the Gens Anglorum</title>
+		<author>
+			<persName><forename type="first">Patrick</forename><surname>Wormald</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Ideal and Reality in Frankish and Anglo-Saxon Society</title>
+		<editor>
+			<persName><forename type="first">Patrick</forename><surname>Wormald</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Oxford</addrLine></address></meeting>
+		<imprint>
+			<publisher>Basil Blackwell</publisher>
+			<date type="published" when="1983">1983</date>
+			<biblScope unit="page" from="99" to="129" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b56">
+	<analytic>
+		<title level="a" type="main">Empire, Shame, and Medieval Text Editing: The Case of Beowulf Line 1382a</title>
+		<author>
+			<persName><forename type="first">Stephen</forename><surname>Yeager</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Medieval and Early Modern Studies</title>
+		<imprint>
+			<biblScope unit="volume">53</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="201" to="224" />
+			<date type="published" when="2023">2023</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b57">
+	<monogr>
+		<title level="m" type="main">Chaucer&apos;s Problem of Prose: History, Media, and The Canterbury Tales</title>
+		<imprint>
+			<date type="published" when="2025">2025</date>
+			<publisher>University of Toronto Press</publisher>
+			<pubPlace>Toronto</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

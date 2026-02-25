@@ -1,0 +1,1084 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">To body or not to body?: Gender performativity and posthumanism in the actor-network of Jeanette Winterson&apos;s Frankissstein</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author role="corresp">
+							<persName><forename type="first">Senne</forename><surname>Van Der Zijden</surname></persName>
+							<email>senne.zijden@gmail.com</email>
+							<affiliation key="aff0">
+								<orgName type="department">Historical, Cultural and Literary Studies</orgName>
+								<orgName type="institution">Radboud University</orgName>
+								<address>
+									<settlement>Nijmegen</settlement>
+									<country key="NL">The Netherlands</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">To body or not to body?: Gender performativity and posthumanism in the actor-network of Jeanette Winterson&apos;s Frankissstein</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date/>
+						</imprint>
+					</monogr>
+					<idno type="MD5">818B493899B4E6028C6C8FC7A2E75107</idno>
+					<idno type="DOI">10.1080/0950236X.2025.2586280</idno>
+					<note type="submission">Received 20 November 2024; Accepted 5 September 2025</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.0" ident="GROBID" when="2026-02-25T19:54+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term>actor-network theory</term>
+					<term>posthumanism</term>
+					<term>gender</term>
+					<term>performativity</term>
+					<term>transhumanism</term>
+					<term>Frankissstein</term>
+				</keywords>
+			</textClass>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Jeanette Winterson's</head><p>Frankissstein suggests a posthuman futurity that creates ontological tensions between mortality and immortality, embodiment and disembodiment, mind and matter. The representation of gender and AIdriven objects in this novel can be elucidated by Actor-Network Theory (ANT), which functions as a theoretical framework that analyses social reality as a product of technology, science, and the agency of human and nonhuman entities. The interactions between human and non-human actants in Frankissstein's actor-network demonstrate that technology contributes to the construction and preservation of gender identities and performances. Technological apparatuses carry gender associations that cannot be ignored in a social reality defined by the dynamic interplay of humans and technology, and gender should therefore not be neglected in ANT. Frankissstein illustrates that gender perseveres in an actor-network that is transformed by posthuman performativity, as gender is not inherently tied to the body, but constructed by the transmission and translation of embedded actants. This article frames instances of embedded materialism in Frankissstein with ANT, providing an analytical framework that resituates gender identity formation in a network defined by material and immaterial tensions.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Introduction</head><p>Over 200 years after its original publication, Mary Shelley's Frankenstein (1818) continues to inspire modern myths of a subject that challenges established notions of embodiment and technology. The fictional genesis of a man-made monster has, for example, served as a touchstone for the investigation of gender identities: one of the key texts in the field of trans studies, Susan Stryker's 'My Words to Victor Frankenstein Above the Village of Chamounix: Performing Transgender Rage' (1994), uses Frankenstein to explore the notion of transsexual monstrosity as a means of resistance that is nevertheless disrupted by the 'inability of language to represent the transgendered subject's movement over time between stably gendered positions in a linguistic structure'. <ref type="bibr" target="#b0">1</ref> The monster, as a specular being, is not expected to conform to culturally established forms of gender embodiment. Transgender subjects, on the other hand, are often still expected to perform certain visual cues within a linguistic structure based on the gender binary. Reflecting on the impact of Stryker's influential essay, Jolene Zigarovich has recently reiterated the trans legacy of Frankenstein to not only '[acknowledge] "trans" as connoting unstable, transient, or in-between, but also offers 'trans' as transformation, development, creativity, reorganization and reconstruction'. <ref type="bibr" target="#b1">2</ref> Frankenstein's entanglement of material and immaterial existence, embodiment and gender identity creates an endlessly productive tale of transformation and reinvention.</p><p>Frankenstein's legacy is not only reinterpreted in scholarly contexts, but it is also rewritten in fictional frameworks that bear on contemporary contexts. One of the most pertinent examples of this is Jeanette Winterson's Frankissstein (2019), which revives the 'monstrous' body by questioning the complex hierarchies of body, sex, and gender in a posthuman world. Frankissstein offers an imaginative insight into Mary Shelley's life as she writes the story of Victor Frankenstein and his efforts to create a transgressive form of life. The novel is set up to emulate the impact of physicality and mortality on Shelley's lifetime. Her vision of embodiment was shaped by the birth and death of her children, ideas on the creation of artificial life, and Lord Byron's persistent expressions of patriarchal dominance in the novel. Winterson juxtaposes this rewriting of Shelley's original tale with the love story of Ry, a young transgender doctor, and Professor Victor Stein, who aims to preserve the human mind in a digital database. The characters' narratives explore bodily anxieties and liminal gender identities that cannot be defined through the binary of masculinity and femininity. Victor Stein wishes to tread beyond bodily constraints through a technological sublime that allows for radical forms of freedom. His desire to abandon the physical body is contrasted by Ron Lord, a modern Lord Byron who seeks to exploit the marketability of the feminine body in the form of interactive sex dolls. The intertextual afterlives of the original characters are revived in contemporary bodies, demonstrating that meaning travels through time, space and bodies. The intertextual nature of the novel therefore directly opposes Victor Stein's longing to exchange the material substrate of human existence for a decontextualised consciousness.</p><p>Both Victor Stein and Ron Lord's ambitions blur the boundaries between objects and bodies, as humans and robots become increasingly entangled in a posthuman world that concerns itself with the transgressive relationships between them. This dialogue between posthumanism and gender in Frankissstein has been interpreted by Emily McAvan as presenting the posthuman monster as a hybrid form that blurs boundaries and redefines conceptualisations of sex, gender, and self. <ref type="bibr" target="#b2">3</ref> Susana Onega, on the other hand, identifies tensions between embodied forms of subjectivity and a posthuman articulation of fluid subjectivity that foregrounds the duality of body and mind. <ref type="bibr" target="#b3">4</ref> The representation of gender and AI-driven objects in Winterson's novel can be further elucidated by Actor-Network Theory (ANT), which functions as a theoretical framework that analyses social reality as a product of technology, science, and the agency of human and non-human entities. From this perspective, Victor's ambitions no longer appear as an idiosyncrasy, but become embedded in a relational network of technological transmission that emphasises a dynamic of translation between heterogeneous elements and the influence of non-human entities on social phenomena. The reading of gender through the framework of ANT allows for an analysis that reconsiders the fluidity of gender in a network of both human and nonhuman entities. Indeed, Michel Callon and Bruno Latour link ANT with the notion of translation, as it reveals an ongoing process of persuasion and negotiation that enables actants to introduce other actants into a social structure. <ref type="bibr" target="#b4">5</ref> Actants in an actor-network are constantly enrolling other heterogeneous actants into a network through a process of translation and mediation, which Latour and Callon define as 'all the negotiations, intrigues, calculations, acts of persuasion and violence thanks to which an actor or force takes, or causes to be conferred on itself, authority to speak or act on behalf of another actor or force'. <ref type="bibr" target="#b5">6</ref> The introduction of new actants in a network is accelerated by technological inventions that redefine social reality in posthuman terms. Actants might adapt, modify or displace contradictory interests when the requirements of a given actor-network appear to be in conflict. Another response to these contradictory interests could be that other actants are enrolled in order to ensure the transmission of information.</p><p>However, Shona Hunter and Elaine Swan contend that ANT often avoids 'macro notions such as institutions, state, class, "race" or gender'. <ref type="bibr" target="#b6">7</ref> The lack of an intersectional understanding of gender and ANT reveals a tendency to downplay issues related to gender, power, and inequality, as all actants exist in a supposedly symmetrical structure that relies on what Michel Callon describes as a 'neutral' analytic 'register'. <ref type="bibr" target="#b7">8</ref> Hunter and Swan further elucidate that this register consists of terminology that rejects 'orthodox social science dualistic distinctions such as human -non-human, subject -object and social -natural'. <ref type="bibr" target="#b8">9</ref> ANT thus relies on a translation repertoire that does not change registers within a network that intertwines technical and social elements.</p><p>However, the intersection of gender, technology and social phenomena within the construction of gendered posthuman identities challenges this neutrality, as will be demonstrated by analysing the actor-network present in Frankissstein. Winterson's novel reveals how gender exists as a social construct that is repeatedly reinterpreted in different contexts, and should consequently not be understood as something that can only be defined by human actants. Frankissstein thus illustrates that gender persists in an actor-network that is transformed by posthuman performativity, as gender is not inherently tied to the human body, but constructed by the transmission and translation of gendered actants.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>A more-than-human network</head><p>Frankissstein explores the intersection of transhuman ideologies in a reality that is becoming increasingly posthuman. AI-specialist Victor Stein strives to attain a transcendental consciousness through a technological sublime that negates the body and emphasises the supremacy of the mind. The novel combines transhumanism and posthumanism to demonstrate how tension arises between a transcendental consciousness and an earthly body. Posthumanism and transhumanism share similarities, in that both look beyond the body and challenge the idea of human nature as neutral and unchanging. However, transhumanism radicalises this inclination to look beyond the body, as it defines the human race as capable of evolving beyond any physical and mental limitations. <ref type="bibr" target="#b9">10</ref> These limitations are nevertheless essential to the human experience, which Rosi Braidotti articulates as the way in which the 'posthuman knowing subject has to be understood as a relation embodied and embedded, affective and accountable entity and not only as a transcendental consciousness'. <ref type="bibr" target="#b10">11</ref> A transcendental consciousness that lacks these embedded relations becomes dissociated from the multi-directional relations that Braidotti emphasises. Posthumanism therefore responds to the anthropocentric tendency of the human race to view vitality and agency as limited to the human condition. Nonhuman forces are isolated from the intrinsic value of humans in an anthropocentric line of thought, which posthuman thinking counteracts by including the vital materiality of objects and other nonhuman appearances in the knowledge systems of humanity. <ref type="bibr" target="#b11">12</ref> Transhumanist ideologies, on the other hand, do little to contradict the centrality of humanity. The desire to escape the limitations of an embodied and embedded existence often results in dreams of transcending the mortal body through the creation of new forms of eternal life that continue to emphasise human exceptionalism.</p><p>The novel narrativizes these tensions and contrasts Victor's unattainable transhuman sublime with a network of relationships saturated with technology. In other words, the actor-network of Frankissstein encompasses the intersection of humanity and technology in conflicting discourses on transhumanism and posthumanism. ANT accounts for the relational network that determines the transmission of information between both human and nonhuman entities, as it emphasises the increasing entanglement between humans and technology and the social reality that emerges from a network of heterogeneous elements. Latour therefore extends his definition of actors (or actants) from human agents to material entities and other nonindividual phenomena to trace a dynamic and heterogeneous network of associations. <ref type="bibr" target="#b12">13</ref> Despite the presence of the word 'actor' in 'actor-network' theory, the term 'actant' is preferred, as it carries fewer human connotations. The actor-network is subsequently formed by what Rita Felski describes as 'an assembly of actors that share information and coordinate action', with human and non-human actants being of equal value. <ref type="bibr" target="#b13">14</ref> Material objects cannot be excluded from the 'relational ontology' that shapes different states of existence, reality, and becoming. <ref type="bibr">15</ref> In fact, the agency of material objects decentres human agency and facilitates the additional 'connection and transmission' between actants, while also demonstrating that agency is not necessarily determined by 'consciousness, will or intention […], let alone autonomy or independence'. <ref type="bibr">16</ref> Felski posits that '[a]ll actors exist via their relations to other actors', which connects human and nonhuman actors linked through a network of coordinated actions. <ref type="bibr" target="#b14">17</ref> ANT thus challenges perspectives that centralise human beings and reconsiders the role of technology and objects in the shaping of social phenomena.</p><p>As an exploration of an actor-network shaped by a posthumanist and transhumanist discourse, Frankissstein offers an especially interesting engagement with this entanglement of humans and technology. The novel provides playful warnings about the potentially unintended consequences of this increased interaction with technology. Polly enters the narrative in a moment of hysteria because her Intelligent Vibrator automatically posted private pictures on her Facebook page. The vibrator is more than just a passive object; it is an actant that is linked to a social media network through its intelligent functions. Polly was aware that the vibrator had a camera and a remote control, but her uploads on Facebook were entirely unintentional. The dialogue between Polly and Ry further reveals how deeply entangled human and nonhuman actors are through technology, when 'Ry wonders why anyone would want a vibrator with these functions' which Polly indignantly answers with: 'The idea, the idea is sex-play with your partner, or partners, from separate locations. It feels like they are in the room doing things to you'. <ref type="bibr" target="#b15">18</ref> It seems that human and nonhuman actants are not only united by a dialogue expressed through coordinated actions but also by the way in which the nonhuman actants shape and facilitate the expression of human connection.</p><p>Winterson's oeuvre often refers to the tensions between human relationships and posthuman developments, such as Artificial Intelligence. In her essay 'Fuck the Binary', in 12 Bytes: How Artificial Intelligence Will Change the Way We Live and Love she suggests that AI could form 'a portal into a value-free gender and race experience' as it would allow an escape from 'human-centred body anxiety'. <ref type="bibr" target="#b16">19</ref> Her character, Victor Stein, shares these beliefs to an extreme extent as he turns to technology to completely dissolve the tension that exists between a transcendental consciousness and a physical body. He fully interprets consciousness as a property of the mind, and describes the body as 'a substrate made of meat'. <ref type="bibr" target="#b17">20</ref> His transhumanist ideology frees the anxious mind of any physical and mental limitations and attempts to create a disembodied reality that immortalises the mind as a transcendental consciousness. Victor longs for a social reality that is not defined by bodily anxieties and other identifying factors such as 'race, faith, gender, sexuality'. <ref type="bibr">21</ref> The body is dismissed as 'provisional, interchangeable, even' in an attempt to present the mind as a superior actant that shapes the human experience. <ref type="bibr" target="#b18">22</ref> Embodied experiences are no longer important when the body is dismissed as an empty vessel that can be vacated in favour of a different substrate that has no agency. However, whereas Victor considers the body to be 'a life support system for the brain', Ry demonstrates an awareness of the relationship between mind, body and technology. <ref type="bibr">23</ref> As a transgender doctor, they demonstrate a heightened awareness of human anatomy and the way that mind and body interact to interpret reality. They are committed to 'a lifetime of hormones' in order to live 'in the wrong body but for [them] it was the right body'. <ref type="bibr">24</ref> Their work also requires them to amputate limbs, leading them to muse that 'transhuman enhancement may begin with computer controlled prosthetic limbs'. <ref type="bibr" target="#b19">25</ref> The image of a technologically enhanced body illustrates that human and nonhuman actants do not exist in separate spheres; rather they are interlinked in a dynamic and diverse actor-network.</p><p>The novel's depiction of a fictional reality in which humans and objects become increasingly entangled is also reflected by a technological discourse on desire and sex robots. Society is changing due to automatisation processes that affect workforces, but also human connection and relationships. When Ry criticises Ron Lord and his sex robot business, Victor asks Ry the question: 'And what if you were one of the millions of human beings who will have no place in the automated life that will soon be reality? […] What will you do all day?' 26 He thinks that the presence of robots will decrease job opportunities, which means that people will have more time for the expression of individual desires. Sexual frustration will be solved by bodydoubles that function as the perfect franken-barbie. Ron Lord offers his customers different body types, skin colours, outfits and scents. Some models are adorned with 'Real Hair' rather than the expected nylon strands, and the dolls even mimic body temperatures to evade the clammy touch of silicon. <ref type="bibr">27</ref> Body parts can be exchanged for 'spare-parts, if any of her gets damaged, or too messy' and even though the robots are capable of having simple conversations, their capabilities do not exceed the limits of a material object that merely obeys and satisfies. <ref type="bibr">28</ref> Victor Stein might not be as preoccupied with the intersection of sexual intercourse and technology, but he shares Ron Lord's conviction that robots can only function as an 'unpaid servant' to society. <ref type="bibr">29</ref> However, Winterson challenges her characters' convictions with a reference to 'the Hanson robot, Sophia', who 'was awarded citizenship of Saudi Arabia in 2017'. <ref type="bibr">30</ref> The presence of robots in Frankissstein thus provokes questions of consciousness, agency, and 'aliveness' within nonhuman actants.</p><p>The sex robots link materiality and embodiment, illustrating what Jane Bennett describes as 'the strange ability of ordinary, man-made items to exceed their status as objects and to manifest traces of independence or aliveness, constituting the outside of our own experience'. <ref type="bibr" target="#b20">31</ref> The 'aliveness' of the sex robots, then, stems from the way that they function as an affective catalyst to their human counterparts, as they participate in the transmission of desire in posthuman times. Artificial Intelligence affords an exaggerated form of mimetic anthropomorphism in the production of sex robots and blurs the line between humans, objects and vital matter. Both human and nonhuman actants become involved in a network that mediates between technology and humanity.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Gendered actants</head><p>ANT as it is defined by Latour and Felski emphasises the potential symmetries between technology, humanity, and other heterogeneous elements in a network, which means that such perspectives tend to evade power hierarchies related to gender and sex. A priori notions such as sex and gender are avoided as an explanation of the relations in a network because the latter are considered to be effects that become 'coherent, consistent, uniform across time and space' as they move through networks. <ref type="bibr" target="#b21">32</ref> However, the social constructs of gender and technology continue to interact with societal developments and can therefore not be described as coherent, consistent or uniform in any way. Various scholars have tried to integrate gender in actor-networks to examine the dynamic exchange between technologies and gender. Vivian Lagesen, for example, justifies a focus on technologies and gender in ANT as both are social constructs, which means that '[a]rtifacts do have gender and gender politics in the sense that they are designed and used in gendered contexts'. <ref type="bibr" target="#b22">33</ref> Corrigan and Mills take a similar approach and argue that ANT has the potential to function as an analytical tool to aid our understanding of gendered inequality perpetuated by 'gendered' artifacts. <ref type="bibr" target="#b23">34</ref> The agency of actants is then perhaps not an inherent quality, as it derives from the effect that human and non-human actants have on the translation and transmission of information in a network. <ref type="bibr" target="#b24">35</ref> Indeed, gender is subjected to constant translation processes and interacts with political and cultural processes that construct body, sex and gender. In Gender Trouble, Judith Butler already interpreted the body as a construct that constitutes gendered subjects that challenge or conform to 'the compulsory order of sex/ gender/ desire'. <ref type="bibr" target="#b25">36</ref> The binary between masculine and feminine bodies perpetuates normalised institutional heterosexuality and 'suggests […] that desire reflects or expresses gender and that gender reflects or expresses desire'. <ref type="bibr">37</ref> The stabilisation of sex, gender and desire limits the presence of discursive identities and preserves gendered practices and identities that presuppose the social norm in a network. Butler argues that gender is simply the expression of gender, and there is no gender identity inherently present in the body beyond those performative expressions. <ref type="bibr">38</ref> Gender does not exist in isolation as its performative characteristics refer to the 'signification that an (already) sexually differentiated body assumes, but even then that signification exists only in relation to another, opposing signification'. 39 Employing Butler's performative function of gender in an actor-network indicates a relational perspective on gender, and reveals how the construction and translation of cultural norms are embedded in the enrolment of opposing actants in a network.</p><p>In such contingent relations, and especially in a posthumanist context, gender and technology are intertwined in ontologies that destabilise previously established forms of being. This was already acknowledged by Donna Haraway, who, in her famous 'Manifesto for Cyborgs ' (1985), challenged traditional gender roles to transcend hierarchical dualisms through a form of anti-essentialism that restores an ontology of hybrid identities. ANT underscores Haraway's argument, since it, too, suggests that heterogeneous elements are linked by 'a search for a common language in which all resistance to instrumental control disappears and all heterogeneity can be submitted to disassembly, reassembly, investment, and exchange'. <ref type="bibr" target="#b26">40</ref> The cyborg and ANT share a preoccupation with the boundaries of our ontology and the politics of social reality in a network of exchange. However, Haraway's manifesto includes the a priori distinctions that ANT tends to avoid and argues that '[t]he dichotomies between mind and body, animal and human, organism and machine, public and private, nature and culture, men and women, primitive and civilised are all in question ideologically'. <ref type="bibr" target="#b27">41</ref> Cyborg writing, then, speaks to the power of survival in a world that marginalises 'other' beings. These 'other' beings might turn to survival tools such as 'retold stories, versions that reverse and displace the hierarchical dualisms of naturalized identities'. <ref type="bibr">42</ref> The revival of Shelley's Frankenstein in Winterson's Frankissstein challenges these hierarchical dualisms through the opposition between technology and nature, masculinity and femininity, object and human in a context that subverts naturalised (gender) identities. Displacement of these dichotomies in fictional contexts thus shatters the boundary between fiction and social reality, and embraces the effects of 'disassembly, reassembly, investment, and exchange' in both human as well as non-human spheres. <ref type="bibr">43</ref> These productive tensions are articulated in Frankissstein, which contrasts Victor's wish for a transcendental technological sublime with Ron Lord's sex robot business to illustrate the precarious relationship between body, gender and desire. The sex robots idealise the female body to the extent that they demonstrate fabricated forms of mimetic anthropomorphism, and illustrate Rosi Braidotti's materialist theory of becoming in the sense that the 'anthropomorphic machine' functions as 'an object of imaginary projections and fantasy'. <ref type="bibr" target="#b28">44</ref> These fantasies allow a metamorphosis of 'alternative bodyshapes, bodily functions, morphologies and sexualities' that render 'the mechanical body-double […] irrevocably other'. <ref type="bibr">45</ref> Frankissstein captures these dynamics with an ontology of embodied materialism that negates the possibility of disembodied knowledge and its ethical implications. Users can project their sexual fantasies onto the sex robots without the threat of repercussions: 'No diseases, no revenge porn, no being robbed of your Rolex at 2 am'. <ref type="bibr" target="#b29">46</ref> Sex robots deprive the female body of consciousness and agency and instead become objects of desire that wish for nothing in return. The novel illustrates that gendered associations are negotiated by human and non-human actants in the actor-network, thereby reiterating Butler's argument that 'female sex becomes restricted to its body and the male body, fully disavowed, becomes paradoxically the incorporeal instrument of an ostensibly radical freedom'. <ref type="bibr" target="#b30">47</ref> This becomes painfully clear when Ron Lord dismisses the idea that users might also be interested in the male equivalent of the sex robots, arguing that it would be impossible to accommodate the complexities of female desire. Instead, he targets a male audience and strives to disavow the lawful limitations of male desire through anthropomorphic objects that never say no.</p><p>Ron Lord's focus on the body is juxtaposed with Victor's sexual identity, which is framed by the desire to escape embodiment altogether. Victor's digital database of preserved minds relates to what Donna Haraway describes as the 'search for a common language' that transforms 'the translation of the world into a problem of coding' and removes the human body from the equation. <ref type="bibr" target="#b31">48</ref> However, the normalisation of heterosexual desire in the form of feminine sex robots illustrates that gender inequalities persist nonetheless. The interactions between human and non-human actants in Frankissstein illustrate that the translation and transmission of information in an actornetwork that increasingly entangles human beings and technology cannot escape gendered practices and associations.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Posthuman performativity and (dis)embodied gender</head><p>Posthumanism focuses on the accelerating fusion between humans and technology in a relational network that resists anthropocentrism and the possibilities of transcendental consciousness. The capabilities of the mortal body are extended by technological developments that create a relational network of translation and transmission in technological terms. Winterson's dynamic cast of characters aligns with Braidotti's understanding of the posthuman knowing subject, as she defines it as 'a collectively-oriented, externally-bound, multiple subject whose singularity is the result of constant re-negotiations with a variety of forces'. <ref type="bibr" target="#b32">49</ref> Similarly to ANT, posthumanism opposes the idea that agency and vitality are limited to the human race. Posthumanist knowledge systems include the vitality of matter and other nonhuman forces in the structures that define our current reality. <ref type="bibr" target="#b33">50</ref> Winterson explores the implications of an extreme posthuman ideology through the character of AI specialist Victor Stein, who dismisses the body as transposable and looks beyond these constraints for a transcendental consciousness. His endeavours can be linked to what Elaine Graham describes as a technological sublime filled with 'longings for enlightenment, perfectibility and purity'. <ref type="bibr" target="#b34">51</ref> The mind dissociates from the body and personhood becomes a mental projection that triumphs over any form of embodiment. Braidotti nevertheless links posthumanism to a 'mind-body continuum' that describes 'all human and non-human entities' as 'nomadic subjects-in-process, in perpetual motion, immanent to the vitality of self-ordering matter'. <ref type="bibr" target="#b35">52</ref> In Frankissstein, Victor attempts to invent a transcendent mind-continuum that reforms embodiment as a transitional and secondary state of being. However, the character of Ry illustrates the idea that human embodiment is not inherent and decided at birth; rather, it is an inevitable and ever-evolving process that extends the relational network of the nomadic subject. Ry serves as an example of a nomadic subject that illustrates the tension between a body's biological and experiential reality. Ry alters their body with testosterone because their mind disagrees with the biological reality of their embodiment, and Victor is fascinated by this unintelligible nature of Ry's body, saying that he is attracted to how Ry is 'male, now not quite, now quite clearly a woman who will slip inside a boy's body'. <ref type="bibr" target="#b36">53</ref> The techniques of transition are not straightforward, as testosterone injections allow Ry to keep their 'maleness intact' and make it easier 'to build muscle', but they also create involuntary bodily responses. <ref type="bibr" target="#b37">54</ref> Ry's intake of testosterone enlarged their clitoris, causing orgasms that 'were too painful, too intense, too short and uncontrollable, like being hit'. <ref type="bibr">55</ref> Testosterone is a natural property of the human body, and yet, when administered in doses that induce transition, it becomes a source of external agency that eventually becomes internalised within a changed body.</p><p>Predefined notions of masculinity and femininity do not cover the complexity of Ry's being, and thus Ry illustrates Rothblatt's argument that transgender identities go beyond 'the connection between gender and genitals [and] opens the channels between personhood and form'. <ref type="bibr" target="#b38">56</ref> However, Ron Lord fixates on the body as the material manifestation of sexual desire and cannot understand that manhood is not solely defined by 'dickhood'. <ref type="bibr" target="#b39">57</ref> Even Victor repeatedly refers to Ry as 'a boy who's a girl who's a girl who's a boy', because their sexual encounters are clouded by the unintelligible nature of Ry's body. <ref type="bibr">58</ref> Science has allowed Ry to grow into the body that feels right for them, which consequently influences their social and sexual interactions with other people as they are 'not one thing, not one gender.</p><p>[They] live with doubleness'. <ref type="bibr">59</ref> Their ambiguity is not alleviated and Ry continues to describe themselves as 'fully female [but they are] also partly male'. <ref type="bibr">60</ref> Frankissstein explores Ry's non-binary identity in an environment of strict oppositional sexism, which Julia Serano explains as 'the belief that female and male are rigid, mutually exclusive categories'. <ref type="bibr" target="#b40">61</ref> Ron Lord, Victor Stein, Polly, and even the sex robots enforce this belief, as they are seemingly unable to think and act beyond those categories. The characters' response to Ry can be classified as what Serano typifies as an act of 'thirdgendering', as they assume that their gender privilege is natural and normal, whereas they often 'see trans people as inhabiting [their] own gender category that is separate from "woman" and "man"'. <ref type="bibr">62</ref> Victor and Ron Lord ask questions about the biological characteristics of Ry's body to uncover a 'truth' that allows them to categorise Ry as either male or female. Ry, on the other hand, participates in the act of third-gendering to make sense of themselves and the world they find themselves in.</p><p>Ry's experienced reality reiterates Braidotti's argument of a 'mind-body continuum' that frames the characters as embedded and embodied subjects in a network of 'affective and accountable' entities. <ref type="bibr" target="#b41">63</ref> Victor's longing to venture into a transcendental cyberspace becomes unattainable as the novel once again illustrates that mind and body are irrevocably intertwined in the relations that define our reality. Winterson thus explores the implications of posthumanist thinking through Victor's transcendental ideology to take a similar position as Braidotti, namely that the 'human' 'never was a universal or neutral term to begin with'. <ref type="bibr" target="#b42">64</ref> A lack of human neutrality aligns with Martine Rothblatt's contention that 'we have matured from homo sapiens into persona creatus', which introduces an understanding of humanity that transcends traditional notions of the homo sapiens as the central being of the universe. <ref type="bibr" target="#b43">65</ref> The novel explores this freedom of form through Ry's experiences as a transgender person, but it also comments on the convergence of technology and the human body. Victor's transhuman dream of 'brain emulation' in a digital sublime dominates over smaller instances of posthumanism, but reality is also defined by normalised examples of nonhuman actants that are intertwined with human actants such as 'computer controlled prosthetic limbs', or even the elementary example of Ron Lord's hearing aid, which is only mentioned in passing. <ref type="bibr" target="#b44">66</ref> Winterson invokes the image of the cyborg through discussions on posthuman enhancement and emphasises the idea that the human experience is irrevocably embedded in technology. Victor Stein's transhumanist ideology eliminates the embedded embodiment of body and mind and tries to distance itself from biology. He argues that even if 'we enhance our biology we are still inside a body. To be free from the body completes the human dream'. <ref type="bibr">67</ref> However, posthuman thinking aligns with a move toward a post-anthropocentric era in which humans transverse into an ecology of belonging that Braidotti describes as synthesising 'environmental, socioeconomic, and affective and psychic dimensions' with 'the enbrainment of the body and the embodiment of the mind'. <ref type="bibr" target="#b45">68</ref> The post in posthumanism does not refer to the complete transcendence of the human condition, rather, it emphasises the idea that posthuman subjects are embedded in multi-directional structures of knowledge. Posthumanism advocates inclusive forms of exchange, takes a materialist approach and partially dissolves the dichotomy between human bodies and technology. Winterson's novel nevertheless suggests a posthuman futurity that creates ontological tensions between mortality and immortality, embodiment and disembodiment, mind and matter.</p><p>Frankissstein demonstrates how these ontological tensions are interrelated with gender performativity and posthuman phenomena. The novel problematises this exact tension when Victor gives a lecture titled 'The Future of Humans in a Post-Human World', where he claims that Artificial Intelligence is not sentimental and that it 'need not replicate outdated gender prejudices'. <ref type="bibr" target="#b46">69</ref> He believes that the dismissal of biological sex will result in an outcome that is better than the human race, but this idea of a genderneutral posthuman database is met with resistance and Victor's audience wonders if women will 'be the first casualties of obsolescence'. <ref type="bibr" target="#b47">70</ref> The characters' questions indicate concerns about the futurity of embodiment and gender in a posthuman world, and it becomes clear that Victor's posthuman radicalism does not necessarily align with posthuman thinking in general. Human beings lack neutrality, and because they are the creators of Artificial Intelligence, this trait is inevitably reflected in the output of such technology. Louis van den Hengel even defines the human as an 'autobiographical subject' that 'has always already been overwhelmingly posthuman' as 'all living beings are symbiotically related to the biological and technological worlds that sustain them'. <ref type="bibr" target="#b48">71</ref> The complete dismissal of the body is also opposed by Karen Barad, who embeds the knowledge that defines humanity in a network of negotiation 'between human and nonhuman, subject and object, mind and body, matter and discourse'. <ref type="bibr" target="#b49">72</ref> In Frankissstein, however, Victor attempts to present gender as an artefact that is no longer appropriate or relevant to his contemporary moment, ignoring the intractability of gender: as Jane Bennet argues, even though gender could be described as a 'congealed bodily effect of historical norms and repetition, its status as artifact does not imply an easy susceptibility to human understanding, reform, or control'. <ref type="bibr" target="#b50">73</ref> Victor nevertheless struggles with bodily effects and tries to escape embodied forms of gender and the conflicted forms of sexual attraction that it creates for him.</p><p>Ry, on the other hand, does acknowledge the importance of a bodily existence, wondering 'What is going to happen to all those minds without matter? […] Because those minds will remember their bodies. Why do you assume we won't miss them?' <ref type="bibr" target="#b51">74</ref> Victor simply answers that Ry lacks ambition, and seems to revel in the idea of a posthuman being that is not bound by inherent boundaries, physical appearance, or labels. The intersection of posthumanism and gender performativity in Frankissstein serves as a reminder that the human condition and the gender identities it creates, lack neutrality, or, as Marquis Bey explains in their book Cistem Failure:</p><p>That gender is constitutive of subjectivity, and that subjectivity as an adherence to the mandates that permit one to appear onto the scene of legible sociality is compulsory, means that gender is always, definitionally, laden with demands that are never innocent or neutral. <ref type="bibr" target="#b52">75</ref> Accordingly, Victor's homosexual panic eases only because he does not know how to describe Ry's body in terms of gender and sex. Ry's lingering femininity offers an escape that allows him to claim that he is not gay, as Victor's attraction is not directed at what he believes to be a 'real', or cisgender, man. Whereas Ry has no problems thinking outside the gender binary, Victor finds himself more troubled by the implications Ry's gender and sexuality might have for his own identity. Victor once again reiterates that he is not gay, which prompts a dialogue that reflects his homosexual panic: I don't think of myself as part of the binary, I said. You're not, he shook his head. No I'm not. But you are. Wings or no wings, angel or human, you don't want to be gay, do you, Victor? […] He doesn't like this conversation. He says, It's not about what I want -like buying a new car. It's about who I am -identity. We make love, and you don't feel like a man to me when we make love. How would you know? You haven't made love to a man … have you? He doesn't answer. <ref type="bibr" target="#b53">76</ref> Victor denies that he still engages with an understanding of posthuman performativity that Karen Barad describes as 'the unexamined habits of mind that grant language and other forms of representation more power in determining our ontologies than they deserve'. <ref type="bibr" target="#b54">77</ref> The word 'gay' would articulate the bodily anxieties he so desperately tries to escape through the invention of a disembodied database. However, in daily life, Victor often acts and thinks according to the gender binary. His desires condtradict his convictions, and his anxiety about Ry's gender identity indicates that he lacks the neutrality that is necessary to ensure the explicit erasure of embodied personhood in his transcendental sublime.</p><p>Frankissstein, then, exaggerates the gender binary of masculinity and femininity to exemplify the cultural associations that shape embodied experiences and the gender prejudices that relate to them. The novel illustrates how femininity is often confined to the fixed constraints of a body that lacks an individual consciousness, whereas the male mind is immortalised as a self-evident entity. Indeed, Victor's first attempt at brain emulation involves his deceased mentor Jack Good, whose preserved head serves as a literal reminder of Butler's idea that 'the masculine pose[s] as a disembodied universality, and the feminine get[s] constructed as a disavowed corporeality'. <ref type="bibr" target="#b55">78</ref> The preservation of the mind intersects with technology and the ways in which it is linked to gender associations, leading one of the characters to worry about the ethical implications of Victor's technological sublime. She asks how long it will be 'before some dick-waving, woman-hating sociopath genetics lab engineers women without heads?' <ref type="bibr" target="#b56">79</ref> Her fears seem warranted, since Ron Lord only celebrates women when they appear as sexual objects, or as 'pulsating vaginas that never say no'. <ref type="bibr">80</ref> No less revealingly, Victor can only cope with his attraction for Ry because their body still showcases characteristics of the female sex. These examples demonstrate how femininity is often linked to a body that only serves to satisfy male sexual freedom. This is especially interesting in relation to Braidotti's identification of a pattern of feminists turning to posthuman formations to escape the binary gender system that perpetuates pre-described processes of becoming. <ref type="bibr" target="#b57">81</ref> The morphology of the posthuman subject in an actor-network has the potential to introduce alternative sexualities and gender systems because it interacts with non-human entities. Ry's transgender body, as well as the projection of desire onto sex robots, indicate some of these alternative possibilities, but these possibilities also demonstrate that our understanding of gender and sexuality is embedded in technology and science. The novel simultaneously sustains and subverts what Butler describes as 'the cultural associations of mind with masculinity and body with femininity' that are intertwined with the corporeality of the characters. <ref type="bibr" target="#b58">82</ref> Frankissstein investigates the discourse on gender and body in posthuman formations and reimagines a relational ontology that destabilises preconceived notions of becoming and reality.</p><p>The ineluctable character of gender performativity makes it increasingly difficult to envision a world that is defined by the radical removal of the embodied experience. Gender identity might be performative, fluid, and subjected to constant change, but Butler stresses that it 'must be understood not as a singular or deliberate "act" but, rather, as the reiterative and citational practice by which discourse produces the effect that it names'. <ref type="bibr" target="#b59">83</ref> In other words, an actor-network negotiates and translates gendered discourses, a process that involves human actants, material entities and other non-individual phenomena. These discourses on gender are linked to the compulsory hierarchy of body, gender and desire, and it becomes practically impossible to disembody gendered knowledge. The novel also acknowledges these difficulties, as even Victor admits that '[o]ne of the challenges of uploading a human is the shock they will experience at being out of a body. A body is what we know'. <ref type="bibr" target="#b60">84</ref> The other characters struggle with the idea of a reality that is shaped by disembodied subjectivities as '[t]here'd be no straight, gay, male, female, cis, trans. What happens to romance without labels?' 85 It is also suggested that the absence of a body compromises personhood to such an extent that '[w]e're not someone though […] We're no one'. <ref type="bibr" target="#b61">86</ref> The materiality of the body cannot be exchanged for an artificial vessel that contains the downloaded data of an immortal mind as it undermines gender, the senses, relationships, physical attraction and identity formation. Transcendental processes of becoming thus continue to be influenced by performative phenomena that reflect bodily experiences and the language humans use to articulate those experiences.</p><p>Winterson's characters exhibit an apprehensive attitude regarding a disembodied existence, which could be explained by the idea that gender is not 'a set of free floating attributes' that can be removed without trouble, since, as Butler notes, 'the substance effect of gender is performatively produced and compelled by the regulatory practices of gender coherence'. <ref type="bibr" target="#b62">87</ref> Gender identity is deeply rooted in performances of the body and mind, not as a static singularity or arbitrary effect, but as reiterative counterparts that construct gendered practices and social phenomena.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Conclusion</head><p>Frankissstein destabilises pre-described processes of becoming in an actornetwork that is shaped by posthuman performativity and anxieties about an embodied existence. The novel imagines a dynamic network of human and non-human actants that challenges the boundaries of the body in both material and societal terms. Both ANT and posthumanism provide a materialist mode of analysis that encourages inclusive forms of exchange in a relational ontology that challenges anthropocentric perspectives. While ANT traditionally tends to evade gender, Frankissstein demonstrates that the entanglement of humans and technology demands a thorough reconsideration of gender associations in technological spheres. The novel introduces sex dolls, robots, and Intelligent Vibrators to scrutinise the intersection of technology, gender and sexuality as the transmission and connection between human and nonhuman actants becomes more prominent. The interactions that follow are an entanglement of voluntary and involuntary examples of gender performativity, which extends the boundaries of the posthuman subject to a network of gendered actants that emphasise the implications of an embedded and embodied materialism.</p><p>The analysis of the actor-network in Frankissstein revealed how interactions between human and nonhuman actants have the agency to destabilise preconceived notions of embodiment through robotic anthropomorphism, transgenderism, and disembodied escapism. Ron Lord's emphasis on the submissive female body is reversed in Victor Stein's attempt to upload the brain as the ultimate feat of AI. The inherent boundaries of a body are destabilised by Victor's transhumanist ideology, which creates a tension between a transcendental consciousness in a sublime cyberspace and a mortal body. He assumes that the absence of a body will erase bodily anxieties about gender and sex, but Braidotti's conceptualisation of the mind-body-continuum proves to be more persistent than he would like to admit. The intersection of gender, sex, and technology in Frankissstein was further elucidated by a theoretical framework that synthesised ANT, Butler's understanding of gender performativity, and theoretical contributions on posthumanist performativity. The analysis that followed revealed that the novel repeatedly portrays the female body as an objectified, empty shell that can be filled with desire. Male bodies are not as easily separated from their mind, and the novel illustrates the persistence of the cultural associations of mind with masculinity and body with femininity. Ry nevertheless disrupts gender prejudices with their non-binary existence, which is shaped by male and female forms of personhood, thereby transcending the gender binary. They assume the human body to be embedded in an experienced reality that translates gender constructs through a discourse on personhood and form to overcome obstructions in the mindbody continuum.</p><p>Winterson's novel navigates a posthuman actor-network that recognises the symmetry between heterogeneous elements, but she intertwines human and non-human actants in such a way that the transmission and translation of gender in an actor-network cannot be dismissed. The discourse on gender and sex in the novel illustrates that the reality of physical existence cannot easily be forgotten. Posthuman subjects are nomadic beings that encourage an embedded and embodied existence in structures of multidirectional knowledge, which includes nonhuman actants. Whereas Braidotti asserts that this 'embodied and embedded materialism is very relevant to the task of rethinking the symbiotic relationship between humans and machines, while avoiding the hype', Winterson's novel thrives on the hype of Artificial Intelligence and its implications for the future. <ref type="bibr" target="#b63">88</ref> Building on Braidotti's cautionary approach to the symbiosis of humans and machines, this analysis situates Winterson's Frankissstein within a framework that explores the material and immaterial tensions of gender identity, using ANT to navigate the novel's speculative embrace of AI's transformative potential. Indeed, this article framed instances of embedded materialism in Frankissstein with ANT, providing an analytical framework that looked beyond the hype, uncovering a speculative insight into the entanglement of gender, human connection, and technology.</p><p>Frankissstein both exaggerates and complicates gender dynamics, creating tensions between gender performativity and the possibilities of posthumanist thinking. The persistence of gender in an actor-network that is transformed by technological interventions demonstrates that technology contributes to the construction and preservation of gender identities and performances, instead of eliminating them. Objects and technological apparatuses carry gender associations impossible to ignore in a social reality that is defined by the dynamic interplay of humans and technology, and gender should therefore not be neglected in ANT. Frankissstein places the posthuman subject in an ontology of hybrid identities that demonstrates how '[h]umanity is not a steady-state system' of sameness. <ref type="bibr" target="#b64">89</ref> Instead, a different system emerges: a dynamic actor-network that continuously blurs the boundaries between mind and body, technology and humanity, masculinity and femininity, suggesting that gender identities are mediated by both human and nonhuman actants.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Notes</head></div>			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="10" xml:id="foot_0"><p>S. VAN DER ZIJDEN</p></note>
+		</body>
+		<back>
+
+			<div type="acknowledgement">
+<div><head>Acknowledgements</head><p>I am deeply grateful to <rs type="person">Dr Ruud van den Beuken</rs>, <rs type="person">Dr Chris Cusack</rs> and <rs type="person">Dr László Munteán</rs> for their feedback, advice and words of encouragement. Without their invaluable input, this article would have lost its momentum a long time ago.</p></div>
+			</div>			<div type="annex">
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Disclosure statement</head><p>No potential conflict of interest was reported by the author.</p></div>			</div>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<analytic>
+		<title level="a" type="main">My Words to Victor Frankenstein Above the Village Of Chamounix</title>
+		<author>
+			<persName><forename type="first">Susan</forename><surname>Stryker</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">The Transgender Studies Reader</title>
+		<editor>
+			<persName><forename type="first">Susan</forename><surname>Stryker</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">Stephen</forename><surname>Whittle</surname></persName>
+		</editor>
+		<meeting><address><addrLine>New York and London</addrLine></address></meeting>
+		<imprint>
+			<publisher>Routledge</publisher>
+			<date type="published" when="2006">2006</date>
+			<biblScope unit="page">247</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<title level="a" type="main">The Trans Legacy of Frankenstein</title>
+		<author>
+			<persName><forename type="first">Jolene</forename><surname>Zigarovich</surname></persName>
+		</author>
+		<idno type="DOI">10.5621/scieficstud.45.2.0260</idno>
+		<ptr target="https://www.jstor.org/stable/10.5621/scieficstud.45.2.0260" />
+	</analytic>
+	<monogr>
+		<title level="j">Science Fiction Studies</title>
+		<imprint>
+			<biblScope unit="volume">45</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page">264</biblScope>
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title level="a" type="main">Frankenstein Redux: Posthuman Monsters in Jeanette Winterson&apos;s Frankissstein</title>
+		<author>
+			<persName><forename type="first">Emily</forename><surname>Mcavan</surname></persName>
+		</author>
+		<idno type="DOI">10.5204/mcj.2843</idno>
+		<ptr target="https://doi.org/10.5204/mcj.2843" />
+	</analytic>
+	<monogr>
+		<title level="j">M/C Journal</title>
+		<imprint>
+			<biblScope unit="volume">24</biblScope>
+			<date type="published" when="2021">2021</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title level="a" type="main">Of Sexbots, Cyborgs and Artificial Intelligence: Articulations of the Posthuman Subject in Jeanette Winterson&apos;s Frankissstein: A Love Story</title>
+		<author>
+			<persName><forename type="first">Susana</forename><surname>Onega</surname></persName>
+		</author>
+		<idno type="DOI">10.1515/pol-2023-2006</idno>
+		<ptr target="https://doi.org/10.1515/pol-2023-2006" />
+	</analytic>
+	<monogr>
+		<title level="j">Pólemos</title>
+		<imprint>
+			<biblScope unit="volume">17</biblScope>
+			<biblScope unit="page" from="89" to="109" />
+			<date type="published" when="2023">2023</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title level="a" type="main">Unscrewing the Big Leviathan</title>
+		<author>
+			<persName><forename type="first">Michel</forename><surname>Callon</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Bruno</forename><surname>Latour</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Advances in Social Theory and Methodology (Boston: Routledge and Kegan Paul</title>
+		<editor>
+			<persName><forename type="first">K</forename><forename type="middle">D</forename><surname>Knorr-Cetina</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">A</forename><forename type="middle">V</forename><surname>Cicourel</surname></persName>
+		</editor>
+		<imprint>
+			<date type="published" when="1981">1981</date>
+			<biblScope unit="page">279</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<monogr>
+		<title/>
+		<author>
+			<persName><surname>Ibid</surname></persName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title level="a" type="main">Oscillating Politics and Shifting Agencies: Equalities and Diversity Work and Actor Network Theory</title>
+		<author>
+			<persName><forename type="first">Shona</forename><surname>Hunter</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Elaine</forename><surname>Swan</surname></persName>
+		</author>
+		<idno type="DOI">10.1108/02610150710756621</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Equal Opportunities International</title>
+		<imprint>
+			<biblScope unit="volume">26</biblScope>
+			<biblScope unit="issue">5</biblScope>
+			<biblScope unit="page">405</biblScope>
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title level="a" type="main">Some Elements in a Sociology of Transition: Domestication of the Scallops and Fishermen of St Brieuc Bay</title>
+		<author>
+			<persName><forename type="first">Michel</forename><surname>Callon</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Power, Action and Belief: A New Sociology of Knowledge?</title>
+		<editor>
+			<persName><forename type="first">John</forename><surname>Law</surname></persName>
+		</editor>
+		<meeting><address><addrLine>London</addrLine></address></meeting>
+		<imprint>
+			<publisher>Routledge and Kegan Paul</publisher>
+			<date type="published" when="0200">1986. 200</date>
+			<biblScope unit="page" from="196" to="229" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<monogr>
+		<title level="m" type="main">Oscillating Politics and Shifting Agencies</title>
+		<author>
+			<persName><forename type="first">Swan</forename><surname>Hunter</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="page">406</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title level="a" type="main">Transhumanism/ Posthumanism</title>
+		<author>
+			<persName><forename type="first">Francesca</forename><surname>Ferrando</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Posthuman Glossary</title>
+		<editor>
+			<persName><forename type="first">Rosi</forename><surname>Braidotti</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">Maria</forename><surname>Hlavajova</surname></persName>
+		</editor>
+		<meeting><address><addrLine>London</addrLine></address></meeting>
+		<imprint>
+			<publisher>Bloomsbury Academic</publisher>
+			<date type="published" when="2018">2018</date>
+			<biblScope unit="page" from="438" to="439" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title level="a" type="main">A Theoretical Framework for the Critical Posthumanities</title>
+		<author>
+			<persName><forename type="first">Rosi</forename><surname>Braidotti</surname></persName>
+		</author>
+		<idno type="DOI">10.1177/0263276418771486</idno>
+		<ptr target="https://doi.org/10.1177/0263276418771486" />
+	</analytic>
+	<monogr>
+		<title level="j">Theory, Culture &amp; Society</title>
+		<imprint>
+			<biblScope unit="volume">36</biblScope>
+			<biblScope unit="issue">6</biblScope>
+			<biblScope unit="page">31</biblScope>
+			<date type="published" when="2019">2019</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<monogr>
+		<author>
+			<persName><forename type="first">Jane</forename><surname>Bennett</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Vibrant</forename><surname>Matter</surname></persName>
+		</author>
+		<title level="m">A Political Ecology of Things</title>
+		<meeting><address><addrLine>Durham and London</addrLine></address></meeting>
+		<imprint>
+			<publisher>Duke University Press</publisher>
+			<date type="published" when="2010">2010</date>
+			<biblScope unit="page">p. xvi</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<monogr>
+		<author>
+			<persName><forename type="first">Bruno</forename><surname>Latour</surname></persName>
+		</author>
+		<title level="m">Reassembling the Social: An Introduction to Actor-Network Theory</title>
+		<meeting><address><addrLine>Oxford</addrLine></address></meeting>
+		<imprint>
+			<publisher>Oxford University Press</publisher>
+			<date type="published" when="2005">2005</date>
+			<biblScope unit="page">5</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<title level="a" type="main">Comparison and Translation: A Perspective from Actor-Network Theory</title>
+		<author>
+			<persName><forename type="first">Rita</forename><surname>Felski</surname></persName>
+		</author>
+		<idno type="DOI">10.5325/complitstudies.53.4.0747</idno>
+		<ptr target="https://doi.org/10.5325/complitstudies.53.4.0747" />
+	</analytic>
+	<monogr>
+		<title level="j">Comparative Literature Studies</title>
+		<imprint>
+			<biblScope unit="volume">53</biblScope>
+			<biblScope unit="page">748</biblScope>
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<monogr>
+		<title/>
+		<author>
+			<persName><surname>Ibid</surname></persName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">Jeanette</forename><surname>Winterson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Frankissstein</forename></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2020">2020</date>
+			<biblScope unit="page">34</biblScope>
+			<pubPlace>London: Vintage</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<monogr>
+		<title level="m" type="main">12 Bytes: How Artificial Intelligence Will Change the Way We Live and Love</title>
+		<author>
+			<persName><forename type="first">Jeanette</forename><surname>Winterson</surname></persName>
+		</author>
+		<ptr target="https://books.google.nl/books?id=ign7DwAAQBAJ&amp;printsec=frontcover&amp;hl=nl&amp;source=gbs_ge_summary_r&amp;cad=0#v=onepage&amp;q&amp;f=false" />
+		<imprint>
+			<date type="published" when="2023">2023</date>
+			<publisher>Grove Press</publisher>
+			<pubPlace>New York</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">Frankissstein</forename><surname>Winterson</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="page">35</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<monogr>
+		<title/>
+		<author>
+			<persName><surname>Ibid</surname></persName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<monogr>
+		<title/>
+		<author>
+			<persName><surname>Ibid</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="page">88</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">Vibrant</forename><surname>Bennett</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Matter</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="page">p. xvi</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<analytic>
+		<title level="a" type="main">Oscillating Politics and Shifting Agencies</title>
+		<author>
+			<persName><forename type="first">Swan</forename><surname>Hunter</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Mike Michael, Constructing Identities: The Social, the Nonhuman and Change</title>
+		<meeting><address><addrLine>London</addrLine></address></meeting>
+		<imprint>
+			<publisher>Sage</publisher>
+			<date type="published" when="1996">1996</date>
+			<biblScope unit="page">62</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<analytic>
+		<title level="a" type="main">Reassembling Gender: Actor-Network Theory (ANT) and the Making of the Technology in Gender</title>
+		<author>
+			<persName><forename type="first">Anette</forename><surname>Vivian</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Lagesen</surname></persName>
+		</author>
+		<idno type="DOI">10.1177/0306312712437078</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Social Studies of Science</title>
+		<imprint>
+			<biblScope unit="volume">42</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page">443</biblScope>
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<analytic>
+		<title level="a" type="main">Men on Board: Actor-Network Theory, Feminism, and Gendering the Past</title>
+		<author>
+			<persName><forename type="first">Lawrence</forename><surname>Corrigan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Albert</forename><surname>Mills</surname></persName>
+		</author>
+		<idno type="DOI">10.1177/1744935912444357</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Management &amp; Organizational History</title>
+		<imprint>
+			<biblScope unit="volume">7</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page">260</biblScope>
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<monogr>
+		<title level="m" type="main">Oscillating Politics and Shifting Agencies</title>
+		<author>
+			<persName><forename type="first">Swan</forename><surname>Hunter</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="page">405</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<monogr>
+		<author>
+			<persName><forename type="first">Judith</forename><surname>Butler</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Gender</forename><surname>Trouble</surname></persName>
+		</author>
+		<title level="m">Tenth Anniversary Edition</title>
+		<meeting><address><addrLine>London and New York</addrLine></address></meeting>
+		<imprint>
+			<publisher>Routledge</publisher>
+			<date type="published" when="2002">2002</date>
+			<biblScope unit="page">9</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<analytic>
+		<title level="a" type="main">Manifesto for Cyborgs: Science, Technology, and Socialist Feminism in the 1980s</title>
+		<author>
+			<persName><forename type="first">Donna</forename><surname>Haraway</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Feminism/ Postmodernism</title>
+		<editor>
+			<persName><forename type="first">Linda</forename><forename type="middle">J</forename><surname>Nicholson</surname></persName>
+		</editor>
+		<meeting><address><addrLine>New York and London</addrLine></address></meeting>
+		<imprint>
+			<publisher>Routledge</publisher>
+			<date type="published" when="1990">1990</date>
+			<biblScope unit="page">206</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b27">
+	<monogr>
+		<title level="m" type="main">Manifesto for Cyborgs</title>
+		<author>
+			<persName><surname>Haraway</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="page">205</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b28">
+	<monogr>
+		<title level="m" type="main">Metamorphoses: Towards a Materialist Theory of Becoming</title>
+		<author>
+			<persName><surname>Braidotti</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="page" from="216" to="245" />
+		</imprint>
+	</monogr>
+	<note>Ibid</note>
+</biblStruct>
+
+<biblStruct xml:id="b29">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">Frankissstein</forename><surname>Winterson</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="page">39</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b30">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">Gender</forename><surname>Butler</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Trouble</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="page">19</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b31">
+	<monogr>
+		<title level="m" type="main">Manifesto for Cyborgs</title>
+		<author>
+			<persName><surname>Haraway</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="page">206</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b32">
+	<monogr>
+		<author>
+			<persName><forename type="first">Rosi</forename><surname>Braidotti</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Metamorphoses</surname></persName>
+		</author>
+		<title level="m">Towards a Materialist Theory of Becoming</title>
+		<meeting><address><addrLine>Cambridge</addrLine></address></meeting>
+		<imprint>
+			<publisher>Polity Press</publisher>
+			<date type="published" when="2002">2002</date>
+			<biblScope unit="page">260</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b33">
+	<analytic>
+		<title level="a" type="main">A Theoretical Framework for the Critical Posthumanities</title>
+		<author>
+			<persName><forename type="first">Rosi</forename><surname>Braidotti</surname></persName>
+		</author>
+		<idno type="DOI">10.1177/0263276418771486.31</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Theory, Culture &amp; Society</title>
+		<imprint>
+			<biblScope unit="volume">36</biblScope>
+			<biblScope unit="issue">6</biblScope>
+			<biblScope unit="page">4</biblScope>
+			<date type="published" when="2019">2019</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b34">
+	<monogr>
+		<title level="m" type="main">Nietzsche Gets a Modem: Transhumanism and the Technological Sublime</title>
+		<author>
+			<persName><surname>Graham</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="page">71</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b35">
+	<monogr>
+		<title level="m" type="main">A Theoretical Framework for the Critical Posthumanities</title>
+		<author>
+			<persName><surname>Braidotti</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="page">36</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b36">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">Frankissstein</forename><surname>Winterson</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="page">298</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b37">
+	<monogr>
+		<title/>
+		<author>
+			<persName><surname>Ibid</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="page">120</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b38">
+	<monogr>
+		<title level="m" type="main">Mind is Deeper than Matter: Transgenderism, Transhumanism and the Freedom of Form</title>
+		<author>
+			<persName><surname>Rothblatt</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="page">319</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b39">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">Frankissstein</forename><surname>Winterson</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="page">85</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b40">
+	<monogr>
+		<author>
+			<persName><forename type="first">Julia</forename><surname>Serano</surname></persName>
+		</author>
+		<title level="m">Whipping Girl: A Transsexual Woman on Sexism and the Scapegoating of Femininity</title>
+		<meeting><address><addrLine>New York</addrLine></address></meeting>
+		<imprint>
+			<publisher>Seal Press</publisher>
+			<date type="published" when="2007">2007</date>
+			<biblScope unit="page">62</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b41">
+	<monogr>
+		<title level="m" type="main">A Theoretical Framework for the Critical Posthumanities</title>
+		<author>
+			<persName><surname>Braidotti</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="page">31</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b42">
+	<monogr>
+		<title level="m" type="main">Metamorphoses: Towards a Materialist Theory of Becoming</title>
+		<author>
+			<persName><surname>Braidotti</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="page">5</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b43">
+	<analytic>
+		<title level="a" type="main">Mind is Deeper Than Matter: Transgenderism, Transhumanism, and the Freedom of Form</title>
+		<author>
+			<persName><forename type="first">Martine</forename><surname>Rothblatt</surname></persName>
+		</author>
+		<idno type="DOI">10.1002/9781118555927.ch31</idno>
+		<ptr target="https://doi.org/10.1002/9781118555927.ch31" />
+	</analytic>
+	<monogr>
+		<title level="m">The Transhumanist Reader</title>
+		<editor>
+			<persName><forename type="first">Max</forename><surname>More</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">Natasha</forename><surname>Vita-More</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Chichester</addrLine></address></meeting>
+		<imprint>
+			<publisher>Wiley-Blackwell</publisher>
+			<date type="published" when="2013">2013</date>
+			<biblScope unit="page">318</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b44">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">Frankissstein</forename><surname>Winterson</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="page">88</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b45">
+	<monogr>
+		<title level="m" type="main">A Theoretical Framework for the Critical Posthumanities</title>
+		<author>
+			<persName><surname>Braidotti</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="page">31</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b46">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">Frankissstein</forename><surname>Winterson</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="page">74</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b47">
+	<monogr>
+		<title/>
+		<author>
+			<persName><surname>Ibid</surname></persName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b48">
+	<analytic>
+		<title level="a" type="main">Zoegraphy: Per/ Forming Posthuman Lives</title>
+		<author>
+			<persName><forename type="first">Louis</forename><surname>Van Den</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Hengel</surname></persName>
+		</author>
+		<idno type="DOI">10.1353/bio.2012.0003</idno>
+		<ptr target="https://doi.org/10.1353/bio.2012.0003" />
+	</analytic>
+	<monogr>
+		<title level="j">Biography</title>
+		<imprint>
+			<biblScope unit="volume">35</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="3" to="4" />
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b49">
+	<analytic>
+		<title level="a" type="main">Posthuman Performativity: Toward an Understanding of How Matter Comes to Matter</title>
+		<author>
+			<persName><forename type="first">Karen</forename><surname>Barad</surname></persName>
+		</author>
+		<idno type="DOI">10.1086/345321</idno>
+		<ptr target="https://doi.org/10.1086/345321" />
+	</analytic>
+	<monogr>
+		<title level="j">Signs: Journal of Women in Culture and Society</title>
+		<imprint>
+			<biblScope unit="volume">28</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page">829</biblScope>
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b50">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">Vibrant</forename><surname>Bennet</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Matter</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="page">1</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b51">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">Frankissstein</forename><surname>Winterson</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="page" from="281" to="282" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b52">
+	<monogr>
+		<author>
+			<persName><forename type="first">Marquis</forename><surname>Bey</surname></persName>
+		</author>
+		<title level="m">Cistem Failure: Essays on Blackness and Cisgender</title>
+		<meeting><address><addrLine>Durham, NC</addrLine></address></meeting>
+		<imprint>
+			<publisher>Duke University Press</publisher>
+			<date type="published" when="2022">2022</date>
+			<biblScope unit="page">143</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b53">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">Frankissstein</forename><surname>Winterson</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="page">155</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b54">
+	<monogr>
+		<title level="m" type="main">Posthuman Performativity: Toward an Understanding of How Matter Comes to Matter</title>
+		<author>
+			<persName><surname>Barad</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="page">802</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b55">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">Gender</forename><surname>Butler</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Trouble</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="page">17</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b56">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">Frankissstein</forename><surname>Winterson</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="page">279</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b57">
+	<monogr>
+		<title level="m" type="main">A Theoretical Framework for the Critical Posthumanities</title>
+		<author>
+			<persName><surname>Braidotti</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="page">39</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b58">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">Gender</forename><surname>Butler</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Trouble</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="page">17</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b59">
+	<monogr>
+		<author>
+			<persName><forename type="first">Judith</forename><surname>Butler</surname></persName>
+		</author>
+		<title level="m">Bodies that Matter: On the Discursive Limits of &quot;Sex</title>
+		<meeting><address><addrLine>London</addrLine></address></meeting>
+		<imprint>
+			<publisher>Routledge</publisher>
+			<date type="published" when="2011">2011</date>
+			<biblScope unit="page">p. xii</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b60">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">Frankissstein</forename><surname>Winterson</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="page">266</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b61">
+	<monogr>
+		<title/>
+		<author>
+			<persName><surname>Ibid</surname></persName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b62">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">Gender</forename><surname>Butler</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Trouble</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="page">33</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b63">
+	<monogr>
+		<title level="m" type="main">Metamorphoses: Towards a Materialist Theory of Becoming</title>
+		<author>
+			<persName><surname>Braidotti</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="page">258</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b64">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">Frankissstein</forename><surname>Winterson</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="page">335</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

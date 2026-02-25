@@ -1,0 +1,459 @@
+# Ultimate Academic Stylometry Report (compiled from stylo_out)
+
+- Root: `/Users/sametbaytar/stylo_local/stylo_out`
+- Generated: 2026-02-26T00:53:51
+- Corpus size (articles): 125
+
+## Executive overview
+This report consolidates outputs from: (A) article-level deep stylometry, (B) section-level structure metrics, (C) metadata enrichment, (D) residual stylometric space, (E) variance partition via η², (F) structure–style decoupling.
+
+## A) Article-level deep stylometry (structure-aware)
+This section summarises the corpus-wide distribution of core stylometric and academic-structure metrics extracted per article.
+### A.1 Quick distribution plots
+- `ultimate_report_figures/A_avg_sentence_len.png`
+- `ultimate_report_figures/A_subordination_per_1k.png`
+- `ultimate_report_figures/A_mtld.png`
+- `ultimate_report_figures/A_citations_per_1k.png`
+
+### A.2 Corpus-level descriptive statistics (selected metrics)
+| metric | count | mean | std | min | 10% | 25% | 50% | 75% | 90% | max |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| avg_sentence_len | 125.0 | 18.15722232268267 | 2.5341748145359224 | 10.905960264900662 | 15.232725329446772 | 16.548192771084338 | 17.951351351351352 | 19.75 | 21.712984203528855 | 25.620805369127517 |
+| sd_sentence_len | 125.0 | 15.64754688850613 | 2.357347035325273 | 11.322984486906565 | 13.023069392794705 | 13.991108537428524 | 15.266858831088609 | 16.950541147716695 | 18.7216205637434 | 23.16594698649406 |
+| sent_gt_40_pct | 125.0 | 0.09328987577548567 | 0.046999002353040734 | 0.0176991150442477 | 0.04379542619542616 | 0.059375 | 0.0864745011086474 | 0.119485294117647 | 0.15284043441938175 | 0.261744966442953 |
+| sent_lt_12_pct | 125.0 | 0.4247311429959075 | 0.08258879905496463 | 0.2422907488986784 | 0.32118579095323274 | 0.3631578947368421 | 0.420253164556962 | 0.4763948497854077 | 0.529785196704946 | 0.6801932367149759 |
+| subordination_per_1k_words | 125.0 | 35.48740321454769 | 5.2636004583954294 | 17.345657879721557 | 29.022382663844986 | 32.24212476837554 | 34.99830105334693 | 39.05289052890529 | 42.25613368470511 | 48.75506658946149 |
+| nominalisations_per_1k_words | 125.0 | 45.75619672160416 | 10.960114752164106 | 21.735779250809312 | 32.169511331800805 | 38.34373227453205 | 44.95723095285459 | 52.11349160393746 | 61.39173497584667 | 79.72304648862512 |
+| passive_sent_ratio | 125.0 | 0.14962627064416634 | 0.04291409316140884 | 0.0479041916167664 | 0.09828257837470115 | 0.1179883945841392 | 0.1451187335092348 | 0.1767955801104972 | 0.20736104319478402 | 0.2719298245614035 |
+| agentless_passive_ratio_of_passives | 125.0 | 0.7031461142291928 | 0.08873257094389476 | 0.3653846153846153 | 0.62 | 0.6417910447761194 | 0.7073170731707317 | 0.7638888888888888 | 0.8112808460634549 | 0.875 |
+| mtld | 125.0 | 100.91655325299068 | 20.274579596949604 | 58.12568547473559 | 76.01322833610068 | 87.66692340267292 | 99.26273280001516 | 111.52039885647164 | 126.93825870707961 | 161.75225047355804 |
+| pos_noun_ratio | 125.0 | 0.29424708667711413 | 0.021958736383548665 | 0.233107237915343 | 0.2693150885294449 | 0.2791258477769405 | 0.2946142338106433 | 0.3102232667450059 | 0.31778803747244166 | 0.3800878899214754 |
+| pos_verb_ratio | 125.0 | 0.10331050299737561 | 0.013151396347204034 | 0.0527339528852388 | 0.08679034114242906 | 0.0946975038781554 | 0.1038736738218603 | 0.1103067595692697 | 0.11772317549880912 | 0.1449286973241467 |
+| pos_adj_ratio | 125.0 | 0.06904745195219265 | 0.01233135117869717 | 0.0369569915712124 | 0.05395645549037546 | 0.0604506065857885 | 0.068889335207873 | 0.0771034358373162 | 0.08508950824706477 | 0.0989193682460515 |
+| pos_adv_ratio | 125.0 | 0.026509672024522913 | 0.005630048921377339 | 0.0109502197248036 | 0.0197417873350835 | 0.0224944768025707 | 0.0267127021624568 | 0.0298830315654542 | 0.033298674797970204 | 0.0413594901911783 |
+| citations_per_1k | 125.0 | 2.5645824781148363 | 2.64646820503314 | 0.0686200507788375 | 0.1122221177441223 | 0.2243913384943341 | 1.6266266266266267 | 4.5891141942369265 | 6.576274578476009 | 12.535477767265846 |
+| integral_ratio | 125.0 | 0.1005402933148625 | 0.17096977871385144 | 0.0 | 0.0 | 0.0 | 0.0 | 0.1428571428571428 | 0.3205479452054797 | 0.75 |
+| quote_count | 125.0 | 97.264 | 80.10075751725891 | 0.0 | 5.4 | 19.0 | 92.0 | 151.0 | 211.60000000000002 | 288.0 |
+| quote_len_mean | 125.0 | 8.85458053194466 | 9.806023181118228 | 0.0 | 2.6857142857142855 | 4.842105263157895 | 7.661016949152542 | 10.245098039215684 | 13.672438672438673 | 78.33333333333333 |
+| block_quote_starts | 125.0 | 0.016 | 0.12598002913928658 | 0.0 | 0.0 | 0.0 | 0.0 | 0.0 | 0.0 | 1.0 |
+| emdash_per_1k_words | 125.0 | 1.5449001325135574 | 2.517068875506845 | 0.0 | 0.0 | 0.0 | 0.3241841365895829 | 2.0844761382336805 | 4.845852487822608 | 12.342631449024932 |
+
+### A.3 Lexical bundles (global top 30 across corpus)
+| ngram | count |
+| --- | --- |
+| in contemporary fiction | 288 |
+| study in contemporary fiction | 283 |
+| critique study in contemporary fiction | 283 |
+| critique study in contemporary | 283 |
+| critique study in | 283 |
+| study in contemporary | 283 |
+| vol no pp | 275 |
+| culture theory and critique | 187 |
+| culture theory and | 187 |
+| journal of postcolonial | 187 |
+| theory and critique | 187 |
+| of the novel | 164 |
+| as well as | 160 |
+| the present perfect | 152 |
+| in the novel | 151 |
+| journal of postcolonial write | 121 |
+| of postcolonial write | 121 |
+| ibid ibid ibid | 87 |
+| never let i | 77 |
+| never let i go | 77 |
+| let i go | 77 |
+| klara and the sun | 76 |
+| klara and the | 74 |
+| and the sun | 74 |
+| chinese science fiction | 72 |
+| the use of | 72 |
+| the making of | 72 |
+| of the self | 71 |
+| of the present | 70 |
+| making of incarnation | 70 |
+
+## B) Section-level structure metrics (GROBID-derived)
+This section reports section ecology: section shares, canonical mapping, entropy/template complexity, and journal-level templates.
+### B.1 Section name distribution
+- `ultimate_report_figures/B_section_names_top.png`
+
+Top 30 section labels:
+| section_name | count |
+| --- | --- |
+| Abstract | 125 |
+| Conclusion | 91 |
+| Introduction | 73 |
+| Notes | 44 |
+| SECTION_1 | 41 |
+| Disclosure Statement | 29 |
+| Disclosure statement | 28 |
+| Notes on contributor | 21 |
+| ORCID | 7 |
+| Methods | 5 |
+| Funding | 3 |
+| Notes on contributors | 3 |
+| Discussion | 3 |
+| II | 2 |
+| 44 | 2 |
+| I | 2 |
+| Results | 2 |
+| Notes on Contributor | 2 |
+| … | 2 |
+| Concrete computing | 1 |
+| An evolving view of evolutionary time | 1 |
+| Adapting evolutionary and kinship time: Challenging reproductive futurity | 1 |
+| II. Realizing the Virtual: Toward an Infrastructural Realism | 1 |
+| III. Historicizing the Virtual: Toward a Historical Poetics of Infrastructure | 1 |
+| IV. Ethicizing the Virtual: Toward the Infrapolitics of Virtuality | 1 |
+| Structured Unreliabilities | 1 |
+| The Silenced Story | 1 |
+| Naming Games and the Godkin Twins | 1 |
+| A Lost Child, a Girl Misplaced in Time | 1 |
+| The Burning Hayshed -the Burning Circus | 1 |
+
+### B.2 Section-level metrics table (wide) sanity
+- Rows: 125
+- Columns: 7621
+
+### B.3 Per-article template complexity / entropy
+| file | section_entropy |
+| --- | --- |
+| 00-Metaphorical Traits of the Language of the COVID-19 Pandemic_ A Short-Term Diachronic Study.pdf | 2.8929308482050113 |
+| 00-On tokens and tokenisation_ a conjunctural approach to thinking GenAI in the Humanities classr.pdf | 2.356967635738849 |
+| 00-The Pattern Nexus_ Postdigital Aesthetics_ Technoscience and Mysticism in Tom McCarthy_s The M.pdf | 2.2290208419328965 |
+| 00-Toxic intimacies_ Tawada Y_ko_s The Emissary as Counternarrative to Japan_s nuclear and enviro.pdf | 2.8371401492727077 |
+| 00-_I made no sound at all__ Exploring Indonesia_s collective trauma in Saman and Enrico_s Love S.pdf | 2.4368570436842942 |
+| 01-Apple Trees and Plastic Ducks_ Gardens as Post-pastoral Landscapes in Contemporary British Fic.pdf | 1.557343896870944 |
+| 01-Hopegoing_ Animist metaphor as deferred hope in Yaa Gyasi_s Homegoing.pdf | 2.5231403940563943 |
+| 01-Liberated territory_ on the poetry and pedagogy of Tongo Eisen-Martin.pdf | 1.9481759598839656 |
+| 01-Mahb_bperest_ uranist and transvestite_ translating sexology in the Late Ottoman Empire and Ea.pdf | 2.482563636449699 |
+| 01-_The Origin of Everything__ Sex Against Social Convention in Sally Rooney_s Normal People and .pdf | 1.7527638282433395 |
+| 02-Jeanette Winterson_s The Gap of Time in the Caesura of the Time That is Left.pdf | 0.4172241844340055 |
+| 02-Self-perception_ laws and identities. Restricting the relevance of psy knowledge among sex-dis.pdf | 2.7787637533058516 |
+| 02-Slow comics_ resource extraction in graphic narrative.pdf | 1.920207387368805 |
+| 02-Spatiality_ Fugitivity_ and _Black Livingness_ in Harriet Jacobs_s Incidents in the Life of a .pdf | 2.371459768874394 |
+| 02-To hope or to weep_ Slow hope in Rohan Chakravarty_s green humour series.pdf | 1.3312012035349006 |
+| 03-Beowulf_ the Nibelungenlied_ and the Medieval Germanic Courtier Narrative.pdf | 3.0714024270878433 |
+| 03-Ethics and Identity in David Albahari_s Bait_ A Ric_urian Reading.pdf | 2.819191043523766 |
+| 03-Neuralink and the rise of psychopolitical governmentality.pdf | 3.419422231133836 |
+| 03-The cultural politics of Canto 49 by Ezra Pound. A historical re-evaluation.pdf | 2.0832748491355737 |
+| 03-Transnational hauntings_ A reparative reading of ghosts and weak rootedness in Zen Cho_s ____ .pdf | 2.3134553936136735 |
+| 04-Hieroglyphic Matter in Bacon_s New Atlantis.pdf | 2.0827439521459516 |
+| 04-Living in Endtimes_ Countersentimental Domesticity in the Age of Uncertainty.pdf | 2.5215137458684196 |
+| 04-The alienation of Valerii Pereleshin.pdf | 0.8013628896290323 |
+| 04-_Let us tend this garden together__ Postcolonial time travel in Ng Yi-Sheng_s _Garden_.pdf | 2.5334233651309215 |
+| 04-_We_re on a journey__ antiracist discourse in British development and humanitarian INGOs.pdf | 3.1522456047786713 |
+| 05-Ante-victimhood of Atomic Bombing_ Inter-imperiality and Gender in Jackie Copleton_s A Diction.pdf | 2.7926630811361046 |
+| 05-Crisis Extraordinariness_ Vibrant Relations in Michael Christie_s Greenwood.pdf | 2.721509904081821 |
+| 05-Indeed_ This Is How It Was_ Brother_ by Ali Shariati.pdf | 1.096408586047547 |
+| 05-Network_ed_ confession_ disidentification_ digitality_ and the politics of self-representation.pdf | 2.7849952287571864 |
+| 05-Technical imagining_ dispelling AI figments of the generative machine learning imagination.pdf | 2.4298877824277216 |
+
+### B.4 Canonical section mapping and journal template
+| journal_label | ABSTRACT | CONCLUSION | DISCUSSION | INTRO | OTHER | RESULTS |
+| --- | --- | --- | --- | --- | --- | --- |
+| Critique: Studies in Contemporary Fiction | 0.0267542716510651 | 0.0618363215166331 | 0.1239316239316239 | 0.1076259000409484 | 0.1575338562576397 | 0.0 |
+| Culture, Theory and Critique | 0.0255753651215379 | 0.0680689005320665 | 0.0 | 0.118622852879058 | 0.1530120088050026 | 0.0150157141194273 |
+| English Studies | 0.0189127762592384 | 0.062975150265791 | 9.022827754218172e-05 | 0.1342197968443518 | 0.1510402973540068 | 0.0004209344745334 |
+| Journal of Postcolonial Writing | 0.0225992615923724 | 0.0556106311095162 | 0.0 | 0.1572524265336979 | 0.139305184519117 | 0.0 |
+| Textual Practice | 0.0302721690934465 | 0.0830845483279774 | 0.5942190993292877 | 0.1191417835394779 | 0.1684766433598781 | 0.0 |
+| UNKNOWN | 0.0182139382811562 | 0.0673625936247499 | 0.0 | 0.119552876291726 | 0.227105883372105 | 0.0 |
+
+### B.5 Journal template strength
+| journal_label | ABSTRACT | CONCLUSION | DISCUSSION | INTRO | OTHER | RESULTS | section_entropy_bits | dominant_section_share |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| English Studies | 0.0189127762592384 | 0.062975150265791 | 9.022827754218172e-05 | 0.1342197968443518 | 0.1510402973540068 | 0.0004209344745334 | 1.1661765194053926 | 0.1510402973540068 |
+| Journal of Postcolonial Writing | 0.0225992615923724 | 0.0556106311095162 | 0.0 | 0.1572524265336979 | 0.139305184519117 | 0.0 | 1.1711976759565692 | 0.1572524265336979 |
+| UNKNOWN | 0.0182139382811562 | 0.0673625936247499 | 0.0 | 0.119552876291726 | 0.227105883372105 | 0.0 | 1.2194476406623906 | 0.227105883372105 |
+| Culture, Theory and Critique | 0.0255753651215379 | 0.0680689005320665 | 0.0 | 0.118622852879058 | 0.1530120088050026 | 0.0150157141194273 | 1.2693501645106642 | 0.1530120088050026 |
+| Critique: Studies in Contemporary Fiction | 0.0267542716510651 | 0.0618363215166331 | 0.1239316239316239 | 0.1076259000409484 | 0.1575338562576397 | 0.0 | 1.527535543021032 | 0.1575338562576397 |
+| Textual Practice | 0.0302721690934465 | 0.0830845483279774 | 0.5942190993292877 | 0.1191417835394779 | 0.1684766433598781 | 0.0 | 1.6957376176071135 | 0.5942190993292877 |
+
+## C) Journal and bibliographic metadata (TEI + DOI enrichment)
+This section audits available metadata and reports coverage (non-null ratios) and top labels.
+### C.1 Coverage (enriched metadata)
+| field | non_null_ratio | non_null_count |
+| --- | --- | --- |
+| title | 1.0 | 125 |
+| doi | 1.0 | 125 |
+| authors | 1.0 | 125 |
+| journal | 0.0 | 0 |
+| publisher | 0.0 | 0 |
+| year | 0.0 | 0 |
+
+### C.2 Coverage (raw TEI metadata)
+| field | non_null_ratio | non_null_count |
+| --- | --- | --- |
+| title | 1.0 | 125 |
+| doi | 1.0 | 125 |
+| authors | 1.0 | 125 |
+| journal | 0.0 | 0 |
+| publisher | 0.0 | 0 |
+| year | 0.0 | 0 |
+
+### C.3 Top journal labels (enriched)
+| journal | count |
+| --- | --- |
+| MISSING | 125 |
+
+### C.4 Top publishers (enriched)
+| publisher | count |
+| --- | --- |
+| MISSING | 125 |
+
+### C.5 DOI coverage
+- DOI non-null ratio: 100.0%
+
+## D) Residual stylometric space (journal mean removed, PCA, clustering)
+This section summarises the residual space outputs already computed by your pipeline.
+### D.1 Cluster distribution
+| cluster | count |
+| --- | --- |
+| 0 | 43 |
+| 1 | 1 |
+| 2 | 3 |
+| 3 | 1 |
+| 4 | 1 |
+| 5 | 1 |
+| 6 | 1 |
+| 7 | 1 |
+| 8 | 4 |
+| 9 | 69 |
+
+### D.2 Sample rows
+| file | authors | journal_label | cluster |
+| --- | --- | --- | --- |
+| 00-Metaphorical Traits of the Language of the COVID-19 Pandemic_ A Short-Term Diachronic Study.pdf | Ljubica Leone | English Studies | 5 |
+| 00-On tokens and tokenisation_ a conjunctural approach to thinking GenAI in the Humanities classr.pdf | Niall Martin | Culture, Theory and Critique | 9 |
+| 00-The Pattern Nexus_ Postdigital Aesthetics_ Technoscience and Mysticism in Tom McCarthy_s The M.pdf | Stephan Besser | UNKNOWN | 9 |
+| 00-Toxic intimacies_ Tawada Y_ko_s The Emissary as Counternarrative to Japan_s nuclear and enviro.pdf | Jerrine Tan; Franny Choi | Textual Practice | 9 |
+| 00-_I made no sound at all__ Exploring Indonesia_s collective trauma in Saman and Enrico_s Love S.pdf | Silvia Mayasari-Hoffert; Department of Southeast Asian Studies Goethe-Universität Frankfurt am Main Frankfurt am Main Germany; Department of Southeast Asian Studies Goethe-Universität Frankfurt am Main Rostocker Straße 2 60323 Frankfurt am Main Germany | Journal of Postcolonial Writing | 9 |
+| 01-Apple Trees and Plastic Ducks_ Gardens as Post-pastoral Landscapes in Contemporary British Fic.pdf | Silvia Rosivalova Baucekova; English Studies; Department of British and American Studies Pavol Jozef Šafárik University Košice Slovakia; Silvia Rosivalova Baucekova; Alfrey, Daniels, and Postle Art of the Garden 9. 3 Ibid; Office for National Statistics, "One in Eight British Households Has No Garden | English Studies | 9 |
+| 01-Hopegoing_ Animist metaphor as deferred hope in Yaa Gyasi_s Homegoing.pdf | Jay Rajiva | Journal of Postcolonial Writing | 9 |
+| 01-Liberated territory_ on the poetry and pedagogy of Tongo Eisen-Martin.pdf | Thomas Allen; Tongo Eisen-Martin | Textual Practice | 9 |
+| 01-Mahb_bperest_ uranist and transvestite_ translating sexology in the Late Ottoman Empire and Ea.pdf | Ezgi Sarıtaş | Culture, Theory and Critique | 0 |
+| 01-_The Origin of Everything__ Sex Against Social Convention in Sally Rooney_s Normal People and .pdf | Genevieve Couvret | UNKNOWN | 9 |
+| 02-Jeanette Winterson_s The Gap of Time in the Caesura of the Time That is Left.pdf | Tatiana Golban | Critique: Studies in Contemporary Fiction | 9 |
+| 02-Self-perception_ laws and identities. Restricting the relevance of psy knowledge among sex-dis.pdf | Romina Del Monaco; María Epele | Culture, Theory and Critique | 2 |
+| 02-Slow comics_ resource extraction in graphic narrative.pdf | Jeffrey Mather | Textual Practice | 9 |
+| 02-Spatiality_ Fugitivity_ and _Black Livingness_ in Harriet Jacobs_s Incidents in the Life of a .pdf | Tuire Valkeakari | English Studies | 9 |
+| 02-To hope or to weep_ Slow hope in Rohan Chakravarty_s green humour series.pdf | Arundhathi Baburaj; Girish D Pawar; Department of English University of Hyderabad Hyderabad India; Department of English School of Humanities University of Hyderabad 500046 Hyderabad India; Arundhathi Baburaj http://orcid 0009-0002-3933-6444 Girish D. Pawar | Journal of Postcolonial Writing | 0 |
+
+## E) Variance partition (η²): journal-driven vs individual metrics
+This section ranks metrics by journal effect size (η²) and highlights the most journal-determined dimensions.
+### E.1 Top 50 journal-driven metrics (highest η²)
+| metric | eta2 |
+| --- | --- |
+| sec_Pattern_Technoscience_and_Grid_Shaped_Control_sd_sentence_len | 10.424 |
+| sec_Adapting_evolutionary_and_kinship_time_Challenging_reproductive_futurity_avg_sentence_len | 10.424 |
+| sec_Pedagogy_sd_sentence_len | 10.424 |
+| sec_Mor_s_journey_towards_acquiring_a_different_sense_of_freedom_sent_lt_12_pct | 10.424 |
+| sec_Magical_Temporality_and_Narrative_Sovereignty_sent_gt_40_pct | 10.424 |
+| sec_Solar_Becoming_The_Posthuman_Assemblage_sd_sentence_len | 10.424 |
+| sec_Part_II_sd_sentence_len | 10.424 |
+| sec_Beyond_Cure_sd_sentence_len | 10.424 |
+| sec_Posthuman_performativity_and_dis_embodied_gender_sd_sentence_len | 10.424 |
+| sec_Mrs_Leroy_s_neighbourhood_and_social_circle_avg_sentence_len | 10.424 |
+| sec_Disneyland_and_the_Absorption_of_Utopian_Desire_sd_sentence_len | 9.992 |
+| sec_Ishiguro_s_misleading_narratives_sd_sentence_len | 9.992 |
+| sec_Motherhood_in_Translated_Chinese_Science_Fiction_Voices_from_Urban_and_Marginalized_Contexts_sd_sentence_len | 9.992 |
+| sec_Research_questions_and_procedures_avg_sentence_len | 9.992 |
+| sec_Domestic_settings_garden_and_local_landscape_avg_sentence_len | 9.992 |
+| sec_The_Happiness_of_Marianne_and_Elinor_sent_lt_12_pct | 9.992 |
+| sec_Beowulf_s_Sea_Booty_sd_sentence_len | 9.992 |
+| sec_The_problematics_of_ghosts_with_roots_and_weak_rootedness_sd_sentence_len | 9.992 |
+| sec_Trauma_Memory_and_Spirituality_mtld | 9.992 |
+| sec_Affective_Energy_sent_gt_40_pct | 9.992 |
+| sec_Allergy_and_Environmental_Changes_mtld | 9.992 |
+| sec_Dissonance_at_the_Stuttgart_School_avg_sentence_len | 9.992 |
+| sec_In_defense_of_redundancy_sd_sentence_len | 9.992 |
+| sec_Power_differentials_in_a_postcolonial_context_avg_sentence_len | 9.992 |
+| sec_Queer_hauntology_sent_gt_40_pct | 9.992 |
+| sec_Like_advertising_poetry_and_commercial_affect_sent_lt_12_pct | 9.992 |
+| sec_The_Mother_s_Grief_and_Becoming_Ghost_sd_sentence_len | 9.992 |
+| sec_Daily_routines_and_party_conversations_mtld | 7.472 |
+| sec_Racism_as_implicit_explicit_and_in_metaphor_sent_lt_12_pct | 7.472 |
+| sec_Solar_Becoming_The_Posthuman_Assemblage_mtld | 7.472 |
+| sec_Part_II_mtld | 7.064 |
+| sec_Cad_The_Witch_1912_sd_sentence_len | 7.064 |
+| sec_One_of_the_finest_examples_of_this_epistolary_form_of_writing_is_sd_sentence_len | 7.064 |
+| sec_Meph_Here_they_are_in_this_book_mtld | 6.632 |
+| sec_Out_of_control_Gardens_as_Permeable_Sanctuaries_mtld | 6.632 |
+| sec_Homegoing_as_hopegoing_sd_sentence_len | 6.632 |
+| sec_Writing_and_self_orientalizing_for_publication_avg_sentence_len | 6.632 |
+| sec_Final_Reflection_Toward_Posthuman_Reciprocity_avg_sentence_len | 6.632 |
+| sec_The_Mythical_Construction_of_Jewish_Memory_Foreigners_in_Britain_mtld | 6.632 |
+| sec_British_Jewish_Women_Writers_with_a_Focus_on_Linda_Grant_mtld | 6.632 |
+| sec_Adapting_evolutionary_and_kinship_time_Challenging_reproductive_futurity_sent_gt_40_pct | 6.632 |
+| sec_Faustus_s_study_sd_sentence_len | 6.632 |
+| sec_Evolutionary_Anxiety_Group_Selection_Altruism_in_AI_sent_gt_40_pct | 6.632 |
+| sec_III_avg_sentence_len | 6.632 |
+| sec_Naming_Games_and_the_Godkin_Twins_mtld | 6.632 |
+| sec_61_sd_sentence_len | 6.632 |
+| sec_A_Non_Confrontational_Response_to_Techno_Orientalism_in_Chinese_Science_Fiction_Translation_avg_sentence_len | 6.632 |
+| sec_Effacement_of_Selfhood_sd_sentence_len | 6.632 |
+| sec_Shakespeare_as_a_Historiographer_and_Mythographer_sd_sentence_len | 6.632 |
+| sec_There_s_a_Snake_In_Alemda_A_spatial_reading_sent_gt_40_pct | 6.632 |
+
+### E.2 Mean η² by coarse metric family (top-50 only)
+| bucket | eta2 |
+| --- | --- |
+| punctuation | 9.992 |
+| other | 8.854153846153846 |
+| lexical | 7.5152 |
+
+## F) Structure vs style decoupling (section PCs vs residual style PCs)
+This section reports the correlation table produced by your decoupling step.
+| Unnamed: 0 | style_resid_PC1 | style_resid_PC2 | style_resid_PC3 | style_resid_PC4 | style_resid_PC5 |
+| --- | --- | --- | --- | --- | --- |
+| struct_PC1 | 0.0783179437322051 | -0.0381959605764936 | 0.041418749404011 | 0.0169436816120595 | 0.0908902795694203 |
+| struct_PC2 | 0.0092235634190746 | 0.1360081192031668 | -0.1077487973122518 | 0.0021323399551899 | 0.0091570823506778 |
+| struct_PC3 | -0.11256095111388 | -0.1669470051956576 | -0.1113711488084989 | -0.0127859036719145 | -0.1033810458140322 |
+| struct_PC4 | 0.1564644522170727 | -0.0815176638424808 | -0.0593508649701214 | 0.0009609555327245 | -0.0005859468882793 |
+| struct_PC5 | -0.1144527692972043 | 0.0018230081587192 | 0.1364088182316148 | -0.0131099183237274 | -0.0884774848752338 |
+
+## Appendix: Inventory and data quality audit
+### Inventory snapshot (files under stylo_out)
+- Total files: 158
+
+| relpath | bytes | mtime |
+| --- | --- | --- |
+| .DS_Store | 10244 | 2026-02-25T23:56:56 |
+| OUTPUT_INVENTORY.csv | 21243 | 2026-02-26T00:39:54 |
+| OUTPUT_INVENTORY.md | 17384 | 2026-02-26T00:39:54 |
+| ULTIMATE_ACADEMIC_STYLO_REPORT_ENRICHED_v1.csv | 2403438 | 2026-02-26T00:36:29 |
+| ULTIMATE_ACADEMIC_STYLO_REPORT_ENRICHED_v1.parquet | 7997877 | 2026-02-26T00:36:29 |
+| ULTIMATE_ACADEMIC_STYLO_REPORT_RAW_v1.csv | 2309884 | 2026-02-26T00:36:27 |
+| ULTIMATE_ACADEMIC_STYLO_REPORT_RAW_v1.parquet | 7988444 | 2026-02-26T00:36:28 |
+| bundles_top20_long.csv | 876998 | 2026-02-25T22:45:26 |
+| grobid_sections/MASTER_metrics_sections_metadata.csv | 2263648 | 2026-02-25T23:57:43 |
+| grobid_sections/MASTER_v2.csv | 2272591 | 2026-02-26T00:09:14 |
+| grobid_sections/TEST_output.csv | 11614 | 2026-02-25T23:37:44 |
+| grobid_sections/author_signature_residual_clusters.csv | 21124 | 2026-02-26T00:12:01 |
+| grobid_sections/journal_effect_sizes_eta2.csv | 432671 | 2026-02-26T00:21:28 |
+| grobid_sections/journal_section_template_canonical.csv | 813 | 2026-02-26T00:16:01 |
+| grobid_sections/journal_template_means.csv | 37766 | 2026-02-25T23:57:56 |
+| grobid_sections/journal_template_strength.csv | 1058 | 2026-02-26T00:21:15 |
+| grobid_sections/metadata_enriched.csv | 50187 | 2026-02-26T00:08:01 |
+| grobid_sections/metadata_from_tei.csv | 44542 | 2026-02-25T23:57:13 |
+| grobid_sections/per_article_section_metrics_wide.csv | 1594219 | 2026-02-25T23:52:40 |
+| grobid_sections/per_article_template_complexity.csv | 25083 | 2026-02-25T23:57:56 |
+| grobid_sections/section_name_frequencies.csv | 22096 | 2026-02-25T23:52:40 |
+| grobid_sections/section_raw_name_counts.csv | 21493 | 2026-02-26T00:16:01 |
+| grobid_sections/sections.jsonl | 6329607 | 2026-02-25T23:30:49 |
+| grobid_sections/structure_style_pc_correlations.csv | 657 | 2026-02-26T00:24:22 |
+| grobid_tei/00-Metaphorical Traits of the Language of the COVID-19 Pandemic_ A Short-Term Diachronic Study.tei.xml | 99997 | 2026-02-25T22:50:38 |
+| grobid_tei/00-On tokens and tokenisation_ a conjunctural approach to thinking GenAI in the Humanities classr.tei.xml | 67407 | 2026-02-25T22:50:41 |
+| grobid_tei/00-The Pattern Nexus_ Postdigital Aesthetics_ Technoscience and Mysticism in Tom McCarthy_s The M.tei.xml | 94499 | 2026-02-25T22:50:44 |
+| grobid_tei/00-Toxic intimacies_ Tawada Y_ko_s The Emissary as Counternarrative to Japan_s nuclear and enviro.tei.xml | 88315 | 2026-02-25T22:50:47 |
+| grobid_tei/00-_I made no sound at all__ Exploring Indonesia_s collective trauma in Saman and Enrico_s Love S.tei.xml | 69939 | 2026-02-25T22:50:49 |
+| grobid_tei/01-Apple Trees and Plastic Ducks_ Gardens as Post-pastoral Landscapes in Contemporary British Fic.tei.xml | 75926 | 2026-02-25T22:50:52 |
+| grobid_tei/01-Hopegoing_ Animist metaphor as deferred hope in Yaa Gyasi_s Homegoing.tei.xml | 65901 | 2026-02-25T22:50:54 |
+| grobid_tei/01-Liberated territory_ on the poetry and pedagogy of Tongo Eisen-Martin.tei.xml | 65981 | 2026-02-25T22:50:57 |
+| grobid_tei/01-Mahb_bperest_ uranist and transvestite_ translating sexology in the Late Ottoman Empire and Ea.tei.xml | 151334 | 2026-02-25T22:51:00 |
+| grobid_tei/01-_The Origin of Everything__ Sex Against Social Convention in Sally Rooney_s Normal People and .tei.xml | 67785 | 2026-02-25T22:51:03 |
+| grobid_tei/02-Jeanette Winterson_s The Gap of Time in the Caesura of the Time That is Left.tei.xml | 73130 | 2026-02-25T22:51:05 |
+| grobid_tei/02-Self-perception_ laws and identities. Restricting the relevance of psy knowledge among sex-dis.tei.xml | 75995 | 2026-02-25T22:51:07 |
+| grobid_tei/02-Slow comics_ resource extraction in graphic narrative.tei.xml | 58908 | 2026-02-25T22:51:09 |
+| grobid_tei/02-Spatiality_ Fugitivity_ and _Black Livingness_ in Harriet Jacobs_s Incidents in the Life of a .tei.xml | 104734 | 2026-02-25T22:51:12 |
+| grobid_tei/02-To hope or to weep_ Slow hope in Rohan Chakravarty_s green humour series.tei.xml | 71525 | 2026-02-25T22:51:15 |
+| grobid_tei/03-Beowulf_ the Nibelungenlied_ and the Medieval Germanic Courtier Narrative.tei.xml | 83176 | 2026-02-25T22:51:17 |
+| grobid_tei/03-Ethics and Identity in David Albahari_s Bait_ A Ric_urian Reading.tei.xml | 87660 | 2026-02-25T22:51:20 |
+| grobid_tei/03-Neuralink and the rise of psychopolitical governmentality.tei.xml | 98775 | 2026-02-25T22:51:23 |
+| grobid_tei/03-The cultural politics of Canto 49 by Ezra Pound. A historical re-evaluation.tei.xml | 62721 | 2026-02-25T22:51:25 |
+| grobid_tei/03-Transnational hauntings_ A reparative reading of ghosts and weak rootedness in Zen Cho_s ____ .tei.xml | 63523 | 2026-02-25T22:51:27 |
+| grobid_tei/04-Hieroglyphic Matter in Bacon_s New Atlantis.tei.xml | 83443 | 2026-02-25T22:51:30 |
+| grobid_tei/04-Living in Endtimes_ Countersentimental Domesticity in the Age of Uncertainty.tei.xml | 62808 | 2026-02-25T22:51:32 |
+| grobid_tei/04-The alienation of Valerii Pereleshin.tei.xml | 78260 | 2026-02-25T22:51:35 |
+| grobid_tei/04-_Let us tend this garden together__ Postcolonial time travel in Ng Yi-Sheng_s _Garden_.tei.xml | 83366 | 2026-02-25T22:51:37 |
+| grobid_tei/04-_We_re on a journey__ antiracist discourse in British development and humanitarian INGOs.tei.xml | 100260 | 2026-02-25T22:51:40 |
+| grobid_tei/05-Ante-victimhood of Atomic Bombing_ Inter-imperiality and Gender in Jackie Copleton_s A Diction.tei.xml | 90861 | 2026-02-25T22:51:43 |
+| grobid_tei/05-Crisis Extraordinariness_ Vibrant Relations in Michael Christie_s Greenwood.tei.xml | 85327 | 2026-02-25T22:51:46 |
+| grobid_tei/05-Indeed_ This Is How It Was_ Brother_ by Ali Shariati.tei.xml | 63421 | 2026-02-25T22:51:48 |
+| grobid_tei/05-Network_ed_ confession_ disidentification_ digitality_ and the politics of self-representation.tei.xml | 83196 | 2026-02-25T22:51:51 |
+| grobid_tei/05-Technical imagining_ dispelling AI figments of the generative machine learning imagination.tei.xml | 91561 | 2026-02-25T22:51:53 |
+| grobid_tei/06-Breaking the line_ Wong May_s postcolonial and exophonic Chinese mobilities.tei.xml | 83152 | 2026-02-25T22:51:56 |
+| grobid_tei/06-Orbital Gaze_ Earthly Wounds_ Reading Samantha Harvey_s Orbital as Planetary Fiction.tei.xml | 71493 | 2026-02-25T22:51:59 |
+| grobid_tei/06-The Narrative Perfect and Past Perfective_ Evidence from the Diary of Samuel Pepys.tei.xml | 109834 | 2026-02-25T22:52:02 |
+| grobid_tei/06-_A pale view of self__ the limits of knowing and mourning in Kazuo Ishiguro_s A Pale View of H.tei.xml | 97729 | 2026-02-25T22:52:05 |
+| grobid_tei/06-_Verbi-voco-visual explorations__ information and the object of poetry between McLuhan and Ben.tei.xml | 76172 | 2026-02-25T22:52:07 |
+| grobid_tei/07-Affect_ Evolution_ and Reparation_ AI Self-Sacrifice in Klara and the Sun.tei.xml | 79356 | 2026-02-25T22:52:09 |
+
+### Data quality checks
+- per_article_metrics rows: 125
+- per_article_section_metrics_wide rows: 125
+- metadata_enriched rows: 125
+
+#### Metadata (enriched): missingness (top 25 columns)
+| column | missing_ratio |
+| --- | --- |
+| year | 1.0 |
+| journal | 1.0 |
+| publisher | 1.0 |
+| journal_crossref | 0.016 |
+| publisher_crossref | 0.016 |
+| tei_file | 0.0 |
+| file_stem | 0.0 |
+| title | 0.0 |
+| authors | 0.0 |
+| author_count | 0.0 |
+| doi | 0.0 |
+
+#### Section-wide metrics: missingness (top 25 columns)
+| column | missing_ratio |
+| --- | --- |
+| sec_Bir_Yery_z_ne_nas_l_da_lm_t_r_Tarihi_d_z_nden_okumaya_ayaklanan_ocuklar_word_share | 0.992 |
+| sec_Concrete_computing_sent_lt_12_count | 0.992 |
+| sec_Kinship_time_Decentring_humans_and_recentring_interdependence_median_sentence_len | 0.992 |
+| sec_Kinship_time_Decentring_humans_and_recentring_interdependence_avg_sentence_len | 0.992 |
+| sec_Kinship_time_Decentring_humans_and_recentring_interdependence_total_sentences | 0.992 |
+| sec_Kinship_time_Decentring_humans_and_recentring_interdependence_total_words | 0.992 |
+| sec_Concrete_computing_word_share | 0.992 |
+| sec_Concrete_computing_mtld | 0.992 |
+| sec_Concrete_computing_double_dashes_total | 0.992 |
+| sec_Concrete_computing_colons_total | 0.992 |
+| sec_Concrete_computing_semicolons_total | 0.992 |
+| sec_Concrete_computing_sentence_bin_counts | 0.992 |
+| sec_Concrete_computing_sent_lt_12_pct | 0.992 |
+| sec_Concrete_computing_sent_gt_40_pct | 0.992 |
+| sec_Concrete_computing_sent_gt_40_count | 0.992 |
+| sec_Kinship_time_Decentring_humans_and_recentring_interdependence_sent_gt_40_count | 0.992 |
+| sec_Concrete_computing_sd_sentence_len | 0.992 |
+| sec_Concrete_computing_median_sentence_len | 0.992 |
+| sec_Concrete_computing_avg_sentence_len | 0.992 |
+| sec_Concrete_computing_total_sentences | 0.992 |
+| sec_Concrete_computing_total_words | 0.992 |
+| sec_Aesthetics_as_information_Bense_s_borrowings_word_share | 0.992 |
+| sec_Aesthetics_as_information_Bense_s_borrowings_mtld | 0.992 |
+| sec_Aesthetics_as_information_Bense_s_borrowings_double_dashes_total | 0.992 |
+| sec_Aesthetics_as_information_Bense_s_borrowings_colons_total | 0.992 |
+
+#### Article metrics: missingness (top 25 columns)
+| column | missing_ratio |
+| --- | --- |
+| file | 0.0 |
+| negation_per_1k_tokens | 0.0 |
+| nominalisations_count | 0.0 |
+| nominalisations_per_1k_words | 0.0 |
+| passive_sent_ratio | 0.0 |
+| agentless_passive_ratio_of_passives | 0.0 |
+| mtld | 0.0 |
+| band_high_prop | 0.0 |
+| band_mid_prop | 0.0 |
+| band_rare_acad_prop | 0.0 |
+| tri_top20 | 0.0 |
+| four_top20 | 0.0 |
+| five_top20 | 0.0 |
+| citations_total | 0.0 |
+| citations_per_1k | 0.0 |
+| paren_citations | 0.0 |
+| integral_citations | 0.0 |
+| integral_ratio | 0.0 |
+| block_quote_starts | 0.0 |
+| quote_count | 0.0 |
+| quote_len_mean | 0.0 |
+| quote_len_median | 0.0 |
+| quote_len_sd | 0.0 |
+| paragraph_count | 0.0 |
+| avg_paragraph_len_words | 0.0 |
+

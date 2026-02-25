@@ -1,0 +1,1267 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Empathy, curiosity, and critique: an AI-assisted mapping of non-academic reception of Asian American literature</title>
+				<funder ref="#_3RkCu6F">
+					<orgName type="full">China Scholarship Council</orgName>
+				</funder>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author role="corresp">
+							<persName><forename type="first">Shuyue</forename><surname>Liu</surname></persName>
+							<email>shuyue.liu@nottingham.ac.uk</email>
+							<affiliation key="aff0">
+								<orgName type="department">School of Cultures, Languages and Area Studies</orgName>
+								<orgName type="institution">University of Nottingham</orgName>
+								<address>
+									<settlement>Nottingham</settlement>
+									<country key="GB">UK</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Changkang</forename><surname>Li</surname></persName>
+							<affiliation key="aff1">
+								<orgName type="department">School of Electronic Information Engineering</orgName>
+								<orgName type="institution">Beihang University</orgName>
+								<address>
+									<settlement>Beijing</settlement>
+									<country>People&apos;s Republic of China</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff2">
+								<orgName type="department">School of Cultures, Languages and Area Studies</orgName>
+								<orgName type="institution">University of Nottingham</orgName>
+								<address>
+									<settlement>Nottingham</settlement>
+									<country key="GB">UK</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Empathy, curiosity, and critique: an AI-assisted mapping of non-academic reception of Asian American literature</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date/>
+						</imprint>
+					</monogr>
+					<idno type="MD5">4C88AC00741FFD9B65AA3D75C59FCC8D</idno>
+					<idno type="DOI">10.1080/0950236X.2025.2558587</idno>
+					<note type="submission">Received 28 April 2024; Accepted 15 July 2025</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.0" ident="GROBID" when="2026-02-25T19:55+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term>Sentiment analysis</term>
+					<term>ChatGPT</term>
+					<term>reader reception</term>
+					<term>Asian American literature</term>
+					<term>Celeste Ng</term>
+					<term>Large language model</term>
+				</keywords>
+			</textClass>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>This study investigates how non-academic readers engage with Asian American literature through AI-assisted sentiment analysis of online reviews of Celeste Ng's novels. Ng's novels represent two motifs in the genre: one centred on Asian American experiences and the other situated in a multicultural context. Keyword analysis identifies frequently discussed aspects in reader reviews, including overall evaluation, literary elements (such as characterisation, plot, theme, setting, and authorial style), and comparative discourse on Ng's work. Assisted by the large language model ChatGPT, sentiment analysis of these aspects uncovers the affective and critical undercurrents in public reception. Specifically, the narrative about Asian American experiences elicits varying degrees of empathy, depending on readers' identities and perceptions of the characters' ethnic experiences. When the narrative is set in a multicultural context, readers underscore the importance of skilful plotting in satisfying their curiosity. However, both writing modes draw criticism for abrupt endings, reflecting readers' expectations for resolved conflicts and clear character epiphanies. These findings suggest authors should create relatable characters, develop compelling plots, provide sensible resolutions, and clarify character growth. Methodologically, this study showcases the potential of ChatGPT for literary criticism and opens new avenues for human-AI partnered research.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="1.">Reader reception, sentiment analysis, and large language models</head><p>Critics in reader reception studies depart from viewing literary meaning as a property of authorial intention and instead emphasise the role of readers as the creators of meaning. They model readers in various ways, and, as Wolfgang Iser points out, two categories of readers generally emerge: 'hypothetical' readers, 'upon whom all possible actualisations of the text may be projected', and 'real' readers, whose reactions are 'documented'. <ref type="bibr">1</ref> The more frequently discussed hypothetical readers are named as, among others, the 'implied reader' 2 ; 'ideal reader,' <ref type="bibr" target="#b0">3</ref> and 'informed reader'. <ref type="bibr" target="#b1">4</ref> These concepts focus on 'abstractions and non-testable constructions' <ref type="bibr" target="#b2">5</ref> and treat the reader as a 'by-product' of the scholarly understanding of a text. <ref type="bibr" target="#b3">6</ref> With limited interest in 'responses of real readers', <ref type="bibr" target="#b4">7</ref> many scholars highlight the incongruity between hypothetical readers and actual readers, as seen in, for instance, Jonathan Culler's warning against taking seriously the actual 'individual readers'. <ref type="bibr" target="#b5">8</ref> In their opinion, actual ordinary reading is 'the genetically "middlebrow" or "mass cultural" antithesis to the university's highly specialized literacy projects'. <ref type="bibr" target="#b6">9</ref> However, the interpretations of flesh-and-blood readers are worth exploring, as they reflect the 'attitudes and norms of that public [… and] the cultural code which conditions these judgments'. <ref type="bibr" target="#b7">10</ref> The recent decades have witnessed a rise in empirical research on non-academic, actual readers spurred by an anti-elitist shift. Janice A. Radway, a literary and cultural studies researcher, pioneers in employing interviews and questionnaires to understand popular romance reading of a group of female readers, <ref type="bibr" target="#b8">11</ref> establishing methodological precedents for studying non-academic reading behaviours. Subsequent scholars in applied language, literacy research and sociology of literature further develop these empirical approaches, as represented by Joan Swann and Daniel Allington's analysis of a reading group's discourse <ref type="bibr" target="#b9">12</ref> and Melanie Ramdarshan Bold's examination of how an online group is placed within cultural hierarchies by celebrity influencers. <ref type="bibr" target="#b10">13</ref> The 'evidence-based approaches to the study of reader's interactions with and around texts' <ref type="bibr" target="#b11">14</ref> are also used by stylists to measure the effects of certain textual features, such as Violeta Sotirova's testing of reader responses to narrative viewpoint as expressed in free indirect style. <ref type="bibr" target="#b12">15</ref> Scholars in communication studies also join the discussion of non-academic readers by examining book cultures experienced by the public, including Beth Driscoll and DeNel Rehberg Sedo's revelation of the emotional dimensions of online reviews <ref type="bibr" target="#b13">16</ref> and their comparison of the circulation of bestselling books between Canada and Australia. <ref type="bibr" target="#b14">17</ref> While these studies have substantiated theoretical conceptions of the ideal reader through empirical examination of real-world reading practices, they remain constrained by their narrow focus on a limited, specific group, predominantly white readers, who read texts mostly authored by white writers. This study builds upon recent methodological advances in digital humanities to expand the scope of inquiry by examining broader reception patterns of ethnic minority literature, with particular attention to works by Asian American authors.</p><p>In Asian American literature, where 'representational politics' constitutes a central concern, it is essential for the critical discourse to 'include a more determined and careful study of readers'. <ref type="bibr" target="#b15">18</ref> The reception research on this genre has focused on, as what we found above in the reception studies, the interpretation of a select group, mainly critics, <ref type="bibr" target="#b16">19</ref> and has rarely explored the perspectives of amateur readers. Although Tamara Bhalla attempts to address this gap through her interviews with South Asian American readers <ref type="bibr" target="#b18">20</ref> , her research could be expanded by examining a wider readership's affective response using computational methods. This article undertakes to address these limitations by utilising informational and technical resources available in the digital age. Specifically, the abundance of online book reviews provides access to non-academic readers' 'emotional responses', which can be attributed to a 'larger context' of literary 'reception'. <ref type="bibr" target="#b19">21</ref> These textual data can be effectively interpreted by digital humanistic approaches, as represented by Sentiment Analysis. Using natural language processing and machine learning algorithms to 'perceive, feel, infer, and comprehend human emotions', <ref type="bibr" target="#b20">22</ref> Sentiment Analysis has been proven effective in fields such as business analysis, healthcare research, and social media studies. <ref type="bibr" target="#b21">23</ref> However, despite its potential, it has not been widely adopted in literary criticism primarily due to its demanding requirements for programming skills. In the current era of Artificial Intelligence (AI), this methodological limitation can be addressed through Large Language Models (LLMs), such as ChatGPT, which serve as an accessible collaborator for researchers without specialised computational training.</p><p>This article examines how non-academic readers engage with Asian American literature by using ChatGPT to analyse their sentiments implied in Amazon reviews. We selected Celeste Ng's novels, Everything I Never Told You (2014) and Little Fires Everywhere (2017) as primary texts because they exemplify two typical modes within Asian American literature: the former delves into Asian American experiences and the latter expands to include multicultural perspectives. We used ChatGPT as our research tool because of its user accessibility and sophisticated contextual processing capabilities. As an AI system capable of understanding nuanced conversational prompts and generating coherent, contextually appropriate responses, ChatGPT streamlines the sentiment analysis process by efficiently quantifying emotions in textual data with the simple provision of a prompt. By bridging close reading, literary theories, and digital methodologies, we aim to delineate patterns in the reception of Asian American literature and open avenues for human-AI partnered research that moves beyond close reading and qualitative analysis.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.">Research questions and procedures</head><p>This article attempts to address four research questions:</p><p>(1) What aspects do non-academic readers of Everything I Never Told You and Little Fires Everywhere frequently mention in their reviews? (2) What is the sentiment score for each identified aspect? How do these scores reflect readers' affective responses? (3) How to understand the non-academic reception of Asian American literature through a comparative analysis of reviews for Ng's novels? (4) How can ChatGPT collaborate with literary scholars to facilitate reception research and, broadly speaking, digital humanities?</p><p>To answer these questions, our research followed the pipeline in Figure <ref type="figure" target="#fig_0">1</ref>.</p><p>(1) Data Collection: We collected review data from Amazon.com, a platform where customers can rate and review products. Everything I Never Told You <ref type="bibr" target="#b22">24</ref> and Little Fires Everywhere <ref type="bibr" target="#b23">25</ref> have received 6,213 and 8,723 text comments respectively as of March 25th 2023. Due to Amazon's data restrictions, we sampled 5,000 reviews for each novel after filtering out incomplete or irrelevant entries. For each review, we compiled the following metadata: the full text of the review; the title of the review; the star rating; the location where and the time when the review was posted. (2) Sentence Extraction and Sentiment Calculation with ChatGPT: Different from product or service reviews, book reviews contain not only readers' subjective evaluations but also descriptions of fictional characters' emotions. <ref type="bibr" target="#b24">26</ref> Some studies have conflated character emotions with reviewer sentiments, <ref type="bibr" target="#b25">27</ref> which potentially skewed analysis outcomes. To address this limitation, we employed ChatGPT to extract the sentences that articulate readers' sentiments and score their sentiment intensity on a scale of one (very negative) to five (very positive). Sentiment analysis has primarily relied on the Lexicon-Based Approach and Machine Learning Approach, which may not fully capture the complexity of emotions in book reviews. The Lexicon-Based Approach relies on predefined dictionaries that associate words with emotions, but it is subject to 'domain dependency' <ref type="bibr" target="#b26">28</ref> because the same word can have different emotional connotations in different contexts. <ref type="bibr" target="#b27">29</ref> While the Machine Learning Approach can adapt to emotions across domains as it learns sentiment patterns by analysing training data, it requires 'large training datasets' for 'a good performance'. <ref type="bibr" target="#b28">30</ref> Recent advances in large language models mitigate these issues, as studies in computer science demonstrate ChatGPT's efficacy as 'a universal and wellbehaved sentiment analyzer', <ref type="bibr" target="#b29">31</ref> capable of contextual nuance without domain-specific retraining. Based on these capabilities, ChatGPT demonstrates effective performance in extracting and scoring sentences that convey reviewers' emotional evaluations when provided with accurate prompts. To optimise its effectiveness in sentiment analysis of literary reviews, we tested fifteen carefully designed prompts before identifying the most efficacious one, as seen in Figure <ref type="figure" target="#fig_1">2</ref>. This procedure yielded two structured datasets, one for each novel, documenting all extracted sentiment-bearing sentences and their sentiment scores. (3) Preprocessing and Aspect Extraction with Python: Following initial data collection, we performed text preprocessing using Python's Natural Language Toolkit (NLTK), including stopword removal <ref type="bibr" target="#b30">32</ref> and lemmatisation <ref type="bibr" target="#b31">33</ref> for research accuracy. To identify the themes and aspects frequently mentioned in the reviews, we extracted the Top 30 uni-grams, bi-grams, and tri-grams based on term frequency, a standard method 'for information retrieval', <ref type="bibr" target="#b32">34</ref> and visualised terms via word clouds, with font size of words indicating their frequency. After identifying the aspects, we calculated their sentiment scores generated in the previous step for the fine-grained analysis.</p><p>Table <ref type="table" target="#tab_0">1</ref> shows corpus sizes across three stages: web crawling, ChatGPT extraction and Python preprocessing.</p><p>(4) Qualitative Sentiment Analysis: While ChatGPT proves effective for basic tasks such as sentiment extraction and scoring, scholars caution that its pretraining data's scarcity of 'technical terms' constrains deeper analytical potential. <ref type="bibr" target="#b33">35</ref> To address this limitation, our methodology combines ChatGPT's computational efficiency with critical human interpretation, situating the quantitative sentiment data within broader frameworks of literary criticism and Asian American studies. This partnership of quantitative and qualitative approaches enables us to 'add meaning to data statistics and accuracy to textual analysis' <ref type="bibr" target="#b34">36</ref> and hopefully achieves a productive synthesis of AI-generated insights and scholarly expertise that enriches both the empirical and interpretive dimensions of our research.  </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.">Sentiment analysis of reviews of Everything I Never Told You</head><p>Everything I Never Told You explores the struggles of a mixed-race family navigating alienation and miscommunication in 1970s Ohio. James Lee, a Chinese American professor, contends with persistent marginalisation despite ostensibly embodying the 'model minority' <ref type="bibr" target="#b35">37</ref> stereotype through his professional achievements, while his white wife, Marilyn Lee, wrestles with regret over abandoning her medical career aspirations for domestic responsibility. Projecting their unmet ambitions onto their daughter Lydia, James pressures her to assimilate socially, whereas Marilyn pushes her to stand out by excelling academically. These conflicting expectations fracture Lydia's sense of self and lead to her suicide, after which the family confronts their grief and begins a healing journey toward mutual understanding and reconciliation. To understand readers' responses to the novel, we listed the Top 30 uni-grams, bi-grams, and tri-grams in the reviews (see Table <ref type="table" target="#tab_1">2</ref>) and visualised the frequency of the Top 30 uni-grams (see Figure <ref type="figure" target="#fig_2">3</ref>). These words and phrases reveal six aspects commonly mentioned by ng write (44)  well written charact (10)  readers, namely 'overall evaluation', 'character', 'theme', 'ending', 'author', and 'comparison' (see Table <ref type="table" target="#tab_2">3</ref>).</p><p>The high frequency of terms such as 'book', 'stori', 'novel', and 'everyth never told' demonstrates reviewers' inclination to offer overall feedback on Everything I Never Told You. With an average sentiment score of 3.63 across these reviews, the overall reception leans decidedly positive, characterised by praise for the novel's relatable characters, insightful examination of familial relationships, and emotionally powerful storytelling. However, this generally favourable assessment coexists with notable criticisms, particularly regarding the characters' pervasive sorrow, the story's melancholic storyline, and its abrupt ending. These divergent emotional reactions can be categorised according to the key aspects presented in Table <ref type="table" target="#tab_2">3</ref>.</p><p>The prevalence of the preprocessed word 'charact' prompts our focused examination of reader responses to the novel's characterisation. Analyses of these reviews, with a sentiment score of 3.55, reveal readers' polarised reactions to Ng's portrayal of characters' affective states, a divergence that fundamentally reflects varying degrees of their empathetic engagement.  'Character identification', according to Suzanne Keen's theory of narrative empathy, usually 'invites empathy', <ref type="bibr" target="#b36">38</ref> which involves readers' 'sharing of feeling and perspective-taking induced by reading, viewing, hearing, or imagining narratives of another's situation and condition'. <ref type="bibr" target="#b37">39</ref> Reviews about Ng' demonstrate empathy as a flexible readerly response: where some readers identify with Ng's 'exquisitely drawn' characters and their 'genuinely' portrayed 'emotions' (Reviewed on July 14, 2015), others reject them and their sorrow as 'extreme and therefore hard to relate to' (Reviewed on December  21, 2014). This reception also empirically validates Keith Oatley's taxonomy of 'emotional responses to literature', which distinguishes between readers 'remaining outside a work of art' and those 'entering into it'. <ref type="bibr" target="#b38">40</ref> This polarisation in readers' responses to characterisation similarly manifests in their discussions of the novel's theme about mixed-race family dynamics.With a sentiment score of 3.32, the reviews indicate slightly stronger divisiveness. This correlation is predictable, given that readers' interpretations of the family theme are mediated through the characters' relationships in this mixed-race family structure. The divergent reception of this theme further underscores how readers' identities and experiences critically shape their empathetic reading, a pattern evident across both popular and scholarly responses. When both non-academic and professional readers illustrate their emotional engagement, they especially highlight their ethnic background. This is exemplified by one online reviewer, who, as 'a half Asian growing up in the Midwest', relates to 'many of the sentiments and experiences' in the fictional family (Reviewed on October 20, 2019), and a literary scholar, Nicolyn Woodcock, who explicates her identification with the novel's 'mixed race Asian Americans located in the region that I [she] call home'. <ref type="bibr" target="#b39">41</ref> While two groups of audiences share a felt bonding with fictional lives in Asian American literature, they differ in how they articulate their engagement. Ordinary readers tend to foreground personal resonance in brief, affective terms, whereas scholars frame empathy as a springboard for deeper analysis of the novel's sociohistorical context and its narrative craft in portraying mixed-race identity and intergenerational relationships. Apart from ethnic identification, readers' parenting experience also enhances their engagement with the novel's theme. Ng's nuanced portrayal of intergenerational communication particularly resonates with readers as parents, many of whom interpret her novel as a cautionary guide on 'how our upbringing effects how we raise our children' (Reviewed on September 25,  2015). This pattern of identification through shared ethnic background and parenting role provides empirical support for Keen's argument that individual readers' responses to narrative texts are shaped by their situations, experiences, identities, and temperaments. <ref type="bibr" target="#b40">42</ref> The popular reception also reveals instances of empathic failures, particularly among readers who critique the novel's 'overkill[ing of] the dysfunctional aspects of this family' (Reviewed on May 11, 2016). The actual readers' struggle to fully comprehend how the family is distorted by the discrimination against mixed-race identities in 1970s America mirrors the fictional mother's failure to calculate 'how deeply her family feels the magnitude of racist exclusion', <ref type="bibr" target="#b41">43</ref> a perceptual gap created by her white American identity. Based on scholars' identification of textual devices and reader characteristics as factors influencing readers' empathetic engagement, <ref type="bibr" target="#b42">44</ref> we argue that understanding responses to ethnic minority literature requires situating the text within its specific socio-historical framework, particularly accounting for how the specificity and exclusivity of certain identity experiences influence readerly interpretation. Specifically, we contend that certain Anglophone readers' empathic failures in engaging with Ng's fictional mixed-race family stem from what Cathy Park Hong terms as 'minor feelings' -'the racialised range of emotions that are negative, dysphoric, and therefore untelegenic'. <ref type="bibr" target="#b43">45</ref> Different from emotions arising from 'major change', minor feelings accumulate gradually from 'the sediments of everyday racial experience and the irritant of having one's perception of reality constantly questioned or dismissed'. <ref type="bibr" target="#b44">46</ref> Ng materialises these minor feelings through her depiction of the Lee family's Chinese American members repeatedly experiencing micro-level racial othering and its corrosive psychological effects: 'sometimes you noticed the girl across the aisle watching, the pharmacist watching, the checkout boy watching, and you saw yourself reflected in their stares: incongruous'. <ref type="bibr" target="#b45">47</ref> This depiction of minority experience epitomises how ostensibly trivial realities of being gazed at, questioned, and suspected cumulatively constitute an oppressive epistemology for racialised subjects. While these experiences insidiously erode their identities, they remain epistemologically inaccessible to readers inhabiting dominant cultural perspectives, those who, as James exclaims in the novel, have 'never been treated like a stranger'. <ref type="bibr" target="#b46">48</ref> This exclusive nature of Asian American minor feelings constitutes the core mechanism of empathic failure in interpreting the mixed-race family in Ng's novel.</p><p>The polarised reception of the novel's ending, evidenced by its moderate sentiment score of 3.10, reveals tensions in readers' narrative expectations. The novel's conclusion traces how Lydia's suicide triggers the family's introspection about their fractured identities and dysfunctional relations, culminating in their recognition of the necessity for authentic communication: 'for years after that, they will grope for the words that say what they mean'. <ref type="bibr" target="#b47">49</ref> This open-ended yet purposeful ending elicits two types of responses from its readership. Some readers favour this conclusion for its 'glimmer of hope' (Reviewed on November 8, 2015), and we attribute their positive reviews to the ending's achievement in fulfilling aesthetic and psychological functions. Specifically, not only does it create a sense of narrative completeness while preserving interpretative possibilities, but it also provides emotional equilibrium after the sustained trauma that unfolds throughout the narrative, resonating with readers' existential desires for reconciliation amidst adversity. Other readers, however, critique the abruptness and oversimplification of the ending, which reveals their profound expectations for fiction. When they complain that this book 'ends abruptly' (Reviewed on January 21, 2021) and resolves 'the difficulties in communication […] too easily' (Reviewed on December 31, 2014), they express their desire for narrative, emotional and cognitive verisimilitude. Instead of accepting the facile solutions of the family's sudden epiphany, they expect resolutions that acknowledge life's persistent complexities and the gradual development of psychologically credible characters. The disjuncture between the text's compressed epiphanic ending and readers' expectations for detailed psychological processing will become particularly salient through the following comparative analysis of narrative closure in Ng's two novels.</p><p>The final two prominent aspects emerging from reader reviews focus on the author and comparative analyses of her works. The analysis of author-centric reviews, which yield a notably high sentiment score of 4.22, corroborates our earlier findings regarding reader responses to the family theme. Ng's admirers consistently praise her as 'a master storyteller' (Reviewed on October 1, 2017), particularly celebrating her profound exploration of the family theme achieved through sophisticated narrative strategies and writing style. These evaluations frequently transcend textual analysis, with many readers projecting personal experiences onto the narrative. For instance, one reviewer reflects on analogous experiences of familial loss and its enduring impact, describing how 'that death permanently destroy[s] the family' (Reviewed on February 8,  2015). The comparative discussions of Ng's novels can be productively framed through what reception theory terms the 'horizon of expectations', which consists of readers' accumulated 'knowledge and presuppositions about literature'. <ref type="bibr" target="#b48">50</ref> Most readers initially engage with Ng's novels through the compelling narrative of Little Fires Everywhere and its popular television adaptation, and then approach Everything I Never Told You with heightened anticipations that shaped how they 'understand and judge a literary work at a given time'. <ref type="bibr" target="#b49">51</ref> These comparative evaluations, reflected in a moderately positive sentiment score of 3.51, reveal a distinct polarity: while some readers value the novel's psychologically nuanced characterisation, others critique its comparatively 'depressing, dark, and ultimately baffling' plot (Reviewed on December 28, 2018), a dichotomy that echoes our earlier observations.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="4.">Sentiment analysis of reviews of Little Fires Everywhere</head><p>Little Fires Everywhere is set in 1990s Shaker Heights, Ohio, a progressive suburb renowned for its meticulous urban planning. Opening with the burning of the Richardsons' house, the novel traces the escalating tensions between two opposed families: the rule-bound, affluent Richardsons and the nomadic, financially precarious Mia Warren and her daughter. Such conflicts become acute when the Richardsons' friends attempt to adopt Bebe Chow's Chinese American baby, sparking a custody battle that forces Mia and Mrs. Richardson onto opposing sides. The novel's intriguing plot, paired with its 2020 Hulu's adaptation as a drama television miniseries, generates significant critical and popular attention. Our analysis of readers' reviews quantitatively identifies the top 30 lexical units in Table <ref type="table">4</ref>, visualises the frequency of the Top 30 words in Figure <ref type="figure" target="#fig_3">4</ref>, and classifies six recurrent thematic clusters in Table <ref type="table" target="#tab_4">5</ref>.</p><p>Readers' overall evaluation of Little Fires Everywhere skews positively, as evidenced by a sentiment score of 3.94. This favourable disposition primarily stems from appreciation of its engaging plot, relatable characters, and thought-provoking themes. The critical responses frequently mention the novel's narrative resolution, particularly its perceived abruptness. These evaluative dimensions fall into six aspects listed in Table <ref type="table" target="#tab_4">5</ref> and will be examined sequentially.</p><p>The high appearance of 'plot' and 'end' in readers' review demonstrates their interests in narrative progression and resolution and empirically Table <ref type="table">4</ref>. Top 30 uni-grams, bi-grams, and tri-grams in reviews of Little Fires Everywhere with their frequency within the brackets. never told (54)  well develop charact ( <ref type="formula">14</ref>) way (199)  page turner (53)  read couldnt put ( <ref type="formula">14</ref>) page (196)  everyth never (52)  realli good book ( <ref type="formula">13</ref>) want (195)  well develop (50)  book celeste ng (13)  validates Peter Brooks's theoretical proposition that plot is what 'especially characterizes popular mass-consumption literature'. <ref type="bibr" target="#b50">52</ref> With a sentiment score of 3.66, the relevant reviews highlight how readers are kept 'reading until the very last page' because of the plot 'full of mystery' (Reviewed on June 15, 2020) and 'twists and turns' (Reviewed on January 26, 2018). The mechanisms behind reader immersion can be elucidated by James Phelan's theory of narrative progression, which explains how textual and readerly dynamics drive a narrative forward.</p><p>In the novel, the paratext of an advertisement and a news report, placed before the first chapter, presents Shaker Heights as an ostensibly idealised perfect community with idyllic living conditions, elite educational resources, and meticulously maintained harmony. While this paratext might lead readers to anticipate a harmonious storyline, the first chapter subverts such expectations and instead introduces unsettling mysteries: residents suspect Izzy, the youngest daughter of the Richardsons, of arson, and they divide in their standing of whether May Ling should be renamed Mirabelle McCulloughs. These two 'instabilities', a term Phelan defines as story-level conflicts arising 'between characters; between a character and his or her world; or within a single character', <ref type="bibr" target="#b51">53</ref> initiate the textual progression and  immediately engage readers. As the plot unfolds, readers infer that Izzy's arson may stem from family strife or psychological turmoil, while May Ling's renaming is tied to a contentious custody battle between her prospective adoptive parents -an affluent white couple -and her working-class Chinese birth mother. The multi-threaded narrative of Little Fires Everywhere integrates the Chinese American storyline into a broader multicultural, multiracial context, distinguishing itself from the Asian American narrative in Everything I Never Told You. The ostensibly omniscient thirdperson narrator withholds explanations for these instabilities, and instead retrospect seemingly unrelated past events. This narrative strategy generates discourse-level 'tensions', which Phelan describes as 'an unstable situation' that consists of 'a discrepancy in knowledge, judgment, values, or beliefs between narrator and authorial audience'. <ref type="bibr" target="#b52">54</ref> After establishing these global instabilities and tensions in the first chapter, the novel gradually recounts character backstories and engages readers to unravel the early mysteries.</p><p>In an earlier analysis of travel narratives in Little Fires Everywhere, Shuyue Liu and Junwu Tian draw on narrative progression theory and argue that 'similar to the characters' journeys, the novel's textual narration and readerly interpretation undergo fluctuations before reaching their destination'. <ref type="bibr" target="#b53">55</ref> While that study focuses on Ng's implied ideal reader in a way akin to Phelan's habitual use of himself as a model reader, our current research shifts the focus to actual reader responses to empirically demonstrate how the plot's twists and turns sustain reader engagement. As revealed by review data, when readers navigate the narrative, they derive pleasure from evaluating characters and speculating about unresolved enigmas.</p><p>While the novel's intriguing narrative development successfully sustains reader engagement, its denouement has drawn mixed reactions. The novel ends with Mrs. Richardson's epiphany about her culpability in Izzy's arson and her subsequent decision to search for her estranged daughter. This resolution is critiqued as somewhat precipitate, with several readers noting that it lacks elaboration on Mrs. Richardson's sudden choice to forsake her 'quest' in favour of a mere 'longing for Izzy' (Reviewed on April 26, 2018). Echoing similar reservations expressed about Everything I Never Told You, such critique reveals a recurring readerly expectation for deeper exploration of characters' psychological transformation and behavioural motivations, which will be further explained in the following comparative analysis.</p><p>The novel's compelling plot is interconnected with its characterisation and setting, both of which also capture readers' interests. On the one hand, the plot revolves around the interwoven relationships between the Richardson family and Mia Warren. As evidenced by its high sentiment score of 4.04, the related reviews celebrate characters for their ability to evoke 'their emotions' (Reviewed on January 26, 2018). On the other hand, the backdrop against which character dynamics play out is Shaker Heights, Ohio, a setting that is frequently cited in reviews and receives a sentiment score of 3.83. While Everything I Never Told You unfolds in the fictional Middlewood, Little Fires Everywhere is situated in an actual suburb, also known as Ng's hometown. For reviewers with personal ties to Shaker Heights, this verisimilitude fosters a deeper connection to the text, as their lived experiences intersect with the novel's depiction of place. Such responses underscore literature's unique capacity to transport readers into familiar worlds, blurring the boundaries between fiction and reality.</p><p>Readers also offer positive reviews of the author and the comparison of her work. With a high sentiment score of 4.04, reviews about Ng compliment her talents to construct what readers describe as 'a page turner' (Reviewed on May 21, 2018), which explores 'family dynamics and the complexities of friendship and the teenage years' (Reviewed on December 25, 2017) and renders readers 'connected to main characters' (Reviewed on November 25, 2021). Readers' comparisons between Ng's novels, receiving a sentiment score of 4.24, praise their signature themes of 'family dynamics and race' (Reviewed on May 21,  2018), an opinion also acknowledged by scholars. As Aitor Ibarrola-Armendariz notes, similar to Little Fires Everywhere, Everything I Never Told You 'tackles such thorny issues as failed attempts to leave one's past behind, the huge secrecy in families as well as race and gender tensions'. <ref type="bibr" target="#b54">56</ref> While acknowledging the shared themes in two novels, readers distinguish Little Fires Everywhere for its expanded scope from the concentrated focus of Everything I Never Told on a single Asian American family. One review, for instance, praise Ng's multifaceted 'exploration of motherhood from several different perspectives' in Little Fires Everywhere (Reviewed on May 21, 2018), which echoes Susan S Williams's observation that the novel discusses the theme of family and motherhood 'through multiple characters across the spectrum of race, class, and citizenship'. <ref type="bibr" target="#b55">57</ref> Specifically, the novel encompasses the lived experiences of Bebe, a working-class single mother from China; Mrs. McCullough, a privileged white woman seeking to adopt Bebe's baby; Mia, an itinerant artist who pursues her creative dreams while raising her daughter; Mrs. Richardson, a white upper-class perfectionist with exacting standards for her children; and Lexie Richardson, who secretly terminates her pregnancy with her Black boyfriend. Through her masterful narrative progression, Ng skilfully interweaves these multi-ethnic, cross-class storylines into a cohesive whole in a way that earns acclaim from readers, precisely as argued above.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="5.">Comparison of reception: stimulated empathy, unexpected plotting, and abrupt ending</head><p>Everything I Never Told You and Little Fires Everywhere exemplify two modes within Asian American literature: narratives centred around Asian American experiences and narratives that transcend ethnic specificity to engage with broader intersections of different cultures and classes. A comparative analysis of reader responses to these novels provides valuable insights into the non-academic reception of Asian American literature. While readers express varying empathy toward the portrayal of an Asian American family in Everything I Never Told You, they demonstrate heightened curiosity about the captivating narrative progression in Little Fires Everywhere. In addition, readers feel dissatisfied with the precipitate endings in two novels, suggesting their expectations for literature that fulfils realism and details characters' epiphany.</p><p>Beyond the binary categorisation of sentiments as positive or negative, the nuanced emotion of varying empathy emerges in the public reception of Everything I Never Told You. Strong empathy, affinity, and identification are articulated especially by readers who share lived experiences with Ng's fictional characters, including ethnic minorities, mixed-race individuals, parents, and those who have suffered familial loss. With their sympathetic imagination for the fictional people, these readers respond positively to the novel's characterisation and its family theme. Everything I Never Told You thereby demonstrates what George Eliot champions as art's highest purpose: 'The greatest benefit we owe to the artist, whether painter, poet or novelist, is the extension of our sympathies'. <ref type="bibr" target="#b56">58</ref> In contrast, a distinct empathic disconnect emerges among other readers, who find the Asian American family's distress frustrating and incomprehensible. We attribute this apathy to the insidious, exclusive and often imperceptible nature of what Hong terms as Asian American minor feelings, which are racialised experiences that remain acutely felt by ethnic minorities yet routinely overlooked by mainstream consciousness. This empathic divide leads to a sentiment score of 3.55 for character-related reviews, notably lower than the score of 4.04 received by reviews about characterisation in Little Fires Everywhere. Building on these findings, our study empirically substantiates Keen's theory of narrative empathy and contextualise it within ethnic literature studies. We argue that non-academic readers' capacity and willingness for empathic reading exhibit variability based on their identities and their understanding of the fictional characters' ethnic experiences, factors that further shape their reception of Asian American literature.</p><p>While readers of Everything I Never Told You exhibit varying inclinations toward empathic reading, those of Little Fires Everywhere demonstrate a strong curiosity about the novel's narrative progression. Previous research has argued that readers traditionally expect Asian American literature to foreground ethnic writings. Stephen Hong Sohn, for instance, posits that the publishing market anticipates Asian American writers to serve as a 'native informant', portraying Asian American experiences from the perspective of an Asian American character. <ref type="bibr" target="#b57">59</ref> Bhalla similarly observes the ethnographic-focused reading paradigm in Asian American literary criticism, wherein many critics prioritise 'ethnographic representation' over 'the artistry' of Asian American literature. <ref type="bibr" target="#b58">60</ref> Our analysis of the reception of Little Fires Everywhere, however, reveals a departure from this established pattern. Rather than focusing primarily on ethnic representation, readers consistently praise Ng's sophisticated narrative techniques and crafted plot developments that reveal the intersecting lives of characters of different ethnicity and class. This shift in readers' interests suggests that contemporary Asian American writers can achieve success through literary craftsmanship, moving beyond the restrictive role of ethnographic authenticity that has historically defined the reception of Asian American literature.</p><p>Both novels have drawn reader criticism for their endings, which are perceived as overly abrupt and idealistic. These complaints not only reflect readers' expectations for literature to faithfully represent complexities of real life, but also highlight a tension between the inherent suddenness of fictional characters' epiphany and readers' preference for gradual character development. As Robert Langbaum defines it, epiphany in literature occurs when 'a sudden change in external conditions causes a shift in sensuous perception' and such epiphany 'lasts only a moment, but leaves an enduring effect'. <ref type="bibr" target="#b59">61</ref> This epiphany writing, when executed optimally, serves to lead readers to become immersed in a reading epiphany, a process that 'involves Langbaum's notion of a momentary psychological phenomenon arising from sensuous experience and leaving a lasting effect; a felt shift in sensual perception'. <ref type="bibr" target="#b60">62</ref> However, Ng's epiphany writing appears to trigger readers' skepticism. We argue that this sentiment stems from how her characters' transformative moments emerge from serendipitous events. The suddenness of these moments disobeys readers' expectations for sufficient portrayal of the characters' spiritual evolution and behavioural motivations. Everything I Never Told You ends with its protagonists' moments of revelation after their heated arguments. In a moment of unconscious compulsion, James retraces Marilyn's path to Toledo, a place where Marilyn once fled for her career dreams, which triggers his sudden realisation of his wife's suppressed ambitions and his complicity in stifling them. Meanwhile, Marilyn's discovery of Lydia's preserved cookbook delivers her painful realisation that her daughter claimed to have discarded the book to appease her rather than to indicate a resolve to transcend the confines of the kitchen and achieve in science as Marilyn has wished. Marilyn further realises that she has been putting her unfulfilled dreams onto Lydia, ultimately contributing to Lydia's suicide and the family's collapse. These awakenings compel the couple to confront their failures: their inability to communicate openly has perpetuated a cycle of misunderstanding with tragic consequences. Yet within this reckoning lies the possibility of reconciliation, as their shared epiphanies motivate tentative steps toward familial repair.</p><p>The epiphanic moments with hopeful connotations recur in the ending of Little Fires Everywhere. Mrs. Richardson's discovery of a photograph, deliberately left by Mia and depicting feathers of a bird that has escaped from its cage, triggers her realisation of regret for having suppressed her youthful yearning for freedom in favour of suburban stability. Moreover, she sees that she has refused to acknowledge her envy of Mia's and Izzy's personalities and has ultimately become the very cage that confines her daughter. Most crucially, Izzy embodies not her antithesis but rather the latent rebellion within herself that she has extinguished: 'That child who she thought had been her opposite but who had, deep inside, inherited and carried and nursed that spark her mother had long ago tamped down'. <ref type="bibr" target="#b61">63</ref> This epiphany propels Mrs. Richardson to active atonement -she embarks on a journey to find Izzy and to make amends for her mistakes.</p><p>Based on our close reading of endings in Ng's novels, we attribute nonacademic readers' dissatisfaction to a lack of sufficient elucidation of pertinent details in Ng's writing about characters' epiphanies, as analysed above. The very qualities that define literary epiphanies, especially their immediacy and brevity, demand heightened readerly engagement. Readers must actively reconstruct character psychologies through narrative details preceding and following these revelatory moments, and exercise empathetic imagination to bridge textual ellipses. Readers' responses to the epiphany writing also propose higher requirements for authors: they must preserve the abruptness that gives epiphanies emotional power and provide necessary details to render these transformative moments credible.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="6.">Conclusion</head><p>Wayne C. Booth views fiction 'as the art of communicating with readers', where the writer uses 'the rhetorical resources […] to impose his fictional world upon the reader'. <ref type="bibr" target="#b62">64</ref> Based on Amazon reviews received by Ng's novels, this AI-assisted sentiment analysis exemplifies the interaction between Asian American literature and non-academic readers. The results suggest that narratives focusing on Asian American experiences often elicit varying degrees of empathy from readers, with this response differing based on their identities and their understanding of the perceived exclusivity of the characters' ethnic experiences. When narratives transcend Asian Americanness to include perspectives across ethnicity, cultures, and social classes, it is significant to craft an intriguing narrative progression to engage readers' curiosity. In addition, both narrative modes provoke critiques of abrupt endings, as readers express a desire for clearer insights into characters' spiritual transformation. Drawing on these findings, we suggest that to constantly engage readers, authors should create relatable characters, design compelling plots driven by twists and turns, rationalise conflict resolution, and clarify characters' epiphanic moments. While our focus is on Asian American writings, the approach and findings may inform broader discussions about reader engagement in ethnic minority literature.</p><p>On a methodological level, we evaluate ChatGPT's capacity in analysing the affective responses of a wide readership and exemplify the potential collaboration between critics and AI. As a beneficial AI tool for scholars without expertise in computing, ChatGPT can understand contexts and quantify emotions more efficiently than traditional manual methods. Its relationship with researchers is more collaborative than competitive, as seen in two observations. First, ChatGPT's potential in literary research is contingent upon the researchers' ability to formulate effective prompts. While the discussions on the generation of optimal prompts were not yet prevalent when we conducted this research in March 2023, there is a burgeoning interest in this topic today under the term 'prompt engineering', which refers to 'the process of structuring inputs […] to maximize the utility and accuracy' of LLMs' responses. <ref type="bibr" target="#b63">65</ref> To foster a meaningful AI-researchers collaboration, future research can refine prompts and improve the performance of LLMs in digital literary studies by drawing on the insights on prompt engineering disseminated by scholars in computer science through academic publications <ref type="bibr" target="#b64">66</ref> and practical guides. <ref type="bibr" target="#b65">67</ref> Secondly, while ChatGPT can quantify emotions from a large corpus, it can hardly provide theoretically grounded interpretations of these scores due to insufficient pretraining on specialised literary terminology and critical theories. This fundamental constraint necessitates scholarly intervention, where researchers must apply their expertise to contextualise and theorise the sentiment scores. As AI and LLMs continue to evolve and begin to be adopted in literary research, it is necessary to further examine their collaboration with critics, such as how their accuracy in research tasks compares to that of humans and how their contribution should be acknowledged. In conclusion, AI and LLMs, exemplified by ChatGPT, have the potential to serve as research assistants for critics by converting texts into data and enabling further qualitative analysis. While this research remains an exercise to investigate the potential feasibility of employing ChatGPT in understanding the non-academic reception of Asian American literature, it can be a foundation for future research aiming to expand the role of AI in literary criticism and digital humanities. </p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head>Figure 1 .</head><label>1</label><figDesc>Figure 1. Research procedures.</figDesc><graphic coords="5,62.82,415.73,311.98,172.06" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_1"><head>Figure 2 .</head><label>2</label><figDesc>Figure 2. Example of ChatGPT's answer to our prompt.</figDesc><graphic coords="7,62.82,53.29,311.98,232.67" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_2"><head>Figure 3 .</head><label>3</label><figDesc>Figure 3. Word cloud of Top 30 words in reviews of Everything I Never Told You.</figDesc><graphic coords="9,62.82,53.29,311.98,156.02" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_3"><head>Figure 4 .</head><label>4</label><figDesc>Figure 4. Word cloud of Top 30 words in reviews of Little Fires Everywhere.</figDesc><graphic coords="14,62.82,53.29,311.98,156.25" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_4"><head>Notes 1 .</head><label>1</label><figDesc>Wolfgang Iser, The Act of Reading: A Theory of Aesthetic Response (Baltimore and London: The Johns Hopkins University Press, 1987), p. 27. 2. Wayne C. Booth, The Rhetoric of Fiction (Second Edition) (Chicago: University of Chicago Press, 1983).</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_0"><head>Table 1 .</head><label>1</label><figDesc>Size of each corpus during three stages.</figDesc><table><row><cell></cell><cell>Original Corpus</cell><cell>Extracted Corpus</cell><cell>Preprocessed Corpus</cell></row><row><cell>Everything I Never Told You</cell><cell>274,192</cell><cell>110,693</cell><cell>55,176</cell></row><row><cell>Little Fires Everywhere</cell><cell>181,285</cell><cell>80,109</cell><cell>41,448</cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_1"><head>Table 2 .</head><label>2</label><figDesc>Top</figDesc><table><row><cell>Top 30 ui-grams</cell><cell>Top 30 bi-grams</cell><cell>Top 30 tri-grams</cell></row><row><cell>book (1932)</cell><cell>well written (223)</cell><cell>everyth never told (89)</cell></row><row><cell>famili (1141)</cell><cell>beauti written (145)</cell><cell>littl fire everywher (39)</cell></row><row><cell>read (1132)</cell><cell>read book (135)</cell><cell>book well written (32)</cell></row><row><cell>stori (1026)</cell><cell>celeste ng (115)</cell><cell>realli enjoy book (30)</cell></row><row><cell>charact (879)</cell><cell>love book (101)</cell><cell>highli recommend book (27)</cell></row><row><cell>love (488)</cell><cell>never told (97)</cell><cell>one best book (27)</cell></row><row><cell>well (484)</cell><cell>famili dynam (94)</cell><cell>book ive read (23)</cell></row><row><cell>one (451)</cell><cell>everyth never (92)</cell><cell>book beauti written (21)</cell></row><row><cell>written (444)</cell><cell>highli recommend (89)</cell><cell>charact well develop (20)</cell></row><row><cell>like (418)</cell><cell>famili member (82)</cell><cell>well written book (20)</cell></row><row><cell>parent (408)</cell><cell>enjoy book (81)</cell><cell>could put book (20)</cell></row><row><cell>good (389)</cell><cell>recommend book (71)</cell><cell>read well written (20)</cell></row><row><cell>end (375)</cell><cell>good read (67)</cell><cell>stori well written (19)</cell></row><row><cell>novel (373)</cell><cell>stori famili (65)</cell><cell>best book ive (19)</cell></row><row><cell>children (342)</cell><cell>great book (64)</cell><cell>celeste ng write (16)</cell></row><row><cell>feel (336)</cell><cell>good book (58)</cell><cell>beauti written book (16)</cell></row><row><cell>realli (334)</cell><cell>couldnt put (58)</cell><cell>well written stori (15)</cell></row><row><cell>time (332)</cell><cell>charact develop (58)</cell><cell>ive ever read (15)</cell></row><row><cell>beauti (326)</cell><cell>great read (56)</cell><cell>mix race famili (13)</cell></row><row><cell>ng (318)</cell><cell>easi read (53)</cell><cell>beauti written stori (13)</cell></row><row><cell>author (310)</cell><cell>book club (52)</cell><cell>read long time (13)</cell></row><row><cell>great (305)</cell><cell>realli enjoy (52)</cell><cell>enjoy read book (12)</cell></row><row><cell>sad (301)</cell><cell>thought provok (52)</cell><cell>recommend book anyon (12)</cell></row><row><cell>lydia (299)</cell><cell>book read (49)</cell><cell>book ive ever (12)</cell></row><row><cell>want (299)</cell><cell>dysfunct famili (48)</cell><cell>absolut love book (11)</cell></row><row><cell>think (278)</cell><cell>charact well (46)</cell><cell>book couldnt put (11)</cell></row><row><cell>write (273)</cell><cell>sad stori (46)</cell><cell>extrem well written (11)</cell></row><row><cell>enjoy (271)</cell><cell>ms ng (45)</cell><cell>would recommend book (11)</cell></row><row><cell>never (267)</cell><cell>long time (45)</cell><cell>want keep read (10)</cell></row><row><cell>way (266)</cell><cell></cell><cell></cell></row></table><note><p><p>30 </p>uni-grams, bi-grams, and tri-grams in reviews of Everything I Never Told You with their frequency within the brackets.</p></note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_2"><head>Table 3 .</head><label>3</label><figDesc>Identified aspects in reviews of Everything I Never Told You.</figDesc><table><row><cell></cell><cell></cell><cell>Average sentiment</cell></row><row><cell>Aspect</cell><cell>Preprocessed word(s) or phrase(s) relevant to the aspect</cell><cell>score</cell></row><row><cell>Overall</cell><cell>book, stori, novel, everyth never told</cell><cell>3.63</cell></row><row><cell>evaluation</cell><cell></cell><cell></cell></row><row><cell>Characterisation</cell><cell>charact</cell><cell>3.55</cell></row><row><cell>Theme</cell><cell>famili, parent, children, Lydia, famili dynam, famili member,</cell><cell>3.32</cell></row><row><cell></cell><cell>dysfunct famili</cell><cell></cell></row><row><cell>Ending</cell><cell>end</cell><cell>3.10</cell></row><row><cell>Author</cell><cell>ng, author</cell><cell>4.22</cell></row><row><cell>Comparison</cell><cell>littl fire everywher</cell><cell>3.51</cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_4"><head>Table 5 .</head><label>5</label><figDesc>Identified aspects in reviews of Little Fires Everywhere.</figDesc><table><row><cell></cell><cell>Preprocessed word(s) or phrase(s) relevant to the</cell><cell>Average sentiment</cell></row><row><cell>Aspect</cell><cell>aspect</cell><cell>score</cell></row><row><cell cols="2">Overall evaluation book, stori, novel, littl fire everywher</cell><cell>3.94</cell></row><row><cell>Plot</cell><cell>plot, end, twist turn</cell><cell>3.66</cell></row><row><cell>Characterisation</cell><cell>charact, famil</cell><cell>4.04</cell></row><row><cell>Setting</cell><cell>shaker height</cell><cell>3.83</cell></row><row><cell>Author</cell><cell>author, ng</cell><cell>4.04</cell></row><row><cell>Comparison</cell><cell>everyth never told</cell><cell>4.24</cell></row></table></figure>
+		</body>
+		<back>
+
+			<div type="funding">
+<div><head>Funding</head><p>This work was supported by <rs type="funder">China Scholarship Council</rs> [grant number <rs type="grantNumber">202406020096</rs>].</p></div>
+			</div>
+			<listOrg type="funding">
+				<org type="funding" xml:id="_3RkCu6F">
+					<idno type="grant-number">202406020096</idno>
+				</org>
+			</listOrg>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<monogr>
+		<author>
+			<persName><forename type="first">Jonathan</forename><surname>Culler</surname></persName>
+		</author>
+		<title level="m">Structural Poetics: Structuralism, Linguistics and the Study of Literature</title>
+		<meeting><address><addrLine>London</addrLine></address></meeting>
+		<imprint>
+			<publisher>Routledge</publisher>
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+	<note>Second Edition</note>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<title level="a" type="main">Literature in the Reader: Affective Stylistics</title>
+		<author>
+			<persName><forename type="first">Stanley</forename><surname>Fish</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">New Literary History</title>
+		<imprint>
+			<biblScope unit="volume">2</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="123" to="162" />
+			<date type="published" when="1970">1970</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title level="a" type="main">Wattpad as a Resource for Literary Studies. Quantitative and Qualitative Examples of the Importance of Digital Social Reading and Readers&apos; Comments in the Margins</title>
+		<author>
+			<persName><forename type="first">Federico</forename><surname>Pianzola</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Simone</forename><surname>Rebora</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Gerhard</forename><surname>Lauer</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">PLoS ONE</title>
+		<imprint>
+			<biblScope unit="volume">15</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page">2</biblScope>
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title level="a" type="main">Seeking &quot;Significance&quot;: Actual Readers, Specific Reading Communities</title>
+		<author>
+			<persName><forename type="first">Christine</forename><surname>Pawley</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Book History</title>
+		<imprint>
+			<biblScope unit="volume">5</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page">143</biblScope>
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title level="a" type="main">Stylistics and Real Readers</title>
+		<author>
+			<persName><forename type="first">David</forename><surname>Peplow</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Ronald</forename><surname>Carter</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">The Routledge Handbook of Stylistics</title>
+		<editor>
+			<persName><forename type="first">Michael</forename><surname>Burke</surname></persName>
+		</editor>
+		<meeting><address><addrLine>New York</addrLine></address></meeting>
+		<imprint>
+			<publisher>Routledge</publisher>
+			<date type="published" when="2014">2014</date>
+			<biblScope unit="page">441</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<monogr>
+		<title/>
+		<author>
+			<persName><surname>Culler</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="page">300</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<monogr>
+		<author>
+			<persName><forename type="first">Merve</forename><surname>Emre</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Paraliterary</surname></persName>
+		</author>
+		<title level="m">The Making of Bad Readers in Postwar America</title>
+		<meeting><address><addrLine>Chicago and London</addrLine></address></meeting>
+		<imprint>
+			<publisher>The University of Chicago Press</publisher>
+			<date type="published" when="2017">2017</date>
+			<biblScope unit="page">4</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<monogr>
+		<title/>
+		<author>
+			<persName><surname>Iser</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="page">28</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<monogr>
+		<title level="m" type="main">Reading the Romance: Women, Patriarchy and Popular Literature</title>
+		<author>
+			<persName><forename type="first">Janice</forename><forename type="middle">A</forename><surname>Radway</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1991">1991</date>
+			<publisher>The University of North Carolina Press</publisher>
+			<pubPlace>NC</pubPlace>
+		</imprint>
+	</monogr>
+	<note>Second Edition</note>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title level="a" type="main">Reading Groups and the Language of Literary Texts: A Case Study in Social Reading</title>
+		<author>
+			<persName><forename type="first">Joan</forename><surname>Swann</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Daniel</forename><surname>Allington</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Language and Literature</title>
+		<imprint>
+			<biblScope unit="volume">18</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="247" to="264" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title level="a" type="main">Is &quot;Everyone welcome&quot;?: Intersectionality, inclusion, and the extension of cultural hierarchies on Emma Watson&apos;s feminist book club</title>
+		<author>
+			<persName><forename type="first">Melanie</forename><surname>Ramdarshan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Bold</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Participations: Journal of Audience and Reception Studies</title>
+		<imprint>
+			<biblScope unit="volume">16</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="441" to="472" />
+			<date type="published" when="2019">2019</date>
+		</imprint>
+	</monogr>
+	<note>Our shared shelf</note>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title level="a" type="main">Reader Response Research in Stylistics</title>
+		<author>
+			<persName><forename type="first">Sara</forename><surname>Whiteley</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Patricia</forename><surname>Canning</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Language and Literature</title>
+		<imprint>
+			<biblScope unit="volume">26</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page">71</biblScope>
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<title level="a" type="main">Reader Responses to Narrative Point of View</title>
+		<author>
+			<persName><forename type="first">Violeta</forename><surname>Sotirova</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Poetics</title>
+		<imprint>
+			<biblScope unit="volume">34</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="108" to="133" />
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<title level="a" type="main">Faraway, so Close: Seeing the Intimacy in Goodreads Reviews</title>
+		<author>
+			<persName><forename type="first">Beth</forename><surname>Driscoll</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Denel</forename><surname>Rehberg</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Sedo</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Qualitative Inquiry</title>
+		<imprint>
+			<biblScope unit="volume">25</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="248" to="259" />
+			<date type="published" when="2019">2019</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<title level="a" type="main">The Transnational Reception of Bestselling Books between Canada and Australia</title>
+		<author>
+			<persName><forename type="first">Beth</forename><surname>Driscoll</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Denel</forename><surname>Rehberg</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Sedo</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Global Media and Communication</title>
+		<imprint>
+			<biblScope unit="volume">16</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="243" to="258" />
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<monogr>
+		<title level="m" type="main">Asian American Literary Reception and Readership&apos; in Oxford Research Encyclopedia of Literature</title>
+		<author>
+			<persName><forename type="first">Tamara</forename><surname>Bhalla</surname></persName>
+		</author>
+		<idno type="DOI">10.1093/acrefore/9780190201098.013.774</idno>
+		<ptr target="https://doi.org/10.1093/acrefore/9780190201098.013.774" />
+		<imprint>
+			<date type="published" when="2019-05-20">2019. 20 May 2023</date>
+			<publisher>Oxford University Press</publisher>
+			<biblScope unit="page">14</biblScope>
+			<pubPlace>New York</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<monogr>
+		<author>
+			<persName><forename type="first">Jinqi</forename><surname>Ling</surname></persName>
+		</author>
+		<title level="m">Narrating Nationalisms: Ideology and Form in Asian American Literature</title>
+		<meeting><address><addrLine>New York</addrLine></address></meeting>
+		<imprint>
+			<publisher>Oxford University Press</publisher>
+			<date type="published" when="1998">1998</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<monogr>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">L</forename><surname>Jeffrey</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Partridge</surname></persName>
+		</author>
+		<title level="m">Beyond Literary Chinatown</title>
+		<meeting><address><addrLine>Seattle</addrLine></address></meeting>
+		<imprint>
+			<publisher>University of Washington Press</publisher>
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<monogr>
+		<author>
+			<persName><forename type="first">Tamara</forename><surname>Bhalla</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Reading</forename><surname>Together</surname></persName>
+		</author>
+		<title level="m">Reading Apart: Identity, Belonging, and South Asian American Community</title>
+		<meeting><address><addrLine>Urbana, Chicago, and Springfield</addrLine></address></meeting>
+		<imprint>
+			<publisher>University of Illinois Press</publisher>
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<monogr>
+		<title level="m" type="main">Affect Studies&apos; in Oxford Research Encyclopedia of Literature</title>
+		<author>
+			<persName><forename type="first">Patrick</forename><surname>Colm</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Hogan</forename></persName>
+		</author>
+		<idno type="DOI">10.1093/acrefore/9780190201098.013.105</idno>
+		<ptr target="https://doi.org/10.1093/acrefore/9780190201098.013.105" />
+		<imprint>
+			<date type="published" when="2016-05-21">2016. 21 May 2023</date>
+			<publisher>Oxford University Press</publisher>
+			<biblScope unit="page">14</biblScope>
+			<pubPlace>New York</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<analytic>
+		<title level="a" type="main">Multimodal Sentiment Analysis: A Systematic Review of History, Datasets, Multimodal Fusion Methods, Applications, Challenges and Future Directions</title>
+		<author>
+			<persName><forename type="first">Ankita</forename><surname>Gandhi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Kinjal</forename><surname>Adhvaryu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Soujanya</forename><surname>Poria</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Erik</forename><surname>Cambria</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Amir</forename><surname>Hussain</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Information Fusion</title>
+		<imprint>
+			<biblScope unit="volume">91</biblScope>
+			<biblScope unit="page">424</biblScope>
+			<date type="published" when="2023">2023</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<analytic>
+		<title level="a" type="main">A Survey on Sentiment Analysis Methods, Applications, and Challenges</title>
+		<author>
+			<persName><forename type="first">Mayur</forename><surname>Wankhade</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Annavarapu</forename><surname>Chandra Sekhara</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Chaitanya</forename><surname>Rao</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Kulkarni ; Marouane</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Mohammed</forename><surname>Birjali</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Abderrahim</forename><surname>Kasri</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Beni-Hssane</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">A Comprehensive Survey on Sentiment Analysis: Approaches, Challenges and Trends</title>
+		<imprint>
+			<biblScope unit="volume">55</biblScope>
+			<biblScope unit="page" from="1" to="26" />
+			<date type="published" when="2021">2022. 2021</date>
+		</imprint>
+	</monogr>
+	<note>Knowledge-Based Systems</note>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<monogr>
+		<title level="m" type="main">For the Amazon reviews received by this novel</title>
+		<ptr target="https://www.amazon.com/Everything-Never-Told-You-Awards-ebook/dp/B00G3L7V0C/ref=cm_cr_arp_d_product_top?ie=UTF8" />
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<monogr>
+		<title level="m" type="main">For the Amazon reviews received by this novel</title>
+		<ptr target="https://www.amazon.com/Little-Fires-Everywhere-Celeste-Ng-ebook/dp/B01N4VW75U/ref=cm_cr_arp_d_product_top?ie=UTF8" />
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<monogr>
+		<title level="m" type="main">It is evidenced by this comment: &apos;Her [Lydia&apos;s] parents favor her on her looks alone&apos; in a review of Everything I Never</title>
+		<imprint>
+			<date type="published" when="2015-04-12">April 12th 2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<analytic>
+		<title level="a" type="main">On Overseas Readers&apos; Acceptance and Evaluation of Chinese Translated Literature Through Python-Based Sentiment Analysis: A Case Study of The Three Body Problem</title>
+		<author>
+			<persName><forename type="first">Lu</forename><surname>Zhang</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Foreign Languages Research</title>
+		<imprint>
+			<biblScope unit="volume">36</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="80" to="86" />
+			<date type="published" when="2019">2019</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">Kasri</forename><surname>Birjali</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Beni-Hssane</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="page">15</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b27">
+	<monogr>
+		<title level="m" type="main">In culinary contexts, as in the sentence &apos;The chef&apos;s knife is sharp&apos;, the word carries positive valence, denoting optimal functionality. Conversely, when used to describe personality, such as &apos;He has a sharp tongue</title>
+		<imprint/>
+	</monogr>
+	<note>Take the word &apos;sharp&apos; as an example. the word implies criticism with negative sentiment</note>
+</biblStruct>
+
+<biblStruct xml:id="b28">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">Kasri</forename><surname>Birjali</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Beni-Hssane</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="page">9</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b29">
+	<monogr>
+		<title level="m" type="main">Is ChatGPT a Good Sentiment Analyzer? A Preliminary Study</title>
+		<author>
+			<persName><forename type="first">Zengzhi</forename><surname>Wang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Qiming</forename><surname>Xie</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Zixiang</forename><surname>Ding</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Yi</forename><surname>Feng</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Rui</forename><surname>Xia</surname></persName>
+		</author>
+		<idno type="arXiv">arXiv:2304.04339</idno>
+		<imprint>
+			<date type="published" when="2023">2023</date>
+			<biblScope unit="page">2</biblScope>
+		</imprint>
+	</monogr>
+	<note type="report_type">arXiv preprint</note>
+</biblStruct>
+
+<biblStruct xml:id="b30">
+	<monogr>
+		<title level="m" type="main">Stopwords are frequently occurring words in text, such as &apos;the&apos;, &apos;a&apos;, &apos;an&apos;, etc. The NLTK stopwords library can be used to remove them</title>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b31">
+	<monogr>
+		<title level="m" type="main">Lemmatisation is the process of converting a word to its basic form (known as a lemma or word stem), such as converting &apos;am&apos;, &apos;is&apos;, and &apos;are&apos; to their basic form &apos;be&apos;</title>
+		<imprint/>
+	</monogr>
+	<note>In NLTK, the WordNetLemmatiser class can be used for this purpose</note>
+</biblStruct>
+
+<biblStruct xml:id="b32">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">Rao</forename><surname>Wankhade</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Kulkarni</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="page">5738</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b33">
+	<analytic>
+		<title level="a" type="main">Can Large Language Models Transform Computational Social Science?</title>
+		<author>
+			<persName><forename type="first">Caleb</forename><surname>Ziems</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">William</forename><surname>Held</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Omar</forename><surname>Shaikh</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Jiaao</forename><surname>Chen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Zhehao</forename><surname>Zhang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Diyi</forename><surname>Yang</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Computational Linguistics</title>
+		<imprint>
+			<biblScope unit="volume">50</biblScope>
+			<biblScope unit="page">271</biblScope>
+			<date type="published" when="2024">2024</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b34">
+	<analytic>
+		<title level="a" type="main">A Multidimensional and Digital Humanistic Analysis of Style in Amy Tan&apos;s Novels</title>
+		<author>
+			<persName><forename type="first">Junwu</forename><surname>Tian</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Shuyue</forename><surname>Liu</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Digital Scholarship in the Humanities</title>
+		<imprint>
+			<biblScope unit="volume">38</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page">1282</biblScope>
+			<date type="published" when="2023">2023</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b35">
+	<analytic>
+		<title level="a" type="main">s words, constructs Asian Americans as &apos;restrained, humble, and well-mannered&apos; overachievers who never &apos;complain&apos; or &apos;protest […] against difficulties</title>
+	</analytic>
+	<monogr>
+		<title level="m">Asian American Literature: An Introduction to the Writings and Their Social Context</title>
+		<editor>
+			<persName><forename type="first">Elaine</forename><forename type="middle">H</forename><surname>Kim</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">'</forename></persName>
+		</editor>
+		<meeting><address><addrLine>Philadelphia</addrLine></address></meeting>
+		<imprint>
+			<publisher>Temple University Press</publisher>
+			<date type="published" when="1984">1984</date>
+			<biblScope unit="page">177</biblScope>
+		</imprint>
+	</monogr>
+	<note>The model minority myth</note>
+</biblStruct>
+
+<biblStruct xml:id="b36">
+	<analytic>
+		<title level="a" type="main">A Theory of Narrative Empathy</title>
+		<author>
+			<persName><forename type="first">Suzanne</forename><surname>Keen</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Narrative</title>
+		<imprint>
+			<biblScope unit="volume">14</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="207" to="236" />
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b37">
+	<analytic>
+		<title level="a" type="main">Narrative Empathy</title>
+		<author>
+			<persName><forename type="first">Suzanne</forename><surname>Keen</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Handbook of Narratology</title>
+		<editor>
+			<persName><forename type="first">Peter</forename><surname>Hühn</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">Jan</forename><surname>Christoph Meister</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">John</forename><surname>Pier</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">Wolf</forename><surname>Schmid</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Berlin, München, Boston</addrLine></address></meeting>
+		<imprint>
+			<publisher>De Gruyter</publisher>
+			<date type="published" when="2014">2014</date>
+			<biblScope unit="page">521</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b38">
+	<analytic>
+		<title level="a" type="main">A Taxonomy of the Emotions of Literary Response and a Theory of Identification in Fictional Narrative</title>
+		<author>
+			<persName><forename type="first">Keith</forename><surname>Oatley</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Poetics</title>
+		<imprint>
+			<biblScope unit="volume">23</biblScope>
+			<biblScope unit="issue">1-2</biblScope>
+			<biblScope unit="page">54</biblScope>
+			<date type="published" when="1995">1995</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b39">
+	<analytic>
+		<title level="a" type="main">Reading Midwest Asian America in Celeste Ng&apos;s Everything I Never Told You</title>
+		<author>
+			<persName><forename type="first">Nicolyn</forename><surname>Woodcock</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">American Studies</title>
+		<imprint>
+			<biblScope unit="volume">62</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page">170</biblScope>
+			<date type="published" when="2023">2023</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b40">
+	<analytic>
+		<title level="a" type="main">Readers&apos; Temperament and Fictional Character</title>
+		<author>
+			<persName><forename type="first">Suzanne</forename><surname>Keen</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">New Literary History</title>
+		<imprint>
+			<biblScope unit="volume">42</biblScope>
+			<biblScope unit="page" from="295" to="314" />
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b41">
+	<monogr>
+		<title/>
+		<author>
+			<persName><surname>Woodcock</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="page">173</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b42">
+	<analytic>
+		<title level="a" type="main">Textual and Reader Factors in Narrative Empathy: An Empirical Reader Response Study Using Focus Groups</title>
+		<author>
+			<persName><forename type="first">Carolina</forename><surname>Fernandez-Quintanilla</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Language and Literature</title>
+		<imprint>
+			<biblScope unit="volume">29</biblScope>
+			<biblScope unit="page" from="124" to="146" />
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b43">
+	<analytic>
+		<author>
+			<persName><forename type="first">Cathy</forename><surname>Park</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Hong</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Minor Feelings: An Asian American Reckoning</title>
+		<meeting><address><addrLine>New York</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2020">2020</date>
+			<biblScope unit="page">55</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b44">
+	<monogr>
+		<title/>
+		<author>
+			<persName><surname>Ibid</surname></persName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b45">
+	<monogr>
+		<author>
+			<persName><forename type="first">Celeste</forename><surname>Ng</surname></persName>
+		</author>
+		<title level="m">Everything I Never Told You</title>
+		<meeting><address><addrLine>New York</addrLine></address></meeting>
+		<imprint>
+			<publisher>Penguin Press</publisher>
+			<date type="published" when="2014">2014</date>
+			<biblScope unit="page">193</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b46">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">Everything</forename><surname>Ng</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="page">242</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b47">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">Everything</forename><surname>Ng</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="page">212</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b48">
+	<monogr>
+		<title level="m" type="main">The Concise Oxford Dictionary of Literary Terms</title>
+		<author>
+			<persName><forename type="first">Chris</forename><surname>Baldick</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2001">2001</date>
+			<publisher>Oxford University Press</publisher>
+			<biblScope unit="page">213</biblScope>
+			<pubPlace>New York</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b49">
+	<monogr>
+		<title/>
+		<author>
+			<persName><surname>Baldick</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="page">116</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b50">
+	<monogr>
+		<title level="m" type="main">Reading for the Plot: Design and Intention in Narrative</title>
+		<author>
+			<persName><forename type="first">Peter</forename><surname>Brooks</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1992">1992</date>
+			<publisher>Harvard University Press</publisher>
+			<biblScope unit="page">4</biblScope>
+			<pubPlace>Cambridge and London</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b51">
+	<monogr>
+		<author>
+			<persName><forename type="first">James</forename><surname>Phelan</surname></persName>
+		</author>
+		<title level="m">Narrative as Rhetoric: Technique, Audiences, Ethics, Ideology</title>
+		<meeting><address><addrLine>Columbus</addrLine></address></meeting>
+		<imprint>
+			<publisher>Ohio State University Press</publisher>
+			<date type="published" when="1996">1996</date>
+			<biblScope unit="page">218</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b52">
+	<monogr>
+		<title/>
+		<author>
+			<persName><surname>Ibid</surname></persName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b53">
+	<analytic>
+		<title level="a" type="main">Growing Up on One&apos;s Own Path: Travel Narrative of Little Fires Everywhere</title>
+		<author>
+			<persName><forename type="first">Shuyue</forename><surname>Liu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Junwu</forename><surname>Tian</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Xi&apos;an International Studies University</title>
+		<imprint>
+			<biblScope unit="volume">32</biblScope>
+			<biblScope unit="page">115</biblScope>
+			<date type="published" when="2024">2024</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b54">
+	<analytic>
+		<title level="a" type="main">Family Secrets and Narrative Structure in Celeste Ng&apos;s Everything I Never Told You&apos;, Atlantis</title>
+		<author>
+			<persName><forename type="first">Aitor</forename><surname>Ibarrola-Armendariz</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of the Spanish Association for Anglo-American Studies</title>
+		<imprint>
+			<biblScope unit="volume">42</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page">182</biblScope>
+			<date type="published" when="2021">2021</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b55">
+	<analytic>
+		<title level="a" type="main">Revising The Scarlet Letter: Race and Motherhood in In the Blood and Little Fires Everywhere</title>
+		<author>
+			<persName><forename type="first">Susan</forename><forename type="middle">S</forename><surname>Williams</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Adaptation</title>
+		<imprint>
+			<biblScope unit="volume">15</biblScope>
+			<biblScope unit="page">61</biblScope>
+			<date type="published" when="2022">2022</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b56">
+	<analytic>
+		<title level="a" type="main">The Natural History of German Life</title>
+		<author>
+			<persName><forename type="first">George</forename><surname>Eliot</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Westminster Review</title>
+		<imprint>
+			<biblScope unit="volume">LXVI</biblScope>
+			<biblScope unit="page">54</biblScope>
+			<date type="published" when="1856-07">July (1856</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b57">
+	<monogr>
+		<author>
+			<persName><forename type="first">Stephen</forename><surname>Hong</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Sohn</forename></persName>
+		</author>
+		<title level="m">Racial Asymmetries: Asian American Fictional Worlds</title>
+		<meeting><address><addrLine>New York</addrLine></address></meeting>
+		<imprint>
+			<publisher>New York University Press</publisher>
+			<date type="published" when="2014">2014</date>
+			<biblScope unit="page">5</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b58">
+	<monogr>
+		<title level="m" type="main">Asian American Literary Reception and Readership</title>
+		<author>
+			<persName><surname>Bhalla</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="page">2</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b59">
+	<analytic>
+		<title level="a" type="main">The Epiphanic Mode in Wordsworth and Modern Literature</title>
+		<author>
+			<persName><forename type="first">Robert</forename><surname>Langbaum</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Moments of Moment: Aspects of the Literary Epiphany</title>
+		<editor>
+			<persName><forename type="first">Wim</forename><surname>Tigges</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Amsterdam: Rodopi</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="1999">1999</date>
+			<biblScope unit="page">44</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b60">
+	<monogr>
+		<title level="m" type="main">Cognition and Emotion: An Exploration of the Oceanic Mind</title>
+		<author>
+			<persName><forename type="first">Michael</forename><surname>Burke</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Literary</forename><surname>Reading</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2011">2011</date>
+			<publisher>Routledge</publisher>
+			<biblScope unit="page">173</biblScope>
+			<pubPlace>Oxford, UK</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b61">
+	<monogr>
+		<author>
+			<persName><forename type="first">Celeste</forename><surname>Ng</surname></persName>
+		</author>
+		<title level="m">Little Fires Everywhere</title>
+		<meeting><address><addrLine>New York</addrLine></address></meeting>
+		<imprint>
+			<publisher>Penguin Press</publisher>
+			<date type="published" when="2017">2017</date>
+			<biblScope unit="page">336</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b62">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">P</forename><surname>Booth</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Xiii</surname></persName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b63">
+	<monogr>
+		<title level="m" type="main">Unleashing the Potential of Prompt Engineering in Large Language Models: A Comprehensive Review</title>
+		<author>
+			<persName><forename type="first">Banghao</forename><surname>Chen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Zhaofeng</forename><surname>Zhang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Nicolas</forename><surname>Langrené</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Shengxin</forename><surname>Zhu</surname></persName>
+		</author>
+		<idno type="arXiv">arXiv:2310.14735</idno>
+		<imprint>
+			<date type="published" when="2023">2023</date>
+			<biblScope unit="page">1</biblScope>
+		</imprint>
+	</monogr>
+	<note type="report_type">arXiv preprint</note>
+</biblStruct>
+
+<biblStruct xml:id="b64">
+	<monogr>
+		<title level="m" type="main">A Prompt Pattern Catalog to Enhance Prompt Engineering with ChatGPT</title>
+		<author>
+			<persName><forename type="first">Jules</forename><surname>White</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Quchen</forename><surname>Fu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Sam</forename><surname>Hays</surname></persName>
+		</author>
+		<idno type="arXiv">arXiv:2302.11382</idno>
+		<imprint>
+			<date type="published" when="2023">2023</date>
+		</imprint>
+	</monogr>
+	<note type="report_type">arXiv preprint</note>
+</biblStruct>
+
+<biblStruct xml:id="b65">
+	<monogr>
+		<ptr target="https://github.com/TianYin123/Prompt-Engineering-Study?tab=readme-ov-file" />
+		<title level="m">As exemplified by this guide shared by Zongxian Yang, a research assistant in the City University of Hong Kong (Dongguan), on GitHub, a global platform for developers</title>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b66">
+	<monogr>
+		<title level="m" type="main">Disclosure statement No potential conflict of interest was reported by the author(s)</title>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

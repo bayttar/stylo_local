@@ -1,0 +1,647 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Transnational hauntings: A reparative reading of ghosts and weak rootedness in Zen Cho&apos;s &quot;起獅, 行礼 (Rising Lion -The Lion Bows)&quot; and Black Water Sister</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author role="corresp">
+							<persName><forename type="first">Kam</forename><forename type="middle">Tou</forename><surname>Pang</surname></persName>
+							<email>yc37710@um.edu.mo</email>
+							<affiliation key="aff0">
+								<orgName type="department" key="dep1">Department of English</orgName>
+								<orgName type="department" key="dep2">Faculty of Arts and Humanities</orgName>
+								<orgName type="institution">University of Macau</orgName>
+								<address>
+									<settlement>Macau</settlement>
+									<country key="CN">China</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff1">
+								<orgName type="department" key="dep1">Department of English</orgName>
+								<orgName type="department" key="dep2">Faculty of Arts and Humanities</orgName>
+								<orgName type="institution" key="instit1">University of Macau</orgName>
+								<orgName type="institution" key="instit2">E21A Avenida da Universidade Taipa</orgName>
+								<address>
+									<postCode>900078</postCode>
+									<settlement>Macau</settlement>
+									<country key="CN">China</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Transnational hauntings: A reparative reading of ghosts and weak rootedness in Zen Cho&apos;s &quot;起獅, 行礼 (Rising Lion -The Lion Bows)&quot; and Black Water Sister</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date/>
+						</imprint>
+					</monogr>
+					<idno type="MD5">CE7040051DC5FBBF5E6DA6F9BFAA990F</idno>
+					<idno type="DOI">10.1080/17449855.2026.2615411</idno>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.0" ident="GROBID" when="2026-02-25T19:51+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term>Ghost</term>
+					<term>Zen Cho</term>
+					<term>Eve Kosofsky Sedgwick</term>
+					<term>reparative reading</term>
+					<term>weak rootedness</term>
+					<term>roots</term>
+				</keywords>
+			</textClass>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>The trope of the ghost often invokes loss and trauma and presents itself as a symbol of ancestral roots returning to haunt the living. This article proposes this trope is reimagined in contemporary Southeast Asian writings as nurturing and generative so that it establishes human-ghost bonds for the transnational subject. In adopting the framework of reparative reading introduced by queer theorist Eve Kosofsky Sedgwick, this article reads ghosts as recuperative in two narratives of disaporic return: the speculative fictions entitled "起獅, 行礼 (Rising Lion -The Lion Bows)" and Black Water Sister by the Malaysian writer Zen Cho. Through interrogating the ghost figure and its fraught associations with roots/rootedness, and attending to ghostly hauntings in Cho's texts, this article theorizes a condition of "weak rootedness" experienced by (queer) transnational subjects, where shared affective and psychic experiences facilitate unexpected relationalities across races and cultures beyond the presumed connection of roots.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Introduction: Thinking reparatively about transnational hauntings</head><p>In 2022, the Singaporean fantasy fiction writer and scholar Ng Yi-Sheng (2022) published "A Spicepunk Manifesto: Towards a Critical Movement of Southeast Asian Heritagebased SFF" in the online speculative fiction magazine Strange Horizons, in which he proclaimed that "a spectre is haunting Southeast Asia: the spectre of spicepunk" (n.p.). By "spicepunk", Ng Yi-Sheng refers to the "recent-ish wave of speculative fiction and fantastical arts, countering Western(ised) hegemonic modernity with alternative visions anchored in Southeast Asian heritage and history" (n.p.). In particular, he declares that "the polyglot populations" spreading across the 11 countries in the region as well as the "global emigrant and expatriate diaspora" are all possessed by the "same hantu or anito; the same phi, nat, boramey, sanghyang, or thần", naming the multifarious spirits and mythical entities that originated in various Southeast Asian cultures (n.p.).</p><p>Ng Yi-Sheng's manifesto echoes the observations in recent scholarship that speculative fiction in Southeast Asia is profilerating in the 21st century <ref type="bibr" target="#b7">(Chin and Quayum 2021;</ref><ref type="bibr" target="#b20">Gui 2025;</ref><ref type="bibr" target="#b26">Patterson 2018</ref>). Ng Yi-Sheng reads this embrace of fantastical myths and experiences in their literary works. Lee and Iyer use various modifiers such as "liminal", "floating", "cosmopolitan", "diasporic", "transnational", "exile", and "deterritorialized" almost interchangeably throughout their article to describe their writerly identities, attesting to their multivalent and complex positionalities but also the limitations of language in capturing their unmoored conditions. They especially endorse Kwame Anthony <ref type="bibr" target="#b0">Appiah's (2006)</ref> "rooted cosmopolitanism", which affirms local attachments while committing to universal obligations <ref type="bibr">(Lee and Iyer 2021, 668)</ref>, an idea that resonates with this article's theorization of "weak rootedness".</p><p>When discussing their writing practice, Lee and Iyer insist they "neither 'write back' to the former colonial centre, nor can [they] 'write back' to the attendant language politics, cultural baggage, and problems of self-censorship that have affected writers of sectional literature in the Malaysian national literary canon" <ref type="bibr">(2021,</ref><ref type="bibr">667)</ref>. They hold that their narratives deviate from the styles and concerns of canonical Malaysian literary tradition but are cautious about "Malaysian authenticity", claiming that their writings "must be neither too local, nor too alien, and containing just the right amount of the strange and the familiar, to justify <ref type="bibr">[their]</ref> floating position" <ref type="bibr">(667)</ref><ref type="bibr">(668)</ref>. This intentional, carefully controlled authorial distance is arguably symptomatic of the literary works produced by this generation of Malaysian transnational writers who tend to manage ethnocultural elements in a more fluid and unanchored manner than their diasporic predecessors, who often associated the past with trauma, loss, and displacement. In particular, Iyer, who has "lived across Hong Kong, Malaysia, and Australia", describes her relationship with Malaysia as "less embedded in the sociopolitical realities of the country, and characterized more by fondness and naivety" <ref type="bibr">(Lee and Iyer 2021, 669;</ref><ref type="bibr">emphasis added)</ref>. Here, the notion of affinity, demonstrated by Iyer as personal adoration, is shown to have a profound impact on transnational writers' engagements with homeland and roots. Similarly, Cho underscores the importance of personal attachment when writing about Malaysia, revealing that I like writing stories positing that what the ordinary Malaysian believes about the world is true. This can sometimes lapse into the supernatural <ref type="bibr">[ . . . ]</ref>. I am afraid of death and hantu and am trying to defang both by writing cute stories about them. <ref type="bibr" target="#b13">(Cho 2025;</ref><ref type="bibr">my emphasis)</ref> Affinities and relationalities with the past -and, by extension, with the ghosts of and in different pasts -become more open, liberating, and, as Cho describes, endearingly "cute" rather than treating the past as harrowing. This is distinct from the diasporic framework, often defined by rootlessness, that emphasizes alienation and melancholia over the lost home(land) and bygone pasts <ref type="bibr" target="#b15">(Cohen 1997;</ref><ref type="bibr" target="#b27">Safran 1991)</ref>. Writing out of affinity prioritizes a mode reliant on genuine affection, familiarity and closeness, and beyond-kin affiliations, inviting empathy and care instead of moral duties demanded from ancestral connections. This alternative portrayal of roots that departs from negatively valanced relations revolving around loss and recovery, guilt and redemption, debt and charity, home or un-home is found in the two texts being examined.</p><p>My interpretation of the past as a site of generative possibility is informed by <ref type="bibr">Sedgwick's "reparative reading" (2003, 123-152)</ref>. Writing in the wake of the traumatic HIV/AIDS epidemic in the 1990s, a period marked by tremendous loss, and while confronting her own terminal illness, Sedgwick reflects on the purpose of criticism. She critiques Paul Ricoeur's hermeneutics of suspicion <ref type="bibr">(Sedgwick 2003, 124)</ref>, which introduces, for her, a tautological mode of "paranoid reading" that is "a strong theory of a negative affect" (136), foreclosing "any bad surprises" coming from the text (130). In other words, when reading in this paranoid mode, there is nothing to be discovered in the text that readers do not already expect; pain and violence endured in the past are exposed only to confirm our suspicions and reaffirm existing oppressive structures, and no positive change can be brought about. Sedgwick suggests that literary criticism done through a strong theory of paranoid reading is "reductive" and tends to subsume disparate phenomena under a single, explanatory logic that solely focuses on damages <ref type="bibr">(2003,</ref><ref type="bibr">136)</ref>. Instead, drawing on Melanie Klein's psychoanalytic theory of the depressive position -in which the subject learns to practise love and care towards the damaged object -Sedgwick advocates for "reparative reading", a form of "weak theory" that emphasizes localized knowledge and openness in interpretation, making space for good surprises to emerge and seeking "sustenance" from the text to foreground joy, pleasure, and solace (150). The deployment of ghostly elements by Cho in "Rising Lion" and Black Water Sister are read through Sedgewick's idea of the reparative in this article, taking a weak perspective focusing on the unanticipated positive affects brought forth by the spectre, such as care and comfort. Sedgwick explains further that the reader has room to realize that the future may be different from the present, it is also possible for her to entertain such profoundly painful, profoundly relieving, ethically crucial possibilities as that the past, in turn, could have happened differently from the way it actually did. (146) Sedgwick's capacious view of the past encourages us to seek out the dormant positive potentialities embedded in fossilized histories and discover nourishing relations that are formed through affinities, while venturing beyond predetermined structures of kinship and other dominant ideologies, such as the totalizing strong theory of ancestral roots. Using the frame of reparative reading, this article reads Cho's literary representations of the ghost as nurturing the transnational subjects they encounter, thus revealing a form of "weak rootedness". In doing so, it argues that the texts emphasize affective bonds over traditional familial ties, thereby reconceptualizing rootedness as the transnational.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>The problematics of ghosts with roots and weak rootedness</head><p>A common literary trope, the ghost is notorious for its capacity to disrupt time and space, often intruding in the here and now of the text to uncover some hidden, unseemly matters buried in the past <ref type="bibr" target="#b19">(Gordon 1997;</ref><ref type="bibr" target="#b30">Weinstock 2004;</ref><ref type="bibr" target="#b32">Wisker 2022)</ref>. Indeed, literary ghosts are frequently connected to a painful past, as the ghost usually arises from a death that has been violent, untimely, or tragic. Thus, it is no surprise that most scholarship studies spectrality as "deeply embedded within the discourse of loss, mourning, recovery", a view influenced by Nicholas Abraham and Maria Torok's psychoanalytic concept of the phantom in trauma studies which emerged in the 1980s <ref type="bibr">(Blanco and Peeren 2013, 11)</ref>. In trauma studies, the ghost appears as a symptom to remind the haunted that in the past, along the bloodline, there are issues that have been left unaddressed, problems unresolved, and closures undrawn. In other words, the ghost is an uncanny reminder of the haunted's inescapable bond with a wounded history, and this is one way the ghosts in "Rising Lion" and Black Water Sister can be understood, as both expose the living's entanglements with the painful pasts once suffered by the ghosts.</p><p>When situated in the postcolonial context, the past that ghostly narratives summon often alludes to the collective pain of colonial oppression endured by cultural and ethnoracial minorities <ref type="bibr" target="#b1">(Bergland 2000;</ref><ref type="bibr" target="#b5">Chassot 2018;</ref><ref type="bibr" target="#b18">Goldman 2012;</ref><ref type="bibr" target="#b32">Wisker 2022)</ref>. For example, ghost narratives written by African American, Indigenous American, and Cuban American writers, as discussed by Kathleen <ref type="bibr" target="#b4">Brogan (1998)</ref>, are "tales of cultural haunting" (4). She argues that the ghost functions to "re-create ethnic identity" (4) amidst national narratives and is used to explore "a people's historical consciousness" (5). The concept of cultural haunting has significance for Black and Indigenous studies in the USA which argue that the cultural and ethnic Other is often spectralized by white American writers and associated with horror and menace. It is therefore represented as a disembodied abject threat to the cohesive nation that demands its ongoing banishment <ref type="bibr">(Bergland 2000, 4-5)</ref>.</p><p>For Asian and Asian American writers, however, the ghost may be presented as a benevolent figure. Andrew Hock Soon <ref type="bibr" target="#b24">Ng (2008)</ref> observes that in Asian American Gothic writings, ghostly haunting "is not something to be dreaded but, placed in an Asian perspective, represents filial piety, familial attachment, continuity and reparation" (8). He claims that the ghosts in these texts appear "not to take revenge, but to seek remembrance and reparation in order to free those who have forgotten from their ancestral and historical debts" (7; emphasis in original) and they return to "gently cajole the subject into remembering his or her arrears, and to heal" (7). Andrew Hock Soon Ng's insight is particularly helpful in understanding a form of literary ghost that can be gentle and less threatening. Yet this framework still retains kinship as the central element that drives the ghostly narrative. The relationship between the ghost and the living is reliant on the fulfilment of familial duty and the paying of ancestral debt, thereby implying guilt and moral obligation. Both Brogan and Andrew Hock Soon Ng illustrate that such an encounter with the dead draws attention to the haunted's loss, or at least their forgetfulness, of these very roots. In other words, the ghost -as the lingering revenant of the pastcan be regarded as a double figure of roots and rootlessness par excellence.</p><p>However, Jarrod <ref type="bibr" target="#b21">Hayes (2016)</ref> argues that it is not the roots that predetermine and precede a return; rather, it is only through the act of returning that one's roots come into existence. He problematizes the monolithic past implicit in roots thinking, pointing out that roots narratives attempt "to police identity through a politics of purity" (2). Rather, he underscores the "writtenness" and "fictionality" of roots, claiming that "the telling of the story is what creates the origins" (3). Hayes does not disavow roots altogether; instead, through attending to the "ghosts in the family tree" (24-25), he exposes the heteronormativity and "patrilineal lines of descent implied by roots" (2), making the idea of roots suspicious and discursive, an interpellation of narratives that create the rightful subject. Hayes's ideas undermine the haunted's unquestioned connection with roots, and suggests that the premise of the ghost as the embodiment of one's familial roots has to be re-examined. The ghost's haunting is suspended, disrupted, and even prone to failure as is the case in "Rising Lion", where the ghost is culturally and ethnoracially unrelated to the diasporic protagonist. Likewise, in Black Water Sister, the transnational subject fails to recognize the message sent by the ancestral ghost. The ghosts depicted by Cho perform a "weak rootedness" which resonates with Hayes's understanding of the function of ghosts in roots narratives.</p><p>This article proposes that weak rootedness (as inspired by Sedgwick's weak theory) is a condition identified in return narratives by transnational subjects who have a rather opaque or loosened connection with their presumed roots. For instance, in Black Water Sister, the protagonist Jess, a Malaysia-born American woman who relocates to Malaysia, demonstrates weak rootedness as her tenuous connection with the ancestral homeland and (spiritual) ancestors can be invoked and strengthened through affective supernatural encounters. The designation "weak" does not suggest less significance, but rather emphasizes the flexibility of rootedness as a way of relating affectively, in contrast to the "strong theory" understood through a hermeneutics of suspicion, where the ghost figure is a manifestation of one's inescapable roots. Weak rootedness describes a relationality with the past through disidentifying with an essentialist idea of roots while still evoking a sense of root-like groundedness. Diaspora scholars have long problematized the "roots" of fixed origins and advocated the homonym "routes" of movements in identity formation <ref type="bibr" target="#b14">(Clifford 1994;</ref><ref type="bibr" target="#b17">Gilroy 2003</ref>). Informed by this school of thought, my evocation of weak rootedness aims to address the affective dimension of the transnational subjects' fraught relation with their roots. As transnational studies scholarship demonstrates, transnational subjects, unlike the "free-floating" nomads, inevitably make "psychic and material investment in one or more given particular geopolitical spaces" <ref type="bibr">(Lionnet and Shih 2005, 8)</ref>. The choice of "rootedness" over "roots" is intentional, as static roots emphasize the totalizing interpellation of history and identity but rootedness denotes the conscious process of rooting and being rooted. Roots-making need not depend on genealogical ties but can be achieved from shared affective experiences that speak to the contemporary transnational condition, where relations are formed in myriad ways beyond imposed identities and ancestral or collective histories. Ultimately, weak rootedness foregrounds affective bonds that can be acquired, practised, reinforced, and nurtured, thus making new relationalities possible.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>The nurturing ghost in "Rising Lion"</head><p>"Rising Lion" in the collection Spirits Abroad <ref type="bibr">(Cho 2021c</ref>) is a fantasy fiction featuring transnational and ghostly elements. The protagonist Jia Qi, a student from Malaysia living in the UK, has joined a traditional lion dance student troupe at the university where she studies, and one evening she participates in a "China Night" performance at a local hotel. Unbeknown to the audience, this performance is a secret exorcism requested by the Chinese hotel owners, as one of the hotel rooms is haunted by a ghost residing in an old wooden cabinet. For the troupe, it is common to receive assignments of exorcism, since the lion dance is not simply a traditional Chinese performance for entertainment but also a magical ritual where the lion spirit destroys unruly ghosts. In the story, the lion abruptly stops during the dance when the ghost of a ten-year-old "curly-haired black boy" <ref type="bibr">(Cho 2021b, 163)</ref>, who has been trapped in the cabinet for millennia, appears. It is later revealed that the child-ghost, George, came from Africa centuries ago; his father was a king and he was given to a soldier who brought him to England. Like an innocent child, George is mesmerized by the lion dance and volunteers to participate in the performance. Instead of having George expelled, the troupe takes the cabinet home and includes him as an unusual troupe member.</p><p>"Rising Lion" does not fit with Brogan's concept of cultural haunting, since George has no ancestral or cultural ties with Jia Qi, who is of a different race and cultural background. George neither reveals any family secret nor demands retribution from Jia Qi or the rest of the troupe. But the dissonance in histories between George, Jia Qi, and the entire lion dance troupe does not inhibit this haunting. Instead, all these characters are linked by a similar weak rootedness inherent in transnationality, a condition of "cultural interconnectedness and mobility across space" <ref type="bibr">(Ong 1999, 4)</ref>. The lion troupe consists of five members: Simon, Tiong Han, and Jia Qi, all from Malaysia; Alec, from Hong Kong; and Coco, a British national whose parents were also originally from Hong Kong. Though they hail from seemingly disparate cultures and locations, the entire troupe shares a bond: all are from former British colonies in Asia and currently reside in the UK.</p><p>After George's unexpected appearance, the troupe draws him a map so that its members can explain where their home, Malaysia, is. However, there is confusion about locational details of the Southeast Asian region when Tiong Han asks if Laos is situated between Myanmar and Vietnam, while Coco insists that Hong Kong is not "so high up" on the map and protests about its disproportionate size in comparison with Singapore <ref type="bibr">(Cho 2021b, 163)</ref>. Simon describes Malaysia as being "the end of Asia" with half on a peninsula and the other half "stuck to Indonesia" (163). After a careful study of the draft map, George calls the location "Golden Khersonese", to which Tiong Han retorts: "No, no, Ma-lay-sia" (163). These inconsistencies in mapping and naming Asian countries reflect the geographical complexity and ambiguity of Southeast Asia, and also accentuate the vicissitudes of the region's history, evoking in the reader memories of imperialist maritime exploration. For example, the term "Golden Khersonese" was first used by the ancient Greeks and specifically by the astronomer Claudius Ptolemy in the 2nd century <ref type="bibr">(Wheatley 1973, 138)</ref>, and was a name later commonly adopted by European cartographers of the 15th and early 16th centuries to identify the modern-day Malay Peninsula (147), an area reputed to be a significant source of gold (xxi). This now obsolete name is also found in the title of the 19th-century travelogue Golden Chersonese and the Way Thither by British explorer Isabella Bird (1883) -a book often criticized as an orientalist text intended to "depict the benevolence of British imperialism" <ref type="bibr">(Tay 2011, 34)</ref>. Without explicit mention of colonialism in the story, this anachronistic allusion to Malaysia as "Golden Khersonese" charts a global and historical map which tacitly connects the African and Asian continents, their peoples of the past and present, through western imperialist histories, as George himself is also a symbol of the trauma of African slavery inflicted by European colonizers. This similar past is a condition of weak rootedness shared by the ghost, Jia Qi, and other lion dance troupe members. The ghost that haunts intended here is not to induce guilt in the living about their forgetfulness, but rather to offer these transnational teens from Southeast Asia a chance to reconnect and learn about a colonial history that calls for remembrance. It is this stranger-ghost who makes them confront their hitherto unarticulated idea of home country, presumably their "roots", on a hand-sketched map and situate themselves in the world with reference to one another.</p><p>"Rising Lion" exemplifies that bonds can be formed through affinity, via a mild sense of familiarity with Malaysia and common transnational experiences of unbelonging.</p><p>Later, Simon explains to George that the troupe sought to diversify by recruiting westerners, but laments that in the past such members usually felt "a bit lonely" <ref type="bibr">(Cho 2021b, 164)</ref> being the racial minority in the predominantly Malaysian group. This comment makes George self-conscious about his own racial difference from the troupe. He stays silent, only "fiddling with the edge of the paper" of the map (164). At this moment, Jia Qi immediately realizes "she could see right through his head into his thought" (164) that George also feels lonely for being a racial outsider. She comforts him by touching his shoulder and invites him to participate in a small part of the lion dance, and later watch fireworks together. Although left unsaid, George's loneliness at being an outsider resonates with Jia Qi who has a similar feeling of being isolated while residing in the UK. Before joining the lion trope, Jia Q was "a quiet girl with an unfashionable accent" and "ferociously homesick", who eventually "found refuge in [the troupe's] unfussy acceptance and reassuring Chineseness" (157). This human-ghost, cross-racial duo is represented as capable of caring and showing kindness to each other, grounded in an affinity expressed through their common love for the lion dance and the shared loneliness of a transnational life.</p><p>Living in a foreign country, the remedy for Jia Qi's loneliness is not merely the cultural reassurance found in the lion dance troupe; it is the spiritual aspect that provides her profound comfort. Jia Qi finds it "easy to believe" and demands "no proof" when Coco tells her about the supernatural power of the exorcist lion dance, which confirms Jia Qi's long belief that this ritual must embody "something magical" <ref type="bibr">(Cho 2021b, 157)</ref>. Her yearning for home does not require a physical return to Malaysia to be addressed, but a spiritual and affective anchoring that is a weak rootedness. When Jia Qi and George watch the fireworks, Jia Qi struggles with the outdoor cold and George offers Jia Qi his hand. Jia Qi is surprised by his unusually high body temperature and George replies that since he died, "it's always been warm" (167). The motif of George's comforting warmth recurs at the end of the story, when the sleeping Jia Qi dreams of "sunshine" whilst holding George's "small, warm hand" (169). Different from the stereotypically chilling ghost figure, the marginalized spectre that Cho reimagines here is a caring figure that can provide solace.</p><p>The ghost in "Rising Lion" does not demand that the living should solve their imminent crisis or attend to unfinished business, as scholars on spectrality have observed. Within the lion dance troupe, the ghost is recognized and valued, becoming part of the supportive transnational community. In this sense, "Rising Lion" can be read as a story of weak rootedness where non-kin relationalities are formed between human and non-human. The ghost here is not to be exorcized; quite the contrary, it exists to heal the living. Although George as a ghost figure symbolizes the Other as a Black, foreign, displaced subject, from a reparative point of view he also provides the much needed care and comfort for the transnational subject.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Affective and psychic affinities with the queer transnational in Black Water Sister</head><p>While "Rising Lion" centres on a stranger-ghost, Black Water Sister follows a more familiar return narrative, featuring a diasporic protagonist troubled by an ancestral spectre. Yet, within the reparative reading framework, this analysis attends to the affects arising in unusual ghostly encounters, and argues that the story invokes weak rootedness in the queer transnational subject through alternative familial entanglements and psychic affinities. Black Water Sister recounts the supernatural adventures of the protagonist Jess, a Malaysia-born and USA-raised newly graduated and unemployed, closeted lesbian who has recently relocated to Penang with her parents. In addition to her uncertain career prospects and difficult adjustments to a new life in Malaysia, Jess is being haunted by the ghost of her late grandmother, Ah Ma. Ah Ma was once a medium for the vengeful local deity named Black Water Sister, whose temple is now threatened with demolition by the real estate developer Ng Chee Hin, the former lover of Ah Ma. With her newly discovered psychic capability, Jess is frequently, albeit reluctantly, possessed by Ah Ma to help investigate and take revenge on Ng Chee Hin. Meanwhile, Black Water Sister becomes increasingly powerful and commands Jess to be her medium for earthly vengeance. In the end, Black Water Sister makes peace with her traumas and departs along with Ah Ma for good. The story ends with Jess coming out to her parents. She finally moves to Singapore for a job and joins her girlfriend there to start a new life.</p><p>Jess's weak rootedness is evoked by the ghost at the very beginning of her transnational journey. Weeks before moving to Malaysia, a ghostly voice (later revealed as Ah Ma's) recurs inside Jess's head saying "does your mother know you're a pengkid?" (Cho 2021a, 1), the provocative opening line of the novel. Curiously, Jess is not scared by this mysterious beckoning; she is simply baffled and assumes "pengkid" is an unfamiliar word in Hokkein, the Chinese dialect her family speaks at home with which Jess is only moderately familiar. When Jess approaches her mother for clarification, she is visibly uncomfortable telling her that it means "lesbian" in Malay, the national language of Malaysia, a tongue Jess barely speaks. This confusion of language reveals a jarring disconnection of Jess from her cultural roots, for she already feels "out of her element, navigating unfamiliar waters" <ref type="bibr">(Cho 2021c, 10)</ref> in this vaguely familiar homeland, and her lack of understanding of this utterance exacerbates it. As a 1.5th-generation Asian American returnee to her assumed homeland, Jess does not and cannot engage in this "cultural haunting" exerted by her ancestor Ah Ma, whose attempts to gravitate Jess towards her presumed roots appear to require effort and reinforcement from both sides. Jess is aware of her Chinese cultural heritage, as she mistakes the Malay utterance as Hokkien, a widely spoken dialect amongst Chinese Malaysians. In other words, it is a misapprehension, not obliviousness, that the ghost elicits in Jess. While obliviousness towards one's ancestral past might align with a psychoanalytic reading that the ghost is a reified form of repressed memory or latent anxiety, misapprehension situates the discussion of ghostly encounters in the material realm. In this case, Ah Ma presents a unique multilingual reality of Malaysia that is unfamiliar to Jess. Such cognitive incongruence suggests less a psychic trauma in Jess and more an insufficient knowledge about the Malay component involved in her cultural roots. This misapprehension exposes the heterogeneity and constructedness of her Malaysian roots in <ref type="bibr">Hayes's terms (2016)</ref>. For a young transnational like Jess, the return to Malaysia is not so much about the acceptance of a predetermined ethnocultural origin and ancestral connection, or the immersion in sentimentality and nostalgia for a lost homeland, but more about coming to terms with her weak rootedness, given the fact that Jess has lived almost her entire life in the USA.</p><p>Moreover, it can be argued that Jess's sexuality further obstructs her reckoning with roots. As Hayes elucidates, roots narratives "frequently rely on a patrilineal family tree structured by heterosexual marriage and reproduction and would therefore seem to exclude queerness" (2016, 3). Subsequently, return narratives are structured by heterosexuality (20). The very first thing scrutinized by Jess's ancestor is her queer identity. Ah Ma's blunt labelling of Jess as "pengkid" signals that Jess's lesbianism has to be policed, given that homosexuality is commonly disapproved in traditional Chinese culture and at odds with familial expectations. The transgressive nature of Jess's homosexuality becomes more intolerable in her ancestral homeland, as it is criminalized in Malaysia to this day. 1 Jess as a queer transnational subject seems incompatible with all that the traditional ideas of roots represent. Ironically, even the "queer" message from the ghostly ancestor cannot be smoothly passed to Jess without translation.</p><p>However, when read closely in a reparative perspective, the ghost can be understood as a surprising figure of care that is able to accommodate Jess's queerness. After all, Ah Ma's purpose in bringing up Jess's sexuality is not to accuse, but to connect with her granddaughter and prevent her from potential harm from her parents. Jess's mother simply deplores the mere mentioning or any association of lesbianism evoked in "pengkid", telling Jess that "whatever friend told you that word, you better not hang out with them so much. It's not nice to say" <ref type="bibr">(Cho 2021a, 3)</ref>. Conversely, Ah Ma advises Jess to "be more careful" and that she had "better get rid of [the photos]" <ref type="bibr">(Cho 2021a, 38)</ref> of her girlfriend stored on her phone if Jess wants to keep her secret from her mother. Depicted by Cho as a quirky ghost who looks at Jess's phone while she sleeps, Ah Ma as an ancestral figure of roots offers Jess the protection, love, and understanding that she desperately needs but cannot find from her parents as a closeted queer child.</p><p>Distinct from typical roots narratives, Black Water Sister traces an alternative genealogy of hereditary, psychic capability and affective resonance that helps to establish root-like relationalities for Jess. As the story progresses, the reader learns that the ability of mediumship is passed down through the bloodline, as Ah Ma explains to Jess that "fate decides" the psychic power and she can be a medium "because [she is her] granddaughter" <ref type="bibr">(Cho 2021a, 85)</ref>. However, the logic of inheritance is unclear: Ah Ku, the son of Ah Ma, is also a medium whereas Jess's mother lacks psychic sensitivity. It appears that Jess's psychic gift is inherited through an indirect matrilineal pattern that skips a generation. This female trio bond between Ah Ma, Jess, and Black Water Sister can be considered as an alternative relationality that is characteristic of weak rootedness, as it is established through psychic affinities between women, rather than the essentialist, patrilineal logic inscribed in conventional roots discourse.</p><p>Yet this metaphysical bond does not happen easily. Jess's antagonism towards supernatural contact -let alone Ah Ma's revenge business -persists throughout the story, as Jess verbally rejects this involuntary mediumship many times <ref type="bibr">(Cho 2021a, 84, 95, 214)</ref>. Having recently relocated back to Malaysia, Jess appears to rebel against everything about this "homecoming". If the sole function of the ghost is to interpellate the living into a roots narrative about conformity, Jess's recalcitrance reveals that it is a tough attempt. Through attending to the affects in the text, however, the ghost can be deemed as compassionate. When Jess refuses to help Ah Ma and tells her to "Fuck. Off" (86), Ah Ma is not angry but rather impressed by her bravado. She surmises that Black Water Sister appoints Jess to be her medium because she is "clever at being angry" (86), resembling Ah Ma herself who rages against her ex-lover's betrayal, an anger that is not found in Jess's timid mother. Jess is apparently "struck" by Ah Ma's comment, reflecting that "Ah Ma was the only member of her family who knew" her repressed loneliness and indignation (86). This is the critical moment in the novel when Ah Ma and Jess bond over their mutual profound emotions.</p><p>The affective resonance of shared loneliness and pent-up anger is fundamental to the supernatural alliance between the female trio. A similar emotion can be found in Black Water Sister, who harbours a deep-seated rage from being ravaged and murdered by her lover 100 years ago. As part of Ah Ma's revenge plan for Ng Chee Hin's abandonment in the past, Jess is involved in a violent altercation with his son. During this, Jess is simultaneously possessed by Black Water Sister and Ah Ma and enters into a trance when she feels scared, but also "rich, thick, concentrated with rage" <ref type="bibr">(Cho 2021a, 162</ref>). Jess appears to enjoy this affective richness and thickness as nourishment for her distraught state both in this physical fight and in her alienation and weak rootedness in Malaysia. Towards the final episode of spirit possession, the consciousnesses of Jess and Black Water Sister are joined, and the boundaries of the self collapse "in the moment of unbidden sympathy" (346), when Jess feels the deity's "powerlessness and her fury, her endless grief" (350). Jess's angst as a closeted teen is no comparison to Black Water Sister's agony of being abused and trapped in eternity. However, despite their differences, the negative affective resonance between the two is mutually enabling and cathartic. Jess's acknowledgement of her centuries-old pain allows Black Water Sister to make peace with her grievances and she departs forever. This supernatural ordeal also enables Jess to muster the courage to disclose her homosexuality to her parents before leaving for Singapore.</p><p>This spirit possession exudes queer sensibility, as the psychic union between Jess and Black Water Sister uncannily resembles an intimate consummation between partners of the same sex: "their souls had cleaved together so that for a short time they had been the same person and their minds had been one" <ref type="bibr">(Cho 2021a, 351)</ref>. This does not suggest a romantic relation between Jess and Black Water Sister, but it can be contended that in terms of a reparative reading, the novel proposes an alternative mode of relating, such as spirit possession that can bring about optimism for the queer subject. Indeed, Sedgwick's notion of reparative reading also conveys a distinctly queer undertone when she recounts her "three very queer friendships" -relations grounded in many shared "interests, energies and ambitions" <ref type="bibr">(2003,</ref><ref type="bibr">148)</ref>. She highlights the fact that none of them are "passing on the family name" or "moving forward according to the regular schedule of the generations", instead describing their connection as one aligned with "one another immediately, one another as the present fullness of a becoming whose arc may extend no further, whom we each must learn best to apprehend, fulfil, and bear company" (149). Such deeply affective reflection offers a profound insight for queer lives. Through a reparative form of knowing, Sedgwick suggests that care and togetherness can emerge outside the hierarchical and enduring structures of kinship. Nurturing can be found in transient, horizontal bonds of affinities amongst friends, non-normative companions, or individuals in alternative forms of relating who, despite pain and adversity, share similar life experiences. In Black Water Sister, similar bonds of affinity are unconventionally formed between Jess and Black Water Sister, an unexpected "queer" companionship that evinces ultimate liberation for both the human and the ghost.</p><p>Sirui <ref type="bibr" target="#b16">Fang and Chin (2024)</ref> call Black Water Sister, Ah Ma and Jess's bond a "supernatural sisterhood" (90). While I concur with Fang and Chin's reading of their supernatural sisterhood as a female and queer resistance against the "oppressive Confucian patriarchy" perpetuated throughout the last century in Malaysia (98), this article also emphasizes the transformative potential of affective and psychic experiences for the queer transnational subject. Jess's eventual departure from Malaysia can be read transformatively as a disidentification with the homeland and its kinship structure, because once the ghosts depart, Jess's attunement to the supernatural realm also dissipates. This is a deviation from roots narratives centring on linearity and permanent return to the land of cultural and ancestral origin. Instead, she embraces a hopeful queer relationship overseas and decides to live as a mobile subject in Singapore, where she can "move on, do something new", and "rediscover who she was when she wasn't ensconced in the mildly stifling embrace of her family" <ref type="bibr">(Cho 2021a, 356)</ref>. Her eventual disconnection from her roots, both spiritually and geographically, seems inevitable for the transnational Jess who is "weakly" rooted. Yet the affective impact endures: Jess is left with the "one gift the Black Water Sister had given her" (366), which is the optimism of surviving an uncertain future. As a transnational lesbian, Jess thus manifests her weak rootedness through the transient yet nurturing relationalities with Ah Ma and Black Water Sister in Malaysia.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Conclusion: Finding hope in the ghostly narratives</head><p>In this contemporary world where transnational living is increasingly the norm and the past is rarely monolithic, ghosts in the fictional worlds of Southeast Asia haunt transnationally and illuminate alternative articulations of roots and rootedness. By deploying Sedgwick's framework of reparative reading, this article has established that the ghosts in Black Water Sister and "Rising Lion" evoke weak rootedness in the transnational subjects who maintain opaque, loosened ties with their presumed cultural and ancestral roots. Through unexpected transnational hauntings, constructed roots are reinforced, and new, recuperative relationalites made possible. The ghosts are reimagined to offer much-needed comfort to those who feel unanchored. Cho as a transnational Southeast Asian writer reappropriates her fond memories of Malaysia and its rich ghostly references to limn a distinct mode of weak rootedness that allows other forms of relating. The two literary works examined here demonstrate that ghosts do not simply symbolize haunting roots, dredge up painful pasts, or terrify the living; they can also express love, give care, build unexpected bonds so that those moving across and beyond can carry on with strength into the future. In her final days of living with cancer, Sedgwick described hope as "a fracturing, even a traumatic thing to experience" <ref type="bibr">(2003,</ref><ref type="bibr">146)</ref>, acknowledging the challenge of reparative reading to look actively for positive affects and sustenance within the damage that has been done in the past. Indeed, finding joy and pleasure in the seemingly grim reality is an arduous task, for it requires courage to imagine the unthinkable. Yet, through reading Cho's supernatural narratives and their ghosts reparatively, ghostly encounters can open up a space for hope, care, and alternative ways of belonging.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Note</head><p>1. Section 377 of the Malaysian Penal Code Act 574, first introduced in 1871 under British colonial rule and formally enacted by Malaysian states in 1936, criminalizes individuals who engage in "carnal intercourse against the order of nature" as well as "any act of gross indecency". This section against homosexuality remains effective today: https://www. sprm.gov.my/admin/files/sprm/assets/pdf/penguatkuasaan/Akta_574_(31.5.2023)_BI.pdf.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Disclosure statement</head><p>No potential conflict of interest was reported by the author.</p></div>		</body>
+		<back>
+
+			<div type="funding">
+<div><head>Funding</head><p>The author reported there is no funding associated with the work featured in this article.</p></div>
+			</div>			<div type="annex">
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Notes on contributor</head><p>Kam Tou Pang is a PhD student in literary studies (English) at the University of Macau. His research interests include contemporary Asian American literatures, Asian anglophone literatures, affect theory, and queer studies.</p></div>			</div>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<monogr>
+		<title level="m" type="main">Cosmopolitanism: Ethics in a World of Strangers</title>
+		<author>
+			<persName><forename type="first">Kwame</forename><surname>Appiah</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Anthony</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2006">2006</date>
+			<pubPlace>Norton</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<monogr>
+		<title level="m" type="main">The National Uncanny: Indian Ghosts and American Subjects</title>
+		<author>
+			<persName><forename type="first">Renée</forename><forename type="middle">L</forename><surname>Bergland</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2000">2000</date>
+			<publisher>Dartmouth College Press</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<monogr>
+		<title level="m" type="main">The Golden Chersonese and the Way Thither</title>
+		<author>
+			<persName><forename type="first">I</forename><forename type="middle">L</forename><surname>Bird</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1883">1883</date>
+			<publisher>G. P. Putnam&apos;s Sons</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title level="a" type="main">Introduction: Conceptualizing Spectralities</title>
+		<author>
+			<persName><forename type="first">María</forename><surname>Blanco</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Esther</forename><surname>Del Pilar</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Peeren</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">The Spectralities Reader: Ghosts and Haunting in Contemporary Cultural Theory</title>
+		<editor>
+			<persName><forename type="first">María</forename><surname>Del</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">Pilar</forename><surname>Blanco</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">Esther</forename><surname>Peeren</surname></persName>
+		</editor>
+		<imprint>
+			<publisher>Bloomsbury Academic</publisher>
+			<date type="published" when="2013">2013</date>
+			<biblScope unit="page" from="1" to="27" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<monogr>
+		<author>
+			<persName><forename type="first">Kathleen</forename><surname>Brogan</surname></persName>
+		</author>
+		<title level="m">Cultural Haunting: Ghosts and Ethnicity in Recent American Literature</title>
+		<imprint>
+			<publisher>University Press of Virginia</publisher>
+			<date type="published" when="1998">1998</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<monogr>
+		<author>
+			<persName><forename type="first">Joanne</forename><surname>Chassot</surname></persName>
+		</author>
+		<title level="m">Ghosts of the African Diaspora: Re-Visioning History, Memory, and Identity</title>
+		<imprint>
+			<publisher>Dartmouth College Press</publisher>
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title level="a" type="main">Interracial Relations and the Post-Postcolonial Future in Zen Cho&apos;s Spirits Abroad</title>
+		<author>
+			<persName><forename type="first">Grace</forename><forename type="middle">V S</forename><surname>Chin</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/17449855.2021.1975407</idno>
+		<ptr target="https://doi.org/10.1080/17449855.2021" />
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Postcolonial Writing</title>
+		<imprint>
+			<biblScope unit="volume">57</biblScope>
+			<biblScope unit="issue">5</biblScope>
+			<biblScope unit="page" from="636" to="649" />
+			<date type="published" when="2021">2021. 1975407</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title level="a" type="main">The Postcolonial Millennium: New Directions in Malaysian Literature in English</title>
+		<author>
+			<persName><forename type="first">Grace</forename><forename type="middle">V S</forename><surname>Chin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Mohammad</forename><forename type="middle">A</forename><surname>Quayum</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/17449855.2021.1982120</idno>
+		<ptr target="https://doi.org/10.1080/17449855.2021.1982120" />
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Postcolonial Writing</title>
+		<imprint>
+			<biblScope unit="volume">57</biblScope>
+			<biblScope unit="issue">5</biblScope>
+			<biblScope unit="page" from="583" to="592" />
+			<date type="published" when="2021">2021</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<monogr>
+		<title level="m" type="main">The True Queen</title>
+		<author>
+			<persName><forename type="first">Zen</forename><surname>Cho</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2019">2019</date>
+			<publisher>Penguin Publishing Group</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<monogr>
+		<title level="m" type="main">2021a. Black Water Sister</title>
+		<author>
+			<persName><forename type="first">Zen</forename><surname>Cho</surname></persName>
+		</author>
+		<imprint>
+			<publisher>Penguin Publishing Group</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title level="a" type="main">起獅, 行礼 (Rising Lion -The Lion Bows)</title>
+		<author>
+			<persName><forename type="first">Zen</forename><surname>Cho</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Spirits Abroad: Stories</title>
+		<imprint>
+			<publisher>Small Beer Press</publisher>
+			<date type="published" when="2021">2021</date>
+			<biblScope unit="page" from="155" to="169" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<monogr>
+		<author>
+			<persName><forename type="first">Zen</forename><surname>Cho</surname></persName>
+		</author>
+		<title level="m">Spirits Abroad: Stories</title>
+		<imprint>
+			<publisher>Small Beer Press</publisher>
+			<date type="published" when="2021">2021</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<monogr>
+		<author>
+			<persName><forename type="first">Zen</forename><surname>Cho</surname></persName>
+		</author>
+		<title level="m">The Friend Zone Experiment</title>
+		<meeting><address><addrLine>Bramble</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2024">2024</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<monogr>
+		<title level="m" type="main">FAQ</title>
+		<author>
+			<persName><forename type="first">Zen</forename><surname>Cho</surname></persName>
+		</author>
+		<ptr target="https://zencho.org/faq/" />
+		<imprint>
+			<date type="published" when="2025-10-31">2025. October 31, 2025</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<title level="a" type="main">Diasporas</title>
+		<author>
+			<persName><forename type="first">James</forename><surname>Clifford</surname></persName>
+		</author>
+		<idno type="DOI">10.1525/can.1994.9.3.02a00040</idno>
+		<idno>1994.9.3.02a00040</idno>
+		<ptr target="https://doi.org/10.1525/can" />
+	</analytic>
+	<monogr>
+		<title level="j">Cultural Anthropology</title>
+		<imprint>
+			<biblScope unit="volume">9</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="302" to="338" />
+			<date type="published" when="1994">1994</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<monogr>
+		<title level="m" type="main">Global Diasporas: An Introduction</title>
+		<author>
+			<persName><forename type="first">Robin</forename><surname>Cohen</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1997">1997</date>
+			<publisher>University of Washington Press</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<title level="a" type="main">Feminist Temporality and the Negotiation of Gender Identity and Agency in Zen Cho&apos;s</title>
+		<author>
+			<persName><forename type="first">Sirui</forename><surname>Fang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Grace</forename><forename type="middle">V S</forename><surname>Chin</surname></persName>
+		</author>
+		<idno type="DOI">10.22452/sare.vol61no2.5</idno>
+		<ptr target="https://doi.org/10.22452/sare.vol61no2.5" />
+	</analytic>
+	<monogr>
+		<title level="j">Southeast Asian Review of English</title>
+		<imprint>
+			<biblScope unit="volume">61</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="78" to="102" />
+			<date type="published" when="2024">2024</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<monogr>
+		<author>
+			<persName><forename type="first">Paul</forename><surname>Gilroy</surname></persName>
+		</author>
+		<title level="m">The Black Atlantic: Modernity and Double Consciousness</title>
+		<imprint>
+			<publisher>Harvard University Press</publisher>
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<monogr>
+		<title level="m" type="main">Dispossession: Haunting in Canadian Fiction</title>
+		<author>
+			<persName><forename type="first">Marlene</forename><surname>Goldman</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2012">2012</date>
+			<publisher>McGill-Queen&apos;s University Press</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<monogr>
+		<title level="m" type="main">Ghostly Matters: Haunting and the Sociological Imagination</title>
+		<author>
+			<persName><forename type="first">Avery</forename><surname>Gordon</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1997">1997</date>
+			<publisher>University of Minnesota Press</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<analytic>
+		<title level="a" type="main">Southeast Asian Speculative Fiction as Slipstream</title>
+		<author>
+			<persName><forename type="first">Weihsin</forename><surname>Gui</surname></persName>
+		</author>
+		<idno type="DOI">10.1525/sfs.2025.52.1.3</idno>
+		<ptr target="https://doi.org/10.1525/sfs.2025.52.1.3" />
+	</analytic>
+	<monogr>
+		<title level="j">Science Fiction Studies</title>
+		<imprint>
+			<biblScope unit="volume">52</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="3" to="11" />
+			<date type="published" when="2025">2025</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<monogr>
+		<title level="m" type="main">Queer Roots for the Diaspora: Ghosts in the Family Tree</title>
+		<author>
+			<persName><forename type="first">Jarrod</forename><forename type="middle">L</forename><surname>Hayes</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2016">2016</date>
+			<publisher>University of Michigan Press</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<analytic>
+		<title level="a" type="main">On Not Writing Back: Cosmopolitan Paradoxes in New Diasporic Malaysian Writing Today</title>
+		<author>
+			<persName><forename type="first">Jason</forename><surname>Lee</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Sreedhevi</forename><surname>Eng Hun</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Iyer</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/17449855.2021.1975408</idno>
+		<ptr target="https://doi.org/10.1080/17449855.2021.1975408" />
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Postcolonial Writing</title>
+		<imprint>
+			<biblScope unit="volume">57</biblScope>
+			<biblScope unit="issue">5</biblScope>
+			<biblScope unit="page" from="665" to="679" />
+			<date type="published" when="2021">2021</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<monogr>
+		<author>
+			<persName><forename type="first">Françoise</forename><surname>Lionnet</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Shu-Mei</forename><surname>Shih</surname></persName>
+		</author>
+		<title level="m">Minor Transnationalism</title>
+		<imprint>
+			<publisher>Duke University Press</publisher>
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<monogr>
+		<title level="m" type="main">Asian Gothic: Essays on Literature, Film and Anime</title>
+		<author>
+			<persName><surname>Ng</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2008">2008</date>
+			<publisher>McFarland &amp; Co</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<monogr>
+		<title level="m" type="main">Flexible Citizenship: The Cultural Logics of Transnationality</title>
+		<author>
+			<persName><forename type="first">Aihwa</forename><surname>Ong</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1999">1999</date>
+			<publisher>Duke University Press</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<monogr>
+		<title level="m" type="main">Transitive Cultures: Anglophone Literature of the Transpacific</title>
+		<author>
+			<persName><forename type="first">Christopher</forename><forename type="middle">B</forename><surname>Patterson</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2018">2018</date>
+			<publisher>Rutgers University Press</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b27">
+	<analytic>
+		<title level="a" type="main">Diasporas in Modern Societies: Myths of Homeland and Return</title>
+		<author>
+			<persName><forename type="first">William</forename><surname>Safran</surname></persName>
+		</author>
+		<idno type="DOI">10.1353/ds.1991.0004</idno>
+		<ptr target="https://doi.org/10.1353/ds.1991.0004" />
+	</analytic>
+	<monogr>
+		<title level="j">Diaspora</title>
+		<imprint>
+			<biblScope unit="volume">1</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="83" to="99" />
+			<date type="published" when="1991">1991</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b28">
+	<monogr>
+		<title level="m" type="main">Touching Feeling: Affect, Pedagogy, Performativity</title>
+		<author>
+			<persName><forename type="first">Eve</forename><forename type="middle">K</forename><surname>Sedgwick</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2003">2003</date>
+			<publisher>Duke University Press</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b29">
+	<monogr>
+		<title level="m" type="main">Colony, Nation, and Globalisation: Not at Home in Singaporean and Malaysian Literature</title>
+		<author>
+			<persName><forename type="first">Eddie</forename><surname>Tay</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2011">2011</date>
+			<publisher>Hong Kong University Press</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b30">
+	<analytic>
+		<title level="a" type="main">Introduction: A Spectral Turn</title>
+		<author>
+			<persName><forename type="first">Jeffrey</forename><forename type="middle">A</forename><surname>Weinstock</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Spectral America: Phantoms and the National Imagination</title>
+		<editor>
+			<persName><forename type="first">Jeffrey</forename><surname>Andrew</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">Weinstock</forename></persName>
+		</editor>
+		<imprint>
+			<publisher>University of Wisconsin Press</publisher>
+			<date type="published" when="2004">2004</date>
+			<biblScope unit="page" from="3" to="17" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b31">
+	<monogr>
+		<author>
+			<persName><forename type="first">Paul</forename><surname>Wheatley</surname></persName>
+		</author>
+		<title level="m">The Golden Khersonese: Studies in the Historical Geography of the Malay Peninsula before A.D. 1500</title>
+		<imprint>
+			<publisher>Greenwood Press</publisher>
+			<date type="published" when="1973">1973</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b32">
+	<monogr>
+		<title level="m" type="main">Contemporary Women&apos;s Ghost Stories: Spectres, Revenants, Ghostly Returns</title>
+		<author>
+			<persName><forename type="first">Gina</forename><surname>Wisker</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2022">2022</date>
+			<publisher>Springer International Publishing AG</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b33">
+	<monogr>
+		<title level="m" type="main">A Spicepunk Manifesto: Towards A Critical Movement of Southeast Asian Heritage-Based SFF</title>
+		<author>
+			<persName><surname>Yi-Sheng</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Ng</surname></persName>
+		</author>
+		<ptr target="https://strangehorizons.com/wordpress/non-fiction/a-spicepunk-manifesto-towards-a-criticalmovement-of-southeast-asian-heritage-based-sff" />
+		<imprint>
+			<date type="published" when="2022-10-31">2022. October 31, 2025</date>
+		</imprint>
+	</monogr>
+	<note>Strange Horizons</note>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

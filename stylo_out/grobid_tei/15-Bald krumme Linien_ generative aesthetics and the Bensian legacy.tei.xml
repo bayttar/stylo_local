@@ -1,0 +1,675 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Bald krumme Linien: generative aesthetics and the Bensian legacy</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author role="corresp">
+							<persName><forename type="first">Grant</forename><forename type="middle">D</forename><surname>Taylor</surname></persName>
+							<email>taylor@lvc.edu</email>
+							<affiliation key="aff0">
+								<orgName type="department">Humanities Department</orgName>
+								<orgName type="institution">Valley College</orgName>
+								<address>
+									<settlement>Annville</settlement>
+									<country>Lebanon, USA</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff1">
+								<orgName type="institution">the University of Stuttgart</orgName>
+								<address>
+									<settlement>Bense</settlement>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Bald krumme Linien: generative aesthetics and the Bensian legacy</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date/>
+						</imprint>
+					</monogr>
+					<idno type="MD5">B0DF308B430A03054E8979E0FE1580BC</idno>
+					<idno type="DOI">10.1080/14735784.2024.2394422</idno>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.0" ident="GROBID" when="2026-02-25T19:53+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term>Information aesthetics</term>
+					<term>Max Bense</term>
+					<term>computer art</term>
+					<term>generative aesthetics</term>
+					<term>generative art</term>
+				</keywords>
+			</textClass>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>The importance of German philosopher Max Bense to the history of digital art is difficult to overstate. As the dominant theoretician during the pioneering phase of computer art, Bense's prolific writings on information aesthetics -particularly his signature theory, 'generative aesthetics' -reached a global audience. However, Bense's broad project has remained largely absent from surveys of Anglo-American aesthetics, and though information aesthetics garnered intense interest in the 1960s, it was eventually deemed a failure. By re-examining Bense's landmark exhibition of computer-generated art at the University of Stuttgart, this essay finds clues to his conflicting legacy. Made memorable through a heated exchange and walk-out of audience members, the exhibit and accompanying lecture were covered by the magazine Der Spiegel in an article titled Bald krumme Linien [Soon crooked Lines]. If we examine the beliefs and practices of those named as attendees (including Heinz Trökes, Anton Stankowski, and Herbert W. Kapitzki), we find the dissent more nuanced than previously thought. Though the dispute revealed the limits of Bense's reductionist and anti-subjective approach to aesthetics, the episode also catalysed Bense's enduring influence and high standing within the digital arts.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>volume, A Companion to Digital Art <ref type="bibr">(2016)</ref>. Furthermore, in recent retrospectives from German-born Manfred Mohr and Hungarian-born Vera Molnar-arguably two of the most successful early pioneers-Bense's legacy is unmistakable. Displayed photographs of Bense teaching and copies of his pivotal works tell the story of a guiding force and intellectual touchstone for this first generation of digital practitioners.</p><p>In complete contrast to his elevated position within digital arts, Bense is virtually nonexistent in the field of aesthetics, the discipline where most of his life's work exists. In most Anglo-American surveys of aesthetics, there is no mention of Bense or the field of information aesthetics he co-founded with Abraham A. Moles. Except for Germany, where recent scholarship on Bense has grown over the past two decades, information aesthetics had remained primarily ignored, deemed by most to have limited application or philosophical insight. Following the intense burst of excitement from young intellectuals in the late 1960s, Bense's aesthetic theories lost their currency, were dismissed, or considered abject failures.<ref type="foot" target="#foot_0">1</ref> Even Bense's most ardent, though not uncritical proponent, Frieder <ref type="bibr">Nake (2012, 74-75)</ref>, believed in retrospect that information aesthetics, though 'heroic', was based on 'flawed' assumptions and was overly 'simplistic' because it did not accommodate the complexities of human communications. While it is not uncommon for a philosopher's ideas to find futile ground in other fields, having once been disregarded, it is curious why Bense's presence displays such persistence in the field of digital art.</p><p>The potency of Bense's ideas seems all the more improbable, considering his involvement in the movement was limited. As a professional philosopher, prolific writer, and an important public intellectual in West Germany, his concerns were naturally wideranging, and his commitment to aesthetics remained absolute. Even as his influence on computer arts spread rapidly, Bense did not take the role of international proselytiser or academic spokesman. Instead, it was Bense's colloquium on aesthetics at the University of Stuttgart (formally the Stuttgart Institute of Technology) that provided the catalytic power that propelled his ideas onto an international stage and cemented his myth as one of the most inspired thinkers of the cybernetic age. On February 5, 1965, in a crowded seminar room in the Institute of Philosophy, known as the study gallery <ref type="bibr">[Studiengalerie]</ref>, Bense would introduce to his audience his latest and most expansive theory of aesthetics, entitled the 'Projects of Generative Aesthetics' [projekte generativer äethetik] <ref type="bibr" target="#b1">(Bense and Nees 1965)</ref>. A ground-breaking collection of computer-generated graphics produced by the mathematician Georg Nees was offered as substantiation of Bense's ideas. However, the introduction of generative aesthetics and the accompanying graphics caused an unprecedented controversy, resulting in a heated exchange and eventual walkout of audience members.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.">Dissonance at the Stuttgart School</head><p>During the late 1950s, the Stuttgart School, under the commanding leadership of Bense, arose in tandem with the French school of information aesthetics headed by Abraham A. Moles (at the University of Strasbourg). Bense and Moles's broader ideological project sought to unify hard science and the humanities through strict objectivism, though they differed slightly in approach. Bense's form of information aesthetics was built primarily on Charles W. <ref type="bibr">Morris's theory of signs (1938)</ref>, the semiotics of Charles Sanders Peirce <ref type="bibr">(1933)</ref>, and the quantitative analysis of communication systems developed by Claude <ref type="bibr" target="#b25">Shannon and Warren Weaver (1949)</ref>. An essential driver to Bense's aesthetic remained George David Birkhoff's earlier experiments that sought an aesthetic measurement and value in a work of art <ref type="bibr">(1933)</ref>. For Bense, reducing artwork to a mathematical object through identifying statistical data points overcame the subjectivism that he believed permeated early twentieth-century aesthetics and art criticism. Bense attempted to take the working approach of communication theory and semiotics and merge it with Norbert Wiener's model for feedback systems found in cybernetics <ref type="bibr">(1961)</ref>. After decoupling meaning and content and making information units measurable in the shifting scales between order and complexity, Bense incorporated insights from Norm Chomsky's generative grammar <ref type="bibr">(1957)</ref>. The integration of linguistic theory proved the most innovative part of Bense's generative aesthetics. Identifying the procreative powers of syntactic combinations in language, which aligned with the open-endedness of pseudo-random behaviour in computing, allowed a new investigation that probed different aesthetic values as applied to the interplay of signs within art objects.</p><p>From its beginning in 1958 to its closing in 1978, which effectively marked the rise and fall of the Stuttgart School <ref type="bibr">(Klütsch 2012, 65</ref>), Bense's gallery became a testing ground for speculative ideas emerging from the interdisciplinary field of cybernetics and information theory. Promoted as an intellectual space for open critique and exchange of ideas and becoming a hub for those within the Stuttgart School's orbit, it showcased various forms of literary and visual experimentation, including typographical graphics and concrete poetry. Why Nees's computer-generated graphics were met with such hostility and unfriendliness confounded many eyewitnesses, including <ref type="bibr">Nake (2009, 78)</ref>. If certain ambiguities naturally arise from personal recollection, freely admitted by Nake, the Der Spiegel article (Der <ref type="bibr" target="#b6">Spiegel 1965)</ref>, published some months after the exhibition, further complicates any reconstruction of events. Significantly, the Der Spiegel report mentions three 'Württemberg' artists as part of the audience, though it does not indicate each role in the protest. The artists recorded by the magazine include Heinz Trökes, Anton Stankowski, and Herbert W. Kapitzki. If we examine each artist individually, two artists make unlikely opponents, casting doubt over their role in challenging Bense and Nees. If we examine the audience's hostility, described by Christoph <ref type="bibr">Klütsch (2007, 421)</ref> as 'dismay and fury' and the subsequent press attention in Der Spiegel, we can locate several forces instead of one uniform response, reacting to Bense's theoretical enterprise.</p><p>The clash held important implications for Bense's far-reaching project. The hostile reaction became a potent mythology-a type of apocryphal tale-that gave digital art its compelling origin narrative. Here, the discourteous and discontent artists, unable to see the coming future, act as foils to Bense and Nees, who appear as the true avant-garde. Many pioneering artists, such as Mohr and Molnar, embraced Bense's ideology of strict objectivism, seeing it as a radical way to dispense with the metaphysics that plagued art. The heterogeneous nature of his project also assures Bense's legacy. While many would criticise the 'fragmented technicism' of Bense's information aesthetics <ref type="bibr">(Pias 2007, 116)</ref>, the loose theoretical framework suited the selective approach of pioneering artists, who preferred to choose piecemeal from the philosopher's broad analytical project.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.">University of Stuttgart, February 5, 1965</head><p>With varying accounts based primarily on personal recollections, it can be challenging to build an accurate picture of what transpired on February 5, 1965. While slight variations exist, the accounts from mathematicians Nake and Nees, who would both become internationally recognised and award-winning computer artists, generally align. The other two significant sources include semiotician Elisabeth Walther, who later became Bense's wife and cataloguer of works, and the April article from Der Spiegel, in which Bense and Nake are quoted directly. What is clear is that on February 5, a collection of around twelve computer graphics (possibly exhibited under the title Computer-Grafik, Computer-Bilder, or Generative Computer-Grafik) was attributed to the mathematician Georg Nees <ref type="bibr">(Nake 2012, 70)</ref>. Bense introduced his generative aesthetics to the audience in opening remarks and in the self-published edition of Rot, a small pamphlet that accompanied colloquiums. Edited by Bense and Walther and designed by Hans-Jörg Mayer, Rot focused primarily on experimental literary theory and became a vital publishing wing of the Stuttgart School. Issue 19, described by <ref type="bibr">Nake (2005, 54)</ref> as a 'legendary' edition, included both Bense's statement on generative aesthetics and Nees's six computer-generated images, which were believed to be included in the exhibit [Figure <ref type="figure" target="#fig_0">1</ref>].</p><p>We know that certain audience members began leaving as Nees described how the graphics were programmed on a Siemens 2002 computer and printed on a Zuse Graphomat Z64 drawing table. However, we do not know which ones left and for what reason. Der Spiegel mentions that those invited attendees included 'mathematicians, philosophers, art historians,' and, in particular, 'Württemberg artists <ref type="bibr">' (1965)</ref>. The term 'Württemberg' is interesting here, as the State Academy of Fine Art Stuttgart sits atop Württemberg Hill and is thus geographically separate from the city where the other institutions of higher learning are situated. Nake, who did not provide specific names, indicated that the professor from the State Academy of Fine Arts Stuttgart left after Nees's reply and that the strong reaction, described as an 'attack' on 'traditional notions of art', came from the 'Stuttgart artists <ref type="bibr">' (2005, 55)</ref>. In Art Journal, Nake makes vivid the dramatic moment:</p><p>Many of the artists at the opening are baffled. They are a bit hostile. One of them gets up: 'Tell me, Mr. Nees, can you make your machine draw like an artist's flow?' Nees ponders for a moment. […] Then he says, 'Yes, I can. If you can tell me precisely how to define your way of drawing.' That is too much for the professors from the Academy of Fine Art. They leave, some slamming doors: 'Who does he think we are?' Bense tries to calm tempers: 'Please, dear friends, what you see here is only artificial art,' he declares <ref type="bibr">(2009,</ref><ref type="bibr">77)</ref>. In Nake's various accounts, the questioner's identity is never revealed, perhaps out of respect for an esteemed professor. Art historian Carolyn <ref type="bibr">Kane (2010, 79)</ref> suggests it was one of 'Bense's students' who asked the question of Nees, though this seems now in doubt. Nees, who gave little detail on the exchange until later in his life, named the artist and professor Heinz Trökes. In Nees's account, we gain a nuanced account of the exchange:</p><p>Bense had also invited artists to the auditorium and while I was speaking some disturbance arose among them. Some of them left the room quite noisily. Finally, Professor Heinz Trokes, who was a professor at the Academy of Arts in Stuttgart, made himself the spokesman of the protest <ref type="bibr">[…]</ref>. He asked me whether the computer could also develop an individual style. I said that this should be possible if the style could be shaped by a computer program. As an example of an artistic style that could not easily be grasped by an algorithmic model I cited the painter Wols. I also noted that it would be possible to have the computer create perspective images, but Trokes criticized this as a backslide to illusionism. Finally Bense intervened disarmingly by saying that this kind of drawing should be called 'artificial art' (von Herrmann 2010). <ref type="foot" target="#foot_3">2</ref>Nees's remembrance is interesting compared to Nake's accounts and the Der Spiegel article. It remains unclear if Stankowski and Kapitzki were part of the artist group that left abruptly or if they aligned themselves with Trökes.</p><p>The dominant view, as expressed by art historian Christoph <ref type="bibr">Klütsch (2012, 71)</ref>, is that 'Bense had to defend the exhibition against artists such as Heinz Trökes, Anton Stankowski, and Herbert W. Kapitzki by stating that this was "only artificial art"'. However, if we look at the artists individually, it appears unlikely that the three artists shared the same ideological response. As leading graphic designers, Stankowski and Kapitzki shared a similar pedigree, one primarily defined by the International Typographical Style, a graphic design movement rooted in early European abstraction (primarily Constructivism, De Stijl, and Bauhaus). While Trökes was mainly an abstractionist, his practice developed first under the influence of Vasily Kandinsky's expressive and spiritualised abstraction before settling on various Surrealist methods and motifs.</p><p>We can only surmise how Nees's graphics appeared to Stankowski and Kapitzki. Nees's graphics undoubtedly showed an underlying grid system, asymmetrical placement, and repetition of various permutations, all trademark elements of the International Typographical Style. At the same time, there were formal differences. Rather than compressed and finely edited statements emblematic of the graphic design of Stankowski and Kapitzki, Nees's images possessed a fecundity of linear form, often marked by a particular overabundance of random behaviour.</p><p>Though the lack of attribution makes it challenging to identify the dissenters, the Der Spiegel article is valuable. Klütsch believed the article was a 'condemnation' of <ref type="bibr">Bense and Nake (2012, 71)</ref>. However, the article exhibits a disinterested neutrality, allowing the reader to form their own view on the subject. The article's title, Bald krumme Linien [Soon Crooked Lines], does show a hint of playful sarcasm. Taken from Nake's attempts to extend the range of mark-making, the choice of title appears to place the computer's image-making capabilities as rather rudimentary and haphazard compared to the human equivalent. One could also argue that the article's tone shifts towards satire, especially how Bense's quotations are perhaps positioned as overly grandiose. However, on the whole, the article possesses the detached irony for which the publication was famous.</p><p>The Der Spiegel text was detailed and elegant in the way it simplified the programming process for its readers, which contrasts with the first critical response in the United States. Unlike the American press, Der Spiegel also published an example of computer-generated graphics (a detail of Nees's 23-Ecke), along with images of Nake interacting with a Graphomat plotter and Bense posed in an academic setting. Perfunctory in length and without example pictures, the American articles (published in the same month as the Der Spiegel article) were overtly dismissive. The coverage of the exhibit at the Howard Wise Gallery in New York, which showcased computer-generated graphics (produced by engineers A. Michael Noll and Béla Julesz from Bell Laboratories), dismissed the work as aesthetical inconsequential. Stuart Preston's New York Times article described the imagery as 'bleak', and though the critic showed some interest in the exhibit, voiced a reservation and notable regret that future art would be 'entrusted to the deus ex machina <ref type="bibr">' (1965, X23)</ref>. The reviewer in Time magazine noted that the pictures on display not only resembled 'the notch patterns found on IBM cards' but also had 'about the same amount of aesthetic appeal <ref type="bibr">' (1965, NY6)</ref>, and the New York Herald Tribune denounced the works as 'cold and soulless <ref type="bibr">' (1965, 8)</ref>. In contrast, the Der Spiegel article attempted to understand the scope and implication of computers in or in the arts and posited problems posed by artificial forms of creativity. The article even includes Nake's doubts over the possibility that mechanical automatism could stand in for artistic subjectivity, effectively indicating the possible limits of Bense's new aesthetics.</p><p>While the Der Spiegel article generates uncertainty over the identity of the objectors, Nees's recollection does name Trökes as the 'spokesman' for the opposition (von Herrmann 2010). Steeped in the modernist tradition and influenced primarily by surrealist techniques of psychic automatism, Trökes was a well-known German abstractionist. During the early 1960s, his canvases remained expressionistic, utilising vivid colour washes and layering, and were often powered by folklore and mystical themes [Figure <ref type="figure" target="#fig_1">2</ref>]. Considering Trökes' humanist approach, admonishing Bense's project for its dehumanising and hyper-rationalizing tendencies seems highly reasonable.</p><p>It is curious, though, why Nees chose Wols as an example of the limitations of simulating artistic style. While living in Paris in the early 1950s, Trökes met Kandinsky and became friends with Wolfgang Wols, who was approaching the end of his life. Though this would be speculative, Nees possibly knew Trökes' admiration and friendship with Wols. While Wols was a highly influential post-war abstractionist, influencing the mid-century Art Informel and Tachism movements, he had been dead for over a decade. More than likely, Nees chose a German artist with a highly expressive style, one where an algorithm would have difficulty recreating the complex layering and gestural drips of Wols's intricate painted surfaces. While Tröke's artwork from the period shared no similarity to the computer-generated works on the gallery wall, Stankowski and Kapitzky's did. Kapitzky's aesthetics and mode of image construction corresponded heavily to Nees's computer-generated graphics. For example, his work for publisher Westdeutscher Verlag, Köln, and Opladen [Figure <ref type="figure" target="#fig_2">3</ref>] employed a simple linear approach based on the semiotics of pictorial syntax. <ref type="bibr" target="#b8">Kapitzki's (1997)</ref> 'pictorial abstractions' employed a geometric field in which typographical arrangements were based on strict division ratios. In addition, Kapitzky would have shared the intellectual sensibility of the systems theory emerging from the mathematical sciences, and thus, it seems unlikely that Bense's ideas were foreign or offensive. As chair of the Visual Communications Department at the Hochschule für Gestaltung (HfG), Ulm's famed design school, he was very familiar with the development of information aesthetics. Bense oversaw the Information Department at HfG while he held his primary position at Stuttgart University. Furthermore, Kapitzki, head of the communication department, brought Abraham H. Moles in as a guest lecturer for many years. Writing of Moles, Kapitzki said he held 'unlimited respect' and 'learned a very great deal from him', cooperating with him on research projects into the 'formation of super-signs and the semiology of signs <ref type="bibr">' (1997, 39)</ref>.</p><p>Interestingly, when Kapitzki reflected on his career, Bense was not recognised as a direct influence. When Bense is mentioned, it is connected to the 'turbulent disputes,' to use <ref type="bibr">Kapitzki's description (1997, 27)</ref>, over the design school's move toward an  increasingly theoretical approach. This new direction had departed from Max Bill's Bauhaus-based curriculum, which had given primacy to practical design and creative expression as products of the human spirit. As <ref type="bibr">Kapitzki believed (1997, 28)</ref>, Bense was responsible for turning the department away from applied matters toward information theory analysis. Suppose Kapitzki was part of the artist group responding negatively to <ref type="bibr">Bense.</ref> In that case, it may have resulted from the internecine battles over the vision of HfG and its famed Ulm Model of education. Possibly, for Kapitzki, Bense's generative aesthetics, with its positivistic embrace of cybernetic ideology, may have represented a bridge too far. Although Kapitzki believed in the systematic and rationalised approach, he also believed in the centrality of craftsmanship and the creative mind according to the social good.</p><p>Though Kapitski may have harboured some doubts, he was not emblematic of the romantic protestation against the machine. By the 1980s, Kapitzki was using the computer in his creative work, making plottergraphies in a series of homages to such Bauhaus luminaries as Kandinsky, Schlemmer, <ref type="bibr">Klee, and Bayer (1997, 169-171)</ref>. In an almost exact methodologically parallel with Nees and Nake's early computer art, Kapitski analysed the 'optical alphabet' and 'visual language' of master artists and programmed the 'basic design principles of the Bauhaus school <ref type="bibr">' (1997, 171)</ref>. Though he was quick to qualify that the computer was an ideal instrument to replicate the 'systematic' conditions of Bauhaus designs, he did not want to 'speak' on its compacity for artificial creativity <ref type="bibr">(1997,</ref><ref type="bibr">169)</ref>. Such ambivalence may clarify his opinion of Bense's concept of artificial art, though it is never mentioned in his biographical reflections.</p><p>Stankowski was also an unlikely artist to rally to Trökes' cause. As one of the graphic designers who defined the International Typographic Style, his designs were based upon mathematically constructed grids and a structuralist approach to information display. He also was one of the first to integrate the self-similarity of fractal structures into graphic design <ref type="bibr" target="#b26">(Shlyk 2007)</ref>. Like Nees's drawings, Stankowski's experimental designs from the period were dominated by linear progressions, sequences, and permutations informed by mathematical ratios [Figure <ref type="figure" target="#fig_3">4</ref>]. Famously curious, Stankowski's designs exhibited an 'intellectual acumen for science and engineering' and a commitment to theoretical research <ref type="bibr">(Meggs and Purvis 2012, 375)</ref>. Stankowski was a friend of Max Bill, sharing the same studio in Zurich, and, like Kapitski, a devotee of concrete art <ref type="bibr">(1975,</ref><ref type="bibr">2)</ref>. Believing that the language of signs 'leads to the concept, to rationality' and to 'understanding' <ref type="bibr">(1967,</ref><ref type="bibr">62)</ref>, semiology shaped his practice. As a guest lecturer at HfG, he was also exposed heavily to the information aesthetics of both <ref type="bibr">Bense and Moles (1975)</ref>.</p><p>Stankowski's relationship with the emergence of computers and computational processes was more extensive than that of Kapitzki. Famed in the history of graphic design for his ability to communicate 'invisible processes and physical forces' <ref type="bibr">(Meggs and Purvis 2012, 375)</ref>, Stankowski had tried to represent or translate through design the underlying forces and 'internal workings of the computer' <ref type="bibr">(Meggs and Purvis 376)</ref>. Since the mid-1950s, Stankowski had also completed innovative graphic advertising work for IBM and became fascinated by electronic data processing and the 'highly complex functions and mechanical structures' of the computer <ref type="bibr">(1967,</ref><ref type="bibr">86)</ref>. Perhaps the most remarkable evidence of Stankowski's enduring fascination with computers and visual research is that he included Nees's 23-Ecke (the same graphic included in the 1965 exhibition and Der Spiegel article) in his career-charting monograph. Stankowski did not attribute the work to Nees, however. Instead, the computer graphic is described simply as an 'experiment in art with an electronic computer <ref type="bibr">' (1975, 123)</ref>.</p><p>Though we can surmise what motivated Trökes from his exchange, we can only speculate how Kapitzki and Stankowski responded. We know nothing of those who left the room or the opinion of the purported art historians in attendance. In the Der Spiegel article, Bense proudly recounted an experiment in which the computer was employed to make an aesthetic judgment between drawings by Rembrandt and Rubens. Evaluating the drawing features as statistical data points, the computer operated on 'aesthetic coefficients'. The analysis resulted in Rubens bettering Rembrandt, and the implications were not lost on the writers of Der Spiegel, who mused that both 'living and dead artists' need protection from 'machine art and criticism <ref type="bibr">' (1965, 151)</ref>. It is unclear if Bense shared this research at the Studiengalerie. If he had, it would have been difficult to imagine art historians from the State Academy of Art remaining silent as the creative act of two key figures of the Western canon were reduced to a closed computational system.</p><p>However, from the audience's reaction, these images were viewed differently from previous visualisations inspired by Bense's informatics. Even if we concede that the graphic work of Kapitzki and Stankowski operated on a significantly higher level of sophistication, Nees's images still possessed an arresting complexity. Here was Nees, an industrial mathematician working for Siemens-who was untrained in the arts-replicating abstract compositions concurrent with prevailing design principles. <ref type="bibr" target="#b17">Nake (2009)</ref> sees the artists' reaction as a broader response, also felt in the United States, to the fear that the machine would soon render the artist redundant. Perhaps the artists in the audience sensed in Nees's response the bravado of a scientist who, harnessing the computer's power, sought to usurp or corrupt human creativity. Bense's mathematical formalisation outlined in Rot and Der Spiegel suggested the possible purging of art's myth-making capabilities and the promise of fully automated aesthetic evaluation.</p><p>While we get a sense from Tröke's question that the appearance of the computer in the sanctified realm of fine art was perhaps an unwelcome incursion, there is also the element that Bense's totalising theory of aesthetics was seen as pure hubris. The artists' response could have represented a broader ideological response to the dehumanising tendencies of an emerging technical world. In many ways, the protestors' position prefigured the 1970 televised public debate between Bense and Joseph Beuys in the auditorium of Wernervon-Siemens-Schule in Düsseldorf. There are similarities between the ideological positions and the heated confrontation that followed. The disconnection between each side and the impossibility of reconciling such divergent positions was also apparent. In the 1970 debate, Beuys represented the defender of the irrational, earthly materiality of the human experience and self-perpetuating mythos of modern art. In opposition, and as the ultra-rationalist philosopher, Bense argued for an embrace of our technical existence and the possibilities of a post-modern cybernetic future. In the battle between anthropometric and technocentric systems, Beuys won the day <ref type="bibr" target="#b21">(Pias 2007)</ref>. Though Bense tenaciously questioned and probed Beuys's modernist assumptions five years earlier, when he attempted to appease the irate artists at the colloquium with 'Please, dear friends, what you see here is only artificial art' <ref type="bibr">(Nake 2009, 77)</ref>, it appeared to some as a conciliatory retreat.</p><p>The emptying of all subjectivity and delimiting of the subconscious world was anathema to Trökes's surrealist philosophy, even with the interesting correlation between psychic automatism and the pseudorandom generators used in constructing Nees's graphics. It is difficult to ascertain if Bense's desire to drive a wedge between sensuous and rational states appeared alarming to <ref type="bibr">Kapitzki and Stankowski.</ref> But even to the designers schooled in structuralist and semiotic approaches, the devaluing of human praxis must have seemed extreme. Bense's entire project was intentionally devoid of subjective interpretation, and all 'romanticism was banned from it' <ref type="bibr">(Nake 2005, 60)</ref>. For Bense, such a radical stance against subjective judgment was part of the philosopher's attempt to strike a blow against the myth-building of the Nazis. As Nake described (2012, 74), his anti-subjective programme was a reaction to the 'irrational or emotional aspects' underpinning nineteenth-century European aesthetics and what he considered the irrational and emotive interpretation of art.</p><p>Bense's information aesthetics was so intent on denying subjectivity that it failed to account for the symbiosis of human-machine interaction that computer artists would soon explore. Bense also suggested in Der Spiegel that randomness stood in for intuition in the art-making process, but this became a relatively weak correlation. As noted in Nees's response to Trökes, the difficulty of replicating Wols's methodology, let alone recreating the polysemy of meaning engendered by his art, could not be encompassed by pseudo-randomizers. In addition, Bense's curatorial exercise showed the limits of defining aesthetic properties independent of the application of aesthetic experience. Here, the unlimited aesthetic viewpoints humans use to interpret and evaluate works of art and the unmentioned idiosyncratic elements employed by Nees during image construction seem to overwhelm Bense's project.</p><p>Much has been made of Bense's parting retort-essentially asking the audience to see the graphic artifacts as 'artificial art' instead of 'natural art' that stemmed from human production. Bense, known for his controversial and often radical pronouncements, perhaps wanted his rejoinder to become a memorable statement that encapsulated the new technical existence. While others interpreted it as an act of appeasement, there was confusion over how Bense's concept was interpreted. For <ref type="bibr">Nake (2009, 78)</ref>, Bense was trying to find a vocabulary to define and delineate human craft with autonomous forms of production in an era where artificial intelligence research in Germany was in its embryonic stage. Bense seemed to be making the distinction, essentially naming a new class of artifact, to understand the division of labour in artificial productivity involving programming languages <ref type="bibr" target="#b0">(Bense 1965)</ref>. Even if Bense was making a futile effort to deny their status as art, or at least allay fears that human creativity was not under direct assault, it may have been apparent to those in the audience that Bense's term did problematise authorship and thus challenge the current ontological categorizations of art.</p><p>It is difficult to say if Kapitzki and Stankowski believed Nees's graphics lacked the authenticity of human expression. After all, these two graphic designers sought a high level of objectification in their work, steering clear of subjectivism to necessitate precise visual communication. Both practiced procedural approaches to picture construction, even using stochastic processes to generate simple variations. However, Nees's artifacts were unique in that they were largely a-historical and thus unmoored from the legacy of modernist abstraction, to which these practitioners were heavily indebted.</p><p>Finally, one must consider that the Studiengalerie was primarily an academic space. Unlike the Howard Wise Gallery in Midtown Manhattan, this was not a public art gallery. Though open to the public, the University of Stuttgart gallery was makeshift and designed to showcase speculative research in aesthetics to faculty from other institutions who were formally invited. As a major centre of higher learning in Northern Europe, the city of Stuttgart held highly competitive academic institutions, including The University of Stuttgart (then known as Technische Hochschule Stuttgart) and Stuttgart Technology University of Applied Sciences (then known as Hochschule für Technik Stuttgart) within its city centre. The 'Württemberg' artists, whom <ref type="bibr">Nake (2005, 54)</ref> recalled coming 'downtown' to attend the exhibit, seem to represent a cohesive unit bound by their institutional affinity. Stuttgart State Academy of Fine Arts was one of the oldest and most esteemed in Germany. It is highly possible that the reactionary group, though ideologically diverse, formed a united bloc when confronted by the perceived overreach of technical university faculty challenging the boundaries of art production and aesthetics.<ref type="foot" target="#foot_4">3</ref> </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="4.">Generative aesthetics in action</head><p>For media historian Hans-Christian von Herrman (2010), the introduction of 'artificial art' marked a 'turning point' in Bense's philosophy. It allowed Bense to 'dispense with his anthropological interpretation of modern technology' and focus on the 'interpretation of symbolic or semiotic activity as mediating processes'. Calling attention to this ontological juncture produced by the digital art object resonated deeply with the pioneering artists. <ref type="bibr">Nake (2009, 87)</ref> sought this distinction by choosing terms like 'algorithmic' and Mohr, shadowing Bense's work, began using 'generative works' instead of the much-maligned term 'computer art' <ref type="bibr">(Keiner 1994, 140)</ref>. It was not just a new language to describe the digital object but a radical approach that Bense provided. His desire to reconcile art and technology was reassuring for artists interested in the computer's power, a technology being met with distrust in the art world. Though uncomfortable to artists like Trökes, Bense's strict formalist ideology, variegated ideas, and interdisciplinary approach were seen as a liberating force from the predictable trajectories of late modernist art.</p><p>However, artists influenced by Bense ignored much of the pure analytics advocated by the philosopher. Instead, artists adhered to its general premise by selecting conceptual ideas most suited to their emerging practice. The plurality of information aesthetics-a kind of dispersed theoretical territory-facilitated picking and choosing that suited the artists. Mohr and Molnar did not promise to explain both the aesthetic experience and the properties for generating that experience, though mathematicians Nees and Nake attempted such experiments with varying success <ref type="bibr" target="#b15">(Nake 1974</ref><ref type="bibr" target="#b18">(Nake , 2012;;</ref><ref type="bibr" target="#b19">Nees 1969)</ref>. Instead, the artists took the general framework of Bense and the technical vocabulary that information aesthetics provided and attempted to create unique digital systems for art production. Though Mohr and Molnar took a quasi-empirical approach and were attracted to the idea of seeking a 'concrete answer' <ref type="bibr">(Molnar 1975, 185)</ref> to the mysteries of aesthetic appreciation, they took different elements from Bense's theories. After an intensive study of generative aesthetics, Mohr focused on the semiotic state of the sign in art. His work concerned the semiotic relationships between signs and systems, especially his generative structures. For Molnar, the generative process held an essential subjective dimension encountered during the interactive process, something Bense's theories overlooked. The subjective process of discovering, assessing, filtering, classifying, and modifying forms was crucial for her generative system. Rather than the dislocation of subjectivity, Molnar viewed interfacing with the machine as a new habitat that offered perspective on the reality of the machine-human relationship <ref type="bibr" target="#b13">(Molnar 1975)</ref>.</p><p>For the European technological avant-garde who had formed art collectives, Bense's force of personality, creative energy, and radical approach to aesthetics proved alluring. Seeking a scientific approach to new materials, the artists in the New Tendency movement in Zagreb, Yugoslavia, saw Bense's technical vision as prophetic. Such was his impact that the organisers of Tendencies 4 in 1969 declared Bense and Moles's information aesthetics as the 'new theoretical basis' of visual research <ref type="bibr">(Rosen 2012, 105)</ref>. The philosophy driving the Computer Technique Group, the collective that formed in Japan under the leadership of Hiroshi Hawano, was inspired directly by Bense. Bense's work at the University of Stuttgart was also held in such high esteem by the London-based curator Jasia Reichardt; she credits Bense as one of the motivations behind the first large-scale, globally influential exhibit on computers in the arts, Cybernetic Serendipity (1968). When Bense's 'Projects of Generative Aesthetics' was translated into English in Reichardt's influential edition Cybernetics, Art and Ideas <ref type="bibr" target="#b23">(Reichardt 1971)</ref>, his ideas spread to Anglo-American computer artists.</p><p>Undoubtedly, Bense's generative aesthetics, first outlined in February 1965, has endured and now finds permanency in digital art discourse. Arguably, he is the most cited philosopher within the genre. However, the Bensian legacy, like his aesthetic theory, is manifold. The scandal surrounding the 1965 exhibition represents a complex cultural moment unexplained by the simple binaries of artificial versus natural or human versus machine. Evidenced by the geometric abstraction of Stankowski and Kapitzki, information theory and cybernetics had permeated portions of modernist art long before the first exhibited examples of computer-generated art. Much of the tension, therefore, hinged not on the outward desire to reconcile art and technology but on who would lead that charge.</p><p>The term 'generative' is now imbued with significant culture cache due mainly to its widespread use in artificial intelligence discourse. The prevalence of Generative AI, which signals the class of algorithms that generate content autonomously from large data sets, has driven renewed interest in all generative art forms. While generative seems now inextricably linked to AI, it is worth remembering that Bense conceptualised the term under the auspices of semiotics and language grammars. By the late 1970s, the theoretical lens shifted toward biological models based on metaphors of growth and transformation. Ironically, the idea of the generative formed its own mythos, defying Bense's attempts to resist mythmaking. Under this new conception of generativity, artists imagined the computer as an infinite machine that provided access to a vast and previously unexplored metaphysical frontier. <ref type="foot" target="#foot_5">4</ref> But even within the 'meta creative' paradigm that prevailed, the seed of Bense's ideas remains like an ancient genetic code, a fossil from which all later ideas have evolved.</p><p>Recently, Bense's ideas have been revisited, this time understood through the political. In the recent thematic issue of Art in America centred on generative art, Lindsay Caplan (2020) positioned Bense's project as part of a larger social conscience that imagined 'generative art as a means of catalysing a more engaged public community and a more transparent, participatory, and democratic world'. A new generation of scholars and artists is discovering the provocative philosopher anew. Like the young intellectuals and artists of the 1960s, they see in his ideas a path to understanding the fast-evolving and increasingly contested digital world in which we live.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Disclosure statement</head><p>No potential conflict of interest was reported by the author(s). </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Notes on contributor</head></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head>Figure 1 .</head><label>1</label><figDesc>Figure 1. The six computer-generated drawings, completed by Georg Nees, were printed in Rot 19 and are believed to be included in the 1965 colloquium exhibition. (Left to right) Image 1. 8-ecke [8 corner], Image 2. 23-ecke [23 corner], Image 3. and 4. Achsenparalleler irrweg [Path parallel to axis], Image 5. Andreaskruz [Andreas cross], Image 6. Gardinen [Curtains]. Reproduced with permission from Herald and Eckhard Nees.</figDesc><graphic coords="5,59.98,506.83,372.02,76.31" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_1"><head>Figure 2 .</head><label>2</label><figDesc>Figure 2. Heinz Trökes, Baum [Tree], Oil on Canvas, 1963. Reproduced with permission from Manuel Trökes of the Trökes-Archiv.</figDesc><graphic coords="8,65.65,53.29,360.00,288.62" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_2"><head>Figure 3 .</head><label>3</label><figDesc>Figure 3. Herbert W. Kapitzki, cover design for series of books, Westdeutscher Verlag, Köln und Opladen, 1962-1966. Reproduced with permission from Springer Nature.</figDesc><graphic coords="9,65.65,53.29,360.00,543.97" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_3"><head>Figure 4 .</head><label>4</label><figDesc>Figure 4. Anton Stankowski, Light/Dark with Lines, Study, 1964. Reproduced with permission from Stankowski-Stiftung.</figDesc><graphic coords="11,65.65,53.29,360.00,246.10" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_4"><head></head><label></label><figDesc>Grant D. Taylor is a professor of art and art history and Director of Creative Arts at Lebanon Valley College, Pennsylvania, USA. He is the author of When the Machine Made Art: The Troubled History of Computer Art (Bloomsbury Academic, 2014).</figDesc></figure>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="1" xml:id="foot_0"><p>For examples of recent critiques of Bense's information aesthetics other than those provided by<ref type="bibr" target="#b16">Nake (2005,</ref> </p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" xml:id="foot_1"><p>2009, 2012), see(Pias 2007, 110-133)  and(Crowther 2019, 59-60).</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="4" xml:id="foot_2"><p>G. D. TAYLOR</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="2" xml:id="foot_3"><p>Generously provided byHans-Christian von Herrmann (von Herrmann, pers. comm., September 15, 2019), this quotation is taken from the English translation of the presentation version 'Künstliche Kunst. Abstraktion als Mimesis' ['Artificial Art or Mimesis by Abstraction'] (von Herrmann 2010).</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="3" xml:id="foot_4"><p>Hans Dehlinger studied Architecture at The University of Stuttgart in the early 1960s and later became a computer artist. He was familiar with Bense's orbit and described Stuttgart's academic competitiveness and disciplinary protectionism at the time as 'Schrebergarten-Mentalität' (Hans Dehlinger, pers. Comm., June 2, 2024).</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="4" xml:id="foot_5"><p>See author's When the Machine Made Art: The Troubled History of Computer Art<ref type="bibr" target="#b29">(Taylor 2014</ref>) for a wider discussion on the metaphysical and 'metacreative' paradigms in digital art.</p></note>
+		</body>
+		<back>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<monogr>
+		<title level="m" type="main">Aesthetica: Einführung in die Neue Aesthetik</title>
+		<author>
+			<persName><forename type="first">Max</forename><surname>Bense</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1965">1965</date>
+			<publisher>Agis-Verlag</publisher>
+			<pubPlace>Baden-Baden</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<title level="a" type="main">Computer-Grafik</title>
+		<author>
+			<persName><forename type="first">Max</forename><surname>Bense</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Georg</forename><surname>Nees</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Rot 19</title>
+		<editor>
+			<persName><forename type="first">Max</forename><surname>Bense</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">Elisabeth</forename><surname>Walther</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Stuttgart</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="1965">1965</date>
+			<biblScope unit="page" from="3" to="10" />
+		</imprint>
+		<respStmt>
+			<orgName>Stuttgart Institute of Technology</orgName>
+		</respStmt>
+	</monogr>
+	<note>self-published pamphlet</note>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<monogr>
+		<title level="m" type="main">Aesthetic Measure</title>
+		<author>
+			<persName><forename type="first">George</forename><surname>Birkhoff</surname></persName>
+		</author>
+		<author>
+			<persName><surname>David</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1933">1933</date>
+			<publisher>Harvard University Press</publisher>
+			<pubPlace>Cambridge</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title level="a" type="main">The Social Conscience of Generative</title>
+		<author>
+			<persName><forename type="first">Lindsay</forename><surname>Caplan</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Art in America</title>
+		<imprint>
+			<biblScope unit="volume">108</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="50" to="57" />
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<monogr>
+		<author>
+			<persName><forename type="first">Norm</forename><surname>Chomsky</surname></persName>
+		</author>
+		<title level="m">Syntactic Structures</title>
+		<meeting><address><addrLine>The Hague</addrLine></address></meeting>
+		<imprint>
+			<publisher>Mouton</publisher>
+			<date type="published" when="1957">1957</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<monogr>
+		<title level="m" type="main">Digital Art, Aesthetic Creation: The Birth of a Medium</title>
+		<author>
+			<persName><forename type="first">Paul</forename><surname>Crowther</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2019">2019</date>
+			<publisher>Routledge</publisher>
+			<pubPlace>London</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<monogr>
+		<title level="m" type="main">Bald krumme Linien</title>
+		<author>
+			<persName><forename type="first">Der</forename><surname>Spiegel</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1965">1965. 1965</date>
+			<biblScope unit="volume">18</biblScope>
+			<biblScope unit="page" from="151" to="152" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title level="a" type="main">Programming the Beautiful&apos;: Informatic Color and Aesthetic Transformations in Early Computer Art</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">L</forename><surname>Kane</surname></persName>
+		</author>
+		<idno type="DOI">10.1177/0263276409350359</idno>
+		<ptr target="https://doi.org/10.1177/0263276409350359" />
+	</analytic>
+	<monogr>
+		<title level="j">Theory, Culture &amp; Society</title>
+		<imprint>
+			<biblScope unit="volume">27</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="73" to="93" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<monogr>
+		<author>
+			<persName><forename type="first">Herbert</forename><forename type="middle">W</forename><surname>Kapitzki</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Herbert</forename><forename type="middle">W</forename><surname>Kapitzki</surname></persName>
+		</author>
+		<title level="m">Method and Consequences</title>
+		<meeting><address><addrLine>Stuttgart/London</addrLine></address></meeting>
+		<imprint>
+			<publisher>Axel Menges</publisher>
+			<date type="published" when="1997">1997</date>
+		</imprint>
+	</monogr>
+	<note type="report_type">A Biographical Report</note>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<monogr>
+		<title level="m" type="main">Manfred Mohr&apos;s Abstract Aesthetic</title>
+		<author>
+			<persName><forename type="first">Marion</forename><surname>Keiner</surname></persName>
+		</author>
+		<editor>Marion Keiner, Thomas Kurtz, and Mihai Nadin</editor>
+		<imprint>
+			<date type="published" when="1994">1994</date>
+			<publisher>Waser Verlag</publisher>
+			<biblScope unit="page" from="138" to="155" />
+			<pubPlace>Zürich</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title level="a" type="main">Computer Graphic-Aesthetic Experiments between Two Cultures</title>
+		<author>
+			<persName><forename type="first">Christoph</forename><surname>Klütsch</surname></persName>
+		</author>
+		<idno type="DOI">10.1162/leon.2007.40.5.421</idno>
+		<ptr target="https://doi.org/10.1162/leon.2007.40.5.421" />
+	</analytic>
+	<monogr>
+		<title level="j">Leonardo</title>
+		<imprint>
+			<biblScope unit="volume">40</biblScope>
+			<biblScope unit="issue">5</biblScope>
+			<biblScope unit="page" from="421" to="425" />
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title level="a" type="main">Information Aesthetic and the Stuttgart School</title>
+		<author>
+			<persName><forename type="first">Christoph</forename><surname>Klütsch</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Mainframe Experimentalism: Early Computing and the Foundations of The Digital Arts</title>
+		<editor>
+			<persName><forename type="first">Hannah</forename><surname>Higgins</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">Douglas</forename><surname>Kahn</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Berkeley</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2012">2012</date>
+			<biblScope unit="page" from="65" to="89" />
+		</imprint>
+		<respStmt>
+			<orgName>University of California</orgName>
+		</respStmt>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<monogr>
+		<title level="m" type="main">Meggs&apos; History of Graphic Design</title>
+		<author>
+			<persName><forename type="first">Philip</forename><forename type="middle">B</forename><surname>Meggs</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Alston</forename><forename type="middle">W</forename><surname>Purvis</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2012">2012</date>
+			<publisher>John Wiley &amp; Sons</publisher>
+			<pubPlace>Hoboken, N.J</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<title level="a" type="main">Towards Aesthetic Guidelines for Paintings with the Aid of a Computer</title>
+		<author>
+			<persName><forename type="first">Vera</forename><surname>Molnar</surname></persName>
+		</author>
+		<idno type="DOI">10.2307/1573236</idno>
+		<ptr target="https://doi.org/10.2307/1573236" />
+	</analytic>
+	<monogr>
+		<title level="j">Leonardo</title>
+		<imprint>
+			<biblScope unit="volume">8</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="185" to="189" />
+			<date type="published" when="1975">1975</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<monogr>
+		<author>
+			<persName><forename type="first">Charles</forename><surname>Morris</surname></persName>
+		</author>
+		<title level="m">Foundations of the Theory of Signs</title>
+		<meeting><address><addrLine>Chicago</addrLine></address></meeting>
+		<imprint>
+			<publisher>University of Chicago Press</publisher>
+			<date type="published" when="1938">1938</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<monogr>
+		<author>
+			<persName><forename type="first">Frieder</forename><surname>Nake</surname></persName>
+		</author>
+		<title level="m">Ästhetik als Informationsverarbeitung</title>
+		<meeting><address><addrLine>New York</addrLine></address></meeting>
+		<imprint>
+			<publisher>Springer-Verlag</publisher>
+			<date type="published" when="1974">1974</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<title level="a" type="main">Computer Art. A Personal Recollection</title>
+		<author>
+			<persName><forename type="first">Frieder</forename><surname>Nake</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Proceedings of the 5th Conference on Creativity &amp; Cognition</title>
+		<meeting>the 5th Conference on Creativity &amp; Cognition<address><addrLine>London, United Kingdom</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2005">2005</date>
+			<biblScope unit="page" from="54" to="62" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<analytic>
+		<title level="a" type="main">The Semiotic Engine: Notes on the History of Algorithmic Images in Europe</title>
+		<author>
+			<persName><forename type="first">Frieder</forename><surname>Nake</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/00043249.2009.10791337</idno>
+		<ptr target="https://doi.org/10.1080/00043249.2009.10791337" />
+	</analytic>
+	<monogr>
+		<title level="j">Art Journal</title>
+		<imprint>
+			<biblScope unit="volume">68</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="76" to="89" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<analytic>
+		<title level="a" type="main">Information Aesthetics: An Heroic Experiment</title>
+		<author>
+			<persName><forename type="first">Frieder</forename><surname>Nake</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/17513472.2012.679458</idno>
+		<ptr target="https://doi.org/10.1080/17513472.2012.679458" />
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Mathematics and the Arts</title>
+		<imprint>
+			<biblScope unit="volume">6</biblScope>
+			<biblScope unit="page" from="65" to="75" />
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<monogr>
+		<title level="m" type="main">Generative Computergraphik. Munich: Siemens</title>
+		<author>
+			<persName><forename type="first">Georg</forename><surname>Nees</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1965-04-10">1969. 1965. April 10: 8</date>
+			<pubPlace>New York Herald Tribune</pubPlace>
+		</imprint>
+	</monogr>
+	<note>Computer-Generated Pictures</note>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<monogr>
+		<title level="m" type="main">The Collected Papers of Charles Sanders Peirce</title>
+		<author>
+			<persName><forename type="first">Christiane</forename><surname>Paul</surname></persName>
+		</author>
+		<editor>Charles Hartshorne and Paul Weiss</editor>
+		<imprint>
+			<date type="published" when="1933">2016. 1933</date>
+			<publisher>Harvard University Press</publisher>
+			<pubPlace>Hoboken, New Jersey; Cambridge</pubPlace>
+		</imprint>
+	</monogr>
+	<note>A Companion to Digital Art</note>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<analytic>
+		<title level="a" type="main">Hollerith &apos;Feathered Crystal&apos;&quot;: Art, Science, and Computing in the Era of Cybernetics</title>
+		<author>
+			<persName><forename type="first">Claus</forename><surname>Pias</surname></persName>
+		</author>
+		<idno type="DOI">10.1162/grey.2007.1.29.110</idno>
+		<ptr target="https://doi.org/10.1162/grey.2007.1.29.110" />
+	</analytic>
+	<monogr>
+		<title level="j">Translated by P Krapp. Grey Room</title>
+		<imprint>
+			<biblScope unit="volume">29</biblScope>
+			<biblScope unit="page" from="110" to="134" />
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<analytic>
+		<title level="a" type="main">Art Ex Machina</title>
+		<author>
+			<persName><forename type="first">Stuart</forename><surname>Preston</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">New York Times</title>
+		<imprint>
+			<date type="published" when="1965-04-18">1965. April 18, X23</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<monogr>
+		<title level="m" type="main">Cybernetics, Art, and Ideas</title>
+		<author>
+			<persName><forename type="first">Jasia</forename><surname>Reichardt</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1971">1971</date>
+			<publisher>New York Graphic Society</publisher>
+			<pubPlace>Greenwich, Conn</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<analytic>
+		<title level="a" type="main">They Have All Dreamt of the Machines-And Now the Machines Have Arrived&quot;: New Tendencies-Computers and Visual Research, Zagreb, 1968-1960</title>
+		<author>
+			<persName><forename type="first">Margit</forename><surname>Rosen</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Mainframe Experimentalism: Early Computing and the Foundations of The Digital Arts</title>
+		<editor>
+			<persName><forename type="first">Hannah</forename><surname>Higgins</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">Douglas</forename><surname>Kahn</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Berkeley</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2012">2012</date>
+			<biblScope unit="page" from="90" to="111" />
+		</imprint>
+		<respStmt>
+			<orgName>University of California</orgName>
+		</respStmt>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<monogr>
+		<title level="m" type="main">The Mathematical Theory of Communication</title>
+		<author>
+			<persName><forename type="first">Claude</forename><surname>Shannon</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Warren</forename><surname>Weaver</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1949">1949</date>
+			<publisher>University of Illinois Press</publisher>
+			<pubPlace>Urbana, IL</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<analytic>
+		<title level="a" type="main">Fractal Graphic Designer Anton Stankowski</title>
+		<author>
+			<persName><forename type="first">V</forename><surname>Shlyk</surname></persName>
+		</author>
+		<idno type="DOI">10.1162/leon.2007.40.4.382</idno>
+		<ptr target="https://doi.org/10.1162/leon.2007.40.4.382" />
+	</analytic>
+	<monogr>
+		<title level="j">Leonardo</title>
+		<imprint>
+			<biblScope unit="volume">40</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="382" to="387" />
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b27">
+	<monogr>
+		<title level="m" type="main">Visual Presentation of Invisible Processes: How to Illustrate Invisible Processes in Graphic Design</title>
+		<author>
+			<persName><forename type="first">Anton</forename><surname>Stankowski</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1967">1967</date>
+			<publisher>Arthur Niggli</publisher>
+			<pubPlace>Teufen, AR, Switzerland</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b28">
+	<monogr>
+		<author>
+			<persName><forename type="first">Anton</forename><surname>Stankowski</surname></persName>
+		</author>
+		<title level="m">Anton Stankowski: Painting and Visual Information 1927-1975</title>
+		<meeting><address><addrLine>New York</addrLine></address></meeting>
+		<imprint>
+			<publisher>Goethe House New York</publisher>
+			<date type="published" when="1975">1975</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b29">
+	<monogr>
+		<title level="m" type="main">When the Machine Made Art: The Troubled History of Computer Art</title>
+		<author>
+			<persName><forename type="first">Grant</forename><forename type="middle">D</forename><surname>Taylor</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2014">2014</date>
+			<publisher>Bloomsbury Academic</publisher>
+			<pubPlace>New York and London</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b30">
+	<analytic>
+		<title level="a" type="main">Computer-Generated Pictures</title>
+	</analytic>
+	<monogr>
+		<title level="j">Time</title>
+		<imprint>
+			<date type="published" when="1965-04-23">1965. April 23</date>
+			<pubPlace>NY6</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b31">
+	<analytic>
+		<title level="a" type="main">Künstliche Kunst. Abstraktion als Mimesis</title>
+		<author>
+			<persName><forename type="first">H</forename><surname>Von Herrmann</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Prekäre Bilder</title>
+		<editor>
+			<persName><forename type="first">T</forename><surname>Bothe</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">R</forename><surname>Suter</surname></persName>
+		</editor>
+		<meeting><address><addrLine>München</addrLine></address></meeting>
+		<imprint>
+			<publisher>Wilhelm Fink</publisher>
+			<date type="published" when="2010">2010</date>
+			<biblScope unit="page" from="225" to="245" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b32">
+	<monogr>
+		<title level="m" type="main">Cybernetics or Control and Communication in the Animal and the Machine</title>
+		<author>
+			<persName><forename type="first">Norbert</forename><surname>Wiener</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1961">1961</date>
+			<publisher>The MIT Press</publisher>
+			<pubPlace>Cambridge</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

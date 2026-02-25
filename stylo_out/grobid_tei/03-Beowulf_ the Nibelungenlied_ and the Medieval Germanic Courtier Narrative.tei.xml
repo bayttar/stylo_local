@@ -1,0 +1,1017 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Beowulf, the Nibelungenlied, and the Medieval Germanic Courtier Narrative</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author role="corresp">
+							<persName><forename type="first">Leonard</forename><surname>Neidorf</surname></persName>
+							<email>neidorf@szu.edu.cn</email>
+							<affiliation key="aff0">
+								<orgName type="department">English Department</orgName>
+								<orgName type="institution">Shenzhen University</orgName>
+								<address>
+									<settlement>Shenzhen</settlement>
+									<country>People&apos;s Republic of China</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Beowulf, the Nibelungenlied, and the Medieval Germanic Courtier Narrative</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date/>
+						</imprint>
+					</monogr>
+					<idno type="MD5">DCD78CFFC0999E2B8B9CB0D89B3ECBAF</idno>
+					<idno type="DOI">10.1080/0013838X.2026.2615906</idno>
+					<note type="submission">Received 1 December 2025 Accepted 31 December 2025</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.0" ident="GROBID" when="2026-02-25T19:51+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term>Beowulf</term>
+					<term>Nibelungenlied</term>
+					<term>Old English</term>
+					<term>Middle High German</term>
+					<term>courtliness</term>
+				</keywords>
+			</textClass>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>The present article catalogues and analyzes a collection of motifs that Beowulf shares with the Nibelungenlied. It argues that these motifs constitute a courtier narrative, which focuses on a hero's arrival at a foreign court, the impression that he makes on foreign courtiers, the elevation of his status after serving a weak king, and the opposition that he faces from a domineering queen. The courtier narrative within the Nibelungenlied had been identified, but newfound recognition of the presence of this literary form in Beowulf sheds considerable light on the poet's aesthetic priorities and the character types informing the poem's dramatis personae. The relationships between Beowulf, Hrothgar, Wealhtheow, and Unferth are profoundly illuminated by the relationships between Siegfried, Gunther, Brunhild, and Hagen in the Nibelungenlied, a work that offers lengthier depictions of each character and clearer insights into their motivations. Beowulf emerges from the propounded interpretation as a courtlier work than it is conventionally considered to be.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Introduction</head><p>C. Stephen Jaeger's seminal 1985 monograph, The Origins of Courtliness: Civilizing Trends and the Formation of Courtly Ideals, 939-1210, is a work that ought to have revised medievalists' understanding of their period's literary history, but it is fair to say that it has not had such an effect for most medievalists. <ref type="bibr">1</ref> It remains the case that when scholars think of the emergence of medieval courtliness and the earliest courtly literature, they still think of twelfth-century France rather than (as Jaeger would encourage) tenth-century Germany. Certainly, they do not think of earlier Germanic works such as Beowulf, which goes unmentioned even in Jaeger's book and antedates the period on which he focused. <ref type="bibr">2</ref> Beowulf is almost never considered a work of courtly literature, yet the present article contends that it is and aims to demonstrate that significant 1 See Jaeger, Origins of Courtliness; for discussion of the book's reception, see Jaeger, "Origins of Courtliness after 25 Years." For other studies with related literary-history implications, see Barthélemy, La chevalerie; Crouch, The Birth of Nobility; Scaglione, Knights at Court.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>2</head><p>There are, to date, only two concerted efforts to argue at length for regarding Beowulf as a courtly poem: see Stanley, "Courtliness and Courtesy in Beowulf"; Neidorf, Art and Thought, 61-112. Beowulf is typically not mentioned in books about courtly literature: see, e.g., the collections of essays on courtly literature edited by Altmann and Carroll, The Court Reconvenes; Busby and Kooper, Courtly Literature; Nelson-Campbell and Cholakian, The Legacy of Courtly Literature. There is, however, a brief discussion of Beowulf in Burnley, Courtliness and Literature in Medieval England, 11-14.  insights into the poem can be obtained by viewing it through the lens of the "courtier narrative", a literary structure posited and analysed by Jaeger. After providing examples from Gottfried von Strassburg's Tristan, the first half of the Nibelungenlied, and a tale in Walter Map's De Nugis Curialium, Jaeger identifies the common features of the courtier narrative form:</p><p>[A] stranger appears at court, dazzles the king and his court with his charm and talents, rises swiftly to favor and power, inspires envy, and becomes entangled in romantic complications with a woman close to the ruler, and these lead to his eventual fall. This form operates in the mode of tragedy … The prince is portrayed as weak and sensual, petty and arbitrary; the court consists of flatterers and detractors, ambitious and unscrupulous intriguers. <ref type="bibr">3</ref> At first glance, Beowulf might not appear to fit the mould of the paradigmatic courtier narrative. Beyond the minor problems that come to mind when pondering Jaeger's definition, there is one rather conspicuous respect in which Beowulf fails to conform to the pattern: its hero never becomes "entangled in romantic complications with a woman close to the ruler". <ref type="bibr">4</ref> Nevertheless, as will be made clear below, it is a woman close to the rulernamely, the Danish queen Wealhtheowwho prompts Beowulf's departure from the Danish court and brings his courtier narrative to an end. The story of Beowulf's arrival in and departure from Denmark may not perfectly resemble the later medieval narratives discussed by Jaeger, but the present article will demonstrate that it exhibits such an extraordinary array of shared motifs with one of his examplesthe first half of the Nibelungenliedthat common descent from a coherent narrative tradition appears highly probable.</p><p>When considered at a surface level, Beowulf and the Nibelungenlied appear to display salient reasons for scholars to refrain from comparing the narratives with which they begin. Their protagonists are driven by entirely different motivations. Beowulf travels to Denmark because he has heard of the monster tormenting the Danes, and he wishes to win honour and fame by killing this monster. Siegfried travels to Burgundy because he has heard that the most beautiful woman in the world lives there, and he wishes to win "noble love" (hôhe minne, st. 47) by obtaining her hand in marriage. <ref type="bibr">5</ref> There are, moreover, such notable differences of style and narrative pacing between these works that one could reasonably believe that they belong not merely to different centuries, but to different worlds. The courtliness of the Nibelungenlied is far more overt. Before the end of its twelfth stanza, the poet has introduced a wide range of the court personnel, including Rumolt the kitchen-master, Sindolt the cup-bearer, and Hunolt the chamberlain. The poet praises the illustrious "chivalry" (ritterscaft, st. 12) practiced at the Burgundian court. There is also considerably more attention paid to the refinements of court life, especially to the splendid clothing produced and worn by the poem's characters. Beowulf, in contrast, is a shorter poem with faster pacing and a style that is often terse or understated. Courtly elements are certainly thereminor 3 Jaeger, Origins of Courtliness, 237-8.   4   On the absence of a marriage plot for the hero in Beowulf and its contrastive presence in the poem's analogues (in which the hero wins the hand of the king's daughter), see North, The Origins of Beowulf, 110-15; Leneghan, The Dynastic  Drama of Beowulf, 130-31; Neidorf, "Beowulf and Freawaru."   5   The text of the Nibelungenlied is cited throughout by stanza number from de Boor. Translations are cited throughout from Edwards.  court personnel matter, and noble accoutrements are importantbut these elements receive less emphasis and elaboration in Beowulf than they do in the Nibelungenlied. The difference, however, is one of degree rather than kind. Both works, it will be argued, are fundamentally courtly and exhibit a recognisable set of motifs belonging to the medieval Germanic courtier narrative.</p><p>The present article develops its argument across two sections. The first section is intended to catalogue the motifs shared between the courtier narratives in Beowulf and the Nibelungenlied. The second section considers the interpretive implications of these shared motifs. The four most prominent characters in Beowulf -Hrothgar, Wealhtheow, Unferth, and the protagonistappear in a rather different light once the Danish portion of the poem is understood to be a courtier narrative, a designation that has never previously been applied to it. This framework clarifies the motivations of these characters and enables readers to perceive more clearly the subtle court drama that is created by Beowulf's presence at the Danish court. Like Siegfried in Burgundy, Beowulf is a destabilising presence in Denmark: despite his benevolence, his excellence threatens the existing court dynamics and provokes strong reactions from those committed to the preservation of the status quo. Scholars have previously perceived aspects of this Danish court drama, but the matter becomes much clearer in the light of the Nibelungenlied, where an analogous narrative is related at greater length and more explicit insights into the motivations of the dramatis personae are provided. <ref type="bibr">6</ref> Finally, the literary-historical implications of the designation of Beowulf as a courtier narrative are considered in the article's conclusion. It is suggested there that other works, including Ruodlieb and Herzog Ernst, attest to the circulation and relative antiquity of this narrative structure in West Germanic oral tradition.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Shared Motifs</head><p>The narrative constituting the first part of Beowulf (the hero's adventure in Denmark) shares a remarkable number of motifs with the narrative constituting the first part of the Nibelungenlied (the hero's adventure in Burgundy). Before cataloguing them, some preliminary remarks are necessary. These motifs are not of equal importance to the categorisation of the two works as courtier narratives. Some motifs are widely distributed, whereas others fundamentally define and constitute this narrative structure. Additionally, it should be noted that the shared motifs do not necessarily occur in the same chronological order in the two works. Some are displaced, yet such displacement arguably renders their presence an all the more telling sign that the poet is drawing on a coherent collection of motifs associated with a traditional narrative structure. Lastly, it should be remembered that the probability of influence from a common tradition hinges not on a single shared motif, but on the aggregate body of narrative material shared between these two works. Motifs are catalogued below essentially in the order in which they appear in the Nibelungenlied. This decision was grounded in the fact 6 For discussion of aspects of this court drama, see Biggs, "The Politics of Succession in Beowulf"; Bremmer, "The Importance of Kinship"; Hill, "Beowulf and the Danish Succession"; Leneghan, The Dynastic Drama of Beowulf; Momma, "The Education of Beowulf"; Shippey, "Principles of Conversation in Beowulfian Speech".</p><p>that Jaeger already identified the Nibelungenlied as a courtier narrative, whereas the question of whether this designation suits Beowulf remains to be determined.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>(a) Hero Learns at Home</head><p>Siegfried is motivated to leave home by hearing that the beautiful Kriemhild resides in Burgundy. Beowulf is motivated to leave home by hearing that the monstrous Grendel preys upon Denmark. We are told in the Nibelungenlied: "He heard tidings of how there was in Burgundy a beautiful maiden, of perfect loveliness, from whom he was in time to come to gain great joy, but also suffering" (er hôrte sagen maere, wie ein scoeniu meit / waere in Burgonden, ze wunsche wolgetân, / von der er sît vil vreuden und ouch arbeit gewan, st. 44). Similarly in Beowulf: "At home, Hygelac's man, good among the Geats, heard about that, Grendel's doings" (Þaet fram hām gefraegn Higelāces þegn /gōd mid Gēatum, Grendles daēda, ll. 194-95). 7 (b) Dissuasion from Departure Siegfried's parents, hearing of his intentions, attempt to dissuade him from travelling to Burgundy (sts 50-51, 60-62). His mother, knowing the reputation of Gunther and his men, feels concerned for her son's safety. We are told: "They tried their hardest to deter the knight from his wooing" (den gewerp man dem degene sêre leiden began, st. 51). An effort to dissuade Beowulf from going to Denmark was also made, though we learn about it only after Beowulf has returned home. Hygelac, greeting his returned kinsman, says to him: "I repeatedly asked you not to approach the butchering spirit at all, let the South-Danes themselves settle their war with Grendel" (ic ðē lange baed / þaet ðū þone waelgaēst wihte ne grētte, / lēte Sūð-Dene sylfe geweorðan / gūðe wið Grendel, ll. 1994b-97a).</p><p>(c) Retinue Formation Siegmund, Siegfried's father, offers his son an army to take with him to Burgundy. Siegfried rejects the offer and insists on travelling with a small retinue. He says: "I will go with twelve others into Gunther's land" (ich wil selbe zwelfte in Gunthêres lant, st. 59). Beowulf likewise refrains from bringing an army to Denmark. He decides instead to travel in a group of fifteen: "The good one had selected fighters from among the men of the Geats, the boldest he could find. One of fifteen, he went to the sailing-wood" (Haefde se gōda Gēata lēoda / cempan gecorone, þāra þe hē cēnoste / findan mihte. Fīftȳna sum / sundwudu sōhte, ll. 205-8a).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>(d) Outfitting of the Hero</head><p>There are numerous references in the Nibelungenlied to the clothing that Siegfried and his men would wear on their journey to Burgundy. Right after Siegfried declares that 7</p><p>The text of Beowulf is cited throughout by line number from Fulk, Bjork, and Niles. Translations are cited throughout from Fulk.</p><p>he will travel with eleven companions, the narrator notes: "Then they gave to his knights grey and coloured garments" (dô gap man sînen degenen ze kleidern grâ und bunt, st. 59). Siegfried then asks his mother to outfit his troop suitably (st. 62), and she agrees to supply him "with the best garments a knight ever wore" (mit der besten waete, die ritter ie getruoc, st. 63). Siegmund likewise prepares and inspects his son's arms and armour (st. 66). When Siegfried and his troop arrive in Worms, the narrator pauses to focus on their clothing yet again:</p><p>Ir schilde wâren niuwe, lieht unde breit, und vil scoenę ir helme, dâ ze hove reit Sîvrit der vil küene in Guntheres lant. man gesach an helden nie sô hêrlîch gewant. (st. 72)</p><p>[Their shields were new, bright, and broad, and their helmets most handsome, when valiant Sivrit rode to court there, into Gunther's land. Never were heroes seen to wear such splendid garments.]</p><p>As the passages discussed in connection with the next motif indicate, these references to the hero's clothing are not structurally superfluous: the clothing conditions the hero's reception at the foreign court and helps him to obtain an audience with the king. That holds true in Beowulf as well, where there are likewise several references to the clothing worn by the hero and his men. When Beowulf boards the ship on which he will sail to Denmark, the narrator notes: "Champions hauled into the bosom of the craft gleaming equipment, stately battle-gear" (Secgas baēron / on bearm nacan beorhte fraetwe, / gūðsearo ġeatoliċ, ll. 213b-15a). The Danish coastguard, greeting and interrogating the newly arrived Geats, takes note of their armour and proclaims the hero "ennobled by weapons" (waēpnum geweorðad, l. 250a). <ref type="bibr">8</ref> As the Geats advance, a description of Beowulf's helmet is provided (ll. 303b-5a), and when they arrive at Heorot, their armour shines (ll. 321b), their mail-shirts resound (ll. 322b-23a, 327b-28a), and the whole troop is said to be "ennobled by weapons" (waēpnum gewurþad, l. 331a).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>(e) Clothing Makes the Man</head><p>In both works, the announcement of the hero's arrival is accompanied by a declaration that he is well-dressed. In the Nibelungenlied, the relevant passage reads: "By now the tidings had been told to the king that most gallant knights had arrived there, wearing shining breastplates and splendid garments" (Nû wâren dem künege diu maere geseit, / daz dâ komen waeren riter vil gemeit, / die fuorten wîze brünne und hêrlîch gewant, st. 79). In Beowulf, the Danish courtier Wulfgar, who is praised for his decorous bodily comportment (ll. 356-59), informs king Hrothgar of the hero's arrival and tells him: "In their war-dress they seem worthy of the esteem of men" (Hȳ on wīggetawum wyrðe þinceað / eorla geaehtlan, ll. 368-9a). The latter makes explicit the logic of the former, namely, that the newly arrived hero's impressive clothing establishes that he is worthy of a royal audience.</p><p>(f) Surface Assessment 8 See Hill, "Beowulf as Seldguma," for a subtle and perceptive reading of this passage. The purpose of the coastguard's observation is to declare that Beowulf, to judge from his appearance, must be a genuine nobleman rather than an impostor donning a nobleman's clothing: appearance and reality are in alignment.</p><p>Hagen is summoned to assess the new arrivals. Before revealing the hero's backstory, he offers a first impression:</p><p>Er sprach, von swannen koemen die recken an den Rîn, ez möhten selbe fürsten oder fürsten boten sîn. ir ross diu waeren scoene, ir kleider harte guot. von swannen daz si füeren, si waeren hôhe gemuot. (st. 85)   [He said that wherever those warriors had come from to the Rhine, they might be princes themselves, or princes' messengers. Their chargers were handsome, their garments excellent. No matter where they had travelled from, they were high-spirited.]</p><p>An analogous passage occurs in Beowulf, when Wulfgar assesses the newly arrived Geats and shares with them his first impression:</p><p>Ne seah ic elþēodige þus manige men mōdiglīcran. Wēn' ic þaet gē for wlenco, nalles for wraecsīðum ac for higeþrymmum, Hroðgar sohton. (ll. 336b-39)   [I have not seen more vigorous outlanders in such numbers. I expect you have come to see Hrothgar out of daring, not on account of exile but out of determination.]</p><p>In both works, the purpose of the passage is the same. It functions to make clear that on the basis of appearance alone, the hero can be identified by foreign courtiers as a bold and impressive nobleman, who deserves to be permitted to enter the court and meet the king.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>(g) Revelation of Hero's Backstory</head><p>After offering his first impression, Hagen surmises that the newly arrived hero is Siegfried, and he proceeds to tell the court what he knows of this hero. Hagen then relates a lengthy backstory in which Siegfried is appointed arbiter by two brothers, Schilbung and Nibelung, of their father's treasure; when Siegfried falls out with the brothers, he is forced to fight and kill their followers, including twelve giants and seven hundred solders; he also subdues the dwarf Alberich, from whom he gains a cloak of invisibility; and he goes on to kill a dragon and bathe in its blood, thereby acquiring impenetrable skin (sts. 86-101). In Beowulf, the hero's backstory is told at the provocation of Unferth, a figure similar to Hagen in several striking respects (discussed below), who claims, like Hagen, to have heard of the hero prior to his arrival at Heorot. Unferth asks the hero if he is the same Beowulf who lost a swimming contest to Breca (ll. 506-28). Beowulf responds by affirming that he is the one, but he did he not exactly lose the swimming contest: a tumultuous current drove him and Breca apart, and then a sea-monster dragged Beowulf to the bottom of the ocean, where he proceeded to kill no fewer than nine sea-monsters who were intending to feast on him (ll. 530-606). Beowulf's backstory resembles Siegfried's in one notable respect: in both cases, an innocuous and quotidian interactioninheritance arbitration in one case, a swimming contest in the othercauses the hero to be ambushed by an army of supernatural adversaries, whether twelve giants or nine sea-monsters, and the hero proceeds to annihilate them. For both heroes, the backstory implies finesse in both mundane and supernatural affairs, establishing him as a formidable figure, whom foreign courtiers must take seriously as either a threat or an opportunity.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>(h) Debate About the Hero</head><p>The arrival of Siegfried in Burgundy prompts an immediate debate among the royal family and their courtiers as to what to do about this formidable foreigner. Hagen concludes his account of Siegfried's backstory with the first contribution to this debate, advising the royals:</p><p>Wir suln den herren enpfâhen deste baz, daz wir iht verdienen des jungen recken haz. sîn lîp der ist sô küene, man sol in holden hân. er hât mit sîner krefte sô menegiu wunder getân. (st. 101)</p><p>[We must give the lord a good welcome to avoid earning the young warrior's enmity in any way. He is so bold that he ought to be kept on friendly terms. He has performed so many marvels, thanks to his great strength.] Gunther concurs with Hagen and agrees to descend from his throne to greet Siegfried courteously (st. 102). Ortwin, Hagen's brother, expresses a more hostile attitude toward Siegfried (sts. 116-17), but Gernot, Gunther's brother, offers the advice that carries the day, telling Ortwin that it would be more advantageous to make an ally out of Siegfried (st. 120). Beowulf's arrival in Heorot similarly prompts debate as to what to do about him, but in this case, it is not compressed into a series of short speeches at the beginning; in Beowulf, rather, an implicit debate among the Danes about the benevolent but nevertheless problematic hero takes place throughout the Danish portion of the poem. Some of this debate is immediate: Hrothgar wishes to entrust the hall to Beowulf and give him the chance to kill Grendel, whereas Unferth, who feels that his position at court is threatened by Beowulf's arrival (ll. 499-505), would rather not see Beowulf given this opportunity. A larger debate plays out, however, over the next thousand lines: Hrothgar proposes to adopt Beowulf and make him a permanent presence at the Danish court, whereas Wealhtheow, perceiving that hero's presence could threaten the Danish succession, wants to see the hero rewarded with portable wealth (rather than Danish land) and sent home. The passages articulating this debate between king and queen are discussed below.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>(i) King Receives Hero's Help</head><p>In both the Nibelungenlied and Beowulf, a weak king receives help from a preternaturally strong hero. The hero provides this help eagerly, though each work contains a scene in which the king begs the hero for help: Gunther's despairing request for Siegfried to help him subdue Brunhild in bed (sts. 649-51) can be compared to Hrothgar's despairing request for Beowulf to kill Grendel's mother (ll. 1321-82). All told, Siegfried provides Gunther with three crucial forms of help: he defeats the Saxons and Danes in war; he assists Gunther in the courtship of Brunhild in various ways; and he wrestles Brunhild into submission following Gunther's marriage to her. Beowulf helps Hrothgar, of course, by killing Grendel in Heorot and then searching out Grendel's mother in her lair and killing her there. It is interesting that in both cases, the hero's service to the king gets him involved in a wrestling match with a formidable female adversary (Brunhild for Siegfried, Grendel's mother for Beowulf). 9 (j) Elevation of Hero's Status Siegfried is rewarded for his service to Gunther by being permitted to marry Kriemhild, the king's sister. After their marriage, Siegfried is not only a prince in his homeland, but also a member of the Burgundian royal family, an in-law of the king. A similar transformation befalls Beowulf in the aftermath of his success in Denmark: plans materialise to turn him into a Danish royal as well as a Geatish prince. In addition to ample treasure, Hrothgar rewards the hero not by arranging marriage to a female kinswoman, but by adopting him as his son and thereby turning Beowulf into his kinsman. The adoption is announced in a speech Hrothgar delivers after Beowulf killed Grendel:</p><p>Nū ic, Bēowulf, þec, secg bet[e]sta, mē for sunu wylle frēogan on ferhþe; heald forð tela nīwe sibbe. Ne bið þē [n]aēnigre gad worolde wilna þe ic geweald haebbe. (ll. 946b-950)   [Now, Beowulf, noblest hero, I will cherish you in my heart as a son; henceforth observe well this new kinship. For you there will be no lack of anything desirable in the world that I have at my command.]</p><p>Critics have not always recognised that a formal adoption is effectuated in Hrothgar's words, but the language is clear enough: the phrase "new kinship" (nīwe sibbe) establishes that Beowulf is to be treated not as a metaphorical son, but as a real one and a formal kinsman of the king. <ref type="bibr">10</ref> It is clear, moreover, that Wealhtheow understands Hrothgar's words to have instantiated an adoption that threatens to disrupt the Danish succession, as her speech discussed in the next section demonstrates. In both the Nibelungenlied and Beowulf, then, the hero's service to a foreign king results in an elevation of his status that disrupts the prevailing hierarchy and worries those invested in the preservation of the status quo.</p><p>(k) Queen Sabotages Hero Siegfried's demise is engineered by Brunhild, who cannot accept the elevation of status that the hero has experienced. Brunhild, believing that Siegfried is subordinate in rank and status to Gunther, feels offended by Siegfried's marriage to Kriemhild (sts. 618-24). She resents the social parity between Siegfried and Gunther that is implied in the marriage, and she consequently sets into motion the events that would lead to Siegfried's demise (sts. 724-33). Beowulf's adventure in Denmark is also brought to an end by the wife of the weak king whom he had assisted. Wealhtheow, clearly perturbed by 9 For further discussion of connections between Brunhild and Grendel's mother, see Vowell, "Grendel's Mother and the Women". 10 For a reading of Hrothgar's speech that elucidates its legal and political force, see Hill, "Hrothgar's Speech of Adoption"; see also Braccini Wealhtheow expresses her concern that the newly adopted Beowulf, the saviour of the Danish people, could become king ahead of her children and Hrothgar's kinsmen. Beowulf, if adopted (her speech treats it as a hypothetical, though there had been nothing hypothetical about Hrothgar's speech of adoption), would be a new kinsman, unlike Hrothulf, who would remember and seek to repay the lifetime of good that Hrothgar and Wealhtheow did for him if he were chosen to be king ahead of her children. Wealhtheow, like Brunhild, cannot accept the elevation of the hero's status that her husband effectuated in reward for the hero's service. She insists that Heorot is purged (Heorot is gefaelsod), so there is no need to keep Beowulf around or integrate him into the royal family. Her speeches make clear that Hrothgar's plan to adopt Beowulf and potentially pass the throne to him would face opposition from his wife, his nephew (Hrothulf), and from all the men at court loyal to them. The final words of her speech -"The reveling men of the corps do as I ask" (druncne dryhtguman dōð swā ic bidde, l. 1231)have threatening implications. Hrothgar gets the message and revises his plans. After hearing the queen's speeches, he follows her advice: he rewards the hero with portable wealth, stops talking about adoption, and predicts that Beowulf will become a great king of his own people (ll. 1700-9a). With tears in his eyes, Hrothgar sadly permits the hero to return home (ll. 1870-80a). In Beowulf as in the Nibelungenlied, it is a domineering queen married to a weak king who brings the hero's courtier narrative to an end.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Interpretive implications</head><p>It is Beowulf, rather than the Nibelungenlied, that receives the greater amount of illumination from the comparison undertaken above. Such an outcome is to be expected. The</p><p>Nibelungenlied is a longer and more elaborated work, which offers fuller portraits of its principal characters, whereas much in Beowulf is left obscure, implicit, hinted at but not spelled out. The character types informing some of its principal characters are not clear or familiar to modern readers. The political drama in the Danish portion of the poem is so subtle, despite its undeniable presence, that many readers of the poem have simply failed to notice it or consider it significant. Readers have likewise overlooked that there is a definite courtier narrative in the Danish portion of the poem, though the above catalogue of motifs shared with the courtier narrative of the Nibelungenlied should establish the poem's affinity with this genre. Beowulf is a courtlier poem than traditional literary histories have conditioned us to believe. Its author is not an unsophisticated barbarian interested primarily in the details of the hero's fights against monsters.</p><p>The poet is just as interested, if not considerably more interested, in the hero's reception at court, the impression that he makes on the Danish courtiers, his splendid clothing, his magnanimous conduct, his courteous speech, and other courtly phenomena. The social consequences of the hero's achievement and elevation are matters of manifest interest to the poet. The hostility of Unferth, the affection of Hrothgar, and the opposition of Wealhtheow are woven by the poet into a courtier narrative that is subtle but nevertheless poignant to readers who perceive it.</p><p>The Nibelungenlied is a poem transparently interested in problems pertaining to social status. In particular, it is concerned with the problems that arise when a foreign hero, such as Siegfried, is so much more impressive and capable than a weak king, such as Gunther. <ref type="bibr">11</ref> The theme is brought to the forefront when Siegfried pretends to be Gunther's unambiguous subordinate, but the act fails to convince Brunhild at first (she believes it is Siegfried, not Gunther, who is coming to court her) and ultimately fails in the end as well. The plot of this so-called "vassalage deception" acknowledges that ambiguities result when a visiting hero is manifestly superior to a reigning king, and one moral of the story is that such ambiguities cannot very easily be eliminated. <ref type="bibr">12</ref> The thematic concerns of the Nibelungenlied are spelled out much more clearly than those of Beowulf, but it becomes clear, in the light of the courtier narrative adumbrated above, that Beowulf is also concerned with the problems and ambiguities of social status that emerge when a foreign hero is more capable and deserving of rule than the incumbent ruler. There is, in fact, one passage in Beowulf that plainly articulates the poet's interest in this theme. After Beowulf has killed Grendel and emerged as the saviour of the Danish people, we are told that those celebrating his victory, who were riding horses and playing games, declared him the throne-worthiest man in the world:</p><p>Ðaēr waes Bēowulfes maērðo maēned; moniġ oft ġecwaeð þaette sūð nē norð be saēm twēonum ofer eormengrund ōþer naēniġ under sweġles begong sēlra naēre rondhaebbendra, rīċes wyrðra. Nē hīe hūru winedrihten wiht ne lōgon, glaedne Hrōðgār, ac þaet waes gōd cyning. (ll. 856b-863)   [There Beowulf's glory was proclaimed; many frequently said that neither north nor south between the seas over the entire earth was there any other, better shield-wielder under the expanse of the firmament, worthier of rule. Neither, certainly, did they criticize their benevolent lord, gracious Hrothgar, but that was a good king.]</p><p>Though it has rarely interested commentators, this passage is an important one, which helps, among other things, to explain Wealhtheow's anxiety about the prospect of Beowulf succeeding Hrothgar ahead of their children. It indicates that Beowulf has the support of Danish populace, who recognise his worthiness. The people do not criticise Hrothgar, the poet assures us, but they do declare Beowulf to be "worthier of rule" (rīċes wyrðra) than anyone else alive. The passage contributes, moreover, to the characterisation of Beowulf as a benevolent figure, a gentle giant whose presence should not be so threatening to those who feel threatened by it (such as Wealhtheow and Unferth). He could foment a popular uprising and seize the Danish throne, but he has no intentions of doing so, just as he later refuses to accede to the Geatish throne ahead of Heardred (ll.  2200-8a). This willingness to refrain from seizing power is a quality that Beowulf shares with Siegfried. Right at the beginning of the Nibelungenlied, Siegfried is depicted refusing a throne that others wished he would take: von den rîchen herren hôrte man wol sît, daz si den jungen wolden ze eime herren hân. des engérte niht her Sîvrit, der vil waetlîche man.</p><p>Sît daz noch beide lebten, Sigemunt und Sigelint, niht wolde tragen krône ir beider liebez kint. doch wolder wesen herre für allen den gewalt, des in den landen vorhte der degen küen' unde balt. (sts 42-43)   [Afterwards the powerful nobles were heard to say that they wanted to have the young prince for their lord. Sivrit, that most handsome man, wanted nothing of that. Since both Sigmunt and Siglint were still alive, their dear son had no wish to wear a crown. Yet he desired to be lord there and prevail against any attacks that the bold and courageous knight feared might be made in the lands.] This passage from the Nibelungenlied, like the one just cited from Beowulf, establishes the hero as a larger-than-life figure, whose mere presence inspires confidence in others. People see him and designate him as a man whom they would want to rule over them. Yet this hero is not grasping for wealth or power that does not rightfully belong to him. Those who feel threatened by such a hero are wrong to regard his him as a threat. Though different in various ways, Beowulf and Siegfried generally conform to a common character type, that of the young, ambitious, supernaturally strong, and physically impressive hero, whose excellence inspires affection from some and worry from others, but is fundamentally good-natured. Additionally, both heroes, in the course of their careers, outwrestle a supernaturally strong woman (Brunhild and Grendel's mother) and kill a dragon. <ref type="bibr">13</ref> Hrothgar and Gunther appear to reflect different character types, but they perform the same structural role within the courtier narratives of Beowulf and the Nibelungenlied. Each plays the role of the weak and troubled king, who petitions the hero for help, receives that help, and then rewards the hero in a way that elevates his status at the foreign court. Both men, invested with institutional power, form a contrast with the visiting hero, who should be less powerful than the sovereign, but is actually and rather obviously the more powerful man of the two. The negative characterisation of Gunther in Nibelungenlied illustrates how an author could turn this contrast to the discredit of the king. The Beowulf poet, however, decides not to characterise Hrothgar as an inept, irresponsible, or morally compromised ruler. <ref type="bibr">14</ref> He is depicted, instead, as a tragic figure, a suffering patriarch, who deserves the audience's pity rather than their scorn. The depiction of Gunther veers occasionally into the realm of the ludicrous, whereas the depiction of Hrothgar is consistently imbued with gravity and poignancy. The evident reason for the difference in characterisation is that the Beowulf poet decided to turn Hrothgar into a mouthpiece for stoic and monotheistic wisdom, one who has learned hard lessons from his many years of suffering at the hands of Grendel. Although the two authors took their treatment of the king in different directions, it is nevertheless clear that they are structurally analogous within the courtier narrative. It is interesting to note, moreover, that Hrothgar and Gunther appear weaker in resolve than their queens. In both works, the weakness of the king is highlighted through contrasts not only with a strong hero but also with a domineering queen.</p><p>Unferth and Hagen appear to derive from the same character type and perform the same structural role within the courtier narrative. <ref type="bibr">15</ref> The type is that of the morally ambivalent warrior-counsellor, famous for knowledge and prowess, who is the highest-ranking man at court outside of the royal family. Within the courtier narrative, each figure resents and feels threatened by the newly arrived hero, since the hero's arrival destabilises a social hierarchy at which the incumbent warrior-counsellor had been near the top. <ref type="bibr">16</ref> Unferth's designation as the court's þyle (ll. 1165b, 1456b) implies a reputation for knowledge and wisdom; in keeping with this reputation, it is Unferth who knows of Beowulf's past deeds and narrates part of his backstory. <ref type="bibr">17</ref> In the Nibelungenlied, it is explicitly stated of Hagen that "The kingdoms and foreign lands are all well known to him" (Dem sint kunt diu rîche und ouch diu vremden lant, st. 82). Hagen proceeds to demonstrate that this reputation is well-deserved by identifying the new arrival as Siegfried and comprehensively narrating his backstory. One detail in Beowulf that acquires significance in the light of Hagen's fuller depiction is Unferth's twice-mentioned kinslaying (ll. 583b-89, 1165b-68a): the background narrative is lost, but it is clear enough composition of the Nibelungenlied. For discussion of the relevant passage, see Griffith, "Some Difficulties in Beowulf"; Kaske, "The Sigemund-Heremod and Hama-Hygelac Passages". <ref type="bibr">14</ref> On the characterization of Hrothgar, see Hill, "Hrothgar's Noble Rule"; Karasawa; Leneghan, The Dynastic Drama of Beowulf, 216-19; Neidorf, "Hrothgar and Etzel"; Roberts, "Understanding Hrothgar's Humiliation". <ref type="bibr">15</ref> For a lengthier exposition of the affinities between Unferth and Hagen, see Neidorf, "On Beowulf and the Nibelungenlied," 657-65. <ref type="bibr">16</ref> Brown, "Courtly Rivalry, Loyalty Conflict", 373, regards the relationship between Hagen and Siegfried as an example of the "courtly rivalry motif," a motif she also discerns in Herzog Ernst, Wolfdietrich, and Tristan. The same motif is evident in Beowulf, in Unferth's hostility toward the hero, which is explicitly said to be motivated by the counselor's resentment of the hero's ambition (ll. 499-505). 17 On the background and cognates of the word þyle, which appears related to oratory and traditional knowledge, see especially Hollowell; see also Martin Clarke, "The Office of Thyle in Beowulf"; Rosier, "Design for Treachery".</p><p>from the allusions to it in Beowulf that Unferth had been known in legendary tradition as a hero responsible for killing some of his kinsmen. A capacity for extraordinary transgression thus appears to be another connection between Unferth, who carries a reputation for kin-slaying, and Hagen, who treacherously murders a guest (Siegfried) and spontaneously decapitates a child (Ortlieb). <ref type="bibr">18</ref> A more tantalising connection between Unferth and Hagen concerns their relationships with their respective queens. In the Nibelungenlied, Hagen acts as the agent of Brunhild, killing Siegfried to defend the honour of his liege-lady. Does Unferth act as Wealhtheow's agent in the foreshadowed struggle over the Danish succession? It is impossible to know at our current vantage point, but the narrator's ominous comment that Hrothgar and Hrothulf both trusted Unferth, although he had not been merciful to his kinsmen, might be taken to mean that Unferth acted most in the interest of the other Danish royal (i.e., Wealhtheow) who had just been mentioned (ll. 1162b-1168a). In any event, it is clear that Wealhtheow and Unferth are aligned in their hostility to Beowulf, much as Brunhild and Hagen are aligned in their hostility to Siegfried. In both courtier narratives, the queen and the counsellor resent the foreign hero's presence and wish to see him removed.</p><p>Wealhtheow and Brunhild might appear, at first glance, to be rather different characters. Wealhtheow has a smaller role in Beowulf than Brunhild has in the Nibelungenlied, and the former has none of the Amazonian characteristics of the latter. Brunhild appears to have stepped out of the realm of fairy tale, whereas Wealhtheow appears to be a relatively realistic figure from the world of migration-period legend. Yet the two queens play a fundamentally similar role in their work's courtier narrative, and the brief depiction of Wealhtheow in Beowulf is considerably illuminated by the fuller depiction of Brunhild in the Nibelungenlied. Brunhild's obsession with social hierarchy, which motivates nearly all of her behavior, is one that is clearly shared by Wealhtheow, whose two speeches reveal that she is no less concerned with it. Each queen seeks to eliminate the ambiguities of status that have been created by the social elevation of the foreign hero. Each queen appears, moreover, to be more powerful and authoritative, and possibly more dangerous as well, than the weak king to whom she is married. The king is satisfied with the hero and grateful to him for his service. He feels complacent in the aftermath of the hero's elevation, whereas the queen feels unsettled. In both works, finally, it is the queen who ultimately gets her way. Brunhild instigates Gunther to recall Siegfried to court and proceeds from there to engineer the hero's demise. Wealhtheow expresses her opposition to Hrothgar's adoption of Beowulf, and this opposition is sufficient to cause the king to change his tune, stop speaking of the adoption, and envision a world in which Beowulf becomes king not of Denmark but of Geatland. The figure of Brunhild in the Nibelungenlied clarifies the shady characterisation of Wealhtheow in Beowulf: she is not a pitiful or innocent peace-weaver (as some critics have seen her), <ref type="bibr">19</ref> but is rather a resolute and domineering leader of a court faction. Her opposition to Beowulf will perhaps lead ultimately to much bloodshed in the foreshadowed struggle over the <ref type="bibr">18</ref> The transgressions of Unferth and Hagen link them to another þulr in Germanic legend, namely, the figure of Starcatherus, whose story is structured around three such transgressions; on the transgressions of Starcatherus, see Dumézil, "The Three Sins of Starcatherus"; Poole, "Some Southern Perspectives on Starcatherus". For discussion of Unferth's kin-slaying, see Neidorf, Art and Thought, 27-60; Wieland, "The Unferth Enigma". <ref type="bibr">19</ref> For assertions that Wealhtheow is a "peace-weaver," see, e.g., Bloomfield, "Diminished by Kindness", 195; Horner, 77;  Kliman, "Women in Early English Literature", 34.</p><p>Danish succession, much as Brunhild's opposition to Siegfried leads ultimately to the massacre of the entire Burgundian aristocracy in Hunland.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Conclusion</head><p>Recognition of the courtier narrative in Beowulf revises our understanding not only of the poem's major characterswe see Beowulf, Hrothgar, Unferth, and Wealhtheow rather differently in the light of Siegfried, Gunther, Hagen, and Brunhildbut also of the poem's significance in medieval literary history. Courtly literature is generally associated with Francophone or Francophone-influenced environments from the twelfth century or later. <ref type="bibr">20</ref> The courtier narrative, to judge from the examples provided by Jaeger (Tristan, the Nibelungenlied, De Nugis Curialium), might likewise be thought to be a literary form that flourishes after the twelfth century. Yet Beowulf, an early medieval Germanic poem that exhibits no discernible French influence, suggests that such assumptions require revision. The presence of a courtier narrative within Beowulf encourages literary historians to revise their notions of what might have existed in the oral traditions, now lost, that circulated before the great flowering of courtly literature that took place during the twelfth century. Though it falls beyond the scope of the present article, it is worthwhile to note that there are at least two other works that support the literary-historical revisionism encouraged by the interpretation of Beowulf propounded above: Ruodlieb, a fragmentary Latin poem composed in eleventh-century Bavaria, and Herzog Ernst, a formally peculiar adventure narrative dated to the twelfth century. <ref type="bibr">21</ref> An editor of Ruodlieb pertinently notes that it "foreshadows the literary development of the next two hundred years in Western Europe to a surprising degree", yet Ruodlieb can be said to look backward as well as forward, as significant connections with Beowulf have also been demonstrated. <ref type="bibr">22</ref> Though neither Ruodlieb nor Herzog Ernst contains a courtier narrative precisely like the ones depicted in Beowulf and the Nibelungenlied, each work is interested in the social effects of a hero's arrival at a foreign court and the rewards and rivalries that his greatness engenders. Enough motifs are shared by these works with Beowulf to suggest a broader and older West Germanic tradition of adventure narrative that in certain respects resembled and anticipated the later medieval courtly romance. This provocative thesis cannot be adequately explored here, but it can be posited as a concluding thought that might appear more plausible in view of the profound connections between Beowulf and the Nibelungenlied discussed above. There is perhaps more continuity across the early medieval period and late medieval period than literary historians are prepared at present to credit. </p></div><figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_0"><head></head><label></label><figDesc>Hrothgar's speech of adoption, delivers a pair of speeches(ll. 1169-87, 1216-31) that undermine her husband's plans and indicate the resistance they would face. The crucial passage, in which Wealhtheow articulates her concerns most clearly, is the following:</figDesc><table><row><cell>Mē man saegde þaet þū ðē for sunu wolde</cell></row><row><cell>hereri[n]c habban. Heorot is gefaēlsod,</cell></row><row><cell>bēahsele beorhta; brūc þenden þū mote</cell></row><row><cell>manigṙa mēdo, ond þīnum maḡum laēf</cell></row><row><cell>folc ond rīcė þonne ðū forð scyle,</cell></row><row><cell>metodsceaft seon. Iċ mīnne can</cell></row><row><cell>glaedne Hroþulf, þaet hē þā geogoðe wile</cell></row><row><cell>arum healdan gyf þū aēr þonne hē,</cell></row><row><cell>wine Scildinga, worold oflaētest;</cell></row><row><cell>wēne ic þaet hē mid gode gyldan wille</cell></row><row><cell>uncran eaferan gif hē þaet eal gemon,</cell></row><row><cell>hwaet wit tō willan ond tō wyrðmyndum</cell></row><row><cell>umborwesendum aēr arna gefremedon. (ll. 1175-87)</cell></row></table><note><p><p><p>, "Perché Hroðgar Stod on Stapole";</p>Leneghan, The Dynastic Drama of Beowulf, 63-64; Momma, "The  Education of Beowulf", 176-79; Neidorf, Art and Thought, 84-87.  </p>[I have been informed that you wished to take the warrior (i.e. Beowulf) as your son. Heorot is purged, the bright ring-hall; make use, while you are permitted, of your many blessings, and leave to your family the nation and the rule when you shall go forth to witness the decree of Providence. I know my gracious Hrothulf, that he will treat the young warriors honorably if you, friend of Scyldings, depart the world before he; I expect he will repay our sons with good if he remembers everything, what favors we did to his contentment and to his dignity before, when he was a child.]</p></note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_1"><head></head><label></label><figDesc>20  This is clear enough from collections of essays on courtly literature, such as those edited byAltmann and Carroll, The Court Reconvenes; Busby and Kooper, Courtly Literature; Nelson-Campbell and Cholakian, The Legacy of Courtly Literature. In the preface to Nelson-Campbell and Cholakian, v, an assumption informing all such books is directly articulated: "Courtly literature in English is quite late off the mark, since the audience for courtly literature in England was largely Francophone until the age of Chaucer." 21 For a text and translation of Ruodlieb, see Zeydel, Ruodlieb. On the date and context of Ruodlieb, see Braun, Studien zum Ruodlieb, 5-8; Gamer, "The Ruodlieb and Tradition", 68-70; Zeydel, Ruodlieb, 7-9. For a text of Herzog Ernst, see Herweg; for a translation, see Murdoch, Three Political Tales from Medieval Germany. On its date, see Blamires, Herzog Ernst and the Otherworld Voyage, 1-2. In the introduction to his recent translation, Murdoch, Three Political Tales from Medieval Germany, xiii, notes that Herzog Ernst has affinities with "the modern fantasy or even science-fiction novel" but it remains "above all else … a political adventure story." 22 Zeydel, Ruodlieb, i. For its connections with Beowulf, see Neidorf, "On Beowulf and Ruodlieb."</figDesc><table /></figure>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="2" xml:id="foot_0"><p>L. NEIDORF</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="11" xml:id="foot_1"><p>For an insightful discussion of this theme in the Nibelungenlied, see Jackson, The Hero and the King, 36-54. In his study, Jackson frequently compares the Nibelungenlied with Beowulf in passing, in ways that sometimes align with the arguments propounded herein, but in certain respects differ markedly (e.g., Jackson, The Hero and the King, 31-32, asserts that "Hrothgar is afraid of the consequences of Beowulf's success" and "is eager to see him go back to his homeland," but as argued above, this would be more accurately said of Wealhtheow than of Hrothgar).</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="12" xml:id="foot_2"><p>  12  On the vassalage deception, see Campbell, "Siegfried's Vassalage Deception Re-examined"; Fleet, "Siegfried as Gunther's Vassal"; Thelen, "The Vassalage Deception".</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="13" xml:id="foot_3"><p>Furthermore, after Beowulf kills Grendel, a Danish court poet compares this achievement to Sigemund's slaying of a dragon (ll. 874-902), a deed that evidently was transferred from father (Siegmund) to son (Siegfried) before the</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="16" xml:id="foot_4"><p>L. NEIDORF</p></note>
+		</body>
+		<back>
+			<div type="annex">
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Disclosure statement</head><p>No potential conflict of interest was reported by the author(s).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>ORCID</head><p>Leonard Neidorf http://orcid.org/0000-0001- 9666-1978  </p></div>			</div>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<monogr>
+		<author>
+			<persName><forename type="first">Barbara</forename><forename type="middle">K</forename><surname>Altmann</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Carleton</forename><forename type="middle">W</forename><surname>Carroll</surname></persName>
+		</author>
+		<title level="m">The Court Reconvenes: Courtly Literature across the Disciplines</title>
+		<imprint>
+			<publisher>Cambridge: D. S. Brewer</publisher>
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<monogr>
+		<title level="m" type="main">La chevalerie: De la Germanie antique à la France du XIIe siècle</title>
+		<author>
+			<persName><forename type="first">Dominique</forename><surname>Barthélemy</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2007">2007</date>
+			<publisher>Fayard</publisher>
+			<pubPlace>Paris</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title level="a" type="main">The Politics of Succession in Beowulf and Anglo-Saxon England</title>
+		<author>
+			<persName><forename type="first">Frederick</forename><forename type="middle">M</forename><surname>Biggs</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Speculum</title>
+		<imprint>
+			<biblScope unit="volume">80</biblScope>
+			<biblScope unit="page" from="709" to="741" />
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<monogr>
+		<title level="m" type="main">Herzog Ernst and the Otherworld Voyage</title>
+		<author>
+			<persName><forename type="first">David</forename><surname>Blamires</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1979">1979</date>
+			<publisher>Manchester University Press</publisher>
+			<pubPlace>Manchester</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title level="a" type="main">Diminished by Kindness: Frederick Klaeber&apos;s Rewriting of Wealhtheow</title>
+		<author>
+			<persName><forename type="first">Josephine</forename><surname>Bloomfield</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of English and Germanic Philology</title>
+		<imprint>
+			<biblScope unit="volume">93</biblScope>
+			<biblScope unit="page" from="183" to="203" />
+			<date type="published" when="1994">1994</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title level="a" type="main">Perché Hroðgar Stod on Stapole (Beowulf 926a)</title>
+		<author>
+			<persName><forename type="first">Giovanna</forename><surname>Braccini</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Princi</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Echi di Memoria: Scritti di varia filologia,: critica e linguistica in recordo di Giorgio Chiarini</title>
+		<editor>
+			<persName><forename type="first">Gaetano</forename><surname>Chiappini</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Florence</addrLine></address></meeting>
+		<imprint>
+			<publisher>Alinea</publisher>
+			<date type="published" when="1998">1998</date>
+			<biblScope unit="page" from="139" to="157" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<monogr>
+		<title level="m" type="main">Studien zum Ruodlieb: Ritterideal, Erzählstruktur und Darstellungsstil</title>
+		<author>
+			<persName><forename type="first">Werner</forename><surname>Braun</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1962">1962</date>
+			<publisher>De Gruyter</publisher>
+			<pubPlace>Berlin</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title level="a" type="main">The Importance of Kinship: Uncle and Nephew in Beowulf</title>
+		<author>
+			<persName><surname>Bremmer</surname><genName>Jr</genName></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Rolf</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Amsterdamer Beiträge zur älteren Germanistik</title>
+		<imprint>
+			<biblScope unit="volume">15</biblScope>
+			<biblScope unit="page" from="21" to="38" />
+			<date type="published" when="1980">1980</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title level="a" type="main">Courtly Rivalry, Loyalty Conflict, and the Figure of Hagen in the Nibelungenlied</title>
+		<author>
+			<persName><forename type="first">Katherine</forename><surname>Brown</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Devane</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Monatshefte</title>
+		<imprint>
+			<biblScope unit="volume">107</biblScope>
+			<biblScope unit="page" from="355" to="381" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<monogr>
+		<title level="m" type="main">Courtliness and Literature in Medieval England</title>
+		<author>
+			<persName><forename type="first">David</forename><surname>Burnley</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1998">1998</date>
+			<publisher>Longman</publisher>
+			<pubPlace>London</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<monogr>
+		<title level="m">Courtly Literature: Culture and Context. Amsterdam: John Benjamins</title>
+		<editor>
+			<persName><forename type="first">Keith</forename><surname>Busby</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">Erik</forename><surname>Kooper</surname></persName>
+		</editor>
+		<imprint>
+			<date type="published" when="1990">1990</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title level="a" type="main">Siegfried&apos;s Vassalage Deception Re-examined</title>
+		<author>
+			<persName><forename type="first">Ian</forename><forename type="middle">R</forename><surname>Campbell</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Neophilologus</title>
+		<imprint>
+			<biblScope unit="volume">81</biblScope>
+			<biblScope unit="page" from="563" to="576" />
+			<date type="published" when="1997">1997</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<monogr>
+		<author>
+			<persName><forename type="first">David</forename><surname>Crouch</surname></persName>
+		</author>
+		<title level="m">The Birth of Nobility: Constructing Aristocracy in England and France, 900-1300</title>
+		<meeting><address><addrLine>London</addrLine></address></meeting>
+		<imprint>
+			<publisher>Routledge</publisher>
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<monogr>
+		<title/>
+		<author>
+			<persName><surname>De Boor</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Helmut</surname></persName>
+		</author>
+		<editor>R. Wisniewski</editor>
+		<imprint>
+			<date type="published" when="1979">1979</date>
+			<publisher>Brockhaus</publisher>
+			<pubPlace>Wiesbaden</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<title level="a" type="main">The Three Sins of Starcatherus</title>
+		<author>
+			<persName><forename type="first">Georges</forename><surname>Dumézil</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">The Destiny of the Warrior, translated by Alf Hiltebeitel</title>
+		<meeting><address><addrLine>Chicago</addrLine></address></meeting>
+		<imprint>
+			<publisher>University of Chicago Press</publisher>
+			<date type="published" when="1970">1970</date>
+			<biblScope unit="page" from="82" to="95" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<monogr>
+		<title level="m" type="main">The Nibelungenlied: The Lay of the Nibelungs</title>
+		<author>
+			<persName><forename type="first">Cyril</forename><surname>Edwards</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2010">2010</date>
+			<publisher>Oxford University Press</publisher>
+			<pubPlace>Oxford</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<title level="a" type="main">Siegfried as Gunther&apos;s Vassal</title>
+		<author>
+			<persName><forename type="first">Mary</forename><surname>Fleet</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Oxford German Studies</title>
+		<imprint>
+			<biblScope unit="volume">14</biblScope>
+			<biblScope unit="page" from="1" to="7" />
+			<date type="published" when="1983">1983</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<monogr>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">D</forename><surname>Fulk</surname></persName>
+		</author>
+		<title level="m">The Beowulf Manuscript: Complete Texts and The Fight at Finnsburg</title>
+		<meeting><address><addrLine>Cambridge</addrLine></address></meeting>
+		<imprint>
+			<publisher>Harvard University Press</publisher>
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<monogr>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">D</forename><surname>Fulk</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Robert</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">John</forename><forename type="middle">D</forename><surname>Bjork</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Niles</surname></persName>
+		</author>
+		<title level="m">Klaeber&apos;s Beowulf and the Fight at Finnsburh. 4th ed</title>
+		<meeting><address><addrLine>Toronto</addrLine></address></meeting>
+		<imprint>
+			<publisher>University of Toronto Press</publisher>
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<analytic>
+		<title level="a" type="main">The Ruodlieb and Tradition</title>
+		<author>
+			<persName><forename type="first">Helena</forename><forename type="middle">M</forename><surname>Gamer</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">ARV: Journal of Scandinavian Folklore</title>
+		<imprint>
+			<biblScope unit="volume">11</biblScope>
+			<biblScope unit="page" from="65" to="103" />
+			<date type="published" when="1955">1955</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<analytic>
+		<title level="a" type="main">Some Difficulties in Beowulf,: Lines 874-902: Sigemund Reconsidered</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">S</forename><surname>Griffith</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Anglo-Saxon England</title>
+		<imprint>
+			<biblScope unit="volume">24</biblScope>
+			<biblScope unit="page" from="11" to="41" />
+			<date type="published" when="1995">1995</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">Mathias</forename><surname>Herweg</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Ed</forename><forename type="middle">Herzog</forename><surname>Ernst</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2019">2019</date>
+			<publisher>Reclam</publisher>
+			<pubPlace>Stuttgart</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<analytic>
+		<title level="a" type="main">Beowulf and the Danish Succession: Gift Giving as an Occasion for Complex Gesture</title>
+		<author>
+			<persName><forename type="first">John</forename><forename type="middle">M</forename><surname>Hill</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Medievalia et Humanistica</title>
+		<imprint>
+			<biblScope unit="volume">11</biblScope>
+			<biblScope unit="page" from="177" to="197" />
+			<date type="published" when="1982">1982</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<analytic>
+		<title level="a" type="main">Hrothgar&apos;s Noble Rule: Love and the Great Legislator</title>
+	</analytic>
+	<monogr>
+		<title level="m">Social Approaches to Viking Studies</title>
+		<editor>
+			<persName><forename type="first">Ross</forename><surname>Samson</surname></persName>
+		</editor>
+		<imprint>
+			<publisher>Glasgow: Cruithne</publisher>
+			<date type="published" when="1991">1991</date>
+			<biblScope unit="page" from="169" to="178" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<analytic>
+		<title level="a" type="main">Beowulf as Seldguma: Beowulf, Lines 247-51</title>
+		<author>
+			<persName><forename type="first">Thomas</forename><forename type="middle">D</forename><surname>Hill</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Neophilologus</title>
+		<imprint>
+			<biblScope unit="volume">74</biblScope>
+			<biblScope unit="page" from="637" to="639" />
+			<date type="published" when="1990">1990</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<analytic>
+		<title level="a" type="main">Hrothgar&apos;s Speech of Adoption: A Danish-Latin Analog</title>
+	</analytic>
+	<monogr>
+		<title level="j">Notes and Queries</title>
+		<imprint>
+			<biblScope unit="volume">66</biblScope>
+			<biblScope unit="page" from="163" to="166" />
+			<date type="published" when="2019">2019</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<analytic>
+		<title level="a" type="main">Unferð the Þyle in Beowulf</title>
+		<author>
+			<persName><forename type="first">Ida</forename><surname>Hollowell</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Masters</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Studies in Philology</title>
+		<imprint>
+			<biblScope unit="volume">73</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="239" to="265" />
+			<date type="published" when="1976">1976</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b27">
+	<monogr>
+		<title level="m" type="main">The Discourse of Enclosure: Representing Women in Old English Literature</title>
+		<author>
+			<persName><forename type="first">Shari</forename><surname>Horner</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2001">2001</date>
+			<publisher>State University of New York Press</publisher>
+			<pubPlace>New York</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b28">
+	<monogr>
+		<title level="m" type="main">The Hero and the King: An Epic Theme</title>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">T H</forename><surname>Jackson</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1982">1982</date>
+			<publisher>Columbia University Press</publisher>
+			<pubPlace>New York</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b29">
+	<monogr>
+		<title level="m" type="main">The Origins of Courtliness: Civilizing Trends and the Formation of Courtly Ideals</title>
+		<author>
+			<persName><forename type="first">C</forename><surname>Jaeger</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Stephen</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1985">1985</date>
+			<publisher>University of Pennsylvania Press</publisher>
+			<biblScope unit="page" from="939" to="1210" />
+			<pubPlace>Philadelphia</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b30">
+	<analytic>
+		<title level="a" type="main">Origins of Courtliness after 25 Years</title>
+	</analytic>
+	<monogr>
+		<title level="j">Haskins Society Journal</title>
+		<imprint>
+			<biblScope unit="volume">21</biblScope>
+			<biblScope unit="page" from="187" to="216" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b31">
+	<analytic>
+		<title level="a" type="main">The Sigemund-Heremod and Hama-Hygelac Passages in Beowulf</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">E</forename><surname>Kaske</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">PMLA</title>
+		<imprint>
+			<biblScope unit="volume">74</biblScope>
+			<biblScope unit="page" from="489" to="494" />
+			<date type="published" when="1959">1959</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b32">
+	<analytic>
+		<title level="a" type="main">Women in Early English Literature: Beowulf to the Ancrene Wisse</title>
+		<author>
+			<persName><forename type="first">Bernice</forename><forename type="middle">W</forename><surname>Kliman</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nottingham Mediaeval Studies</title>
+		<imprint>
+			<biblScope unit="volume">21</biblScope>
+			<biblScope unit="page" from="32" to="49" />
+			<date type="published" when="1977">1977</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b33">
+	<monogr>
+		<author>
+			<persName><forename type="first">Francis</forename><surname>Leneghan</surname></persName>
+		</author>
+		<title level="m">The Dynastic Drama of Beowulf</title>
+		<editor>
+			<persName><forename type="first">D</forename><forename type="middle">S</forename><surname>Brewer</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Cambridge</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b34">
+	<analytic>
+		<title level="a" type="main">The Office of Thyle in Beowulf</title>
+		<author>
+			<persName><forename type="first">Martin</forename><surname>Clarke</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">E</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Review of English Studies</title>
+		<imprint>
+			<biblScope unit="volume">12</biblScope>
+			<biblScope unit="page" from="61" to="66" />
+			<date type="published" when="1936">1936</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b35">
+	<analytic>
+		<title level="a" type="main">The Education of Beowulf and the Affair of the Leisure Class</title>
+		<author>
+			<persName><forename type="first">Haruko</forename><surname>Momma</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Verbal Encounters: Anglo-Saxon and Old Norse Studies for Roberta Frank</title>
+		<editor>
+			<persName><forename type="first">Antonina</forename><surname>Harbus</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">Russell</forename><surname>Poole</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Toronto</addrLine></address></meeting>
+		<imprint>
+			<publisher>University of Toronto Press</publisher>
+			<date type="published" when="2005">2005</date>
+			<biblScope unit="page" from="163" to="182" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b36">
+	<monogr>
+		<title level="m" type="main">Three Political Tales from Medieval Germany: Duke Ernst, Henry of Kempten, and Reynard the Fox</title>
+		<author>
+			<persName><forename type="first">Brian</forename><surname>Murdoch</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2024">2024</date>
+			<publisher>Camden House</publisher>
+			<pubPlace>Rochester</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b37">
+	<analytic>
+		<title level="a" type="main">On Beowulf and the Nibelungenlied: Counselors,: Queens, and Characterization</title>
+		<author>
+			<persName><forename type="first">Leonard</forename><surname>Neidorf</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Neohelicon</title>
+		<imprint>
+			<biblScope unit="volume">47</biblScope>
+			<biblScope unit="page" from="655" to="672" />
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b38">
+	<analytic>
+		<title level="a" type="main">Beowulf and Freawaru</title>
+	</analytic>
+	<monogr>
+		<title level="j">The Explicator</title>
+		<imprint>
+			<biblScope unit="volume">79</biblScope>
+			<biblScope unit="page" from="182" to="187" />
+			<date type="published" when="2021">2021</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b39">
+	<monogr>
+		<title level="m">The Art and Thought of the Beowulf Poet</title>
+		<meeting><address><addrLine>Ithaca</addrLine></address></meeting>
+		<imprint>
+			<publisher>Cornell University Press</publisher>
+			<date type="published" when="2022">2022</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b40">
+	<analytic>
+		<title level="a" type="main">Hrothgar and Etzel: Beowulf Analogues in Middle High German Literature</title>
+	</analytic>
+	<monogr>
+		<title level="j">English Studies</title>
+		<imprint>
+			<biblScope unit="volume">104</biblScope>
+			<biblScope unit="page" from="1317" to="1332" />
+			<date type="published" when="2023">2023</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b41">
+	<analytic>
+		<title level="a" type="main">On Beowulf and Ruodlieb: A Folkloric Context for Hrothgar&apos;s Sermon</title>
+	</analytic>
+	<monogr>
+		<title level="j">Neohelicon</title>
+		<imprint>
+			<biblScope unit="volume">51</biblScope>
+			<biblScope unit="page" from="267" to="279" />
+			<date type="published" when="2024">2024</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b42">
+	<monogr>
+		<title level="m">The Legacy of Courtly Literature: From Medieval to Contemporary Culture</title>
+		<editor>
+			<persName><forename type="first">Deborah</forename><surname>Nelson-Campbell</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">Rouben</forename><surname>Cholakian</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Cham, Switzerland</addrLine></address></meeting>
+		<imprint>
+			<publisher>Palgrave Macmillan</publisher>
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b43">
+	<monogr>
+		<title level="m" type="main">The Origins of Beowulf: From Vergil to Wiglaf</title>
+		<author>
+			<persName><forename type="first">Richard</forename><surname>North</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2006">2006</date>
+			<publisher>Oxford University Press</publisher>
+			<pubPlace>Oxford</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b44">
+	<analytic>
+		<title level="a" type="main">Some Southern Perspectives on Starcatherus</title>
+		<author>
+			<persName><forename type="first">Russell</forename><surname>Poole</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Viking and Medieval Scandinavia</title>
+		<imprint>
+			<biblScope unit="volume">2</biblScope>
+			<biblScope unit="page" from="141" to="166" />
+			<date type="published" when="1996">1996</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b45">
+	<analytic>
+		<title level="a" type="main">Understanding Hrothgar&apos;s Humiliation: Beowulf Lines 144-74 in Context</title>
+		<author>
+			<persName><forename type="first">Jane</forename><surname>Roberts</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Text, Image, Interpretation: Studies in Anglo-Saxon Literature and its Insular Context in Honour of Éamonn Ó Carragáin</title>
+		<editor>
+			<persName><forename type="first">Alastair</forename><surname>Minnis</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">Jane</forename><surname>Roberts</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Turnhout</addrLine></address></meeting>
+		<imprint>
+			<publisher>Brepols</publisher>
+			<date type="published" when="2007">2007</date>
+			<biblScope unit="page" from="355" to="367" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b46">
+	<analytic>
+		<title level="a" type="main">Design for Treachery: The Unferth Intrigue</title>
+		<author>
+			<persName><forename type="first">James</forename><forename type="middle">L</forename><surname>Rosier</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">PMLA</title>
+		<imprint>
+			<biblScope unit="volume">77</biblScope>
+			<biblScope unit="page" from="1" to="7" />
+			<date type="published" when="1962">1962</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b47">
+	<monogr>
+		<title level="m" type="main">Knights at Court: Courtliness, Chivalry, and Courtesy from Ottonian Germany to the Italian Renaissance</title>
+		<author>
+			<persName><forename type="first">Aldo</forename><surname>Scaglione</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1991">1991</date>
+			<publisher>University of California Press</publisher>
+			<pubPlace>Berkeley</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b48">
+	<analytic>
+		<title level="a" type="main">Principles of Conversation in Beowulfian Speech</title>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">A</forename><surname>Shippey</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Techniques of Description: Spoken and Written Discourse: A Festschrift for Malcolm Coulthard</title>
+		<editor>
+			<persName><forename type="first">John</forename><forename type="middle">M</forename><surname>Sinclair</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">Michael</forename><surname>Hoey</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">Gwyneth</forename><surname>Fox</surname></persName>
+		</editor>
+		<meeting><address><addrLine>London</addrLine></address></meeting>
+		<imprint>
+			<publisher>Routledge</publisher>
+			<date type="published" when="1993">1993</date>
+			<biblScope unit="page" from="109" to="126" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b49">
+	<monogr>
+		<title level="m" type="main">In Words and Works: Studies in Medieval English Language and Literature in Honour of Fred C</title>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">G</forename><surname>Stanley</surname></persName>
+		</author>
+		<editor>Peter S. Baker, and Nicholas Howe</editor>
+		<imprint>
+			<date type="published" when="1998">1998</date>
+			<publisher>University of Toronto Press</publisher>
+			<biblScope unit="page" from="67" to="104" />
+			<pubPlace>Toronto</pubPlace>
+		</imprint>
+	</monogr>
+	<note>Courtliness and Courtesy in Beowulf and Elsewhere in English Medieval Literature</note>
+</biblStruct>
+
+<biblStruct xml:id="b50">
+	<analytic>
+		<title level="a" type="main">The Vassalage Deception,: or Siegfried&apos;s Folly</title>
+		<author>
+			<persName><forename type="first">Lynn</forename><forename type="middle">D</forename><surname>Thelen</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of English and Germanic Philology</title>
+		<imprint>
+			<biblScope unit="volume">87</biblScope>
+			<biblScope unit="page" from="471" to="491" />
+			<date type="published" when="1988">1988</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b51">
+	<analytic>
+		<title level="a" type="main">Grendel&apos;s Mother and the Women of the Völsung-Nibelung Tradition</title>
+		<author>
+			<persName><forename type="first">Alison</forename><surname>Vowell</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Neophilologus</title>
+		<imprint>
+			<biblScope unit="volume">107</biblScope>
+			<biblScope unit="page" from="239" to="255" />
+			<date type="published" when="2023">2023</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b52">
+	<analytic>
+		<title level="a" type="main">The Unferth Enigma: The Þyle between the Hero and the Poet</title>
+		<author>
+			<persName><forename type="first">Gernot</forename><forename type="middle">R</forename><surname>Wieland</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Fact and Fiction from the Middle Ages to Modern Times: Essays Presented to Hans Sauer on the Occasion of His 65th Birthday -Part II</title>
+		<editor>
+			<persName><forename type="first">Renate</forename><surname>Bauer</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">Ulrike</forename><surname>Krischke</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Frankfurt am Main</addrLine></address></meeting>
+		<imprint>
+			<publisher>Peter Lang</publisher>
+			<date type="published" when="2011">2011</date>
+			<biblScope unit="page" from="35" to="46" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b53">
+	<monogr>
+		<author>
+			<persName><forename type="first">Edwin</forename><forename type="middle">H</forename><surname>Zeydel</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Trans</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Ruodlieb</surname></persName>
+		</author>
+		<title level="m">The Earliest Courtly Novel (After 1050)</title>
+		<meeting><address><addrLine>Chapel Hill</addrLine></address></meeting>
+		<imprint>
+			<publisher>University of North Carolina Press</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

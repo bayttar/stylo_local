@@ -1,0 +1,625 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Ante-victimhood of Atomic Bombing: Inter-imperiality and Gender in Jackie Copleton&apos;s A Dictionary of Mutual Understanding</title>
+				<funder>
+					<orgName type="full">USC Dana and David Dornsife College of Letters, Arts and Sciences/Graduate School</orgName>
+				</funder>
+				<funder ref="#_s7HZaqs">
+					<orgName type="full">Ngoi Hui Chien&apos;s dissertation submitted for the degree of Master of Arts</orgName>
+				</funder>
+				<funder ref="#_zKCsjKd">
+					<orgName type="full">Ngoi at the Global Complicities Symposium</orgName>
+				</funder>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author role="corresp">
+							<persName><forename type="first">Hui</forename><surname>Ngoi</surname></persName>
+							<email>ngoi@usc.edu</email>
+						</author>
+						<author>
+							<persName><surname>Chien</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Comparative Literature</orgName>
+								<orgName type="institution">University of Southern California</orgName>
+								<address>
+									<settlement>Los Angeles</settlement>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Vandana</forename><surname>Saxena</surname></persName>
+							<affiliation key="aff1">
+								<orgName type="department" key="dep1">Department of English</orgName>
+								<orgName type="department" key="dep2">Faculty of Arts and Social Sciences</orgName>
+								<orgName type="institution">Universiti Malaya</orgName>
+								<address>
+									<settlement>Kuala Lumpur</settlement>
+									<country key="MY">Malaysia</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="middle">English</forename><surname>Studies</surname></persName>
+						</author>
+						<author>
+							<affiliation key="aff2">
+								<orgName type="institution">Maloney, &quot;Universal Horror of Atomic Weapons&quot;</orgName>
+								<address>
+									<addrLine>para. 4</addrLine>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Ante-victimhood of Atomic Bombing: Inter-imperiality and Gender in Jackie Copleton&apos;s A Dictionary of Mutual Understanding</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date/>
+						</imprint>
+					</monogr>
+					<idno type="MD5">1AE9B6C3FDA04EAF3332A61F1D0903F0</idno>
+					<idno type="DOI">10.1080/0013838X.2025.2573722</idno>
+					<note type="submission">Received 10 March 2025 Accepted 3 October 2025</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.0" ident="GROBID" when="2026-02-25T19:51+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term>Ante-victimhood</term>
+					<term>atomic bomb victimhood</term>
+					<term>US nuclear hegemony</term>
+					<term>Japanese militarism</term>
+					<term>inter-imperiality</term>
+					<term>A Dictionary of Mutual Understanding</term>
+				</keywords>
+			</textClass>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>This article proposes the notion of "ante-victimhood" to challenge atomic bomb victimhood, whose emotional appeal tends to obscure its larger contexts. Ante-victimhood denotes the sociopolitical contexts, adapting David Kazanjian's words, "before, against, [and] alongside" victimhood. To substantiate the concept, this study examines how Jackie Copleton's A Dictionary of Mutual Understanding (2015), heretofore underexamined, portrays the ambivalent atomic bomb victimhood of Amaterasu Takahashi. Such ambivalence arises from struggles with her preceding complicity with Japanese imperialism, which draw out the contrasting victimhood of peoples subjugated by Japan and the co-existing oppression of Japanese women by Japan's patriarchy. The dynamics of ante-victimhood provide a wider context to understand Amaterasu's victimhood, which is arguably rendered precarious in her manoeuvre between the Japanese Empire's militarism and the United States Empire's nuclear hegemony. Through Laura Doyle's inter-imperiality, this article demonstrates the tense subjectivity of individuals caught between imperial forces, revealing how inter-imperial rivalries shape personal lives.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Introduction</head><p>"The most common misunderstanding about nationalism is that it is, by nature, national. In reality, nationalism has been transnational", insists South Korean historian Jie-Hyun Lim in his recent monograph Victimhood Nationalism: History and Memory in a Global Age. <ref type="bibr">1</ref> By "victimhood nationalism", Lim refers to "a narrative template to grant moral superiority and political legitimacy" to a nation anchoring itself in "ancestral victimhood". <ref type="bibr">2</ref> Victimhood nationalism assumes a transnational nature, most fundamentally through a nation's continual positioning itself against a former perpetrator nation. Without the counterpart, the notion of a victimised nation, which grants moral legitimacy and historical coherence, is hard to sustain. 3 Such dynamics do not fully transcend the nation-state. Rather, it is driven by the nation's political interests under the guise of transnational memory of victimisation. One of Lim's main examples is Japan's nationalisation of the memory of the United States' atomic bombings of Hiroshima and Nagasaki in 1945, which marginalises memories of Japan's war crimes against other nations in World War II. Japan, Lim notes, holds on to the self-image of being "the only nation ever to have been atom-bombed" and "mythicize [s] the ordinary Japanese as innocent victims". <ref type="bibr">4</ref> Therefore, a key challenge to engaging with Japan's history during WWII is that, while endeavouring to transcend the nation's fixation to victimhood, it is also important to reckon with the politics running beneath the nation's discourse of victimhood.</p><p>To that end, this article turns to A Dictionary of Mutual Understanding (hereafter abbreviated as Dictionary), the debut novel by British writer Jackie Copleton, published in 2015 and longlisted for the Baileys Women's Prize for Fiction 2016. Set in the US in the 1980s, the novel is narrated by Amaterasu Takahashi, a Japanese American woman who migrated from Nagasaki in 1946. It describes Amaterasu's perception of herself as an atomic bomb victim because the US's nuclear weapon not only killed her daughter Yuko Takahashi 5 but also, as she has been believing for nearly forty years, her grandson, Hideo Watanabe. While Amaterasu's story in Dictionary may appear to set out to depict Japan's victimisation by the US, it in fact uses the hostile post-war environment in the US to draw attention to the fraught political dynamics within Japan's boundaries during the War. The novel begins in the 1980s with the appearance of a bomb-scarred man claiming to be Hideo, Amaterasu's grandson, at her doorstep. Hideo's return triggers her to recall the years during WWII in Japan. In the process, Amaterasu reveals her ambivalence when confronting her complicity in the Japanese Empire's military agenda, for example, her participation in women's defence group training, identification with the superiority of Japan's masculinist superiority, and benefits derived from a war-related company. This complicity takes a particularly sharp edge by unsettling Amaterasu's narrative of victimhood in the US, a country where mainstream discourse justifies the bombings on the moral grounds of ending the war. With that, the novel portrays how her life in the post-war US, which wields nuclear hegemony through its domination over Japan and the world as a military superpower after the bombings, complicates her guilt and resentment.</p><p>What Dictionary undertakes to explore may be termed "ante-victimhood". The prefix "ante-" here does not just mean "before". Instead, "ante-" denotes, to borrow the view of David Kazanjian, the contexts "before, against, or alongside" the idea of possession in conceptualising "ante-possession".<ref type="foot" target="#foot_0">6</ref> Adapting Kazanjian's notion of "ante-", this article uses ante-victimhood to offer a critical stance in engaging with issues of victimhood and complicity, where an individual subject exists in a tense relationship with the 3 Lim's broader contention is that the nationalist conception of victimhood is often formed transnationally because a nation's victimhood is bolstered when set in comparison with that of another. 4 Lim, "Victimhood Nationalism", 26.   5   Amaterasu's sense of victimhood over her daughter's death is profoundly intensified by the fact that Yuko was killed in Nagasaki's Urakami Cathedral, a meeting place chosen by Amaterasu herself. They had arranged to meet there before going to a clinic for Yuko to abort the child Yuko had conceived in her extra-marital relationship with a man called Jomei Sato.</p><p>surrounding structures of oppression. A subject, while benefitting from an oppressive system, may become a victim of a similar but rival regime, as exemplified by Amaterasu. Hence, even though suffering is real, it is unsettled by the prior complicities that unsettle the claims of innocence or victimhood. Considerations of ante-victimhood critique the selective claims in the narratives of victimhood by focusing on gaps, silences, alternate accounts, testimonies, and memories. In Dictionary, ante-victimhood refers to the social and political contexts in Japan, the US, and their mutual alignments that precede, oppose, and co-exist with Amaterasu's perception of atomic bomb victimhood. Specifically, it captures Amaterasu's complicity with the Japanese imperial military, the victimisation of other peoples by Japanese imperialism, and the gendered oppression of Japanese women by Japanese patriarchal society-phenomena that respectively exist "before, against, [and] alongside" her narrative of atomic bomb victimhood.</p><p>In this study, ante-victimhood is not intended to replace the notion of victimhood, which registers the grief of people caught in the US-Japan rivalry. It does not serve to offset the profound loss inflicted by the atomic bombing of Japan. Nor is it a corrective to the use of victimhood to conceal Japanese militarism, which has been widely discussed, as suggested by the scholarship cited in this article. Instead, the larger stake in advancing ante-victimhood is to build on existing scholarship to accentuate how Japanese militarism is intertwined with Japan's victimisation of other peoples and with its patriarchal structure, all under the shadow of the nuclear catastrophe. In so doing, it unsettles the transnational logics of victimhood, to recast Kazanjian's words, as a "singular remedy" to the immense violence inflicted by the US on Japan. <ref type="bibr">7</ref> Noteworthily, as a lens to reappraise the transnational afterlives of atomic bombings, ante-victimhood ultimately has its origins in the narrative crafted by Copleton in Dictionary. This point matters, for the ante-victimhood dynamics are largely obscured in Amaterasu's narration as she clings to her suffering. The uneasy details only come into view when the novel is read through a historicist approach. Amaterasu's narrative style evokes the political atmosphere of the Cold War, although Dictionary does not explicitly depict the period (which constitutes its narrative present). This is because when Amaterasu's recount is scrutinised in the light of the Cold War, it recalls how, during the period, the US Empire, in its bid to defeat the Soviet Union, supported nuclear weapons development and actively stifled dissent (see next section). 8 This situation explains why Amaterasu insists on her identity as a victim of the atomic bombing of Nagasaki. Yet, clinging to victimhood as such deflects her attention away from Japan's wartime aggression and preserves ideologies and aspects of the Japanese Empire in a new guise.</p><p>Hence, this article examines how the history of interactions between the Japanese and US Empires renders Amaterasu's atomic bomb victimhood in the novel ambivalent. By studying her past complicity with Japanese imperialism, we can open up a path to discern her uneasy reckoning with the victims of Japanese imperialism. This line of thinking also directs attention to Japan's oppression of women, which, though not directly related to the bombing, is rooted in Japan's masculinist military fervour that ended with the bomb. In this regard, ante-victimhood foregrounds Japan's victimhood nationalism resulting 7 Ibid., 864. 8 Rubinson, Redefining Science, 240.  from atomic bombings as a transnational construct (with the US as the perpetrator of the tragedy) undergirded by a nationalist, masculinist tenor.</p><p>Directing attention away from the dominant mentality that mainly holds the US Empire accountable, this study highlights the Japanese civilians' fraught social relations with the Japanese Empire. On the one hand, as Traise Yamamoto observes in her trailblazing study of Japanese American women's literature, the West tends to imagine itself as masculine and Japan as the feminine other, vulnerable to Western desire and domination. 9 This situation underpins Copleton's portrayal of her protagonist as a Japanese American woman who lost her daughter in the atomic bombing. On the other hand, by naming her protagonist Amaterasu, Copleton challenges this gendered binary. In Japanese mythology, "Amaterasu" is the sun goddess, who is believed to be the Emperors' ancestor. Therefore, the worship of the goddess Amaterasu was partly homage to the Emperor, who presided over the Japanese Empire 10 : the feminine and masculine merge in this aspect of the Japanese imperial prowess. The name of the protagonist signals her deep involvement with Japanese imperialism.</p><p>After the war, Amaterasu became a US resident. Yet, her residence is fraught with anxiety over her alienation, particularly as an Asian-and specifically, a Japanesegiven Japan's status as a wartime rival of the US. She is also resentful of the US's response to and justification of bombing the Japanese cities. Yet, she has made her home in the US, the nation that dropped the bomb on Nagasaki, which killed her daughter. Hence, her refuge in the US is ridden with guilt and unresolved trauma at the personal and historical levels. This tension exemplifies conditions of ante-victimhood, as Amaterasu's current identity as a US resident and also a victim of its nuclear violence is inextricably linked to her erstwhile embroilment with Japan's political aspirations, whose operations inflicted violence at home and abroad, as noted earlier. Through Amaterasu, Copleton portrays a character shaped by the histories and memories of the inter-imperial clash between the Japanese and US Empires.</p><p>With close reference to Copleton's Dictionary, this article traces the persistence of the imperial past as the events and memories of the Japanese Empire continue to shape the present Japanese-US interactions, the US Empire's policies on nuclear weapons, and the lived realities of a contemporary Japanese American subject. These workings of imperial forces undergird the hermeneutics of ante-victimhood in the novel. Through the wider context offered by ante-victimhood, this article argues that Dictionary's portrayal of Amaterasu's ambivalent identification as an atomic bomb victim is underpinned by her engagements with the Japanese Empire's militarism and the US Empire's nuclear hegemony. In the present setting of the novel, the US's hegemonic nuclear power, which endures long after the war, elides its atrocities against Japan, making Amaterasu resentful and strengthening her identification as an atomic bomb victim. Yet, her encounter with Hideo forces her to confront her complicity with Japanese militarism. The past emerges through the silences and evasions in Amaterasu's narration, which are filled by her daughter Yuko's diary as well as the letters written to Yuko by her lover Jomei Sato. As these multiple voices undo the neat narrative of Japan's victimhood, they also bring to light the stories of the victims of Japan's imperial aggression and gender oppression in Japanese society that was channelled into its war machinery. These are social and political critiques offered by the considerations of ante-victimhood that unsettle the strong emotional pull exerted by Japan's mainstream claim of being the sole nation suffering from atomic bombings.</p><p>The following section delineates Laura Doyle's theorisation of inter-imperiality in relation to the Japanese and US Empires, especially in their attitudes towards the atomic bomb and its afterlives. Amaterasu's memories about Japan are embedded in her present narrative, set in the 1980s, where discourses of US nuclear hegemony undergird her identification as a victim. The textual analysis explores how the plot of Dictionary undoes this solipsistic identification as a victim. The intertwined nature of the personal and the political, as well as the past and the present, shows the way inter-imperial formations shape the lives and memories of individual subjects. By placing Amaterasu's life in the US and her past complicity with Japan's military expansionism, this article explores the way these inter-imperial entanglements unsettle her claim to atomic bomb victimhood. While acknowledging the transnational basis of the narratives of victimhood, it also, in line with the notion of ante-victimhood, foregrounds her past collusion with Japan's ultranationalism and imperialism, the gendered nature of that involvement, as well as Japan's concurrent victimisation of neighbouring regions and Japanese women. Hence, the "mutual understanding" referred to in the novel's title is less about interpersonal relationships and more about Amaterasu's reconciliation of her present with her past self. In the larger framework, such reconciliation also involves reconciling her personal memories with the histories of the empires, which include Japan's military past, its wartime devastation, and the narratives imposed by both Japanese and US historical discourses. In this logic, her retrospective narrative serves as a "dictionary" to reinspect her experiences, both personal and political, between Japan and the US.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Atomic Bomb Victimhood and Nuclear Hegemony: Inter-imperial Framework</head><p>Dictionary is yet to be analysed in English-language academia; its current reviews are contextualised in postwar Japan rather than the US. For example, they state that the novel allows "prewar Nagasaki [to come] alive", 11 "reveal[s] intriguing details about Japanese culture and the history of the country during wartime", 12 and "focuse[s] on the atomic bombing of Nagasaki". <ref type="bibr">13</ref> There is a lack of discussion of how Amaterasu's experiences in the US mediate her reflections on her Japanese past, thereby overlooking the transnational dimension of the atomic bomb and its afterlives. President Harry Truman, for example, claimed that the atomic bomb "saved the lives of thousands and thousands of young Americans" by "destroy[ing] Japan's power to make war". <ref type="bibr">14</ref> This discourse shaped the history of the end of WWII, where the bombings of Hiroshima and Nagasaki were presented as events that established peace and ended the war. In the postwar discursive politics, Japan assumed the role of the victim and the US the benevolent, moral agent.</p><p>On this point, this article offers a fresh reading by demonstrating how Dictionary uses the US as a locale to draw out Amaterasu's narrative of complicity. US society, steeped in discourses of nuclear hegemony, reinforces her identification as a victim of the atomic bombing. Yet, this perception is complicated by her encounter with Hideo, a hibakusha, an atomic bomb survivor who bears the scars of bombing on his visage. Although his life is unmistakably marked by the bomb, he is touring the US as the representative of a US peace organisation invited to discuss nuclear non-proliferation. The encounter with Hideo, specifically in the US, elicits Amaterasu's suppressed memories of her past collusion with Japanese militarism, as it draws out the memories of Japan's imperial violence against others, Japan's patriarchal oppression of its women, and her own identification with it all. All these offer a close look at the condition of ante-victimhood, revealing the complexities before, against and alongside the perception of victimhood.</p><p>Thus, ante-victimhood challenges the strong emotional appeal exerted by the idea of victimhood. The existing critiques of Japanese atomic bomb victimhood tend to focus on the pursuit of political interests, nationally or transnationally. In his oft-cited monograph, James Orr claims that "the image of the Japanese people as war victims served multiple agendas". Initially, the US-led Allied forces encouraged the idea of victimhood among the Japanese to induce a disillusionment with the Japanese militarist government. Then, as conservatives came back to power, the left-wing activists used victimhood to criticise the Cold War policy of the postwar government. <ref type="bibr">15</ref> Hence, Lim remarks that Japan's victimhood is sustained by selective witness and memory, which leads to denial of accountability for its war crimes. Such denial is akin to "the genocide of memories and, thus, the final stage of genocide". <ref type="bibr">16</ref> Relatedly, in her observation of the situation in the US, Naoko Wake notes that US Cold War ideology, which regarded the nuclear weapons as its "Good War" operations, eclipses atomic bomb victimhood within the country: "US hibakusha's experiences, raising doubts about the justness of both wars [wars of Japan and the US], have occupied little place in national remembering of the bomb". <ref type="bibr">17</ref> To broaden the context within which current scholarship understands atomic bomb victimhood, this article uses ante-victimhood to reckon with the multidimensional afterlives of Japanese militarism and US nuclear hegemony. This critical move is crucial, for it not only critiques Japan's nationalist inclination of victimhood but also situates it in the protracted rivalry between empires. More importantly, ante-victimhood allows us to see victimhood as resulting from the difficult process of reconciling Japan's past military fervour with the present reality dominated by the US's enduring nuclear hegemony.</p><p>This article studies the sociopolitical dimensions of ante-victimhood of atomic bombing via the inter-imperial entanglements of the Japanese and the US Empires. According to Doyle, inter-imperiality is a "long-historical, dialectical theory of relationship and power". <ref type="bibr">18</ref> It refers to the "multiply vectored relations among empires and among those who endure and maneuver among empires" as it examines "forms of relation through which communities have struggled amid empires". Put simply, the framework studies not just the "vying" and "interacting empires" but also individuals "who endure and maneuver among empires". <ref type="bibr">19</ref> By "tak[ing] stock of the full horizon of empires",<ref type="foot" target="#foot_6">20</ref> Doyle redirects the focus from one empire to a critique that examines one empire alongside one or more other empires, which accentuates the interconnections in the operations of empires. Doyle also examines how individuals navigate the complex terrains shaped by inter-imperiality as they are often enmeshed in "strained, vectored, and manifold convergences" of power.<ref type="foot" target="#foot_7">21</ref> These inter-imperial dynamics compel individuals to negotiate "political intertextualities and overlapping cosmologies",<ref type="foot" target="#foot_8">22</ref> highlighting the complex and often precarious positions they occupy amid larger global and historical struggles.</p><p>To better understand the inter-imperial consciousness that underlies Amaterasu's ambivalent claim as an atomic bomb victim, this study takes a historicist approach to contextualise Dictionary within the history of US nuclear hegemony in the 1980s, the era in which Amaterasu narrates her story. The death of Amaterasu's daughter in the bombing of Nagasaki marks the point where the US Empire vanquished the Japanese Empire and put Japan under its enduring control. In terms of inter-imperial entanglements, the bombing solidified US dominance as a global superpower backed by its nuclear weaponry. The looming shadow of the US's nuclear hegemony further materialised through the nuclear tests in the Marshall Islands (1946-1958), the Nevada Test Site (1951-1992), and, subsequently, the potential use of nuclear weapons in the ongoing war in Vietnam. The decades of the 70s and 80s were marked by the anti-nuclear and anti-war campaigns. The possibility of the use of nuclear weapons in the Vietnam War, Wake argues, made Asians, as a race, vulnerable to the US's nuclear power. The claim of atomic bomb victimhood "rippled outward from a small gathering" of migrants from Hiroshima and Nagasaki in the US to the Asian race. <ref type="bibr">23</ref> The activism of other Asian American organisations brought together non-Japanese Americans within this narrative of Asians as victims.</p><p>The proliferation of antinuclear movements in the US was linked to the Cold War. The period witnessed arms control treatises between the US and the Soviet Union, like the Strategic Arms Limitation Talks (SALT) II, the Intermediate-Range Nuclear Forces (INF) Treaty, and the Strategic Arms Reduction Treaty (START). Notably, in the 1980s, as Ronald Reagan's government framed the Cold War as a "morally justified" endeavour to fight against communism, civilians like scientists embarked on "moral and religious critiques of nuclear weapons". <ref type="bibr">24</ref> Against this background in the 1980s, grievances against atomic bombings were further intensified by the US government's limited acknowledgement of the atomic bomb victims, although the US Congress started to compensate the "atomic soldiers", namely the US soldiers who were exposed to the radiation in Hiroshima and Nagasaki and suffered from radiation diseases. <ref type="bibr">25</ref> This was evidence of the US's unwillingness to fully recognise the devastation caused in Japan and the trauma of those of Japanese descent like Amaterasu. <ref type="bibr">26</ref> Although these events are not a part of the novel's plot, Amaterasu is embedded in the historical period in which these dynamics of nuclear threat, victimhood, and race unfolded.</p><p>This simultaneous assimilation and alienation marks Amaterasu's life in the US, which prompts her to recall the cherished times with her family in Japan before and during wartime, fuelling the grievances against the bomb in her narrative. Her engagement with the mementoes from Japan (Hideo, Yuko's diary, and Sato's letters) traces the multiple dimensions of the conditions of ante-victimhood emerging in her narrative as she remembers the peoples invaded by Japan and the suffering of women in Japan's maledominated society.</p><p>The novel illustrates how ante-victimhood and inter-imperiality are inseparably linked through the shifting roles that empires force their subjects to inhabit. In the US, the idea of antinuclear movements during the 1980s, Rubinson notes, originated in feminist activism that criticised the oppression of nuclear weapons and patriarchal authority. <ref type="bibr">27</ref> The implication was that nuclear weapon politics was built on masculine values glorifying domination, "hard" power, and protector masculinity, which framed mass violence as rational security. It was not much different from the WWII-era Japanese militarism that fused imperial patriarchy into a hypermasculine "protector" ideology that glorified domination, sacrifice, and obedience. This gendered form of militarism normalised dehumanisation and "rational" mass violence-from kamikaze doctrine and total-war planning to channelling women's sexuality and reproductive capabilities into the war machinery. Challenging nukes is, therefore, an extension of challenging the gendered hierarchies and the abstract discourse of nationalism that hides the cost of war. Considerations of ante-victimhood reveal Amaterasu's participation in Japan's masculinist military discourse, celebrating the militarist victories of the Japanese army and participating in military drills voluntarily. In the US, she dismisses these memories through the discourse of gendered victimisation, framing herself as only a woman with no real agency (discussed later). An inter-imperial lens reveals that her victimhood is never isolated but shaped by overlapping imperial projects; she was empowered within one empire and devastated by another. Conversely, ante-victimhood makes visible how past complicity travels into the present, exposing how imperial systems produce subjects who shift between roles of perpetrator, beneficiary, and victim across imperial regimes.</p><p>The necessity of an inter-imperial historicist approach to Dictionary is indicated by the novel's most prominent formal feature, where each of the forty-two chapters is preceded by a dictionary entry. <ref type="bibr">28</ref> Each entry, presented in italics, illuminates a cultural concept in Japan with an essentialist undertone, for these attributes define the Japanese identity ahistorically. The first chapter, for instance, starts with the entry "Yasegaman": "endurance for the sake of pride". <ref type="bibr">29</ref> It codes the attribute as Japanese by referencing Ruth Benedict's essentialist claim "that Japanese culture is based on shame while American culture is based on a sense of sin or guilt". <ref type="bibr">30</ref> Against the essentialist concept, Amaterasu's claim of editing the past "to ease the guilt just enough to function" acquires a deeper meaning as it decodes the tension between the Japanese and US Empires. <ref type="bibr">31</ref> As such, an inter-imperial analysis focuses on literature's relation to geopolitics and dialectics of history "[t]hrough cunningly crafted language, gesture, and structure" 32 while also foregrounding how the conditions of ante-victimhood shape the ways characters negotiate guilt, complicity, and victimhood across imperial regimes.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Return of the Past</head><p>Amaterasu's narration begins with the unexpected visit from a disfigured man. "Even the kindness of the half-light could not hide his disfigurement … Despite the scarring, I could tell he was Japanese, in his forties or fifties[,]" she notes. <ref type="bibr">33</ref> The association between "Japanese" and "scarring" immediately contextualises the narrative in the history of the bombings of Hiroshima and Nagasaki. The man claims to be her grandson Hideo, whom she assumed had perished in the bombing of Nagasaki decades ago. Hideo's arrival sets the narrative in motion-not forwards but by returning to the past.</p><p>Amaterasu remembers her past in Japan selectively. This selective remembering is central to her ante-victimhood condition as it enables her to narrate herself solely as a victim rather than someone complicit in the imperial past of Japan. Recalling how some Americans dismissed her loss and Yuko's death, she laments, "This country was shelter from pikadon [atomic bomb] but it was not home, the people were not my own, I did not want to be close to them". <ref type="bibr">34</ref> Later, she bemoans that, despite having migrated to the US with her husband Kenzo, "pikadon followed [them]wherever [they] went", and they "would always be the enemy" for their US neighbours. <ref type="bibr">35</ref> This alienation points to the looming shadow of US nuclear hegemony and its limited acknowledgement of atomic bomb victimhood. The US's troubled relationship with the atomic bombings is also indicated by Hideo's presence in the US. Hideo was in the US as a peace organisation's representative, invited to speak about the bombs at a conference. While his presence is embedded in the narrative of US benevolence and generosity, his scars are a testimony to the US's ruthless destruction of a vast number of Japanese civilians in Hiroshima and Nagasaki. The bombing, despite being appropriated in the discourse of benevolence, underwrites US nuclear hegemony.</p><p>However, Hideo's arrival interrupts Amaterasu's self-fashioned claim to victimhood. As Vandana Saxena notes in her study of A-bomb short stories by Hayashi Kyoko, a hibakusha writer, hibakushas embody otherness in their bomb-scarred visages and traumatic experiences. This otherness of hibakusha interrupts the normative trajectory of history <ref type="bibr">29</ref> Copleton, Dictionary, 1. <ref type="bibr">30</ref> Ibid., 1. Benedict's attribution of shame culture solely to Japan, even though it "is certainly not unique to Japan", is an act of essentialism. Lie. "Ruth Benedict's Legacy of Shame", 249-261, 254. <ref type="bibr">31</ref> Copleton, Dictionary, 7 (emphasis added). <ref type="bibr">32</ref> Doyle, Inter-imperiality, 26. <ref type="bibr">33</ref> Copleton, Dictionary, 1. 34 Ibid., 13. <ref type="bibr">35</ref> Ibid., 73.</p><p>from the past to the present by revealing the persistence of the past in the present. <ref type="bibr">36</ref> Evidently, in Dictionary, Amaterasu describes the disfigured Hideo, a hibakusha man, as "an aberration", 37 a term that carries multiple layers of meaning. First, "aberration" refers to Hideo's disfigurement due to the bomb: he carries the mark of the bomb and appears out of place in the US. Second, the term signifies Amaterasu's discomfiture over Hideo's appearance-his scarred visage disrupts not only her selective memory of the past but also the life she has built in the US. Third, Hideo's return is an "aberration" in her life, for it leads her previous association with the Japanese Empire's militarism to erupt into her current life in the US. Hence, as a key image that begins the novel, Hideo's disfigured face animates the notion of ante-victimhood. After all, the encounters with hibakushas hold the self in thrall to the other and call for an ethical responsibility to bear witness to their trauma. <ref type="bibr">38</ref> In this case, they disturb Amaterasu's neat claim to victimhood as it reminds her of her own complicity with Japan's war efforts against the US.</p><p>These memories of her complicity soon become evident. Hideo's presence reminds Amaterasu of the day her seven-year-old grandson was disturbed at the sight of a mantis eating a moth. "There were hunters and prey but we were top of the food chain and he should not worry", she told him. 39 "[T]op of the food chain" refers to human dominance in the food chain. Yet, in the wartime setting of the novel, the phrase also refers to the Japanese Empire, which sits on the "top of the food chain". Such seemingly ordinary memories shatter her solipsistic account of history and create the conditions for her to confront the fact that she was as much a victim as a perpetrator of the events that ended in the bombing. This confrontation binds the text's interimperial frame to its sustained exploration of ante-victimhood.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Entanglement of the Personal and the Political</head><p>Amaterasu's distressing past in Japan emerges in her memories of her youth when she was a part of the combat training of the women's association in Japan:</p><p>We wrapped sashes across our chests and tied hachimaki to our heads. Then we picked up our weapons and ran toward life-size effigies of Roosevelt and Churchill as we shouted, 'Annihilate America! Annihilate England!' The sight was ludicrous, but I could not speak such treachery. We had to be seen to be loyal among those who still were. <ref type="bibr">40</ref> The incident outlines her involvement with Japanese militarism. Yet, the repetition of "we" and "our" articulates her unspoken desire to frame Japanese women like herself, who would only stab the effigies in training, as fundamentally different from the Japanese men who stabbed and killed real human beings. <ref type="bibr">41</ref> Retelling the past in the US, she distances herself from the acts of complicity by highlighting their ludicrousness and emphasising that that they were coerced into it by the Japanese Empire's demand for loyalty. This attempt to obscure accountability in order to hold on to the claim of victimhood draws attention to <ref type="bibr">36</ref> Saxena, "Trauma and Ethics of Responsibility", 275. <ref type="bibr">37</ref> Copleton, Dictionary, 2. <ref type="bibr">38</ref> Saxena, "Trauma and Ethics of Responsibility", 273-274. <ref type="bibr">39</ref> Copleton, Dictionary, 18. 40 Ibid., 20. <ref type="bibr">41</ref> Zhang 章. "Jiaqiang dui qinhua Rijun baoxing wenti de yanjiu", 27-33, 27. The Japanese army used unarmed Chinese civilians as human targets to train the new recruits to fight for Japan.</p><p>the manoeuvre of the US Empire and its nuclear hegemony. It obscured its accountability for the suffering inflicted on the Japanese by the atomic bombings by justifying the bombing as a way to stop the war. In either case, one sees the operations of victimhood nationalism as nations and subjects craft narratives that foreground their suffering while obscuring their acts of violence. The transnational dimensions are evident in Amaterasu's strategy that parallels the US Empire's: both displace accountability by reframing harmful actions as coerced or necessary. Ante-victimhood in this case is not just personal but structurally produced, reflecting how imperial and individual narratives of innocence are mutually reinforcing across geopolitical divides. Significantly, Amaterasu's emphasis on women's vulnerability during the war echoes Lisa Yoneyama's notion of "feminized memory", which highlights "innocence, victimhood, and perseverance with regard to prewar and wartime women". <ref type="bibr">42</ref> The ludicrousness mentioned above is attenuated as the women attacked the effigies of powerful men like the US President (Roosevelt) and the UK Prime Minister (Churchill), which represented the Allied powers that Japan fought. After mentioning "Roosevelt" and "Churchill", Amaterasu's narrative swiftly transitions to a twelve-page description of the chaos in Nagasaki after the bombing. This scene, when read through an inter-imperial lens, illustrates Amaterasu as one of the "imperially entangled actors" who navigates the history shaped not just by the Japanese and the US Empires but also by the British Empire. <ref type="bibr">43</ref> The scene evokes ante-victimhood in gendered terms, where Japanese women were mobilised to bolster a nation whose masculinist militarism to assert dominance over the world existed alongside that of the US, the atomic bomb-wielding power. In Japan's oppressive patriarchal order, women were instrumentalised as tools to antagonise rival empires, embodied by the effigies of Churchill and Roosevelt. The act of stabbing effigies becomes a powerful symbol of how women's bodies and emotions were co-opted into a ritual of militarised nationalism, where men enacted violence on real bodies while women rehearsed its spectacle. This dynamic not only underscores the patriarchal exploitation of women in war but also highlights how imperial rivalries-Japan's and the US's-depended on gendered hierarchies to sustain their visions of dominance.</p><p>These gender connotations resurface in another poignant scene in the sixth chapter, when Amaterasu recalls one of her earlier conflicts with Yuko on the issue of her affair with Sato. 44 From Yuko's diary, she learns that in 1936, teenage Yuko was seduced by Dr Sato during a medical examination. When Sato and Yuko passed the children's ward, "[h]e turned to her and said, 'I'm sure you draw well, Yuko, but your fingers may have other skills. You can play a role in this nation of ours, and not just by producing sons'". <ref type="bibr">45</ref> Noteworthily, Sato's phrase "producing sons" evokes Japan's imperial past, where women were encouraged to produce soldiers and imperial subjects. <ref type="bibr">46</ref> The gendered military policy was part of Japan's approach to strengthening its empire, and producing more sons meant having more soldiers die for the imperial machinery. At the same time, Yuko's experiences filtered through Amaterasu's consciousness show the <ref type="bibr">42 Yoneyama,</ref><ref type="bibr">Hiroshima Traces,</ref><ref type="bibr">193</ref>. <ref type="bibr">43</ref> Doyle, Inter-imperiality, 17. <ref type="bibr">44</ref> Copleton, Dictionary, 41. <ref type="bibr">45</ref> Ibid., 43. <ref type="bibr">46</ref>  Mackie, Feminism in Modern Japan, 111.  way Amaterasu appropriates Yuko's vulnerability to her own narrative of women's helplessness in the face of Japan's war machinery.</p><p>These moves allow Amaterasu to locate her complicity with Japanese militarism within the narrative of gender and victimhood or women as helpless victims of war. For the US, too, Japanese women were expendable in the tension between Japan and the US. As some Americans told Amaterasu, "Those bombs ended the war; think of the thousands of lives saved by your daughter's death; at least you and your husband have each other. Such casual dismissal of the loss". <ref type="bibr">47</ref> Just as the Japanese Empire sought to harness the sexual labour of young women like Yuko to feed its war machinery, the US Empire views women like Yuko as expendable to establish peace using atomic bombs. This echoes Doyle's remark about the positioning of gender in an inter-imperial rivalry: "as empires expand or reconstitute themselves, they reproduce androcentric and hegemonic power". <ref type="bibr">48</ref> In Dictionary, through Amaterasu, Copleton explores the feminine subjectivity negotiating this hegemonic power of the empires. Amaterasu resists silence by choosing to tell the story of her suffering during and after the War. Yet, given the reluctance to admit complicity, she resorts to various justifications, including the claim of being a victim of the power matrix.</p><p>Yuko's diary destabilises Amaterasu's selective account of the past. Often, Amaterasu's crisp and concise recollection is interrupted by the emotive and sensory language of Yuko's diary, which describes her persistent yearning for Sato, even after Amaterasu had separated her from Sato and arranged her marriage to Shige Watanabe. The personal and the political are entangled in Amaterasu's narration: "The year of Yuko's marriage, 1937, we entered into an undeclared war with China that raged from Manchuria in the north to the borders of French Indochina in the south". <ref type="bibr">49</ref> These recollections are underpinned by her sense of pride in "the bettering of a nation", in which "all of the Japanese people, even [the] young, were to unite in a great battle" for "a Greater Asia Co-prosperity Sphere". <ref type="bibr">50</ref> As she further recalls, Films were made of our great triumphs in Hawaii and Malay. <ref type="bibr">51</ref> We held lantern parades to celebrate and lines of people waited outside the cinema desperate to hear of more victories. In news reports our pilots stood proud and handsome in white mufflers as they drank their farewell cups of sake. 'Banzai', the audience would shout, cheering in the dark. When footage flickered on captured enemy soldiers, humiliated in their surrender, we felt a quieter pride. The authorities described our forces as 'invincible' and our men were 'military gods'. But we could not deny that these results seemed to come at terrible costs: many men never came home. And now we had the combined beast of America and Britain straining at the leash. <ref type="bibr">52</ref> Here, Amaterasu's insistence on being coerced by Japan's masculine war machinery is rendered unstable. While she extols Japan's ultranationalist militarism-"great triumphs", "victories", as well as "proud and handsome" Japanese pilots-the sufferings of those attacked by Japan are silenced. She revels in "a quieter pride" upon knowing how soldiers of other countries were humiliated. It alludes to Amaterasu's attachment <ref type="bibr">47</ref> Copleton, Dictionary, 6-7. <ref type="bibr">48</ref> Doyle, Inter-imperiality, 45. <ref type="bibr">49</ref> Copleton, Dictionary, 174. 50 Ibid., 174-175. <ref type="bibr">51</ref> The correct term for the region should be "Malaya". <ref type="bibr">52</ref> Copleton, Dictionary, 177.</p><p>to her privilege of being born into a hierarchised imperial system, "top of the food chain" as she told young Hideo.</p><p>On the contrary, Yuko's diary expresses fear and anxiety over the consequences of Japanese imperial militarism: "But soldiers are dying, our nation's ambitions are killing them. More volunteers head overseas to do their duty, more young boys are drafted to active service. I pray our family will be spared. But why should we be? Why would God help us and not others?".<ref type="foot" target="#foot_15">53</ref> Yuko's fears were realised when Shige was recruited for the war and subsequently disappeared. This turn of events led Yuko to resume her affair with Sato, which ended in an illegitimate pregnancy and ultimately her presence at the Urakami Cathedral on the day of the bombing, where the mother and daughter had decided to meet before going for an abortion.</p><p>Thus, the return of the past-initiated by Hideo's arrival at her doorstep and furthered by the revelations in Yuko's diary-reveals the intricate entanglements of the personal and the political. It resonates with Mari Yamamoto's incisive remark: "the atomic bombings of Hiroshima and Nagasaki [were] the culmination of a conflagration that the Japanese themselves had started". <ref type="bibr">54</ref> Rather than a passive victim or an accomplice, Amaterasu's narrative reveals the ambiguities that mark her position as a subject caught in inter-imperial power shifts.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Inter-imperial Continuities</head><p>Apart from Amaterasu's heavily curated memories and Yuko's diary, Dictionary also presents another account of the past from Sato, Yuko's much older lover. As Hideo makes his unexpected return, he brings letters from Sato written to the deceased Yuko out of his deep longing for her. Hideo also reveals that Sato passed away around 1972. Amaterasu's reading of Sato's accounts alongside her narration is a key moment that reveals how inter-imperial continuities shape personal memory and historical understanding of the past and the present. Like Amaterasu, Sato joined Japan's military effort as a loyal citizen, a man operating on the war front. Yet, unlike Amaterasu who felt a "quieter pride" in news of Japan's war victories, Sato "carried China with him" after his return to Japan: "The cries of the prisoners, the staff sheathed in white safety suits, that iron gate to the inner complex: they haunted him". <ref type="bibr">55</ref> Hence, if Yuko's diary undercuts Amaterasu's atomic bomb victimhood by revealing their personal entanglements with history, Sato's letters further undo the victim-perpetrator binary by showing the unviability of framing Japan exclusively as a victim while obscuring its wartime atrocities. Through the letters, the novel unsettles Amaterasu's narrative of suffering, situating her within social and political networks that challenge the overpowering appeal of victimhood. The juxtaposition of the different memories lays bare the colonial and gendered injustices that undercut Japan's victimhood nationalism and, by extension, Amaterasu's, given the centrality of Japan to her identity. Through the ante-victimhood dynamics, the novel stages the conditions that compel her to rethink her association with the Japanese as the perpetrators of the war.</p><p>In his letters, Sato recounted his involvement in Japanese militarism during the 1940s in China, where his training as an immunologist was exploited by Japanese doctors and scientists who conducted research on diseases like plague, cholera, and anthrax using the "die-hard anti-Japanese" and "incorrigible" Chinese civilians. <ref type="bibr">56</ref> The personnel belonged to Unit 731, which masqueraded as the "Epidemic Prevention and Water Purification Department of the Kwantung Army" systematically engaged in activities like developing warfare and field experiments as well as producing biological agents in artillery shells. As the Japanese men "fought" the war using these scientific experiments and knowledge, they visited women named "Peony, Chrysanthemum, Lotus, Plum Blossom" at the "Comfort Palace". <ref type="bibr">57</ref> Ironically, very few Japanese men who conducted biological experiments in China were punished by the US: "They knew too much, their knowledge of bacteriological warfare was too important. Many returned from China to senior posts at hospitals, universities and research laboratories, both in Japan and America". <ref type="bibr">58</ref> Notwithstanding the rivalry between the Japanese and US Empires, Japan's wartime atrocities were harnessed by the US for scientific development. This inter-imperial continuity echoes "a fundamental, unstable, ever-unfolding relationality that subtends both opposition and cooperation" between empires. <ref type="bibr">59</ref> Much like the expendability of young Japanese women like Yuko in the conflict between Japan and the US, the racial and the gendered others in Sato's story, the Chinese as well as the women of the "Comfort Palace", were expendable in the pursuit of scientific knowledge. Hence, although the discourses of benevolence bolster US nuclear hegemony and foster the sense of victimhood in Amaterasu, Sato's letters show how the US, Amaterasu's new home, converges with Japan's oppressive and exploitative military violence through shared ideologies.</p><p>Besides science, the business sector, too, is implicated in the conflict. Through Yuko's diary, Amaterasu learns that both Kenzo and Shige had worked for Mitsubishi. Kenzo tells Shige that, "As employees of Mitsubishi we find ourselves at the forefront of our nation's [Japan's] imperial and domestic ambitions. The years ahead will be busy ones with much opportunity for both of us". <ref type="bibr">60</ref> Importantly, Amaterasu recalls at the beginning of Dictionary that "the week before [Nagasaki was bombed,] fifty bombers had targeted the Mitsubishi shipyard". <ref type="bibr">61</ref> Though not explicitly mentioned in the novel, Mitsubishi was a notable manufacturer of battleships and weaponry in wartime Japan. <ref type="bibr">62</ref> This historical insight points to the complicity of Amaterasu's family in Japan's war efforts.</p><p>It bears noting that, by the end of the war, outside investors in Mitsubishi, including Japan's wartime enemies like the Americans and the British, held major equity shares in the organisation. In fact, Koyata Iwasaki from the Iwasaki family, the founders of Mitsubishi, stated during the war, "We count many British and Americans among our business partners … They are our friends who have undertaken projects together with us and who have shared interests with us. Should peace come again, they should again become good <ref type="bibr">56 Ibid.,</ref><ref type="bibr">194. 57 Ibid.,</ref><ref type="bibr">195. 58 Ibid.,</ref><ref type="bibr">197 (emphasis added)</ref>. <ref type="bibr">59</ref> Doyle, Inter-imperiality, 4 (emphasis added). <ref type="bibr">60</ref> Copleton, Dictionary, 148. 61 Ibid., 21. <ref type="bibr">62</ref> Kamata and Salaff. "The Atomic Bomb and the Citizens of Nagasaki", 45. Pertinently, the bombing of Mitsubishi Nagasaki claimed the lives not merely of the Japanese but also of the Korean colonial subjects (Pak Su Ryong) and the Allied prisoners of war (Jidayu Tajima). Ibid., 42.</p><p>and faithful friends". <ref type="bibr">63</ref> In the 1980s (the present in which Amaterasu narrates her life story), Mitsubishi collaborated with Chrysler, a US corporation, to expand business in the US. <ref type="bibr">64</ref> Through the collaboration, Mitsubishi managed to distribute its cars in the US under the name of Chrysler. <ref type="bibr">65</ref> The trajectory of Mitsubishi, once marked by its prominent involvement in Japan's military activities during a time of tension with the US, shows the way rival empires converge towards cooperation when beneficial. Placed within these larger considerations of inter-imperial collaborations that co-exist along with wartime rivalries, Amaterasu's personal narratives destabilise the victim-perpetrator binary. These considerations foreground the dynamics of ante-victimhood: Amaterasu's tragedies, though real, are inseparable from the benefits and complicities inherited through networks of militarism, knowledge-sharing, and capital that spanned both the Japanese and US Empires, rendering her claim to victimhood ethically and historically ambivalent. These inter-imperial entanglements are most evident in the figure of Hideo. Through Sato's letters, Amaterasu discovers that the "Hideo" adopted and raised by Sato might not be her grandson. Sato had believed the child hibakusha he met in an orphanage to be Yuko's son (Hideo Watanabe) simply because the child identified himself as "Hideo". <ref type="bibr">66</ref> Sato's revelation prompts Amaterasu to wonder about what would have happened if Sato had returned Hideo to her when she had moved to the US many years ago: "This Hideo Watanabe would have been a blend of Japanese past and American future". <ref type="bibr">67</ref> The blend indicates her recognition of the untenability of staying away from the "Japanese past" or persisting in her detachment from America, the country where she now resides. She acknowledges that the "American sanctuary" allows her to focus on "the good from the life [she] had abandoned" such as the happy childhood moments with Yuko. <ref type="bibr">68</ref> Elsewhere, she also describes the US as place of refuge: "America had given us a second chance" 69 and "America was a place to heal as best we could". <ref type="bibr">70</ref> Even the disfigured Hideo had once received plastic surgery from "[a] surgeon from America". <ref type="bibr">71</ref> Hence, Amaterasu's preference for the US as a sanctuary suggests that the US provided her with chance to heal.</p><p>To a certain extent, Copleton's portrayal of how Amaterasu views the US as her "sanctuary", despite lingering grievances, resonates with the experiences of the previously mentioned hibakusha writer, Hayashi, who also survived the atomic bombing in Nagasaki. Hayashi lived in Virginia for three years in the 1980s. Her hibakusha acquaintances in Japan wondered why she moved to the US, Japan's former adversary. However, Hayashi's works convey that there is no significant difference between individuals who constitute the collectivity, whether American or Japanese. She articulates her belief in human equality. <ref type="bibr">72</ref> Amaterasu seems to share this belief, albeit in a more nuanced manner. She subscribes to the notion of US "sanctuary", yet her belief in US benevolence is fragile, as Sato's letters compel her to realise that both Japan and the US were equally culpable in wreaking the destruction through their military operations. This awareness galvanises the workings of ante-victimhood in her narrative, which disrupts the historical perspective that her selfidentification often relies on amid her entanglement with the hegemonic powers.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Effacement of Selfhood</head><p>Now, in the twilight of her life and grappling with the past, Amaterasu laments, "Only scavengers and liars and cheats survived. The best of us died young back then". <ref type="bibr">73</ref> The phrase "the best of us died young" denotes her mourning for Yuko. Conversely, "scavengers and liars and cheats" conveys her self-reproach for her complicity with Japan. Such self-reproach is compounded by her guilt of being partly responsible for Yuko's death (she had insisted on the abortion of Yuko's illegitimate child and fixed the place of meeting) while continuing to live in the US, the country responsible for the bombing. The sentiment resonates with The Bells of Nagasaki, a renowned non-fiction by Takashi Nagai. To Nagai, good people are "saved (by their instantaneous deaths)", whereas "sinners (read hibakusha)" endure postwar suffering. <ref type="bibr">74</ref> While Nagai uses this idea to endow the deceased with moral dignity, Copleton uses it to frame Amaterasu as one of the "sinners" who must endure the bomb's enduring impact. <ref type="bibr">75</ref> To depict the transformation of Amaterasu's self-perception as an atomic bomb victim, Dictionary occasionally makes the narrating "I" vanish when her complicity surfaces. In the Mitsubishi incident mentioned earlier, Amaterasu remains an observer throughout. While the scene imaginatively re-presents the incident recorded in Yuko's diary, Amaterasu does not insert her own opinions and emotions, which is unusual in her overall narrative pattern. This detachment carries the weight of the past, which has led to the silent effacement of selfhood from the problematic history at the individual level. Such self-effacement reveals her attempt to avoid facing her past complicity. It also highlights conditions of ante-victimhood as she clings to her suffering even as her memories threaten to destabilise it. Her propensity to cling to her suffering also illustrates the effect of discourses of the US Empire's nuclear hegemony. Historically, as the US proclaimed the bombs as the weapons of peace, some Japanese American hibakushas were unwilling to participate in anti-nuclear activism, fearing that their memories would be too problematic given the complex ideological forces surrounding the afterlives of the Hiroshima and Nagasaki bombings. <ref type="bibr">76</ref> Hence, one sees why, being tethered to Japan, Amaterasu chooses silent insistence on being a victim of the war.</p><p>Towards the end of the novel, Dictionary depicts Amaterasu's effacement of selfhood through a dense repetition of the narrating "I", which fragments the entity "I" into smaller pieces. This fragmented "I" acknowledges its powerlessness in the face of the gigantic imperial forces of Japan and the US. This writing technique is mobilised when Amaterasu returned to Nagasaki and revisited the Urakami Cathedral. There, she reprimanded herself while imagining the day Yuko was killed when the cathedral <ref type="bibr">73</ref> Copleton, Dictionary, 142. <ref type="bibr">74 Treat,</ref><ref type="bibr">Writing Ground Zero,</ref><ref type="bibr">347. 75</ref> In the acknowledgements of Dictionary, Copleton states that she referred to Nagai's book when writing the novel. <ref type="bibr">76</ref> Uchino, "Representing Atomic Memory", 205.</p><p>was bombed by the US. Her narrative then drifts to a liturgy-esque series of pleas to God: "I asked that he might set me free. I asked that he might show me how to live again. I asked him to deliver a message. I whispered the words over and over again as outside the neon lights of the city flickered to life". <ref type="bibr">77</ref> Formally, the repeated "I"s in Amaterasu's prayer signal the weakening of the solipsistic narrative of victimhood that she had clung to. In the Urakami Cathedral, where Yuko perished, Amaterasu confronts the other, the real victims of the bomb like Yuko, the real subjects of traumatic history. As Saxena insists, a confrontation with such a subject "unsettles the cohesive and confident egological self and calls for responsibility" of "opening oneself to the trauma of the other, of experiencing the vulnerability that the rupturing of selfhood entails". <ref type="bibr">78</ref> Evidently, following the liturgyesque supplication to God, Amaterasu tried to seek Yuko's forgiveness: "Peace, Yuko. Peace, Daughter. Peace, my beautiful child. You are the pearl in the shell of my heart. Forgive me. I love you. Goodbye". <ref type="bibr">79</ref> The fragments of very short phrases, particularly the phrase "Forgive me", suggest recognition of Yuko's victimhood rather than her own. This moment captures the ethical turn in the condition of ante-victimhood, as Amaterasu moves away from self-preservation through victim identity towards an acknowledgment of otherness and the suffering of those who endured the atrocities. It is a moment of what Dominick LaCapra calls "empathic unsettlement", wherein the subject experiences the pain of the other while acknowledging her otherness at the same time. <ref type="bibr">80</ref> The ethical turn of ante-victimhood is extended as she seeks Yuko's forgiveness: "I wanted to mourn all of the woman in the journals and letters, not just the one trapped in the cathedral when pikadon hit". <ref type="bibr">81</ref> It evokes the earlier analysis of how Japanese women were subordinated to men's needs, civilian or military, in a rigid gender hierarchy. By recognising their silenced lives, Amaterasu moves beyond the narrow confines of her personal grief and suffering. Her narrative assumes a critical stance, through which she distances herself from the dominant frames and attends to the stifled voices overshadowed by Japan's prevailing narrative of victimhood or the US's insistence on its moral justness.</p><p>The erasure of the solipsistic narrative of victimhood enables Amaterasu to revisit her old home in Nagasaki (which is now inhabited by another family). In recounting her visit to the old home, she describes the postwar city as such: "Nagasaki wasn't just pikadon: it was a ladybug cake made with red candies and chocolate frosting, a sumo wrestler ring made out of children's socks, a child leaning against you while she draws, a young kiss on your old cheek". <ref type="bibr">82</ref> The recurring imagery of children here suggests that there is hope immanent in this reconciliation with Nagasaki. Hence, the "mutual understanding" in the novel's title refers to a reconciliation of her present self with her past self. The memories of her wartime complicity with the Japanese Empire's militarism, despite their elusiveness, will persist in her narrative under the influence of the US Empire's nuclear hegemony. In this recognition, what her narrative also demonstrates, implicitly, is an understanding of inter-imperial dynamics in which individuals find themselves. <ref type="bibr">77</ref> Copleton, Dictionary, 283. 78 Ibid., 288-289. <ref type="bibr">79</ref> Ibid., 283. 80 LaCapra, Writing History, Writing Trauma, 97. <ref type="bibr">81</ref> Copleton, Dictionary, 282. <ref type="bibr">82</ref> Copleton, Dictionary, 287-288.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Conclusion</head><p>This article puts forth the notion of ante-victimhood to rethink the emotional weight carried by narratives of atomic bomb victimhood, which, without critical scrutiny, risks obscuring the larger sociopolitical contexts that shape the narratives of victimisation. Ante-victimhood takes into account multitudinous social and political relations that refuse to be subsumed under the compelling victim-perpetrator binary. Through a close reading of Copleton's Dictionary, this article examines Japan's victimhood nationalism alongside the complicity with Japanese militarism, the victimhood of peoples attacked by Japan, and the oppression of Japanese women-social phenomena that unfold respectively before, against, and alongside the atomic bombing. Such a broader context allows for a critique of the militarist and masculinist outlook of Japanese society that fuelled its imperial expansion. Put simply, it scrutinises victimhood without reifying it as the central, if not the only, mode of enquiry. In this manner, it negotiates between a transnational critique of atomic bomb victimhood, a tragedy perpetrated by the US Empire, and a critique of the power structures orchestrated by Japan, the metropole of the Japanese Empire.</p><p>To study the multidimensional relations of ante-victimhood, this article takes as its point of departure Amaterasu's ambivalence in confronting her complicity with Japanese imperialism. Through Doyle's inter-imperial framework, it pursues the argument that Amaterasu's atomic bomb victimhood is a result of her attempts to manoeuvre between the Japanese Empire's militarism and the US Empire's nuclear hegemony. It is in this inter-imperial nexus that the dynamics of ante-victimhood emerge, with shifting degrees of intensity, in her narration. While the US's mainstream society's indifference towards the atomic bombing reinforces her grievance, her encounters with other characters (in person or via their mementoes) dislodge her from the identity so as to glimpse the subdued history of imperialism and gender.</p><p>Therefore, this article reads the novel against the backdrop of the nuclear hegemony of the 1980s US, the context in which Amaterasu recounts her story. It encompasses the decade's anti-nuclear movements, including those mounted by women, which unfolded alongside the US's appropriation of the bombings into its narrative of peace and benevolence, all underpinned by the Cold War moral justification for nuclear weaponry. This backdrop shapes Amaterasu's alienation in the US and provides clues to understanding her persistent attachment to the claims of atomic bomb victimhood, built on her silence and wilful amnesia regarding her past complicity with Japanese militarism. It is only through Hideo's unexpected return, which drives her to read Yuko's diary and Sato's letters, that she is prompted to grapple with her past complicity with Japanese militarism. Multiple narratives reflect the entanglement of the personal lives of the characters and the larger political events of the war. Amaterasu's story illustrates how individuals in imperial conflicts must navigate survival, memory, and moral compromise. As Amaterasu grapples with her complicity, her narrative evolves to the eventual emergence of an "I" that is non-solipsistic and oriented to the other, namely victims like Yuko or Hideo. Overall, the inter-imperial analysis demonstrates that the term "mutual understanding" in the novel's title articulates the reconciliation between her current atomic bomb victimhood and her younger self's complicity with Japanese militarism.</p><p>With that, this article offers a critical direction for future research: while the US's bombs brought immense destruction to Japan, they paradoxically strengthened the diasporic connection between the Japanese Americans impacted by the bomb and their ancestral homeland in Japan. This situation is debilitating because the bombs led to an identity shaped primarily by the inseverable bond with Japan, as exemplified by Amaterasu's narrative. Despite having resided in the US for about forty years, the memory of the bomb continually triggers her to wrestle with, and even reconstruct, her past life in Japan in its political or apolitical aspects. The structure of the novel elucidates this point. Although the older Amaterasu recounts her life experiences in the US, she devotes most of her narrative to her memories of Japan rather than the US. Since the impact of the atomic bombs transcended the national borders, Amaterasu's intense fixation on Japan's history of being bombed reveals a highly privileged discursive position. This fixation simultaneously suggests that the atomic bombs have positioned Japan at the centre of the discourses on nuclear weapons. In this light, Dictionary articulates Japan's ambivalence towards its historical identity within a broader inter-imperial context of Japanese militarism and US nuclear hegemony. The critical considerations offered by ante-victimhood situate victimhood amid a network of multidimensional social and political relations. Ideologically, it also expresses how the tragedy undermines the possibility for the Japanese American victims to ever break free from the weighty memories of Japan, which are inextricably entwined with the enduring nuclear hegemony of the US.</p></div>			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="6" xml:id="foot_0"><p>Kazanjian conceptualises "ante-possession" as a challenge to the prevailing framing of dispossession, usually predicated on land and labour, within the structures of racial capitalism and colonialism in seventeenth-century and contemporary Americas. Kazanjian, "Ante-Possession", 864.</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="15" xml:id="foot_1"><p>Orr, The Victim as Hero, 7.   </p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="16" xml:id="foot_2"><p>Lim, Victimhood Nationalism, 257.   </p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="17" xml:id="foot_3"><p>Wake, American Survivors, 3.   </p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="18" xml:id="foot_4"><p>Doyle, 1.   </p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="19" xml:id="foot_5"><p>Ibid., 4.   </p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="20" xml:id="foot_6"><p>Ibid., 18.   </p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="21" xml:id="foot_7"><p>Ibid., 256.   </p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="22" xml:id="foot_8"><p>Ibid., 22.   </p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="23" xml:id="foot_9"><p>Wake, American Survivors, 215.   </p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="24" xml:id="foot_10"><p>Rubinson, Redefining Science, 236.   </p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="25" xml:id="foot_11"><p>Lifton, Hiroshima in America, 257.   </p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="26" xml:id="foot_12"><p>Even until the twenty-first century, as Wake laments, the US has yet to offer medical compensation to the civilian Japanese American hibakushas in the country to avoid "rais[ing] too many questions about the bomb's morality and legality." Naoko Wake, "The 'Hiroshima Maidens' on Different Shores", 201-221, 216; In 1953, the US offered free plastic surgery for twenty-five Japanese hibakusha women, known as the Hiroshima Maidens, which was an ironic attempt to exculpate its atrocities and fashion itself into a magnanimous guardian of peace. Dictionary's figuration of Hideo as a hibakusha is a critique of the</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="27" xml:id="foot_13"><p>incident.27  The period witnessed the growth of women's antinuclear organisations, such as the Women's Encampment for a Future of Peace and Justice, Feminists Insist on a Safe Tomorrow (FIST), and the Women's Encampment at Seneca Falls. Rubinson,</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="28" xml:id="foot_14"><p>Redefining Science, 21628  The entries, Copleton remarks in the acknowledgements, are taken from Bates Hoffer's and Nobuyuki Honna's An English Dictionary of Japanese Culture.</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="53" xml:id="foot_15"><p>Ibid., 174.   </p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="54" xml:id="foot_16"><p>Yamamoto, Grassroots Pacifism, 212.   </p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="55" xml:id="foot_17"><p>Copleton, Dictionary, 197.   </p></note>
+		</body>
+		<back>
+
+			<div type="acknowledgement">
+<div><head>Acknowledgements</head><p>This article is derived from <rs type="funder">Ngoi Hui Chien's dissertation submitted for the degree of Master of Arts</rs> in the <rs type="institution">Department of English, Faculty of Arts and Social Sciences, Universiti Malaya</rs>, supervised by <rs type="person">Dr. Vandana Saxena</rs> and <rs type="person">Dr. Fiona Lee Hsiao Yen. Ngoi</rs> sincerely thanks both of them for their constructive feedback on his earlier endeavour in this research. Furthermore, Ngoi thanks <rs type="person">Ashley Cohen</rs>, the instructor of "ENGL 530 -The <rs type="projectName">Dispossessed Eighteenth Century" (Summer 2025</rs>) at the <rs type="affiliation">University of Southern California</rs>, for introducing him to <rs type="person">David Kazanjian</rs>'s scholarship, which is crucial to the conceptualization of "ante-victimhood". An earlier version of this article was also presented by <rs type="funder">Ngoi at the Global Complicities Symposium</rs> (<rs type="grantNumber">5-6 June 2023</rs>), and he is grateful for the helpful feedback from the participants. Finally, Ngoi and Saxena thank the peer reviewers for the insightful comments, which have strengthened the rigour of this article.</p></div>
+			</div>
+			<div type="funding">
+<div><head>Funding</head><p><rs type="person">Ngoi Hui Chien</rs> gratefully acknowledges that this research was supported by the <rs type="funder">USC Dana and David Dornsife College of Letters, Arts and Sciences/Graduate School</rs> Fellowship.</p></div>
+			</div>
+			<listOrg type="funding">
+				<org type="funded-project" xml:id="_s7HZaqs">
+					<orgName type="project" subtype="full">Dispossessed Eighteenth Century&quot; (Summer 2025</orgName>
+				</org>
+				<org type="funding" xml:id="_zKCsjKd">
+					<idno type="grant-number">5-6 June 2023</idno>
+				</org>
+			</listOrg>
+			<div type="annex">
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Disclosure Statement</head><p>No potential conflict of interest was reported by the authors.</p></div>			</div>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<analytic>
+		<title level="a" type="main">The Role of State Shinto and Sport in Integrating Singapore into the Japanese Empire, 1942-45</title>
+		<author>
+			<persName><forename type="first">Kevin</forename><surname>Blackburn</surname></persName>
+		</author>
+		<idno type="DOI">10.1017/S0022463423000668</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Southeast Asian Studies</title>
+		<imprint>
+			<biblScope unit="volume">54</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="645" to="666" />
+			<date type="published" when="2023">2023</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<title level="a" type="main">International Report; Mitsubishi Motors Greet Maturity</title>
+		<author>
+			<persName><forename type="first">Susan</forename><surname>Chira</surname></persName>
+		</author>
+		<ptr target="https://www.nytimes.com/1985/04/22/business/international-report-mitsubishi-motors-greets-maturity.html" />
+	</analytic>
+	<monogr>
+		<title level="j">The New York Times</title>
+		<imprint>
+			<date type="published" when="1985">1985</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<monogr>
+		<title level="m" type="main">A Dictionary of Mutual Understanding</title>
+		<author>
+			<persName><forename type="first">Jackie</forename><surname>Copleton</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2015">2015</date>
+			<publisher>Windmill Books</publisher>
+			<pubPlace>London</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<monogr>
+		<title level="m" type="main">Inter-imperiality: Vying Empires, Gendered Labor, and the Literary Arts of Alliance</title>
+		<author>
+			<persName><forename type="first">Laura</forename><surname>Doyle</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2020">2020</date>
+			<publisher>Duke University Press</publisher>
+			<pubPlace>Durham</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title level="a" type="main">A Dictionary of Mutual Understanding</title>
+		<author>
+			<persName><forename type="first">Lorna</forename><surname>Hanlon</surname></persName>
+		</author>
+		<ptr target="https://dura-dundee.org.uk/2016/05/17/dictionary-of-mutual-understanding/" />
+	</analytic>
+	<monogr>
+		<title level="m">Dundee University Review of the Arts</title>
+		<imprint>
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title level="a" type="main">The Atomic Bomb and the Citizens of Nagasaki</title>
+		<author>
+			<persName><forename type="first">Sadao</forename><surname>Kamata</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Stephen</forename><surname>Salaff</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/14672715.1982.10412647</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Bulletin of Concerned Asian Scholars</title>
+		<imprint>
+			<biblScope unit="volume">14</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<date type="published" when="1982">1982</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title level="a" type="main">Ante-Possession: A History of Dispossession&apos;s Present</title>
+		<author>
+			<persName><forename type="first">David</forename><surname>Kazanjian</surname></persName>
+		</author>
+		<idno type="DOI">10.1093/alh/ajac091</idno>
+	</analytic>
+	<monogr>
+		<title level="j">American Literary History</title>
+		<imprint>
+			<biblScope unit="volume">34</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="863" to="892" />
+			<date type="published" when="2022">2022</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<monogr>
+		<title level="m" type="main">Wenxue ruhe miaoxie &quot;yuanbao&quot; 文学如何描写&quot;原爆&quot; [How Literature Describes Atomic Bombings]. Trans. by Dongmei Hou 侯冬梅and Wenbin Li李文 彬</title>
+		<author>
+			<persName><forename type="first">Kazuo</forename><surname>Kutoko</surname></persName>
+		</author>
+		<author>
+			<persName><surname>黑古一夫</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2005">2005. 2020</date>
+			<publisher>Zhejiang Gongshang University Press</publisher>
+			<pubPlace>Hangzhou</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<monogr>
+		<title level="m" type="main">Writing History, Writing Trauma</title>
+		<author>
+			<persName><forename type="first">Dominick</forename><surname>Lacapra</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2001">2001</date>
+			<publisher>Johns Hopkins University Press</publisher>
+			<pubPlace>Baltimore</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title level="a" type="main">Ruth Benedict&apos;s Legacy of Shame: Orientalism and Occidentalism in the Study of Japan</title>
+		<author>
+			<persName><forename type="first">John</forename><surname>Lie</surname></persName>
+		</author>
+		<idno type="DOI">10.1163/156853101X00064</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Asian Journal of Social Science</title>
+		<imprint>
+			<biblScope unit="volume">29</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<date type="published" when="2001">2001</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<monogr>
+		<author>
+			<persName><forename type="first">Robert</forename><surname>Lifton</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Jay</surname></persName>
+		</author>
+		<title level="m">Hiroshima in America: Fifty Years of Denial</title>
+		<meeting><address><addrLine>New York</addrLine></address></meeting>
+		<imprint>
+			<publisher>G. P. Putnam&apos;s Sons</publisher>
+			<date type="published" when="1995">1995</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title level="a" type="main">Transnational History of Victimhood Nationalism-On the Transpacific Space</title>
+		<author>
+			<persName><forename type="first">Jie-Hyun</forename><surname>Lim</surname></persName>
+		</author>
+		<ptr target="https://studiapolitologica.uken.krakow.pl/article/view/2612" />
+	</analytic>
+	<monogr>
+		<title level="j">Studia Politologica</title>
+		<imprint>
+			<biblScope unit="volume">13</biblScope>
+			<biblScope unit="issue">165</biblScope>
+			<biblScope unit="page" from="19" to="30" />
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+	<note>Annales Universitatis Paedagogicae Cracoviensis</note>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<monogr>
+		<title level="m">Victimhood Nationalism</title>
+		<meeting><address><addrLine>New York</addrLine></address></meeting>
+		<imprint>
+			<publisher>Columbia University Press</publisher>
+			<date type="published" when="2025">2025</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<monogr>
+		<author>
+			<persName><forename type="first">Vera</forename><surname>Mackie</surname></persName>
+		</author>
+		<title level="m">Feminism in Modern Japan: Citizenship, Embodiment and Sexuality</title>
+		<meeting><address><addrLine>Cambridge</addrLine></address></meeting>
+		<imprint>
+			<publisher>Cambridge University Press</publisher>
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<title level="a" type="main">A Dictionary of Mutual Understanding&apos; Frames the Universal Horror of Atomic Weapons</title>
+		<author>
+			<persName><forename type="first">Iain</forename><surname>Maloney</surname></persName>
+		</author>
+		<ptr target="https://www.japantimes.co.jp/culture/2015/07/18/books/book-reviews/dictionary-mutual-understanding-frames-universal-horror-atomic-weapons/" />
+	</analytic>
+	<monogr>
+		<title level="j">Japan Times</title>
+		<imprint>
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title level="a" type="main">History of Mitsubishi Group</title>
+		<author>
+			<persName><forename type="first">Mitsubishi</forename><surname>Electric</surname></persName>
+		</author>
+		<ptr target="https://www.mitsubishielectric.com/en/about/history/overview/group_history/index.html" />
+	</analytic>
+	<monogr>
+		<title level="m">#:∼:tex=An%20 ambitious%20young%20man%20named</title>
+		<imprint/>
+	</monogr>
+	<note>Mitsubishi Electric. range%20of%20manufacturing%20and%20commerce</note>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<monogr>
+		<title level="m" type="main">The Victim as Hero: Ideologies of Peace and National Identity in Postwar Japan</title>
+		<author>
+			<persName><forename type="first">James</forename><surname>Orr</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2001">2001</date>
+			<publisher>University of Hawai&apos;i Press</publisher>
+			<pubPlace>Honolulu</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<monogr>
+		<title level="m" type="main">Redefining Science: Scientists, the National Security State, and Nuclear Weapons in Cold War</title>
+		<author>
+			<persName><forename type="first">Paul</forename><surname>Rubinson</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2016">2016</date>
+			<publisher>University of Massachusetts Press</publisher>
+			<pubPlace>Amherst</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<analytic>
+		<title level="a" type="main">Trauma and Ethics of Responsibility: Levinas and Hayashi Kyoko&apos;s A-bomb Literature</title>
+		<author>
+			<persName><forename type="first">Vandana</forename><surname>Saxena</surname></persName>
+		</author>
+		<ptr target="https://www.pfw.edu/clio/docs/48.3%20TOC.pdf" />
+	</analytic>
+	<monogr>
+		<title level="j">History and the Philosophy of History</title>
+		<imprint>
+			<biblScope unit="volume">48</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="273" to="298" />
+			<date type="published" when="2021">2021</date>
+		</imprint>
+	</monogr>
+	<note>Clio: A Journal of Literature</note>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<analytic>
+		<title level="a" type="main">A Dictionary of Mutual Understanding: A Novel</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">R</forename><surname>Scraffold</surname></persName>
+		</author>
+		<ptr target="https://www.washingtonindependentreviewofbooks.com/index.php/bookreview/a-dictionary-of-mutual-understanding-a-novel" />
+	</analytic>
+	<monogr>
+		<title level="j">Washington Independent Review of Books</title>
+		<imprint>
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<monogr>
+		<title level="m" type="main">Writing Ground Zero: Japanese Literature and the Atomic Bomb</title>
+		<author>
+			<persName><forename type="first">John</forename><surname>Treat</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Whittier</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1995">1995</date>
+			<publisher>University of Chicago Press</publisher>
+			<pubPlace>Chicago</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<analytic>
+		<title level="a" type="main">Radio Report to the American People on the Potsdam Conference</title>
+		<author>
+			<persName><forename type="first">Harry</forename><surname>Truman</surname></persName>
+		</author>
+		<ptr target="https://www.presidency.ucsb.edu/documents/radio-report-the-american-people-the-potsdam-conference" />
+	</analytic>
+	<monogr>
+		<title level="m">The American Presidency Project</title>
+		<imprint>
+			<date type="published" when="1945">1945</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<analytic>
+		<title level="a" type="main">Representing Atomic Memory in the Japanese American Public Sphere Since 1945</title>
+		<author>
+			<persName><forename type="first">Crystal</forename><surname>Uchino</surname></persName>
+		</author>
+		<ptr target="https://repository.kulib.kyoto-u.ac.jp/dspace/bitstream/2433/235184/1/hes_26_197.pdf" />
+	</analytic>
+	<monogr>
+		<title level="j">Human and Environmental Studies</title>
+		<imprint>
+			<biblScope unit="volume">26</biblScope>
+			<biblScope unit="page" from="97" to="215" />
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<analytic>
+		<title level="a" type="main">The &apos;Hiroshima Maidens&apos; on Different Shores: Decentralising Scarred Japanese Femininity in the A-bomb Victimhood</title>
+		<author>
+			<persName><forename type="first">Naoko</forename><surname>Wake</surname></persName>
+		</author>
+		<idno type="DOI">10.1111/1468-0424.12527</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Gender &amp; History</title>
+		<imprint>
+			<biblScope unit="volume">34</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<date type="published" when="2022">2022</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<monogr>
+		<title level="m">American Survivors: Trans-Pacific Memories of Hiroshima &amp; Nagasaki</title>
+		<meeting><address><addrLine>Cambridge</addrLine></address></meeting>
+		<imprint>
+			<publisher>Cambridge University Press</publisher>
+			<date type="published" when="2021">2021</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<monogr>
+		<title level="m" type="main">Grassroots Pacifism in Post-war Japan</title>
+		<author>
+			<persName><forename type="first">Mari</forename><surname>Yamamoto</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2004">2004</date>
+			<publisher>Routledge</publisher>
+			<pubPlace>London</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<monogr>
+		<author>
+			<persName><forename type="first">Traise</forename><surname>Yamamoto</surname></persName>
+		</author>
+		<title level="m">Masking Selves, Masking Subjects: Japanese American Women, Identity, and the Body</title>
+		<meeting><address><addrLine>Berkeley</addrLine></address></meeting>
+		<imprint>
+			<publisher>University of California Press</publisher>
+			<date type="published" when="1999">1999</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b27">
+	<monogr>
+		<author>
+			<persName><forename type="first">Lisa</forename><surname>Yoneyama</surname></persName>
+		</author>
+		<title level="m">Hiroshima Traces: Time, Space, and the Dialectics of Memory</title>
+		<meeting><address><addrLine>Berkeley</addrLine></address></meeting>
+		<imprint>
+			<publisher>University of California Press</publisher>
+			<date type="published" when="1999">1999</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b28">
+	<analytic>
+		<title level="a" type="main">加强对侵华日军暴行 问题的研究 [Strengthening research on the atrocities in the Japanese invasion of China]</title>
+		<author>
+			<persName><forename type="first">Bofeng</forename><surname>Zhang</surname></persName>
+		</author>
+		<author>
+			<persName><surname>章伯锋</surname></persName>
+		</author>
+		<idno>CNKI:SUN:KANG.0.1995- 04-003</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Kangri zhanzheng yanjiu抗日战争研究</title>
+		<imprint>
+			<biblScope unit="volume">18</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="27" to="33" />
+			<date type="published" when="1995">1995</date>
+		</imprint>
+	</monogr>
+	<note>Jiaqiang dui qinhua Rijun baoxing wenti de yanjiu</note>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

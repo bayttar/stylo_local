@@ -1,0 +1,1652 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Care, critique, and contemporary literature: the offerings of Sarah Moss&apos;s Tidal Zone</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author role="corresp">
+							<persName><forename type="first">Miriam</forename><surname>Nandi</surname></persName>
+							<email>miriam.nandi@uni-leipzig.de</email>
+							<affiliation key="aff0">
+								<orgName type="department">English Department</orgName>
+								<orgName type="institution">University of Leipzig</orgName>
+								<address>
+									<settlement>Leipzig</settlement>
+									<country key="DE">Germany</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff1">
+								<orgName type="department">English Department</orgName>
+								<orgName type="institution">University of Leipzig</orgName>
+								<address>
+									<addrLine>Beethovenstr. 15, GWZ H5 3.07</addrLine>
+									<postCode>D-04107</postCode>
+									<settlement>Leipzig</settlement>
+									<country key="DE">Germany</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff2">
+								<orgName type="institution">TEXTUAL PRACTICE</orgName>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Care, critique, and contemporary literature: the offerings of Sarah Moss&apos;s Tidal Zone</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date/>
+						</imprint>
+					</monogr>
+					<idno type="MD5">F2EF5AAEB5AF85110C57FDF6F959A6D2</idno>
+					<idno type="DOI">10.1080/0950236X.2025.2608854</idno>
+					<note type="submission">Received 20 May 2025; Accepted 12 December 2025</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.0" ident="GROBID" when="2026-02-25T19:54+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term>Care</term>
+					<term>postcritique</term>
+					<term>contemporary British literature</term>
+					<term>Sarah Moss</term>
+					<term>forms</term>
+				</keywords>
+			</textClass>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>This article explores what contemporary literature has to offer in the face of the crisis of care and draws some theoretical coordinates for a care-oriented literary criticism. Specifically, it focusses on Sarah Moss's novel Tidal Zone (2016), which captures the experiential and embodied aspects of care, while also providing a profound critique of the slashing of care infrastructures under austerity. On a theoretical level, my article suggests that reading for care offers the possibility to shift back and forth between the skepticism of critique and the affirmative, reparative mood of post-critique, since care -as a concept, as a practice, as a lived experience -clearly affords both. Drawing on Levine's work on political and aesthetic forms, I argue that care is not just the novel's thematic focus but also its organising principle, as it relies on a flat, nonhierarchical, and web-like form of storytelling, mirroring the 'connected lives' 1 of carers, and recurring rhythmic, cyclical structures, which echo the cyclical, open-ended character of care-work.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>With a few years of hindsight, it is safe to conclude that the COVID-19 Pandemic did not provide a catalyst for addressing the crisis of care. Care-work is still belittled and stigmatised, gendered and racialised, underpaid or not paid at all, hospitals are still overwhelmed (if there is a hospital anywhere near you), and elder care is still impossible to come by. The diagnosis offered in The Care Manifesto in 2020 that a 'deliberate rolling back of public welfare provisions and resources' 2 has left us 'less able to provide care as well as less likely to receive it' 3 still holds true; if anything, the crisis is exacerbating.</p><p>What do contemporary literature and literary criticism have to offer in the face of crisis? Could postcritique's suggestion to read for 'solace' and 'replenishment' <ref type="bibr" target="#b2">4</ref> be brought into dialogue with an ethos of care? Which specific contributions could a 'literary criticism … predicated on care' 5 make aside from historicising fictions of care?</p><p>My article sets out to address these questions by focussing on Sarah Moss's novel Tidal Zone, which revolves around the story of a stay-athome father whose life is disrupted when his 15-year-old daughter nearly dies from an unexplained cardiac arrest. Moss's novel is a particularly poignant case for a care-oriented literary criticism as it interweaves the plot of a family and a healthcare system in crisis with a more general reflection on vulnerability, destruction, and repair. Furthermore, Tidal Zone's formal patterning is an intriguing case for care theory, as the novel's perspective oscillates between the inner life of the carer, his agonies, fears, joy, etc. and a bird's eye perspective on caring practices and care webs. Care, I argue, is not just the novel's thematic focus but also its organising formal principle. Tidal Zone captures the experiential, affective, and embodied aspects of giving and receiving care, it critiques the slashing and belittling of care infrastructures, and what is more, it relies on flat, non-hierarchical web-like forms of storytelling, mirroring the 'connected lives' of carers and cyclical, rhythmic forms that echo the repetitive, open-ended character of care work.</p><p>On a theoretical level, I suggest that placing care within the centre of literary criticism offers a much-needed middle ground <ref type="bibr" target="#b4">6</ref> between the scepticism of critique and the more affirmative mood of postcritique as care as a concept and as a practice clearly affords both. It would be naïve at best not to critique and denounce the slashing of care services or to unmask the highly entrenched cultural imaginary of motherhood. <ref type="bibr" target="#b5">7</ref> At the same time, however, care affords 'reparative' approaches, as care is what 'we do to maintain, continue, and repair our "world."' <ref type="bibr" target="#b8">8</ref> Moreover, a care-focussed literary criticism sheds light on 'the moral salience attending to and meeting the needs of the particular others for whom we take responsibility'. <ref type="bibr" target="#b9">9</ref> Postcritique, on a first glance, seems to be well-suited to accommodate a care-oriented literary criticism with its emphasis on the embodied experience of reading. Anker and Felski laud critics 'for treating texts with respect, care, and attention' <ref type="bibr" target="#b10">10</ref> ; they use the adjective 'careful' <ref type="bibr" target="#b11">11</ref> when describing the reading strategies of postcritique, and they utilise 'care' as a verb in their numerous rhetorical questions, for instance, when inquiring why anyone should care <ref type="bibr" target="#b12">12</ref> about literature. The authors praise Donna Haraway's 'commitment to both critique and care'. <ref type="bibr" target="#b13">13</ref> However, while 'critique' receives a book-length discussion, care is taken for granted. It still takes the work of critique to unearth the power structures that render care invisible. Explorations of care will need to pay close attention to questions of gender, class, ethnicity, justice and hence, engage in critique; yet literature also has a lot to offer in relating the visceral, experiential, and affective aspects of caring.</p><p>A care-focussed literary criticism thus creates the possibility to shift back and forth between critique's mood of 'detachment' 14 and 'suspicion' 15 and postcritique's mood of 'trust' and 'attachment'. <ref type="bibr">16</ref> Fictions like Tidal Zone unsettle the gendered dynamics of care and critique 'careless states', <ref type="bibr" target="#b15">17</ref> that slash care services to a minimum. At the same time, however, Moss also sketches a tentative alternative to neoliberal achievement culture by constructing what sociologists have called 'caring masculinity'. <ref type="bibr" target="#b16">18</ref> Furthermore, her engagement with spaces -the cityscape of Coventry ravaged by the Nazi bombings, the Cornish coast, the American West -can be read along the lines of an ecocritical, new materialist notion of care. My argument is that Moss constructs caring forms to shed light on forms of care, i.e. weblike and cyclical structures of storytelling that echo and mirror care-webs and the cyclical, rhythmic form of care practices. Here, my reading takes its cue from Caroline Levine's work on the continuity between social and aesthetic forms. Drawing on Levine's concept of the 'network' <ref type="bibr" target="#b17">19</ref> as a literary and a socio-economic form, I suggest to enrich her concept by using the term 'care-web' as coined by disability justice activists <ref type="bibr" target="#b18">20</ref> and further elaborated in ecocritical thought. <ref type="bibr" target="#b19">21</ref> Moreover, I analyse cyclical forms picking up on Levine's exploration of the rhythm as a musical, literary, and cultural form.</p><p>My article falls into the following structure: after mapping the theoretical terrain, I will analyse how Tidal Zone constructs vulnerability, i.e. the condition that necessitates and calls for care. The article then moves on to examine the way the novel engages with care and masculinity, placing particular emphasis on its use of perspective and voice. The ensuing sections examine Moss's use of webs and cycles. The last part picks up on existing criticism of Moss's oeuvre and examines the centrality of places in the novel, using an ecocritical model of care.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Care in theory: from second wave feminism to contemporary political thought</head><p>Care theory has a history that is now several decades old and has branched out from second wave feminist approaches, <ref type="bibr" target="#b20">22</ref> to ethical philosophy, <ref type="bibr" target="#b22">23</ref> and Marxist <ref type="bibr" target="#b24">24</ref> and more recently, to queer, <ref type="bibr" target="#b26">25</ref> ecocritical approaches <ref type="bibr" target="#b27">26</ref> and disability justice activism. <ref type="bibr" target="#b29">27,</ref><ref type="bibr" target="#b30">28</ref> Gilligan unearthed the gendered binary underpinning theories of moral development, according to which an (unacknowledged) male, rationalist, rule-oriented morality was viewed as more sophisticated and more mature than a (similarly unacknowledged) female, relational, situation-specific, compassionate morality. <ref type="bibr" target="#b31">29</ref> These early approaches were still entangled with an essentialist model of gender. <ref type="bibr" target="#b32">30</ref> Virginia Held's definition of care ethics as 'the compelling moral salience of attending to and meeting the needs of … others' <ref type="bibr" target="#b33">31</ref> illustrates that the scope has been expanded. Care ethics highlight that the subject (however gendered it may be) is never fully sovereign or autonomous but dependent and vulnerable. <ref type="bibr" target="#b34">32</ref> From a different angle, Marxist-feminist theories of care have charted the destructive dialectics in which capitalism disavows care's value and disincentivises care work, while at the same time depending on reproductive care to maintain working bodies and a consumer class. <ref type="bibr" target="#b35">33</ref> Capitalism addressed this contradiction 34 by separating 'social reproduction' (i.e. care) from production along gender and spatial lines.</p><p>The publication of The Care Manifesto <ref type="bibr" target="#b36">35</ref> and Labours of Love 36 in 2020, the year of the COVID-19 pandemic, marked another critical intervention in the field. Bunting, a Guardian journalist, relates individual stories of carers using a characteristic personal tone, while The Care Manifesto has a collective agenda; yet the two texts share a common ground in that they both 'imagin[e] alternative social formations of a care-oriented future'. <ref type="bibr" target="#b38">37</ref> Along more conceptual lines, analytical philosophers have further clarified concepts of care, suggesting to separate care from a logic of gendered moral feeling and to view it as 'an ordinary practice'. <ref type="bibr" target="#b39">38</ref> In this vein, one of the most important aims of Virgina Held's Ethics of Care is to disentangle care from its historical baggage of sentimentalist, gendered virtue. Drawing on Held's work, Talia Schaffer defines care as an 'action', which is not necessarily dependent on the feeling of 'caring'. <ref type="bibr" target="#b40">39</ref> My article greets these interventions with solidarity and takes seriously the Victorianist's warning of sentimentalising care practices of the past. However, there is a methodological scope to expand, particularly when reading literatures of our own historical moment. Defining care exclusively along practice-oriented lines, we may well eclipse an understanding of much of what literature has to offer: the illusion of inhabiting another person's mind, which cognitive narratologist Monika Fludernik aptly termed 'experientiality'. <ref type="bibr" target="#b41">40</ref> As literature captures the 'messiness of care in action' <ref type="bibr" target="#b42">41</ref> it also captures the embodied and affective experiences of giving and receiving care.</p><p>I thus use a broad definition of care that encompasses (a) practices of repairing and maintaining the world, <ref type="bibr" target="#b43">42</ref> (b) reproductive labour, <ref type="bibr" target="#b44">43</ref> and (c) an embodied, attentive, relational way of being in the world. Political philosopher Isabell Lorey gestures towards such an encompassing concept of care that -like affect -travels between bodies, is no longer privatised and gendered, but 'transversal': [Care] is not limited to either the household or women. Care is organized historically primarily through women's networks … It is mutual and, although it is made invisible, it is a proliferous fabric of relations and dependencies. Care practices are everywhere and envelop everything. Care is surround and environment. Not being tied to socially assigned positions, it is the binding element in shared precariousness.</p><p>How can something so transversal, so borderless, so surrounding as relations of care not be the basis of democracy? What might a social bond look like in which caring and the need for care are no longer devalued, privatized, and hierarchized … ? <ref type="bibr" target="#b45">44</ref> While political thought can only gesture toward the 'borderless' and 'transversal' structure of care, literature has a lot to offer in terms of reimagining relations of care that are liberated from gender and class hierarchies. The next sections explore these offerings.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Precarious care: eroding infrastructures, fractured forms</head><p>Tidal Zone weaves together several plots, which are rendered in different narrative voices. The main plot revolves around a crisis in the Goldsmith family, and is told by Adam Goldsmith, a descendant of Jewish emigrés, who is a stay-at-home father and an adjunct lecturer at the university of Coventry. The family also includes Adam's wife Emma, an overworked NHS doctor and their two daughters Miriam and Rose. Their life is disrupted when Miriam has an inexplicable cardiac arrest. In the sections that capture the family in crisis, Adam's first-person narrative voice prevails, and the perspective is limited to his observations and thoughts, all of which are rendered in the present tense. The main plot is interspersed with sudden shifts to a subplot relating the bombing of Coventry in World War II and the process of rebuilding of Coventry cathedral under the auspices of the architect Basil Spence. The connection between these two plots is Adam's academic research on the history of the cathedral. The third subplot is the story of Adam's parents, in particular, of his father Eli, the son of continental Jewish exiles, who embarks on a journey through the US in the heyday of the Hippie era. His journey ends on the Pacific coast where he meets Adam's mother, whose sudden, inexplicable death occurs when Adam is still a child. Eli is the first in the family to experiment with gender roles, as he never pursues a career and instead provides care for his son and other children in the communes he lives in.</p><p>In terms of narration, Adam's first person voice prevails only in the chapters dealing with his nuclear family. In most of the other passages, Tidal Zone shifts to a more neutral, 'authorial' <ref type="bibr" target="#b46">45</ref> narrative voice <ref type="bibr" target="#b47">46</ref> that describes the destruction and reconstruction of the cathedral and Eli's travels across the United States. The spatial and temporal registers also shift between the Midlands, the Cornish Coast, the USA, and finally to the Austrian Alps; thus, the novel ends in the country from which Adam's ancestors escaped during the Shoah.</p><p>As a consequence, care plays out on several thematic levels. In the depictions of Miriam's stay in the NHS hospital and the portrayals of Adam's and Eli's domesticity, the novel sheds light on care as a precarised and commodified form of labour and as an 'ordinary' 47 everyday practice. In the passages relating the work of Basil Spence, care is constructed as a creative, artistic activity. I will open with the most obvious examples and then move on to the more implicit treatments of care.</p><p>The NHS, and by extension, the demise of public care infrastructures, is a central focal point in the novel. Emma, Adam's wife, is an NHS doctor who has become so accustomed to the crushing work schedule that her 'days off are rarely successful, for while by Sunday she is usually able to sit over a second cup of coffee for up to half an hour after breakfast, midweek she is too much in the habit of producing a quantifiable outcome and [seeing] a new patient every ten minutes'. <ref type="bibr" target="#b49">48</ref> By describing Emma's predicament, Moss highlights the commodification and precarisation of care work under neoliberal austerity. The commodification of care in turn produces a subjectivity that is, paradoxically, barely able to sustain care relations. As affect theorists <ref type="bibr" target="#b50">49</ref> and sociologists <ref type="bibr" target="#b51">50</ref> have illustrated, the 'good' neoliberal subject is, and must be, on the brink of complete exhaustion, giving her everything to the economy, emptying out her capacity to relate. The temporality under neoliberalism is geared toward a hazy future of fulfilment which of course never arrives, a temporality of 'acceleration' <ref type="bibr" target="#b52">51</ref> and 'cruel optimism', <ref type="bibr" target="#b53">52</ref> in which the here and now, the present tense, shrinks to infinitesimally small moments.</p><p>The deformation of the care-giving profession and the subjects of care under neoliberalism is particularly resonant in the chapter with the title 'clinical observation'. Here Adam manages to see a specialist for Miriam's still undiagnosed condition after weeks of waiting, only after Emma has used her networks. The specialist Dr. Ruthven 'continu[es] reading' <ref type="bibr" target="#b54">53</ref> his notes when Adam and Miriam enter, most likely because there is no time for reading between the ten-minute appointments, and he will keep looking at his watch during the time of the visit. The doctor's arrogance, his interrupting Adam in mid-sentence 'lifting his hand', <ref type="bibr" target="#b55">54</ref> his blasé dismissal of his colleague '[the GP] [s]eems to think' (my emphasis), his euphemisms 'a transient wheeze', <ref type="bibr" target="#b56">55</ref> his sigh when Adam asks the girls to step outside so he can tell the story of his mother's sudden cardiac arrest at early age, illustrate that he does not (maybe cannot) care. Miriam's life has been saved, but the NHS does not offer care in the sense of providing a sense of safety for a vulnerable child.</p><p>Tidal Zone revolves around a general thematic concern with vulnerability, dependence, and precariousness, be it the precariousness of Miriam's body, the fragility of Adam's identity, the devastation of Coventry in World War II. On the level of form, vulnerability and fragility feature in the way Moss uses the fragment as a literary device: her chapter headers are consistently snippets taken from a sentence in the coming chapter which the reader can rediscover a few pages further down.</p><p>According to Dieter Burdorf, the fragment is an aesthetic form that stands as a reminder of experiences of loss and transience. <ref type="bibr" target="#b57">56</ref> Highlighting the pathos of the fragment, Glen Most writes that fragments are 'wounded, incomplete, crying out for help'. <ref type="bibr" target="#b58">57</ref> Moss's consistent use of the fragment can thus be read as a textual performance of the central theme of vulnerability. The specific form the fragment takes in the novel, is, however more than a gesture of incompleteness; it also suggests playfulness and encourages a certain plaisir du texte. Using a piece of a sentence that will occur later in the chapter as a header, the novel offers its readers the possibility to search for and re-discover the fragment in the coming chapter, a readerly experience that can be pleasurable in and of itself. Moreover, the novel locates, deand then recontextualises the fragment into a new semantic context, announcing creative agency rather than helplessness. As a result, Moss's use of the fragment signals playfulness rather than pathos, and a goodhumouredness early care theorists consistently associated with caregiving. <ref type="bibr" target="#b59">58</ref> Furthermore, the iterative form of the fragment creates a sense of futurity and hopefulness: we know that we will find the fragment again in the course of the chapter, which is a pattern that is again consistently repeated throughout the novel, just as the fragment is repeated at least once. The result is a rhythmic form, echoing the rhythm of Miriam's heartbeat with which the novel opens, the orchestral music in the Cathedral, and the natural rhythms of the tides which give the novel its title.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Caring masculinities</head><p>The division of labour between the couple, in particular, Adam's position as stay-at-home father, is a constant cause for irritation and confusion, which are rendered in a witty, at times also bitingly satirical tone. While care may indeed be 'ordinary', <ref type="bibr" target="#b60">59</ref> caring masculinities are not. From a conceptual angle, Karla Eliot defines 'caring masculinities' as a practice-oriented concept. As sociological research has shown, cis-gender male caregivers still identify as men, but doing care work changes their identity. As a result, they develop a '"softer masculinity"' <ref type="bibr" target="#b61">60</ref> ; specifically, they 'reject domination … and embrace values of care such as positive emotion, interdependence, and relationality'. <ref type="bibr" target="#b62">61</ref> Thus, caring masculinities complicate traditional gender norms, both around care and around the cultural meaning of masculinity.</p><p>Moss frequently uses a comic, ironic mode of narration when describing the everyday interactions between Adam and other parents. When he takes his younger daughter Rose to a birthday party at a public swimming pool, he has to wait for her in front of the changing rooms and is mistaken for a child abuser. <ref type="bibr" target="#b63">62</ref> In a hilarious depiction of a staff meeting at university, he plays Playmobil with a female colleague, who is also an abysmally underpaid Teaching Fellow and a parent.</p><p>The tension involved in Adam's caring masculinity are particularly pronounced in the chapter 'every time you ice a fairy cake'. <ref type="bibr">63</ref> In it, a character only called 'Charlotte's Dad' arrives at Adam's home to pick up his daughter. We see him exclusively through Adam's eyes, who renders the dialogue between them with biting sarcasm: The passage is marked by the tensions between speech, silence, and projection. Adam knows, or thinks he knows, that Charlotte's Dad disdains him. Seen from Adam's perspective, Charlotte's Dad becomes a cartoon character, the epitome of 'hegemonic business masculinity' with grotesquely huge 'balls' and an obsession with the size of other men's penises. <ref type="bibr" target="#b64">65</ref> In a pessimistic, or 'paranoid' <ref type="bibr" target="#b65">66</ref> reading, this is a scene of archaic gendered rivalry and competition.</p><p>Yet, when paying close attention to the way perspective, voice, and dialogue are used here, we can make space for a more optimistic 'reparative' 67 reading. As Adam controls the narration, we cannot be certain if the character called Charlotte's Dad really does look down upon Adam, as Adam presumes. Maybe Charlotte's Dad knows fully well that the division of care work in his nuclear family is unjust and outdated. His body language -he shifts his feet -could be read as signalling archaic, masculinist territorial behaviour but potentially also as a sign of shame. Possibly, Adam's shame of being caught icing a fairy cake is mirrored by his interlocutor's shame at being caught performing an 1980s business masculinity in the twenty-first century. If caring masculinity is the future, then Charlotte's Dad is a relic from the past. The treatment of masculinity in the novel can thus be read in terms of critique -as an ironic unmasking of hegemonic masculinitybut also along more affirmative lines, as gesturing toward a caring masculinity that is only yet emerging.</p><p>Moss adds another layer onto her re-imaginings of masculinity through the character of Adam's father Eli, who is introduced as a 'magi' <ref type="bibr" target="#b66">68</ref> and becomes an individualised character rather late into the novel. When Eli visits Miriam in hospital and tells her about his past, the narration switches from the first person to a neutral authorial narrative voice. Rather than becoming a first-person narrator himself, Eli is referred to as 'the young man'. <ref type="bibr">69</ref> In the process, the realist mode -a grandfather talks to his grandchild -morphs into a more allegorical mode of storytelling, as if Eli was indeed a 'magi', a sage, a mythical figure. The shift in voice and tonefrom Adam's very personal and individual experiences to 'the young man's' allegorical journey through the US -gestures toward a (utopian) possibility of a new and different, caring masculinity.</p><p>In the course of the chapter, the narration shifts again to a more individualised mode, in which Eli is referred to by his proper name and becomes a 'reflector-character' <ref type="bibr" target="#b67">70</ref> through whose perspective the events are filtered. As he travels from one place to the other, he grows increasingly disillusioned with the lofty utopianism of the communes. For instance, he observes with wry humour that 'consensus government' actually 'meant that the loudest person won', <ref type="bibr" target="#b68">71</ref> registering the tenacity of (gendered) power dynamics. Intriguingly, the shift from the universal to the individual coincides with a crisis in the commune when a child called Indigo falls ill.</p><p>Here, the narrative switches to direct thought, and thus zooms in on Eli's inner reflections:</p><p>It was the child, Eli thought, who held them together. Where there was a child, there are needs to be met, and things you cannot say. <ref type="bibr" target="#b69">72</ref> The child should have friends, the young man thought, he should not be only the plaything of all of us, should not be living out the lost childhoods of seven adults. <ref type="bibr">73</ref> Eli observes that the mere presence of the child, its neediness, its fragility, are the main reasons why the commune does not implode. He is quick to register that the child is unjustly burdened with the responsibility of providing the raison d'être of the commune. What sets Eli apart from the rest of the group is his capacity to pay attention to what is hiding in plain sight: the precariousness of the child. Thus, the novel's portrayal of Eli echoes care theory's positive re-appraisal of individual feelings over a rationalist mentality. What is more, the tensions between a universalist and a particularist concept of morality play out not just on the level of content, but also on the level of narrative form, as the sections navigate between a birds-eye and an individualised perspective.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Care and aesthetic forms: webs and cycles</head><p>Adam and Eli form a small inter-generational network of cis-gender, male caregivers. The flat, web-like (rather than hierarchical) structure of the father-son relationship is further highlighted by the flat, web-like structure of the novel's formal patterning, which connects generations, places, and practices in non-hierarchical manner: the novel moves between the allegorical tale of a young man's journey through the US briefly zooming in on Eli's individual experiences in the commune, and then abruptly back to the narrative present and Adam's day in the hospital ward. What connects the two temporal levels and individual characters is their concern and care for a child: I found myself running back up the stairs to the ward, thinking as I always did about all the feet that had hurried up and down those steps in the hospital's last fifty years. Nurses in starched caps and nylon stockings, doctors in tweed suits, five decades of parents out of their minds with fear, bargaining furiously with God for this not to be happening. Make Miriam be all right, I'd said, and I'll give up anything else, I'll never read another book in my life, I'll never climb another mountain, but of course I continue to read, because there is no connection between Miriam's immune system and my reading, because our lives are not furnished with such contingencies. <ref type="bibr">74</ref> Adam's thought processes, albeit highly individual and atomistic on the level of narration are conspicuously relational in terms of their content. He worries frantically about his daughter and pleads with a transactional God to spare her. Furthermore, he constructs himself in relation to other generations of 'parents' like him 'out of their minds with fear' and imagines caregivers '[n]urses' and 'doctors' whose clothes connote the long-gone era of the early days of the NHS.</p><p>Moss thus constructs care as a web of practices, subjects, institutions, and forms of communal living, weaving together small snapshots of the NHS (and its demise), of social experiments with caring communities (and their pitfalls), of different generations of (unpaid) caregivers and (underpaid) care workers. I use the term 'web' (rather than network, as Levine does) as a conceptual metaphor to highlight the proliferating, 'mushroom[ing]' <ref type="bibr" target="#b70">75</ref> character of care relations, drawing on ecocritical approaches to care, <ref type="bibr" target="#b71">76</ref> which stress the 'expansive linkages that cross human and ecological history'. <ref type="bibr">77</ref> While, on a thematic level, the novel tends to focus on human care-webs, the formal make-up of the text is distinctly non-hierarchical, mirroring Bruno Latour's 'flat ontology'. <ref type="bibr" target="#b72">78</ref> Moss connects an individualised story of caring with a universal reflection on care without subordinating one underneath the other. She interweaves stories of creative care (Basil Spence's reconstruction of the cathedral) with Adam's domestic care chores and depictions of crumbling care infrastructures, moving from microcosm to macrocosm, from public to intimate, from internal to external to zero focalisation, without privileging a specific theme or perspective over the other.</p><p>In this context, we can connect Moss's formal experiments with Lorey's suggestion to see care as 'transversal' <ref type="bibr" target="#b73">79</ref> and non-transactional. Instead of constructing care in terms of a moral obligation or a virtue, she proposes the concept of 'queer debts', drawing on the slippage between the moral feeling of guilt and the economic structure of the debt, which coexist and bleed into each other, so that the debtor is forever plagued by a guilty conscience and the creditor can ensure their position at the top of a social and economic hierarchy. <ref type="bibr" target="#b74">80</ref> Gesturing towards an alternative view on masculinist, white economies, she argues that 'Black, queer care debts … move in the expansion of differences and multiplicities as each and every single person owes something different'. <ref type="bibr">81</ref> Such a non-transactional concept of care is encapsulated in a small episode in Tidal Zone, in which Adam offers his younger daughter Rose a '[h]ands free hug' holding out his arms 'as if she were a koala and I am tree'. <ref type="bibr" target="#b75">82</ref> The image of the 'hands free hug' illustrates what happens when we liberate care from transactional patterns. There is nothing that Adam demands from Rose, not even to be hugged back. Care is an offering, a gesture of generosity, in which the carer may receive something from the person they care for -in this case, connection, joy, the boisterous love of children -but as soon as it becomes too goal-oriented, it seizes to be care. Care here is constructed as an organic web of giving and receiving, rather than a transactional network; transversal care has an ecology not an economy.</p><p>Moreover, the novel mirrors the cyclical structure of care-work in its formal patterning drawing on cyclical forms of storytelling, invoking rhythmic, cyclical patterns in nature, such as seasonal cycles and cycles of death and renewal. The Tidal Zone that gives the novel its title is a space marked by the cyclicality of the ebb and flow of the sea, a space where the family comes together after Miriam is released from hospital. Yet, it is also a space haunted by the threat of disaster and death: Adam's mother drowned in the sea.</p><p>Another particularly poignant example for the novel's engagement with cyclical structures is the opening section. In it, an anonymous authorial narrative voice, which may or may not be Adam, relates a story of birth and creation in an epic, timeless register replete with Wordsworthian and Chaucerian overtones: the infant is born in April, as 'daffodils pushed through the earth'. <ref type="bibr">83</ref> The passage thus constructs an everyday, female-gendered experience in a language that carries male-gendered prestige:</p><p>Once upon a time, a woman and her husband lay together, and the man's seed navigated the hollows and chambers of the wife's body until it came home. Cells began to divide, and re-form, as they do, and something new was made. As the weeks went by and the woman began to feel sick, the new thing took shape: a comma, a tadpole, eventually the bud of a brain and a spinal column. Suddenly, in the shadow darkness of a summer night, a heart completed itself and began its iambic beat. <ref type="bibr">84</ref> Here, Moss juxtaposes medical, scientific vocabulary ('cells', 'tadpole', 'spinal column') with images of nature ('bud') and the language of literature and grammar ('comma', 'iambic') to create a story of creation that is both mythical and ordinary, scientific and biblical. The motive of the iambic heartbeat foreshadows the crisis that is to come: the 'tadpole' is to be Adam's daughter Miriam, whose heart suddenly stops, as we learn a few pages later. The individual catastrophe is thus introduced through a general reflection on the cycles of nature and the cycles of birth and death.</p><p>As the narrative zooms in on the individual story of Miriam's cardiac arrest, the narrator continues to rely on a scientific-medical vocabulary. We learn that she is saved by a PE teacher; and as the perspective shifts towards the PE teacher's panicked thoughts, the language becomes more panicked and rhythmic, echoing the song that the teacher plays in his head while trying to keep up the heart lung massage: 'Inside the girl's body the teacher knew, inside her brain, cells were dying … Her face and lips were turning blue. Keep on singing, keep on pushing down. Nellie the elephant. His arms tired. Harder. He hears sirens … '. <ref type="bibr">85</ref> The medics who take the girl to safety carry the names of the four biblical Evangelists 'Matthew, Mark, Luke and John' <ref type="bibr" target="#b76">86</ref> ; the use of names signal biblical allegory rather than individualised, realist narration.</p><p>Toward the end of the first chapter, the narrative voice shifts again to a second person narration and a general reflection on the fragility of life: 'Suddenly you began to breathe. Suddenly, you will stop, you and me, all of us. Your lungs will rest at last and the electric pulse in your pulse will vanish into the darkness from which it came'. <ref type="bibr">87</ref> Only in the last paragraph of the opening chapter, the first-person voice ('you and me') that is likely to be Adam's takes over. The first chapter thus relies on cyclical images (seasonal change, birth and death) and rhythmic patterns, it has a cyclical structure, from the universal (the cycle of life, the allegorical) to the specific (a PE teacher saving a teenage girl's life), back to the universal.</p><p>The title of the chapter 'things that didn't happen' announces another cycle, that of Adam's circling ruminations on the catastrophes that could have befallen the family had Miriam not been met with care. The reader follows him staring at the monitor that displays Miriam's heart rate -'69, 66, 67' 88 -and the oxygen saturation in her blood -'94' <ref type="bibr" target="#b77">89</ref> -trying to avert his eyes from a three year old with cerebral palsy, remembering buying only 'organic vegetables' 90 and steaming them, trying to find the fatal mistake he made (which of course he never did). His thoughts circle around children dying in 'Syria', 'Palestine', 'Eritrea' <ref type="bibr" target="#b78">91</ref> and the sudden realisation that 'we were lucky' 92 not to have noticed that children, too, can die.</p><p>In the passages set in the hospital, the focalisation remains limited to Adam's ruminations, the 'what ifs' he goes through in a compulsive manner ('[w]hat if Rose [the younger daughter] had an emergency at school'), his refusal to accept the situation ('I do not want to be father of a critically ill child. I do not want to be the tragic figure at the school gates'). <ref type="bibr">93</ref> His brief returns home to do the recurring everyday tasks of caring for the family home, doing the dishes, washing the clothes of his daughters and his wife, buying groceries and cooking dinner for Rose, come as a relief from the nauseating atmosphere of the hospital. The cycle of anxious, paranoid rumination -of maybe caring too much, with too much emotional investment -is only broken when he returns to the cycles of his everyday domestic labour.</p><p>Another aspect of the novel that signals cyclicality is the recurrence of departures and returns. Adam leaves and returns to Miriam's hospital bed. Eli's journey across the United States ends with him meeting Adam's mother and thus, the beginning of a new generation. The family returns to Cornwall, Adam's place of birth in what could have been a reassuring final chapter of the novel except that it ends with the mention of the place where 'they had found my mother's body'. <ref type="bibr">94</ref> The chapter thus encapsulates the polyvalence of the cycle of life and death and the ambiguity of the space of the Cornish Coast. The place where Adam was born is the place where his mother died; returning to the Tidal Zone of his childhood Adam finds a more organic rhythm in caring for his daughters, but the Epipen for Miriam's heart is always in his pocket.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Care and repair: places in Tidal Zone</head><p>The existing criticism of Moss's oeuvre often focuses on her concern with space and place. <ref type="bibr" target="#b79">95</ref> In the last section of this article, I will connect a reading of Moss's construction of place with Joan Tronto's broad definition of care as an 'activity that includes everything that we do to maintain, continue, and repair our "world"', <ref type="bibr" target="#b80">96</ref> which has been picked up in ecocritical, new materialist thought, <ref type="bibr" target="#b81">97</ref> and thus provides a fruitful starting point to explore Tidal Zone's construction of place.</p><p>The passages relating the bombing of Coventry and the reconstruction of the cathedral represent an important counterpoint to Adam's obsessive ruminations and the numbing atmosphere of the NHS hospital. <ref type="bibr" target="#b82">98</ref> Whereas Adam, the father and first-person narrator, is caught in 'hospital time', a suffocating present that seems to stretch into infinity, Adam the academic and authorial narrator takes on a melancholy, yet collected tone describing the time when 'Coventry burnt'. <ref type="bibr" target="#b83">99</ref> Adam relates the bombing and its aftermath in an elliptic language, echoing the experience of harm and the fragmented memory of the trauma on the level of narration:</p><p>Buildings leapt and shimmered.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>People were crushed and burnt.</head><p>There were no defences. Four hundred and forty-nine Nazi planes reached Coventry and almost all returned to their bases before morning. <ref type="bibr" target="#b84">100</ref> The indentures and minimalist sentences create gaps -in the case of the indentures, actual spatial gaps on the page <ref type="bibr" target="#b85">101</ref> -that render visible the material destruction of the city. The sentences become longer and more elaborate again when the narrative turns to the machinery of Nazi warfare, creating a contrast between the cruelty and violence of the war and the vulnerability of the place. Moss, herself a descendant from Shoah survivors, here inscribes her work into a long tradition of writing trauma and finding a form to express the inexpressible. <ref type="bibr" target="#b86">102</ref> However, Tidal Zone also goes beyond earlier models of writing trauma in that it emphasises the process of restoring and repairing (literally and metaphorically) the wounded place.</p><p>The sections that lay out how Basil Spence plans to renovate the Cathedral are written with acute attention to detail, cover several years in terms of discourse time, and run over several chapters in terms of story time. Through the minute depictions of repair, these passages convey a sense of futurity and optimism. They echo what Marianne Hirsch, in her more recent work departing from her earlier theories of postmemory, calls the 'invitation … to imagine and fight for what might yet be'. <ref type="bibr" target="#b87">103</ref> I will quote from a particularly resonant section taken from the chapter 'wherever you want singers':</p><p>He wanted to get the music right. He wanted the building to sing … He made the choir stalls movable. Far apart, close together, rearranged so you can get a brass band or an entire orchestra between the altar and the congregation … Push them around like chairs, sing wherever you want singers. <ref type="bibr" target="#b88">104</ref> The formal patterning of the passage literally echoes the sonic build-up of the orchestral music, opening with short simple sentences, which could be read as echoing the strings or a piano, rising to more complex, albeit breathlessly elliptic depictions of the arrangement of the chairs (more instruments joining in?), and culminating in an invitation to 'sing'. The orchestral, hymnic quality of the passage signals optimism and hope: the congregation has not gathered yet, but Basil Spence is certain that they will. Basil's artistic creativity and agency are central in the opening sentences; they thus signal an invitation to imagine a future to come. Even the syntactic structure builds on a gradual disappearance of the individual creative subject, as the usage of the bare imperative ('Push them around … , sing wherever you want singers') entails a sentence structure in which the subject is implied but not spelled out.</p><p>Juxtaposing the story of the rebuilding of the bombed cathedral with the story of the everyday life of a middle-class, stay-at-home father, Moss knits together two drastically different practices of care: an invisible, profane, belittled practice of care and a public, creative, respected, in this case, potentially sacred practice of care. As Adam steals away from his domestic chores to find time to do his research and piece together the Cathedral's post-war history, the two types of care become inseparable from each other: on the level of the diegetic world, the story of Basil Spence's minute planning of the cathedral would not exist without Adam's relating it. At the same time, the two stories are also in tension with one another. Adam is constantly interrupted and distracted from his research because of his domestic care work. As a consequence Tidal Zone does not sentimentalise reproductive, domestic care-work, nor does the novel idealise the caregiving subject. Instead, it invites us to reconsider and re-contextualise care to the extent that it places creative, artistic care on a par with the most trivial everyday practices.</p><p>Furthermore, the novel articulates a sense of caring for places through its minute descriptions of both rural and urban places such as the Cornish Coast, the American West, and the cityscape of Coventry. As has been pointed out with regard to her novel Ghost Wall, Moss highlights the dystopian quality of attaching fantasies of primeval Britishness to particular places. <ref type="bibr" target="#b89">105</ref> Yet, Tidal Zone, a novel pre-dating Brexit and its concomitant rhetoric of national purity, articulates a fleeting, careful optimism with respect to places and the meanings attached to them. A self-aware writer, Moss states: 'I think of it as belonging without ownership. A very democratic idea of belonging that keeps it open for different kinds of connection and is not rooted in some property-based or genetic claim on the land'. <ref type="bibr" target="#b90">106</ref> Moss' call for a 'democratic', 'open' idea of place and belonging ties in with a broad sense of care, as a way of relating to the world in an 'attentive, responsive, and respectful manner'. <ref type="bibr" target="#b91">107</ref> In a chapter called 'myths about which we know nothing' Eli listens to an anthropologist's reconstruction of a native American tale of creation involving a trickster figure who brings the cycles of day and night to the world. Careful not to sentimentalise the indigenous worldview, she inserts numerous layers of doubt into the construction of the tale: the anthropologist may or may not be called 'Robert', <ref type="bibr" target="#b92">108</ref> the tale does not originate from the Pacific coast but 'comes from much further north' and is 'probably just a mishmash of mistranslation and exoticism'. <ref type="bibr">109</ref> Like the passages relating the reconstruction of the cathedral, the short tale also invites us 'to consider what might have been' as Marianne Hirsch puts it, <ref type="bibr" target="#b93">110</ref> to re-imagine the world along the lines of 'myths about which we know nothing … Iliads and Odysseys and Aeneids gone into darkness'. <ref type="bibr" target="#b94">111</ref> Moss thus gestures towards a care for place and a non-hierarchical way of seeing the world devastated by European colonialism, establishing a fleeting sense of solidarity between postcolonial, indigenous and post-Shoah responses to trauma and vulnerability.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Conclusion</head><p>In my article, I have suggested that a care-focused literary criticism addresses and potentially bridges the gap between critique and postcritique. As my reading of Sarah Moss's Tidal Zone has shown, there is no inherent contradiction involved in critiquing the precarisation of care and highlighting the reparative aspects of care as encapsulated in the (aesthetic and political) form of the care-web. In the context of literary constructions of care, critique and postcritique emerge as overlapping, at times competing hermeneutic modalities that shed light different aspects of the text. Extending such care-focused readings to Moss's more recent novels Summerwater, Ghost Wall, and The Fell, texts populated by ravens, badgers, trees, mountains, lakes brimming with life and curious agency, we will find a similar balance between non-hierarchical care-webs that surpass species-barriers and critical commentary on the care crisis: The Fell revolves around the harrowing experiences of a working-class single mother who breaks lockdown, Summerwater's multiperspectivism gestures towards community and care but also towards isolation and claustrophobia, Ghosh Wall frames care in the form of friendship between women, yet these framings are only glimmers of hope in the suffocating, patriarchal and class-based milieu.</p><p>Going beyond offering a middle-ground in our current methodological debates, my aim has been to highlight the importance of care tout court, in literary criticism and otherwise. The work of Sarah Moss is a particularly compelling case for a care-focussed interpretation; however, the approach can be adapted to read and re-read a plethora of other contemporary literary texts. While my focus had been on caring masculinities and men's involvement in care justice, a care-oriented literary criticism could re-visit motherhood narratives <ref type="bibr" target="#b95">112</ref> to enrich and potentially complicate existing interpretations. <ref type="bibr" target="#b99">113</ref> Conversely, doctor's memoirs and illness narratives, usually read in the context of 'empathy' and the medical humanities, <ref type="bibr" target="#b100">114</ref> might well be re-considered through a more encompassing lens of care, which cuts across the division between institutional care and domestic caregiving. Moreover, ecocritical concepts of care which have been fruitfully brought into dialogue with imaginings of care in science fiction <ref type="bibr" target="#b101">115</ref> are, as I have argued, are adaptable and need not be limited to specific genres.</p><p>My article did not touch upon the more sinister aspects of care: the commodifications and overuses of the term, abuses of care be it in intimate care settings or by state power, the destructive entanglements that can occur even in the most well-meaning care-webs; Bunting's Labour of Love is replete with stories of that kind, as are novels like Avni Doshi's Burnt Sugar, which explores the suffocations of care-giving as well as the pain of being neglected by a carer. Texts that revolve around ambivalent, maybe un-ethical care relations also have a lot to offer for a care-focused literary criticism: a reminder that the relationship between aesthetic and political forms of care might be less seamless than Levine's social formalism implies. <ref type="bibr" target="#b102">116</ref> Reading for care does not necessarily create more political awareness for the slashing of care infrastructures in our current moment, nor does it automatically mobilise the literary critic's capacity to care or transform them into a better, more caring person. The interpretative act may overlap with care to some extent; James Thompson mentions qualities such as attentiveness, relationality, connection in his work on Care Aesthetics, but that does not mean that reading and reproductive care can be conflated.</p><p>In this vein, I am not entirely convinced that specific literary formssuch as happy endings -should be re-appraised and be seen as 'desirable' and 'necessary' 117 if seen from the perspective of precarity. A care-focussed literary criticism is not necessarily in alignment with Levine's rejection of 'anti-instrumentality' in literary criticism, nor does it call for a drastic 're-thinking of our aesthetic values'. <ref type="bibr">118</ref> Literary representations of care can be 'wholesome' as the Gen Z phrase goes, they can offer the comforting sense of being part of a larger community of carers, they can gesture towards alternatives to the privatised, gendered, and precarised structure of reproductive care, but they can also do the opposite. Sarah Moss frequently offers her readers some silver lining but hardly ever full closure: Miriam's health condition is never appropriately diagnosed, the single mother in The Fell will continue to struggle economically, the protagonist of Ghost Wall may be saved, but her mother is likely to remain stuck in an abusive marriage. The overall ethos of care may be goal-oriented, but literary constructions of care are more closely aligned with our ordinary, everyday care-giving chores which never seem to stop, have to be picked up again and again, and therefore have an open ending.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Notes</head></div><figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_0"><head></head><label></label><figDesc>He came to lean on the kitchen counter, watched me run a spatula round the springform cake tin and then open its hinge. His suit gave off an air of … meetings in carpeted rooms … 'Looks as if you really know what you're doing. I don't get much beyond a ready meal myself. Well, apart from the barbecue in the summer.' … He shifted his feet, as if his balls were too big for him to stand straight. I never know what I'm supposed to say to remarks like his. Ooh, look, someone who has mastered both peeing standing up and cleaning a sink. Don't you find, mate, that your dick shrinks every time you ice a fairy cake?64    </figDesc><table /></figure>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="20" xml:id="foot_0"><p>M. NANDI</p></note>
+		</body>
+		<back>
+			<div type="annex">
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Disclosure statement</head><p>No potential conflict of interest was reported by the author(s).</p></div>			</div>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<monogr>
+		<author>
+			<persName><forename type="first">Ruth</forename><forename type="middle">E</forename><surname>Groenhout</surname></persName>
+		</author>
+		<title level="m">Connected Lives: Human Nature and an Ethics of Care</title>
+		<meeting><address><addrLine>Lanham, MD</addrLine></address></meeting>
+		<imprint>
+			<publisher>Rowman &amp; Littlefield</publisher>
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<monogr>
+		<title level="m" type="main">The Care Manifesto</title>
+		<author>
+			<persName><forename type="first">The</forename><surname>Care</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Collective</forename></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2020">2020</date>
+			<publisher>Verso</publisher>
+			<biblScope unit="page">15</biblScope>
+			<pubPlace>London and New York</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<monogr>
+		<author>
+			<persName><forename type="first">Rita</forename><surname>Felski</surname></persName>
+		</author>
+		<title level="m">The Limits of Critique</title>
+		<meeting><address><addrLine>Chicago, IL</addrLine></address></meeting>
+		<imprint>
+			<publisher>Chicago University Press</publisher>
+			<date type="published" when="2015">2015</date>
+			<biblScope unit="page">151</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<monogr>
+		<author>
+			<persName><forename type="first">Talia</forename><surname>Schaffer</surname></persName>
+		</author>
+		<title level="m">Communities of Care: The Social Ethics of Victorian Fiction</title>
+		<meeting><address><addrLine>Princeton, NJ</addrLine></address></meeting>
+		<imprint>
+			<publisher>Princeton University Press</publisher>
+			<biblScope unit="page" from="2021" to="2021" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title level="a" type="main">Introduction: Futures of Literary Studies</title>
+		<author>
+			<persName><forename type="first">See</forename></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Mathias</forename><surname>Nilges</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Tim</forename><surname>Lanzendörfer</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Textual Practice</title>
+		<imprint>
+			<biblScope unit="volume">37</biblScope>
+			<biblScope unit="page" from="187" to="204" />
+			<date type="published" when="2023">2023</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title level="a" type="main">On motherhood in literature, see for instance</title>
+	</analytic>
+	<monogr>
+		<title level="m">Narratives of Motherhood and Mothering in Fiction and Life Writing</title>
+		<editor>
+			<persName><forename type="first">Helena</forename><surname>Wahlström</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">Henriksson</forename></persName>
+		</editor>
+		<meeting><address><addrLine>Cham</addrLine></address></meeting>
+		<imprint>
+			<publisher>Palgrave Macmillan Studies in Family and Intimate Life</publisher>
+			<date type="published" when="2023">2023</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<monogr>
+		<author>
+			<persName><forename type="first">Indrani</forename><surname>Karmakar</surname></persName>
+		</author>
+		<title level="m">Maternal Fictions: Writing the Mother in Indian Women&apos;s Fictions</title>
+		<meeting><address><addrLine>Abingdon</addrLine></address></meeting>
+		<imprint>
+			<publisher>Routledge</publisher>
+			<date type="published" when="2022">2022</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<monogr>
+		<author>
+			<persName><forename type="first">Diana</forename><surname>Tietjens</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Meyers</forename></persName>
+		</author>
+		<title level="m">Gender in the Mirror: Cultural Imagery and Women&apos;s Agency</title>
+		<meeting><address><addrLine>Oxford</addrLine></address></meeting>
+		<imprint>
+			<publisher>Oxford University Press</publisher>
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<monogr>
+		<author>
+			<persName><forename type="first">Joan</forename><surname>Tronto</surname></persName>
+		</author>
+		<title level="m">Moral Boundaries. A Political Argument for an Ethic of Care</title>
+		<meeting><address><addrLine>Abingdon</addrLine></address></meeting>
+		<imprint>
+			<publisher>Routledge</publisher>
+			<date type="published" when="1993">1993</date>
+			<biblScope unit="page">3</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<monogr>
+		<title level="m" type="main">The Ethics of Care. Personal, Political, Global</title>
+		<author>
+			<persName><forename type="first">Virgina</forename><surname>Held</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2006">2006</date>
+			<publisher>Oxford University Press</publisher>
+			<biblScope unit="page">10</biblScope>
+			<pubPlace>Cambridge, MA</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title level="a" type="main">Introduction</title>
+		<author>
+			<persName><forename type="first">Elizabeth</forename><forename type="middle">S</forename><surname>Anker</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Rita</forename><surname>Felski</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Critique and Postcritique</title>
+		<editor>
+			<persName><forename type="first">Elizabeth</forename><forename type="middle">S</forename><surname>Anker</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">Rita</forename><surname>Felski</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Durham, NC</addrLine></address></meeting>
+		<imprint>
+			<publisher>Duke University Press</publisher>
+			<date type="published" when="2018">2018</date>
+			<biblScope unit="page">16</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<monogr>
+		<title/>
+		<author>
+			<persName><surname>Ibid</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="page">22</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<monogr>
+		<author>
+			<persName><surname>Ibid</surname></persName>
+		</author>
+		<title level="m">Felski, The Limits of Critique</title>
+		<imprint>
+			<biblScope unit="page" from="6" to="15" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<monogr>
+		<title level="m" type="main">Introduction</title>
+		<author>
+			<persName><forename type="first">Felski</forename><surname>Anker</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="page">21</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<monogr>
+		<title level="m" type="main">The Limits of Critique</title>
+		<author>
+			<persName><surname>Felski</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="page">21</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<monogr>
+		<title level="m" type="main">The Care Collective, The Care Manifesto</title>
+		<imprint>
+			<biblScope unit="page">12</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<title level="a" type="main">Caring Masculinities: Theorizing and Emerging Concept</title>
+		<author>
+			<persName><forename type="first">See</forename><surname>Karla</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Eliott</forename></persName>
+		</author>
+		<idno type="DOI">10.1177/1097184X15576203</idno>
+		<ptr target="https://journals.sagepub.com/doi/10.1177/1097184X15576203" />
+	</analytic>
+	<monogr>
+		<title level="j">Men and Masculinities</title>
+		<imprint>
+			<biblScope unit="volume">19</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="240" to="259" />
+			<date type="published" when="2016-05-15">2016. 15 May 2025</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<monogr>
+		<author>
+			<persName><forename type="first">Caroline</forename><surname>Levine</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/26438941.2021.2003555</idno>
+		<ptr target="https://doi.org/10.1080/26438941.2021" />
+		<title level="m">Forms: Whole, Rhythm, Hierarchy, Network</title>
+		<meeting><address><addrLine>Princeton, NJ</addrLine></address></meeting>
+		<imprint>
+			<publisher>Princeton University Press</publisher>
+			<date type="published" when="2015">2015. 2003555. 27 October 2025</date>
+			<biblScope unit="page">21</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<monogr>
+		<author>
+			<persName><forename type="first">Leah</forename><surname>See</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Lakshmi</forename><surname>Piepzna-Samarasinha</surname></persName>
+		</author>
+		<title level="m">Care Work: Dreaming Disability Justice</title>
+		<meeting><address><addrLine>Vancouver</addrLine></address></meeting>
+		<imprint>
+			<publisher>Arsenal Pulp Press</publisher>
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<analytic>
+		<title level="a" type="main">Care webs and the creole garden in Manthia Diawara&apos;s Édouard Glissant: One World in Relation</title>
+		<author>
+			<persName><forename type="first">Jeannine</forename><surname>See</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Murray-Ramón</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/26438941.2021.2003555</idno>
+		<ptr target="https://doi.org/10.1080/26438941.2021" />
+	</analytic>
+	<monogr>
+		<title level="j">Ethics of Care: Special Issue of French Screen Studies</title>
+		<imprint>
+			<biblScope unit="volume">22</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="77" to="90" />
+			<date type="published" when="2022">2022. 2003555. 27 October 2025</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<monogr>
+		<author>
+			<persName><forename type="first">Carol</forename><surname>See</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Gilligan</surname></persName>
+		</author>
+		<title level="m">Different Voice: Psychological Theory and Woman&apos;s Development</title>
+		<meeting><address><addrLine>Cambridge, MA</addrLine></address></meeting>
+		<imprint>
+			<publisher>Harvard University Press</publisher>
+			<date type="published" when="1982">1982</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<analytic>
+		<title level="a" type="main">Maternal Thinking</title>
+		<author>
+			<persName><forename type="first">Nel</forename><surname>Noddings</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Caring: A Feminine Approach to Ethics and Moral Education</title>
+		<editor>
+			<persName><forename type="first">Joyce</forename><surname>Trebilcot</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Berkeley, CA; Lanham, MD</addrLine></address></meeting>
+		<imprint>
+			<publisher>Rowman &amp; Allanheld</publisher>
+			<date type="published" when="1984">1986. 1984</date>
+			<biblScope unit="volume">2</biblScope>
+			<biblScope unit="page" from="213" to="230" />
+		</imprint>
+	</monogr>
+	<note>Mothering: Essays in Feminist Theory. nd ed.</note>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<analytic>
+		<title level="a" type="main">Rethinking Care Theory: The Practice of Caring and the Obligation to Care</title>
+		<author>
+			<persName><forename type="first">See</forename><surname>Tronto</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Moral</forename><surname>Boundaries</surname></persName>
+		</author>
+		<ptr target="https://www.cambridge.org/core/journals/hypatia/article/abs/rethinking-care-theory-the-practice-of-caring-and-the-obligation-to-care/BD2558EFE292D5FC57E14016150DB632" />
+	</analytic>
+	<monogr>
+		<title level="j">Hypatia</title>
+		<imprint>
+			<biblScope unit="volume">20</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="50" to="74" />
+			<date type="published" when="2005-05">2005. May 2025</date>
+		</imprint>
+	</monogr>
+	<note>A Political Argument for an Ethic of Care; Daniel Engster</note>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<monogr>
+		<title level="m" type="main">The Ethics of Care. Personal, Political, Global</title>
+		<author>
+			<persName><forename type="first">Virgina</forename><surname>Held</surname></persName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<monogr>
+		<title level="m" type="main">The Care Manifesto; Nancy Fraser, Cannibal Capitalism: How Our System Is Devouring Democracy, Care, and the Planet-and What We Can Do About It</title>
+		<imprint>
+			<date type="published" when="2022">2022</date>
+			<publisher>Verso</publisher>
+			<pubPlace>London and New York</pubPlace>
+		</imprint>
+	</monogr>
+	<note>See The Care Collective</note>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<monogr>
+		<title level="m" type="main">Capitalism: A conversation in critical theory</title>
+		<author>
+			<persName><forename type="first">Nancy</forename><surname>Fraser</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Rahel</forename><surname>Jaeggi</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2018">2018</date>
+			<publisher>John Wiley &amp; Sons</publisher>
+			<pubPlace>Hoboken, NJ</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<monogr>
+		<author>
+			<persName><forename type="first">See</forename><surname>Isabel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Lorey</forename></persName>
+		</author>
+		<title level="m">Democracy in the Political Present</title>
+		<meeting><address><addrLine>London and New York</addrLine></address></meeting>
+		<imprint>
+			<publisher>Verso</publisher>
+			<date type="published" when="2022">2022</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b27">
+	<monogr>
+		<title level="m">Matters of Care: Speculative Ethics in More Than Human Worlds</title>
+		<meeting><address><addrLine>Minneapolis, MN</addrLine></address></meeting>
+		<imprint>
+			<publisher>University of Minnesota Press</publisher>
+			<date type="published" when="2017">2017</date>
+		</imprint>
+		<respStmt>
+			<orgName>See Maria Puig de la Bellacasa</orgName>
+		</respStmt>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b28">
+	<analytic>
+		<title level="a" type="main">Taking Care: Toward an Environmentalist Literary Criticism</title>
+		<author>
+			<persName><forename type="first">Scott</forename><surname>Slovic</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Eco-Man: New Perspectives on Masculinity and Nature</title>
+		<editor>
+			<persName><forename type="first">Mark</forename><surname>Allister</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Charlottesville, VA</addrLine></address></meeting>
+		<imprint>
+			<publisher>University of Virginia Press</publisher>
+			<date type="published" when="2004">2004</date>
+			<biblScope unit="page" from="66" to="80" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b29">
+	<monogr>
+		<author>
+			<persName><forename type="first">See</forename><surname>Piepzna-Samarasinha</surname></persName>
+		</author>
+		<title level="m">Care Work: Dreaming Disability Justice</title>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b30">
+	<analytic>
+		<title level="a" type="main">For useful overviews see Held, The Ethics of Care. Personal, Political, Global; Daniel Engster and Maurice Hamington</title>
+	</analytic>
+	<monogr>
+		<title level="m">Care Ethics and Political Theory</title>
+		<editor>
+			<persName><forename type="first">Daniel</forename><surname>Engster</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">Maurice</forename><surname>Hamington</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Oxford</addrLine></address></meeting>
+		<imprint>
+			<publisher>Oxford UP</publisher>
+			<date type="published" when="2015">2015</date>
+			<biblScope unit="page" from="1" to="16" />
+		</imprint>
+	</monogr>
+	<note>Introduction</note>
+</biblStruct>
+
+<biblStruct xml:id="b31">
+	<monogr>
+		<author>
+			<persName><forename type="first">See</forename><surname>Carol</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Gilligan</forename></persName>
+		</author>
+		<title level="m">Different Voice: Psychological Theory and Woman&apos;s Development</title>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b32">
+	<monogr>
+		<title level="m" type="main">See also Tronto, Moral Boundaries. A Political Argument for an Ethic of Care</title>
+		<imprint>
+			<biblScope unit="page">3</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b33">
+	<monogr>
+		<title level="m" type="main">The Ethics of Care. Personal, Political, Global</title>
+		<author>
+			<persName><surname>Held</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="page">10</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b34">
+	<analytic>
+		<title level="a" type="main">The Ethics of Care as a Politics of the Ordinary</title>
+		<author>
+			<persName><forename type="first">See</forename><surname>Also</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Sandra</forename><surname>Laugier</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">New Literary History</title>
+		<imprint>
+			<biblScope unit="volume">46</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page">219</biblScope>
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b35">
+	<monogr>
+		<title level="m" type="main">Cannibal Capitalism: How Our System Is Devouring Democracy, Care, and the Planet-and What We Can Do About It</title>
+		<author>
+			<persName><forename type="first">Nancy</forename><surname>Fraser</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="page" from="55" to="56" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b36">
+	<monogr>
+		<title level="m">The Care Collective</title>
+		<imprint>
+			<publisher>The Care Manifesto</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b37">
+	<monogr>
+		<author>
+			<persName><forename type="first">Madeleine</forename><surname>Bunting</surname></persName>
+		</author>
+		<title level="m">Labours of Love: The Crisis of Care</title>
+		<meeting><address><addrLine>London</addrLine></address></meeting>
+		<imprint>
+			<publisher>Granta Books</publisher>
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b38">
+	<analytic>
+		<title level="a" type="main">Introduction: Imagining and Reimagining Emotional Labour</title>
+		<author>
+			<persName><forename type="first">Alexandra</forename><surname>Peat</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Emily</forename><surname>Ridge</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/09574042.2023.2278261</idno>
+		<ptr target="https://www.tandfonline.com/doi/full/10.1080/09574042.2023.2278261" />
+	</analytic>
+	<monogr>
+		<title level="j">Women: A Cultural Review</title>
+		<imprint>
+			<biblScope unit="volume">34</biblScope>
+			<biblScope unit="page">264</biblScope>
+			<date type="published" when="2023-05-15">2023. 15 May 2025</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b39">
+	<monogr>
+		<title level="m" type="main">The Ethics of Care as a Politics of the Ordinary</title>
+		<author>
+			<persName><surname>Laugier</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="page">227</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b40">
+	<monogr>
+		<title level="m" type="main">Communities of Care: The Social Ethics of Victorian Fiction</title>
+		<author>
+			<persName><surname>Schaffer</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="page">5</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b41">
+	<analytic>
+		<title level="a" type="main">Chronology, Time, Tense and Experientiality in Narrative</title>
+		<author>
+			<persName><forename type="first">Fludernik</forename><surname>Monika</surname></persName>
+		</author>
+		<idno type="DOI">10.1177/0963947003012002295</idno>
+		<ptr target="https://doi.org/10.1177/0963947003012002295" />
+	</analytic>
+	<monogr>
+		<title level="j">Language and Literature</title>
+		<imprint>
+			<biblScope unit="volume">12</biblScope>
+			<biblScope unit="page" from="117" to="134" />
+			<date type="published" when="2003-11-02">2003. 02 November 2025</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b42">
+	<monogr>
+		<author>
+			<persName><forename type="first">Amelia</forename><surname>De</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Falco</forename></persName>
+		</author>
+		<title level="m">Imagining Care: Responsibility, Dependency, and Canadian Literature</title>
+		<meeting><address><addrLine>Toronto</addrLine></address></meeting>
+		<imprint>
+			<publisher>University of Toronto Press</publisher>
+			<date type="published" when="2026">2026</date>
+			<biblScope unit="page">74</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b43">
+	<monogr>
+		<title level="m" type="main">Moral Boundaries. A Political Argument for an Ethic of Care</title>
+		<author>
+			<persName><surname>Tronto</surname></persName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b44">
+	<monogr>
+		<title level="m" type="main">Cannibal Capitalism: How Our System Is Devouring Democracy, Care, and the Planet-and What We Can Do About It</title>
+		<author>
+			<persName><surname>Fraser</surname></persName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b45">
+	<monogr>
+		<title level="m" type="main">Democracy in the Political Present</title>
+		<author>
+			<persName><surname>Lorey</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="page">142</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b46">
+	<monogr>
+		<author>
+			<persName><forename type="first">K</forename><surname>Franz</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Stanzel</surname></persName>
+		</author>
+		<title level="m">Theorie des Erzählens (Stuttgart: UTB, 1991)</title>
+		<imprint>
+			<biblScope unit="volume">2</biblScope>
+			<biblScope unit="page">242</biblScope>
+		</imprint>
+	</monogr>
+	<note>nd ed.</note>
+</biblStruct>
+
+<biblStruct xml:id="b47">
+	<analytic>
+		<title level="a" type="main">auktoriale Erzählsituation&apos; -I use Franz Stanzel&apos;s typological circle of narration as it is attuned to the fluidity of Tidal Zone&apos;s narrative form, i.e. to the way the narration shifts between an anonymous and an embodied narrative voice. I quote from the German edition Franz K</title>
+	</analytic>
+	<monogr>
+		<title level="m">Theorie des Erzählens (Stuttgart: UTB, 1991)</title>
+		<meeting><address><addrLine>Stanzel; Cambridge</addrLine></address></meeting>
+		<imprint>
+			<publisher>Cambridge University Press</publisher>
+			<date type="published" when="1986">1986</date>
+		</imprint>
+	</monogr>
+	<note>nd ed.; for an English translation see Franz K. Stanzel, A Theory of Narrative, trans. Charlotte Goedsche</note>
+</biblStruct>
+
+<biblStruct xml:id="b48">
+	<monogr>
+		<title level="m" type="main">The Ethics of Care as a Politics of the Ordinary</title>
+		<author>
+			<persName><forename type="first">See</forename><surname>Also</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Laugier</forename></persName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b49">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">Sarah</forename><surname>Moss</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Tidal</forename><surname>Zone</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2016">2016</date>
+			<publisher>Granta</publisher>
+			<biblScope unit="page">209</biblScope>
+			<pubPlace>London</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b50">
+	<monogr>
+		<author>
+			<persName><forename type="first">See</forename><surname>Lauren</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Berlant</forename></persName>
+		</author>
+		<title level="m">Cruel Optimism</title>
+		<meeting><address><addrLine>Durham, NC</addrLine></address></meeting>
+		<imprint>
+			<publisher>Duke University Press</publisher>
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b51">
+	<monogr>
+		<author>
+			<persName><forename type="first">See</forename><surname>Alain</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Ehrenberg</forename></persName>
+		</author>
+		<title level="m">La Fatigue d&apos;être Soi</title>
+		<meeting><address><addrLine>Paris</addrLine></address></meeting>
+		<imprint>
+			<publisher>Odile Jacob</publisher>
+			<date type="published" when="1998">1998</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b52">
+	<monogr>
+		<author>
+			<persName><forename type="first">See</forename><surname>Hartmut</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Rosa</forename></persName>
+		</author>
+		<title level="m">Social Acceleration. A New Theory of Modernity, trans. Jonathan Trejo-Mathys</title>
+		<meeting><address><addrLine>New York</addrLine></address></meeting>
+		<imprint>
+			<publisher>Columbia University Press</publisher>
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b53">
+	<monogr>
+		<title level="m" type="main">Cruel Optimism</title>
+		<imprint/>
+		<respStmt>
+			<orgName>See Berlant</orgName>
+		</respStmt>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b54">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">Tidal</forename><surname>Moss</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Zone</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="page">273</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b55">
+	<monogr>
+		<title/>
+		<author>
+			<persName><surname>Ibid</surname></persName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b56">
+	<monogr>
+		<title/>
+		<author>
+			<persName><surname>Ibid</surname></persName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b57">
+	<monogr>
+		<author>
+			<persName><forename type="first">Dieter</forename><surname>Burdorf</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Zerbrechlichkeit</surname></persName>
+		</author>
+		<title level="m">Über Fragmente in der Literatur</title>
+		<meeting><address><addrLine>Göttingen</addrLine></address></meeting>
+		<imprint>
+			<publisher>Wallstein</publisher>
+			<date type="published" when="2020">2020</date>
+			<biblScope unit="page">8</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b58">
+	<analytic>
+		<title level="a" type="main">On Fragments</title>
+		<author>
+			<persName><forename type="first">Glenn</forename><surname>Most</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">The Fragment. An Incomplete History</title>
+		<editor>
+			<persName><forename type="first">William</forename><surname>Tronzo</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Los Angeles, CA</addrLine></address></meeting>
+		<imprint>
+			<publisher>Getty Publications</publisher>
+			<date type="published" when="2009">2009</date>
+			<biblScope unit="volume">18</biblScope>
+			<biblScope unit="page" from="8" to="20" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b59">
+	<monogr>
+		<title level="m" type="main">The Ethics of Care. Personal, Political, Global</title>
+		<author>
+			<persName><surname>Held</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="page">17</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b60">
+	<monogr>
+		<title level="m" type="main">The Ethics of Care as a Politics of the Ordinary</title>
+		<author>
+			<persName><forename type="first">See</forename><surname>Laugier</surname></persName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b61">
+	<monogr>
+		<author>
+			<persName><forename type="first">Niall</forename><surname>Hanlon</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Masculinities</forename></persName>
+		</author>
+		<title level="m">Care and Equality: Identity and Nurture in Men&apos;s Lives</title>
+		<meeting><address><addrLine>Basingstoke, UK</addrLine></address></meeting>
+		<imprint>
+			<publisher>Palgrave Macmillan</publisher>
+			<date type="published" when="2012">2012</date>
+			<biblScope unit="page">203</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b62">
+	<monogr>
+		<title level="m" type="main">Caring Masculinities: Theorizing and Emerging Concept</title>
+		<author>
+			<persName><forename type="first">Eliott</forename></persName>
+		</author>
+		<imprint>
+			<biblScope unit="page">241</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b63">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">Tidal</forename><surname>Moss</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Zone</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="page">245</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b64">
+	<monogr>
+		<title level="m" type="main">Hegemonic Masculinity: Rethinking the Concept</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">W</forename><surname>Connel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">James</forename><surname>Messerschmidt</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2005">2005</date>
+			<publisher>Gender and Society</publisher>
+			<biblScope unit="volume">19</biblScope>
+			<biblScope unit="page" from="829" to="859" />
+		</imprint>
+	</monogr>
+	<note>On hegemonic masculinities see</note>
+</biblStruct>
+
+<biblStruct xml:id="b65">
+	<analytic>
+		<title level="a" type="main">Paranoid Reading and Reparative Reading; or, You&apos;re So Paranoid, You Probably Think This Introduction Is about You</title>
+		<author>
+			<persName><forename type="first">See</forename><surname>Eve</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Kosofsky</forename><surname>Sedgwick</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Novel Gazing: Queer Readings in Fiction</title>
+		<editor>
+			<persName><forename type="first">Eve</forename><surname>Kosofsky</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">Sedgwick</forename></persName>
+		</editor>
+		<meeting><address><addrLine>Durham, NC</addrLine></address></meeting>
+		<imprint>
+			<publisher>Duke University Press</publisher>
+			<date type="published" when="1997">1997</date>
+			<biblScope unit="page" from="1" to="38" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b66">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">Tidal</forename><surname>Moss</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Zone</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="page">104</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b67">
+	<analytic>
+		<title/>
+	</analytic>
+	<monogr>
+		<title level="j">Reflektor&apos; Stanzel, Theorie des Erzählens</title>
+		<imprint>
+			<biblScope unit="page">84</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b68">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">Tidal</forename><surname>Moss</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Zone</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="page">121</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b69">
+	<monogr>
+		<title/>
+		<author>
+			<persName><surname>Ibid</surname></persName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b70">
+	<monogr>
+		<title level="m" type="main">Democracy in the Political Present</title>
+		<author>
+			<persName><surname>Lorey</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="page">11</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b71">
+	<monogr>
+		<title level="m" type="main">Care webs and the creole garden in Manthia Diawara&apos;s Édouard Glissant: One World in Relation</title>
+		<author>
+			<persName><forename type="first">See</forename><surname>Murray-Ramón</surname></persName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b72">
+	<monogr>
+		<author>
+			<persName><forename type="first">See</forename><surname>Bruno</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Latour</forename></persName>
+		</author>
+		<title level="m">Reassembling the Social: An Introduction to Actor-Network Theory</title>
+		<meeting><address><addrLine>Oxford</addrLine></address></meeting>
+		<imprint>
+			<publisher>Oxford University Press</publisher>
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b73">
+	<monogr>
+		<title level="m" type="main">Democracy in the Political Present</title>
+		<author>
+			<persName><surname>Lorey</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="page">137</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b74">
+	<monogr>
+		<title/>
+		<author>
+			<persName><surname>Ibid</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="page" from="128" to="130" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b75">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">Tidal</forename><surname>Moss</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Zone</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="page">74</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b76">
+	<monogr>
+		<title/>
+		<author>
+			<persName><surname>Ibid</surname></persName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b77">
+	<monogr>
+		<title/>
+		<author>
+			<persName><surname>Ibid</surname></persName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b78">
+	<monogr>
+		<title/>
+		<author>
+			<persName><surname>Ibid</surname></persName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b79">
+	<analytic>
+		<title level="a" type="main">Evoking Borders in Michael Hughes&apos;s Country (2018) and Sarah Moss&apos;s Ghost Wall</title>
+		<author>
+			<persName><forename type="first">See</forename><surname>Caroline</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Lusin</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Anglistik</title>
+		<imprint>
+			<biblScope unit="volume">34</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="175" to="187" />
+			<date type="published" when="2018">2018. 2023. 2022</date>
+			<publisher>Julia Boll</publisher>
+		</imprint>
+	</monogr>
+	<note>ZAA</note>
+</biblStruct>
+
+<biblStruct xml:id="b80">
+	<monogr>
+		<title level="m" type="main">Moral Boundaries. A Political Argument for an Ethic of Care</title>
+		<author>
+			<persName><surname>Tronto</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="page">3</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b81">
+	<analytic>
+		<title level="a" type="main">Taking Care: Toward an Environmentalist Literary Criticism</title>
+	</analytic>
+	<monogr>
+		<title level="m">Matters of Care: Speculative Ethics in More Than Human Worlds; Slovic</title>
+		<imprint>
+			<publisher>See Puig de la Bellacasa</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b82">
+	<analytic>
+		<title level="a" type="main">Moss wrote the passages on the cathedral prior to the main plot, see Hanna Rosefield and Sarah Moss</title>
+		<ptr target="https://www.thewhitereview.org/feature/interview-with-sarah-moss" />
+	</analytic>
+	<monogr>
+		<title level="j">The White Review</title>
+		<imprint>
+			<biblScope unit="issue">27</biblScope>
+			<date type="published" when="2020-05-15">2020. 15 May 2025</date>
+		</imprint>
+	</monogr>
+	<note>Interview with Sarah Moss</note>
+</biblStruct>
+
+<biblStruct xml:id="b83">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">Tidal</forename><surname>Moss</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Zone</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="page">85</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b84">
+	<monogr>
+		<title/>
+		<author>
+			<persName><surname>Ibid</surname></persName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b85">
+	<analytic>
+		<title level="a" type="main">For an exploration of &apos;gappiness&apos; see Dirk Wiemann</title>
+	</analytic>
+	<monogr>
+		<title level="m">Anglophone Verse Novels as Gutter Texts: Postcolonial Literature and the Politics of Gaps</title>
+		<meeting><address><addrLine>London; Bloomsbury</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2023">2023</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b86">
+	<monogr>
+		<title level="m">See for instance Dominic LaCapra, Writing History, Writing Trauma</title>
+		<meeting><address><addrLine>Baltimore, MD</addrLine></address></meeting>
+		<imprint>
+			<publisher>Johns Hopkins University Press</publisher>
+			<date type="published" when="2001">2001</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b87">
+	<analytic>
+		<title level="a" type="main">Vulnerable Times</title>
+		<author>
+			<persName><forename type="first">Marianne</forename><surname>Hirsch</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Vulnerability in Resistance</title>
+		<editor>
+			<persName><forename type="first">Judith</forename><surname>Butler</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">Zeynep</forename><surname>Gambetti</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">Leticia</forename><surname>Sabsay</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Durham, NC</addrLine></address></meeting>
+		<imprint>
+			<publisher>Duke University Press</publisher>
+			<date type="published" when="2016">2016</date>
+			<biblScope unit="volume">93</biblScope>
+			<biblScope unit="page" from="76" to="97" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b88">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">Tidal</forename><surname>Moss</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Zone</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="page">208</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b89">
+	<monogr>
+		<title level="m" type="main">Desiring Walls: Fantasies of Containment and Reimagined British Pasts</title>
+		<author>
+			<persName><forename type="first">See</forename><surname>Boll</surname></persName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b90">
+	<analytic>
+		<title level="a" type="main">Sarah Moss&apos;s Anxiety Chronicles</title>
+		<author>
+			<persName><forename type="first">Moss</forename><forename type="middle">Qtd</forename><surname>In</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Tara</forename><surname>Menon</surname></persName>
+		</author>
+		<ptr target="www.lareviewofbooks.org/article/sarah-mosss-anxiety-chronicles" />
+	</analytic>
+	<monogr>
+		<title level="j">Los Angeles Review of Books</title>
+		<imprint>
+			<date type="published" when="2021-02-21">21 Feb 2021. 15 May 2025</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b91">
+	<monogr>
+		<title level="m" type="main">Rethinking Care Theory: The Practice of Caring and the Obligation to Care</title>
+		<author>
+			<persName><forename type="first">Daniel</forename><surname>Engster</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="page">55</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b92">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">Tidal</forename><surname>Moss</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Zone</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="page">320</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b93">
+	<monogr>
+		<title level="m" type="main">Vulnerable Times</title>
+		<author>
+			<persName><surname>Hirsch</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="page">93</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b94">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">Tidal</forename><surname>Moss</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Zone</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="page">322</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b95">
+	<monogr>
+		<title level="m">A Life&apos;s Work: On Becomin a Mother</title>
+		<meeting><address><addrLine>London</addrLine></address></meeting>
+		<imprint>
+			<publisher>Estate Publishing</publisher>
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b96">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">Claire</forename><surname>Kilroy</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Soldier</forename><surname>Sailor</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2004">2004</date>
+			<publisher>Faber</publisher>
+			<pubPlace>London</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b97">
+	<monogr>
+		<title level="m" type="main">The Argonauts</title>
+		<author>
+			<persName><forename type="first">Maggie</forename><surname>Nelson</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2015">2015</date>
+			<publisher>Graywolf Press</publisher>
+			<pubPlace>Minneapolis, MN</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b98">
+	<monogr>
+		<title level="m" type="main">All the Lives We Never Lived</title>
+		<author>
+			<persName><forename type="first">Anuradha</forename><surname>Roy</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2018">2018</date>
+			<publisher>Atria Books</publisher>
+			<pubPlace>New York, NY</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b99">
+	<monogr>
+		<author>
+			<persName><forename type="first">See</forename><surname>Karmakar</surname></persName>
+		</author>
+		<title level="m">Maternal Fictions: Writing the Mother in Indian Women&apos;s Fictions</title>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b100">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">Anne</forename><surname>See</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Whitehead</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Medicine and Empathy in Contemporary British Fiction: An Intervention in Medical Humanities</title>
+		<imprint>
+			<date type="published" when="2022">2022</date>
+			<publisher>Edinburgh UP</publisher>
+			<pubPlace>Edinburgh</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b101">
+	<monogr>
+		<title level="m" type="main">Imagining Care: Responsibility, Dependency, and Canadian Literature</title>
+		<author>
+			<persName><forename type="first">See</forename><surname>De</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Falco</forename></persName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b102">
+	<analytic>
+		<title level="a" type="main">The Long Lure of Anti-Instrumentality: Politics, Aesthetics, and Sustainability</title>
+		<author>
+			<persName><forename type="first">Caroline</forename><surname>See</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Levine</surname></persName>
+		</author>
+		<ptr target="https://muse.jhu.edu/article/795515" />
+	</analytic>
+	<monogr>
+		<title level="j">Modern Fiction Studies</title>
+		<imprint>
+			<biblScope unit="volume">67</biblScope>
+			<biblScope unit="page" from="225" to="246" />
+			<date type="published" when="2021-05-15">2021. 15 May 2025</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

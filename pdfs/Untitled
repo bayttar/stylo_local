@@ -1,0 +1,4 @@
+curl -v \
+  -F "input=@/Users/sametbaytar/stylo_local/pdfs/00-Metaphorical Traits of the Language of the COVID-19 Pandemic_ A Short-Term Diachronic Study.pdf" \
+  http://localhost:8070/api/processFulltextDocument \
+  -o /Users/sametbaytar/stylo_local/stylo_out/paper1.tei.xml

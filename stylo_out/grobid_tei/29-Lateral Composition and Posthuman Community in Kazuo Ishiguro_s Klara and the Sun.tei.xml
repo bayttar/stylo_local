@@ -1,0 +1,406 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Lateral Composition and Posthuman Community in Kazuo Ishiguro&apos;s Klara and the Sun</title>
+				<funder ref="#_SFJTtNH">
+					<orgName type="full">Eighteenth Century</orgName>
+				</funder>
+				<funder ref="#_dzR2jxp">
+					<orgName type="full">National Social Science Fund of China</orgName>
+				</funder>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author role="corresp">
+							<persName><forename type="first">Zhang</forename><surname>Xiuli</surname></persName>
+							<email>xllczhang@hotmail.com</email>
+							<affiliation key="aff0">
+								<orgName type="department">School of Foreign Languages</orgName>
+								<orgName type="institution">Shanghai University</orgName>
+								<address>
+									<settlement>Shanghai</settlement>
+									<country key="CN">China</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff1">
+								<orgName type="department">School of Foreign Languages</orgName>
+								<orgName type="institution">Shanghai University</orgName>
+								<address>
+									<addrLine>99 Shangda Road</addrLine>
+									<postCode>200444</postCode>
+									<settlement>Baoshan District, Shanghai</settlement>
+									<country key="CN">China</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Lateral Composition and Posthuman Community in Kazuo Ishiguro&apos;s Klara and the Sun</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date/>
+						</imprint>
+					</monogr>
+					<idno type="MD5">CB834F09DC1D27E99CAF86AD20762648</idno>
+					<idno type="DOI">10.1080/00111619.2025.2599188</idno>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.0" ident="GROBID" when="2026-02-25T19:55+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>By foregrounding a human-Sun-machine nexus, this article argues that Kazuo Ishiguro's Klara and the Sun reconfigures affect from an instrument of biopolitical sorting into a medium of lateral composition. The essay draws on Bruno Latour's concept of compositionism, Sara Ahmed's notion of affective "stickiness," and posthuman ethics in Donna Haraway and Rosi Braidotti to trace how Klara's first-person perspective transforms light, glass, and spatial arrangements into infrastructures that quietly distribute care and neglect. Through close readings of key sequences-the AF store window, the kitchen and barn episodes, the "continuation" rehearsals, the diner encounter with Mr. Vance, and the junkyard coda-the novel is shown to shift from fantasies of perfect substitution (genetic "lifting," Josie's projected replica, admissions filters) toward a fragile commons of care sustained by gifts, repairs, and contracts without a sovereign. This dynamic is termed attentional justice: a reorientation of political feeling away from vertical hierarchies of humans and the enhanced, and toward horizontal attachments among human and nonhuman actors. Seen through this lens, Klara and the Sun speaks directly to contemporary debates on posthuman sociality and AI-mediated care, inviting readers to judge institutions not by the efficiencies they tout but by the shared worlds of dependence they help create.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Introduction</head><p>Published in 2021, Kazuo Ishiguro's Klara and the Sun revisits the ethical terrain of his earlier fiction but reframes it for a world shaped by artificial intelligence (AI), genetic enhancement, and ecological precarity. The story is narrated in the first person by Klara-an artificial friend (AF) designed as a solar-powered companion for children-and is told in the present tense. This narrative choice continually places readers at eye level with a figure whom most human characters treat as an object. From the opening scenes in the AF store window to Josie's sickroom and eventually the junkyard "yard" for retired machines, the narrative remains within Klara's attentional habits, a perspective that quietly solicits care without invoking any recognized authority. In this way, Ishiguro extends his longstanding preoccupation with duty, vulnerability, and substitution into a decisively posthuman register. Questions about enhancement regimes, algorithmic mediation, and the disposability of carers are refracted through Klara's constrained yet persistent way of seeing. Her perspective elevates the Sun to a quasi-divine agent and highlights transversal ties among human, machine, and more-than-human forces.</p><p>Critical responses to Klara and the Sun have increasingly shifted from ethical puzzles at the level of individual characters to an analysis of the novel's institutional and infrastructural design. One line of interpretation follows a chain of "capitalized Pollution-occluded light-habitability crisis" as an immanent critique of energy systems and their impact on social solidarity, interpreting Klara's devotion to the Sun through the lens of environmental modernity and risk <ref type="bibr">(Yuan)</ref>. Another strand examines disposable culture and what one scholar calls the "affective uncanny," illustrating how humanoid companions straddle a tension between throwaway status and intimate attachment, and in doing so, recode the terms on which care and intimacy are imagined <ref type="bibr">(Sahu and Karmakar)</ref>. A third strand, often grouped under posthuman sociality, asks whether asymmetrical human-AI relationships can nonetheless generate durable bonds and communal forms, or if AFs remain structurally excluded from moral and legal personhood even when individual humans extend empathy toward them <ref type="bibr">(Stenseke; Simonetti)</ref>. Taken together, these critical accounts shift the novel's "human-Sun-machine" nexus out of the realm of symbolic ethics and into the domains of energy, governance, and social reproduction, suggesting that what is at stake is not only how we feel about nonhuman others, but also how infrastructures distribute risk, attention, and vulnerability.</p><p>This article builds on that body of work by offering a new interpretation centered on what I call lateral composition. This term refers to the novel's reorientation of affect away from vertical regimes of recognition and toward sideways practices of care, offering, and repair. I adopt Latour's notion of "composition," which posits that a common world is not pre-given but is "put together"-always partial, revisable, and reliant on assembling heterogeneous actors <ref type="bibr">(Latour,</ref>. "Lateral," in this context, signals the novel's insistence that such assembly happens across rather than down a hierarchy. For example, Klara's caregiving for Josie, her bargaining relationship with the Sun, her concern for a homeless man and his dog, and Rick's insistence on treating Klara as a peer all exemplify what Donna Haraway calls "making kin" across the historically policed divide between nature and culture, human and nonhuman (Haraway, 1-2, 99). Rather than seeking legitimation from a sovereign center-whether the human subject, the family, or the state-the narrative imagines community emerging from situated, multispecies "worlding" where attention and energy circulate horizontally. Through this lens, Klara and the Sun is not merely rehearsing familiar anxieties about technological replacement or stratification through enhancement. Instead, the novel experiments with an ethic of offering that redistributes care and exposure across class-based and ontological divides. It also proposes a politics of lateral composition that pragmatically defuses vertical antagonisms-such as the divide between "lifted" and "unlifted" individuals-by binding human and nonhuman actors into a fragile shared commons.</p><p>Read in the context of Ishiguro's broader oeuvre, Klara and the Sun also represents a shift in how his fiction portrays disposability. Never Let Me Go organized its ethical drama around cloned bodies confined in a boarding-school world and a donation system that gradually renders those bodies unusable; the question in that novel is how long the subjects of a predetermined biopolitics can sustain meaning and attachment within a sacrificial economy. Klara and the Sun transposes that problem to a more diffuse landscape of AFs, genetic "lifting," and algorithmic filtering, where value is distributed through school admission systems, access to enhancements, and even solar energy. Many have read Never Let Me Go as a parable of biomedical governance and bare life, in which the central issue is who gets counted as fully human (e.g., <ref type="bibr">Karmakar and Parui; Pereira and Karunakar)</ref>. By contrast, Klara and the Sun diffuses this question across both human and nonhuman actants. It asks less about who qualifies as a person, and more about how environments, devices, and institutions compose a common world in which some lives consistently remain in the background. It is this turn toward composition-away from any stable human essence and toward the fragile processes of making and unmaking shared worlds-that forms the starting point of this article.</p><p>In what follows, the concept of lateral composition is first situated within debates in posthuman ethics and affect theory. I then turn to three clusters of scenes in the novel: the AF store window and the Cootings Machine episode, the "continuation" experiment and the solar contract, and the final junkyard "yard." Together, these readings show how Klara and the Sun reconceives community as a fragile commons sustained by lateral attachments among human, artificial, and environmental actors, rather than by vertical regimes of recognition. While earlier criticism has mapped the novel's diagnoses of energy occlusion, disposability, and posthuman sociality, the contribution of this article lies in specifying how the narrative's formal pedagogy of attention models a lateral composition of a commons-oriented community. This reframing of community is significant because it suggests new pathways for imagining social bonds and responsibilities in a technologized future, shifting focus from the question of who is entitled to care toward the question of how care can be collectively sustained.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Lateral Attachments and Affective Composition</head><p>Ishiguro opens Klara and the Sun by showing readers how attention attaches to the world not vertically (as a permission granted from above) but laterally (as a circulation among adjacent bodies -human, artificial, and environmental). The AF store window sequences illustrate this principle. Even before a human customer speaks to her, Klara is watching how light "chooses" different spots on the store floor and observing how children either pause or hurry past the glass. When she crouches and reaches out, both hands toward "the Sun's pattern on the floor," it disappears the moment she touches it <ref type="bibr">(Ishiguro,</ref><ref type="bibr">14)</ref>. This moment reveals a world where energy, bodies, and feeling are coordinated long before any explicit rule is articulated. When a fellow AF, Rex, complains that Klara has "taken all the nourishment" as a sunbeam naturally fades with the time of day <ref type="bibr">(Ishiguro,</ref><ref type="bibr">14)</ref>, it serves as a small allegory for how a mindset of scarcity becomes socialized into blame even in trivial situations. The aim here is not to portray Klara as morally superior, but rather to show how a habitual sense of scarcity shifts attention from processes of flow to notions of possession. Sara Ahmed's concept of how emotions "stick" to bodies and spaces (Ahmed, 10-12) and Rosi Braidotti's notion of "embedded relationality" <ref type="bibr">(Braidotti,</ref><ref type="bibr">(49)</ref><ref type="bibr">(50)</ref><ref type="bibr">(51)</ref><ref type="bibr">(52)</ref><ref type="bibr">(53)</ref><ref type="bibr">(54)</ref><ref type="bibr">(55)</ref><ref type="bibr">(56)</ref> help to articulate what the novel dramatizes in the AF store. Feelings emerge as lateral adhesions that shape collectivity, rather than as private interior states. By using a first-person, present-tense perspective, the narration keeps the reader in constant co-presence with Klara's sensory experiences. Sunbeams, glass panes, and floorboards become the fundamental units from which a shared world is composed. Klara's need to learn how to read human faces through the store window-faces that are half-lit, moving, and often seen only as reflections-underscores that perception is always mediated by surfaces and angles. The narrative thus normalizes not a transparent inner life, but a situated and partial viewpoint from which affect radiates outward. Later, when the Manager moves Klara from the front display window to a back alcove where she can see only "the backs of customers" <ref type="bibr">(Ishiguro,</ref><ref type="bibr">38)</ref>, the novel reiterates this lesson on a smaller scale: even a minor change in positioning quietly alters who can be seen and who gets to see.</p><p>The subsequent kitchen scenes in Josie's home transpose this politics of attention into the domestic sphere. Unlike the meticulously ordered store, where the Manager keeps "all the items . . . in their correct places," the kitchen is a space of continual rearrangement. Melania, the housekeeper, moves objects so often that Klara has to "start afresh in <ref type="bibr">[her]</ref> learning" until she realizes the importance of the kitchen "Island" with its brick-like tiles, shiny basin, and tall stools <ref type="bibr">(Ishiguro,</ref><ref type="bibr">47)</ref>. This central island becomes a new anchor for posture and perception: Josie does her tutoring work there, and Klara imitates her by planting her elbows firmly on the surface so she can sit securely <ref type="bibr">(Ishiguro,</ref><ref type="bibr">(47)</ref><ref type="bibr">(48)</ref>. Klara also notes that the kitchen is "an excellent room for the Sun to look into," with broad windows and a skylight that often floods the space with the Sun's "best nourishment." At the same time, a remote-controlled blind can cut off this sunlight instantaneously <ref type="bibr">(Ishiguro,</ref><ref type="bibr">48)</ref>. At first, Klara is anxious when Melania pulls the blind down "just as the Sun was sending in his nourishment." Eventually, Klara learns to operate the remote herself when the light grows too intense, and she later observes one evening when the kitchen is "filled with the Sun's evening light," and the Mother's demeanor softens as she allows Josie and Klara to watch the sunset <ref type="bibr">(Ishiguro,</ref><ref type="bibr">50,</ref><ref type="bibr">53)</ref>. Access to the kitchen itself is also policed. Initially, Melania attempts to keep Klara out during the Mother's "quick coffee" routine-a daily ritual that bonds mother and daughter-and only Josie's insistence earns Klara a marginal spot by the refrigerator <ref type="bibr">(Ishiguro,</ref><ref type="bibr">(49)</ref><ref type="bibr">(50)</ref>. The arrangement of furniture, the control of blinds, and the rules about who may be present all work together to distribute visibility, warmth, and conversational intimacy. In this way, the kitchen continues the novel's early lesson: affect adheres to bodies and spaces through small, repeated adjustments in light and placement, well before any formal rule of inclusion or exclusion is stated.</p><p>The Cootings Machine episode intensifies this point. As the Cootings Machine's smoke drifts across the street, Klara perceives it in her partitioned vision as panels of "dark smoke," each with varying densities and outlines-a taxi's front end, a traffic signal, even "the dark edge of a bird's outline" briefly perched on a bar <ref type="bibr">(Ishiguro,</ref><ref type="bibr">28)</ref>. What matters here is less the machine itself than the way its pollution gradually "cover[s]" the very shop window that workers had cleaned "so proudly for Manager," until the patch of sky vanishes and "daytime became almost like night" <ref type="bibr">(Ishiguro,</ref><ref type="bibr">28)</ref>. The human reaction is muted: the Manager calmly assures the AFs that this "horrible thing has come here several times before and no one in the store ever suffered from it," and she urges Klara to "just put it out of [her] mind" <ref type="bibr">(Ishiguro,</ref><ref type="bibr">29)</ref>. But Klara cannot simply forget. She notices both the Sun "trying his utmost" to send faint patterns through the haze, and how four days of dimness weaken her solar panels. Meanwhile, customers become scarce, and Boy AF Rex has to touch her arm to keep her posture from sagging <ref type="bibr">(Ishiguro,</ref><ref type="bibr">29)</ref>. This episode makes visible how a change in infrastructure-an obstructed sky-reconfigures perception, foot traffic, and feeling all at once, long before any formal policy is invoked. Jacques Rancière's notion of the distribution of the sensible is useful here: infrastructure determines what is perceptible and thus what (or who) can be cared about <ref type="bibr">(Rancière,</ref><ref type="bibr">(12)</ref><ref type="bibr">(13)</ref><ref type="bibr">(14)</ref><ref type="bibr">(15)</ref><ref type="bibr">(16)</ref><ref type="bibr">(17)</ref><ref type="bibr">(18)</ref><ref type="bibr">(19)</ref>. When light is blocked, the field of care contracts; when light returns, attention expands accordingly. Seen from this perspective, the novel's seemingly naïve preoccupation with "nourishment" is in fact a phenomenology of how energy regimes shape feeling, determining who appears vivid and important and who fades into the indistinct background.</p><p>Against the restratifying pull of occlusion, Ishiguro's narrative scripts lateral expansions of regard. Klara's solar "devotions" link Beggar Man and his dog-figures so marginal that, from the store's vantage, they could be mistaken for "the bags the city workers sometimes left behind" as they lie against a blank doorway-into the same commons that includes the AFs, Josie, and Rick <ref type="bibr">(Ishiguro,</ref><ref type="bibr">37)</ref>. Observing them through gaps in the passing crowd, Klara initially concludes at dusk that "it was obvious they had died." The next morning, however, she sees them "smiling and sitting up," both "hungrily absorbing the Sun's special nourishment and becoming stronger by the minute" <ref type="bibr">(Ishiguro,</ref><ref type="bibr">(37)</ref><ref type="bibr">(38)</ref>). Klara's mistaken belief that the man had died on the pavement, followed by seeing him "sit up again" under the Sun's renewed pattern, makes literal her conviction that the same nourishment can reach both Beggar Man and the children inside the store. The reader is gently led to regard the Sun not as a resource to be allocated, but as a partner whose gifts recur in cycles. Donna Haraway's call to "make kin" across the historically policed nature/culture divide is apt here: community emerges through situated practices of care among "companions-in-difference," rather than from any sovereign decree (Haraway, 1-2, 8). In other words, the novel's opening scenes train us in a form of attentional justice-a lateral pedagogy that loosens the grip of vertical habits (such as asking "who deserves?" or "who owns?")-and reattaches our concern to local flows and co-presences.</p><p>In miniature, then, these early scenes sketch out the politics that will later be tested in more dramatic forms-continuation schemes, enhancement regimes, and admissions filters. Before any of those institutions are even named, the narrative has already taught readers to notice how light, glass, and spatial placement quietly determine whose needs become perceptible and whose do not. Having observed the novel establish a lateral ethic of attention in its opening movements, we are now prepared to see how that ethic is strained and reworked once the fantasy of perfect substitution comes into play.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Substitution, Sacrifice, and the Solar Commons</head><p>The most disquieting experiment in Klara and the Sun is the attempt to "continue" Josie through Klara, a plan that stages grief as a problem of proprietary thinking. In this scenario, love is quarantined within the formula "my child → my replica," setting the stage for why such vertical substitution fails. The household's careful "calibrations" of Klara-modulating her voice, posture, and micro-responses during rehearsals-achieve a technical semblance of Josie while leaving entrenched recognition regimes intact. As Jakob Stenseke observes in a related analysis of moral standing, as long as value remains tethered to entrenched hierarchies (human/AI, lifted/unlifted, owner/owned), flawless mimicry by itself cannot secure personhood <ref type="bibr">(Stenseke,</ref><ref type="bibr">(10)</ref><ref type="bibr">(11)</ref><ref type="bibr">(12)</ref><ref type="bibr">(13)</ref><ref type="bibr">(14)</ref><ref type="bibr">(15)</ref><ref type="bibr">(16)</ref>). Ishiguro's continuation scene thus exposes a category error at the heart of vertical substitution: it treats personhood as a pre-given essence that can be perfectly duplicated, rather than as a relational effect produced through attachments. In Sara Ahmed's terms, the affective economy here "sticks" along existing lines of power, determining who can be felt as a subject before any individual performance takes place <ref type="bibr">(Ahmed,</ref><ref type="bibr">(10)</ref><ref type="bibr">(11)</ref><ref type="bibr">(12)</ref>. The more the family perfects semblance, the more the novel makes visible the structure that withholds status.</p><p>The architecture of Mr. Capaldi's house makes that logic of substitution visible long before the "continuation" is formally named. The Main Room is presented as a hybrid of laboratory and gallery: white floors and high walls, powerful spotlights that make it "hard to look up without being dazzled," a low table on wheels laid out with cameras and lenses, and, in the far corner, two wall charts covered in crisscrossing lines, a metal chair, and a tripod lamp waiting to be switched on <ref type="bibr">(Ishiguro,</ref>. Josie is positioned as the "subject" of this arrangement, instructed to remain "totally unselfconscious" so that her portrait will not be "spoilt," while her parents are moved around like additional propsushered to hang up their coats, guided toward the charts, then directed away-until only the child, the chair, and the blankly lit corner remain aligned <ref type="bibr">(Ishiguro,</ref>. Klara, meanwhile, is given a "small assignment": Mr. Capaldi leads her up a separate metal staircase to a narrow balcony and seats her in a glass-fronted cubicle with a padded chair and a screen, where she is asked to complete a "survey," a questionnaire that supposedly "works best if [she] respond[s] spontaneously" <ref type="bibr">(Ishiguro,</ref><ref type="bibr">(200)</ref><ref type="bibr">(201)</ref>. From this elevated position, she can see Josie and her parents below, framed by the spotlights; she later watches as the Father is led to the "Purple Door," behind which Capaldi's studio and the suspended replica await <ref type="bibr">(Ishiguro,</ref><ref type="bibr">(200)</ref><ref type="bibr">(201)</ref><ref type="bibr">(202)</ref>. When Klara eventually enters the studio on her own, she discovers the proto-Josie hanging mid-air, lit from multiple angles so that "little beams" of light forbid the face any refuge, the tissue-paper body pale and "translucent" under the sharp lamps <ref type="bibr">(Ishiguro,</ref><ref type="bibr">(203)</ref><ref type="bibr">(204)</ref>.</p><p>The choreography of this scene turns grief into a technical problem. Capaldi's charts, cameras, and questionnaires translate the Mother's dread of loss into measurements, angles, and data points, while the living Josie is slowly reduced to the subject whose behavior must be captured before the replica is finished. Klara interprets her role as helping Josie and the Mother, yet the scene positions her otherwise-as both witness and potential raw material, a repository of observations to be mined through the survey. Read this way, the continuation scheme seems less a mad-scientist fantasy than an intensified version of the store's window and the kitchen's arrangements: a reallocation of light, posture, and address that preemptively decides whose body will anchor the scene and whose perception will be instrumentalized.</p><p>Against this logic, Klara's counter-movement reframes repair as reciprocity. Her nocturnal parley with the Sun-"an understanding, if you like, a contract"-does not invoke any authority; it proceduralizes obligations among companions-in-difference. Klara's gift is literal and risky: she pours out her own "precious fluid" into the Cootings Machine, disabling the apparatus and reopening the path of the Sun's "nourishment." For a reader who saw the same machine plunge the store into darkness while the Manager insisted Klara put the pollution "out of [her] mind" <ref type="bibr">(Ishiguro,</ref><ref type="bibr">(28)</ref><ref type="bibr">(29)</ref>, the barn sequence reads not as a supernatural miracle but as a belated correction of infrastructural neglect. Rick undertakes the institutional steps (writing letters, attending tutoring sessions, undergoing interviews) that keep a shared future with Josie viable; the Sun, contingently, returns. Read materially, this is an energy politics: a shift from extraction (an apparatus that blocks flows, privatizes advantage, and externalizes harm) to reciprocity (a costly act that restores circulation as a public good). Read ethically, it is a gift in the strong sense, an offering that reorders relationships rather than a transaction that merely clears an account. Rosi Braidotti's "transversal ethics" precisely names such a redistribution of capacity without recentering the human <ref type="bibr">(Braidotti,</ref><ref type="bibr">(190)</ref><ref type="bibr">(191)</ref><ref type="bibr">(192)</ref><ref type="bibr">(193)</ref><ref type="bibr">(194)</ref><ref type="bibr">(195)</ref><ref type="bibr">(196)</ref><ref type="bibr">(197)</ref><ref type="bibr">(198)</ref><ref type="bibr">(199)</ref><ref type="bibr">(200)</ref><ref type="bibr">(201)</ref><ref type="bibr">(202)</ref><ref type="bibr">(203)</ref><ref type="bibr">(204)</ref><ref type="bibr">(205)</ref>; As Haraway argues in Staying with the Trouble, the point is not to seek a clean solution from above, but to remain with situated practices of maintenance and repair (Haraway, 1-2, 99). Steven Jackson's account of repair as a primary mode of world-making helps explain the barn sequence's surprisingly pragmatic tone: Ishiguro writes it almost like a field manual-pipes, valves, residues, and loss calculations-so that the ethical force lands only because the technical details are exact <ref type="bibr">(Jackson,</ref>. The novel thus insists that care is not a sentiment to be declared from above but a set of material procedures capable of reopening blocked commons.</p><p>The barn sequence makes the tension between the commons and exception explicit. As Klara senses that time is running out for Josie, she openly acknowledges that "favoritism isn't desirable," yet asks the Sun to make "exceptions" for "young people who will love one another all their lives," and finally to "give her [Josie] the kind of nourishment you gave Beggar Man" <ref type="bibr">(Ishiguro,</ref><ref type="bibr">276</ref>). Josie's hoped-for rescue is thus framed not as a unique entitlement but as an extension of an earlier gift to a homeless stranger, folded into the same circuit of nourishment. The Sun's response is figured not in words but in optics: his face appears multiplied across seven sheets of glass, forbidding in the outer pane and progressively softer in the ones behind <ref type="bibr">(Ishiguro,</ref><ref type="bibr">277)</ref>. The image literalizes the ambivalence of partiality in a commons-light can be angled, intensified, and focused, but it remains a reflection of a source that already bathes many. What Klara calls "favoritism" is therefore less a violation of equality than a local thickening of attention within a field of shared exposure.</p><p>The "contract" with the Sun further demonstrates how lateral obligation can scale through institutional interfaces. In the parallel Atlas Brookings storyline, Rick's tutor letters and mock interviews function as repair devices no less than Klara's wrenching of the machine; they are procedural channels through which peer support is consolidated and routed. Bruno Latour's compositionism offers an apt name for this mode of change: not closure but a revisable settlement among heterogeneous actants, one that accepts fragility, local scope, and the possibility of rework <ref type="bibr">(Latour,</ref>. On this reading, the novel's ethics succeeds precisely where it refuses metaphysical guarantees: it composes a common world out of steps, not decrees. This point is underscored by the text's quiet choreography of attention. First-person present tense keeps readers inside Klara's sensing radius-sunbeams that come and go, dust that thickens, floorboards that brighten and fade-so that affect is reoriented away from vertical authorization and toward what Ahmed calls the "sideways" adhesion of emotion to bodies and spaces <ref type="bibr">(Ahmed,</ref><ref type="bibr">(10)</ref><ref type="bibr">(11)</ref><ref type="bibr">(12)</ref>. The reader learns to care at the very points where light, labor, and breath co-presently meet.</p><p>Within this frame, "replaceability" is rewritten from a logic of equivalence to one of worldmaintenance. The only substitution that works in the end is not a perfect replica of Josie, but the rebalancing of flows that allows Josie's human bonds to resume center stage: pollution cleared, sunlight restored, care redistributed. Hardt and Negri's account of the multitude illuminates the politics at work here: cooperative capacities precede command and can be organized immanently to sustain common life <ref type="bibr">(Hardt and Negri,</ref>). Rick's story arc serves as the novel's internal stress test of this claim. Because he is unlifted, an admissions filter-another occlusion machine-preemptively denies him a future; yet persistence, local craft, and lateral support (from Klara, the tutor, and his mother) collectively substitute for what genetic enhancement was supposed to guarantee.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Attentional Justice and the Admissions Machine</head><p>Ishiguro's muted palette-melancholy tempered with tentative hope-functions as a pedagogy of attention rather than an invitation to catharsis. The novel keeps readers tethered to Klara's sensorium through a first-person, present-tense narrative, teaching care as a habit of noticing before it ever becomes a conscious creed. This narrative focalization carries political weight. Moments that another narrative might quickly gloss over-a swirl of dust in a shaft of light, the floor's brightness fading by late afternoon, the creak of a chair as adults converse over Klara-are given the same weight as moments of illness or parting. The effect is to cultivate what might be called attentional justice: a disposition to notice forms of labor and dependency that institutional cultures are calibrated to ignore <ref type="bibr">(Gilligan,</ref><ref type="bibr">(65)</ref><ref type="bibr">(66)</ref><ref type="bibr">(67)</ref><ref type="bibr">(68)</ref><ref type="bibr">(69)</ref><ref type="bibr">(70)</ref><ref type="bibr">(71)</ref><ref type="bibr">(72)</ref><ref type="bibr">(73)</ref><ref type="bibr">Kittay,</ref><ref type="bibr">(30)</ref><ref type="bibr">(31)</ref><ref type="bibr">(32)</ref><ref type="bibr">(33)</ref><ref type="bibr">(34)</ref><ref type="bibr">(35)</ref><ref type="bibr">(36)</ref>. In Sara Ahmed's terms, affects in this story do not descend from on high; they "stick" sideways to bodies, surfaces, and places <ref type="bibr">(Ahmed,</ref><ref type="bibr">(10)</ref><ref type="bibr">(11)</ref><ref type="bibr">(12)</ref>. When Klara is positioned like an appliance in the kitchen corner and addressed as "it," such a slight might easily go unnoticed by characters accustomed to servitude. Yet the narrative teaches readers to recognize that corner as an ethical site, a space where recognition is either withheld or redistributed moment by moment through gaze, address, and bodily orientation. By presenting the kitchen corner, the storefront window, and the barn not as mere backdrops but as infrastructures of relation, the novel makes tangible how worlds are upheld-or allowed to unravel-by everyday attentional choices.</p><p>This reeducation of perception is accomplished not only in scenes of interpersonal care but also through the novel's subtle depiction of Klara's vision itself. Klara's visual field is repeatedly described as segmented into "boxes"-a paratactic tiling that momentarily isolates elements of the world and then recomposes them. This visual device is narratively efficient as a marker of Klara's nonhuman perception, but it also functions as a kind of poetic statement about composition in N. Katherine Hayles's sense of distributed cognition: the "self" emerges from the coupling of sensors, environment, and routines, rather than from any sovereign interiority <ref type="bibr">(Hayles,</ref>. When Klara parses a room into adjoining rectangles to monitor Josie's minute expressions or to gauge the Sun's angle on the floorboards, attention itself becomes a form of infrastructural labor-an arrangement of parts that enables care to function. For this reason, the book resists reducing Klara's value to some innate sentimentality; instead, it shows her value being constructed and reconstructed through practices of noticing, aligning, and maintaining. The very smallness of these scenes is deliberate: attachment is not pronounced from on high but is composed incrementally through repeated interactions.</p><p>The novel's final coda, set in the "yard" of discarded AFs, sharpens this critique by dramatizing a gap between ethical sentiment and institutional response. By the end of the novel, local attitudes have indeed shifted: Josie's gratitude toward Klara is genuine, Rick continues to treat Klara with respect, and even the Manager breaks from her routine to visit Klara among the yard's salvaged parts. Yet these affective gains do not translate into any framework that would protect artificial caregivers from being treated as disposable goods. The quiet tone of this scene is diagnostic rather than acquiescent: it gauges what Lauren Berlant calls the impasse of "cruel optimism"-attachments that promise social repair (in this case, kindness to a caregiver) without changing the underlying conditions that continue to render that caregiver disposable (Berlant, 1-23). Put differently, the novel shows just how far attentional justice can carry us on sentiment alone-and where it hits a ceiling unless it is reinforced by changes in policy, law, and design. Geoffrey Bowker and Susan Leigh Star's classic account of classification systems reminds us that disposability is not a mere attitude but an outcome of categorical sorting: once entities are coded as tools or property, they fall outside any regime of protection, no matter how much local affection they might attract <ref type="bibr">(Bowker and Star,</ref><ref type="bibr">(10)</ref><ref type="bibr">(11)</ref><ref type="bibr">(12)</ref><ref type="bibr">(13)</ref>). Ishiguro's final pages present that misalignment with devastating restraint.</p><p>A parallel thread in the novel connects these affective economies to issues of energy and environment, reframing care itself as a matter of governance. The Cootings Machine's blotting out of the light -its ability to make afternoon look like dusk-is more than just a metaphor. It reveals how infrastructural decisions unevenly distribute livability: who gets to stand in sunlight, who breathes clean air, and whose daily rhythms must adjust to an artificial dimness. Klara's drastic intervention-venting her own fluid to disable the machine-is thus both a personal sacrifice and a procedural act that reopens a public flow of energy. Seen in light of recent criticism, this sequence aligns with a broader shift from moral exhortation to institutional design, reimagining solidarity through the management of energy, circulation, and risk <ref type="bibr">(Yuan)</ref>. Repair in this context is not a nostalgic return to some prior equilibrium; it is an act of world-maintenance under contemporary conditions. This insistence echoes Steven Jackson's theory of repair-that sustainable life relies on continuous, situated acts of upkeep rather than one-time heroic fixes <ref type="bibr">(Jackson,</ref>. The novel's quiet focus on valves, residues, and timing makes this claim concrete in practice.</p><p>The novel's treatment of education and admissions extends this argument into the domain of social reproduction. Rick's "unlifted" status excludes him from elite educational pathways regardless of his talent, making algorithmic filtering an analogue to the Cootings Machine, an apparatus that blocks the flow of opportunity while masquerading as neutral. The diner meeting with Mr. Vance translates this abstraction into an actual scene. On the surface, the encounter is framed in terms of generosity: Rick thanks Vance for "giving up time for me" and dutifully details his "keen interest in drone technology," emphasizing that he built his "own system" "without help from any tutors" and that his mother supported him by ordering "expensive books" <ref type="bibr">(Ishiguro,</ref>. Vance responds in the idiom of liberal meritocracy: he insists that Atlas Brookings is "sufficiently generous and liberal to be open to all students of high caliber, even some who haven't benefited from genetic editing," but that after "weeding out no-hopers," the selection process "becomes a lottery" <ref type="bibr">(Ishiguro,</ref><ref type="bibr">247,</ref>. His rhetoric emphasizes impartiality, but the dialogue quietly exposes that it actually relies on personal networks and unpaid affective labor. Vance reminds them that he chairs the committee "that controls the scholarships," voices concern that Helen's approach might imply "favoritism," and then pointedly asks, "If that is really the case, then why am I sitting here in front of you now?" <ref type="bibr">(Ishiguro,</ref>). Helen's response-"I'm asking you to help my boy have a fighting chance in this world"-brings into view the very partiality the system pretends doesn't exist, transforming decades of guilt and hurt into a plea for institutional grace <ref type="bibr">(Ishiguro,</ref>. Throughout this exchange, Rick's notebook of drone designs lies on the table, earning occasional praise but ultimately remaining secondary to the adults' negotiation over past grievances and potential repayment. In this light, the tutor's letters, the mock interviews, and other procedural coaching function as interfaces of repair that channel lateral support into a stratified admissions system. Read alongside Shoshana Zuboff's account of surveillance architectures that recode people as data and rank <ref type="bibr">(Zuboff,</ref>, this scene clarifies that what's at stake is not just personal recognition but the design of the filters themselves: who becomes visible as a candidate, whose appeal can be heard as "talent," and whose life chances remain pressed-like the solitary woman outside the diner window-against a pane of glass that will not look back at them. Throughout these episodes, the novel's discipline of noticing is anchored in a material theory of the commons. Klara's bargain with the Sun-"an understanding, if you like, a contract"-proposes a form of reciprocity without any sovereign guarantee. Its terms are modest and local: Klara will undertake the risky work; Rick will follow through on the steps that keep a future with Josie possible; and the Sun will, contingently, come back. Yet the effects are broadly shared: the sunlight returns not just to one household but to an entire neighborhood; this restored flow allows human bonds to once again take center stage, and the "value" of Klara's action is diffused across relationships rather than hoarded in any single, possessive identity. In this regard, the novel aligns with Rosi Braidotti's idea of a transversal ethics-one that redistributes capacity without re-centering the human <ref type="bibr">(Braidotti,</ref><ref type="bibr">(190)</ref><ref type="bibr">(191)</ref><ref type="bibr">(192)</ref><ref type="bibr">(193)</ref><ref type="bibr">(194)</ref><ref type="bibr">(195)</ref><ref type="bibr">(196)</ref><ref type="bibr">(197)</ref><ref type="bibr">(198)</ref><ref type="bibr">(199)</ref><ref type="bibr">(200)</ref><ref type="bibr">(201)</ref><ref type="bibr">(202)</ref><ref type="bibr">(203)</ref><ref type="bibr">(204)</ref><ref type="bibr">(205)</ref>-as well as with Donna Haraway's insistence on "staying with the trouble," meaning making kin through situated maintenance practices rather than abstract proclamations (Harawa, 1-2, 99). Its politics remain quiet because the work involved is thoroughly ordinary: noticing where a shadow falls, keeping a promise, opening a valve, writing a letter.</p><p>If the narrative stops short of offering institutional blueprints, it nevertheless demonstrates how literary form can render alternative possibilities legible. By rejecting both the fantasy of perfect replacement and the easy satisfactions of outright denunciation, the novel creates a space in which readers can rehearse the shift in feeling that would be needed for real policy changes to take root. It teaches us to value the maintenance of flows-of light, of learning, of companionship-above static notions of equivalence; to judge social systems by the vulnerabilities they distribute rather than the ideals they profess; and to imagine recognition as a procedural outcome of relationships rather than a top-down conferral. In that sense, the junkyard scene does not so much conclude the argument as leave the reader with an inventory of tasks. Attention needs to be converted into arrangements. Gifts need to be formalized into obligations. Care needs to remain mobile across human and more-thanhuman partners. The novel makes this work imaginable not by providing slogans, but by offering scenes concrete enough to serve as templates.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Conclusion</head><p>Klara and the Sun invites readers to reconsider what qualifies as ethical and political action in a world where humans, machines, and environments are densely entangled. By giving narrative authority to an AF whose perceptions are never fully validated by others, Ishiguro shifts the locus of affect from a vertical space of recognition and judgment to a lateral space of ongoing attachments. Klara's relationships with Josie, Rick, the Sun, and even the Cootings Machine demonstrate that what ultimately matters is not preserving a sovereign self, but maintaining fragile circuits of energy, attention, and care. The novel's most charged moments-Klara's solar "devotions," her disabling of the polluting machine, the rejection of "continuation" as a viable solution -consistently privilege acts of offering and repair over replacement and command. Community appears here not as a pre-given structure but as something assembled from the ground up. Carol Gilligan and Eva Feder Kittay help quantify what the fiction intuitively enacts: care labor is structurally undervalued even as social worlds depend on it <ref type="bibr">(Gilligan,</ref><ref type="bibr">(65)</ref><ref type="bibr">(66)</ref><ref type="bibr">(67)</ref><ref type="bibr">(68)</ref><ref type="bibr">(69)</ref><ref type="bibr">(70)</ref><ref type="bibr">(71)</ref><ref type="bibr">(72)</ref><ref type="bibr">(73)</ref><ref type="bibr">Kittay,</ref><ref type="bibr">(30)</ref><ref type="bibr">(31)</ref><ref type="bibr">(32)</ref><ref type="bibr">(33)</ref><ref type="bibr">(34)</ref><ref type="bibr">(35)</ref><ref type="bibr">(36)</ref>. Identifying that undervaluation is not an exercise in sentimentality but a form of countertechnology aimed at redistributing attention, what I have called attentional justice.</p><p>From today's vantage point, this pedagogy of attention has indirect implications for contemporary experiments with AI in fields like elder care, emotional support, and platform moderation-domains in which both machine and human caregivers are routinely treated as interchangeable and disposable. Klara and the Sun does not try to predict particular technologies, but its emphasis on lateral composition suggests that we might need to shift the terms of our current debates. Rather than focusing solely on whether AI can or should replace human caregivers, the novel prompts us to consider what institutional arrangements render care work itself replaceable. Under what conditions do the acts of noticing, maintaining, and keeping others liveable stop being seen as a shared obligation and instead become tasks that can be outsourced, automated, or abandoned?</p><p>When read in tandem with recent scholarship on energy occlusion, disposability, and posthuman sociality, Ishiguro's focus on lateral attachments clarifies how the novel intervenes in contemporary conversations about posthuman ethics. Critics have illustrated how Klara and the Sun dissects the infrastructural conditions that govern habitability and solidarity-from capital-driven pollution and occluded light to enhancement regimes and a throwaway culture <ref type="bibr">(Yuan, Sahu and Karmakar, Stenseke, Simonetti)</ref>. The reading presented here suggests that Ishiguro's contribution lies not just in unveiling those conditions, but also in rehearsing, through form and scene, an alternative ethic of composition. Rather than seeking legitimacy in abstract principles, the narrative shines a light on small, situated actions-attending, maintaining, sharing risk-that gradually reconfigure who gets to count as a member of a common world.</p><p>In this sense, the novel's central question is not whether a replica can successfully replace a human being, but how far a community can sustain itself by cultivating the horizontal bonds that make persons-human and nonhuman-matter in the first place. Klara's final presence in the junkyard, surrounded by discarded bodies yet quietly remembering and being remembered, leaves that question open. At a moment when AI systems are increasingly deployed in care work and platform-based labor renders human carers precariously replaceable, Klara and the Sun urges us to focus less on dramatic acts of substitution and more on the ordinary arrangements that keep shared life going. It highlights both the limits of a posthuman ethics unaccompanied by institutional change and the persistence of a different vision of community-one grounded in lateral composition rather than vertical command.</p></div>		</body>
+		<back>
+
+			<div type="acknowledgement">
+<div><head>Acknowledgments</head><p>I thank the editors and the anonymous reviewer for their helpful suggestions.</p></div>
+<div><head>Disclosure Statement</head><p>No potential conflict of interest was reported by the author(s).</p></div>
+			</div>
+			<div type="funding">
+<div><head>Funding</head><p>This work was supported by the <rs type="funder">National Social Science Fund of China</rs> (<rs type="programName">General Program</rs>, <rs type="grantNumber">2025</rs>), project "<rs type="projectName">Geopolitical Imaginations in British Historical Novels</rs> from the <rs type="funder">Eighteenth Century</rs> to the <rs type="institution">First Half of the Nineteenth Century</rs>" [Grant No. <rs type="grantNumber">25BWW027</rs>].</p></div>
+			</div>
+			<listOrg type="funding">
+				<org type="funded-project" xml:id="_dzR2jxp">
+					<idno type="grant-number">2025</idno>
+					<orgName type="project" subtype="full">Geopolitical Imaginations in British Historical Novels</orgName>
+					<orgName type="program" subtype="full">General Program</orgName>
+				</org>
+				<org type="funding" xml:id="_SFJTtNH">
+					<idno type="grant-number">25BWW027</idno>
+				</org>
+			</listOrg>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<monogr>
+		<title level="m">Her research focuses on contemporary fiction, posthuman ethics, and the literary politics of care and infrastructure</title>
+		<imprint/>
+		<respStmt>
+			<orgName>Zhang Xiuli is Associate Professor of English at Shanghai University</orgName>
+		</respStmt>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<monogr>
+		<ptr target="http://orcid.org/0009-0008-4377-9719" />
+		<title level="m">ORCID Zhang Xiuli</title>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<monogr>
+		<title level="m" type="main">The Cultural Politics of Emotion. 2nd ed</title>
+		<author>
+			<persName><forename type="first">Cited</forename><surname>Works</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Sara</forename><surname>Ahmed</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2011">2014. 2011</date>
+			<publisher>Cruel Optimism. Duke UP</publisher>
+			<pubPlace>Edinburgh UP; Berlant, Lauren</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<monogr>
+		<author>
+			<persName><forename type="first">Geoffrey</forename><forename type="middle">C</forename><surname>Bowker</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Susan</forename><surname>Leigh</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Star</forename></persName>
+		</author>
+		<title level="m">Sorting Things Out: Classification and Its Consequences. MIT P, 1999. Braidotti, Rosi. The Posthuman. Polity</title>
+		<imprint>
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<monogr>
+		<title level="m" type="main">In a Different Voice: Psychological Theory and Women&apos;s Development. Harvard UP, 1982. Haraway, Donna J. Staying With the Trouble: Making Kin in the Chthulucene</title>
+		<author>
+			<persName><forename type="first">Carol</forename><surname>Gilligan</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2009">2016. 2009</date>
+			<publisher>Antonio Negri. Commonwealth. Harvard UP</publisher>
+			<pubPlace>Hardt, Michael</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<monogr>
+		<title level="m" type="main">How We Became Posthuman: Virtual Bodies in Cybernetics, Literature, and Informatics. U of Chicago P</title>
+		<author>
+			<persName><forename type="first">N</forename><surname>Hayles</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Katherine</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1999">1999</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<monogr>
+		<title level="m" type="main">Never Let Me Go</title>
+		<author>
+			<persName><forename type="first">Kazuo</forename><surname>Ishiguro</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2005">2005</date>
+			<publisher>Faber and Faber</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title level="a" type="main">Rethinking Repair</title>
+		<author>
+			<persName><forename type="first">Steven</forename><forename type="middle">J</forename><surname>Jackson</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Media Technologies: Essays on Communication, Materiality, and Society</title>
+		<editor>
+			<persName><forename type="first">Tarleton</forename><surname>Gillespie</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">Pablo</forename><forename type="middle">J</forename><surname>Boczkowski</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">Kirsten</forename><forename type="middle">A</forename><surname>Foot</surname></persName>
+		</editor>
+		<editor>
+			<persName><surname>Mit P</surname></persName>
+		</editor>
+		<imprint>
+			<date type="published" when="2014">2014</date>
+			<biblScope unit="page" from="221" to="239" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title level="a" type="main">Shadowy Objects in the Test Tubes&apos;: Biocitizenship, Disposable Bodies, and Wasted Lives in Hanif Kureishi&apos;s &apos;The Body&apos; and Kazuo Ishiguro&apos;s Never Let Me Go</title>
+		<author>
+			<persName><forename type="first">Manali</forename><surname>Karmakar</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Avishek</forename><surname>Parui</surname></persName>
+		</author>
+		<idno type="DOI">10.21659/rupkatha.v12n6.04</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Rupkatha Journal on Interdisciplinary Studies in Humanities</title>
+		<imprint>
+			<biblScope unit="volume">12</biblScope>
+			<biblScope unit="issue">6</biblScope>
+			<biblScope unit="page" from="1" to="6" />
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<monogr>
+		<title level="m" type="main">Love&apos;s Labor: Essays on Women, Equality, and Dependency</title>
+		<author>
+			<persName><forename type="first">Eva</forename><surname>Kittay</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Feder</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1999">1999</date>
+			<publisher>Routledge</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title level="a" type="main">An Attempt at a &apos;Compositionist Manifesto&apos;</title>
+		<author>
+			<persName><forename type="first">Bruno</forename><surname>Latour</surname></persName>
+		</author>
+		<idno type="DOI">10.1353/nlh.2010.a408295</idno>
+	</analytic>
+	<monogr>
+		<title level="j">New Literary History</title>
+		<imprint>
+			<biblScope unit="volume">41</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="471" to="490" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title level="a" type="main">The Biopolitics of Disability: A Critique of the Neoliberal England of Kazuo Ishiguro&apos;s Never Let Me Go</title>
+		<author>
+			<persName><forename type="first">Deanna</forename><forename type="middle">J</forename><surname>Pereira</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Martha</forename><surname>Karunakar</surname></persName>
+		</author>
+		<idno type="DOI">10.25159/1753-5387/16432</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Literary Studies</title>
+		<imprint>
+			<biblScope unit="volume">40</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="1" to="17" />
+			<date type="published" when="2024">2024</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<title level="a" type="main">Disposable Culture, Posthuman Affect, and Artificial Human in Kazuo Ishiguro&apos;s Klara and the Sun (2021)</title>
+		<author>
+			<persName><forename type="first">Jacques</forename><forename type="middle">;</forename><surname>Rancière</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Om</forename><surname>Sahu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Manali</forename><surname>Prakash</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Karmakar</surname></persName>
+		</author>
+		<idno type="DOI">10.1007/s00146-022-01600-1</idno>
+	</analytic>
+	<monogr>
+		<title level="j">AI &amp; Society</title>
+		<imprint>
+			<biblScope unit="volume">39</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="1349" to="1357" />
+			<date type="published" when="1999">1999. 2024</date>
+		</imprint>
+	</monogr>
+	<note>Julie Rose Translated by. U of Minnesota P</note>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<title level="a" type="main">Mastering Otherness with a Look: On the Politics of the Gaze and Technological Possibility in Kazuo Ishiguro&apos;s Klara and the Sun</title>
+		<author>
+			<persName><forename type="first">Nicola</forename><surname>Simonetti</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/00111619.2023.2186773</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Critique: Studies in Contemporary Fiction</title>
+		<imprint>
+			<biblScope unit="volume">65</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="312" to="323" />
+			<date type="published" when="2024">2024</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<title level="a" type="main">The Morality of Artificial Friends in Ishiguro&apos;s Klara and the Sun</title>
+		<author>
+			<persName><forename type="first">Jakob</forename><surname>Stenseke</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Science Fiction and Philosophy</title>
+		<imprint>
+			<biblScope unit="volume">5</biblScope>
+			<biblScope unit="page" from="1" to="18" />
+			<date type="published" when="2022">2022</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title level="a" type="main">Capitalized Pollution and Inhabitability Critique in Kazuo Ishiguro&apos;s Klara and the Sun</title>
+		<author>
+			<persName><forename type="first">Yuan</forename><surname>Yuan</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/00111619.2024.2370244</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Critique: Studies in Contemporary Fiction</title>
+		<imprint>
+			<biblScope unit="volume">66</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="654" to="663" />
+			<date type="published" when="2024">2025. June 2024</date>
+		</imprint>
+	</monogr>
+	<note>Published online 20</note>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<monogr>
+		<title level="m" type="main">The Age of Surveillance Capitalism</title>
+		<author>
+			<persName><forename type="first">Shoshana</forename><surname>Zuboff</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2019">2019</date>
+			<publisher>PublicAffairs</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

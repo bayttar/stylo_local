@@ -1,0 +1,1007 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">War, widowhood, and maternal grief in Jacob&apos;s Room</title>
+				<funder ref="#_vBKyMQH">
+					<orgName type="full">Brigham Young University</orgName>
+				</funder>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author role="corresp">
+							<persName><forename type="first">Jarica</forename><forename type="middle">Linn</forename><surname>Watts</surname></persName>
+							<email>jarica_watts@byu.edu</email>
+							<affiliation key="aff0">
+								<orgName type="institution">Brigham Young University</orgName>
+								<address>
+									<settlement>English, Provo</settlement>
+									<region>UT</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">War, widowhood, and maternal grief in Jacob&apos;s Room</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date/>
+						</imprint>
+					</monogr>
+					<idno type="MD5">46AF2E66338677D3DA0402A0923F30F0</idno>
+					<idno type="DOI">10.1080/0950236X.2026.2614716</idno>
+					<note type="submission">Received 29 July 2025; Accepted 8 December 2025</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.0" ident="GROBID" when="2026-02-25T19:52+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term>WWI</term>
+					<term>elegy</term>
+					<term>maternity</term>
+					<term>widowhood</term>
+					<term>affect studies</term>
+					<term>apophasis Mourning&apos;s failure, form&apos;s invention</term>
+				</keywords>
+			</textClass>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>This article repositions Virginia Woof's Jacob's Room as a feminist elegy centred on the maternal figure of Betty Flanders. Drawing on the concept of affective apophasis, it argues that Virginia Woolf reframes elegy through silence, atmosphere, and absence rather than direct expression. Because of her dual identity as widow and bereaved mother, Betty emerges as an Everywoman of the Great War whose grief unites private and public mourning. Grounded in feminist theories of grievability, this analysis shows how Woolf anticipates continuing questions about whose losses are acknowledged and whose remain unheard.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>Many have written about the psychic rupture the Great War induced, for it was a war that rendered obsolete the illusion that death could remain peripheral to ordinary life. In his 1915 essay 'Thoughts for the Times on War and Death', Freud registers this breach as epistemological 'disillusionment': it was 'bloody' and 'destructive', 'cruel', and 'embittered' and 'implacable'. <ref type="bibr">5</ref> What crumbled was not only the symbolic distance by which bourgeois culture had insulated itself from mortality, but the very capacity of language to mediate trauma. Paul Fussell observes that, for many soldiers, the war could not be narrated without falsification: 'The smell rising from the bloated bodies', he writes, 'was beyond description'. <ref type="bibr">6</ref> Louis Simpson similarly underscores the visceral brutality of trench warfare, calling it 'almost entirely physical', too immediate to be contained by language. <ref type="bibr">7</ref> In his meditation on elegy, David Shaw reaches the same impasse, claiming that 'every elegy sooner or later reaches the limits of language'. <ref type="bibr" target="#b0">8</ref> Whereas Fussell and Simpson lament the irrepresentability of trench warfare, Jacob's Room pursues a different register of grief -one no less bodily, but historically muted and symbolically unattended. I propose that we extend Woolf's subject from the battlefield <ref type="bibr" target="#b1">9</ref> to the maternal homefront, from the soldier's silence to the mother's. The failure of language confronted by the Great War becomes, for Woolf, the occasion to build a new elegiac form and compositional ethic. I advance the term affective apophasis (defined below) as both the novel's method and its argument. While Jacob's death remains the narrative's ostensible telos, it is Betty's sorrow that endures. The result is not a novel about mourning, but a novel that formally mourns. At the heart of it is Betty Flanders, the novel's Everywoman of war: a widow and mother whose sorrow is woven into the syntax and dispersed into narrative atmosphere. Her grief becomes Woolf's attempt at exploring the nuance of war's remembrance. ** Traditionally associated with mystical theology, apophasis names a rhetorical method used to describe what lies beyond comprehension. God, for instance, is defined not through attributes but through refusals: God is not finite, not corporeal, not knowable. This method safeguards the mystery of the divine by maintaining the limits of human language. Similar rhetorical strategies are found in how grief is often expressed not by naming the lost person directly but by describing the silence that follows their death. A person mourning might say, 'There's no one to call in the evening anymore', or 'The house feels empty', or, holding out a pair of old shoes, ask, 'What am I to do with these?', <ref type="bibr" target="#b2">10</ref> invoking presence by describing what is no longer there. Woolf's modernist elegiac form operates in this key. Rather than narrating maternal loss through exposition or dialogue, she constructs emotional worlds where absence becomes a palpable force that is socially circulated, psychologically embedded, and formally sustained. Apophasis, in this sense, becomes a generative aesthetic principle, allowing Woolf to hold space for maternal grief through its very inarticulability.</p><p>Yet this framework alone cannot account for the embodied, relational and even gendered grief Woolf depicts. Critics of modernist mourning such as Jahan Ramazani, Melissa Zeiger and Tammy Clewell describe Woolf's elegiac writing as a refusal of consolation -expressing grief through silence and fragmentation. <ref type="bibr" target="#b3">11</ref> These readings often stop at language, treating silence as a stylistic devise rather than an affective condition. What I term affective apophasis extends this view by attending to how Woolf's silence generates emotional connection. In this sense, atmospheric silence carries the weight of what cannot be spoken, and, in so doing, names Woolf's way of writing and our way of reading literature that stays with grief instead of resolving it. <ref type="bibr" target="#b6">12</ref> This affective dimension draws on Brian Massumi's definition of affect as an unconscious 'intensity' that exceeds language, <ref type="bibr" target="#b7">13</ref> and with Sara Ahmed's theory of emotion as relational, circulating between bodies and attaching to scenes and objects. In Woolf's fiction, these affective residues adhere to ambient form; feelings 'stick' to the atmospheric weight of what cannot be voiced. <ref type="bibr" target="#b8">14</ref> Her short story 'Kew Gardens' captures this same tension between heaviness and transience, describing 'words with short wings for their heavy body of meaning', <ref type="bibr" target="#b9">15</ref> an image that suggests how language itself strains under emotional weight, embodying the effort to hold what exceeds expression.</p><p>While psychoanalytic and poststructural accounts of mourning -from Freud's conception of internalised loss <ref type="bibr" target="#b10">16</ref> to Boym's reflections on nostalgia <ref type="bibr" target="#b11">17</ref> and Derrida's 'work of mourning' <ref type="bibr" target="#b12">18</ref> -help explain grief's persistence beyond death, Woolf's innovation lies in how she locates this persistence in the maternal body and in form itself. Her fiction transforms what Freud treats as psychic absorption into a texture of feeling that moves through absence. In Woolf's fiction, the mothers who vanish (Theresa Vinrance in The Voyage Out, for example; or, Mrs Ramsay in To the Lighthouse) never fully depart; their absence structures mood, character and form until the novels close. <ref type="bibr" target="#b13">19</ref> Affective apophasis names this narrative process. It describes how Woolf reinvents elegy by withholding the closure of traditional elegy. Readers are denied a clear image of Jacob, we don't get a cathartic moment of mourning, and we certainly don't get a structured path to consolation; instead, Woolf shows us the conditions of grief: rooms left empty, sentences that break apart, objects that outlive their owners. Mrs Flanders' grief isn't voiced directly. It's ambient, carried along in the elemental motifs of wind and rain. <ref type="bibr" target="#b15">20</ref> </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Grief and the lexicon of absence</head><p>Despite her narrative centrality, Betty Flanders has long remained a peripheral figure in Woolf criticism, overshadowed by the interpretive enigmas that cluster around Jacob. <ref type="bibr" target="#b16">21</ref> The novel's reputation as an experimental elegy for the fallen soldier has dominated its reception, directing critical attention toward Woolf's treatment of masculine absence rather than maternal grief. Yet as early as 1932, Winifred Holtby recognised that Woolf's fiction turned on what remains after loss. She describes Woolf's silences as 'presences by negation', traces of emotion that persist through erasure and acquire structural force. <ref type="bibr">22</ref> Later critics extend this recognition into formal terms, among them Kate Flint who names the tendencies Holtby observes with precision. Flint notes that critical focus has remained fixed on 'form and on the enigmatic young man', and in doing so, 'ignore[s] the reworking of women's consciousness throughout the novel'. <ref type="bibr">23</ref> Over thirty years later, that scholarly gaze is still fixed on Jacob. While Neverow acknowledges Betty's 'substantial presence', her analysis -like that of Galen Bunting and Alice Kelly -tethers Betty's grief to Jacob's development. <ref type="bibr">24</ref> Bunting describes him as 'the son of a widowed mother', 25 while Kelly, more attentive to the novel's formal cues, observes that Jacob's Room 'begins and ends with a female mourner: a grieving widow, who has simultaneously lost her son'. <ref type="bibr">26</ref> It is this simultaneitywidowhood and bereaved motherhood -that gives Betty's sorrow its unique depth and elegiac charge.</p><p>David Bradshaw and Linda Martin offer two of the more detailed close readings of Mrs Flanders in the Scarborough beach scene. Bradshaw's approach is speculative -he admits to 'read [ing] [his] way into a wilderness of [his] own imagining' 27 -but he nonetheless highlights the maternal weight of the novel's early pages. His questions underscore what he describes as an atmosphere 'pregnant with references to childbirth and maternity … as if Woolf has gone out of her way to keep them continuously in view'. <ref type="bibr">28</ref> For all of the questions Bradshaw leaves unanswered (Why does Betty's writing hand evoke an image of ejaculatory ink?), he provides compelling claims that maternity frames the novel's emotional structure. <ref type="bibr">29</ref> Yet even these readings often subordinate Betty's grief. Martin describes Betty's 'ambient sadness' as a response to 'a tragic accident', 30 but she does not unpack the nature of that accident, nor its implications for Betty's inner world. Her treatment of mourning remains instrumental -evoked primarily to scaffold Jacob's emotional arc. 'This is a text supposedly written for the purpose of grieving the men lost in the Great War', Martin writes, 31 and so Betty's sorrow becomes a submerged chord in a larger symphony of male absence. Such occlusions are not incidental. They are symptomatic of a broader critical pattern in which female grief is marginalised within broader narratives of loss -one that mirrors the cultural silencing of women's mourning during and after the Great War. Woolf revisits this imbalance in Mrs. Dalloway, where Lady Bexborough receives the telegram announcing her son's death amid a London bazaar. The moment passes almost without comment, her loss folded into the background of civic life. <ref type="bibr">32</ref> The scene condenses the same erasure that shapes Jacob's Room when private devastation gets absorbed by public decorum.</p><p>As Susan Grayzel has documented, women's grief in wartime Britain was rendered both hypervisible and structurally unintelligible -recruited by the state as emblematic of patriotic sacrifice yet denied narrative space to express itself on its own terms. <ref type="bibr">33</ref> Grayzel reveals how the state's ceremonial recognition of women's losses masked institutional neglect: pensions were delayed, emotional needs were unmet and the affective labour of grief was conscripted into the rhetoric of moral endurance. Sorrow could be voiced only if tempered by restraint; mourning could be legitimised only if reframed as submission. Even feminist literary criticism, as Nosheen Khan suggests, has at times absorbed these ideological constraints, reading women's wartime writing through a lens of redemptive sentimentality. <ref type="bibr">34</ref> Yet as Carol Acton argues in her analysis of Vera Brittain, such readings may underestimate the immense pressure placed upon women to locate meaning where none was given, to translate devastation into moral clarity even as their male peers dismantled such ideologies from within. <ref type="bibr">35</ref> Woolf, acutely attuned to these entrapments, composes Jacob's Room within this historical and rhetorical enclosure, and, in so doing, she imagines Mrs Flanders as a deeply affective site of elegiac labour. The novel's revisions support this reading. As Flint notes, drawing on G. Thomas Tanselle's theory of vertical revision, Woolf's manuscript underwent a series of alterations that changed the work's very character and direction. <ref type="bibr">36</ref> Flint's account is confirmed by later editorial work: Edward Bishop's transcription of the Jacob's Room holograph and Stuart Clarke and David Bradshaw's introduction to the Cambridge edition both note that Woolf's earliest draft began with Jacob himself and that she later revised the opening to centre Betty Flanders. <ref type="bibr">37</ref> In moving the novel's first perspective from son to mother, Woolf displaced the conventional subject of elegy (the fallen man) and replaced him with the woman who endures. This compositional act performs what the novel will go on to theorise: namely, an affective apophasis in which female consciousness becomes the site through which mourning begins.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>The widow: naming loss in negation</head><p>Having traced how scholarship has often silenced Betty's significance, I'd like now to consider how the novel itself exposes the silencing mechanisms built into language itself. The occlusion of women's grief in both public commemoration and critical discourse reflects a more profound elision, and that is the absence of language adequate to express maternal sorrow, broadly defined. Because women's mourning was rendered politically useful yet personally illegible, Woolf deepens the crisis by exposing its lexical consequences. In the novel's first full character description, the narrator remarks that Betty 'was, of course, a widow in her prime'. <ref type="bibr">38</ref> The word widow itself comes from the Sanskrit vidh, meaning 'to lack' and the Latin viduus, meaning 'bereft'. From its origins, the term defines a woman through loss, naming absence rather than presence. <ref type="bibr">39</ref> As Marjo Buitelaar observes, the widow stands on 'an indefinite threshold between life and death', having 'looked death in the eye' yet remaining unincorporated into the society that surrounds her. <ref type="bibr">40</ref> She exists in a suspended state that exposes the fault line of a culture unable to contain a woman outside patriarchal designation. <ref type="bibr">41</ref> In her work on war widows, Erika Kuhlman estimates that the war left roughly three million widows across Europe and more than 190,000 in Britain, most raising children under sixteen. <ref type="bibr" target="#b17">42</ref> The math is bleak. As Van Emden calculates, over 53,000 of those widows shouldered the burden of raising three or more children. <ref type="bibr" target="#b18">43</ref> These numbers testify to the scale of loss while mutually intimating the emotional and structural precarity imposed on women. Young, often impoverished, and weighed down by maternal responsibility, widows were expected to remarry or recede. Their visibility as public mourners came with conditions: accept your suffering as noble, render your loss patriotic and do not linger.</p><p>What emerged was a grief that publicly honoured the widow's role while privately emptying it of expression. A century later, the pattern holds. As Kuhlman notes, the war widow 'has rarely been a topic of interest to historians', with most treatments relying on symbolic archetypes or legal records rather than lived experience. <ref type="bibr" target="#b19">44</ref> This systematic neglect would not have surprised Woolf, who, as Christine Froula reminds us, recognised the forces that denied women full cultural legitimacy, even in mourning: women, Froula contends, were not 'fully legitimated participants in history and culture'. <ref type="bibr" target="#b20">45</ref> In Jacob's Room, Woolf reclaims that illegitimacy and refigures it as central to the work of mourning. While Seabrook Flanders clearly dies in an 'accident', the language of his demise has militaristic flair. As Susan Bennett Smith observes, Seabrook's refusal to change his boots 'connotes militarism and manly stubbornness, both of which prove fatal'. <ref type="bibr" target="#b21">46</ref> His burial -'enclosed in three shells' -evokes both artillery and coffin, while the narrator's aside, that he was 'one of a company', positions him within the lexicon of war death. <ref type="bibr">47</ref> The very name Flanders -shared by Betty and Jacob -invokes the killing fields of Ypres and Passchendaele. As Zwerdling notes, 'Though Seabrook Flanders was no war victim, he too died young, before the world knew what to call him', <ref type="bibr" target="#b22">48</ref> and the inscription on his tomb -'Merchant of the City'strikes the same discordant note as many war memorials, which 'are not notable for their realism'. <ref type="bibr">49</ref> In this light, we are encouraged to read Betty as an archetypal war widow. As Bishop argues, Jacob's Room seeks 'to honor the non-combatants … [and] memorialise not only Jacob, but those who are left behind by the impending war'. <ref type="bibr" target="#b23">50</ref> Descriptions of Mrs Flanders as poverty-stricken align with the historical reality that many widows, especially young mothers, fell into economic hardship. Their vulnerability only intensified over time, as pension systems lagged and remarrying became both socially mandated and structurally difficult. Betty lives in 'barren' circumstances with her sons, housed in rented rooms under the watchful eye of landladies and neighbours. <ref type="bibr" target="#b24">51</ref> She tells Captain Barfoot that the front room is empty though 'satisfactorily arranged'. <ref type="bibr">52</ref> Her family is 'packed [in] like herrings in a barrel', and she is 'forced to stand the perambulator which the landlady quite naturally won't allow'. <ref type="bibr">53</ref> Mr Floyd, we learn, offers free Latin lessons for her sons, a gesture coded as charity. In this landscape of curtailed possibility, even her aspirations are modest: 'they were all alive'; she 'wished she could buy Garfit's acre'. <ref type="bibr" target="#b25">54</ref> Mrs Flanders's struggles are shaped and exacerbated by her societal context. The women of Scarborough pity her, yet their sympathy reinforces her isolation. Mrs Jarvis, the rector's wife, ponders Betty presumably praying over her young son's heads at church and thinks, 'marriage is a fortress and widows stray solitary in the open fields, picking up stories, gleaning a few golden straws, lonely, unprotected, poor creatures'. <ref type="bibr">55</ref> Indeed, Mrs Flanders is unprotected; her only 'fortress' is the exposed Roman Camp at the top of Dods Hill. <ref type="bibr">56</ref> Because widowhood is bound up in discourses of patriarchal ideology (widows, like Evelyn M.'s mother in The Voyage Out, were often distrusted because they did not have a male head of household to keep them in check), <ref type="bibr" target="#b26">57</ref> and because Mrs Flanders does not have a husband in Scarborough, she is isolated and deprived of support from the other women. Mrs Flanders's intimate knowledge of loss makes her an outsider among the ladies of Scarborough, and as such, she's never far removed from the ladies' gossip. In one key passage, the women in the area recount for one another her movements: 'Now she's going up the hill with little John', said 'Mrs Cranch to Mrs Garfit'. <ref type="bibr" target="#b27">58</ref> '"Mrs Flanders" -"Poor Mrs Flanders" -"Dear Mrs Flanders" -"She's very attractive still"'. <ref type="bibr">59</ref> We learn that Betty Flanders, referred to in the lines that follow as 'the widow', brings her boys 'on summer's days … to stand' at Seabrook's tombstone. <ref type="bibr">60</ref> While the women feel 'kindly' to her in these moments, and the men raise their hats 'higher than usual', Woolf's tone implies that this is a show of custom rather than an attempt at comfort, as not a single person approaches her. <ref type="bibr">61</ref> The image evokes amateur war photographer Margaret Hall's photograph Grave In 'No Man's Land', in which a female figure stands alone, solemn, in a forlorn landscape before a cross (Figure <ref type="figure" target="#fig_0">1</ref>). Like Hall's mourner, Mrs Flanders is a solitary figure whose grief is both public and private, her widowhood suspended in a space of ambient mourning.</p><p>What's more, Betty lives within a continuous sense of loss: She thinks of her brother Morty's 'downfall and possible demise'. <ref type="bibr">62</ref> She considers Captain Barfoot, 'lame and want[ing] two fingers on the left hand, having served his country'. <ref type="bibr">63</ref> She tells her boys of poor Mr Curnow who 'lost his eye' in a 'gunpowder explosion'. <ref type="bibr">64</ref> Such a condition puts her in a state of constant anticipatory mourning. Which is to say, her grief is not simply confined to what has already been lost; it leans forward, always bracing for what has not yet arrived. The novel renders this unease early, long before death becomes explicit. Jacob returns late from chasing moths, and the air ruptures: 'The tree had fallen, though it was a windless night. … A volley of pistol-shots suddenly in the depths of the wood'. <ref type="bibr" target="#b28">65</ref> Betty, startled, mistakes her son for a burglar. The moment, minor in plot, resounds symbolically, as grief presses atmospherically into the text before the fact of it arrives. This is Woolf's elegiac design, for as Wall observes, the novel's 'prolepses suggest that the text's elegiac gestures and form are present from the outset'. <ref type="bibr" target="#b29">66</ref> Woolf does not withhold Jacob's death as revelation; she constructs a world already vibrating with its inevitability. We are not meant to realise 'only near the end that the story [we] have been reading … [ends] with Jacob's death'. <ref type="bibr" target="#b30">67</ref> The atmosphere is mourning all along, though Woolf's elegy does not end with widowhood. The novel widens its register of loss, turning from the social category of the widow to the unnamable condition of the bereaved mother.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>The mother unnamed</head><p>While Woolf's elegy begins by positioning Betty as a widow, it does not remain there, for, by the novel's end, her grief is doubled when she becomes a bereaved mother. Claudia Siebrecht captures the complexity of this convergence in her description of the 'double-helix' at the core of many women's war narratives. <ref type="bibr" target="#b31">68</ref> While Margaret Hall's Grave in 'No Man's Land' distils widowhood into a solitary female figure marked by silence and absence, Alphonse Grebel's image Tristesse (Figure <ref type="figure" target="#fig_1">2</ref>) extends the field of mourning, placing the mother beside the grave of her fallen son. It is here, in the quiet visual vocabulary of maternal loss, that Woolf's elegy gathers its second axis. Betty is no longer only the woman left behind by an accidental death; she is also the mother of a son whose disappearance, though yet unspoken, has already begun to saturate the text.</p><p>Woolf resists compartmentalisation, as the novel does not distinguish clearly between griefs. Instead, Woolf binds them together in a poetics of accumulation, where meaning emerges through accrual and echo. We might think of Betty's grief as a kind of portmanteau, drawing on Shilo McGiff and Valerie Favre's recent reading of Woolf's characters as 'multi-folded', distributed across 'many things working together', shaped by accretion rather than singularity. <ref type="bibr" target="#b32">69</ref> Drawing on Sara Ahmed's theory of affective attachments and Rita Felski's insistence on the associative density of character, McGiff and Favre argue that Woolf's figures resist individuation in favour of accretive resonance. 'The very idea of character is shredded, dissolved', <ref type="bibr">70</ref> Felski writes, and yet Woolf's creations remain marked by their 'capacity to gather, to carry, to endure'. <ref type="bibr" target="#b33">71</ref> Betty Flanders exemplifies this structural doubleness as a character that absorbs the emotional charge of widowhood and maternal bereavement alike, without ever parsing them into separable strands.</p><p>This layered grief performs multiple functions. First, it allows Betty to stand for the multitude of women whose domestic worlds were quietly unmade by war as their husbands and sons slipped into the rhetoric of national glory, even as their bodies and legacies dissolved into private pain. Second, it renders Betty both omen and embodiment -she is at once the mother who grieves and the mother who will grieve, a figure of anticipation whose sorrow stretches across the novel's temporal fabric. And third, her compositional role supplies Jacob's Room with its most essential formal principle: a recursive, atmospheric elegy that resists closure while it loops and lingers, accumulating grief as an ambient condition.</p><p>The portmanteau of widowhood and maternal bereavement forces the reader to explore the shifting resonances of the word mother itself. As the novel begins to centre on Betty's evolving grief, mother thickens into Mother, a term that now must carry the intimate labour of raising children and the symbolic burden of national mourning at once. The small, lowercase mother chases young boys (and chickens) and climbs Dods Hill with a perambulator in tow. The capitalised Mother, by contrast, looms as a cultural construct, abstracted into a figure of sacrifice, invoked in memorials and imagined by the state as moral ballast for the war's devastation. As I've said, Woolf does not fully disentangle these identities. Instead, she allows their interference to remain by tracing how the personal mother flickers beneath the symbolic Mother and exposing how domestic labour and sacrificial expectation echo across the same affective field.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>mother:</head><p>From the novel's opening pages, Betty Flanders is, unmistakably, a mother who manages the soft and sharp edges of domestic life with a young family. Like so many tasked with caregiving in times of precarity, Betty moves through the world embodying what Sara Ruddick, in Maternal Thinking, calls the labour of 'attentive love' -a practice defined not by sentimentality (or biological gender, for that matter), but by a steady commitment to 'preservative love, nurturance, and training'. <ref type="bibr" target="#b34">72</ref> This form of maternal consciousness emerges in improvisational acts. In the opening lines, Mrs Flanders tries to write while her boys play at the beach. This is a gesture that anticipates the maternal self-sacrifice Woolf will render more fully in To the Lighthouse, where Mrs Ramsay gives herself over to the needs of her family (and the emotionally taxing demands of her husband) simply to earn a few quiet moments of solitude. Like when she finally gets James tucked into bed one evening: 'It was a relief. … For now she need not think about anybody. She could be herself, by herself. And that was what now she often felt the need of -to think; well not even to think. To be silent; to be all alone'. <ref type="bibr" target="#b35">73</ref> Thus we see Mrs Flanders sitting at the beach, crying and writing -alone with her grief for a few quiet minutes -and then sighing inevitably when Archer interrupts with the news that Jacob has scampered off. <ref type="bibr" target="#b36">74</ref> She ends her writing with a quick dash on the envelope and a slap on her coat. In various scenes, the narrator rattles off Betty's actions in list-like fashion. In a single moment, Betty, 'hurr[ying] up the steep lane', is 'swinging her bag, clutching her parasol, holding Archer's hand, and telling the story of the gunpowder explosion in which poor Mr Curnow had lost his eye'. <ref type="bibr" target="#b37">75</ref> Betty is the definition of maternal multi-tasking.</p><p>Betty's 'blankness of mind', the narrator explains, comes from a mind in overdrive: 'combined with profusion, mother wit, old wives' tales, haphazard ways, moments of astonishing daring, humor, and sentimentality'. In one example, she turns to Arthur and questions, 'What did I ask you to remember?' When the boy admits that he's forgotten what it is he's supposed to be remembering, Betty chimes in 'humorously' that she, too, has forgotten. Moments later, the referent of this forgetfulness is revealed: 'The meat!' 'She had forgotten the meat'. <ref type="bibr">76</ref> In a second example, Betty sits to write a letter to Mr Floyd. 'Dear Mr Floyd', she begins, before a sudden intrusion hits her: '"Did I forget about the cheese?" she wondered. … No, she had told Rebecca that the cheese was in the hall' -at which point she resumes her letter. <ref type="bibr">77</ref> Betty is not absent-minded. She is saturated! And to make matters worse, sleep, that fragile reprieve, evades her. Men, like Jacob's Professor Huxtable, sit 'for hours' until sleep arrives unbidden, but Betty is kept awake by Archer, who 'had been awake again last night', <ref type="bibr" target="#b38">78</ref> and by Jacob. For when Jacob returns late from chasing butterflies, 'it was after twelve when he crossed the lawn and he saw his mother in the bright room, playing patience, sitting up'. <ref type="bibr">79</ref> In these examples, her sleep is displaced, made contingent on the bodies of others.</p><p>And when fear enters the nursery, it is Mrs Flanders who explains it away: 'Think of the fairies', she whispers to Archer as a hurricane rages at sea. 80 'What's all that water rushing in?' the child asks. 'It's only the bath water running away', Mrs Flanders hums. <ref type="bibr">81</ref> These gentle mistruths resonate with Rainer Maria Rilke's 'Third Duino Elegy', where the mother becomes a figure of holy concealment, shielding the child from 'surging chaos'. 'You hid much from him', Rilke writes. 'There was nowhere a creak you couldn't explain away, smiling, / as though you'd long known the floor would act that way. / And he listened and calmed down … '. <ref type="bibr" target="#b39">82</ref> Betty Flanders, as well as Mrs Ramsay, performs this sacred labour: of muting the creaks in the floor, of inventing reasons for the wind, of offering narrative in place of dread. A way of standing, quietly, between a child and the abyss.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Mother:</head><p>But Betty is not only the caretaker of young children; she is also the mother of young men. Her letters to Jacob reveal a different register of maternal concern -one laced with formality, emotional restraint, and that particular kind of intimacy only visible in what remains unsaid. She addresses her letters with flourish, 'as mothers do', <ref type="bibr" target="#b40">83</ref> but the content tightens, guarded by a propriety that leaves its deepest concern muted. What she wants to write -'Don't go with bad women, do be a good boy; wear your thick shirts; and come back, come back, come back to me' -is precisely what she 'could never, never say'. <ref type="bibr">84</ref> Only the envelope, pale blue and unassuming, bears the weight of maternal feeling. 'If the envelope lying by the biscuit box had the feelings of a mother', the narrator suggests, then 'the heart was torn by the little creak, the sudden stir' of Jacob's intimacy with Florinda, which remains offstage yet emotionally lacerating. <ref type="bibr">85</ref> In this quiet moment, Woolf signals a rupture in the maternal field: 'Terror would come over her', the narrator writes, 'as at death, or the birth of a child'. <ref type="bibr">86</ref> Here, the temporal poles of maternity -origin and end -converge into a single, unbearable register. Beckett gives this collapse its most pitiless phrasing in 'Waiting for Godot': mothers, Pozzo declares, 'they give birth astride of a grave'. <ref type="bibr" target="#b41">87</ref> This is the axis upon which Woolf pivots. In this moment, 'mother' begins to shift from the domestic register of lowercase care to the capitalised monumental figure through whom national and narrative loss will be processed. As Groover notes, Jacob is born 'under a pall of … tragedy', and Woolf allows Betty to intuit that pall before it names itself as war death. <ref type="bibr" target="#b42">88</ref> Her sorrow is thus steeped in foreknowledge, which comes, part and parcel, with the liminal threshold she occupies as both giver of life and death. The force of this convergence is important to Woolf, as it will resound again in To the Lighthouse, where Woolf literalises the maternal momento mori through the image of the skull 89 : the hollow vessel once held within the mother's body, now offered back as emblem of what she cannot preserve. <ref type="bibr" target="#b44">90</ref> This monumental Mother carries a double burden, for the shift from mother to Mother renders her further inarticulable. The capital letter signals reverence, but it also announces a collapse of language, for in English, French, and German, no word is available for a mother who has lost her child. The widow, as we've seen, is clearly defined (though by lack), as is the orphan, but the maternal mourner remains without a single normative noun, described only by grasping phrases: bereaved, at a loss, a mother who has lost a child. A brief concordance of Woolf's text confirms this imbalance. This absence is a cultural silence with real consequence. As Adrienne Rich observes, the mother is expected to endure without public recognition or language adequate to her condition, for 'somehow her relationship to him is [always already] connected with death'. <ref type="bibr" target="#b45">91</ref> The missing term becomes a kind of apophasis in itself. The mother's loss hovers at the edge of speech, held in the margins of a sorrow too disorganising to be absorbed into language.</p><p>Nowhere is this more visible than in the context of war. While the widow may remarry, and the orphan may be adopted, the mother who outlives her child remains unchanged in status but permanently altered in being. Davidson and Stahls note that 'maternal grief is thought to be the most persistent and profound grief', <ref type="bibr" target="#b46">92</ref> but the absence of a term renders it structurally invisible. Luckins describes this grief as 'conceptually unformed', while Murphy and Nile name its expressive crisis 'the insufficiency and incommensurability of language' in the context of wartime mourning. <ref type="bibr" target="#b47">93</ref> The failure of language to name the maternal mourner becomes, for Woolf, the structural problem her novel must solve through form.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Elegy without closure</head><p>To give this type of grief form, Woolf turns to the natural world. This aesthetic logic also manifests earlier in The Voyage Out, where, as Nick Montgomery observes, 'there is a stylised collapse of signification, a symbolic divestiture of the word', giving rise to 'a reciprocal investment in the purely focal' and a 'gathering awareness … of the disruptive and uncanny power of sound'. <ref type="bibr" target="#b48">94</ref> In both novels, Woolf erodes the authority of the patriarchal word and reorients the text toward a maternal, atmospheric register, though in Jacob's Room, she brackets the novel with elemental and auditory ruptures: the opening chapters are marked by hurricane winds and perceived pistol shots; <ref type="bibr" target="#b49">95</ref> the closing scenes echo with a salt gale and the indistinct sound of guns. Mrs Flander's grief manifests atmospherically most obviously in the first chapter. Woolf suggests that we are meant to read her as a mourner by opening the novel with Betty's tears. We might consider the encroaching hurricane as a metaphor for Betty's grief. The 'waves show an uneasiness' that mirrors the constant 'discomfort' in Betty's mind. <ref type="bibr">96</ref> The wind causes the 'lights … to wink and quiver' in language analogous to Betty's crying. <ref type="bibr">97</ref> On three separate occasions, tears obscure her vision: once in the novel's opening when she bawls and blinks, causing 'the entire bay to quiver; … the lighthouse [to] wobble'. <ref type="bibr">98</ref> Again when looking out at her garden: her 'tears made all the dahlias … undulate in red waves'. <ref type="bibr">99</ref> And finally, when considering Captain Barfoot's proposal: 'She shook her head and was looking through her tears at the little shifting leaves against the yellow sky'. <ref type="bibr">100</ref> The storminess of Betty's grief is evidenced not only in the mutual quivering of the tears and the lights but also in the dahlias that undulate in waves and in the wind that 'tear[s] across the coast', a dramatic word play between verb (to tear) and noun (the drops associated with crying) that links her distress with disturbances in her environment. <ref type="bibr">101</ref> Later in the novel, before the war has a name, it arrives in wind. Mrs Flanders -referred to in this moment as 'the widow lady' -lies in bed while Jacob travels abroad, and the wind begins to rise. A 'salt gale' slips through her open window. It's a gust not unlike the hurricane Betty encounters in Scarborough, edged with the residue of tears and sea: 'Now the agitation of the air uncovered a racing star. Now it was dark. Now one after another lights were extinguished. Now great towns -Paris -Constantinople -London -were black as strewn rocks'. <ref type="bibr">102</ref> Each successive now marks a vanishing. Rumours of war begin to spread throughout the world by negation -light extinguished, cities darkened. The gale functions as a hinge that links Betty's personal sorrow to the atmospheric pressure of a world inching toward war. As in The Voyage Out, where a storm breaks over the hotel on the night of Rachel's death, this weather, too, gives shape to grief.</p><p>The same atmospheric unease that we see in the opening chapter returns on the eve of the Great War as Betty lies awake in her bed, half-asleep, halfalert. <ref type="bibr" target="#b50">103</ref> Just as the 'volley of pistol-shots' startled her earlier in the novel, another affective rupture resounds: 'Guns?' she wonders. 'Not at this distance', she reassures herself. 'It is the sea'. <ref type="bibr" target="#b51">104</ref> But Woolf does not resolve the question. Instead, the novel offers another escape to sound: 'Again, far away, she heard the dull sound, as if nocturnal women were beating great carpets. … But were the chickens safe? Was that someone moving downstairs? Rebecca with the toothache. No. The nocturnal women were beating great carpets'. <ref type="bibr" target="#b52">105</ref> The simile is deceptively, domestically ordinary. The women are plural -the beating, a collective attempt at grief, for to beat a rug is to release what clings to it. The image binds together two kinds of sound: first, the rhythmic labour of domesticity, followed by the muffled roll of a funeral drum. <ref type="bibr" target="#b53">106</ref> This image anticipates the war's dispersal of grief into atmosphere. With every strike, dust rises and hangs in the air; like grief, it is diffuse and persistent, impossible to grasp and nearly impossible to get rid of.</p><p>From this muffled rhythm, Woolf moves to the novel's last sound. Just as Terence calls, 'Rachel! Rachel!' into the quiet that follows her death, <ref type="bibr" target="#b54">107</ref> and Lily Briscoe screams for her dead friend 'Mrs Ramsay! Mrs Ramsay!, <ref type="bibr" target="#b55">108</ref> Bonamy's final cry -'Jacob! Jacob!' -rings out into a room that offers no reply. <ref type="bibr" target="#b56">109</ref> These invocations sound the absence of the dead. Apophasis begins here in the emotional reflex of grief, where what is most present is what is no longer there. In other words, the name spoken aloud becomes a negative imprint, a call that marks its loss in echo. Betty's whispered concerns, her sleepless nights, her stories to soothe her boys -all these maternal gestures gather in the silence that follows. Their tenderness lingers, but their object is gone.</p><p>Just as Woolf renders Jacob Flanders as a commemorative abstraction -a figure whose 'statue'-like' <ref type="bibr" target="#b57">110</ref> stillness absorbs the projections of a grieving public -so too does she shape Betty Flanders into a vessel of ambient sorrow, her maternal grief diffused across the novel's elemental textures. Alice Kelly has noted that Jacob's indeterminacy invites 'imaginative imposition by others', aligning him with the aesthetic of the cenotaph and the cultural machinery of the Unknown Soldier, both of which depend upon symbolic vacancy in order to function as sites of collective mourning. <ref type="bibr" target="#b58">111</ref> Jacob's indistinctness, his spectral resistance to narrative closure, becomes the condition of his legibility as an Everyman of the Great War. His is a body unpictured, a life unlived, a name repeated only after its referent has disappeared. He becomes, in effect, the perfect emblem of wartime sacrifice -anonymous, absent, elegizable.</p><p>But if Jacob stands as the surrogate for a generation lost to war -'just one of many young men killed in the mass tumult of war', as Bunting writes -Betty Flanders endures as the elegiac counterweight. <ref type="bibr" target="#b59">112</ref> She is the one who survives and whose suffering remains illegible within the dominant structures of remembrance. She does not fit into the monumental grammar of national grief, rather she exists at the periphery of public commemoration. Woolf's elegiac innovation is thus philosophical: she builds into her narrative structure an apophatic ethics, where the inability to articulate becomes the condition for reverent witnessing. As an Everywoman of the Great War, Betty does not testify; she attends. Claire Buck reminds us that the trench became the site of wartime authenticity, relegating women's experiences to the margins of literary form and cultural recognition. <ref type="bibr" target="#b60">113</ref> Woolf counters that logic by redefining the coordinates of elegy itself.</p><p>As I've suggested, Jacob lends Woolf's novel its name, but it is Betty, bereaved widow and mother, who gives it its tone. Her sorrow opens the novel and shadows its close. As Woolf's figure of affective apophasis, Betty persists through the reverberation of what is withheld. Like the divine in negative theology, she takes shape in the spaces language cannot reach, and it is through her, finally, that Woolf teaches us to read elegy not as closure but as presence sustained through silence.</p><p>A century after the Great War, the conditions Woolf exposed remain familiar. The language of public mourning still falters before private loss, whether in the aftermath of war, pandemic, or personal grief. Women's sorrow, especially when domestic or maternal, continues to fall outside collective recognition. Jacob's Room is here to remind us that the struggle to make grief speak is ongoing. The novel begins and ends with a cry -Arthur's 'Ja -cob!' on the Cornish shore followed, years later, by Bonamy's reverberating call. <ref type="bibr" target="#b61">114</ref> Between them lies a mother's silence, which holds both voices in suspension. The symmetry carries Jacob's absence across the novel, moving from the mother's private loss to the public mourning that surrounds a generation.</p><p>In Woolf's hands, Betty Flanders becomes the monument the war forgot to build. </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Notes</head></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head>Figure 1 .</head><label>1</label><figDesc>Figure 1. Hall, Margaret. 'Grave in "No Man's Land"' (1918-1919), gelatin silver print (The Metropolitan Museum of Art, New York, Gift of Mrs Anson Phelps Stokes, 1961).</figDesc><graphic coords="9,150.24,53.29,141.73,241.80" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_1"><head>Figure 2 .</head><label>2</label><figDesc>Figure 2. Alphonse Grebel (1885-1968), Tristesse, lithographic print, Paris, c. 1914-1916. Courtesy of Alamy.</figDesc><graphic coords="10,150.24,369.07,141.73,209.14" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_0"><head></head><label></label><figDesc>1. There is a robust scholarly conversation aroundWoolf's elegiac form. See: Tammy Clewell, 'Consolation Refused: Virginia Woolf, The Great War, and Modernist Mourning', Modern Fiction Studies, 50.1 [2004], pp. 197-223; Margaret Higonnet, 'The Great War and the Female Elegy: Female Lamentation and Silence in Global Contexts', The Global South, 1.2 [2007], pp. 120-36; Jahan Ramazani, Poetry of Mourning [University of Chicago Press, 1994]; Howards End, Margaret Schlegel's subdued emotional landscape unfolds through silence and social indirection (Jame Joyce, A Portrait of the Artist as a Young Man [New York: B.W. Huebsch, 1916]; D. H. Lawrence, The Rainbow [London: Methuen &amp; Co., 1915]; E.M. Forster, Howards End [London: Edward Arnold, 1910]). Woolf's own fiction repeatedly returns to the expressive limits of language -Clarissa Dalloway's sense of disembodiment in Mrs. Dalloway, Mrs Ramsay's quiet internal intensities in To the Lighthouse, and Jacob Flanders's posthumous absence all suggest that affect operates most powerfully at the edges of what exceeds articulation. 5. Sigmund Freud, 'Thoughts for the Times on War and Death', in James Strachey (ed.), The Standard Edition of the Complete Psychological Works of Sigmund Freud (London: Hogarth Press, 1957), Vol. XIV, p. 278. 6. Paul Fussell, The Great War and Modern Memory (Oxford University Press, 1975), p. 170. 7. Quoted in Fussell, The Great War, p. 167. modern life. Her analysis helps contextualise the cultural pressures Woolf's women characters face, and the narrative strategies Woolf employs to resist those pressures (Rita Felski, The Gender of Modernity [Harvard UP, 1995]). 22. Holtby, Virginia Woolf, p. 216. 23. Kate Flint, 'Revising Jacob's Room: Virginia Woolf, Women, and Language', The Review of English Studies, 42.167 (1991), pp. 363-4. 24. Vara Neverow, 'Introduction' to Jacob's Room by Virginia Woolf (New York: Harcourt, 2008), p. lv. 25. Galen Bunting, '"Brought up in an Illusion": Jacob's Room as Modernist Anti-War Novel', Woolf Studies Annual, 30 (2024), pp. 7, 12. 26. Alice Kelly, Commemorative Modernisms: Women Writers, Death and the First World War (Edinburgh University Press, 2020), p. 204. 27. David Bradshaw, 'Winking, Buzzing, Carpet-Beating: Reading Jacob's Room', in Annual Virginia Woolf Birthday Lectures. (Camden, England: Virginia Woolf Society of Great Britain, 2003), p. 28. 28. Ibid., p. 9. 29. We must also consider that Florinda is pregnant -'no doubt about it', and questions remain about whether Jacob has fathered any children (Ibid., p. 178). 30. Linda Martin, 'Elegy and the Unknowable Mind in Jacob's Room', Studies in the Novel, 47.2 (2015), pp. 180, 187. 31. Martin, 'Elegy and the Unknowable Mind', p. 177. 32. Virginia Woolf, Mrs. Dalloway, annotated and with an introduction by Bonnie Kime Scott (New York, Harcourt, 2005). 33. Susan R. Grayzel, Women's Identities at War: Gender, Motherhood, and Politics in Britain and France During the First World War (Chapel Hill: University of North Carolina Press, 1999), p. 228. 34. Nosheen Khan, Women's Poetry of the First World War (New York: Harvester Wheatsheaf, 1998). 35. Carol Action, 'Writing and Waiting: The First World War Correspondence between Vera Brittain and Roland Leighton', Gender &amp; History vol. 11.1 (1999), pp. 54-83. 36. Flint, 'Revising Jacob's Room', p. 364. 37. Edward L. Bishop, 'Introduction', in Jacob's Room by Virginia Woolf. Edited and with an introduction and notes by Edward L. Bishop (Oxford: Shakespeare Head Press, 2004), xi-xxxvii; Edward L. Bishop, Virginia Woolf's Jacob's Room: The Holograph Draft (New York: Pace UP, 2010) 38. Woolf, Jacob's Room, p. 4. 39. I use the female pronoun here purposefully. The word widower is one of the rare instances in English where the masculine form is derived by modifying an originally feminine noun, widow. This inversion of normative gendered morphology underscores how widowhood has historically been marked and defined as a feminine condition, with the masculine variant appearing only as a linguistic afterthought. 40. Marjo Buitelaar, 'Widows' Worlds: Representations and Realities', in Jan Bremmer and Lourens Van Den Bosch (eds.), Between Poverty and the Pyre: Moments in the History of Widowhood (New York: Routledge, 1995), p. 10-12. 41. Rachel Vinrace's conversation with Richard Dalloway in Melymbrosia offers an early glimpse of Woolf's discomfort with the rhetorical appropriation of widows into the imperial machinery. Richard's metaphor of the citizen as a 'screw' in the 'complicated machine' of the state effectively evacuates the</figDesc><table><row><cell>302-23.</cell></row><row><cell>2. Virginia Woolf, 'On Not Knowing Greek', in The Common Reader (New York:</cell></row><row><cell>Harcourt, 1984), p. 31.</cell></row><row><cell>3. Elaine Scarry, The Body in Pain: The Making and Unmaking of the World (New</cell></row><row><cell>York: Oxford UP, 1985), p. 172.</cell></row><row><cell>4. The aesthetic implications of this condition animate the broader modernist</cell></row><row><cell>movement. In James Joyce's A Portrait of the Artist as a Young Man, Stephen's</cell></row><row><cell>terror before the 'dark mutinous shadows' of his childhood surfaces less in</cell></row><row><cell>description than in the rhythm and fragmentation of the prose; in D.H. Law-</cell></row><row><cell>rence's The Rainbow, Ursula Brangwen's grief and erotic confusion manifest in</cell></row><row><cell>sensory saturation and narrative distortion rather than confession; in E.M.</cell></row><row><cell>Forster's</cell></row></table><note><p>David Shaw, Elegy and Paradox: Testing the Conventions [Baltimore, MD: Johns Hopkins, 1994]; Karen Smythe, 'Virginia Woolf's Elegiac Enterprise', NOVEL: A Forum on Fiction, 26.1 [1992] pp. 64-79; Mark Spilka, Virginia Woolf's Quarrel with Grieving [Lincoln: University of Nebraska Press, 1980]; Kathleen Wall, 'Significant Form in Jacob's Room: Ekphrasis and the Elegy', Texas Studies in Literature and Language, 44.2 (2002), pp.</p></note></figure>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" xml:id="foot_0"><p>J. L. WATTS</p></note>
+		</body>
+		<back>
+
+			<div type="funding">
+<div><head>Funding</head><p>This research was supported by <rs type="funder">Brigham Young University</rs> through the <rs type="grantName">Emmeline G. Wells Grant</rs>.</p></div>
+			</div>
+			<listOrg type="funding">
+				<org type="funding" xml:id="_vBKyMQH">
+					<orgName type="grant-name">Emmeline G. Wells Grant</orgName>
+				</org>
+			</listOrg>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<monogr>
+		<title level="m" type="main">Elegy and Paradox</title>
+		<author>
+			<persName><surname>Shaw</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="page">5</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<title level="a" type="main">Wall has extended this insight to the formal level, identifying in the novel&apos;s proleptic structures and fractured narration an elegiac grammar already at work from the opening pages. As Wall notes, the novel does not retrospectively impose Jacob&apos;s death upon an otherwise coherent narrative; rather, its structure from the beginning anticipates loss, suggesting that grief precedes death as both tone and form (Wall</title>
+	</analytic>
+	<monogr>
+		<title level="m">A Critical Memoir</title>
+		<meeting><address><addrLine>Winifred Holtby, Virginia Woolf; London</addrLine></address></meeting>
+		<imprint>
+			<publisher>Wishart &amp; Co</publisher>
+			<date type="published" when="1932">1932</date>
+			<biblScope unit="volume">300</biblScope>
+			<biblScope unit="page">308</biblScope>
+		</imprint>
+	</monogr>
+	<note>Early criticism, beginning with Winifred Holtby&apos;s 1932 study, recognised Jacob&apos;s Room as an attempt to grasp what disappears when a young man dies in war. Significant Form in Jacob&apos;s Room</note>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">Virginia</forename><surname>Woolf</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">'</forename><surname>Jacob</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Room</surname></persName>
+		</author>
+		<editor>Vara Neverow</editor>
+		<imprint>
+			<date type="published" when="2008">2008</date>
+			<biblScope unit="page">187</biblScope>
+			<pubPlace>New York; Harcourt</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<monogr>
+		<title level="m" type="main">Poetry of Mourning</title>
+		<author>
+			<persName><forename type="first">Jahan</forename><surname>Ramazani</surname></persName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<monogr>
+		<author>
+			<persName><forename type="first">Melissa</forename><forename type="middle">F</forename><surname>Zeiger</surname></persName>
+		</author>
+		<title level="m">Beyond Consolation</title>
+		<meeting><address><addrLine>Ithaca, NY</addrLine></address></meeting>
+		<imprint>
+			<publisher>Cornell UP</publisher>
+			<date type="published" when="1997">1997</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<monogr>
+		<title level="m" type="main">Consolation Refused</title>
+		<author>
+			<persName><surname>Clewell</surname></persName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title level="a" type="main">Sara Ahmed likewise reminds us that &apos;silence is not simply the absence of speech; it is an effect of how speech is heard -or not heard -within a structure that decides whose voice counts&apos; (Sara Ahmed, The Cultural Politics of Emotion</title>
+	</analytic>
+	<monogr>
+		<title level="m">Betty Flanders inhabits both conditions</title>
+		<meeting><address><addrLine>New York</addrLine></address></meeting>
+		<imprint>
+			<publisher>Edinburgh University Press</publisher>
+			<date type="published" when="2004">2006. 2004</date>
+			<biblScope unit="page">37</biblScope>
+		</imprint>
+	</monogr>
+	<note>As Judith Butler observes, grievability is unevenly distributed: some lives &apos;are not considered lives at all&apos; and therefore &apos;cannot be humanised&apos; or publicly mourned. She grieves in a world that provides no language for her loss, and her silence becomes the trace of that exclusion</note>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<monogr>
+		<author>
+			<persName><forename type="first">Brian</forename><surname>Massumi</surname></persName>
+		</author>
+		<title level="m">Parables for the Virtual: Movement, Affect, Sensation</title>
+		<meeting><address><addrLine>Durham, NC</addrLine></address></meeting>
+		<imprint>
+			<publisher>Duke University Press</publisher>
+			<date type="published" when="2002">2002</date>
+			<biblScope unit="page">27</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<monogr>
+		<title level="m" type="main">The Cultural Politics of Emotion</title>
+		<author>
+			<persName><forename type="first">Ahmed</forename></persName>
+		</author>
+		<imprint>
+			<biblScope unit="page">11</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<monogr>
+		<title level="m" type="main">Kew Gardens in The Complete Shorter Fiction of Virginia Woolf</title>
+		<author>
+			<persName><forename type="first">Virginia</forename><surname>Woolf</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1989">1989</date>
+			<publisher>Mariner</publisher>
+			<biblScope unit="page">94</biblScope>
+			<pubPlace>New York</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title level="a" type="main">Mourning and Melancholia</title>
+		<author>
+			<persName><forename type="first">Sigmund</forename><surname>Freud</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">The Standard Edition of the Complete Psychological Works of Sigmund Freud</title>
+		<editor>
+			<persName><forename type="first">James</forename><surname>Strachey</surname></persName>
+		</editor>
+		<meeting><address><addrLine>London</addrLine></address></meeting>
+		<imprint>
+			<publisher>Hogarth Press</publisher>
+			<date type="published" when="1917">1917. 1957</date>
+			<biblScope unit="volume">XIV</biblScope>
+			<biblScope unit="page" from="243" to="258" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<monogr>
+		<author>
+			<persName><forename type="first">Svetlana</forename><surname>Boym</surname></persName>
+		</author>
+		<title level="m">The Future of Nostalgia</title>
+		<meeting><address><addrLine>New York</addrLine></address></meeting>
+		<imprint>
+			<publisher>Basic Books</publisher>
+			<date type="published" when="2001">2001</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<monogr>
+		<author>
+			<persName><forename type="first">Jacques</forename><surname>Derrida</surname></persName>
+		</author>
+		<title level="m">Specters of Marx</title>
+		<meeting><address><addrLine>New York</addrLine></address></meeting>
+		<imprint>
+			<publisher>Routledge</publisher>
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<monogr>
+		<title level="m" type="main">The Voyage Out</title>
+		<author>
+			<persName><forename type="first">Virginia</forename><surname>Woolf</surname></persName>
+		</author>
+		<editor>Lorna Sage</editor>
+		<imprint>
+			<date type="published" when="1992">1992</date>
+			<pubPlace>Oxford UP</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<monogr>
+		<author>
+			<persName><forename type="first">Virginia</forename><surname>Woolf</surname></persName>
+		</author>
+		<title level="m">To the Lighthouse, annotated and introduced by Mark Hussey</title>
+		<meeting><address><addrLine>New York; Harcourt</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title level="a" type="main">Patricia Laurence proposes that Woolf&apos;s silences function both thematically and formally as practices of meaning-making. Laurence&apos;s reading of silence emphasises Woolf&apos;s shift from event to interruption as a feminist response to the limits of language. Though Laurence does not explicitly use the term &apos;apophasis&apos;, her work aligns with its rhetorical and affective implications, particularly in framing silence as a space of epistemological resistance and emotional resonance (Patricia Ondek Laurence</title>
+	</analytic>
+	<monogr>
+		<title level="m">The Reading of Silence: Virginia Woolf in the English Tradition</title>
+		<meeting><address><addrLine>CA</addrLine></address></meeting>
+		<imprint>
+			<publisher>Stanford UP</publisher>
+			<date type="published" when="1991">1991</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<title level="a" type="main">Felski interrogates how narratives of modernity have traditionally been constructed around male experience, rendering women peripheral to the dominant historical and intellectual trajectories of widow&apos;s subjectivity. In contrast, Rachel imagines the widow as a figure of longing and spiritual inquiry, one whose affections are left &apos;untouched&apos; (Virginia Woolf, Melymbrosia</title>
+	</analytic>
+	<monogr>
+		<title level="m">The Gender of Modernity</title>
+		<editor>
+			<persName><forename type="first">Louise</forename><surname>Desalvo</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Berkely, CA</addrLine></address></meeting>
+		<imprint>
+			<publisher>Cleiss Press</publisher>
+			<date type="published" when="2002">2002</date>
+			<biblScope unit="page">76</biblScope>
+		</imprint>
+	</monogr>
+	<note>The irreconcilability of these visions signals Woolf&apos;s emerging awareness of the ideological containment and emotional illegibility of women&apos;s grief</note>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<monogr>
+		<title level="m" type="main">Of Little Comfort: War Widows, Fallen Soldiers, and the Remaking of the Nation After the Great War</title>
+		<author>
+			<persName><forename type="first">Erika</forename><surname>Kuhlman</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2012">2012</date>
+			<publisher>NYU Press</publisher>
+			<biblScope unit="page">3</biblScope>
+			<pubPlace>New York</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<monogr>
+		<author>
+			<persName><forename type="first">Richard</forename><surname>Van Emden</surname></persName>
+		</author>
+		<title level="m">The Quick and the Dead: Fallen Soldiers and their Families in the Great War</title>
+		<meeting><address><addrLine>New York: Bloomsbury</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2011">2011</date>
+			<biblScope unit="page">303</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<monogr>
+		<title/>
+		<author>
+			<persName><surname>Kuhlman</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="page" from="2" to="3" />
+			<pubPlace>Of Little Comfort</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<analytic>
+		<title level="a" type="main">Molly Hite suggests that Woolf was not always the best at championing other women. Writing of the &apos;critically-acclaimed and widely-read group&apos; of female authors preceding her, Hite explains that Woolf&apos;s engagement with them was &apos;at best ambivalent&apos;. In &apos;refusing to mention these female writers in her great canon-forming polemics</title>
+		<author>
+			<persName><forename type="first">Christine</forename><surname>Froula</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">; Molly</forename><surname>Hite</surname></persName>
+		</author>
+		<idno>17.3</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Tulsa Studies in Women&apos;s Literature</title>
+		<imprint>
+			<biblScope unit="volume">5</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page">523</biblScope>
+			<date type="published" when="1985">1985. 2010</date>
+		</imprint>
+	</monogr>
+	<note>Modernism/modernity</note>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<analytic>
+		<title level="a" type="main">What the Duke of Wellington is Doing in Jacob&apos;s Room</title>
+		<author>
+			<persName><forename type="first">Susan</forename><surname>Bennet</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Smith</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Virginia Woolf Miscellany</title>
+		<imprint>
+			<biblScope unit="volume">36</biblScope>
+			<biblScope unit="page">2</biblScope>
+			<date type="published" when="1991">1991</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<analytic>
+		<title level="a" type="main">Jacob&apos;s Room: Woolf&apos;s Satiric Elegy</title>
+		<author>
+			<persName><forename type="first">Alex</forename><surname>Zwerdling</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">ELH</title>
+		<imprint>
+			<biblScope unit="volume">48</biblScope>
+			<biblScope unit="page">909</biblScope>
+			<date type="published" when="1981">1981</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<monogr>
+		<title level="m" type="main">Introduction</title>
+		<author>
+			<persName><surname>Bishop</surname></persName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">Jacob</forename><forename type="middle">'</forename><surname>Woolf</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Room</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="page">8</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<monogr>
+		<title/>
+		<author>
+			<persName><surname>Ibid</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="page">13</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<monogr>
+		<title level="m" type="main">The Voyage Out</title>
+		<author>
+			<persName><surname>Woolf</surname></persName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b27">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">Jacob</forename><forename type="middle">'</forename><surname>Woolf</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Room</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="page">14</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b28">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">Jacob</forename><forename type="middle">'</forename><surname>Woolf</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Room</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="page">21</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b29">
+	<monogr>
+		<title level="m" type="main">Significant Form in Jacob&apos;s Room</title>
+		<author>
+			<persName><surname>Wall</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="page">308</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b30">
+	<monogr>
+		<title/>
+		<author>
+			<persName><surname>Ibid</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="page">300</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b31">
+	<analytic>
+		<title level="a" type="main">The Female Mourner: Gender and the Moral Economy of Grief During the First World War</title>
+		<author>
+			<persName><forename type="first">Claudia</forename><surname>Siebrecht</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Gender and the First World War</title>
+		<imprint>
+			<publisher>Oxford University Press</publisher>
+			<date type="published" when="2013">2013</date>
+			<biblScope unit="page" from="144" to="162" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b32">
+	<analytic>
+		<title level="a" type="main">What is a Portmanteau Woolf? What is the Woolfian Portmanteau?</title>
+		<author>
+			<persName><forename type="first">Shilo</forename><surname>Mcgiff</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Valerie</forename><surname>Favre</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Virginia Woolf Miscellany</title>
+		<imprint>
+			<biblScope unit="volume">99</biblScope>
+			<biblScope unit="page" from="1" to="2" />
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b33">
+	<monogr>
+		<author>
+			<persName><forename type="first">Rita</forename><surname>Felski</surname></persName>
+		</author>
+		<title level="m">Hooked: Art and Attachment</title>
+		<meeting><address><addrLine>Chicago</addrLine></address></meeting>
+		<imprint>
+			<publisher>University of Chicago Press</publisher>
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b34">
+	<monogr>
+		<author>
+			<persName><forename type="first">Sara</forename><surname>Ruddick</surname></persName>
+		</author>
+		<title level="m">Maternal Thinking: Toward a Politics of Peace</title>
+		<imprint>
+			<publisher>Beacon Press</publisher>
+			<date type="published" when="1989">1989</date>
+			<biblScope unit="page">22</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b35">
+	<monogr>
+		<title level="m" type="main">To the Lighthouse</title>
+		<author>
+			<persName><surname>Woolf</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="page">65</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b36">
+	<monogr>
+		<title level="m" type="main">The letter broken by Archer&apos;s call becomes a small version of the larger structural problem Woolf identifies as the impossibility of sustained creative labour under constant interruption. The maternal act of writing is undone by the very relationality that defines it</title>
+		<imprint>
+			<date type="published" when="2015">2015</date>
+			<biblScope unit="page">3</biblScope>
+		</imprint>
+	</monogr>
+	<note>Woolf would later turn this moment into principle in A Room of One&apos;s Own, where she writes that &apos;a woman must have money and a room of her own if she is to write fiction&apos;(Virginia Wolf, A Room of One&apos;s Own [Oxford World Classics</note>
+</biblStruct>
+
+<biblStruct xml:id="b37">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">Jacob</forename><forename type="middle">'</forename><surname>Woolf</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Room</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="page">7</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b38">
+	<monogr>
+		<title/>
+		<author>
+			<persName><surname>Ibid</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="page" from="39" to="56" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b39">
+	<monogr>
+		<title level="m">Of Woman Born: Motherhood as Experience and Institution</title>
+		<editor>
+			<persName><forename type="first">Adrienne</forename><surname>Rich</surname></persName>
+		</editor>
+		<meeting><address><addrLine>New York</addrLine></address></meeting>
+		<imprint>
+			<publisher>W. W. Norton</publisher>
+			<date type="published" when="1976">1976</date>
+			<biblScope unit="page">190</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b40">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">Jacob</forename><forename type="middle">'</forename><surname>Woolf</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Room</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="page">94</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b41">
+	<monogr>
+		<title level="m" type="main">Waiting for Godot</title>
+		<author>
+			<persName><forename type="first">Samuel</forename><surname>Beckett</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1954">1954</date>
+			<publisher>Grove Press</publisher>
+			<biblScope unit="page">80</biblScope>
+			<pubPlace>New York</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b42">
+	<monogr>
+		<author>
+			<persName><forename type="first">Kristina</forename><forename type="middle">K</forename><surname>Groover</surname></persName>
+		</author>
+		<title level="m">The Interrupted Moment: A View of Virginia Woolf&apos;s Novels</title>
+		<meeting><address><addrLine>Lausanne, Switzerland</addrLine></address></meeting>
+		<imprint>
+			<publisher>Peter Lang</publisher>
+			<date type="published" when="1995">1995</date>
+			<biblScope unit="page">68</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b43">
+	<monogr>
+		<title level="m" type="main">Both To the Lighthouse and Jacob&apos;s Room evoke the convergence of maternity and mortality through the recurring image of a skull. In To the Lighthouse, the maternal gesture of shielding her children from death is literalised when Mrs Ramsay wraps a shawl around the skull in their nursery -an act of care that ultimately proves futile as war and illness later claim her children and herself. The shawl, briefly concealing the horror of mortality, eventually slips, exposing what was always beneath. Jacob&apos;s Room opens with a similar moment: young Jacob, momentarily lost on the beach, discovers a skull just as his mother frantically searches for him. The image recurs in the novel&apos;s final scene</title>
+		<imprint/>
+	</monogr>
+	<note>where a ram&apos;s skull crowns the doorframe of Jacob&apos;s now-empty room</note>
+</biblStruct>
+
+<biblStruct xml:id="b44">
+	<monogr>
+		<title level="m" type="main">Brought up in an Illusion&quot;&apos;, p. 11; Neverow, &apos;Introduction</title>
+		<author>
+			<persName><surname>Bunting</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="page">lxxxi</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b45">
+	<monogr>
+		<title level="m" type="main">Of Woman Born</title>
+		<author>
+			<persName><surname>Rich</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="page">188</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b46">
+	<analytic>
+		<title level="a" type="main">Maternal Grief: Creating an Environment for Dialogue</title>
+		<author>
+			<persName><forename type="first">Deborah</forename><surname>Davidson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Helena</forename><surname>Stahls</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of the Motherhood Initiative</title>
+		<imprint>
+			<biblScope unit="volume">1</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page">16</biblScope>
+			<date type="published" when="1999">1999</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b47">
+	<analytic>
+		<title level="a" type="main">Writing Silence: Grieving Mothers and the Literature of War</title>
+		<author>
+			<persName><forename type="first">Tanja</forename><surname>Luckins</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">The Gates of Memory: Australian People&apos;s Experiences and Memories of Loss and the Great War</title>
+		<editor>
+			<persName><forename type="first">D</forename><surname>Das</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">S</forename><surname>Dasgupta</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Western Australia</addrLine></address></meeting>
+		<imprint>
+			<publisher>Ffion Murphy and Richard Nile</publisher>
+			<date type="published" when="2004">2004. 2017</date>
+			<biblScope unit="page">43</biblScope>
+		</imprint>
+	</monogr>
+	<note>Claiming Space for Australian&apos;s Women&apos;s Writing</note>
+</biblStruct>
+
+<biblStruct xml:id="b48">
+	<analytic>
+		<title level="a" type="main">Virginia Woolf and the Aesthetics of Mourning</title>
+		<author>
+			<persName><forename type="first">Nick</forename><surname>Montgomery</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Twentieth Century Literature</title>
+		<imprint>
+			<biblScope unit="volume">38</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page">35</biblScope>
+			<date type="published" when="1992">Spring 1992</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b49">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">Jacob</forename><forename type="middle">'</forename><surname>Woolf</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Room</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="page">31</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b50">
+	<monogr>
+		<title level="m" type="main">Brought up in an Illusion</title>
+		<author>
+			<persName><surname>Bunting</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="page">24</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b51">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">Jacob</forename><forename type="middle">'</forename><surname>Woolf</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Room</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="page">185</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b52">
+	<analytic>
+		<title level="a" type="main">Betty dilutes &quot;masculine&quot; concerns with &quot;female&quot; worries. Even the noise of the shell is perceived in whimsical, domestic terms&apos; (Sharon Ouditt</title>
+		<author>
+			<persName><forename type="first">Jacob</forename><forename type="middle">'</forename><surname>Woolf</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Room</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Fighting Forces, Writing Women: Identity and Ideology in the First World War</title>
+		<imprint>
+			<biblScope unit="page">188</biblScope>
+		</imprint>
+	</monogr>
+	<note>Ouditt manifests the trouble I see with traditional accountings of Betty Flanders. Of the &apos;great carpet&apos; scene, she writes. Oxfordshire: Routledge, 1994</note>
+</biblStruct>
+
+<biblStruct xml:id="b53">
+	<analytic>
+		<title level="a" type="main">In Henstra&apos;s reading of women&apos;s protest mourning, she describes the &apos;muffled drums&apos; of female dissent, where sonic residue replaces speech; Henstra</title>
+	</analytic>
+	<monogr>
+		<title level="j">British Propaganda</title>
+		<imprint>
+			<biblScope unit="page">74</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b54">
+	<monogr>
+		<title level="m" type="main">The Voyage Out</title>
+		<author>
+			<persName><surname>Woolf</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="page">413</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b55">
+	<monogr>
+		<title level="m" type="main">To the Lighthouse</title>
+		<author>
+			<persName><surname>Woolf</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="page">165</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b56">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">Jacob</forename><forename type="middle">'</forename><surname>Woolf</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Room</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="page">187</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b57">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">Jacob</forename><forename type="middle">'</forename><surname>Woolf</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Room</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="page">180</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b58">
+	<monogr>
+		<title level="m" type="main">Commemorative Modernisms</title>
+		<author>
+			<persName><surname>Kelly</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="page">136</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b59">
+	<monogr>
+		<title level="m" type="main">Brought up in an Illusion</title>
+		<author>
+			<persName><surname>Bunting</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="page">6</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b60">
+	<monogr>
+		<title level="m" type="main">Women&apos;s Writing of the First World War: An Anthology</title>
+		<author>
+			<persName><forename type="first">Claire</forename><surname>Buck</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1998">1998</date>
+			<publisher>Oxford University Press</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b61">
+	<monogr>
+		<title level="m" type="main">Disclosure statement No potential conflict of interest was reported by the author(s)</title>
+		<author>
+			<persName><forename type="first">Jacob</forename><forename type="middle">'</forename><surname>Woolf</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Room</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="page" from="4" to="187" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

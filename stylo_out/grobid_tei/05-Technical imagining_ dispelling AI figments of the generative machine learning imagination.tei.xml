@@ -1,0 +1,1063 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Technical imagining: dispelling AI figments of the generative machine learning imagination</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author role="corresp">
+							<persName><forename type="first">Erika</forename><surname>Kerruish</surname></persName>
+							<email>erika.kerruish@scu.edu.au</email>
+							<affiliation key="aff0">
+								<orgName type="department">Faculty of Education</orgName>
+								<orgName type="institution">Southern Cross University</orgName>
+								<address>
+									<postCode>4255</postCode>
+									<settlement>Coolangatta</settlement>
+									<region>Qld</region>
+									<country key="AU">Australia</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Technical imagining: dispelling AI figments of the generative machine learning imagination</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date/>
+						</imprint>
+					</monogr>
+					<idno type="MD5">949184A51E0A4CA713B86CCE3E3CA32B</idno>
+					<idno type="DOI">10.1080/14735784.2025.2556994</idno>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.0" ident="GROBID" when="2026-02-25T19:51+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term>Imagination</term>
+					<term>digital technology</term>
+					<term>generative AI</term>
+					<term>Simondon</term>
+					<term>Stiegler</term>
+					<term>AI myth</term>
+				</keywords>
+			</textClass>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>This paper outlines an understanding of technical imagining with which we can think through the relationship between GenML and the imagination. It counters the myth that GenML is analogous to the human mind. I note limitations in how accounts of the social imaginary and the digital imaginary address the free reimagining of digital technologies by individuals and collectives within the constraints of those technologies. To address this, I return to Gilbert Simondon's cycle of the image and trace it through to Bernard Stiegler's account of originary technicity and the noetic perceiver, to articulate how an individuating subject engages in a layered and recursive process of technical imagining. Bodily, affective and symbolic engagement with GenML outputs allows for critical and creative imagining, which connects outputs to their cultural, political and social milieus. The outputs of text-to-image generators, which can be related to established traditions of visual culture and critique, are in this respect contrasted with the less familiar displays of interactive conversational agents that give the impression of social agency.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Introduction</head><p>A recent Forbes article declared artificial intelligence generators (GenAI) to have a 'shared imagination' <ref type="bibr" target="#b15">(Eliot 2024)</ref>, albeit with reservations about anthropomorphising. Meanwhile, an exhibition was held in New York titled the 'World of AI Imagination' (ARTHOUSE 2025), and numerous online articles were written to inform us of how GenAI can develop our imagination. Describing GenAI, or more accurately, generative machine learning (GenML), as imaginative continues a long tradition of anthropomorphising AI <ref type="bibr" target="#b11">(Cave, Dihal, and Dillon 2020)</ref>. Questions about what the imagination comprises and its relationship to technology are rarely addressed. Recent writing on the digital imagination and broader discussions of the imagination and imaginaries can speak to these omissions. This paper draws on such work to outline an understanding of technical imagining with which we can think through the relationship between GenML and imagination. This conceptualisation disrupts the myth that GenML is analogous to the human mind, which was hyped during GenML's arrival by design features, sensational media reports, tech oligarchs and concerned public intellectuals. Research from various perspectives (for example <ref type="bibr" target="#b16">, Floridi 2023;</ref><ref type="bibr" target="#b36">Salvaggio 2024;</ref><ref type="bibr" target="#b46">Suchman 2023)</ref> shows how AI myths constrain the analysis and imaginings of AI, obscuring its harms. In terms of the discussion below, this constraint is thought of as a failure of technical imagining to intervene in the technical conditions of possibility of GenML and the impasses this creates. The approach to technical imaging developed here suggests that critical reflection of an individuating subject on the outputs of GenML is a source of alternative imaginings of GenML.</p><p>I use technical imagining to refer to a dynamic co-constituted by humans and technology that incorporates technology, shared imaginaries and the individual imagination. To begin developing this account, I consider the resources offered by recent examinations of the imagination, social imaginary and digital imaginary <ref type="bibr" target="#b10">(Castoriadis 1987</ref><ref type="bibr" target="#b32">Ricoeur 1986;</ref><ref type="bibr">;</ref><ref type="bibr" target="#b34">Romele 2024;</ref><ref type="bibr" target="#b49">Wellner 2018;</ref><ref type="bibr">2022;</ref><ref type="bibr">2024;</ref><ref type="bibr" target="#b6">and Bottici 2014;</ref><ref type="bibr">2019)</ref>, which are framed by Kant's thought on the productive imagination. Despite the rich resources of this work, I note that it does not fully address how individuals and communities exercise the freedom to reimagine technologies within the constraints of technologies. This can be remedied by a consideration of a decentred, imagining subject. Consequently, I return to the earlier thinker Gilbert Simondon to reinsert the individuating subject back into technical imagining via his writing on the cycle of the image, imagination and invention <ref type="bibr">(2022)</ref>. The image cycle intersects with processes of individuation and transindividuation<ref type="foot" target="#foot_0">1</ref> (2020), bringing together individual imagining and collective imaginaries while also addressing the technicity of imagining. Technical imagining is then further articulated through Bernard Stiegler's theory of originary technicity <ref type="bibr">(1998,</ref><ref type="bibr">(4)</ref><ref type="bibr">(5)</ref><ref type="bibr">(6)</ref><ref type="bibr">(7)</ref><ref type="bibr">(8)</ref><ref type="bibr">(9)</ref><ref type="bibr">(10)</ref><ref type="bibr">(11)</ref><ref type="bibr">(12)</ref><ref type="bibr">(13)</ref><ref type="bibr">(14)</ref>, which takes up Simondon's ideas, decentring them from the organism and addressing the political dimensions of technicity. Individuating subjects engage in transductive, recursive imagining with GenML, their perception and reflection allowing for critical and creative imagining.</p><p>Conceptualising imagining in this way has implications for our specific imaginings, in this instance, our imagining of GenML. Technical imagining destabilises the popular myth of AI as human-like in two ways. Firstly, it counters the view that GenML works as an equivalent to the human by understanding it as an activity co-constituted by humans and machines. Secondly, it articulates how moving, feeling, perceiving and reflecting individuals can engage with GenAI images, refuse the AI myth and reenvisage GenML. How this occurs differs across the various interfaces and outputs of GenML. Assorted models project their data outputs via different media (usually screens and speakers) and employ various communicative practices (linguistic, pictorial, aural and so on). Our resources in reimagining GenML shift accordingly. I show this difference by contrasting the visual images of text-to-image generators with the less familiar images of interactive conversational agents. Visual images can be readily linked to extensive conventions and practices of critique and creative response. In contrast, images of interactive conversational agents that create the impression they are social agents have less established and more dispersed practices on which to draw in critical reimagining.</p><p>Yet in both instances, our access to the technologies themselves means we can potentially freely imagine with them, even while they form part of our conditions of imagining.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Imagination, imaginary and the digital</head><p>As with many discussions of the imagination, Kant's Critique of Pure Reason is our point of departure because it sets out a series of relationships by which the imagination continues to be situated <ref type="bibr">(Casey 2000, 129-132)</ref>. These include notions of the reproductive and the productive imagination, the imagination's continuity and discontinuity with reality, and its intimate relationship with perception. In the Transcendental Deduction <ref type="bibr">(1992,</ref>, Kant writes of the productive imagination as instituting a synthesis of a new image that enables the perception of what is there, while the reproductive imagination enables the imagining of things that are absent (165). The productive imagination allows the subject to synthesise a manifold of sensory experience: 'imagination has to bring the manifold of intuition into the form of an image' (144). The reproductive imagination draws on earlier images that make the past accessible, which the productive imagination synthesises into a unity (131; see also <ref type="bibr">Lennon 2015, 20-25)</ref>. Bringing together understanding and sensibility, the application of the schematism derived from the categories shapes the manifold into one experience across time, producing unified temporal consciousness <ref type="bibr">(Kant 1992, 143-146, 166-169, 182-3)</ref>. In the first version of the Transcendental Deduction, Kant begins with the apprehension of sensibility, presenting the schematism as equally derived from sensibility, imagination and understanding <ref type="bibr">(146)</ref><ref type="bibr">(147)</ref>. His markedly different second version argues for the necessity of the unity of apperception and says that understanding produces the schematism.<ref type="foot" target="#foot_2">2</ref> This shift in responsibility for the forms employed by the imagination makes it possible for Kant to claim that judgements can 'distinguish the objective unity of given representations from the subjective' (159) and secure empirical knowledge. Kant subjugates the synthesising, schematising power of the imagination to the understanding to ensure that forms of the categories govern empirical knowledge. Subsequently, elements of Kant's account of the imagination persist to frame later accounts of imagination and imaginaries, freed from the need to anchor objective knowledge. Embracing his account of the productive imagination creates questions about how individuals and communities critically engage with imaginative processes so as to exercise freedom when reimagining within the constraints of existing imaginative practices.</p><p>Alberto Romele writes that we can understand the terms imaginary and social imaginary, widely used in the late twentieth century, as a 'socialized and collectivized version of the Kantian productive imagination <ref type="bibr">' (2024, 50)</ref>. The external social imaginary is variously presented as assumptions and images embedded in institutions and social practices, which shape our formulations of the world. Theories of the social imaginary question accounts of modern society that emphasise rationality and reason while establishing the imaginary as providing the conditions for what counts as reasonable. Drawing on Kant's productive imagination to conceptualise the imaginary as radical and ineffable, Carlos Castoriadis writes that social institutions are created out of nothing rather than recombining or reproducing pre-existing elements <ref type="bibr">(1987,</ref><ref type="bibr">269)</ref>. Ricouer's writings on the imaginary see it as a social reality operating across domains (epistemological, poetic and religious) and concretely embodied in techniques and practices -novels, poetry and theatre -that can become reimagined in new ways <ref type="bibr">(1986)</ref>. Like Castoridias, Ricouer moves away from the idea that the imagination is a flawed copy of an original, but unlike Castoriadias, for whom radical imagination is prior to signification, Ricouer understands the productive imagination to work in relationship with the reproductive imagination thought of as existing techniques and past practices used to create fictions -narratives -that expand reality and its possibilities <ref type="bibr">(1986)</ref>.</p><p>We can find an explicit exploration of the imaginary and technology in Sheila Jasanoff's work, who considers technoscientific imaginaries to be 'products of and instruments of the co-production of science, technology, and society in modernity <ref type="bibr">' (2015, 19)</ref> in which imaginative normativity and material networks are combined. She understands technoscientific imaginaries as projecting a desired future, a goal required for social and political preservation and transformation ( <ref type="formula">14</ref>). Yet, as <ref type="bibr">Romele (2024, 53)</ref> and <ref type="bibr">Cave, Dihal, and Dillon (2020, 7)</ref> point out, Jasanoff's emphasis on a desirable, institutionally stabilised future overlooks how relatively small groups can circulate imaginaries and project what others might consider an undesirable future. Developing digital hermeneutics, Romele reorients the idea of the technical imagination around Bourdieu's notion of habitus, describing digital habitus as the 'social imaginary directed toward ideology and the past <ref type="bibr">' (2024, 59)</ref>. Habits of acting and intending function as externalised Kantian categories and depend on our social groups. While they might seem natural, they are available to reflection and criticism. Designating machine learning and its use of big data as 'digital habitus machines,' Romele examines how the design and use of such technologies circulates and intensifies existing social and cultural norms and hierarchies and their power relations. The digital imagination is a flattened technical, social imaginary, a distortion with political effects that are subject to challenge. Romele's position continues themes that have previously emerged in developing a critical repertoire for new media, such as Wendy Chun's notion that new media becomes most powerful and influential when it becomes habitual rather than novel <ref type="bibr">(2016,</ref> and Lev Manovich's conclusion that the demand for interoperability and standardisation across media has a flattening effect <ref type="bibr">(2002)</ref>. Similarly, the distortive dimension of Romele's digital habitus brings to mind Alexander Galloway's view that the structuring of interfaces by protocols, aesthetics and power distorts them by design (2012). For Romele, the digital imagination constrains self-interpretation in various ways that we might choose to accept, abstain from, hack or diversify, both individually and within the institution (2024, 131-2). However, if the widespread beliefs, assumptions, expectations, hopes, fears, and imaginaries about AI are shaped by AI, then we need to ask from where such resistive stances derive.</p><p>Also acknowledging the indistinct boundaries between the human and technology and linking digital imagination to <ref type="bibr">Kant's schema, Galit Wellner (2018</ref><ref type="bibr">, 2022;</ref><ref type="bibr">2024)</ref> offers an account of a post-human imagination embedded in digital technology. Drawing on Deleuze and Guattari's concept of 'plateaus,' she understands the post-human imagination to operate as layers of information, analogical to augmented reality technologies. Challenging the 'easy option' (2024, 5) that AI algorithms can possess imagination in the sense humans do, she suggests a layer model whereby imagination is distributed across humans and technologies. In human and technology's co-shaping of each other through mutual influence, 'some functionality like 'schematization' can be delegated to technologies <ref type="bibr">' (2024, 39)</ref>. The posthuman imagination adds, manipulates, and reorders layers to create new meanings and experiences. Digital technologies provide the tools for manipulating and experiencing these fluid layers of information, in which the embodied individual comprises a layer in a distributed network. Although Wellner does not explicitly address the political effects of digital technologies in human-technology coshaping, her work implicitly calls for a critical and politically engaged response to digitisation and its consequences for the imagination. Yet, in adopting a de-subjectified Deleuzian approach <ref type="bibr">(2018, 47; 2024, 36)</ref>, the genesis of critical response remains unidentified.</p><p>To say more about how the technical imaginary can be freely exercised to resist standardisation and domination we can turn to Chiara <ref type="bibr" target="#b6">Bottici's (2014</ref><ref type="bibr" target="#b7">Bottici's ( , 2019) )</ref> account of the imaginal in a political context (although not a technical one). She agrees that the idea of an immersive social imaginary is a collectivised replacement for the individual imagination. Given the problematic status of the subject, she considers this replacement warranted while observing that it undercuts accounting for the free imagination (436). Stressing that the imagination is prior to the distinction of what is real and unreal, Bottici's theory of the imaginal does not return to centre on the subject. Instead, it emphasises 'the centrality of the production of images, rather than the faculty or the context that produces them' (427). No assumptions are made about 'the individual or social character of our capacity to imagine, nor … about the absence/presence and reality/unreality of its content' (427). Conscious and unconscious images are vehicles of excess meaning prior to language, so the imaginal is the product of a social context, the individual and their complex interaction (437). Bottici conceptualises the imaginal with the political firmly in mind but does not explicitly consider the role of the technical in the imaginal. Centring her account on pre-critical Spinozian ideas of the transindividual, she notes the potential relevance of Simondon's notion of the transindividual to the idea of the imaginal <ref type="bibr">(Bottici 2019, 437</ref>).</p><p>Simondon's relevance to considering digital technologies and the imagination is even more striking given his extensive work on technicity and the decentred, individuating subject entwined with transindividuation. I return to his work to formulate an account of the technical imagination and address the hanging questions of subjectivity and freedom in contemporary discussions of imagination, the social imagination and technicity. By tracing his ideas to those of Stiegler's, we can articulate an account of imagining that includes how individuals and communities critically exercise freedom to reimagine technologies within the constraints of technologies. Situating the imagination in relation to individuation (becoming an individual) and transindividuation (becoming part of a collective) -two sides of the same ongoing process -allows for a critical imagining not anchored in objectivity but in the pursuit of life co-constituted by technology.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Simondon's transductive image cycle</head><p>Simondon's method is genetic, in that it centres on the dynamic process of becoming or genesis by which things come into being and develop over time, moving through phases in doing so <ref type="bibr">(1992)</ref>. He sees the imagination as a necessary part of kinetic, perceptual and symbolic engagement with reality. His enquiry into the imagination is explicitly laid out in his course Imagination and Invention (2022) and the second chapter of On the Mode of Existence of Technical Objects (2017). Alongside his broader work on technical objects and processes of individuation and transindividuation, his 'cycle of the image' enables the close articulation of the technical imagination. Significantly, while emphasising the image, Simondon does not say the individual is the cause of images but asserts 'a primordial exteriority of images in relation to the subject' <ref type="bibr">(2022,</ref><ref type="bibr">38)</ref>.</p><p>The recursive cycle of the image develops through four phases: as anticipatory motor tendencies; as a receptor system for the perceptual motor system; as a symbol; and, finally, as culminating in invention <ref type="bibr">(Simondon 2022, 48-50)</ref>. The relationship between these stages of the image cycle is transductive <ref type="bibr">(Simondon 2017, 155-7)</ref>; that is, the prior stage forms a precondition for the following stages that are transformative of the earlier stage. This means that later phases of the image cycle express a potential of an earlier stage while remaining excess to them. Thus, after an externalised technical or aesthetic invention feeds back into a milieu, the cycle begins again with a new motor anticipation <ref type="bibr">(Simondon 2022, 35)</ref>. The unfolding of the image is a dynamic, relational process within a surrounding milieu, in which phase-shifting systems resolve problems to form metastable systems (systems in dynamic equilibrium that harbour latent potential for transformation) <ref type="bibr" target="#b38">(Simondon 1992)</ref>. Reproductive imagination and invention (productive imagination) are intertwined, although distinct, in the 'successive phases of a single process of genesis' <ref type="bibr">(Simondon 2022, 32)</ref>. The image cycle is analogical to the individuation of the organism <ref type="bibr">(Voss 2019, 161)</ref>, 'at once subjective and objective … a quasi-organism' <ref type="bibr">(Simondon 2022, 39)</ref> inhabiting the subject yet relatively independent of its consciousness. It is 'an intermediary between the concrete and the abstract, [that] synthesizes, in a few features, motor, cognitive, and affective changes' (40).</p><p>In Simondon's account, images produce a complex temporality by sequencing (implicit narrativising) potential events. Firstly, they anticipate, projecting the organism into the future at a motor level, prior to the encounter with an object (a priori images). The motor actions' schema of the body carries expectation in an 'imaginative anticipation of different movements' <ref type="bibr">(Simondon 2022, 67</ref>) so that 'the perspectives of an expected future are as important as present givens or the repercussions of experience in the form of memory' (68). Perceived images occur in the context of collecting information in a territory already mapped out by motor action images, amplifying motor images (68). Psychic activity creates 'states of expectation' (68) that project images 'onto things supposed to be objective and real' (69). This exaggeration follows cultural patterns, carried in symbolisation and amounting to 'a collective imaginary projection in the form of mythical images' that complement psychically 'exaggerated anticipation behaviours' (70).</p><p>Secondly, Simondon describes a posteriori images -which include 'memory images' (2023, 49) including weakly recalled generic images to symbols -that are not separated from motor and perceptual images but part of the same genesis, a residue from encounters with the world in which motor images transform into memory images in the durational time of an image flow. A posteriori images are not derived by abstracting shared characteristics from a number of instances (induction), but result from a primordial imprinting of a specific constellation of informative encounters and relations <ref type="bibr">(Voss 2024, 165-7)</ref>. The generic image thus 'yokes the subject to events of which it retains a complex memory, and it makes the subject depend on these events of which it preserves a real and representative fragment' <ref type="bibr">(Simondon 2022, 139)</ref>. Further, these 'conscious representations belonging partly to cultural contents … are modified according to collective conditions (feeling of danger, pressure towards conformity) and constitute the basis for psychosocial regulations' (91). The symbol is thus a formalisation that individually and collectively remembers a certain organisation of the world transduced from contingent territories established by motor and perceptual images.</p><p>Finally, as a solution to a 'hiatus or incompatibility' <ref type="bibr">(Simondon 2022, 152</ref>) -a problem -the invented image retroactively reorganises the past to project an alternative future when it comes into being (153). It mediates two orders, situated between the reality of the problem (of which the subject is part) and the imagined result (of which the subject is not a part) <ref type="bibr">(Voss 2019, 291)</ref>. The invented image is thus 'a detour through the past' in which relations between organisms, objects and goals are formed and condensed in response to a problem <ref type="bibr">(Simondon 2022, 162)</ref>. Invention, at its most formalised, is the creation of an independent object able to be transmitted to others and related to collectively (173). Whether a technical or aesthetic object, the invention goes beyond the initial problematic situation to be re-inserted into the milieu as an excess or 'surplus value.' Invention thus 'completes perception' (183) because it materialises what perception apprehends and changes the initial conditions by re-envisioning the past and creating a future.</p><p>Simondon's transductive account of the imagination is a layered and cyclical account of the image, bringing together the implicit anticipatory imagery of motor activity, the affective and cognitive projection of images in perception, and the transformation of conditions through invention. He can account for two distinguishable but inseparable dimensions of technical imagining: the practice of imagining technical objects and the imagining co-constituted by technologies within milieus. Technical imagining is a phase-shifting process that reconfigures the conditions in which images are made. Crucially, the intersection of the transductive image cycle with the individuating subject accounts for how we can imagine critically and creatively from within technology. Imaginative invention responds to an interruption, disrupting the tendency towards automation and provoking the subject to imagine otherwise. Reinserted into the milieu to resolve an impasse, externalised imaginative inventions revise the past and postulate a new future in a recursive process intersecting with individuation and transindividuation.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Stiegler, originary technicity and hypercapitalist entropy</head><p>Despite the resources Simondon offers for thinking through technical imagining, his analysis avoids addressing the capitalist, militarist and consumerist milieus of industrial technology or the politics of culture, retaining an emphasis on the integration of the organism. While he acknowledges that externalised images are collectively shared and imagining is culturally inflected, he does not explicitly address questions of intergenerational transmission. Stiegler's work takes up these aspects of technical imagining, extending Simondon's account of the relationship between humans and technical objects into an account of human originary technicity <ref type="bibr" target="#b41">(Stiegler 1998)</ref>. Changing focus from the biological organism to the body as technically extended through prosthesis, Stiegler conceptualises humans as necessarily supplemented by technics,<ref type="foot" target="#foot_3">3</ref> so they are comprised of the organic and the inorganic, which he terms 'organological' (17). His account centres on prosthetic memory, that is, the supplementation of human memory by technologies such as writing, image-making and computing. Distinguishing between primary retention (apprehension), secondary retention (memory) and tertiary retention (technical memory), he shows how secondary and primary retentions are dependent on tertiary memory (245-248) and thus on technics. Thus, technologies exterior to the human body form mnemotechnics that transmit culture intergenerationally in the co-evolution of humans and technics <ref type="bibr">(140)</ref><ref type="bibr">(141)</ref><ref type="bibr">(142)</ref><ref type="bibr">(175)</ref><ref type="bibr">(176)</ref><ref type="bibr">(177)</ref>. In the process of individuation (forming of the individual) and transindividuation (forming of the collective) mnemotechnics are introjected, so that the boundary between what is internal and external to the human body and psyche is destabilised (1-4). The imagination is formed by the complex interplay between retentions, as images found in exosomatic technologies are taken up actively or in impoverished, passive ways. As Yuk Hui points out in his discussion of imagination and artificial intelligence, as inevitably co-constituted by technics, imagination is already fundamentally artificial' (2023, 7).</p><p>Stiegler's reading of the first version of Kant's Transcendental Deduction in the CPR is relevant to this discussion. As noted previously, the first version of the Transcendental Deduction posits the synthesis of sensibility, imagination and understanding as forming the transcendental schematism, while the second version reigns in the synthesising power of the imagination to grant it to the understanding. Stiegler concludes that Kant's 'triple synthesis' of the first version can be translated into the three retentional forms: primary, secondary and tertiary (although Kant's own synthesis of reproduction mistakenly places secondary retention within apprehension) <ref type="bibr">(Stiegler 2010, 40-44)</ref>. Stiegler shows how the flux of consciousness -in this case, Kant's consciousnessfrom which the synthesis of recognition arises is produced by the technology of writing rather than a unity of apperception (58-59). He distinguishes schema (a set of relations together with its image as laid out on the page of the book, as perceived by the reader) from the 'empirical and thus contingent' (50) image, where image and schema are 'two faces of the same reality' (55). Even seemingly abstract concepts such as numbers are dependent on an image that is schematically perceived. The invented objects and externalised symbols discussed by Simondon can be understood as externalised mnemotechnical supports introjected in individuation. Stiegler describes this reciprocal relationship between schema and image as transductive (2010, 53), part of the phase-shifting process of transindividuation (a notion that Kant's hylomorphic framework cannot recognise).</p><p>Stiegler's rereading of Kant's schematism re-situates a perceiving and reflecting, decentred subject into an image flow in which hypomnesis (tertiary retention) entwines with anamnesis (primary-secondary retention). Technically produced images work as mnemonic devices enabling productive imagining and the projection of the subject's unity over time. Imagining occurs as a movement between the external and the internal in the temporalisation of individuation in which the individual introjects images to make meaning. Crucially, noetic<ref type="foot" target="#foot_4">4</ref> practices -dreams, reflection, reasoning and imagining in which individuals reflect on the conditions of their existence <ref type="bibr">(Stiegler 2018, 35-38)</ref> are part of individuation and transindividuation, culminating in invention As a pharmakon<ref type="foot" target="#foot_5">5</ref>  <ref type="bibr">(Stiegler 2016, 11;</ref><ref type="bibr">2018, 34-35)</ref>, technics can work to both support and undermine this process.</p><p>Stiegler further considers the co-shaping of mnemotechnics and cultural, political and economic milieus. He writes of how the mass communication of television and film, imbued with corporate and political interests, disrupted earlier practices of ascribing meaning and value <ref type="bibr">(2010, 3, 32-40; 2014, 18-20)</ref>. The speed and scale of their display and circulation are distracting and disorienting, so collective and individuals struggle to reflect and make meaning. Mass communication synchronises consciousness when people view temporal objects in common, which is further intensified by the automaticity of digital technologies further <ref type="bibr">(2010, 67-70; 2014, 92; 2016 15-18, 24-26, 68-67)</ref>. Networked industrialised digitisation -instrumental algorithmic decision-making and rapid image-object circulation -threatens the dynamics supporting knowledge and imagining. It automates retentions and protentions (2018 46), leading to 'the exteriorization of the imagination through the industrializing of schemata <ref type="bibr">' (2010, 211)</ref>. Circuits of individuation and transindividuation are overwhelmed, leading to proletarianisation (2016 27-28), loss of knowledge (2018 21-30) and symbolic misery <ref type="bibr">(2014, 1-13; 2010 4-5; 2016, 20-21)</ref>.</p><p>In such circumstances, inventive technical imagining is replaced by fabulating images that distract from the conditions that produce them, unable to solve the problems -the impasses and incompatibilities -of contemporary human collective and individual life (for example, climate change during the Anthropocene). This renders the life-technology system entropic, a term Stiegler adopts from thermodynamics and information theory to designate the disintegration of meaning, care and knowledge <ref type="bibr">(2018,</ref><ref type="bibr">(38)</ref><ref type="bibr">(39)</ref><ref type="bibr">(40)</ref><ref type="bibr">(41)</ref>. Countering synchronised fabulation requires engaging with digital technologies pharmacologically. Critical, technical and artistic practices can transduce temporal objects into reflection to produce new meaning <ref type="bibr">(Stiegler 2018, 43-50)</ref> and transform digital techniques, collectives and economies <ref type="bibr">(135)</ref><ref type="bibr">(136)</ref>. Turning away from hypercapitalist instrumentalism and cultivating otium (non-instrumentalised time) <ref type="bibr">(Stiegler 2016, 68-85)</ref> enables playing, reasoning and dreaming with digital image-objects. In this way, humans can generate negentropy (the force of order and organisation), which in human terms comprises 'neganthropy,' making imagination 'the neganthropic principle' <ref type="bibr">(Stiegler 2018, 101)</ref>.</p><p>With Simondon and Stiegler, we have an account of technical imagining able to address the complex relationship between GenML and imagining. As part of a transductive cycle, the image objects displaying GenML data are schematised and transformed into worlds through individuation and transindividuation, as technical imagining has long done with various temporal objects from paintings, novels, photoshopped digital images and fashion magazines. GenML continues the pace and synchronisation of earlier hypercapitalist mass image-making and circulation technologies while introducing new conditions of production. In seemingly producing images without repetition through inductive synthesis, datasets are statistically manipulated in hidden layers of neural networks to produce a latent space<ref type="foot" target="#foot_6">6</ref> of possibilities made available to users simultaneously <ref type="bibr" target="#b8">(Byrne 2023)</ref>. The datasets are usually derived from scraping the shared internet and depend on a system of 'platform seeing' (Mackenzie and Munster 2019). 7  Embedded in extractive practices <ref type="bibr" target="#b14">(Crawford 2021</ref>) such as data colonialism <ref type="bibr" target="#b13">(Couldry and Mejias 2018)</ref> and the use of cheap labour <ref type="bibr">(Crawford 2021, 53-87)</ref>, machine learning fundamentally transforms political reasoning and governance <ref type="bibr" target="#b0">(Amoore 2020)</ref>. A body of research demonstrates the racial, gender and cultural bias and stereotyping of machine learning datasets and their processing <ref type="bibr" target="#b2">(Apprich et al. 2018;</ref><ref type="bibr" target="#b4">Bianchi et al. 2023;</ref><ref type="bibr" target="#b5">Birhane, Prabhu, and Kahembwe 2021)</ref>. Imagining with GenML has collective, political and technical dimensions that form the milieu of individuating subjects, and within which they perceive and reflect on GenML-composed temporal objects. The individuating subject's perception and reflection are, I suggest, some of the 'differences between the recursive process of imagination produced by machine learning and that of the human' (Hui 2023, 8 8 ). Technical imagining recognises this difference within humans' orginary technicity, bringing with it a decentred Kantian legacy of a productive imagination that shapes rather than reflects reality. Addressing the danger of technological fabulising for imaginative and individuating processes is not a question of avoiding their use, but of engaging their pharmacological nature to enact a cure.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Imagining GenAI otherwise to the AI myth</head><p>Understanding technical imagining as recursive and organological counters the AI myth by, firstly and most obviously, not attributing imagining to humans or AI and so undermining the claim that GenML has human-like abilities. The idea that GenML can imagine is a version of the myth of the reasoning machine, which Simone Natale and Andrea Ballatore (2020) show arose with the creation of analogies between computers and minds in the development of AI in the mid to late-twentieth-century. Such a myth is bolstered by stories and images of autonomous, intelligent and creative machines that circulated before computation and addressed visions of society's operations, values and understandings of the human <ref type="bibr" target="#b11">(Cave, Dihal, and Dillon 2020)</ref>.</p><p>Scientists, technologists, policy-makers and journalists engage with AI images and narratives, deploying them to garner funding, encourage public acceptance and frame debates. Yet such narratives and myths constrain and misdirect public discourse on these technologies, concealing the interests, values and politics with which they are embroiled. Among other critics of the AI myth (for example, Floridi 2023; Roberge, Senneville, and Morin 2020; Salvaggio 2024), Lucy <ref type="bibr" target="#b46">Suchman (2023)</ref> argues that destabilising the belief in AI as an object and rendering its ontological status controversial is imperative if the social and political implications of machine learning technologies are to be adequately debated. Blurring the boundary between humans and technology, the notions of originary technicity and transindividuation broadly undermine any attempts to characterise the human independently of technology and transfer these characteristics to AI.</p><p>Secondly, organological technical imagining suggests how our interactions with GenML can operate to invent alternative imaginings of GenML. As a recursive process situated in a milieu, the (technical) imagining of technical objects can be transformed by reflective perceivers. Images only take on meaning through individuation and transindividuation when made subject to non-inhuman<ref type="foot" target="#foot_9">9</ref> apprehension, reflection and decision. Consequently, if the AI myth obstructs productive intervention into GenML and its milieus, our interactions with GenML can provide pathways towards a reimagining that transforms the milieu and redresses the impasse.</p><p>Unlike earlier AI, GenML has moved out of the lab and regularly appears to us via screens and smart speakers. The online, networked subject guides (explicitly and implicitly) GenML models via an interface to calculate outputs, which are then displayed as temporal objects of various media and communicative conventions. Differences in the display of GenML data might correspond to differences in the models used for generation (for example, LLM architectures differ from text to image architectures), or the same model can result in different modes of display (for example, the same data may be presented as both sound and image). The temporal objects derived from GenML data are styled according to function, with varying degrees of stability and interactivity. While there is a novel technicity to the 'back end' of GenML image production -image-text pairing, neural networks, transformers, data collection, vectorised statistical manipulations <ref type="bibr" target="#b8">(Byrne 2023</ref>) -interfaces and displays comprise the temporal objects commonly available to perception. The difference between these displays and consequently our interactions with GenMLs, is central to evaluating how they are taken up in technical imagining to be tested as a transformative intervention into their surrounding milieu.</p><p>The discussion below contrasts two kinds of GenML displays and our resources for critically interrogating them: the visual images produced by text-to-image generators and textual or verbal interactive images of conversational agents that appear to reciprocate human sociality. Considering how we interact with these different styles of GenMLs suggests there is no single account of how they transform imaginative practices, underscoring how they are differently situated in terms of the cultural resources we have to respond to them.</p><p>Midjourney's response to the request to generate a picture of AI is an example of nonreciprocal textual prompting to synthesise visual images. The Discord interface through which an image is requested evokes the myth that GenML imagines by requiring prompts to begin '\imagine:' <ref type="bibr" target="#b35">(Salvaggio 2023)</ref>. Using internet-trawled datasets 10 (Byrne 2023), the image generator incorporates internet stock images so that my generated image, unsurprisingly, resembles such stock images. Romele observes that stock pictures of AI are usually androgynous faces on heads comprised of technoscience symbols like particles and circuit boards <ref type="bibr">(2024,</ref><ref type="bibr">146)</ref>. He shows how the use of stock images of this kind is unpolitical because it promotes a narrow and uncritical view of the technology <ref type="bibr">(2024,</ref><ref type="bibr">(148)</ref><ref type="bibr">(149)</ref><ref type="bibr">(150)</ref><ref type="bibr">(151)</ref><ref type="bibr">(152)</ref>, drawing on Ranciere's (2006) notion of 'the distribution of the sensible' to do so. By presenting AI in a visually digestible and simplified way, these images discourage the public's critical engagement by separating the non-expert from the expert rather than informing the non-expert. Such images are a one-dimensional view of AI that focuses on hope and trust, failing to acknowledge AI's complexities and problems. The stifling of different interpretations and narratives about AI creates a false impression of consensus, depoliticising the image. Romele suggests that such bland and placating images should be replaced by 'pensive images' <ref type="bibr">(2024,</ref> of AI. Pensive images (Rancière 2011, 107) are nuanced and critical representations (however they are created) capable of provoking thought, challenging viewers' assumptions and encouraging public engagement and debate. Such images inspire a sense of complexity and ambiguity rather than simply reinforcing existing narratives.</p><p>Romele's analysis of the problems with stock images of AI is convincing, but how we take up such generated images in imagining can be further elaborated to show how free imagining is exercised to refuse the GenML image of AI. We can recall Simondon's cycle of the imagination in which symbolic imagining formulates a certain organisation of the world, one that both remembers the past and anticipates a particular future. An externalised symbol, images of AI are reinserted into the current milieu where they may resolve or perpetuate a hiatus. Consequently, the problem with bland, generic pictorial images of AI can be identified as the inadequacy of their formulation of the organisation of AI and its milieu. As an 'exaggerated anticipation' <ref type="bibr">(Simondon 2022, 70)</ref>, they convey AI as envisioned by marketing and science fiction, but do not acknowledge the complex technical, political and social ensemble of contemporary machine learning AI. The generic head image remembers a past in terms of statistical manipulations of existing, stereotypical online stock images and so projects a future in terms of the AI myth that is of limited relevance. Such images are unable to intervene in the conditions into which they are reinserted and have diminished meaning in their intersection with processes of individuation and transindividuation, hampering the formation of the individuals and collectives that are co-shaped with them. They are, in Stiegler's terms, entropic images in that their weakened meaning reduces the order necessary for life, failing to address the complexities and problems with this technology and its associated context. However, this can be countered by a noetic perceiver able to reflect on the conditions of their existence to interpret and accept or reject the image. Romele's reading of the stock AI image is one such rejection.</p><p>The refusal of the self-evident meaning of temporal objects in favour of critical, noninstrumental, and experimental living with images engenders an alternative imagination. In encountering the Midjourney produced image of AI, the noetic imaginer can relate the image to other visual images, and social and critical practices to identify GenML's specific technicity. The two-dimensional, synthesised images of text-to-image generation are continuous and contrastable with traditions of painting, illustration and photography <ref type="bibr" target="#b48">(Wasielewski 2024)</ref>, which are accompanied by various strong critical and reflective traditions (Romele's use of Rancier's notion of the 'pensive image' <ref type="bibr">(2024,</ref> is an example of drawing on such a tradition). The image can be considered in terms of social, cultural, political and aesthetic futures it projects in a productive technical imagining with the potential to create new images and narratives of GenML. Eryk <ref type="bibr">Salvaggio's (n. d.)</ref> and <ref type="bibr" target="#b28">Munster and Rossiter's (2023)</ref> creative and critical work on image generation are some examples of such technical reimagining.</p><p>Visual images made by text-to-image ML would seem to be fairly readily critically interrogated, but this is not the case for all images produced by GenML. GenMLs that display interactive outputs as writing (visual images) or spoken (aural images) with which we interact in real-time, sometimes accompanied by visual images of an avatar, engage us in a more novel genre of image-making. A Replika chatbot is one example of employing GenML in the form of Large Language Model (LLM) as a conversational agent with the goal of creating an impression of a human-like agent. Moreover, commonly used LLM GenMLs such as Claude and Siri are also increasingly styled to have personalities and communicate social agency. A GenML that responds to human spoken and written requests with synthesised written or spoken language and/or animated or mechanical gestures suggests that they are social agents. This is especially the case, Andrea Guzman establishes (2017) if they are voiced, seem intelligent and display social traits such as gender and personality, as Siri exemplifies. Styled to create an impression of a social agent, GenMLs have a goal of seeming human-like and are readily co-opted into the myth of AI. This is compounded when the GenML conversational agent's design obfuscates deliberately obfuscates its technicity. For instance, as <ref type="bibr" target="#b20">Guzman (2017)</ref> shows, designers employ feminine voices to mitigate our anxiety about working with machines that behave like humans. The critical and creative response to such interactive GenML images is complex. While the conventions and critical frameworks of art, aesthetics and studies of visual culture are readily extended to the generated visual image, the resources available to respond to the use of GenML to effect social agents apply less directly and are not as continuous with established critical conventions. Elements of a critical response could be found, for example, in diverse research on theatre studies, gaming, human-machine communication<ref type="foot" target="#foot_11">11</ref> and machine sociability. The critical and cultural resources supporting the evaluation of such images require, it would seem, greater exploration and development, and significantly differ from, those required to critically respond to generated visual images.</p><p>Keeping in mind the account of the imagination discussed previously, one resource we can use to cultivate critical resources is GenML driven social agents (and GenML more broadly) themselves. We can freely technically imagine with chatbots effecting social agency, experimenting with their motor, affective perceptual, and affective images in a transductive cycle culminating in invention. The individuating self can exercise imagination freely within the constraints of its co-constitution by technology so that symbolic and technical invention can feed back into our milieu, transforming it to create new paths forward. As Stiegler points out, non-instrumental playing, dreaming and thinking with digital technologies gives rise to this process <ref type="bibr">(2016,</ref><ref type="bibr">(68)</ref><ref type="bibr">(69)</ref><ref type="bibr">(70)</ref><ref type="bibr">(71)</ref><ref type="bibr">(72)</ref><ref type="bibr">(73)</ref><ref type="bibr">(74)</ref><ref type="bibr">(75)</ref><ref type="bibr">(76)</ref><ref type="bibr">(77)</ref><ref type="bibr">(78)</ref><ref type="bibr">(79)</ref><ref type="bibr">(80)</ref><ref type="bibr">(81)</ref><ref type="bibr">(82)</ref><ref type="bibr">(83)</ref><ref type="bibr">(84)</ref><ref type="bibr">(85)</ref>. Significantly, this practice demands that we resist the 'magical' effecting of a social agent, for magical uses of the symbolic imagination are, as Simondon writes, 'naïve … <ref type="bibr">[and]</ref> reprise a formalized content, that of the symbol, by trying to make it real again but without continuing the cycle of the image' yielding an 'illusion of a false concreteness' (2022 150). To imaginatively and critically interact with a GenML styled anthropomorphically asks that we refuse the magical effect of human sociality with its abstraction, so that it can make new 'primordial imprints' able to be transduced into invention in the image cycle.</p><p>Yet, if Simondon emphasises how magic must be resisted so that technical and symbolic inventions are integrated into a system of individuation (2022, 187), Stiegler's account of hyperindustrial networked capitalism emphasises that the false concreteness of magical effects works to conceal digital automation's conditions of production. This brings to the fore the importance of bringing our knowledge of these conditions of production to inform our creative and critical imagining with GenML-driven chatbots, for example, their basis in data colonialism and biased datasets. It asks the reflective, noetic user to refuse the stereotypes and problematic imaginaries carried in datasets and algorithmic processing and instead see them as having come to be under contingent circumstances rather than as inevitable. In this respect, creative and critical imagining follows Vilem Flusser's advice to playfully resist the automacity of the technical image (2011) -its magical, received meaning that conceals its production -to instead wonder at the technical image, where wonder is not understood as naive awe, but as a critical and creative response with the capacity to subvert the ideologies of the apparatus <ref type="bibr">(2017,</ref><ref type="bibr">(145)</ref><ref type="bibr">(146)</ref><ref type="bibr">(147)</ref><ref type="bibr">(148)</ref><ref type="bibr">(149)</ref><ref type="bibr">(150)</ref><ref type="bibr">(151)</ref><ref type="bibr">(152)</ref><ref type="bibr">(153)</ref><ref type="bibr">(154)</ref><ref type="bibr">(155)</ref><ref type="bibr">(156)</ref><ref type="bibr">(157)</ref><ref type="bibr">(158)</ref><ref type="bibr">(159)</ref><ref type="bibr">(160)</ref><ref type="bibr">(161)</ref><ref type="bibr">(162)</ref>. Refusing stereotypical, anthropomorphised meaning of GenML when it is cultivated by design is a necessary step for imaginative interaction that develops critical reflection on how such devices transform the conditions of our existence. This refusal is performed by a noetic, individuating self <ref type="bibr">(Stiegler 2018, 35-38)</ref>, able to culturally, politically, socially and aesthetically question the interactive images that form a new mnemotechnics.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Conclusion</head><p>The account of recursive technical imagining offered here addresses imagining's individual and collective dimensions. As image-producing, technical ensembles associated with a milieu, GenMLs are part of our contemporary conditions of imagining but do not determine what individuals or collectives imagine. The temporal objects through which GenML data is rendered circulate alongside other mnemotechnical forms -analogue photography and film, painting, literature, recorded sound -all of which serve as resources for reinterpreting and reshaping the GenML corpus. Part of transductive, recursive image cycles with which perceiving and reflecting subjects intersect, the temporal objects displaying GenML data are subject to critique and creative reinvention. The projection of the AI myth onto GenML is questioned, opening present GenML to be freely imaged in ways that reinscribe its past and reenvisage its future.</p></div>			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="1" xml:id="foot_0"><p>Transindividuation is an ontogenetic process sustaining the collective life of psychic individuals through metastabilization (</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" xml:id="foot_1"><p>Simondon 2020, 4-6).</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="2" xml:id="foot_2"><p>Despite this subordination, the productive imagination that synthesises perception of the first edition persists in the first Critique, going on to play a role in aesthetic judgements in the third Critique.</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="3" xml:id="foot_3"><p>The term 'technics' here translates the French la technique, or the 'technical domain or to technical practice as a whole,' which is distinguishable from la technologie (technology) and technologique (technological), which refer to the 'specific amalgamation of technics and the sciences in the modern period'(Stiegler 1998, 280-81, n. 1).</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="4" xml:id="foot_4"><p>Stiegler takes the term noesis from Aristotle, for whom it refers to the intellect as the operation of nous or thinking as a creative act of the human mind.</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="5" xml:id="foot_5"><p>Digital practices can be understood to have positive and adverse effects or, in Stiegler's terms, they act as a pharmakon -a remedy that may become poisonous(2016, 11; 2018, 34-35). For Stiegler, there are two 'epochs' of a technology as a pharmakon, the first shock of its initial arrival and a second 'epochal shock' that suspends the disruption of the pharmakon so that noetic consciousnesses are 'capable of producing their own disautomization' (emphasis in original, 2016,  11).</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="6" xml:id="foot_6"><p>A latent space presents the features of the data<ref type="bibr" target="#b8">(Byrne 2023)</ref>, that is, the data within a model that could be accessed to generate another image.</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="7" xml:id="foot_7"><p>It should be noted that while there are GenML models trained on smaller, select datasets, the large models that are widely available online use vast internet derived datasets such as LAION5B.</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="8" xml:id="foot_8"><p><ref type="bibr" target="#b22">Hui (2023)</ref> goes on to discuss this difference in terms of the infinite.</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="9" xml:id="foot_9"><p>For Stiegler, the human only comes into being as co-constituted with technology. Thus, the non-inhuman is the noetic living subject who has been constituted as human in conjunction with technology (technology in isolation is the inhuman)(2018, 65)   </p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="10" xml:id="foot_10"><p>Midjourney has not released its dataset but it has been concluded that the generator initially used LAION5-B(Andersen  et al v. Stability AI 2023, 9), known for its gender and racial bias among other problems<ref type="bibr" target="#b5">(Birhane, Prabhu, and Kahembwe 2021)</ref>.</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="11" xml:id="foot_11"><p>For example,<ref type="bibr" target="#b21">Guzman (2020)</ref> shows how interlocutors with personal assistants employ a range strategies to conceptualise the ontological difference between human and conversational vocal assistants.</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="16" xml:id="foot_12"><p>E. KERRUISH</p></note>
+		</body>
+		<back>
+
+			<div type="acknowledgement">
+<div><head>Acknowledgements</head><p>I would like to thank the reviewers of this paper for their valuable comments.</p></div>
+<div><head>Disclosure statement</head><p>No potential conflict of interest was reported by the author(s).</p></div>
+			</div>			<div type="annex">
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Notes on the contributor</head><p>Erika Kerruish is a senior lecturer at Southern Cross University. Her research draws on philosophy and cultural theory to examine critical reflection, perception and affectivity in digital culture and includes publications on film, virtual reality, and social robotics.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>ORCID</head><p>Erika Kerruish http://orcid.org/0000-0002-0445-1795</p></div>			</div>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<monogr>
+		<title level="m" type="main">Cloud Ethics: Algorithms and the Attributes of Ourselves and Others</title>
+		<author>
+			<persName><forename type="first">L</forename><surname>Amoore</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2020">2020</date>
+			<publisher>Duke University Press</publisher>
+			<pubPlace>Durham, NC</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<monogr>
+		<title/>
+		<author>
+			<persName><surname>Andersen</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2023">2023</date>
+			<biblScope unit="page" from="23" to="00201" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">C</forename><surname>Apprich</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Cramer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Hui</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Kyong</forename><surname>Chun</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Steyerl</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2018">2018</date>
+			<publisher>Meson Press</publisher>
+			<pubPlace>Minneapolis</pubPlace>
+		</imprint>
+	</monogr>
+	<note>Pattern Discrimination</note>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<monogr>
+		<title level="m" type="main">World of AI•magination</title>
+		<author>
+			<persName><surname>Artehouse</surname></persName>
+		</author>
+		<ptr target="https://www.artechouse.com/program/world-of-aimagination/" />
+		<imprint>
+			<date type="published" when="2025">2025</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title level="a" type="main">Easily Accessible Text-to-Image Generation Amplifies Demographic Stereotypes at Large Scale</title>
+		<author>
+			<persName><forename type="first">F</forename><surname>Bianchi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Kalluri</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Durmus</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Ladhak</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Cheng</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Nozza</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Hashimoto</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Jurafsky</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Zou</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Caliskan</surname></persName>
+		</author>
+		<idno type="DOI">10.1145/3593013.3594095</idno>
+		<ptr target="https://doi.org/10.1145/3593013.3594095" />
+	</analytic>
+	<monogr>
+		<title level="m">Proceedings of the 2023 ACM Conference on Fairness, Accountability, and Transparency</title>
+		<meeting>the 2023 ACM Conference on Fairness, Accountability, and Transparency</meeting>
+		<imprint>
+			<date type="published" when="2023">2023</date>
+			<biblScope unit="volume">4</biblScope>
+			<biblScope unit="page" from="1493" to="1504" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<monogr>
+		<title level="m" type="main">Multimodal datasets: misogyny, pornography, and malignant stereotypes</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Birhane</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><forename type="middle">U</forename><surname>Prabhu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Kahembwe</surname></persName>
+		</author>
+		<idno type="DOI">10.48550/arXiv.2110.01963</idno>
+		<idno>arXiv-2110</idno>
+		<ptr target="https://doi.org/10.48550/arXiv.2110.01963" />
+		<imprint>
+			<date type="published" when="2021">2021</date>
+		</imprint>
+	</monogr>
+	<note type="report_type">arXiv e-prints</note>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<monogr>
+		<author>
+			<persName><forename type="first">C</forename><surname>Bottici</surname></persName>
+		</author>
+		<title level="m">Imaginal Politics: Images beyond Imagination and the Imaginary</title>
+		<meeting><address><addrLine>New York</addrLine></address></meeting>
+		<imprint>
+			<publisher>Columbia University Press</publisher>
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title level="a" type="main">Imagination, Imaginary, Imaginal: Towards a new Social Ontology?</title>
+		<author>
+			<persName><forename type="first">C</forename><surname>Bottici</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/02691728.2019.1652861</idno>
+		<ptr target="https://doi.org/10.1080/02691728.2019.1652861" />
+	</analytic>
+	<monogr>
+		<title level="j">Social Epistemology</title>
+		<imprint>
+			<biblScope unit="volume">33</biblScope>
+			<biblScope unit="issue">5</biblScope>
+			<biblScope unit="page" from="433" to="441" />
+			<date type="published" when="2019">2019</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title level="a" type="main">A Parochial Comment on Midjourney</title>
+		<author>
+			<persName><forename type="first">U</forename><surname>Byrne</surname></persName>
+		</author>
+		<idno type="DOI">10.1177/14780771231170271</idno>
+		<ptr target="https://doi.org/10.1177/14780771231170271" />
+	</analytic>
+	<monogr>
+		<title level="j">International Journal of Architectural Computing</title>
+		<imprint>
+			<biblScope unit="volume">21</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="374" to="379" />
+			<date type="published" when="2023">2023</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<monogr>
+		<title level="m" type="main">Imagining: A Phenomenological Study</title>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">S</forename><surname>Casey</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2000">2000</date>
+			<publisher>Indiana University Press</publisher>
+			<pubPlace>Bloomington, IN</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<monogr>
+		<title level="m" type="main">The Imaginary Institution of Society</title>
+		<author>
+			<persName><forename type="first">C</forename><surname>Castoriadis</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1987">1987</date>
+			<publisher>Polity</publisher>
+			<pubPlace>London</pubPlace>
+		</imprint>
+	</monogr>
+	<note>Translated by Kathleen Blarney</note>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<monogr>
+		<author>
+			<persName><forename type="first">S</forename><surname>Cave</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Dihal</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Dillon</surname></persName>
+		</author>
+		<title level="m">AI Narratives: A History of Imaginative Thinking about Intelligent Machines</title>
+		<meeting><address><addrLine>Oxford</addrLine></address></meeting>
+		<imprint>
+			<publisher>Oxford University Press</publisher>
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<monogr>
+		<title level="m" type="main">Updating to Remain the Same: Habitual New Media</title>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">H K</forename><surname>Chun</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2016">2016</date>
+			<publisher>The MIT Press</publisher>
+			<pubPlace>Cambridge, MA</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<title level="a" type="main">Data Colonialism: Rethinking Big Data&apos;s Relation to the Contemporary Subject</title>
+		<author>
+			<persName><forename type="first">N</forename><surname>Couldry</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">U</forename><forename type="middle">A</forename><surname>Mejias</surname></persName>
+		</author>
+		<idno type="DOI">10.1177/1527476418796632</idno>
+		<ptr target="https://doi-org.ezproxy.scu.edu.au/10.11771527476418796632" />
+	</analytic>
+	<monogr>
+		<title level="j">Television &amp; New Media</title>
+		<imprint>
+			<biblScope unit="volume">20</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="336" to="349" />
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<monogr>
+		<title level="m" type="main">The Atlas of AI: Power, Politics, and the Planetary Costs of Artificial Intelligence</title>
+		<author>
+			<persName><forename type="first">K</forename><surname>Crawford</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2021">2021</date>
+			<publisher>Yale University Press</publisher>
+			<pubPlace>New Haven, CT</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title level="a" type="main">Claude, Llama, And Others Appear To Surprisingly Have A &apos;Shared Imagination&apos; That Could Vastly Impact The Future Of AI</title>
+		<author>
+			<persName><forename type="first">L</forename><surname>Eliot</surname></persName>
+		</author>
+		<ptr target="https://www.forbes.com/sites/lanceeliot/2024/08/13/generative-ai-apps-Such-as-chatgpt-claude-llama-and-Others-appear-to-surprisingly-Have-a-shared-imagination-That-Could-vastly-impact-the-future-of-ai/" />
+	</analytic>
+	<monogr>
+		<title level="m">Generative AI Apps Such As ChatGPT</title>
+		<imprint>
+			<date type="published" when="2024-08-14">2024. August 14</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<title level="a" type="main">Large Language Models, and Other Generative Models</title>
+		<author>
+			<persName><forename type="first">L</forename><surname>Floridi</surname></persName>
+		</author>
+		<idno type="DOI">10.1007/s13347-023-00621-y</idno>
+		<ptr target="https://doi.org/10.1007/s13347-023-00621-y" />
+	</analytic>
+	<monogr>
+		<title level="m">AI as Agency without Intelligence: On ChatGPT</title>
+		<imprint>
+			<date type="published" when="2023">2023</date>
+			<biblScope unit="volume">36</biblScope>
+			<biblScope unit="page">15</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<monogr>
+		<title level="m" type="main">Into the Universe of Technical Images. Introduction by Mark Poster</title>
+		<author>
+			<persName><forename type="first">V</forename><surname>Flusser</surname></persName>
+		</author>
+		<editor>Nancy Ann Roth</editor>
+		<imprint>
+			<date type="published" when="2011">2011</date>
+			<publisher>University of Minnesota Press</publisher>
+			<pubPlace>Minneapolis</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">V</forename><surname>Flusser</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2017">2017</date>
+			<publisher>Metaflux Publishing</publisher>
+			<pubPlace>São Paulo</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">R</forename><surname>Galloway</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2012">2012</date>
+			<publisher>Polity</publisher>
+			<pubPlace>Cambridge</pubPlace>
+		</imprint>
+	</monogr>
+	<note type="report_type">The Interface Effect</note>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<analytic>
+		<title level="a" type="main">Making AI Safe for Humans: A Conversation with Siri</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Guzman</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Socialbots and Their Friends: Digital Media and the Automation of Sociality</title>
+		<editor>
+			<persName><forename type="first">R</forename><forename type="middle">W</forename><surname>Gehl</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">M</forename><surname>Bakardjieva</surname></persName>
+		</editor>
+		<meeting><address><addrLine>New York</addrLine></address></meeting>
+		<imprint>
+			<publisher>Routledge</publisher>
+			<date type="published" when="2017">2017</date>
+			<biblScope unit="page" from="69" to="85" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<analytic>
+		<title level="a" type="main">Ontological Boundaries between Humans and Computers and the Implications for Human-Machine Communication</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">L</forename><surname>Guzman</surname></persName>
+		</author>
+		<idno type="DOI">10.30658/hmc.1.3</idno>
+		<ptr target="https://doi.org/10.30658/hmc.1.3" />
+	</analytic>
+	<monogr>
+		<title level="j">Human-Machine Communication</title>
+		<imprint>
+			<biblScope unit="volume">1</biblScope>
+			<biblScope unit="page" from="37" to="54" />
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<analytic>
+		<title level="a" type="main">Imagination and the Infinite -a Critique of Artificial Imagination</title>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Hui</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Balkan Journal of Philosophy</title>
+		<imprint>
+			<biblScope unit="volume">15</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="5" to="12" />
+			<date type="published" when="2023">2023</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<monogr>
+		<author>
+			<persName><forename type="first">S</forename><surname>Jasanoff</surname></persName>
+		</author>
+		<title level="m">Dreamscapes of Modernity: Sociotechnical Imaginaries and the Fabrication of Power</title>
+		<editor>
+			<persName><forename type="first">S</forename><surname>Jasanoff</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">S</forename><surname>Kim</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Chicago</addrLine></address></meeting>
+		<imprint>
+			<publisher>University of Chicago Press</publisher>
+			<date type="published" when="2015">2015</date>
+			<biblScope unit="page" from="1" to="33" />
+		</imprint>
+	</monogr>
+	<note>Future Imperfect: Science, Technology, and the Imaginations of Modernity</note>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<monogr>
+		<title level="m" type="main">Immanuel Kant&apos;s Critique of Pure Reason</title>
+		<author>
+			<persName><forename type="first">I</forename><surname>Kant</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1992">1992</date>
+			<publisher>MacMillan Press</publisher>
+			<pubPlace>Trans. Smith, N. K. London</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<monogr>
+		<title level="m" type="main">Imagination and the Imaginary</title>
+		<author>
+			<persName><forename type="first">K</forename><surname>Lennon</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2015">2015</date>
+			<publisher>Routledge</publisher>
+			<pubPlace>New York</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<analytic>
+		<title level="a" type="main">Platform Seeing: Image Ensembles and Their Invisualities</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Mackenzie</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Munster</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Theory, Culture &amp; Society</title>
+		<imprint>
+			<biblScope unit="volume">36</biblScope>
+			<biblScope unit="issue">5</biblScope>
+			<biblScope unit="page" from="3" to="22" />
+			<date type="published" when="2019">2019</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b27">
+	<monogr>
+		<author>
+			<persName><forename type="first">L</forename><surname>Manovich</surname></persName>
+		</author>
+		<title level="m">The Language of New Media</title>
+		<meeting><address><addrLine>Cambridge, MA</addrLine></address></meeting>
+		<imprint>
+			<publisher>MIT Press</publisher>
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b28">
+	<analytic>
+		<title level="a" type="main">Performing the Automated Image</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Munster</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Rossiter</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Choreomata: Performance and Performativity after AI</title>
+		<editor>
+			<persName><forename type="first">R</forename><forename type="middle">A</forename><surname>Trillo</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">M</forename><surname>Poliks</surname></persName>
+		</editor>
+		<meeting><address><addrLine>New York</addrLine></address></meeting>
+		<imprint>
+			<publisher>Chapman and Hall/CRC</publisher>
+			<date type="published" when="2023">2023</date>
+			<biblScope unit="page" from="47" to="73" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b29">
+	<analytic>
+		<title level="a" type="main">Imagining the Thinking Machine: Technological Myths and the Rise of Artificial Intelligence</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Natale</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Ballatore</surname></persName>
+		</author>
+		<idno type="DOI">10.1177/1354856517715</idno>
+		<ptr target="https://doi.org/10.1177/1354856517715" />
+	</analytic>
+	<monogr>
+		<title level="j">Convergence</title>
+		<imprint>
+			<biblScope unit="volume">26</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="3" to="18" />
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b30">
+	<monogr>
+		<title level="m" type="main">The Politics of Aesthetics: The Distribution of the Sensible</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Rancière</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2006">2006</date>
+			<pubPlace>London</pubPlace>
+		</imprint>
+	</monogr>
+	<note>Translated Gabriel Rockhill</note>
+</biblStruct>
+
+<biblStruct xml:id="b31">
+	<monogr>
+		<author>
+			<persName><forename type="first">J</forename><surname>Rancière</surname></persName>
+		</author>
+		<title level="m">The Emancipated Spectator</title>
+		<meeting><address><addrLine>London</addrLine></address></meeting>
+		<imprint>
+			<publisher>Verso</publisher>
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b32">
+	<monogr>
+		<author>
+			<persName><forename type="first">P</forename><surname>Ricoeur</surname></persName>
+		</author>
+		<title level="m">Lectures on Ideology and Utopia</title>
+		<meeting><address><addrLine>New York</addrLine></address></meeting>
+		<imprint>
+			<publisher>Columbia University Press</publisher>
+			<date type="published" when="1986">1986</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b33">
+	<analytic>
+		<title level="a" type="main">How to Translate Artificial Intelligence? Myths and Justifications in Public Discourse</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Roberge</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Senneville</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Morin</surname></persName>
+		</author>
+		<idno type="DOI">10.1177/2053951720919</idno>
+		<ptr target="https://doi.org/10.1177/2053951720919" />
+	</analytic>
+	<monogr>
+		<title level="j">Big Data &amp; Society</title>
+		<imprint>
+			<biblScope unit="volume">7</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="1" to="13" />
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b34">
+	<monogr>
+		<title level="m" type="main">Digital Habitus: A Critique of the Imaginaries of Artificial Intelligence</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Romele</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2024">2024</date>
+			<publisher>Routledge</publisher>
+			<pubPlace>New York</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b35">
+	<analytic>
+		<title level="a" type="main">How to Read a Generative AI Image System: Diffusion models as a technosocial entanglement</title>
+		<author>
+			<persName><forename type="first">E</forename><surname>Salvaggio</surname></persName>
+		</author>
+		<ptr target="https://rsdsymposium.org/reading-a-generative-ai-system" />
+	</analytic>
+	<monogr>
+		<title level="m">Proceedings of Relating Systems Thinking and Design</title>
+		<meeting>Relating Systems Thinking and Design<address><addrLine>Washington DC, USA</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2023-10-06">2023. October 6-20, 2023</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b36">
+	<monogr>
+		<title level="m" type="main">Challenging the Myths of Generative AI</title>
+		<author>
+			<persName><forename type="first">E</forename><surname>Salvaggio</surname></persName>
+		</author>
+		<ptr target="https://www.techpolicy.press/challenging-the-myths-of-generative-ai/?ref=mail.cyberneticforests.com" />
+		<imprint>
+			<date type="published" when="2024">2024</date>
+			<publisher>Tech Policy Press</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b37">
+	<monogr>
+		<title level="m" type="main">On the Mode of Existence of Technical Objects</title>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">N D</forename><surname>Salvaggio</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Cybernetic Forests</surname></persName>
+		</author>
+		<ptr target="https://www.cyberneticforests.com/Simondon" />
+		<editor>C. Malaspina and J. Rogove</editor>
+		<imprint>
+			<date type="published" when="2017">2017</date>
+			<publisher>Univocal Press</publisher>
+			<pubPlace>Minneapolis</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b38">
+	<analytic>
+		<title level="a" type="main">The Genesis of the Individual</title>
+		<author>
+			<persName><forename type="first">G</forename><surname>Simondon</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Incorporations: Zone 6</title>
+		<editor>
+			<persName><forename type="first">Jo</forename><surname>Crary</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">S</forename><surname>Kwinter</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Cambridge, MA</addrLine></address></meeting>
+		<imprint>
+			<publisher>MIT Press</publisher>
+			<date type="published" when="1992">1992</date>
+			<biblScope unit="page" from="296" to="319" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b39">
+	<monogr>
+		<title level="m" type="main">Individuation in Light of Notions of Form and Information</title>
+		<author>
+			<persName><forename type="first">G</forename><surname>Simondon</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2020">2020</date>
+			<publisher>University of Minnesota Press</publisher>
+			<pubPlace>Minneapolis</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b40">
+	<monogr>
+		<title level="m" type="main">Imagination and Invention</title>
+		<author>
+			<persName><forename type="first">G</forename><surname>Simondon</surname></persName>
+		</author>
+		<editor>J. Hughes and Christophe Wall-Romana</editor>
+		<imprint>
+			<date type="published" when="2022">2022</date>
+			<publisher>University of Minnesota Press</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b41">
+	<monogr>
+		<title level="m" type="main">Technics and Time 1: The Fault of Epimetheus</title>
+		<author>
+			<persName><forename type="first">B</forename><surname>Stiegler</surname></persName>
+		</author>
+		<editor>R. Beardsworth and G. Collins</editor>
+		<imprint>
+			<date type="published" when="1998">1998</date>
+			<publisher>Stanford University Press</publisher>
+			<pubPlace>Stanford</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b42">
+	<analytic>
+		<title level="a" type="main">Cinematic Time and the Question of Malaise</title>
+		<author>
+			<persName><forename type="first">B</forename><surname>Stiegler</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Technics and Time</title>
+		<imprint>
+			<biblScope unit="volume">3</biblScope>
+			<date type="published" when="2010">2010</date>
+			<publisher>Stanford University Press</publisher>
+			<pubPlace>Stanford</pubPlace>
+		</imprint>
+	</monogr>
+	<note>Translated by Stephen Barker</note>
+</biblStruct>
+
+<biblStruct xml:id="b43">
+	<analytic>
+		<title level="a" type="main">Symbolic Misery</title>
+		<author>
+			<persName><forename type="first">B</forename><surname>Stiegler</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">The Hyper-industrial Epoch</title>
+		<meeting><address><addrLine>Cambridge</addrLine></address></meeting>
+		<imprint>
+			<publisher>Polity Press</publisher>
+			<date type="published" when="2014">2014</date>
+			<biblScope unit="volume">1</biblScope>
+		</imprint>
+	</monogr>
+	<note>Translated by Barnaby Norman</note>
+</biblStruct>
+
+<biblStruct xml:id="b44">
+	<monogr>
+		<title level="m" type="main">Automatic Society: The Future of Work</title>
+		<author>
+			<persName><forename type="first">B</forename><surname>Stiegler</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2016">2016</date>
+			<publisher>John Wiley &amp; Sons</publisher>
+			<pubPlace>Hoboken, NJ</pubPlace>
+		</imprint>
+	</monogr>
+	<note>Translated by D. Ross.</note>
+</biblStruct>
+
+<biblStruct xml:id="b45">
+	<monogr>
+		<title level="m" type="main">The Neganthropocene</title>
+		<author>
+			<persName><forename type="first">B</forename><surname>Stiegler</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2018">2018</date>
+			<publisher>Open Humanities Press</publisher>
+			<pubPlace>London</pubPlace>
+		</imprint>
+	</monogr>
+	<note>Translated by D. Ross</note>
+</biblStruct>
+
+<biblStruct xml:id="b46">
+	<analytic>
+		<title level="a" type="main">The Uncontroversial &apos;Thingness&apos; of AI</title>
+		<author>
+			<persName><forename type="first">L</forename><surname>Suchman</surname></persName>
+		</author>
+		<idno type="DOI">10.1177/20539517231206794</idno>
+		<ptr target="https://doi.org/10.1177/20539517231206794" />
+	</analytic>
+	<monogr>
+		<title level="j">Big Data and Society</title>
+		<imprint>
+			<biblScope unit="volume">10</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="1" to="5" />
+			<date type="published" when="2023">2023</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b47">
+	<analytic>
+		<title level="a" type="main">Invention and Capture: A Critique of Simondon</title>
+		<author>
+			<persName><forename type="first">D</forename><surname>Voss</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/14735784.2019.1679652</idno>
+		<ptr target="https://doi.org/10.1080/14735784.2019.1679652" />
+	</analytic>
+	<monogr>
+		<title level="j">Culture, Theory and Critique</title>
+		<imprint>
+			<biblScope unit="volume">60</biblScope>
+			<biblScope unit="issue">3-4</biblScope>
+			<biblScope unit="page" from="279" to="299" />
+			<date type="published" when="2019">2019</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b48">
+	<analytic>
+		<title level="a" type="main">DALL-E in Flatland: Illusion, Space, and AI-Generated Images</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Wasielewski</surname></persName>
+		</author>
+		<idno type="DOI">10.70064/mt.v8i1.1073</idno>
+		<ptr target="https://doi.org/10.70064/mt.v8i1.1073" />
+	</analytic>
+	<monogr>
+		<title level="j">Media Theory</title>
+		<imprint>
+			<biblScope unit="volume">8</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="185" to="204" />
+			<date type="published" when="2024">2024</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b49">
+	<analytic>
+		<title level="a" type="main">Posthuman Imagination: From Modernity to Augmented Reality</title>
+		<author>
+			<persName><forename type="first">G</forename><surname>Wellner</surname></persName>
+		</author>
+		<idno type="DOI">10.5325/jpoststud.2.1.0045</idno>
+		<ptr target="https://doi.org/10.5325/jpoststud.2.1.0045" />
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Posthuman Studies</title>
+		<imprint>
+			<biblScope unit="volume">2</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="45" to="66" />
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b50">
+	<analytic>
+		<title level="a" type="main">Digital Imagination: Ihde&apos;s and Stiegler&apos;s Concepts of Imagination</title>
+		<author>
+			<persName><forename type="first">G</forename><surname>Wellner</surname></persName>
+		</author>
+		<idno type="DOI">10.1007/s10699-020-09737-2</idno>
+		<ptr target="https://doi.org/10.1007/s10699-020-09737-2" />
+	</analytic>
+	<monogr>
+		<title level="j">Foundations of Science</title>
+		<imprint>
+			<biblScope unit="volume">27</biblScope>
+			<biblScope unit="page" from="189" to="204" />
+			<date type="published" when="2022">2022</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b51">
+	<analytic>
+		<title level="a" type="main">Can Algorithms Imagine?</title>
+		<author>
+			<persName><forename type="first">G</forename><surname>Wellner</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">The Philosophy of Imagination: Technology, Art and Ethics</title>
+		<editor>
+			<persName><forename type="first">G</forename><surname>Wellner</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">G</forename><surname>Dierckxsens</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">M</forename><surname>Arienti</surname></persName>
+		</editor>
+		<meeting><address><addrLine>London</addrLine></address></meeting>
+		<imprint>
+			<publisher>Bloomsbury Publishing</publisher>
+			<date type="published" when="2024">2024</date>
+			<biblScope unit="page" from="30" to="41" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>
