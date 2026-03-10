@@ -78,11 +78,11 @@ These values represent the **overall mean** across all articles and can serve as
 
 | Section | % Articles | Avg MTLD | Avg Sentence Length |
 |---------|-----------|----------|---------------------|
-| BODY | 7% | 122.33 | 23.90 |
-| CONCLUSION | 70% | 111.43 | 27.05 |
+| ARGUMENT | 100% | 84.39 | 21.89 |
+| CONCLUSION | 73% | 110.32 | 27.48 |
 | DISCUSSION | 7% | 46.81 | 12.37 |
+| FRAMEWORK | 20% | 85.35 | 22.65 |
 | INTRO | 57% | 100.35 | 25.31 |
-| OTHER | 97% | 80.89 | 21.62 |
 
 
 ### 💡 Writer's Takeaway
@@ -130,11 +130,11 @@ These values represent the **overall mean** across all articles and can serve as
 
 | Section | % Articles | Avg MTLD | Avg Sentence Length |
 |---------|-----------|----------|---------------------|
-| BODY | 3% | 91.04 | 24.90 |
+| ARGUMENT | 100% | 75.74 | 22.21 |
 | CONCLUSION | 63% | 97.62 | 29.10 |
 | DISCUSSION | 3% | 135.33 | 26.80 |
+| FRAMEWORK | 3% | 110.00 | 23.21 |
 | INTRO | 37% | 100.43 | 29.41 |
-| OTHER | 100% | 75.24 | 22.25 |
 
 
 ### 💡 Writer's Takeaway
@@ -182,11 +182,11 @@ These values represent the **overall mean** across all articles and can serve as
 
 | Section | % Articles | Avg MTLD | Avg Sentence Length |
 |---------|-----------|----------|---------------------|
-| BODY | 0% | – | – |
-| CONCLUSION | 71% | 127.49 | 27.37 |
+| ARGUMENT | 100% | 95.01 | 22.36 |
+| CONCLUSION | 75% | 126.73 | 27.34 |
 | DISCUSSION | 4% | 107.26 | 27.19 |
+| FRAMEWORK | 7% | 94.82 | 25.39 |
 | INTRO | 75% | 117.33 | 28.44 |
-| OTHER | 100% | 95.17 | 22.41 |
 
 
 ### 💡 Writer's Takeaway
@@ -234,11 +234,11 @@ These values represent the **overall mean** across all articles and can serve as
 
 | Section | % Articles | Avg MTLD | Avg Sentence Length |
 |---------|-----------|----------|---------------------|
-| BODY | 0% | – | – |
+| ARGUMENT | 100% | 77.76 | 24.63 |
 | CONCLUSION | 78% | 99.50 | 31.25 |
 | DISCUSSION | 0% | – | – |
+| FRAMEWORK | 17% | 95.43 | 23.73 |
 | INTRO | 67% | 95.83 | 29.79 |
-| OTHER | 100% | 78.43 | 24.69 |
 
 
 ### 💡 Writer's Takeaway
@@ -286,11 +286,11 @@ These values represent the **overall mean** across all articles and can serve as
 
 | Section | % Articles | Avg MTLD | Avg Sentence Length |
 |---------|-----------|----------|---------------------|
-| BODY | 0% | – | – |
+| ARGUMENT | 100% | 86.91 | 22.72 |
 | CONCLUSION | 88% | 102.52 | 26.34 |
 | DISCUSSION | 6% | 107.12 | 34.94 |
+| FRAMEWORK | 6% | 106.10 | 25.49 |
 | INTRO | 59% | 111.93 | 31.27 |
-| OTHER | 100% | 87.27 | 22.82 |
 
 
 ### 💡 Writer's Takeaway
