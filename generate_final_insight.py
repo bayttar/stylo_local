@@ -30,7 +30,7 @@ ABSTRACT_TEXT = (
     "This study presents a full-stack stylometric pipeline for Digital Humanities that separates "
     "journal-driven structure from authorial style in a corpus of 125 academic articles. We first "
     "compress high-dimensional section data (7,621+ structural features) into five canonical categories "
-    "(INTRO, BODY, DISCUSSION, CONCLUSION, OTHER), yielding substantial dimensionality reduction while "
+    "(INTRO, FRAMEWORK, ARGUMENT, DISCUSSION, CONCLUSION), yielding substantial dimensionality reduction while "
     "preserving interpretable rhetorical scaffolding. Metadata enrichment combines TEI extraction with "
     "DOI/CrossRef fallback and a smart validation gate focused on analysis-critical fields, producing "
     "98.4% journal coverage. At article level, we estimate journal effects with one-way ANOVA and "
@@ -57,16 +57,17 @@ def is_missing(v: object) -> bool:
 def canonical_section(section_name: str) -> str:
     s = clean_text(section_name).lower()
     if len(s) < 3:
-        return "OTHER"
-    if re.search(r"\b(introduction|background|context)\b", s):
+        return "ARGUMENT"
+    # FRAMEWORK before INTRO so "Critical Context" → FRAMEWORK not INTRO
+    if re.search(r"\b(theory|theoretical|framework|literature review|critical context|scholarship|criticism|historiography|methodology|method|approach)\b", s):
+        return "FRAMEWORK"
+    if re.search(r"\b(introduction|background|context|preamble|overview|preface|opening)\b", s):
         return "INTRO"
-    if re.search(r"\b(discussion|interpretation|implications)\b", s):
+    if re.search(r"\b(discussion|implications|interpretation|significance|broader context|wider implications)\b", s):
         return "DISCUSSION"
-    if re.search(r"\b(conclusion|summary|final remarks)\b", s):
+    if re.search(r"\b(conclusion|summary|final remarks|coda|afterword|epilogue|concluding|closing)\b", s):
         return "CONCLUSION"
-    if re.search(r"\b(method|result|analysis|case study|experimental)\b", s) or SECTION_NUM_RE.match(s):
-        return "BODY"
-    return "OTHER"
+    return "ARGUMENT"
 
 
 def ensure_files(paths: Iterable[Path]) -> None:
@@ -145,7 +146,7 @@ def section_b_mapping_and_word_counts() -> tuple[str, str]:
                 wc = len(WORD_RE.findall(text))
                 total_section_instances += 1
                 heading_set.add(name.lower())
-                if cat != "OTHER":
+                if cat != "ARGUMENT":
                     non_other_instances += 1
                     heading_non_other.add(name.lower())
                 rows.append({"canonical": cat, "word_count": wc})
@@ -156,7 +157,7 @@ def section_b_mapping_and_word_counts() -> tuple[str, str]:
         .mean()
         .rename(columns={"word_count": "avg_word_count"})
     )
-    order = ["INTRO", "BODY", "DISCUSSION", "CONCLUSION", "OTHER"]
+    order = ["INTRO", "FRAMEWORK", "ARGUMENT", "DISCUSSION", "CONCLUSION"]
     wc_summary["canonical"] = pd.Categorical(wc_summary["canonical"], categories=order, ordered=True)
     wc_summary = wc_summary.sort_values("canonical")
 
@@ -168,8 +169,8 @@ def section_b_mapping_and_word_counts() -> tuple[str, str]:
         f"- Original wide columns: {orig_cols}\n"
         f"- Canonical wide columns: {canon_cols}\n"
         f"- Compression (feature reduction): {compression*100:.2f}%\n"
-        f"- Mapping success (section instances mapped to INTRO/BODY/DISCUSSION/CONCLUSION): {mapping_success_instances*100:.2f}%\n"
-        f"- Mapping success (unique headings mapped to INTRO/BODY/DISCUSSION/CONCLUSION): {mapping_success_unique*100:.2f}%"
+        f"- Mapping success (section instances mapped to INTRO/FRAMEWORK/ARGUMENT/DISCUSSION/CONCLUSION): {mapping_success_instances*100:.2f}%\n"
+        f"- Mapping success (unique headings mapped to INTRO/FRAMEWORK/ARGUMENT/DISCUSSION/CONCLUSION): {mapping_success_unique*100:.2f}%"
     )
     return text, df_to_md(wc_summary)
 

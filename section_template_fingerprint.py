@@ -3,15 +3,15 @@ import pandas as pd
 import re
 
 CANON = [
-    ("ABSTRACT", [r"\babstract\b"]),
-    ("INTRO", [r"\bintroduction\b", r"\bbackground\b", r"\boverview\b"]),
-    ("LITREV", [r"\bliterature\b", r"\btheoretical\b", r"\bframework\b", r"\bstate of the art\b"]),
-    ("METHODS", [r"\bmethod\b", r"\bmethodology\b", r"\bmaterials\b", r"\bdata\b", r"\bcorpus\b"]),
-    ("RESULTS", [r"\bresults\b", r"\bfindings\b", r"\banalysis\b"]),
-    ("DISCUSSION", [r"\bdiscussion\b", r"\bimplications\b"]),
-    ("CONCLUSION", [r"\bconclusion\b", r"\bconcluding\b", r"\bfinal\b"]),
-    ("ACK", [r"\backnowledg", r"\bthanks\b"]),
-    ("REFERENCES", [r"\breferences\b", r"\bbibliograph", r"\bworks cited\b"]),
+    ("FRAMEWORK", [r"\btheory\b", r"\btheoretical\b", r"\bframework\b", r"\bliterature review\b",
+                    r"\bcritical context\b", r"\bscholarship\b", r"\bcriticism\b", r"\bhistoriography\b",
+                    r"\bmethodology\b", r"\bmethod\b", r"\bapproach\b", r"\bliterature\b"]),
+    ("INTRO", [r"\bintroduction\b", r"\bbackground\b", r"\bcontext\b", r"\bpreamble\b",
+               r"\boverview\b", r"\bpreface\b", r"\bopening\b"]),
+    ("DISCUSSION", [r"\bdiscussion\b", r"\bimplications\b", r"\binterpretation\b",
+                     r"\bsignificance\b", r"\bbroader context\b"]),
+    ("CONCLUSION", [r"\bconclusion\b", r"\bconcluding\b", r"\bfinal\b", r"\bcoda\b",
+                     r"\bafterword\b", r"\bepilogue\b", r"\bclosing\b", r"\bsummary\b"]),
 ]
 
 def canonise(name: str) -> str:
@@ -21,7 +21,7 @@ def canonise(name: str) -> str:
         for p in pats:
             if re.search(p, s):
                 return label
-    return "OTHER"
+    return "ARGUMENT"
 
 def main():
     base = Path.home() / "stylo_local" / "stylo_out" / "grobid_sections"
