@@ -13,19 +13,18 @@ def norm_head(s: str) -> str:
 
     if "abstract" in s_low:
         return "Abstract"
-    if any(k in s_low for k in ["introduction", "background"]):
+    if any(k in s_low for k in ["theory", "theoretical", "framework", "literature review", "critical context",
+                                  "scholarship", "criticism", "historiography", "methodology", "method", "approach"]):
+        return "Framework"
+    if any(k in s_low for k in ["introduction", "background", "context", "preamble", "overview", "preface", "opening"]):
         return "Introduction"
-    if any(k in s_low for k in ["method", "materials", "methodology", "data", "corpus"]):
-        return "Methods"
-    if any(k in s_low for k in ["result", "findings"]):
-        return "Results"
-    if any(k in s_low for k in ["discussion", "analysis"]):
+    if any(k in s_low for k in ["discussion", "implications", "interpretation", "significance",
+                                  "broader context", "wider implications"]):
         return "Discussion"
-    if any(k in s_low for k in ["conclusion", "concluding", "limitations", "future work"]):
+    if any(k in s_low for k in ["conclusion", "concluding", "closing", "summary", "final remarks",
+                                  "coda", "afterword", "epilogue"]):
         return "Conclusion"
-    if any(k in s_low for k in ["references", "bibliography"]):
-        return "References"
-    return s if s else "Untitled"
+    return "Argument"
 
 def tei_to_sections(tei_path: Path) -> Dict[str, Any]:
     tree = etree.parse(str(tei_path))

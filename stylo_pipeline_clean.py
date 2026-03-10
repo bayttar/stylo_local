@@ -45,7 +45,7 @@ DEFAULT_SECTIONS_INPUT_JSONL = DEFAULT_SECTIONS_OUT / "sections.jsonl"
 DEFAULT_CANONICAL_SECTIONS_OUTPUT = DEFAULT_OUT_DIR / "canonical_sections_wide.csv"
 DEFAULT_FINAL_REPORT_PATH = DEFAULT_OUT_DIR / "ULTIMATE_REPORT_V3.md"
 MIN_GROUP_SIZE = 2
-CANONICAL_SECTIONS = ["INTRO", "BODY", "DISCUSSION", "CONCLUSION", "OTHER"]
+CANONICAL_SECTIONS = ["INTRO", "FRAMEWORK", "ARGUMENT", "DISCUSSION", "CONCLUSION"]
 WORD_RE = re.compile(r"[A-Za-z]+(?:'[A-Za-z]+)?")
 SENTENCE_SPLIT_RE = re.compile(r"[.!?]+")
 SECTION_NUM_RE = re.compile(r"^\s*(\d+[\.\)]|[ivxlcdm]+[\.\)])\s*", re.IGNORECASE)
@@ -674,17 +674,21 @@ def run_metrics_stage(args: argparse.Namespace) -> None:
 def _canonical_section_label(section_name: str) -> str:
     s = clean_text(section_name).lower()
     if len(s) < 3:
-        return "OTHER"
+        return "ARGUMENT"
 
-    if re.search(r"\b(introduction|background|context)\b", s):
+    if re.search(
+        r"\b(theor(y|etical)|framework|literature review|critical context|scholarship|"
+        r"criticism|historiography|method(ology|s)?|approach)\b",
+        s,
+    ):
+        return "FRAMEWORK"
+    if re.search(r"\b(introduction|background|context|preamble|overview|preface|opening)\b", s):
         return "INTRO"
-    if re.search(r"\b(discussion|interpretation|implications)\b", s):
+    if re.search(r"\b(discussion|implications|interpretation|significance|broader context|wider implications)\b", s):
         return "DISCUSSION"
-    if re.search(r"\b(conclusion|summary|final remarks)\b", s):
+    if re.search(r"\b(conclusion|summary|final remarks|coda|afterword|epilogue|concluding|closing)\b", s):
         return "CONCLUSION"
-    if re.search(r"\b(method|result|analysis|case study|experimental)\b", s) or SECTION_NUM_RE.match(s):
-        return "BODY"
-    return "OTHER"
+    return "ARGUMENT"
 
 
 def _safe_mtld(text: str) -> float:
