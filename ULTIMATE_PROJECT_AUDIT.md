@@ -25,18 +25,18 @@ This audit consolidates the full analytics lifecycle with methodological and inf
 - Missingness after reducing 7,621 structural columns into 5 canonical section categories.
 
 **Teknik Veri / Tablo**
-- Original structural feature count: 7621
+- Original structural feature count: 91
 - Canonical structural feature count: 10
 | category | missingness_ratio | missingness_pct |
 | --- | --- | --- |
-| BODY | 0.976 | 97.6 |
 | DISCUSSION | 0.96 | 96 |
-| INTRO | 0.416 | 41.6 |
-| CONCLUSION | 0.272 | 27.2 |
-| OTHER | 0.008 | 0.8 |
+| FRAMEWORK | 0.904 | 90.4 |
+| INTRO | 0.408 | 40.8 |
+| CONCLUSION | 0.256 | 25.6 |
+| ARGUMENT | 0 | 0 |
 
 **Akademik Cikarim**
-- Highest uncertainty appears in `BODY`; this indicates that some rhetorical units are less consistently recoverable across articles (especially discussion-like segments).
+- Highest uncertainty appears in `DISCUSSION`; this indicates that some rhetorical units are less consistently recoverable across articles (especially discussion-like segments).
 
 ### (C) Metadata
 **Neye Bakildi**
@@ -95,8 +95,8 @@ Note: Values are normalized in [0,1] via SS_between / SS_total.
 **Teknik Veri / Tablo**
 | metric | value |
 | --- | ---: |
-| Pearson r | -0.0523 |
-| p-value | 0.5654 |
+| Pearson r | -0.0530 |
+| p-value | 0.5604 |
 
 **Akademik Cikarim**
 - "Iskelet (Structure) neden Ruhu (Style) yonetemiyor?": Because the observed coupling is near-zero and statistically non-significant, structural templates operate as editorial scaffolds without tightly determining residual stylistic expression.

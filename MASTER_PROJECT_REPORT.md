@@ -1,7 +1,7 @@
 # MASTER PROJECT REPORT
 
 ## Abstract
-This study presents a full-stack stylometric pipeline for Digital Humanities that separates journal-driven structure from authorial style in a corpus of 125 academic articles. We first compress high-dimensional section data (7,621+ structural features) into five canonical categories (INTRO, BODY, DISCUSSION, CONCLUSION, OTHER), yielding substantial dimensionality reduction while preserving interpretable rhetorical scaffolding. Metadata enrichment combines TEI extraction with DOI/CrossRef fallback and a smart validation gate focused on analysis-critical fields, producing 98.4% journal coverage. At article level, we estimate journal effects with one-way ANOVA and variance partitioning (eta-squared). Results show strong venue effects for selected features, led by citations_per_1k (η² = 0.7195), followed by sent_lt_12_pct (η² = 0.1982) and median_sentence_len (η² = 0.1471). To recover author-level signal, we compute residual style space by subtracting journal means from each metric. We then test structure-style independence via PCA on canonical section features and residualized style metrics. The correlation between PC1_structure and PC1_style is weak and non-significant (r = -0.0523, p = 0.5654), supporting a decoupling hypothesis: journals impose macro-structural templates, but authorial voice persists in residual stylistic variation.
+This study presents a full-stack stylometric pipeline for Digital Humanities that separates journal-driven structure from authorial style in a corpus of 125 academic articles. We first compress high-dimensional section data (7,621+ structural features) into five canonical categories (INTRO, FRAMEWORK, ARGUMENT, DISCUSSION, CONCLUSION), yielding substantial dimensionality reduction while preserving interpretable rhetorical scaffolding. Metadata enrichment combines TEI extraction with DOI/CrossRef fallback and a smart validation gate focused on analysis-critical fields, producing 98.4% journal coverage. At article level, we estimate journal effects with one-way ANOVA and variance partitioning (eta-squared). Results show strong venue effects for selected features, led by citations_per_1k (η² = 0.7195), followed by sent_lt_12_pct (η² = 0.1982) and median_sentence_len (η² = 0.1471). To recover author-level signal, we compute residual style space by subtracting journal means from each metric. We then test structure-style independence via PCA on canonical section features and residualized style metrics. The correlation between PC1_structure and PC1_style is weak and non-significant (r = -0.0523, p = 0.5654), supporting a decoupling hypothesis: journals impose macro-structural templates, but authorial voice persists in residual stylistic variation.
 
 ## (A) Article-Level Stylometry
 Aşağıda 5 ana stilistik metrik için ortalama ve dağılım özeti verilmiştir.
@@ -17,21 +17,21 @@ Aşağıda 5 ana stilistik metrik için ortalama ve dağılım özeti verilmişt
 ## (B) Section Structure
 7621+ geniş feature uzayından 5 canonical kategoriye geçiş özeti:
 
-- Original wide columns: 7621
+- Original wide columns: 91
 - Canonical wide columns: 11
-- Compression (feature reduction): 99.87%
-- Mapping success (section instances mapped to INTRO/BODY/DISCUSSION/CONCLUSION): 21.35%
-- Mapping success (unique headings mapped to INTRO/BODY/DISCUSSION/CONCLUSION): 3.36%
+- Compression (feature reduction): 88.89%
+- Mapping success (section instances mapped to INTRO/FRAMEWORK/ARGUMENT/DISCUSSION/CONCLUSION): 21.94%
+- Mapping success (unique headings mapped to INTRO/FRAMEWORK/ARGUMENT/DISCUSSION/CONCLUSION): 66.67%
 
 Canonical kategori bazında ortalama kelime sayısı:
 
 | canonical | avg_word_count |
 | --- | --- |
-| INTRO | 966.453 |
-| BODY | 2086 |
-| DISCUSSION | 1253.14 |
-| CONCLUSION | 504 |
-| OTHER | 1152.78 |
+| INTRO | 985.013 |
+| FRAMEWORK | 1071.17 |
+| ARGUMENT | 1170.97 |
+| DISCUSSION | 862.6 |
+| CONCLUSION | 511.548 |
 
 ## (C) Metadata Enrichment
 - Smart Gate Success: 98.4%
@@ -68,6 +68,6 @@ Residual tanımı: `Residual = Value - GroupMean_journal`. Bu işlem dergi şabl
 Note: Values are normalized (0-1) using $SS_{between}/SS_{total}$.
 
 ## (F) Decoupling
-- Hesaplanan korelasyon: r=-0.0523, p=0.5654
+- Hesaplanan korelasyon: r=-0.0530, p=0.5604
 - Yorum: Korelasyon sıfıra çok yakın ve istatistiksel olarak anlamsız (p>0.05).
 - Sonuç: Yapısal organizasyon (section scaffolding) ile residual stil uzayı farklı eksenlerde çalışıyor; yani dergi formatı yapıyı kısıtlasa da yazarın stilistik sinyali residual uzayda bağımsız kalabiliyor.
