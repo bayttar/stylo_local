@@ -137,7 +137,7 @@ def section_a_stylometry(per_article: pd.DataFrame) -> str:
 
 
 def section_b_structure(canon: pd.DataFrame, orig_wide_cols: int) -> str:
-    categories = ["INTRO", "BODY", "DISCUSSION", "CONCLUSION", "OTHER"]
+    categories = ["INTRO", "FRAMEWORK", "ARGUMENT", "DISCUSSION", "CONCLUSION"]
     rows = []
     for cat in categories:
         c1 = f"{cat}_mtld"
