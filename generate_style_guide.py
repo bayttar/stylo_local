@@ -52,8 +52,8 @@ METRIC_LABELS: dict[str, str] = {
 }
 
 # η² thresholds for journal influence classification
-ETA_HIGH = 0.15
-ETA_MID = 0.05
+ETA_HIGH = 0.20
+ETA_MID = 0.10
 
 MIN_ARTICLES = 2
 
@@ -278,6 +278,7 @@ def _writers_takeaway(
     corpus_stats: dict[str, dict[str, float]],
     fingerprint: dict[str, tuple[str, str, float, float]],
     n_articles: int,
+    all_journal_citation_means: dict[str, float] | None = None,
 ) -> str:
     """Generate a plain-English paragraph summarising the journal's style profile."""
     lines: list[str] = []
@@ -287,14 +288,18 @@ def _writers_takeaway(
         c = corpus_stats.get(metric, {}).get("mean", float("nan"))
         if np.isnan(j) or np.isnan(c):
             return False
-        return j > c + threshold
+        corpus_std = corpus_stats.get(metric, {}).get("std", 1.0)
+        min_diff = corpus_std * 0.3
+        return j > c + max(threshold, min_diff)
 
     def _below(metric: str, threshold: float = 0.0) -> bool:
         j = journal_stats.get(metric, {}).get("mean", float("nan"))
         c = corpus_stats.get(metric, {}).get("mean", float("nan"))
         if np.isnan(j) or np.isnan(c):
             return False
-        return j < c - threshold
+        corpus_std = corpus_stats.get(metric, {}).get("std", 1.0)
+        min_diff = corpus_std * 0.3
+        return j < c - max(threshold, min_diff)
 
     def _jval(metric: str) -> float:
         return journal_stats.get(metric, {}).get("mean", float("nan"))
@@ -348,10 +353,32 @@ def _writers_takeaway(
     # Citations
     fp_cite = fingerprint.get("citations_per_1k")
     if fp_cite and fp_cite[0] == "🔴":
-        lines.append(
-            "**Citation density is strongly journal-driven** (η² = "
-            f"{fp_cite[2]:.2f}) — match the journal's citation norms carefully."
-        )
+        j_cite = _jval("citations_per_1k")
+        c_cite = _cval("citations_per_1k")
+        if not np.isnan(j_cite) and not np.isnan(c_cite) and all_journal_citation_means:
+            sorted_vals = sorted(all_journal_citation_means.values())
+            if len(sorted_vals) >= 2 and j_cite <= sorted_vals[0]:
+                rank_note = " — the **lowest** in the corpus"
+            elif len(sorted_vals) >= 2 and j_cite >= sorted_vals[-1]:
+                rank_note = " — the **highest** in the corpus"
+            else:
+                rank_note = ""
+            if j_cite < c_cite:
+                lines.append(
+                    f"This journal uses **very few citations** "
+                    f"({_fmt(j_cite)}/1k vs corpus avg {_fmt(c_cite)}){rank_note} — "
+                    f"match this journal's lean citation style."
+                )
+            else:
+                lines.append(
+                    f"This journal **cites heavily** "
+                    f"({_fmt(j_cite)}/1k vs corpus avg {_fmt(c_cite)}){rank_note} — "
+                    f"match this journal's citation density exactly."
+                )
+        else:
+            lines.append(
+                "**Citation density is strongly journal-driven** — match the journal's citation norms carefully."
+            )
     elif _above("citations_per_1k"):
         lines.append(
             f"**Citations are more frequent** than average "
@@ -392,6 +419,219 @@ def _writers_takeaway(
         )
 
     return " ".join(lines)
+
+
+# ---------------------------------------------------------------------------
+# Key Findings & Cross-Journal Contrasts generators
+# ---------------------------------------------------------------------------
+
+
+def _md_key_findings(
+    variance_df: pd.DataFrame,
+    all_journal_stats: dict[str, dict[str, dict[str, float]]],
+    corpus_stats: dict[str, dict[str, float]],
+    fingerprint: dict[str, tuple[str, str, float, float]],
+) -> str:
+    """Generate an auto-computed Key Findings narrative section."""
+    lines: list[str] = ["\n## 🎯 Key Findings\n"]
+    findings: list[str] = []
+    covered_metrics: set[str] = set()
+
+    sorted_var = variance_df.dropna(subset=["eta_sq"]).sort_values("eta_sq", ascending=False)
+
+    # Finding 1: Metric with the highest η²
+    if len(sorted_var) > 0:
+        top_row = sorted_var.iloc[0]
+        top_metric = str(top_row["metric_name"])
+        top_eta = float(top_row["eta_sq"])
+        top_label = METRIC_LABELS.get(top_metric, top_metric)
+        covered_metrics.add(top_metric)
+
+        journal_means: dict[str, float] = {}
+        for journal, stats in all_journal_stats.items():
+            v = stats.get(top_metric, {}).get("mean", float("nan"))
+            if not np.isnan(v):
+                journal_means[journal] = v
+
+        if len(journal_means) >= 2:
+            low_j = min(journal_means, key=journal_means.__getitem__)
+            high_j = max(journal_means, key=journal_means.__getitem__)
+            low_v = journal_means[low_j]
+            high_v = journal_means[high_j]
+
+            if top_metric == "citations_per_1k":
+                if low_v > 0:
+                    ratio = high_v / low_v
+                    finding = (
+                        f"**{top_label} is almost entirely journal-determined** (η² = {top_eta:.2f}). "
+                        f"{high_j} expects {high_v:.2f} citations per 1,000 words — "
+                        f"{ratio:.0f}× more than {low_j} ({low_v:.2f}). "
+                        f"Match your target journal's citation density exactly."
+                    )
+                else:
+                    finding = (
+                        f"**{top_label} is almost entirely journal-determined** (η² = {top_eta:.2f}). "
+                        f"{high_j} expects {high_v:.2f} citations per 1,000 words vs {low_j} ({low_v:.2f})."
+                    )
+            elif top_metric in ("sent_lt_12_pct", "sent_gt_40_pct", "passive_sent_ratio", "integral_ratio"):
+                finding = (
+                    f"**{top_label} is almost entirely journal-determined** (η² = {top_eta:.2f}), "
+                    f"ranging from {low_v * 100:.0f}% in {low_j} to {high_v * 100:.0f}% in {high_j}."
+                )
+            else:
+                finding = (
+                    f"**{top_label} is strongly journal-determined** (η² = {top_eta:.2f}), "
+                    f"ranging from {low_v:.2f} in {low_j} to {high_v:.2f} in {high_j}."
+                )
+            findings.append(finding)
+
+    # Finding 2: Largest cross-journal spread among remaining metrics
+    best_spread = -1.0
+    best_metric = ""
+    best_low_j = best_high_j = ""
+    best_low_v = best_high_v = 0.0
+
+    for metric in STYLE_METRICS:
+        if metric in covered_metrics:
+            continue
+        c_std = corpus_stats.get(metric, {}).get("std", float("nan"))
+        if np.isnan(c_std) or c_std == 0:
+            continue
+        journal_means = {}
+        for journal, stats in all_journal_stats.items():
+            v = stats.get(metric, {}).get("mean", float("nan"))
+            if not np.isnan(v):
+                journal_means[journal] = v
+        if len(journal_means) < 2:
+            continue
+        lj = min(journal_means, key=journal_means.__getitem__)
+        hj = max(journal_means, key=journal_means.__getitem__)
+        spread = (journal_means[hj] - journal_means[lj]) / c_std
+        if spread > best_spread:
+            best_spread = spread
+            best_metric = metric
+            best_low_j, best_high_j = lj, hj
+            best_low_v, best_high_v = journal_means[lj], journal_means[hj]
+
+    if best_metric:
+        covered_metrics.add(best_metric)
+        label = METRIC_LABELS.get(best_metric, best_metric)
+        fp = fingerprint.get(best_metric, ("🟢", "Author's voice", 0.0, 1.0))
+        if best_metric == "mtld":
+            finding = (
+                f"**Vocabulary diversity separates journals**: {best_high_j} demands the richest vocabulary "
+                f"(MTLD {best_high_v:.2f}) while {best_low_j} uses more focused, repetitive terminology "
+                f"(MTLD {best_low_v:.2f})."
+            )
+        elif best_metric in ("sent_lt_12_pct", "sent_gt_40_pct", "passive_sent_ratio", "integral_ratio"):
+            finding = (
+                f"**{label} shows notable cross-journal variation** (η² = {fp[2]:.2f}): "
+                f"from {best_low_v * 100:.0f}% in {best_low_j} to {best_high_v * 100:.0f}% in {best_high_j}."
+            )
+        else:
+            finding = (
+                f"**{label} shows notable cross-journal variation**: from {best_low_v:.2f} in "
+                f"{best_low_j} to {best_high_v:.2f} in {best_high_j}."
+            )
+        findings.append(finding)
+
+    # Finding 3: Next journal-influenced metric not yet covered
+    for _, row in sorted_var.iterrows():
+        metric = str(row["metric_name"])
+        if metric in covered_metrics:
+            continue
+        fp = fingerprint.get(metric, ("🟢", "Author's voice", 0.0, 1.0))
+        if fp[0] not in ("🔴", "🟡"):
+            continue
+        eta = float(row["eta_sq"])
+        label = METRIC_LABELS.get(metric, metric)
+        journal_means = {}
+        for journal, stats in all_journal_stats.items():
+            v = stats.get(metric, {}).get("mean", float("nan"))
+            if not np.isnan(v):
+                journal_means[journal] = v
+        if len(journal_means) < 2:
+            continue
+        lj = min(journal_means, key=journal_means.__getitem__)
+        hj = max(journal_means, key=journal_means.__getitem__)
+        lv = journal_means[lj]
+        hv = journal_means[hj]
+        if metric in ("sent_lt_12_pct", "sent_gt_40_pct", "passive_sent_ratio", "integral_ratio"):
+            finding = (
+                f"**{label} is journal-influenced** (η² = {eta:.2f}): "
+                f"from {lv * 100:.0f}% in {lj} to {hv * 100:.0f}% in {hj}."
+            )
+        else:
+            finding = (
+                f"**{label} is journal-influenced** (η² = {eta:.2f}): "
+                f"from {lv:.2f} in {lj} to {hv:.2f} in {hj}."
+            )
+        findings.append(finding)
+        break
+
+    for i, finding in enumerate(findings[:3], 1):
+        lines.append(f"{i}. {finding}\n")
+
+    if not findings:
+        lines.append("_No key findings could be computed from the available data._\n")
+
+    return "\n".join(lines)
+
+
+def _md_cross_journal_contrasts(
+    all_journal_stats: dict[str, dict[str, dict[str, float]]],
+    corpus_stats: dict[str, dict[str, float]],
+) -> str:
+    """Generate a cross-journal comparison table showing the biggest metric differences."""
+    lines: list[str] = ["\n## 🔍 Key Cross-Journal Contrasts\n"]
+    lines.append("The biggest differences between journals in this corpus:\n")
+
+    contrasts: list[tuple[float, str, str, float, str, float, str]] = []
+
+    for metric in STYLE_METRICS:
+        c_std = corpus_stats.get(metric, {}).get("std", float("nan"))
+        if np.isnan(c_std) or c_std == 0:
+            continue
+        journal_means: dict[str, float] = {}
+        for journal, stats in all_journal_stats.items():
+            v = stats.get(metric, {}).get("mean", float("nan"))
+            if not np.isnan(v):
+                journal_means[journal] = v
+        if len(journal_means) < 2:
+            continue
+        low_j = min(journal_means, key=journal_means.__getitem__)
+        high_j = max(journal_means, key=journal_means.__getitem__)
+        low_v = journal_means[low_j]
+        high_v = journal_means[high_j]
+        spread = (high_v - low_v) / c_std
+
+        if metric == "citations_per_1k" and low_v > 0:
+            spread_str = f"{high_v / low_v:.0f}×"
+        elif metric in ("passive_sent_ratio", "integral_ratio", "sent_gt_40_pct", "sent_lt_12_pct"):
+            spread_str = f"+{(high_v - low_v) * 100:.0f}pp"
+        else:
+            spread_str = f"+{high_v - low_v:.2f}"
+
+        contrasts.append((spread, metric, low_j, low_v, high_j, high_v, spread_str))
+
+    contrasts.sort(key=lambda x: x[0], reverse=True)
+
+    rows: list[str] = [
+        "| Metric | Lowest Journal | Highest Journal | Spread |",
+        "|--------|---------------|-----------------|--------|",
+    ]
+    for _, metric, low_j, low_v, high_j, high_v, spread_str in contrasts[:5]:
+        label = METRIC_LABELS.get(metric, metric)
+        if metric in ("passive_sent_ratio", "integral_ratio", "sent_gt_40_pct", "sent_lt_12_pct"):
+            low_fmt = f"{low_v * 100:.0f}%"
+            high_fmt = f"{high_v * 100:.0f}%"
+        else:
+            low_fmt = f"{low_v:.2f}"
+            high_fmt = f"{high_v:.2f}"
+        rows.append(f"| {label} | {low_j} ({low_fmt}) | {high_j} ({high_fmt}) | {spread_str} |")
+
+    lines.append("\n".join(rows))
+    return "\n".join(lines)
 
 
 # ---------------------------------------------------------------------------
@@ -472,6 +712,7 @@ def _md_journal_profile(
     variance_df: pd.DataFrame,
     fingerprint: dict[str, tuple[str, str, float, float]],
     section_cols: list[str],
+    all_journal_citation_means: dict[str, float] | None = None,
 ) -> str:
     n = len(group_df)
     available_metrics = [m for m in STYLE_METRICS if m in group_df.columns]
@@ -488,7 +729,9 @@ def _md_journal_profile(
     presence = _section_presence(group_df, section_cols)
 
     # Takeaway
-    takeaway = _writers_takeaway(journal_stats, corpus_stats, fingerprint, n)
+    takeaway = _writers_takeaway(
+        journal_stats, corpus_stats, fingerprint, n, all_journal_citation_means
+    )
 
     lines: list[str] = []
     lines.append(f"\n---\n\n## 📖 {journal}\n")
@@ -660,6 +903,19 @@ def generate_report(
     available_metrics = [m for m in STYLE_METRICS if m in valid.columns]
     corpus_stats = {m: _stats(valid[m]) for m in available_metrics}
 
+    # Build per-journal stats for cross-journal comparison functions
+    all_journal_stats: dict[str, dict[str, dict[str, float]]] = {}
+    for journal in eligible_journals:
+        group_df = valid[valid[journal_col] == journal]
+        all_journal_stats[journal] = {m: _stats(group_df[m]) for m in available_metrics}
+
+    # Convenience dict: journal → mean citations_per_1k (for writer's takeaway)
+    all_journal_citation_means: dict[str, float] = {}
+    for journal, jstats in all_journal_stats.items():
+        mean_val = jstats.get("citations_per_1k", {}).get("mean", float("nan"))
+        if not np.isnan(mean_val):
+            all_journal_citation_means[journal] = mean_val
+
     # Year range
     year_series = valid.get("year_resolved", pd.Series(dtype=str))
     years_numeric = pd.to_numeric(year_series, errors="coerce").dropna()
@@ -695,8 +951,16 @@ def generate_report(
         "🔴 Journal-enforced, 🟡 Journal-influenced, or 🟢 Author's voice.\n"
     )
 
+    # Key Findings
+    parts.append(
+        _md_key_findings(variance_df, all_journal_stats, corpus_stats, fingerprint)
+    )
+
     # Corpus overview
     parts.append(_md_corpus_overview(valid, corpus_stats))
+
+    # Cross-journal contrasts
+    parts.append(_md_cross_journal_contrasts(all_journal_stats, corpus_stats))
 
     # Per-journal profiles (sorted by article count, most first)
     parts.append("\n---\n\n# 🗂️ Per-Journal Profiles\n")
@@ -709,6 +973,7 @@ def generate_report(
             variance_df=variance_df,
             fingerprint=fingerprint,
             section_cols=section_cols,
+            all_journal_citation_means=all_journal_citation_means,
         )
         parts.append(profile_md)
 
