@@ -1,4 +1,42 @@
-curl -v \
-  -F "input=@/Users/sametbaytar/stylo_local/pdfs/00-Metaphorical Traits of the Language of the COVID-19 Pandemic_ A Short-Term Diachronic Study.pdf" \
-  http://localhost:8070/api/processFulltextDocument \
-  -o /Users/sametbaytar/stylo_local/stylo_out/paper1.tei.xml
+cat > ~/stylo_local/tei_to_sections.py << 'PY'
+from pathlib import Path
+from lxml import etree
+
+NS = {"tei": "http://www.tei-c.org/ns/1.0"}
+
+def tei_sections(tei_path: str):
+    tree = etree.parse(tei_path)
+    root = tree.getroot()
+
+    # Title / abstract
+    abstract_nodes = root.xpath(".//tei:profileDesc/tei:abstract", namespaces=NS)
+    abstract = "\n".join([" ".join(a.itertext()) for a in abstract_nodes]).strip()
+
+    # Body divs with headings
+    sections = {}
+    divs = root.xpath(".//tei:text/tei:body//tei:div", namespaces=NS)
+
+    for i, div in enumerate(divs, start=1):
+        head = div.xpath("./tei:head", namespaces=NS)
+        head_text = (" ".join(head[0].itertext()).strip() if head else f"SECTION_{i}")
+        # all text under div, excluding head already included is fine for first pass
+        body_text = " ".join(div.itertext()).strip()
+        if body_text:
+            sections[head_text] = body_text
+
+    return {
+        "abstract": abstract,
+        "sections": sections
+    }
+
+if __name__ == "__main__":
+    tei_dir = Path.home() / "stylo_local" / "stylo_out" / "grobid_tei"
+    sample = sorted(tei_dir.glob("*.tei.xml"))[0]
+    data = tei_sections(str(sample))
+    print("Sample file:", sample.name)
+    print("Abstract chars:", len(data["abstract"]))
+    print("Section count:", len(data["sections"]))
+    print("First 5 section titles:", list(data["sections"].keys())[:5])
+PY
+
+python ~/stylo_local/tei_to_sections.py
