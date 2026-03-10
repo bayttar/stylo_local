@@ -538,7 +538,7 @@ def _prepare_metrics_table(metrics_df: pd.DataFrame, meta_df: pd.DataFrame) -> p
         meta_df = meta_df.copy()
         meta_df["file_stem"] = meta_df["tei_file"].astype(str).str.replace(r"\.tei\.xml$", "", regex=True)
 
-    label_sources = [c for c in ("journal_label", "journal_crossref", "journal") if c in meta_df.columns]
+    label_sources = [c for c in ("journal_label", "journal") if c in meta_df.columns]
     if not label_sources:
         raise ValueError("Metadata CSV must include at least one journal label source column.")
 
@@ -816,9 +816,9 @@ def _resolve_metadata_path(args: argparse.Namespace) -> Path:
 
 
 def _derive_journal_label(meta: pd.DataFrame) -> pd.Series:
-    label_sources = [c for c in ("journal_label", "journal_crossref", "journal") if c in meta.columns]
+    label_sources = [c for c in ("journal_label", "journal") if c in meta.columns]
     if not label_sources:
-        raise ValueError("metadata_enriched.csv must contain one of: journal_label, journal_crossref, journal")
+        raise ValueError("metadata_enriched.csv must contain one of: journal_label, journal")
 
     def pick(row: pd.Series) -> str:
         for c in label_sources:

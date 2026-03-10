@@ -11,6 +11,8 @@ from typing import Dict, List, Tuple, Optional
 import numpy as np
 import pandas as pd
 
+from pipeline_common import clean_text, is_missing
+
 # Optional plotting (graceful fallback)
 PLOTTING_OK = True
 try:
@@ -31,7 +33,7 @@ PATHS = {
 
     # GROBID-derived
     "sections_jsonl": GSECT / "sections.jsonl",
-    "per_article_section_wide": GSECT / "per_article_section_metrics_wide.csv",
+    "per_article_section_wide": ROOT / "canonical_sections_wide.csv",
     "section_name_frequencies": GSECT / "section_name_frequencies.csv",
     "section_raw_name_counts": GSECT / "section_raw_name_counts.csv",
     "template_complexity": GSECT / "per_article_template_complexity.csv",
@@ -44,7 +46,7 @@ PATHS = {
 
     # Residual / variance / decoupling outputs
     "author_signature_clusters": GSECT / "author_signature_residual_clusters.csv",
-    "eta2": GSECT / "journal_effect_sizes_eta2.csv",
+    "eta2": ROOT / "journal_variance_analysis.csv",
     "structure_style_pc_corr": GSECT / "structure_style_pc_correlations.csv",
 }
 
@@ -170,6 +172,24 @@ def coerce_numeric(df: pd.DataFrame, cols: List[str]) -> pd.DataFrame:
     for c in cols:
         if c in out.columns:
             out[c] = pd.to_numeric(out[c], errors="coerce")
+    return out
+
+
+def resolve_metadata_fields(df: pd.DataFrame) -> pd.DataFrame:
+    out = df.copy()
+    if "journal" in out.columns:
+        out["journal_resolved"] = out["journal"].astype(str).map(clean_text)
+    elif "journal_crossref" in out.columns:
+        out["journal_resolved"] = out["journal_crossref"].astype(str).map(clean_text)
+    else:
+        out["journal_resolved"] = ""
+
+    if "publisher" in out.columns:
+        out["publisher_resolved"] = out["publisher"].astype(str).map(clean_text)
+    elif "publisher_crossref" in out.columns:
+        out["publisher_resolved"] = out["publisher_crossref"].astype(str).map(clean_text)
+    else:
+        out["publisher_resolved"] = ""
     return out
 
 
@@ -322,6 +342,8 @@ def section_B_section_level(section_wide: pd.DataFrame,
 
 
 def section_C_metadata(metadata_enriched: pd.DataFrame, metadata_from_tei: pd.DataFrame) -> str:
+    metadata_enriched = resolve_metadata_fields(metadata_enriched)
+    metadata_from_tei = resolve_metadata_fields(metadata_from_tei) if not metadata_from_tei.empty else metadata_from_tei
     out = []
     out.append("## C) Journal and bibliographic metadata (TEI + DOI enrichment)\n")
     out.append("This section audits available metadata and reports coverage (non-null ratios) and top labels.\n")
@@ -330,13 +352,13 @@ def section_C_metadata(metadata_enriched: pd.DataFrame, metadata_from_tei: pd.Da
         rows = []
         for c in cols:
             if c in df.columns:
-                nn = df[c].notna().mean()
-                rows.append({"field": c, "non_null_ratio": nn, "non_null_count": int(df[c].notna().sum())})
+                present = ~df[c].astype(str).map(is_missing)
+                rows.append({"field": c, "non_null_ratio": present.mean(), "non_null_count": int(present.sum())})
         return pd.DataFrame(rows).sort_values("non_null_ratio", ascending=False)
 
     # Pick typical metadata fields if present
     candidate_cols = [
-        "file", "title", "doi", "journal", "publisher", "year",
+        "file", "title", "doi", "journal_resolved", "publisher_resolved", "year",
         "authors", "author", "author_names", "issn", "eissn", "url"
     ]
     cov_en = coverage(metadata_enriched, candidate_cols)
@@ -349,20 +371,20 @@ def section_C_metadata(metadata_enriched: pd.DataFrame, metadata_from_tei: pd.Da
     out.append(md_table(cov_tei, max_rows=200))
 
     # Top journals/publishers if present
-    if "journal" in metadata_enriched.columns:
-        top_j = metadata_enriched["journal"].fillna("MISSING").value_counts().head(20).reset_index()
-        top_j.columns = ["journal", "count"]
+    if "journal_resolved" in metadata_enriched.columns:
+        top_j = metadata_enriched["journal_resolved"].replace("", "MISSING").value_counts().head(20).reset_index()
+        top_j.columns = ["journal_resolved", "count"]
         out.append("### C.3 Top journal labels (enriched)\n")
         out.append(md_table(top_j, max_rows=20))
 
-    if "publisher" in metadata_enriched.columns:
-        top_p = metadata_enriched["publisher"].fillna("MISSING").value_counts().head(20).reset_index()
-        top_p.columns = ["publisher", "count"]
+    if "publisher_resolved" in metadata_enriched.columns:
+        top_p = metadata_enriched["publisher_resolved"].replace("", "MISSING").value_counts().head(20).reset_index()
+        top_p.columns = ["publisher_resolved", "count"]
         out.append("### C.4 Top publishers (enriched)\n")
         out.append(md_table(top_p, max_rows=20))
 
     if "doi" in metadata_enriched.columns:
-        nn = metadata_enriched["doi"].notna().mean()
+        nn = (~metadata_enriched["doi"].astype(str).map(is_missing)).mean()
         out.append(f"### C.5 DOI coverage\n- DOI non-null ratio: {human_pct(nn)}\n\n")
 
     return "".join(out)
@@ -404,7 +426,7 @@ def section_E_eta2(eta2: pd.DataFrame) -> str:
     out.append("This section ranks metrics by journal effect size (η²) and highlights the most journal-determined dimensions.\n")
 
     if eta2.empty:
-        out.append("_(journal_effect_sizes_eta2.csv missing or empty)_\n")
+        out.append("_(journal_variance_analysis.csv missing or empty)_\n")
         return "".join(out)
 
     # Try to infer columns
@@ -474,6 +496,56 @@ def section_F_decoupling(struct_style_corr: pd.DataFrame) -> str:
     return "".join(out)
 
 
+def section_G_journal_profiles(
+    per_article: pd.DataFrame,
+    metadata_enriched: pd.DataFrame,
+    canonical_sections: pd.DataFrame,
+) -> str:
+    out = []
+    out.append("## G) Per-journal profile summaries\n")
+    out.append("This section keeps the most useful journal-facing view from the retired style-guide branch.\n")
+
+    meta = resolve_metadata_fields(metadata_enriched)
+    if "file_stem" not in meta.columns and "tei_file" in meta.columns:
+        meta["file_stem"] = meta["tei_file"].astype(str).str.replace(r"\.tei\.xml$", "", regex=True)
+    art = per_article.copy()
+    if "file_stem" not in art.columns and "file" in art.columns:
+        art["file_stem"] = art["file"].astype(str).str.replace(r"\.pdf$", "", regex=True)
+
+    merged = art.merge(meta[["file_stem", "journal_resolved"]], on="file_stem", how="left")
+    merged = merged.merge(canonical_sections, on="file_stem", how="left")
+    merged = merged.loc[~merged["journal_resolved"].astype(str).map(is_missing)].copy()
+    if merged.empty:
+        out.append("_(No journals could be resolved for profile generation.)_\n")
+        return "".join(out)
+
+    rows = []
+    for journal, group in merged.groupby("journal_resolved"):
+        if len(group) < 2:
+            continue
+        rows.append(
+            {
+                "journal": journal,
+                "articles": len(group),
+                "avg_words": pd.to_numeric(group.get("total_words"), errors="coerce").mean(),
+                "avg_mtld": pd.to_numeric(group.get("mtld"), errors="coerce").mean(),
+                "avg_sentence_len": pd.to_numeric(group.get("avg_sentence_len"), errors="coerce").mean(),
+                "avg_citations_per_1k": pd.to_numeric(group.get("citations_per_1k"), errors="coerce").mean(),
+                "intro_presence": group.get("INTRO_mtld", pd.Series(dtype=float)).notna().mean(),
+                "framework_presence": group.get("FRAMEWORK_mtld", pd.Series(dtype=float)).notna().mean(),
+                "conclusion_presence": group.get("CONCLUSION_mtld", pd.Series(dtype=float)).notna().mean(),
+            }
+        )
+
+    if not rows:
+        out.append("_(No journals had at least 2 articles for profile generation.)_\n")
+        return "".join(out)
+
+    df = pd.DataFrame(rows).sort_values(["articles", "journal"], ascending=[False, True])
+    out.append(md_table(df, max_rows=200))
+    return "".join(out)
+
+
 def appendix_inventory_and_quality(per_article: pd.DataFrame,
                                   section_wide: pd.DataFrame,
                                   metadata_enriched: pd.DataFrame) -> str:
@@ -489,7 +561,7 @@ def appendix_inventory_and_quality(per_article: pd.DataFrame,
     out.append("### Data quality checks\n")
 
     out.append(f"- per_article_metrics rows: {len(per_article)}\n")
-    out.append(f"- per_article_section_metrics_wide rows: {len(section_wide)}\n")
+    out.append(f"- canonical_sections_wide rows: {len(section_wide)}\n")
     out.append(f"- metadata_enriched rows: {len(metadata_enriched)}\n\n")
 
     # Missingness highlights (top 25 columns by missing ratio)
@@ -560,11 +632,11 @@ def main():
     # Hard requirements (based on your inventory)
     must_exist(PATHS["per_article_metrics"], "per_article_metrics.csv")
     must_exist(PATHS["bundles_long"], "bundles_top20_long.csv")
-    must_exist(PATHS["per_article_section_wide"], "per_article_section_metrics_wide.csv")
+    must_exist(PATHS["per_article_section_wide"], "canonical_sections_wide.csv")
     must_exist(PATHS["section_name_frequencies"], "section_name_frequencies.csv")
     must_exist(PATHS["metadata_enriched"], "metadata_enriched.csv")
     must_exist(PATHS["author_signature_clusters"], "author_signature_residual_clusters.csv")
-    must_exist(PATHS["eta2"], "journal_effect_sizes_eta2.csv")
+    must_exist(PATHS["eta2"], "journal_variance_analysis.csv")
     must_exist(PATHS["structure_style_pc_corr"], "structure_style_pc_correlations.csv")
 
     # Load
@@ -605,6 +677,7 @@ def main():
     md.append(section_D_residual_space(author_clusters))
     md.append(section_E_eta2(eta2))
     md.append(section_F_decoupling(struct_style_corr))
+    md.append(section_G_journal_profiles(per_article, metadata_enriched, section_wide))
     md.append(appendix_inventory_and_quality(per_article, section_wide, metadata_enriched))
 
     md_text = "".join(md)

@@ -12,8 +12,8 @@
 | median_sentence_len | 0.1471 | 0.0008096 |
 
 ## Decoupling Evidence
-- Yapı ve Stil arasındaki korelasyon r = -0.0523 bulundu.
-- Pearson p-value = 0.5654
+- Yapı ve Stil arasındaki korelasyon r = -0.0530 bulundu.
+- Pearson p-value = 0.5604
 
 ## Conclusion
 Dergiler iskeleti (scaffolding) dayatıyor, ancak yazarın sesi (voice) residual uzayda özgür kalıyor.

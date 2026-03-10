@@ -1,46 +1,88 @@
-from pathlib import Path
-import pandas as pd
-import numpy as np
+from __future__ import annotations
 
-def entropy(proportions):
+import json
+import re
+from pathlib import Path
+
+import numpy as np
+import pandas as pd
+
+from pipeline_common import GSECT, clean_text, load_metadata
+
+
+WORD_RE = re.compile(r"[A-Za-z]+(?:'[A-Za-z]+)?")
+
+
+def entropy(proportions: list[float]) -> float:
     p = np.array([x for x in proportions if pd.notna(x) and x > 0], dtype=float)
     if p.size == 0:
         return np.nan
     p = p / p.sum()
     return float(-(p * np.log2(p)).sum())
 
-def main():
-    master_path = Path.home() / "stylo_local" / "stylo_out" / "grobid_sections" / "MASTER_metrics_sections_metadata.csv"
-    if not master_path.exists():
-        raise FileNotFoundError(f"Missing: {master_path}. Run build_master.py first.")
 
-    df = pd.read_csv(master_path)
+def _word_count(text: str) -> int:
+    return len(WORD_RE.findall(text or ""))
 
-    # section word-share columns end with _word_share (proportion already)
-    share_cols = [c for c in df.columns if c.endswith("_word_share") and c.startswith("sec_")]
 
-    # per-article section entropy (template complexity)
-    df["section_entropy"] = df[share_cols].apply(lambda r: entropy(r.values), axis=1)
+def main() -> None:
+    sections_path = GSECT / "sections.jsonl"
+    if not sections_path.exists():
+        raise FileNotFoundError(f"Missing: {sections_path}. Run tei_sections_batch.py first.")
 
-    # journal label: use journal field if present else publisher else UNKNOWN
-    df["journal_label"] = df["journal"].fillna("").astype(str).str.strip()
-    df.loc[df["journal_label"] == "", "journal_label"] = df["publisher"].fillna("").astype(str).str.strip()
-    df.loc[df["journal_label"] == "", "journal_label"] = "UNKNOWN"
+    meta = load_metadata()
+    meta_small = meta[["file_stem", "journal_label"]].drop_duplicates(subset=["file_stem"])
+    journal_map = meta_small.set_index("file_stem")["journal_label"].to_dict()
 
-    # journal-level mean of section shares + mean entropy
-    agg = df.groupby("journal_label")[share_cols + ["section_entropy"]].mean(numeric_only=True).reset_index()
+    rows: list[dict[str, object]] = []
+    with sections_path.open("r", encoding="utf-8") as handle:
+        for line in handle:
+            line = line.strip()
+            if not line:
+                continue
+            record = json.loads(line)
+            tei_file = clean_text(record.get("tei_file", ""))
+            file_stem = tei_file.replace(".tei.xml", "") if tei_file else clean_text(record.get("file_stem", ""))
+            counts: list[int] = []
 
-    out_dir = master_path.parent
-    out_csv = out_dir / "journal_template_means.csv"
+            abstract = clean_text(record.get("abstract", ""))
+            if abstract:
+                counts.append(_word_count(abstract))
+
+            for sec in record.get("sections", []):
+                text = clean_text(sec.get("text", ""))
+                if text:
+                    counts.append(_word_count(text))
+
+            total_words = sum(counts)
+            shares = [count / total_words for count in counts if total_words > 0]
+            rows.append(
+                {
+                    "file_stem": file_stem,
+                    "journal_label": clean_text(journal_map.get(file_stem, "")),
+                    "section_count": len([c for c in counts if c > 0]),
+                    "section_entropy": entropy(shares),
+                }
+            )
+
+    df = pd.DataFrame(rows)
+    agg = (
+        df.groupby("journal_label", as_index=False)[["section_count", "section_entropy"]]
+        .mean(numeric_only=True)
+        .rename(columns={"section_count": "canonical_section_count"})
+    )
+
+    out_csv = GSECT / "journal_template_means.csv"
     agg.to_csv(out_csv, index=False)
 
-    out_articles = out_dir / "per_article_template_complexity.csv"
-    df[["file", "file_stem", "journal_label", "section_entropy"]].to_csv(out_articles, index=False)
+    out_articles = GSECT / "per_article_template_complexity.csv"
+    df.to_csv(out_articles, index=False)
 
     print("Saved:")
     print("-", out_csv)
     print("-", out_articles)
     print("Journals:", agg.shape[0])
+
 
 if __name__ == "__main__":
     main()

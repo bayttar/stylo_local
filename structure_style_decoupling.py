@@ -1,73 +1,66 @@
-from pathlib import Path
-import pandas as pd
-import numpy as np
+from __future__ import annotations
 
-from sklearn.preprocessing import StandardScaler
+import numpy as np
+import pandas as pd
 from sklearn.decomposition import PCA
 from sklearn.impute import SimpleImputer
+from sklearn.preprocessing import StandardScaler
 
-def main():
-    base = Path.home() / "stylo_local" / "stylo_out" / "grobid_sections"
-    master_path = base / "MASTER_v2.csv"
-    df = pd.read_csv(master_path)
+from pipeline_common import GSECT, merge_analysis_inputs, present_structure_metrics, present_style_metrics
 
-    # ----- STRUCTURE VECTOR: section shares -----
-    share_cols = [c for c in df.columns if c.endswith("_word_share")]
-    if not share_cols:
-        raise ValueError("No *_word_share columns found in MASTER_v2.csv")
 
-    S = df[share_cols].astype(float).fillna(0.0)
+def _project(df: pd.DataFrame, cols: list[str], n_components: int = 5) -> np.ndarray:
+    if not cols:
+        raise RuntimeError("No columns available for PCA projection.")
+    X = df[cols].apply(pd.to_numeric, errors="coerce")
+    X = X.loc[:, ~X.isna().all()]
+    if X.shape[1] == 0:
+        raise RuntimeError("All requested PCA columns are empty.")
+    X_imp = SimpleImputer(strategy="mean").fit_transform(X)
+    X_scaled = StandardScaler().fit_transform(X_imp)
+    pca = PCA(n_components=min(n_components, X_scaled.shape[1]), random_state=42)
+    return pca.fit_transform(X_scaled)
 
-    S_scaled = StandardScaler().fit_transform(S)
-    pca_s = PCA(n_components=min(5, S_scaled.shape[1]), random_state=42)
-    S_pc = pca_s.fit_transform(S_scaled)
 
-    # ----- STYLE VECTOR: numeric stylometry excluding shares -----
-    drop = share_cols + [
-        "file", "file_stem", "title", "doi", "authors",
-        "journal_label", "journal_crossref", "journal",
-        "publisher", "publisher_crossref"
-    ]
-    X = df.drop(columns=[c for c in drop if c in df.columns], errors="ignore")
-    X = X.select_dtypes(include=[np.number]).astype(float)
+def main() -> None:
+    df = merge_analysis_inputs()
+    structure_cols = present_structure_metrics(df)
+    style_cols = present_style_metrics(df)
+    if not structure_cols:
+        raise RuntimeError("No canonical structure metrics available for decoupling analysis.")
+    if not style_cols:
+        raise RuntimeError("No explicit style metrics available for decoupling analysis.")
 
-    # Drop all-NaN columns (e.g., year)
-    all_nan = X.columns[X.isna().all()].tolist()
-    if all_nan:
-        print("Dropping all-NaN numeric columns:", all_nan)
-        X = X.drop(columns=all_nan)
+    journals = df["journal_label"].astype(str).values
+    style_df = df[style_cols].apply(pd.to_numeric, errors="coerce")
+    style_df = style_df.loc[:, ~style_df.isna().all()]
+    style_imp = pd.DataFrame(SimpleImputer(strategy="mean").fit_transform(style_df), columns=style_df.columns)
 
-    # Impute remaining NaNs with column mean
-    imputer = SimpleImputer(strategy="mean")
-    X_imp_arr = imputer.fit_transform(X)
-    X_imp = pd.DataFrame(X_imp_arr, columns=X.columns)
+    style_res = style_imp.copy()
+    for journal in pd.unique(journals):
+        idx = journals == journal
+        style_res.loc[idx] = style_imp.loc[idx] - style_imp.loc[idx].mean()
 
-    # journal de-mean
-    journals = df["journal_label"].fillna("UNKNOWN").astype(str).values
-    X_res = X_imp.copy()
-    for j in pd.unique(journals):
-        idx = (journals == j)
-        mu = X_imp.loc[idx].mean()
-        X_res.loc[idx] = X_imp.loc[idx] - mu
+    structure_pc = _project(df, structure_cols)
+    style_pc = _project(style_res, list(style_res.columns))
 
-    X_scaled = StandardScaler().fit_transform(X_res)
-    pca_x = PCA(n_components=min(5, X_scaled.shape[1]), random_state=42)
-    X_pc = pca_x.fit_transform(X_scaled)
-
-    # ----- CORRELATION: structure PCs vs residual style PCs -----
-    corr = np.corrcoef(S_pc.T, X_pc.T)[:S_pc.shape[1], S_pc.shape[1]:]
+    corr = np.corrcoef(structure_pc.T, style_pc.T)[: structure_pc.shape[1], structure_pc.shape[1] :]
     corr_df = pd.DataFrame(
         corr,
-        index=[f"struct_PC{i+1}" for i in range(S_pc.shape[1])],
-        columns=[f"style_resid_PC{i+1}" for i in range(X_pc.shape[1])]
+        index=[f"struct_PC{i + 1}" for i in range(structure_pc.shape[1])],
+        columns=[f"style_resid_PC{i + 1}" for i in range(style_pc.shape[1])],
     )
 
-    out = base / "structure_style_pc_correlations.csv"
+    out = GSECT / "structure_style_pc_correlations.csv"
+    out.parent.mkdir(parents=True, exist_ok=True)
     corr_df.to_csv(out, index=True)
 
     print("Saved:", out)
+    print("Structure columns:", len(structure_cols))
+    print("Style columns:", len(style_res.columns))
     print("Correlation matrix (structure vs residual style PCs):")
     print(corr_df.round(3))
+
 
 if __name__ == "__main__":
     main()
