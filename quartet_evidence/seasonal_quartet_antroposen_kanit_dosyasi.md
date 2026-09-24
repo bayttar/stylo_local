@@ -391,7 +391,7 @@ Bu dil, "rekor"u yalnızca bugüne ait saymıyor, 1878, 1914, 1940, 1976, 1981, 
 | Brexit | *A* ve *W*: yalnızca "the vote" (A 53); *Sp* ve *Su*: "Brexit" (5'er kez) |
 | Grenfell | *W*: tarifle (W 312–313 [cccxx–cccxxi]); *Sp*: adıyla (Sp 66) |
 | Greenham | *W*: önce tarifle (W 143 [cli]), sonra adıyla (W 208 [ccxvi]); *Su*: adıyla (Su 95) |
-| Daniel Gluck (*Winter*'da) | hiç adı yok, yalnızca tarif (Chaplin, Hepworth, Keats) (W 248–264 [cclvi–cclxxii]) |
+| Daniel Gluck (*Winter*'da) | tarifle (Chaplin, Hepworth, Keats) (W 248–264 [cclvi–cclxxii]); yalnızca bir kez “Danny” (W 269 [cclxxvii]), soyadı yok |
 | Porton Down | *W*: tarifle (W 121 [cxxix]); *Su*: adıyla (Su 95) |
 | Seveso (1976) | hiç adı yok, yalnızca tarif (W 119 [cxxvii]) |
 | *Silent Spring* / Carson | hiç adı yok, "a classic book about spring" (W 123 [cxxxi]) |
@@ -435,7 +435,7 @@ Bu dil, "rekor"u yalnızca bugüne ait saymıyor, 1878, 1914, 1940, 1976, 1981, 
 
 | Zincir | *Autumn* | *Winter* | *Spring* | *Summer* |
 |---|---|---|---|---|
-| Daniel Gluck | ölüm döşeğinde (A 3–4), "summer brother" (A 184) | 1977 Noeli'nde Sophia'nın adı hiç verilmeyen sevgilisi (Chaplin, Hepworth taşları) (W 248–264 [cclvi–cclxxii]); Lux: “So now I know something intimate about your son, the girl said, about his father, which your son, I think, doesn't himself know.” (W 253 [cclxi]) | "Andy Hoffnung"un esin kaynağı (Sp 59–61) | 1940 gözaltısı (Su 129) vd., 104 yaşında (Su 144) |
+| Daniel Gluck | ölüm döşeğinde (A 3–4), "summer brother" (A 184) | 1977 Noeli'nde Sophia'nın sevgilisi (Chaplin, Hepworth taşları) (W 248–264 [cclvi–cclxxii]); soyadı verilmiyor, adı yalnızca bir kez geçiyor: “And it's you, she says. Danny.” (W 269 [cclxxvii]); Lux: “So now I know something intimate about your son, the girl said, about his father, which your son, I think, doesn't himself know.” (W 253 [cclxi]) | "Andy Hoffnung"un esin kaynağı (Sp 59–61) | 1940 gözaltısı (Su 129) vd., 104 yaşında (Su 144) |
 | Elisabeth | Daniel'in komşusu (A 15) | — | Richard Lease'in kızı (Sp 289–290) | Art'ın partneri (Su 319–326) |
 | Hannah Gluck | 1943 Nice, pazar yerinde ayaklanma (A 64–66); "Dani"ye mektup (A 189) | — | — | kızı Sacha Albert, torunlarının torunları Sacha ve Robert Greenlaw (Su 270–271); "autumn sister" mektubu (Su 236–241) |
 | Hepworth taşları | Daniel'in "holy stone"u (A 214) | Sophia'nın dolabındaki "çocuk" taşı (W 267 [cclxxv]), Daniel'in evi (W 272 [cclxxx]) | — | "you've brought back the child" (Su 274) |
@@ -537,3 +537,17 @@ Aşağıdaki eşleştirmeler metnin açık ya da örtük göndergeleri. Tezde ku
 - Boris Johnson'ın Şubat 2020 COP26 tanıtımındaki "tea cosy" benzetmesi: (Su 93)
 - Great Stink (1858): (Su 303)
 - David Lack, *Swifts in a Tower*: *Summer* teşekkür sayfasında ebabil bilgisinin ana kaynağı olarak anılıyor.
+
+---
+
+## 7. Yakın literatür: atıf gerektiren örtüşmeler
+
+Bu dosyadaki bazı gözlemler daha önce yayımlanmış çalışmalarda yer alıyor. Tezde bu gözlemler kullanılırken ilgili çalışmaya atıf yapılmalı:
+
+- **Ara bölümlerin yapısı (4.4).** Her kitabın üç bölümünün sonuna yerleşen ay bölümleri, bunların *Winter*'da Art'ın "Art in Nature" bloguna bağlanması ve sonradan ortak yazıya dönüşmesi: Calder 2019. Calder'ın verdiği sayfalar (A 85; 177–178; 259–260 / W 89–91; 219–220; 321–322 / Sp 113–115; 217–220; 335–336) bu dosyadakilerle birebir aynı.
+- ***Spring*'deki mevsim sesinin Florence'ın defterine atfedilmesi (3.3, 3.5b):** Calder 2019 (Sp 199'a dayanarak). Bu dosyadaki Sp 323 (“the earth speaking, or time or her favourite season”) Calder'ın okumasını destekliyor ve genişletiyor.
+- **Florence, Greta Thunberg ve "twelve years" (3.3):** Calder 2019 ve Jordan 2019.
+- **"the great connective" (1.2):** Calder'ın makale başlığı.
+- **Daniel zinciri ve Hepworth taşı (4.1):** Calder 2019 (A 9–10, 214; W 251, 269; Sp 59).
+- **"Monoseason" (A 215), *Winter*'daki ılık Noel, farkında olma ve inkâr (2.1, 2.2, 3.4):** van Amelsvoort 2024 (C21 Literature 11.2). Makalenin tam metni bu dosya hazırlanırken okunamadı; ayrıntılı örtüşme kontrol edilmeli.
+- **Ekolojik kriz ile siyasal manzara arasındaki ilişki (ilk üç roman):** Byrne 2020 (Open Arts Journal 8).
