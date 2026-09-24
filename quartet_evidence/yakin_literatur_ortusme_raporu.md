@@ -202,7 +202,7 @@ Temel soruya en yakın öncül ise Calder değil, Wiemann. Calder'ın "emergent 
 | 2.3 | Richard ve Paddy (Sp 65, 72) | van Amelsvoort 10–11 | Atıf |
 | 2.3 | "you dream air" (Sp 160) | Bernard 21 | Atıf |
 | 2.4 | "so?" (Su 4), "hoax" (Su 26), "eroding edge" (Su 311) | van Amelsvoort 8–9 | Atıf |
-| 2.4 | Rüzgâr ve iklim hasarı (Su 85) | van Amelsvoort 13 | Atıf; Su 121 ile eşleştirme açık |
+| 2.4 | Rüzgâr ve iklim hasarı (Su 85) | van Amelsvoort 13; Kuznetski 2022 (Su 85'i Su 121'e bağlıyor; tez planına göre, burada kontrol edilmedi) | Atıf. Tezin katkısı, bu bağı metnin değil okumanın kurduğunu göstermek |
 | 2.4 | Ebabil sözü (Su 119) | Bernard 14 | Atıf; fenolojik okuma açık |
 | 2.4 | "not in any lockdown of ours" (Su 347) | Bernard 15 | Atıf |
 | 3.2 | Charlotte'un soruları (W 58–59) | van Amelsvoort 9–10; Byrne 84, 90 | Atıf |
@@ -356,7 +356,7 @@ Beş çalışma birbirine atıf yapmıyor. Byrne'ün makalesi ötekilerden önce
 
 **Önerilen yeniden formülasyon:** Quartet nedenleri seçici olarak olay örgüsüne bağlıyor. Yakın insan yapımı nedenler (kimyasal, askerî, altyapısal, mülkiyete dayalı) nedensel bir sözdizimiyle anlatılıyor: "dead like winter though it was July", "The people had done it themselves", "so long as it hasn't been renovated". İklim ise vakayiname kipinde kalıyor: kaydediliyor, adlandırılıyor, ama anlatılan bir anomaliye bağlanmıyor. Bu formülasyon Wiemann'ın "annal" kavramına (Wiemann 2023, 37) ve Byrne'ün "mute witnessing"ine (Byrne 2020, 89) dayanıyor, ama onların yapmadığı karşılaştırmayı yapıyor.
 
-**En iyi somut örnek:** *Summer* nedeni ve sonucu ayrı yerlerde veriyor. Rüzgâr için “It's driven by climate shift and now by climate damage.” (Su 85) deniyor. Ebabiller için “there's been reports from Greece that a high wind killed off thousands of them on their way north at the start of April.” (Su 121). Metin ikisini birleştirmiyor.
+**En iyi somut örnek:** *Summer* nedeni ve sonucu ayrı yerlerde veriyor. (Kuznetski 2022 bu iki pasajı birleştiriyor; tezin katkısı, birleştirmeyi metnin değil okumanın yaptığını göstermek.) Rüzgâr için “It's driven by climate shift and now by climate damage.” (Su 85) deniyor. Ebabiller için “there's been reports from Greece that a high wind killed off thousands of them on their way north at the start of April.” (Su 121). Metin ikisini birleştirmiyor.
 
 **"İklim artıyor, Brexit azalıyor":** "Brexit" kelimesi 0, 0, 5 ve 4 kez geçiyor. Kelime azalmıyor, geç geliyor. Bu iddia kelime düzeyinde yanlış; ancak tematik ağırlık olarak ayrıca ölçülürse savunulabilir.
 
