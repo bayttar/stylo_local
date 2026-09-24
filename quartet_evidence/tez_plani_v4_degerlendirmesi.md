@@ -2,6 +2,8 @@
 
 *"Beyond Seasons" tez metninin 24 Eylül 2026 sürümü; Antroposen analizi ("Anthropocene-after-the-Anthropocene") ve yakın literatür örtüşme raporu ışığında*
 
+> **Düzeltme notu (24 Eylül 2026).** Bu dosyadaki şu hükümler `karar_raporu_incelemesi.md` §1'de geri çekildi: §1'deki *Spring* s. 160 hükmü (Hero pencereyi açıkça soruyor) ve 233/335 sayfa önerileri; §2.4 ve §6'daki "ilk tepki gülmedir" ve "Cassandra adını metin koyar"; §3'teki "Wiemann 2023", Thieme kuşkusu ve "Bernard yok" hükmü (yalnız 13 için doğruydu); §4.2'deki *Winter* s. 91 "eşitsizlik" okuması; §4.6'daki "12 cümle" sayımı.
+
 ---
 
 ## 0. Kısa hüküm

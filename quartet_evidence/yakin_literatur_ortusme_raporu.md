@@ -2,6 +2,8 @@
 
 *"Beyond Seasons: Uncovering the Anthropocene in Ali Smith's Seasonal Quartet" tezinin Calder (2019), van Amelsvoort (2024), Byrne (2020), Wiemann (2023) ve Bernard (2024) karşısındaki konumu*
 
+> **Düzeltme notu (24 Eylül 2026).** Wiemann'ın yayın yılı 2024; bu dosyadaki "Wiemann 2023" atıfları 2024 okunmalı. §6.1'deki itiraz tek pasajlık kalmalı (Wiemann s. 28 ve *Winter* s. 123). §6.2'deki "gerilim" ile §6.3'teki van Amelsvoort itirazı geri çekildi. Ayrıntı: `karar_raporu_incelemesi.md` §1.
+
 ---
 
 ## 0. Kapsam, yöntem, sayfa uyumu

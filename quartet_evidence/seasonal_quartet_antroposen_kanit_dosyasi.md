@@ -2,6 +2,8 @@
 
 *Temel soru ve üç alt soru için dört romanın tam okumasına dayanan kanıt derlemesi. Önce her roman ayrı ayrı, sonra dörtlünün geneli ele alınıyor.*
 
+> **Düzeltme notu (24 Eylül 2026).** Bu dosyadaki dört hüküm `karar_raporu_incelemesi.md` §1'de geri çekildi: §1.1'deki "hiçbiri başlığındaki mevsimde açılmıyor" (*Winter* Noel arifesinde açılıyor); §5'teki faz kaymasının "Antroposen kaydı" sayılması; §3.5(e)'nin 3. maddesindeki neden–sonuç zinciri; §1.2, §4.7 ve §5'teki "en güçlü kanıt" hükmü. "Wiemann 2023" atıfları 2024 okunmalı.
+
 ---
 
 ## 0. Kullanım notları
