@@ -6,11 +6,11 @@
 
 ## 0. Kullanım notları
 
-**Kaynak.** Ali Smith, *Seasonal Quartet (Autumn, Winter, Spring, Summer)*, Anchor/Knopf omnibus e-kitabı (2021, ISBN 9780593315583). Sayfa numaraları e-kitabın içindeki basılı sayfa listesinden alındı. Bu liste ABD baskılarına (Pantheon/Anchor) karşılık geliyor. Hamish Hamilton (UK) baskısını kullanıyorsanız sayfaları kendi baskınızla eşleştirmeniz gerekir.
+**Kaynak.** Ali Smith, *Seasonal Quartet (Autumn, Winter, Spring, Summer)*, Anchor/Knopf omnibus e-kitabı (2021, ISBN 9780593315583). Sayfa numaraları e-kitabın içindeki basılı sayfa listesinden alındı. Bu liste ABD baskılarına (Pantheon/Anchor) karşılık geliyor. Yakın literatürdeki beş çalışma (Calder 2019, Byrne 2020, Wiemann 2023, van Amelsvoort 2024, Bernard 2024) İngiliz baskılarını (Hamish Hamilton, Penguin) kullanıyor. Romanlara verdikleri sayfalar bu dosyadakilerle birebir örtüşüyor; iki sayfaya yayılan pasajlarda ±1 fark var. Örnekler: W 89–91, 123, 214, 269, 318; A 112, 143, 215; Sp 77, 184, 336; Su 284, 289, 347, 378. Dolayısıyla bu dosyadaki sayfalar İngiliz baskılarıyla da kullanılabilir.
 
 **Kısaltmalar.** A = *Autumn* (2016), W = *Winter* (2017), Sp = *Spring* (2019), Su = *Summer* (2020).
 
-**Winter'daki sayfa uyarısı.** E-kitap *Winter*'ın bütün gövdesini romen rakamıyla numaralandırıyor. Bölüm 1 başlığı "ix", ilk metin sayfası "xi". Diğer üç romanda aynı yerler "1" ve "3". Bu yüzden *Winter* atıflarında romen etiketinden 8 çıkarılarak Arap rakamı hesaplandı ve e-kitaptaki etiket köşeli parantez içinde bırakıldı. Örneğin "W 4 [xii]", e-kitapta "xii" etiketli, basılı baskıda büyük olasılıkla 4. sayfa demek. Epigraf ve ön sayfalar (viii'e kadar) romen rakamıyla bırakıldı. Bu dönüşümü kendi baskınızda bir iki sayfayla sınamanızı öneririm, örneğin "global-warming Christmas Eve" (W 4 [xii]) ve "one of the warmest winters on record, again" (W 91 [xcix]).
+**Winter'daki sayfa uyarısı.** E-kitap *Winter*'ın bütün gövdesini romen rakamıyla numaralandırıyor. Bölüm 1 başlığı "ix", ilk metin sayfası "xi". Diğer üç romanda aynı yerler "1" ve "3". Bu yüzden *Winter* atıflarında romen etiketinden 8 çıkarılarak Arap rakamı hesaplandı ve e-kitaptaki etiket köşeli parantez içinde bırakıldı. Örneğin "W 4 [xii]", e-kitapta "xii" etiketli, basılı baskıda büyük olasılıkla 4. sayfa demek. Epigraf ve ön sayfalar (viii'e kadar) romen rakamıyla bırakıldı. Bu dönüşüm eleştirmenlerin *Winter*'a verdiği sayfalarla doğrulandı. Calder'ın 89–91, 219–220 ve 269; Wiemann'ın 123; van Amelsvoort'un 59, 161, 190, 214 ve 286. sayfaları bu dosyadaki sayfalarla aynı. Örnekler: "global-warming Christmas Eve" (W 4 [xii]), "one of the warmest winters on record, again" (W 91 [xcix]).
 
 **Alıntılar.** Tırnak (“…”) içindeki bütün İngilizce alıntılar, dosya hazırlandıktan sonra romanların metniyle otomatik olarak karşılaştırıldı. Yazım birebir, yalnızca italik işaretleri ve satır sonları kaldırıldı. " … " işareti atlanan kısmı gösteriyor.
 
@@ -280,7 +280,7 @@ Bu dil, "rekor"u yalnızca bugüne ait saymıyor, 1878, 1914, 1940, 1976, 1981, 
 - Şişelenmiş "saf" su: “Still Scottish Mountain Water drawn from a sustainable source on the protected Glorat Estate in the heart of Scotland. / Unruined water.” (W 305 [cccxiii]) Charlotte'un sorusuna (W 59 [lxvii]) verilen metalaşmış cevap.
 - Kimyasal endüstri [TARİFLE: Seveso 1976]: “Nobody there had even really known there was a leak till all the leaves had fallen off the place's trees, dead like winter though it was July, and its birds had fallen dead out of the sky” (W 119 [cxxvii]). Endüstriyel bir kaza temmuzda "kış" yaratıyor. Mevsim kaymasının insan yapımı bir kaynağı açıkça gösteriliyor.
 - Pestisit ve savaş kimyası [TARİFLE: Porton Down, *Winter*'da adsız]: “A secret factory there made CBWs” (W 121 [cxxix]); Iris (1990'lar), “In the drinking water, Iris says. Crop spraying. Relation of pesticides to nerve gas. Relation of nerve gas to Nazis.” (W 128 [cxxxvi]); “This industry is the offspring, the child if you like, of the Second World War” (W 129 [cxxxvii]). Karşı ses aynı sayfada: “An expert in the studio tells the newsreader that everything that Iris said is laughable and untrue.” (W 129 [cxxxvii])
-- *Silent Spring* [TARİFLE: kitap ve yazar adı yok, "a classic book about spring"]: “some weeks before it had fallen like snow upon the roofs and the lawns, the fields and streams. No witchcraft, no enemy action had silenced the rebirth of new life in this stricken world. The people had done it themselves.” (W 123 [cxxxi]) Sophia'nın tepkisi: “It was all so symbolic and heavy.” (W 123 [cxxxi]) Kar imgesi zehrin maskesi olarak kullanılıyor. Dörtlüde "ilkbahar"ın ilk kez bir kitap başlığı olarak (adı verilmeden) geçtiği yer burası.
+- *Silent Spring* [TARİFLE: kitap ve yazar adı yok, "a classic book about spring"]: “some weeks before it had fallen like snow upon the roofs and the lawns, the fields and streams. No witchcraft, no enemy action had silenced the rebirth of new life in this stricken world. The people had done it themselves.” (W 123 [cxxxi]) Sophia'nın tepkisi: “It was all so symbolic and heavy.” (W 123 [cxxxi]) Kar imgesi zehrin maskesi olarak kullanılıyor. Dörtlüde "ilkbahar"ın ilk kez bir kitap başlığı olarak (adı verilmeden) geçtiği yer burası. Not: Wiemann (2023, 28) bu pasajdan “the rebirth of new life in this stricken world” (W 123 [cxxxi]) ifadesini alıntılayıp mevsimsel yeniden doğuşun habercisi sayıyor. Romanda ise bu ifade, insanlar tarafından susturulan şeyin adı (literatür raporu §6.1).
 - Çiçek kokuları kimyasal silahın göstergesi: “D.M., D.A. and D.C. emanate the scent of roses” … “while geraniums look pleasant in a bed, beware this smell in wartime. If it's lewisite you're dead.” (W 193 [cci])
 - Nükleer ["Greenham": önce TARİFLE (W 143 [cli]), ad ancak (W 207–208 [ccxv–ccxvi])'da; "Chernobyl" ADIYLA]: Iris 1961'de “the poisonous dust in the air and in all the food now too” (W 25 [xxxiii]); Greenham bildirisi, “the nuclear arms race constitutes the greatest threat ever faced by the human race and our living planet” (W 145 [cliii]); Sophia, “Glasnost, maybe. Chernobyl.” (W 208 [ccxvi])
 - Mülkiyet ve kamusallık: (W 38 [xlvi]), (W 65 [lxxiii]), (W 162 [clxx]), (W 146 [cliv])
@@ -322,7 +322,7 @@ Bu dil, "rekor"u yalnızca bugüne ait saymıyor, 1878, 1914, 1940, 1976, 1981, 
 - Karşı sesler: Brit, “Who taught you that paranoid rubbish?” (Sp 184); “Who died and made you the new Socrates?” / Florence, “I think if you're talking classically you might mean the new Cassandra” (Sp 185). Cassandra motifi iki kez vurgulanıyor: “who told people what was true about the future but nobody ever believed a word she said.” (Sp 234)
 - Susturma: Paddy'nin oğlu, “And don't talk about climate change or the rise of the right or the migrant crisis or Brexit or Windrush or Grenfell or the Irish border.” (Sp 68) İklim, susturulması istenen konular listesinin başında adıyla geçiyor.
 - Richard (yaşlı liberal): “Crazy weather out there.” (Sp 72); hayali kızının sesi, “So shouldn't we be treating the world better? … Since it's so much us? Since we're so literally made of it?” (Sp 110)
-- Florence'ın ayak izi: “I want to travel with no footprint” (Sp 174) (karbon ve dijital iz); “You might be, if you were environmentally minded” (Sp 175)
+- Florence'ın ayak izi: “I want to travel with no footprint” (Sp 173) (karbon ve dijital iz); “You might be, if you were environmentally minded” (Sp 175)
 - Yerel ve uzman sesi: Alda, Clearances'ı düzelten bir kütüphaneci (Sp 236); Cairngorms uyarısı (Sp 54).
 
 **İklimin yeri**
@@ -332,7 +332,7 @@ Bu dil, "rekor"u yalnızca bugüne ait saymıyor, 1878, 1914, 1940, 1976, 1981, 
 ### 3.4 *Summer*
 
 **Nedenler**
-- Fosil yakıt ve emisyon [ADIYLA "CO~2~ emissions"]: Sacha, “The prime minister said at the start of the week that CO~2~ emissions were cladding the world like a tea cosy.” / Charlotte, “Which demonstrates exactly how un-urgent he thinks things are and wants other people to think” (Su 93–94). Başbakanın adı verilmiyor, "cladding" kelimesi Grenfell'in kaplamasını da çağırıyor.
+- Fosil yakıt ve emisyon [ADIYLA "CO₂ emissions"]: Sacha, “The prime minister said at the start of the week that CO₂ emissions were cladding the world like a tea cosy.” / Charlotte, “Which demonstrates exactly how un-urgent he thinks things are and wants other people to think” (Su 93–94). Başbakanın adı verilmiyor, "cladding" kelimesi Grenfell'in kaplamasını da çağırıyor.
 - Petrol reddi: “Ms Car Embargo 2020” / “a refusal to travel in anything petrol-based” (Su 24); elektrikli araba, “It's electric” (Su 111)
 - Rüzgâr ve iklim [ADIYLA "climate shift", "climate damage"]: “The imagination is as free as the wind” / “Yeah, but the wind isn't free, his sister says. It's driven by climate shift and now by climate damage.” (Su 85)
 - Kanalizasyon ve altyapı: “the sewage spills over the last few years” (Su 93); 1858 [TARİFLE: Great Stink], “because it was just after they put the sewage system in … the system took all the sewage straight into the river, and it poisoned the river, thousands and thousands of people, well, died. / They both laugh.” (Su 303); Chei Bres'in septik tankı, “when my sister renovated it what she forgot to renovate was the sewage system … Including this house's foundational infrastructure.” (Su 343) Woolf epigrafıyla ("talking … about the cesspool" Su vii) birlikte romanın altyapı izleği.
@@ -355,7 +355,7 @@ Bu dil, "rekor"u yalnızca bugüne ait saymıyor, 1878, 1914, 1940, 1976, 1981, 
 - 1989'dan bir ses: John Mison'ın şarkısı (Su 302). İklim, dörtlünün anlatılan geçmişinde (1989) ilk kez şakayla adlandırılıyor.
 
 **İklimin yeri**
-- *Summer*'da iklim en geniş sözcük dağarcığıyla adlandırılıyor: climate (4), global warming (1), CO~2~/emissions (1), wildfire, "melted" continent. Ama yine bir listede ve bir nedenler ağının içinde duruyor: kayıtsızlık (Su 3–5), finans (Su 335–336), mülkiyet (Su 109), sınır ve gözaltı (Su 345), pandemi (Su 40).
+- *Summer*'da iklim en geniş sözcük dağarcığıyla adlandırılıyor: climate (4), global warming (1), CO₂/emissions (1), wildfire, "melted" continent. Ama yine bir listede ve bir nedenler ağının içinde duruyor: kayıtsızlık (Su 3–5), finans (Su 335–336), mülkiyet (Su 109), sınır ve gözaltı (Su 345), pandemi (Su 40).
 - **Kaynak/neden üzerine üst-yorum.** Roman nedenleri adlandırma sorusunu açıkça sahneye koyuyor:
   - Grace'in *The Winter's Tale* okuması: “It's just a blight. A blight comes down on him, on his mind and on his country from nowhere. It's irrational. It has no source.” (Su 282); “Like frost on flowers. A blight. It comes from absolutely nowhere.” (Su 283). Ginette'in itirazı: “Yeah but an infection still comes from something or somewhere” (Su 283).
   - Anne ile kız, alıntının kaynağı üzerine: “Source. It matters. Think why.” (Su 12)
@@ -369,7 +369,7 @@ Bu dil, "rekor"u yalnızca bugüne ait saymıyor, 1878, 1914, 1940, 1976, 1981, 
 
 | Neden kümesi | *Autumn* | *Winter* | *Spring* | *Summer* |
 |---|---|---|---|---|
-| Fosil yakıt, emisyon, motor | vintage cars (A 131); pit props (A 89–90) | "global-warming" (W 4 [xii]); Newlyn madencileri (W 191 [cxcix]) | "drill down to use up for money" (Sp 7); kobalt (Sp 251) | CO~2~ "tea cosy" (Su 93); petrol reddi (Su 24); Energol reklamı (Su 205) |
+| Fosil yakıt, emisyon, motor | vintage cars (A 131); pit props (A 89–90) | "global-warming" (W 4 [xii]); Newlyn madencileri (W 191 [cxcix]) | "drill down to use up for money" (Sp 7); kobalt (Sp 251) | CO₂ "tea cosy" (Su 93); petrol reddi (Su 24); Energol reklamı (Su 205) |
 | Plastik ve atık | (A 191) | (W 59 [lxvii]), (W 219 [ccxxvii]), (W 305 [cccxiii]), (W 163 [clxxi]) | (Sp 7) | (Su 115) |
 | Kimya, pestisit, savaş kimyası, altyapı | weedkiller (A 127) | Seveso (W 119 [cxxvii]); *Silent Spring* (W 123 [cxxxi]); sheep dip (W 128 [cxxxvi]); gaz ezberi (W 193 [cci]) | asbest (Sp 161); deet (Sp 134) | Worthing sisi ve kanalizasyon (Su 93); 1858 (Su 303); septik (Su 343) |
 | Nükleer | (A 243) | (W 25 [xxxiii]), (W 145 [cliii]), (W 208 [ccxvi]) | (Sp 184), (Sp 233) | Chernobyl (Su 304); Aldermaston/Porton Down (Su 95) |
@@ -411,7 +411,7 @@ Bu dil, "rekor"u yalnızca bugüne ait saymıyor, 1878, 1914, 1940, 1976, 1981, 
 |---|---|---|---|---|
 | climate | 0 | 1 | 4 | 4 |
 | global warming | 0 | 1 | 0 | 1 |
-| CO~2~ / emissions / carbon | 0 | 0 | 0 | 3 |
+| CO₂ / emissions / carbon | 0 | 0 | 0 | 3 |
 | balmy | 0 | 8 | 0 | 0 |
 | snow | 5 | 71 | 22 | 9 |
 | swift(s) | 1 | 3 | 0 | 17 |
@@ -441,7 +441,7 @@ Bu dil, "rekor"u yalnızca bugüne ait saymıyor, 1878, 1914, 1940, 1976, 1981, 
 | Hepworth taşları | Daniel'in "holy stone"u (A 214) | Sophia'nın dolabındaki "çocuk" taşı (W 267 [cclxxv]), Daniel'in evi (W 272 [cclxxx]) | — | "you've brought back the child" (Su 274) |
 | "Summer Brother Autumn Sister" | 1962 şarkısı ve 2016 reklamı (A 233–236) | — | — | 1940'ta Man Adası'nda Cyril Klein'la yazılışı (Su 191–192) |
 | SA4A | ortak arazideki çit (A 141) | SA4A Ents (W 70 [lxxviii]) | IRC işletmecisi (Sp 133) | SA4A POWER (Su 104); çit levhası (Su 309) |
-| Charlotte, Art, Iris | — | Cornwall Noeli {W} | — | Chei Bres'in göçmenlere açılışı (Su 342–347) |
+| Charlotte, Art, Iris | — | Cornwall Noeli (*Winter*'ın ana olay örgüsü) | — | Chei Bres'in göçmenlere açılışı (Su 342–347) |
 | Hero | — | — | IRC'de "you dream air" (Sp 160) | Sacha'nın mektupları ve cevabı (Su 117), (Su 377) |
 | Glorat su şişesi | — | “Unruined water.” (W 305 [cccxiii]) | — | Art'ın yatağının başında: “that old plastic water bottle he always keeps next to the bed” (Su 320) |
 | Kahve kamyonu, Alda | — | — | Auld Alliance (Sp 269–276) | “Friends drove us here in three trucks that sell coffee” (Su 378) |
@@ -542,12 +542,39 @@ Aşağıdaki eşleştirmeler metnin açık ya da örtük göndergeleri. Tezde ku
 
 ## 7. Yakın literatür: atıf gerektiren örtüşmeler
 
-Bu dosyadaki bazı gözlemler daha önce yayımlanmış çalışmalarda yer alıyor. Tezde bu gözlemler kullanılırken ilgili çalışmaya atıf yapılmalı:
+Aşağıdaki gözlemler daha önce yayımlanmış çalışmalarda yer alıyor. Tezde kullanılırken ilgili çalışmaya atıf yapılmalı. Ayrıntılı değerlendirme `yakin_literatur_ortusme_raporu.md` dosyasında. Parantez içindeki "s." numaraları eleştirmenlerin basılı sayfaları; Calder 2019'da sayfa numarası yok.
 
-- **Ara bölümlerin yapısı (4.4).** Her kitabın üç bölümünün sonuna yerleşen ay bölümleri, bunların *Winter*'da Art'ın "Art in Nature" bloguna bağlanması ve sonradan ortak yazıya dönüşmesi: Calder 2019. Calder'ın verdiği sayfalar (A 85; 177–178; 259–260 / W 89–91; 219–220; 321–322 / Sp 113–115; 217–220; 335–336) bu dosyadakilerle birebir aynı.
-- ***Spring*'deki mevsim sesinin Florence'ın defterine atfedilmesi (3.3, 3.5b):** Calder 2019 (Sp 199'a dayanarak). Bu dosyadaki Sp 323 (“the earth speaking, or time or her favourite season”) Calder'ın okumasını destekliyor ve genişletiyor.
-- **Florence, Greta Thunberg ve "twelve years" (3.3):** Calder 2019 ve Jordan 2019.
-- **"the great connective" (1.2):** Calder'ın makale başlığı.
-- **Daniel zinciri ve Hepworth taşı (4.1):** Calder 2019 (A 9–10, 214; W 251, 269; Sp 59).
-- **"Monoseason" (A 215), *Winter*'daki ılık Noel, farkında olma ve inkâr (2.1, 2.2, 3.4):** van Amelsvoort 2024 (C21 Literature 11.2). Makalenin tam metni bu dosya hazırlanırken okunamadı; ayrıntılı örtüşme kontrol edilmeli.
-- **Ekolojik kriz ile siyasal manzara arasındaki ilişki (ilk üç roman):** Byrne 2020 (Open Arts Journal 8).
+- **Calder 2019:**
+  - ara bölümlerin yapısı ve Art'ın bloguna bağlanması (4.4; W 91, 318);
+  - *Spring*'deki mevsim sesinin Florence'ın defterine ait olması (3.3, 3.5b; Sp 7–9, 199);
+  - Florence ve Greta (3.3); "the great connective" (1.2);
+  - Daniel zinciri ve Hepworth taşı (4.1).
+- **van Amelsvoort 2024:**
+  - "monoseason" (A 215; s. 1, 4); harita, sığınak ve "eroding edge" (A 54, Su 311; s. 8); A 177, 178, 195 (s. 12);
+  - "global-warming Christmas Eve" (W 4; s. 9); Charlotte ve Art (W 59; s. 9–10); Art'ın gerçek kış özlemi (W 214; s. 12); Sophia'nın zehir cümlesi (W 190; s. 13);
+  - Richard ve Paddy (Sp 65, 72; s. 10–11); Florence (Sp 184; s. 13);
+  - "so?" ve "hoax" (Su 4, 26; s. 8–9); Sacha'nın rüzgâr cümlesi (Su 85; s. 13); *The Winter's Tale* ve "merry tale" (Su 284, 289; s. 2);
+  - SA4A zinciri (s. 7); farkında olan / inkâr eden sesler ekseni (3.5b; s. 9–13).
+- **Byrne 2020:**
+  - Charlotte'un "Never mind literal climate change" cümlesi (W 58; s. 84);
+  - gündönümü tartışması ve Art'ın doğa blogu (W 58–59; s. 90–91); *Winter*'da iklimin ön plana çıkması (s. 89);
+  - harita sahnesi ve "mute witnessing" (A 54–55; s. 89); Namara Smith'ten aktarılan "only in passing" gözlemi (s. 89);
+  - "If we were seasons" ve Sp 184 (s. 91); *Winter*'ın "White Christmas"la bitişi (s. 91);
+  - Smith'in 2016 beyanı ve Derrida'nın "saying the event" kavramı (s. 85–86).
+- **Wiemann 2023:**
+  - mevsim başlıkları ile henüz biçim almamış şimdi arasındaki karşı-denge (temel soru; s. 26, 35);
+  - mevsimlerin "historical nature" olması ve küresel ısınma (W 4; s. 36); Quartet'in vakayiname kipi (s. 37);
+  - *Autumn*'daki çit, ortak arazinin çitle çevrilmesi ve bitkilerin "nothing" demesi (A 140–143; s. 31–33);
+  - mektupla biten son (s. 38–39).
+- **Bernard 2024:**
+  - çitin romanlar arası sürekliliği (4.2; s. 13); ortak araziler ve 1962 haritası (A 54–55; s. 16–17);
+  - kumrudan ebabile kuş imgesi (Su 119; s. 14–15); Richard'ın bulutları ve Hero'nun havası (Sp 79, 160; s. 21);
+  - Hepworth taşlarının birleşmesi (s. 20); Chei Bres'in kilitsiz evi (Su 347; s. 15).
+
+**Bu beş çalışmada bulunmayanlar** (literatür raporu §5):
+- *Winter*'ın kimyasal ve askerî nedensellik tarihi (3.2);
+- kayıt dili, "balmy", kar yokluğu ve ebabil fenolojisi (2.2, 2.5);
+- adlandırma ekonomisi ve zamanlaması (3.5c);
+- *Spring* ve *Summer*'daki altyapı, emisyon ve tedarik zinciri nedenleri (3.3, 3.4);
+- nükleerden iklime geçiş (4.3);
+- *Summer*'ın "open leaf" sonunu geri çevirmesi, kiriş ve sumor/sam (1.2, 4.7).
